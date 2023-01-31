@@ -1,0 +1,33 @@
+.footer {
+  padding-top: var(--space-l);
+  padding-bottom: var(--space-l);
+  background-color: var(--color-bg-dark);
+
+  & .inner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: var(--space-xl);
+    max-width: 640px;
+  }
+
+  & .box {
+    display: flex;
+    flex-direction: column;
+
+    @media (max-width: 560px) {
+      flex-basis: 40%;
+    }
+  }
+
+  & h6 {
+    color: var(--color-neutral-65);
+  }
+
+  & a {
+    color: var(--color-neutral-50);
+    &:hover {
+      color: var(--color-primary-main);
+    }
+  }
+}

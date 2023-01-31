@@ -1,0 +1,65 @@
+@custom-media --up_to_M screen and (max-width: 699px);
+@custom-media --up_to_L screen and (max-width: 1099px);
+@custom-media --M_to_L screen and (min-width: 700px) and (max-width: 1099px);
+@custom-media --M_and_up screen and (min-width: 700px);
+@custom-media --L_and_up screen and (min-width: 1100px);
+
+:root {
+  --color-white: #fff;
+  --color-black: #000;
+  --color-neutral-5: #ECECEC;
+  --color-neutral-10: #D4CECB;
+  --color-neutral-25: #BAADA7;
+  --color-neutral-50: #9F8C82;
+  --color-neutral-65: #7D675E;
+  --color-neutral-100: #2B1911;
+
+  --color-primary-dark-2: #963600;
+  --color-primary-dark-1: #C45104;
+  --color-primary-main: #F56522;
+  --color-primary-mild-2: #FFA171;
+  --color-primary-mild-1: #FCCCB6;
+
+  --color-bg-main-rgb: 255, 249, 246;
+  --color-bg-light: #FFFCFA;
+  --color-bg-main: rgb(var(--color-bg-main-rgb));
+  --color-bg-dark: #FEEDE5;
+
+  --color-body-text: var(--color-black);
+  --color-body-bg: var(--color-bg-main);;
+
+  --color-gradient-peachy: radial-gradient(110.76% 117.21% at 100% 0%, #FFA24C 0%, #FF7A50 50.25%, #FF4D42 100%);
+
+  --space-xs: 2px;
+  --space-s: 5px;
+  --space-m: 10px;
+  --space-l: 20px;
+  --space-xl: 40px;
+  --space-xxl: 60px;
+
+  --transition-duration-fast: .25s;
+  --transition-duration-medium: .4s;
+  --transition-duration-slow: .75s;
+
+  --border-radius: 16px;
+  --box-shadow-light: 0 0 16px rgba(43, 25, 17, 0.24);
+
+  --font-family-base: 'Baloo 2', sans-serif;
+
+  --font-weight-normal: 400;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 800;
+
+  --font-size-l: 1.5rem;
+  --font-size-xl: 2rem;
+  --font-size-xxl: 3rem;
+
+  @media (--up_to_M) {
+    --font-size-base: 16px;
+    --header-height: 4rem;
+  }
+  @media (--M_and_up) {
+    --font-size-base: 18px;
+    --header-height: 5rem;
+  }
+}

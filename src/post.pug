@@ -1,0 +1,10 @@
+extends /template.pug
+
+block main
+  section#blog.wrap
+    .date= (new Date(date)).toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' })
+    .post(id=name)
+      != html
+
+    .inner
+      a(href="/blog/") All blog posts
