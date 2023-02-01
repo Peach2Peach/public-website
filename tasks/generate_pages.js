@@ -1,12 +1,14 @@
 const pug = require('pug')
-const { mkdirSync, writeFileSync } = require('fs')
+const { mkdirSync, readFileSync, writeFileSync } = require('fs')
 const { dirname, resolve } = require('path')
-const { posts, pages } = require('../site-data.json')
 const config = require('../pug.config')
 
-const renderPage = (template, id, data = {}, lang = 'en') => {
-  const page = lang === 'en' ? id : `${lang}/${id}`
-  const dest = id === 'index' ? 'index.html' : `${id}/index.html`
+const { posts, pages } = JSON.parse(readFileSync(resolve(__dirname, '..', 'site-data.json')))
+
+const renderPage = (template, id, data = {}) => {
+  const { lang = 'en' } = data
+  const out = lang === 'en' ? id : `${lang}/${id}`
+  const dest = out === 'index' ? 'index.html' : `${out}/index.html`
   const tmpl = resolve(__dirname, '..', `src/${template}.pug`)
   const options = Object.assign({}, config, { template, lang, id }, data)
   const rendered = pug.renderFile(tmpl, options)
@@ -18,14 +20,12 @@ const renderPage = (template, id, data = {}, lang = 'en') => {
 }
 
 // pages
-renderPage('index', 'index')
 pages.forEach(page => {
-  renderPage('page', page.permalink, page)
+  const { template = 'page' } = page
+  renderPage(template, page.permalink, page)
 })
 
-
 // blog
-renderPage('blog', 'blog')
 posts.forEach(post => {
   renderPage('post', post.permalink, post)
 })

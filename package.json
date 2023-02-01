@@ -16,7 +16,7 @@
     "clean": "rm -rf rev-manifest.json site-data.json dist/*",
     "init": "npm-run-all -p build:data build:static",
     "start": "npm-run-all clean init -p start:*",
-    "start:pages": "onchange -i -k 'site-data.json' 'pug.config.js' 'markdown.js' 'src/**/*.pug' 'src/**/*.svg' 'tasks/generate_pages.js' -- npm run build:pages",
+    "start:pages": "onchange -i -k 'site-data.json' 'pug.config.js' 'markdown.js' 'src/**/*.pug' 'tasks/generate_pages.js' -- npm run build:pages",
     "start:styles": "onchange -i -k 'src/**/*.css' -- npm run build:styles",
     "start:data": "onchange -k 'blog/**/*' 'content/**/*' 'tasks/generate_site_data.js' -- npm run build:data",
     "start:serve": "browser-sync start --config browser-sync.config.js --watch",
@@ -27,8 +27,8 @@
     "build:styles": "postcss src/css/main.css --output dist/css/main.css",
     "optimize": "npm-run-all -p optimize:* -s rev",
     "optimize:styles": "csso dist/css/main.css --output dist/css/main.css",
-    "rev": "node-file-rev --root=dist dist/css/* dist/js/* dist/img/*.jpg dist/img/*.svg",
-    "prod": "npm-run-all build optimize -s build:pages"
+    "rev": "node-file-rev --root=dist dist/css/* dist/js/* dist/img/*.jpg dist/img/*.png dist/img/*.svg",
+    "prod": "npm-run-all -p build:static build:styles -s optimize build:data build:pages"
   },
   "devDependencies": {
     "autoprefixer": "10.4.13",
@@ -38,6 +38,7 @@
     "gray-matter": "4.0.3",
     "jstransformer-markdown-it": "3.0.0",
     "markdown-it": "13.0.1",
+    "markdown-it-replace-link": "1.2.0",
     "node-file-rev": "1.1.4",
     "npm-run-all": "4.1.5",
     "onchange": "7.1.0",
@@ -46,7 +47,6 @@
     "postcss-cli": "10.1.0",
     "postcss-custom-media": "9.1.1",
     "postcss-import": "15.1.0",
-    "postcss-media-variables": "2.0.1",
     "postcss-nesting": "11.1.0",
     "pug": "3.0.2"
   }

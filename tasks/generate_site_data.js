@@ -1,8 +1,8 @@
-const { readFileSync, readdirSync, writeFileSync } = require('fs')
-const { basename, join, relative, resolve } = require('path')
+const { readFileSync, writeFileSync } = require('fs')
+const { join, relative, resolve } = require('path')
 const glob = require('glob')
 const matter = require('gray-matter')
-const renderMarkdown = require('../markdown')
+const { renderMarkdown } = require('../helpers')
 const meta = require('../content/meta.json')
 
 const dir = resolve(__dirname, '..')
@@ -35,7 +35,6 @@ const pages = glob.sync(join(dir, 'content', '**', '*.md')).map(filePath => {
   const data = getMarkdown(filePath)
   const id = relative(join(dir, 'content'), filePath).replace('.md', '')
   data.id = data.permalink = id
-  data.filepath = filePath
   return data
 })
 
@@ -44,7 +43,6 @@ const posts = glob.sync(join(dir, 'blog', '**', '*.md')).map(filePath => {
   const [, date, name] = filePath.match(/(\d{4}-\d{2}-\d{2})-(.*)\./)
   data.date = toDate(date)
   data.name = name
-  data.filepath = filePath
   data.permalink = `blog/${data.name}`
   return data
 }).reverse()
