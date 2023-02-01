@@ -2,10 +2,12 @@
 
 ## Contact
 
-Telegram
-Twitter
-Discord
-Instagram
+- [Email](mailto:hello@peachbitcoin.com)
+- [Twitter](https://twitter.com/peachbitcoin)
+- [Telegram](https://t.me/+GkOW1J-ixBBkZWRk)
+- [Discord](https://discord.gg/ypeHz3SW54)
+- [Instagram](https://www.instagram.com/peachbitcoin/)
+
 
 ## FAQ
 

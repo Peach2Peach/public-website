@@ -31,6 +31,7 @@ h4,
 h5,
 h6 {
   font-weight: var(--font-weight-semibold);
+  line-height: 1;
 
   & a {
     color: currentColor;
@@ -39,28 +40,23 @@ h6 {
 }
 
 h1 {
-  font-size: var(--font-size-xxl);
-
-  @media (--up_to_M) {
-    line-height: 1.2;
-  }
-  @media (--M_and_up) {
-    line-height: 1.1;
-  }
+  font-size: var(--font-size-xxxl);
+  font-weight: var(--font-weight-bold);
+  margin-bottom: var(--space-m);
 }
 
 h2 {
-  line-height: 1;
   font-size: var(--font-size-xxl);
+  margin-bottom: var(--space-m);
 }
 
 h3 {
-  line-height: 1;
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-l);
+  margin-bottom: var(--space-xs);
+  line-height: 1.175;
 }
 
 h4 {
-  line-height: 1.5;
   font-size: var(--font-size-l);
 }
 
@@ -70,13 +66,13 @@ h5, h6 {
 
 a {
   outline: 0;
-  color: inherit;
+  color: var(--color-primary-main);
   text-decoration: none;
   transition-property: background, color;
   transition-duration: var(--transition-duration-fast);
 
   &:hover {
-    color: var(--color-primary-main);
+    text-decoration: underline;
   }
 
   & svg {
@@ -85,31 +81,27 @@ a {
   }
 }
 
-p {
-  margin-bottom: var(--space-l);
-}
-
-ul {
-  margin-bottom: var(--space-l);
-}
-
-ol {
-  margin-bottom: var(--space-l);
+p, ul, ol {
+  margin-bottom: var(--space-m);
 }
 
 p,
 ul,
 ol {
   & + h2 {
-    margin-top: var(--space-xl);
+    margin-top: var(--space-xxl);
   }
 
   & + h3,
   & + h4,
   & + h5,
   & + h6 {
-    margin-top: var(--space-l);
+    margin-top: var(--space-xl);
   }
+}
+
+strong {
+  color: var(--color-neutral-65);
 }
 
 img:-moz-loading {

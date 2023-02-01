@@ -1,8 +1,8 @@
 extends /template.pug
 
 block main
-  section#blog.wrap
-    h1 Blog
+  section.wrap.blog(id=name)
+    != html
     .posts
       each post in siteData.posts
         +postPreview(post)

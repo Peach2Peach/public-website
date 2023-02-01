@@ -1,4 +1,4 @@
-#blog {
+.blog {
   & .postPreview + .postPreview {
     margin-top: var(--space-xxl);
   }

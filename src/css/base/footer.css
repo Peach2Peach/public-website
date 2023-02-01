@@ -6,28 +6,33 @@
   & .inner {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    gap: var(--space-xl);
-    max-width: 640px;
+    gap: var(--space-l);
+
+    @media (--M_and_up) {
+      justify-content: space-between;
+    }
   }
 
   & .box {
     display: flex;
     flex-direction: column;
 
-    @media (max-width: 560px) {
-      flex-basis: 40%;
+    @media (--up_to_M) {
+      flex-basis: 8rem;
     }
   }
 
   & h6 {
     color: var(--color-neutral-65);
+    margin-bottom: var(--space-xs);
   }
 
   & a {
     color: var(--color-neutral-50);
+
     &:hover {
       color: var(--color-primary-main);
+      text-decoration: none;
     }
   }
 }

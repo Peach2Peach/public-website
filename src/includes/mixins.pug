@@ -8,8 +8,8 @@ mixin postPreview(post)
       div.image
         img(src=assetPath(post.teaser) alt=post.title)
     div.content
+      h3=post.title
       .date= (new Date(post.date)).toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' })
-      h4=post.title
       p=post.description
 
 mixin navItem(id, title)

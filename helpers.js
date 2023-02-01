@@ -19,7 +19,7 @@ const truncate = (str, wordCount) => {
 const linkTarget = url => url.startsWith('http') ? '_blank' : null
 const getRev = path => {
   let revs
-  try { revs = require('./rev-manifest.json') } catch (error) { console.error('no revs')}
+  try { revs = require('./rev-manifest.json') } catch (error) {}
   return revs && revs[path]
 }
 const assetPath = path => getRev(path) || path

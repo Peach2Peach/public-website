@@ -32,23 +32,27 @@
     justify-content: space-between;
   }
 
+  & a {
+    text-decoration: none !important;
+  }
+
   & .brand {
     display: flex;
     align-items: center;
     margin-right: auto;
-    font-size: var(--font-size-xl);
+    font-size: var(--font-size-xxl);
     font-weight: var(--font-weight-bold);
 
     & svg {
+      margin-right: var(--space-m);
+
       @media (--up_to_M) {
         width: 1.5rem;
         height: 2rem;
-        margin-right: var(--space-m);
       }
       @media (--M_and_up) {
         width: 2.15rem;
         height: 3rem;
-        margin-right: var(--space-l);
       }
     }
 
@@ -69,6 +73,11 @@
     font-size: 21px;
     font-weight: var(--font-weight-semibold);
     white-space: nowrap;
+    color: var(--color-neutral-100);
+
+    &:hover {
+      color: var(--color-primary-main);
+    }
   }
 
   @media (--up_to_M) {

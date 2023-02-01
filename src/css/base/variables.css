@@ -25,17 +25,17 @@
   --color-bg-main: rgb(var(--color-bg-main-rgb));
   --color-bg-dark: #FEEDE5;
 
-  --color-body-text: var(--color-black);
-  --color-body-bg: var(--color-bg-main);;
+  --color-body-text: var(--color-neutral-100);
+  --color-body-bg: var(--color-bg-main);
 
   --color-gradient-peachy: radial-gradient(110.76% 117.21% at 100% 0%, #FFA24C 0%, #FF7A50 50.25%, #FF4D42 100%);
 
-  --space-xs: 2px;
-  --space-s: 5px;
-  --space-m: 10px;
-  --space-l: 20px;
-  --space-xl: 40px;
-  --space-xxl: 60px;
+  --space-xs: .5rem;
+  --space-s: .75rem;
+  --space-m: 1rem;
+  --space-l: 1.5rem;
+  --space-xl: 2.25rem;
+  --space-xxl: 3rem;
 
   --transition-duration-fast: .25s;
   --transition-duration-medium: .4s;
@@ -51,8 +51,9 @@
   --font-weight-bold: 800;
 
   --font-size-l: 1.5rem;
-  --font-size-xl: 2rem;
-  --font-size-xxl: 3rem;
+  --font-size-xl: 1.75rem;
+  --font-size-xxl: 2rem;
+  --font-size-xxxl: 2.4rem;
 
   @media (--up_to_M) {
     --font-size-base: 16px;

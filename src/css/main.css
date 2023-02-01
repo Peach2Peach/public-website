@@ -7,4 +7,5 @@
 @import 'base/footer.css';
 
 /* Sections */
+@import 'sections/home.css';
 @import 'sections/blog.css';

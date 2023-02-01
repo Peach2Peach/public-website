@@ -2,6 +2,7 @@
 keywords:
   - Bitcoin
 cardImage: /img/blog/Blogpost1.png
-description: "Blogpost 1"
 ---
-# Blogpost 1
+# Here we are
+
+This is our first blog post. Nice, isn't it?

@@ -1,6 +1,5 @@
 /* https://gwfh.mranftl.com/fonts/baloo-2?subsets=latin */
 @font-face {
-  font-display: swap;
   font-family: 'Baloo 2';
   font-style: normal;
   font-weight: 400;
@@ -9,7 +8,6 @@
 }
 
 @font-face {
-  font-display: swap;
   font-family: 'Baloo 2';
   font-style: normal;
   font-weight: 600;
@@ -18,7 +16,6 @@
 }
 
 @font-face {
-  font-display: swap;
   font-family: 'Baloo 2';
   font-style: normal;
   font-weight: 800;
