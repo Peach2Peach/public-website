@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Belgian Bitcoin Embasse",
+    "url": "https://belgianbitcoinembassy.org",
+    "top": 50,
+    "left": 20,
+    "country": "BE",
+    "state": [
+      "Antwerp"
+    ],
+    "city": "Antwerp",
+    "longitude": 4.400278,
+    "latitude": 51.217778,
+    "twitter_username": null,
+    "website": "https://belgianbitcoinembassy.org"
+  },
+  {
+    "name": "Toulouse Bitcoin Meetup",
+    "url": "https://www.meetup.com/fr-FR/toulouse-bitcoin-meetup/",
+    "top": 17,
+    "left": 38,
+    "country": "FR",
+    "state": [
+      "Haute-Garonne",
+      "Occitanie"
+    ],
+    "city": "Toulouse",
+    "longitude": 1.444,
+    "latitude": 43.6045,
+    "twitter_username": null,
+    "website": null
+  }
+]
