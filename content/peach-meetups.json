@@ -2,32 +2,215 @@
   {
     "name": "Belgian Bitcoin Embasse",
     "url": "https://belgianbitcoinembassy.org",
-    "top": 50,
-    "left": 20,
-    "country": "BE",
-    "state": [
-      "Antwerp"
-    ],
-    "city": "Antwerp",
     "longitude": 4.400278,
-    "latitude": 51.217778,
-    "twitter_username": null,
-    "website": "https://belgianbitcoinembassy.org"
+    "latitude": 51.217778
   },
   {
     "name": "Toulouse Bitcoin Meetup",
     "url": "https://www.meetup.com/fr-FR/toulouse-bitcoin-meetup/",
-    "top": 17,
-    "left": 38,
-    "country": "FR",
-    "state": [
-      "Haute-Garonne",
-      "Occitanie"
-    ],
-    "city": "Toulouse",
     "longitude": 1.444,
-    "latitude": 43.6045,
-    "twitter_username": null,
-    "website": null
-  }
+    "latitude": 43.6045
+  },
+  {
+    "name": "Découvre Bitcoin Lyon",
+    "url": "https://t.me/bitcoinlyon",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Découvre Bitcoin Paris-Centre",
+    "url": "https://t.me/ParisCentreBitcoinMeetup",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Découvre Bitcoin Besançon",
+    "url": "https://bitcoin-meetup.gogocarto.fr/map#/fiche/Besancon/u/",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Découvre Bitcoin Lille",
+    "url": "https://t.me/+eSVkmOVRqPo0ZTM0",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Découvre Bitcoin Montpellier",
+    "url": "https://t.me/+XlEaAZvtEApjYzg0",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Breizh Bitcoin",
+    "url": "https://twitter.com/BreizhBitcoin ",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Découvre Bitcoin Marseille",
+    "url": "https://t.me/+zNCVx_hFshE4MWY0",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Découvre Bitcoin Bordeaux",
+    "url": "https://t.me/+aIjgpyYwt-83Y2U0",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Découvre Bitcoin Dijon",
+    "url": "https://t.me/DijonBitcoinMeetup",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Einundzwanzig Bonn",
+    "url": "https://einundzwanzig.space/meetups/",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Bitcoin Dresden",
+    "url": "https://bitcoin-dresden.de",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Einundzwanzig Düsseldorf",
+    "url": "https://www.meetup.com/de-DE/einundzwanzig-nrw-bitcoin-meetups-in-deiner-stadt/",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Einundzwanzig Frankfurt",
+    "url": "https://einundzwanzig.space/meetups/",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Einundzwanzig Köln",
+    "url": "https://einundzwanzig.space/meetups/",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Einundzwanzig Mannheim"
+    "url": "https://einundzwanzig.space/meetups/",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Satoshi's Lighthouse",
+    "url": "https://bitcoinlight.house",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Einundzwanzig OWL",
+    "url": "https://einundzwanzig.space/meetups/",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Einundzwanzig Regensburg",
+    "url": "https://einundzwanzig.space/meetups/",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Einundzwanzig Saarland",
+    "url": "https://einundzwanzig.saarland/",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Athens Bitcoin Meetup",
+    "url": "https://www.meetup.com/blockchaingreece-0/",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": Athens - "Hellenic Bitcoin",
+    "url": "https://t.me/hellenicbitcoin",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Nicosia Bitcoin Meetup",
+    "url": "https://www.meetup.com/nicosia-bitcoin/",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Satoshi Spritz Bologna",
+    "url": "https://t.me/SatoshiSpritzBologna",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Satoshi Spritz Roma",
+    "url": "https://t.me/SatoshiSpritzRoma",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Bacari & Bitcoin",
+    "url": "https://twitter.com/bitcoininvenice",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Bitcoin & Cards",
+    "url": "https://twitter.com/btcandcards",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Ljubljana Bitcoin Meetup",
+    "url": "https://t.me/+2xbb7IpoP0IyMDNk",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Barcelona Bitcoin Only",
+    "url": "https://bitcoinbarcelona.xyz",
+    "longitude": 4.400278,
+    "latitude": 51.217778 
+  },
+  {
+    "name": "Lausanne Bitcoin Meetup",
+    "url": "https://bitcoinlausanne.ch",
+    "longitude": 4.400278,
+    "latitude": 51.217778 
+  },
+  {
+    "name": "Leeds Bitcoin Network",
+    "url": "https://twitter.com/leedsbtc",
+    "longitude": 4.400278,
+    "latitude": 51.217778 
+  },
+  {
+    "name": "London Bitcoin Space",
+    "url": "https://twitter.com/LDNBTCSPACE",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Bitcoin Walk",
+    "url": "https://BitcoinWalk.org",
+    "longitude": 4.400278,
+    "latitude": 51.217778
+  },
+  {
+    "name": "Lisbon Bitcoin Maximalists",
+    "url": "https://www.meetup.com/lisbon-bitcoin-maximalists/",
+    "longitude": 4.400278,
+    "latitude": 51.217778 
+  },
+
+
+
+
 ]
