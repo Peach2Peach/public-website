@@ -1,5 +1,12 @@
 # Support
 
+We're here to help you. Feel free to let us know your question, concern, or bug report.
+
+We're available to respond to encrypted emails.
+Please send your email with your public key attached to [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com).
+
+Our PGP fingerprint: `XXXX XXXX XXXX XXXX XXXX`
+
 ## Contact
 
 - [Email](mailto:hello@peachbitcoin.com)
@@ -13,14 +20,15 @@
 
 ### How do I start?
 
-Peach is meant to be simple, we don’t doubt you would get there without our help. But we DO understand that every exposure to a new tool can
+Peach is meant to be simple, we don't doubt you would get there without our help.
+But we DO understand that every exposure to a new tool can
 be scary at first. So we sum up here your simple first steps:
 
 1. Download the app on your phone (link iOS - Google Play)
 2. Start the app for the first time, and go through the introduction screens.
-3. Select 'NEW USER'
+3. Select "NEW USER"
 4. You will be prompted to give in (and repeat) a Password of [at least 8 characters](https://xkcd.com/936/) long. Chose one that you are sure you can remember: We do not save this password on our servers for you! We have no way of recovering this password. Do not lose it!
-5. Press ‘Create account’ and the app does everything in the background for you, all you need to do is remember your password!
+5. Press "Create account" and the app does everything in the background for you, all you need to do is remember your password!
 6. You are ready to go for your first order!
 7. You can either go through a buy order or if you have some sats you want to sell already you might opt for your first order as a sell order.
 8. Once you make the order the app finds potential matches that correspond with your preferences and will notify you if a match is found
