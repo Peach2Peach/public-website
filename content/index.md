@@ -11,7 +11,3 @@ Sell at the price of your choice because peer-to-peer markets are the real marke
 Kyc-free Bitcoin are the best Bitcoin.
 
 ![Swipe, match, stack](/img/phones.png)
-
-## Join our Mission
-
-We aim to make stacking sats peer-to-peer the standard!

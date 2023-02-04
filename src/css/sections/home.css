@@ -5,6 +5,14 @@
   }
 }
 
+.social {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-m);
+}
+
 .newsletter-form {
   max-width: 29rem;
   color: var(--color-white);
