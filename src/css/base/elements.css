@@ -58,6 +58,7 @@ h3 {
 
 h4 {
   font-size: var(--font-size-l);
+  line-height: 1.175;
 }
 
 h5, h6 {
@@ -102,6 +103,40 @@ ol {
 
 strong {
   color: var(--color-neutral-65);
+}
+
+code {
+  color: var(--color-neutral-65);
+  font-size: var(--font-size-s);
+  font-family: monospace;
+}
+
+small {
+  font-size: var(--font-size-s);
+}
+
+input,
+button {
+  appearance: none;
+  font-family: var(--font-family-base);
+  font-size: 1.1rem;
+  font-weight: var(--font-weight-semibold);
+  padding: var(--space-xs) var(--space-m);
+  color: var(--color-body-text);
+  background-color: var(--color-white);
+  background-repeat: no-repeat;
+  border: 1px solid var(--color-white);
+  border-radius: var(--border-radius);
+  outline: none;
+
+  &:focus,
+  &:hover {
+    box-shadow: 0 0 var(--space-xs) var(--color-white);
+  }
+}
+
+button {
+  cursor: pointer;
 }
 
 img:-moz-loading {

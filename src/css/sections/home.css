@@ -4,3 +4,59 @@
     max-width: 480px;
   }
 }
+
+.newsletter-form {
+  max-width: 29rem;
+  color: var(--color-white);
+  background: var(--color-gradient-peachy);
+  padding: var(--space-m) var(--space-l);
+  border-radius: var(--border-radius);
+
+  & h4 {
+    margin-bottom: var(--space-m);
+  }
+
+  & a {
+    color: inherit;
+    text-decoration: underline;
+  }
+
+  & div {
+    margin-bottom: var(--space-m);
+
+    &.check {
+      display: flex;
+      align-items: start;
+      gap: var(--space-s);
+    }
+  }
+
+  & label {
+    display: block;
+    margin-bottom: var(--space-xxs);
+  }
+
+  & input[type="text"] {
+    width: 100%;
+  }
+
+  & input[type="checkbox"] {
+    width: var(--space-s);
+    height: var(--space-s);
+    padding: var(--space-s);
+    border-radius: var(--space-xs);
+
+    &:checked {
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3e%3cpath fill='none' stroke='%23F56522' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='m6 10 3 3 6-6'/%3e%3c/svg%3e");
+    }
+  }
+
+  button[type="submit"] {
+    transition-property: color;
+    transition-duration: var(--transition-duration-fast);
+
+    &:hover {
+      color: var(--color-primary-main);
+    }
+  }
+}

@@ -30,6 +30,7 @@
 
   --color-gradient-peachy: radial-gradient(110.76% 117.21% at 100% 0%, #FFA24C 0%, #FF7A50 50.25%, #FF4D42 100%);
 
+  --space-xxs: .25rem;
   --space-xs: .5rem;
   --space-s: .75rem;
   --space-m: 1rem;
@@ -50,6 +51,7 @@
   --font-weight-semibold: 600;
   --font-weight-bold: 800;
 
+  --font-size-s: .925rem;
   --font-size-l: 1.5rem;
   --font-size-xl: 1.75rem;
   --font-size-xxl: 2rem;

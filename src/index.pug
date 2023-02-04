@@ -8,3 +8,18 @@ block main
       strong Swipe, match, stack — Buy &amp; Sell Bitcoin peer-to-peer
 
     != html
+
+    form.newsletter-form(method="POST" action="https://5dcdd79e.sibforms.com/serve/MUIEAGjzL2fItMY1cwWaIXk6UiGKmh6OFwDRRA3wjUptuI7KEG1oWd0-a1M8fGC4apXeJkr9xTZPG-HK-Cyl0Zs8OEyH-qMndMqnE5MgP-0WVFz9ryAKU_te8XOKoOStliGWWB1LTjgioz5XpKeH-rihs5STRci4aD12qb4jAeOqrVXbV8E4wJKLWDVaEgrLzrIY612Qgi2V1KQq")
+      h4 Subscribe to our mailing list to stay up to date with important Peach updates
+      div
+        label(for="email") Enter your email address to subscribe
+        input#email(type="text" name="EMAIL" autocomplete="off" placeholder="Your email address" required)
+      div.check
+        input#optin(type="checkbox" value="1" name="OPT_IN")
+        label(for="optin") I agree to receive your newsletters and accept the <a href="/privacyPolicy.html">data privacy</a> statement.
+      p
+        small You may unsubscribe at any time using the link in our newsletter.
+      button(type="submit") Subscribe
+      input(type="hidden" name="email_address_check" value="")
+      input(type="hidden" name="locale" value="en")
+      input(type="hidden" name="html_type" value="simple")
