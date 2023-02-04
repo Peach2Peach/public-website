@@ -26,7 +26,7 @@
 
     &.check {
       display: flex;
-      align-items: start;
+      align-items: flex-start;
       gap: var(--space-s);
     }
   }
@@ -51,7 +51,7 @@
     }
   }
 
-  button[type="submit"] {
+  & button[type="submit"] {
     transition-property: color;
     transition-duration: var(--transition-duration-fast);
 

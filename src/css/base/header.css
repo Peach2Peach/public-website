@@ -7,7 +7,7 @@
   display: flex;
   align-items: center;
   height: var(--header-height);
-  background-color: var(--color-bg-light);
+  background: var(--color-gradient-peachy);
 
   &::after {
     content: '';
@@ -44,6 +44,7 @@
     font-weight: var(--font-weight-bold);
 
     & svg {
+      fill: var(--color-white);
       margin-right: var(--space-m);
 
       @media (--up_to_M) {
@@ -57,10 +58,13 @@
     }
 
     & span {
-      white-space: nowrap;
-      background: var(--color-gradient-peachy);
-      background-clip: text;
-      color: transparent;
+      color: var(--color-white);
+    }
+
+    &:hover {
+      & #leafs {
+        fill: #05a85a;
+      }
     }
   }
 }
@@ -73,11 +77,6 @@
     font-size: 21px;
     font-weight: var(--font-weight-semibold);
     white-space: nowrap;
-    color: var(--color-neutral-100);
-
-    &:hover {
-      color: var(--color-primary-main);
-    }
   }
 
   @media (--up_to_M) {
@@ -91,7 +90,7 @@
     flex-direction: column;
     background: rgba(var(--color-bg-main-rgb), .7);
     transition: left var(--transition-duration-medium) ease-in-out;
-    backdrop-filter: blur(var(--space-s));
+    backdrop-filter: blur(var(--space-xs));
 
     & > a {
       flex: 0 0 72px;
@@ -100,11 +99,26 @@
       padding: var(--space-l);
       text-align: center;
       overflow: hidden;
+      color: var(--color-body-text);
       background: var(--color-bg-main);
+
+      &:hover {
+        color: var(--color-primary-main);
+      }
     }
   }
   @media (--M_and_up) {
     gap: var(--space-l);
+
+    & > a {
+      color: var(--color-white);
+      opacity: var(--opacity-text);
+      transition: opacity var(--transition-duration-fast);
+
+      &:hover {
+        opacity: 1;
+      }
+    }
   }
 }
 
@@ -138,11 +152,12 @@
   width: var(--size);
   height: var(--size);
   overflow: hidden;
-  color: var(--color-neutral-50);
-  transition: color var(--transition-duration-fast);
+  color: var(--color-white);
+  opacity: var(--opacity-text);
+  transition: opacity var(--transition-duration-fast);
 
   &:hover {
-    color: var(--color-primary-main);
+    opacity: 1;
   }
 
   & svg {

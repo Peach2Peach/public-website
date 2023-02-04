@@ -28,7 +28,10 @@
   --color-body-text: var(--color-neutral-100);
   --color-body-bg: var(--color-bg-main);
 
-  --color-gradient-peachy: radial-gradient(110.76% 117.21% at 100% 0%, #FFA24C 0%, #FF7A50 50.25%, #FF4D42 100%);
+  --color-gradient-peachy: radial-gradient(110.76% 117.21% at 100% 0%,
+    rgba(255, 162, 76, var(--alpha-gradient-peachy, 1)) 0%,
+    rgba(255, 122, 80, var(--alpha-gradient-peachy, 1)) 50.25%,
+    rgba(255, 77, 66, var(--alpha-gradient-peachy, 1)) 100%);
 
   --space-xxs: .25rem;
   --space-xs: .5rem;
@@ -42,6 +45,7 @@
   --transition-duration-medium: .4s;
   --transition-duration-slow: .75s;
 
+  --opacity-text: .825;
   --border-radius: 16px;
   --box-shadow-light: 0 0 16px rgba(43, 25, 17, 0.24);
 

@@ -1,5 +1,5 @@
 .wrap {
-  max-width: 960px;
+  max-width: 1140px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -22,8 +22,14 @@
 
 .main {
   flex: 1;
-  padding-top: var(--space-l);
   padding-bottom: var(--space-xxl);
+
+  @media (--up_to_L) {
+    padding-top: var(--space-l);
+  }
+  @media (--L_and_up) {
+    padding-top: var(--space-xl);
+  }
 
   & li {
     margin-left: var(--space-l);
