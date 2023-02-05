@@ -42,18 +42,29 @@
     margin-right: auto;
     font-size: var(--font-size-xxl);
     font-weight: var(--font-weight-bold);
+    gap: var(--space-m);
 
-    & svg {
-      fill: var(--color-white);
-      margin-right: var(--space-m);
+    & .logo {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: var(--color-white);
+      width: var(--size);
+      height: var(--size);
+      padding: var(--spacing);
+      border-radius: var(--spacing);
 
       @media (--up_to_M) {
-        width: 1.5rem;
-        height: 2rem;
+        --size: 2rem;
+        --spacing: var(--space-xs);
       }
       @media (--M_and_up) {
-        width: 2.15rem;
-        height: 3rem;
+        --size: 3rem;
+        --spacing: var(--space-s);
+      }
+
+      & svg {
+        flex: 1 1 100%;
       }
     }
 
