@@ -25,7 +25,7 @@
     background: var(--color-gradient-peachy);
 
     &::after {
-      box-shadow: var(--box-shadow-light);
+      box-shadow: var(--box-shadow-strong);
     }
   }
 

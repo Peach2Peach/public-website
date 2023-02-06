@@ -48,6 +48,7 @@
   --opacity-text: .825;
   --border-radius: 16px;
   --box-shadow-light: 0 0 16px rgba(43, 25, 17, 0.24);
+  --box-shadow-strong: 0 0 8px rgba(43, 25, 17, 0.32);
 
   --font-family-base: 'Baloo 2', sans-serif;
 
@@ -68,5 +69,23 @@
   @media (--M_and_up) {
     --font-size-base: 18px;
     --header-height: 5rem;
+  }
+
+  /* Content */
+  --main-padding-top: var(--header-height);
+  --main-padding-bottom: var(--space-xxl);
+  --section-padding-bottom: var(--space-xxl);
+
+  @media (--up_to_M) {
+    --wrap-padding-horizontal: var(--space-l);
+    --section-padding-top: var(--space-l);
+  }
+  @media (--M_to_L) {
+    --wrap-padding-horizontal: var(--space-xl);
+    --section-padding-top: var(--space-l);
+  }
+  @media (--L_and_up) {
+    --wrap-padding-horizontal: var(--space-xxl);
+    --section-padding-top: var(--space-xl);
   }
 }

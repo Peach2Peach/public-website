@@ -4,31 +4,11 @@
   margin-right: auto;
   padding-left: var(--wrap-padding-horizontal);
   padding-right: var(--wrap-padding-horizontal);
-
-  @media (--up_to_M) {
-    --wrap-padding-horizontal: var(--space-l);
-  }
-  @media (--M_to_L) {
-    --wrap-padding-horizontal: var(--space-xl);
-  }
-  @media (--L_and_up) {
-    --wrap-padding-horizontal: var(--space-xxl);
-  }
 }
 
 .main {
-  --main-padding-top: var(--header-height);
-  --main-padding-bottom: var(--space-xxl);
-
   padding-top: var(--main-padding-top);
   padding-bottom: var(--main-padding-bottom);
-
-  @media (--up_to_L) {
-    --section-padding-top: var(--space-l);
-  }
-  @media (--L_and_up) {
-    --section-padding-top: var(--space-xl);
-  }
 
   flex: 1;
 

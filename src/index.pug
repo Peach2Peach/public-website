@@ -2,14 +2,18 @@ extends /template.pug
 
 block teaser
   section.teaser
-    .wrap
-      h1 Peach Bitcoin
-      p
-        strong Swipe, match, stack — Buy &amp; Sell Bitcoin peer-to-peer
-      img(src=assetPath('/img/phones.png') alt="Swipe, match, stack")
+    h1 Peach Bitcoin
+    h2
+      = "Buy & Sell Bitcoin "
+      span peer-to-peer
+    .download
+      a.button(href=siteData.meta.iosUrl) Download on iPhone
+      a.button(href=siteData.meta.androidUrl) Download on Android
+    img(src=assetPath('/img/phones.png') alt="Swipe, match, stack")
+    a.scroll(href="#header-anchor"): +sprite("down")
 
 block main
-  section.wrap.home
+  section.wrap
     != html
 
     article
@@ -31,7 +35,7 @@ block main
         label(for="optin") I agree to receive your newsletters and accept the <a href="/privacyPolicy.html">data privacy</a> statement.
       p
         small You may unsubscribe at any time using the link in our newsletter.
-      button(type="submit") Subscribe
+      button.button(type="submit") Subscribe
       input(type="hidden" name="email_address_check" value="")
       input(type="hidden" name="locale" value="en")
       input(type="hidden" name="html_type" value="simple")

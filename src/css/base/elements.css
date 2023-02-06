@@ -144,22 +144,36 @@ input {
   }
 }
 
-button {
-  display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: 0.036em;
-  cursor: pointer;
-  border-radius: 3em;
-  text-transform: uppercase;
-  font-weight: var(--font-weight-semibold);
-  padding: var(--space-xs) var(--space-l);
-}
-
 img:-moz-loading {
   visibility: hidden;
 }
 
 [aria-hidden="true"] {
   display: none;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3em;
+  padding: var(--space-xs) var(--space-l);
+  cursor: pointer;
+  outline: none;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: var(--font-weight-semibold);
+  font-family: var(--font-family-base);
+  font-size: 1.1rem;
+  background-color: var(--color-white);
+  background-repeat: no-repeat;
+  color: var(--color-body-text);
+  transition-property: color;
+  transition-duration: var(--transition-duration-fast);
+  box-shadow: var(--box-shadow-strong);
+
+  &:hover {
+    color: var(--color-primary-main);
+    text-decoration: none;
+  }
 }
