@@ -80,12 +80,11 @@
 
     & span {
       color: var(--color-white);
+      transition: text-shadow var(--transition-duration-fast);
     }
 
-    &:hover {
-      & #leafs {
-        fill: #05a85a;
-      }
+    &:hover span {
+      text-shadow: var(--box-shadow-strong);
     }
   }
 }
@@ -133,11 +132,10 @@
 
     & > a {
       color: var(--color-white);
-      opacity: var(--opacity-text);
-      transition: opacity var(--transition-duration-fast);
+      transition: text-shadow var(--transition-duration-fast);
 
       &:hover {
-        opacity: 1;
+        text-shadow: var(--box-shadow-strong);
       }
     }
   }
