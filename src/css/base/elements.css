@@ -102,6 +102,7 @@ ol {
 
 strong {
   color: var(--color-neutral-65);
+  font-weight: var(--font-weight-semibold);
 }
 
 code {
