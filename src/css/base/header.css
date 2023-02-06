@@ -21,8 +21,18 @@
     transition: box-shadow var(--transition-duration-medium);
   }
 
-  &.topbar::after {
-    box-shadow: var(--box-shadow-light);
+  &.topbar {
+    background: var(--color-gradient-peachy);
+
+    &::after {
+      box-shadow: var(--box-shadow-light);
+    }
+  }
+
+  /* blur effect on home */
+  @nest body#index > &:not(.topbar) {
+    backdrop-filter: blur(var(--space-xs));
+    background: none;
   }
 
   & .wrap {
@@ -141,13 +151,10 @@
 
 /* Triggers the topbar box-shadow style */
 #header-anchor {
-  position: absolute;
-  z-index: -5;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: var(--header-height);
+  height: 0;
   pointer-events: none;
+  margin-top: calc(var(--header-height) * -1);
+  margin-bottom: var(--header-height);
 }
 
 /* Mobile menu */

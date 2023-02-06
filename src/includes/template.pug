@@ -39,7 +39,7 @@ html(lang=lang)
     link(rel="mask-icon" href=assetPath("/img/favicon/safari-pinned-tab.svg") color=themeColor)
     link(rel="stylesheet" href=assetPath("/css/main.css"))
     title= pageTitle
-  body
+  body(id=slugify(permalink))
     header.header#header
       .wrap
         a(href="/").brand
@@ -56,8 +56,9 @@ html(lang=lang)
           +navItem("for-meetups", "For Meetups")
           +navItem("blog", "Blog")
           +navItem("support", "Support")
-    #header-anchor
+    block teaser
     main.main
+      #header-anchor
       block main
     footer#footer.footer
       .wrap

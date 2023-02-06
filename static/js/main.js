@@ -4,19 +4,15 @@ document.addEventListener("DOMContentLoaded", () => {
   const $headerAnchor = document.querySelector('#header-anchor')
   const $headerLinks = document.querySelectorAll('#header a')
   const $header = document.querySelector('#header')
+  const $teaser = document.querySelector('.teaser')
 
   // Topbar
   const topbarClass = 'topbar'
-  const topbarAppearClass = 'topbar--appear'
   const addTopbar = () => {
     $header.classList.add(topbarClass)
-    window.setTimeout(() => {
-      $header.classList.add(topbarAppearClass)
-    }, 25)
   }
   const removeTopbar = () => {
     $header.classList.remove(topbarClass)
-    $header.classList.remove(topbarAppearClass)
   }
 
   $headerLinks.forEach($link => {
@@ -28,14 +24,18 @@ document.addEventListener("DOMContentLoaded", () => {
   $showMenu.addEventListener('change', e => {
     if ($showMenu.checked) {
       addTopbar()
+    } else if ($headerAnchor.getBoundingClientRect().y > 0) {
+      window.setTimeout(() => {
+        removeTopbar()
+      }, 500)
     }
   })
 
   if ('IntersectionObserver' in window) {
     if ($body) {
       const headerObserver = new IntersectionObserver(entries => {
-        const { target, boundingClientRect: { y, height } } = entries[0]
-        if (Math.abs(y) > height) {
+        const { boundingClientRect: { y } } = entries[0]
+        if (y < 0) {
           addTopbar()
         } else if (!$showMenu.checked) {
           removeTopbar()

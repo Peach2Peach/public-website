@@ -1,12 +1,15 @@
 extends /template.pug
 
+block teaser
+  section.teaser
+    .wrap
+      h1 Peach Bitcoin
+      p
+        strong Swipe, match, stack — Buy &amp; Sell Bitcoin peer-to-peer
+      img(src=assetPath('/img/phones.png') alt="Swipe, match, stack")
+
 block main
-  section.wrap.home(id=name)
-    h1 Peach Bitcoin
-
-    p
-      strong Swipe, match, stack — Buy &amp; Sell Bitcoin peer-to-peer
-
+  section.wrap.home
     != html
 
     article

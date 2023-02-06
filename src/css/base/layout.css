@@ -2,33 +2,39 @@
   max-width: 1140px;
   margin-left: auto;
   margin-right: auto;
-}
+  padding-left: var(--wrap-padding-horizontal);
+  padding-right: var(--wrap-padding-horizontal);
 
-.wrap,
-.modal {
   @media (--up_to_M) {
-    padding-left: var(--space-l);
-    padding-right: var(--space-l);
+    --wrap-padding-horizontal: var(--space-l);
   }
   @media (--M_to_L) {
-    padding-left: var(--space-xl);
-    padding-right: var(--space-xl);
+    --wrap-padding-horizontal: var(--space-xl);
   }
   @media (--L_and_up) {
-    padding-left: var(--space-xxl);
-    padding-right: var(--space-xxl);
+    --wrap-padding-horizontal: var(--space-xxl);
   }
 }
 
 .main {
-  flex: 1;
-  padding-bottom: var(--space-xxl);
+  --main-padding-top: var(--header-height);
+  --main-padding-bottom: var(--space-xxl);
+
+  padding-top: var(--main-padding-top);
+  padding-bottom: var(--main-padding-bottom);
 
   @media (--up_to_L) {
-    padding-top: var(--space-l);
+    --section-padding-top: var(--space-l);
   }
   @media (--L_and_up) {
-    padding-top: var(--space-xl);
+    --section-padding-top: var(--space-xl);
+  }
+
+  flex: 1;
+
+  & section {
+    padding-top: var(--section-padding-top);
+    padding-bottom: var(--section-padding-bottom);
   }
 
   & li {
