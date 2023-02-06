@@ -1,3 +1,6 @@
+---
+template: meetups
+---
 # For meetups
 
 Peach app includes a feature which almost no one else is offering right now: *Bitcoin Cash Trades.*

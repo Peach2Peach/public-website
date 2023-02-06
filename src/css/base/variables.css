@@ -28,6 +28,12 @@
   --color-body-text: var(--color-neutral-100);
   --color-body-bg: var(--color-bg-main);
 
+  --color-border-light: var(--color-neutral-25);
+  --color-border-medium: var(--color-neutral-50);
+
+  --color-map-region: var(--color-border-light);
+  --color-map-outline: var(--color-neutral-50);
+
   --bg-gradient-peachy: radial-gradient(110.76% 117.21% at 100% 0%,
     rgba(255, 162, 76, var(--alpha-gradient-peachy, 1)) 0%,
     rgba(255, 122, 80, var(--alpha-gradient-peachy, 1)) 50.25%,

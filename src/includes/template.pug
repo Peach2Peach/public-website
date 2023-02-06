@@ -39,6 +39,7 @@ html(lang=lang)
     link(rel="mask-icon" href=assetPath("/img/favicon/safari-pinned-tab.svg") color=themeColor)
     link(rel="stylesheet" href=assetPath("/css/main.css"))
     title= pageTitle
+    block pageScripts
   body(id=slugify(permalink))
     header.header#header
       .wrap

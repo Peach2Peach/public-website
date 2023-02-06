@@ -1,0 +1,20 @@
+extends /template.pug
+
+block pageScripts
+  script(src=assetPath("/vendor/jvectormap/jquery.min.js"))
+  script(src=assetPath("/vendor/jvectormap/jquery-jvectormap.js"))
+  script(src=assetPath("/vendor/jvectormap/maps/europe_mill.js"))
+  link(href=assetPath("/vendor/jvectormap/jquery-jvectormap.css") rel="stylesheet")
+
+block main
+  section.wrap.page(id=name)
+    != html
+  div(style="margin-bottom: calc(var(--space-xxl) * -1)")
+    +map('meetupMap', siteData.meetups.map(m => JSON.stringify({
+        name: m.name,
+        latLng: [m.latitude, m.longitude],
+        url: m.url,
+        style: {
+          fill: 'var(--color-primary-main)'
+        }
+      })).join(','))

@@ -14,3 +14,40 @@ mixin postPreview(post)
 
 mixin navItem(id, title)
   a(href=`/${id}/` class=(navCurrent === id && 'current'))&attributes(attributes)= title
+
+mixin map(id, markers)
+  .vectorMap(id=id)
+  script.
+    const markers = [!{markers}];
+    // https://jvectormap.com/documentation/javascript-api/jvm-map/
+    new jvm.MultiMap({
+      container: $(`#!{id}`),
+      maxLevel: 0,
+      main: {
+        map: 'europe_mill',
+        backgroundColor: 'transparent',
+        markers,
+        focusOn: ['DE', 'FR', 'BE'],
+        regionStyle: {
+          initial: {
+            'fill': 'var(--color-map-region)',
+            'stroke': 'var(--color-map-outline)',
+            'stroke-width': .25
+          },
+          hover: {
+            'fill-opacity': .8,
+            cursor: 'pointer'
+          }
+        },
+        onMarkerClick(event, index) {
+          const marker = markers[index]
+          if (marker.url) window.open(marker.url, '_blank');
+        }
+      },
+      mapUrlByCode(code, multiMap) {
+        return `/vendor/jvectormap/maps/${code.toLowerCase()}_${multiMap.defaultProjection}.js`;
+      },
+      mapNameByCode(code, multiMap) {
+        return `${code.toLowerCase()}_${multiMap.defaultProjection}`;
+      }
+    });

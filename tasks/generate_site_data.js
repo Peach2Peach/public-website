@@ -4,6 +4,7 @@ const glob = require('glob')
 const matter = require('gray-matter')
 const { renderMarkdown } = require('../helpers')
 const meta = require('../content/meta.json')
+const meetups = require('../content/peach-meetups.json')
 
 const dir = resolve(__dirname, '..')
 const dst = join(dir, 'site-data.json')
@@ -50,7 +51,8 @@ const posts = glob.sync(join(dir, 'blog', '**', '*.md')).map(filePath => {
 const data = {
   meta,
   pages,
-  posts
+  posts,
+  meetups
 }
 const json = JSON.stringify(data, null, 2)
 
