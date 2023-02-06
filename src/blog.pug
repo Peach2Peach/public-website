@@ -2,7 +2,8 @@ extends /template.pug
 
 block main
   section.wrap.blog
-    != html
+    .content-wrap
+      != html
     .posts
       each post in siteData.posts
         +postPreview(post)

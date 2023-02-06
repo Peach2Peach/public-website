@@ -13,10 +13,12 @@ block teaser
     a.scroll(href="#header-anchor"): +sprite("down")
 
 block main
-  section.wrap
-    != html
+  section#top.wrap
+    .content-wrap
+      != html
 
-    article
+  section#mission.wrap
+    .content-wrap
       h2 Join our Mission
       p We aim to make stacking sats peer-to-peer the standard!
       div.social
@@ -25,6 +27,7 @@ block main
         a(href=siteData.meta.discordUrl target="_blank" rel="noreferrer noopener"): +sprite("discord", "Discord")
         a(href=siteData.meta.instagramUrl target="_blank" rel="noreferrer noopener"): +sprite("instagram", "Instagram")
 
+  section#newsletter.wrap
     form.newsletter-form(method="POST" action="https://5dcdd79e.sibforms.com/serve/MUIEAGjzL2fItMY1cwWaIXk6UiGKmh6OFwDRRA3wjUptuI7KEG1oWd0-a1M8fGC4apXeJkr9xTZPG-HK-Cyl0Zs8OEyH-qMndMqnE5MgP-0WVFz9ryAKU_te8XOKoOStliGWWB1LTjgioz5XpKeH-rihs5STRci4aD12qb4jAeOqrVXbV8E4wJKLWDVaEgrLzrIY612Qgi2V1KQq")
       h4 Subscribe to our mailing list to stay up to date with important Peach updates
       div
@@ -40,8 +43,15 @@ block main
       input(type="hidden" name="locale" value="en")
       input(type="hidden" name="html_type" value="simple")
 
-    article
+  section#bottom.wrap
+    .content-wrap
       h2 About Us
       p Peach, the company, is born from people who believe in the hardest money that has ever existed, and want to make it accessible to the whole world without compromising the fundamental aspects of Bitcoin.
-      p Are you one of those? Check out our Join Us section, maybe we can work together!
-      p If you want to know more about the company, check out our blog posts talking about how everything started, and how we got here.
+      p
+        = "Are you one of those? Check out our "
+        a(href="/join-us/") Join Us
+        = " section, maybe we can work together!"
+      p
+        = "If you want to know more about the company, check out our "
+        a(href="/blog/") blog posts
+        = " talking about how everything started, and how we got here."

@@ -57,19 +57,9 @@
   --font-weight-bold: 800;
 
   --font-size-s: .925rem;
-  --font-size-l: 1.5rem;
   --font-size-xl: 1.75rem;
   --font-size-xxl: 2rem;
   --font-size-xxxl: 2.4rem;
-
-  @media (--up_to_M) {
-    --font-size-base: 16px;
-    --header-height: 4rem;
-  }
-  @media (--M_and_up) {
-    --font-size-base: 18px;
-    --header-height: 5rem;
-  }
 
   /* Content */
   --main-padding-top: var(--header-height);
@@ -77,14 +67,23 @@
   --section-padding-bottom: var(--space-xxl);
 
   @media (--up_to_M) {
+    --font-size-base: 16px;
+    --font-size-l: 1.25rem;
+    --header-height: 4rem;
     --wrap-padding-horizontal: var(--space-l);
     --section-padding-top: var(--space-l);
   }
   @media (--M_to_L) {
+    --font-size-base: 18px;
+    --font-size-l: 1.5rem;
+    --header-height: 5rem;
     --wrap-padding-horizontal: var(--space-xl);
     --section-padding-top: var(--space-l);
   }
   @media (--L_and_up) {
+    --font-size-base: 20px;
+    --font-size-l: 1.5rem;
+    --header-height: 5rem;
     --wrap-padding-horizontal: var(--space-xxl);
     --section-padding-top: var(--space-xl);
   }

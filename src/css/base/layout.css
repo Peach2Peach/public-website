@@ -1,9 +1,13 @@
 .wrap {
-  max-width: 1140px;
+  max-width: 1280px;
   margin-left: auto;
   margin-right: auto;
   padding-left: var(--wrap-padding-horizontal);
   padding-right: var(--wrap-padding-horizontal);
+}
+
+.content-wrap {
+  max-width: 42em;
 }
 
 .main {

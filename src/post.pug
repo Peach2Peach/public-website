@@ -2,9 +2,10 @@ extends /template.pug
 
 block main
   section.wrap.post
-    != html
+    .content-wrap
+      != html
 
-    p.date= (new Date(date)).toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' })
+      p.date= (new Date(date)).toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' })
 
-    p
-      a(href="/blog/") All blog posts
+      p
+        a(href="/blog/") All blog posts

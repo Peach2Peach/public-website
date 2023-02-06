@@ -8,7 +8,7 @@
     flex-wrap: wrap;
     gap: var(--space-l);
 
-    @media (--M_and_up) {
+    @media (--L_and_up) {
       justify-content: space-between;
     }
   }
@@ -17,8 +17,8 @@
     display: flex;
     flex-direction: column;
 
-    @media (--up_to_M) {
-      flex-basis: 8rem;
+    @media (--up_to_L) {
+      flex-basis: 30%;
     }
   }
 

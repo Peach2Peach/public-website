@@ -141,6 +141,11 @@
       }
     }
   }
+  @media (--L_and_up) {
+    & > a {
+      font-size: 1.25rem;
+    }
+  }
 }
 
 @media (--M_and_up) {
