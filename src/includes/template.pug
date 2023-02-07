@@ -43,8 +43,7 @@ html(lang=lang)
     header.header#header
       .wrap
         a(href="/").brand
-          .logo: +sprite("logo")
-          span Peach Bitcoin
+          img.logo(src=assetPath("/img/peach-bitcoin.svg") alt="Peach Bitcoin")
         input(id="show-menu" type="checkbox")
         label(id="nav-toggle" for="show-menu")
           svg(viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg")

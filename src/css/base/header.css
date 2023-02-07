@@ -30,18 +30,11 @@
   }
 
   @media (--up_to_M) {
-    --logo-size: 2rem;
-    --logo-spacing: var(--space-xs);
-    --logo-font-size: var(--font-size-xl);
+    --logo-height: 2.5rem;
     --nav-font-size: 1.5rem;
   }
   @media (--M_and_up) {
-    --logo-size: 3rem;
-    --logo-spacing: var(--space-s);
-    --logo-font-size: clamp(var(--nav-font-size), 4vw, var(--font-size-xxl));
-    --nav-font-size: clamp(1rem, 2.25vw, 1.25rem);
-  }
-  @media (--L_and_up) {
+    --logo-height: 3rem;
     --nav-font-size: 1.25rem;
   }
 
@@ -53,6 +46,7 @@
       rgba(255, 77, 66, var(--alpha-gradient-peachy, 1)) 100%);
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
+    backdrop-filter: blur(var(--space-xs));
   }
 
   & .wrap {
@@ -62,43 +56,14 @@
     justify-content: space-between;
   }
 
-  & a {
-    text-decoration: none !important;
+  & .brand {
+    display: inline-flex;
   }
 
-  & .brand {
-    display: flex;
-    align-items: center;
-    margin-right: auto;
-    font-size: var(--logo-font-size);
-    font-weight: var(--font-weight-bold);
-    gap: var(--space-m);
-
-    & .logo {
-      flex: 0 0 var(--logo-size);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      background-color: var(--color-white);
-      width: var(--logo-size);
-      height: var(--logo-size);
-      padding: var(--logo-spacing);
-      border-radius: var(--logo-spacing);
-
-      & svg {
-        flex: 0 0 100%;
-      }
-    }
-
-    & span {
-      color: var(--color-white);
-      white-space: nowrap;
-      transition: text-shadow var(--transition-duration-fast);
-    }
-
-    &:hover span {
-      text-shadow: var(--box-shadow-strong);
-    }
+  & .logo {
+    height: var(--logo-height);
+    position: relative;
+    top: -2px;
   }
 }
 
@@ -110,6 +75,7 @@
     font-size: var(--nav-font-size);
     font-weight: var(--font-weight-semibold);
     white-space: nowrap;
+    text-decoration: none !important;
   }
 
   @media (--up_to_M) {
@@ -147,6 +113,7 @@
       color: var(--color-white);
       transition: text-shadow var(--transition-duration-fast);
 
+      &:focus,
       &:hover {
         text-shadow: var(--box-shadow-strong);
       }

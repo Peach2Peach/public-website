@@ -1,5 +1,5 @@
 .wrap {
-  max-width: 1280px;
+  max-width: 1320px;
   margin-left: auto;
   margin-right: auto;
   padding-left: var(--wrap-padding-horizontal);
@@ -13,7 +13,6 @@
 .main {
   padding-top: var(--main-padding-top);
   padding-bottom: var(--main-padding-bottom);
-
   flex: 1;
 
   & section {
