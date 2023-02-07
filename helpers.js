@@ -37,6 +37,8 @@ const config = {
   html: true,
   typographer: true,
   plugins: [
+    ['markdown-it-container', 'left'],
+    ['markdown-it-container', 'right'],
     'markdown-it-replace-link'
   ],
   replaceLink(link) {

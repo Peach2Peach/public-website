@@ -2,15 +2,19 @@
 
 ## Characteristics / Features
 
+
+::: left
 ### Stack sats every day!
 
 Buy and Sell up to 1000 CHF per day and 100'000 CHF per year.
-
+:::
+::: right
 ### Easy registration
 
 Download the app and get your account immediately set up!
 We are not asking you for any private info.
 Your our account is a Bitcoin public/private key pair.
+:::
 
 ### Peach Bitcoin wallet: Self-custodial
 
