@@ -15,7 +15,7 @@
   "scripts": {
     "clean": "rm -rf rev-manifest.json site-data.json dist/*",
     "init": "npm-run-all -p build:data build:static",
-    "start": "npm-run-all clean init -p start:*",
+    "start": "NODE_ENV=development npm-run-all clean init -p start:*",
     "start:pages": "onchange -i -k 'site-data.json' 'pug.config.js' 'markdown.js' 'src/**/*.pug' 'tasks/generate_pages.js' -- npm run build:pages",
     "start:styles": "onchange -i -k 'src/**/*.css' -- npm run build:styles",
     "start:data": "onchange -k 'blog/**/*' 'content/**/*' 'tasks/generate_site_data.js' -- npm run build:data",
@@ -28,7 +28,7 @@
     "optimize": "npm-run-all -p optimize:* -s rev",
     "optimize:styles": "csso dist/css/main.css --output dist/css/main.css",
     "rev": "node-file-rev --root=dist dist/css/* dist/js/* dist/img/*.jpg dist/img/*.png dist/img/*.svg",
-    "prod": "npm-run-all -p build:static build:styles -s optimize build:data build:pages"
+    "prod": "NODE_ENV=production npm-run-all -p build:static build:styles -s optimize build:data build:pages"
   },
   "devDependencies": {
     "autoprefixer": "10.4.13",

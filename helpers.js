@@ -1,3 +1,12 @@
+const IS_DEV = process.env.NODE_ENV === 'development'
+const HOST = IS_DEV ? 'http://localhost:3000' : getBaseUrl()
+
+function getBaseUrl () {
+  const { DEPLOY_PRIME_URL, URL } = process.env
+  const branchUrl = DEPLOY_PRIME_URL || URL || ''
+  return !branchUrl.match('master--') ? branchUrl : 'https://peachbitcoin.com'
+}
+
 // replacements
 const stripHTML = str => {
   return str && encode(decode(str.replace(/(<([^>]+)>)/ig, '').trim().replace(/\n\s*/g, '\n')), { level: 'xml' })
@@ -24,7 +33,11 @@ const getRev = path => {
 }
 const assetPath = path => getRev(path) || path
 const assetUrl = (path, protocol = 'https') => {
-  return `${protocol}://peachbitcoin.com${assetPath(path)}`
+  if (IS_DEV && !path.startsWith('http')) protocol = 'http'
+  const base = path.startsWith('http') ? '' : HOST
+  let url = `${base}${assetPath(path)}`
+  if (!url.startsWith(`${protocol}:`)) url = url.replace(/^.*:/, `${protocol}:`)
+  return url
 }
 
 const random = max =>  Math.floor(Math.random() * Math.floor(max))
