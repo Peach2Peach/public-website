@@ -20,6 +20,16 @@ document.addEventListener("DOMContentLoaded", () => {
     })
   })
 
+  $showMenu.addEventListener('change', e => {
+    if ($showMenu.checked) {
+      addTopbar()
+    } else if ($headerAnchor.getBoundingClientRect().y > 0) {
+      window.setTimeout(() => {
+        removeTopbar()
+      }, 500)
+    }
+  })
+
   if ('IntersectionObserver' in window) {
     if ($body) {
       const headerObserver = new IntersectionObserver(entries => {
