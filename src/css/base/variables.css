@@ -28,10 +28,10 @@
   --color-body-text: var(--color-neutral-100);
   --color-body-bg: var(--color-bg-main);
 
-  --color-gradient-peachy: radial-gradient(110.76% 117.21% at 100% 0%,
+  --bg-gradient-peachy: radial-gradient(110.76% 117.21% at 100% 0%,
     rgba(255, 162, 76, var(--alpha-gradient-peachy, 1)) 0%,
     rgba(255, 122, 80, var(--alpha-gradient-peachy, 1)) 50.25%,
-    rgba(255, 77, 66, var(--alpha-gradient-peachy, 1)) 100%);
+    rgba(255, 77, 66, var(--alpha-gradient-peachy, 1)) 100%) no-repeat;
 
   --space-xxs: .25rem;
   --space-xs: .5rem;

@@ -4,8 +4,7 @@
 
 .teaser {
   color: var(--color-white);
-  background: var(--color-gradient-peachy);
-  background-repeat: no-repeat;
+  background: var(--bg-gradient-peachy);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -95,6 +94,14 @@
   max-width: 24rem;
   margin: var(--space-l) auto var(--space-m);
 
+  & a {
+    color: rgba(255, 77, 66, 1);
+
+    &:hover {
+      color: var(--color-primary-main);
+    }
+  }
+
   & svg {
     width: 4rem;
     height: 4rem;
@@ -117,7 +124,7 @@
   margin-left: auto;
   margin-right: auto;
   color: var(--color-white);
-  background: var(--color-gradient-peachy);
+  background: var(--bg-gradient-peachy);
   padding: var(--space-m) var(--space-l);
   border-radius: var(--border-radius);
 

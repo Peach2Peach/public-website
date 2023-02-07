@@ -10,17 +10,21 @@ html {
   line-height: 1.5;
   font-family: var(--font-family-base);
   font-size: var(--font-size-base);
-  color: var(--color-body-text);
-  background-color: var(--color-body-bg);
   scroll-behavior: smooth;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 body {
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
+  color: var(--color-body-text);
+  background: var(--color-body-bg);
+
+  /* gradually try to set better but less supported values and units */
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+  min-height: 100dvh;
 }
 
 h1,

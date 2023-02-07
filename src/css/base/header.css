@@ -7,7 +7,7 @@
   display: flex;
   align-items: center;
   height: var(--header-height);
-  background: var(--color-gradient-peachy);
+  background: var(--bg-gradient-peachy);
 
   &::after {
     content: '';
@@ -22,7 +22,7 @@
   }
 
   &.topbar {
-    background: var(--color-gradient-peachy);
+    background: var(--bg-gradient-peachy);
 
     &::after {
       box-shadow: var(--box-shadow-strong);
@@ -32,7 +32,13 @@
   /* blur effect on home */
   @nest body#index > &:not(.topbar) {
     backdrop-filter: blur(var(--space-xs));
-    background: none;
+    background-image: radial-gradient(110.76% 117.21% at 100% 0%,
+    rgba(255, 162, 76, var(--alpha-gradient-peachy, .5)) 0%,
+    rgba(255, 122, 80, var(--alpha-gradient-peachy, .75)) 50.25%,
+    rgba(255, 77, 66, var(--alpha-gradient-peachy, 1)) 100%);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    background-blend-mode: color;
   }
 
   & .wrap {
