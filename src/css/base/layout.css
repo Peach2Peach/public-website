@@ -19,8 +19,4 @@
     padding-top: var(--section-padding-top);
     padding-bottom: var(--section-padding-bottom);
   }
-
-  & li {
-    margin-left: var(--space-l);
-  }
 }

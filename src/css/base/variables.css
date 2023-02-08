@@ -63,9 +63,6 @@
   --font-weight-bold: 800;
 
   --font-size-s: .925rem;
-  --font-size-xl: 1.75rem;
-  --font-size-xxl: 2rem;
-  --font-size-xxxl: 2.4rem;
 
   /* Content */
   --main-padding-top: var(--header-height);
@@ -74,21 +71,30 @@
 
   @media (--up_to_M) {
     --font-size-base: 16px;
-    --font-size-l: 1.25rem;
+    --font-size-l: 1.2rem;
+    --font-size-xl: 1.4rem;
+    --font-size-xxl: 1.6rem;
+    --font-size-xxxl: 2.4rem;
     --header-height: 4rem;
     --wrap-padding-horizontal: var(--space-l);
     --section-padding-top: var(--space-l);
   }
   @media (--M_to_L) {
     --font-size-base: 18px;
-    --font-size-l: 1.5rem;
+    --font-size-l: 1.25rem;
+    --font-size-xl: 1.5rem;
+    --font-size-xxl: 1.75rem;
+    --font-size-xxxl: 2.4rem;
     --header-height: 5rem;
     --wrap-padding-horizontal: var(--space-xl);
     --section-padding-top: var(--space-l);
   }
   @media (--L_and_up) {
     --font-size-base: 20px;
-    --font-size-l: 1.5rem;
+    --font-size-l: 1.25rem;
+    --font-size-xl: 1.5rem;
+    --font-size-xxl: 1.75rem;
+    --font-size-xxxl: 2.4rem;
     --header-height: 5rem;
     --wrap-padding-horizontal: var(--space-xxl);
     --section-padding-top: var(--space-xl);

@@ -59,13 +59,10 @@ h3 {
   line-height: 1.175;
 }
 
-h4 {
-  font-size: var(--font-size-l);
-  line-height: 1.175;
-}
-
-h5, h6 {
+h4, h5, h6 {
   font-size: var(--font-size-base);
+  margin-bottom: var(--space-xs);
+  line-height: 1.175;
 }
 
 a {
@@ -85,6 +82,10 @@ a {
   }
 }
 
+ul, ol {
+  margin-left: 1rem;
+}
+
 p, ul, ol {
   margin-bottom: var(--space-m);
 }
@@ -93,14 +94,14 @@ p,
 ul,
 ol {
   & + h2 {
-    margin-top: var(--space-xxl);
+    margin-top: var(--space-xl);
   }
 
   & + h3,
   & + h4,
   & + h5,
   & + h6 {
-    margin-top: var(--space-xl);
+    margin-top: var(--space-l);
   }
 }
 
