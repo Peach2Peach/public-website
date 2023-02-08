@@ -29,6 +29,16 @@ However, if you prefer to keep using another wallet, you also have the option to
 Your private data (payment details, chat messages) are stored encrypted on your phone.
 Make sure to create a backup of your account!
 
+![](/img/tachira/peach-screen-1-nobg.png)
+
+![](/img/tachira/peach-screen-2-nobg.png)
+
+![](/img/tachira/peach-screen-3-nobg.png)
+
+![](/img/tachira/peach-screen-4-nobg.png)
+
+![](/img/tachira/peach-screen-5-nobg.png)
+
 ### Reputation system
 
 Each account has a reputation score that allows to reward good actors and to punish malicious ones.
@@ -121,6 +131,8 @@ We do not save your password on our servers for you!
 We have no way of recovering your password or your JSON file.
 Do not lose it!
 
+![](/img/tachira/ezgif-4-8d2a3b4b27.gif)
+
 ### How does the Peach reputation score work?
 
 Your Peach reputation score will determine if your offer is shown first or last in the list.
@@ -135,3 +147,11 @@ User with a reputation score above 4.3 can unlock badges:
 - **SuperTrader**: when you have successfully completed 15 trades
 - **EarlyAdopter**: is reserved for trustworthy users who are helping us in any ways: testing the app, promoting.
   You can also unlock this badge if you have the *SuperTrader* badge and have shared your completed trade on twitter at least 3 times.
+
+![](/img/tachira/ezgif-4-356d329b74.gif)
+
+![](/img/tachira/ezgif-4-b11eb7d69f.gif)
+
+![](/img/tachira/ezgif-5-6d1650ba86.gif)
+
+![](/img/tachira/ezgif-5-e9056faa0f.gif)
