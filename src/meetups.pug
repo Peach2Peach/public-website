@@ -7,14 +7,15 @@ block pageScripts
   link(href=assetPath("/vendor/jvectormap/jquery-jvectormap.css") rel="stylesheet")
 
 block main
-  section.wrap.page(id=name)
-    != html
-  div(style="margin-bottom: calc(var(--space-xxl) * -1)")
-    +map('meetupMap', siteData.meetups.map(m => JSON.stringify({
-        name: m.name,
-        latLng: [m.latitude, m.longitude],
-        url: m.url,
-        style: {
-          fill: 'var(--color-primary-main)'
-        }
-      })).join(','))
+  section.wrap
+    .content-wrap
+      != html
+
+  +map('meetupMap', siteData.meetups.map(m => JSON.stringify({
+      name: m.name,
+      latLng: [m.latitude, m.longitude],
+      url: m.url,
+      style: {
+        fill: 'var(--color-primary-main)'
+      }
+    })).join(','))

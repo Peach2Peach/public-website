@@ -11,8 +11,7 @@
 }
 
 .main {
-  padding-top: var(--main-padding-top);
-  padding-bottom: var(--main-padding-bottom);
+  padding-top: var(--header-height);
   flex: 1;
 
   & section {

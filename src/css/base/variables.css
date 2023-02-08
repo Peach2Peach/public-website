@@ -65,8 +65,6 @@
   --font-size-s: .925rem;
 
   /* Content */
-  --main-padding-top: var(--header-height);
-  --main-padding-bottom: var(--space-xxl);
   --section-padding-bottom: var(--space-xxl);
 
   @media (--up_to_M) {

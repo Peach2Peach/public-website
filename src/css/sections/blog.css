@@ -1,9 +1,3 @@
-.blog {
-  & .postPreview + .postPreview {
-    margin-top: var(--space-xxl);
-  }
-}
-
 .post {
   & img {
     max-width: 100%;
@@ -32,6 +26,10 @@
     max-width: 53em;
     transition-property: background, border, transform;
     transition-duration: var(--transition-duration-fast);
+  }
+
+  & + .postPreview {
+    margin-top: var(--space-xxl);
   }
 
   & .image {
