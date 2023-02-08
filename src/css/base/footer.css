@@ -1,0 +1,38 @@
+.footer {
+  padding-top: var(--space-l);
+  padding-bottom: var(--space-l);
+  background-color: var(--color-bg-dark);
+
+  & .inner {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-l);
+
+    @media (--L_and_up) {
+      justify-content: space-between;
+    }
+  }
+
+  & .box {
+    display: flex;
+    flex-direction: column;
+
+    @media (--up_to_L) {
+      flex-basis: 30%;
+    }
+  }
+
+  & h6 {
+    color: var(--color-neutral-65);
+    margin-bottom: var(--space-xs);
+  }
+
+  & a {
+    color: var(--color-neutral-50);
+
+    &:hover {
+      color: var(--color-primary-main);
+      text-decoration: none;
+    }
+  }
+}

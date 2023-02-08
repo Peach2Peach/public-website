@@ -1,0 +1,91 @@
+- const pageTitle = title ? `${title} · ${siteData.meta.title}` : siteData.meta.title
+- const pageDescription = description || siteData.meta.description
+- const pageKeywords = keywords || siteData.meta.keywords
+- const pageCard = cardImage || siteData.meta.cardImage
+- const themeColor = siteData.meta.themeColor
+
+include /mixins.pug
+
+<!DOCTYPE html>
+html(lang=lang)
+  head
+    meta(charset="UTF-8")
+    meta(http-equiv="X-UA-Compatible" content="ie=edge")
+    meta(name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover")
+    meta(name="keywords" content=pageKeywords)
+    meta(name="description" content=pageDescription)
+    meta(property="og:locale" content=lang)
+    meta(property="og:site_name" content=siteData.title)
+    meta(property="og:title" content=pageTitle)
+    meta(property="og:description" content=pageDescription)
+    meta(property="og:type" content="website")
+    meta(property="og:image" content=assetUrl(pageCard, "http"))
+    meta(property="og:image:secure_url" content=assetUrl(pageCard))
+    meta(property="og:image:width" content=1296)
+    meta(property="og:image:height" content=678)
+    meta(name="twitter:site" content="@peachbitcoin")
+    meta(name="twitter:card" content="summary_large_image")
+    meta(name="twitter:title" content=pageTitle)
+    meta(name="twitter:description" content=pageDescription)
+    meta(name="twitter:image" content=assetUrl(pageCard))
+    meta(name="msapplication-TileColor" content=themeColor)
+    meta(name="theme-color" content=themeColor)
+    link(rel="preload" as="font" crossorigin href=assetPath("/fonts/baloo-2-v16-latin-regular.woff2"))
+    link(rel="preload" as="font" crossorigin href=assetPath("/fonts/baloo-2-v16-latin-600.woff2"))
+    link(rel="preload" as="font" crossorigin href=assetPath("/fonts/baloo-2-v16-latin-800.woff2"))
+    link(rel="apple-touch-icon" href=assetPath("/img/favicon/apple-touch-icon.png"))
+    link(rel="icon" href=assetPath("/img/favicon/favicon.svg"))
+    link(rel="manifest" href=assetPath("/site.webmanifest"))
+    link(rel="mask-icon" href=assetPath("/img/favicon/safari-pinned-tab.svg") color=themeColor)
+    link(rel="stylesheet" href=assetPath("/css/main.css"))
+    title= pageTitle
+  body(id=slugify(permalink))
+    header.header#header
+      .wrap
+        a(href="/").brand
+          img.logo(src=assetPath("/img/peach-bitcoin.svg") alt="Peach Bitcoin")
+        input(id="show-menu" type="checkbox")
+        label(id="nav-toggle" for="show-menu")
+          svg(viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg")
+            path.line--1(d="M0 70l28-28c2-2 2-2 7-2h64")
+            path.line--2(d="M0 50h99")
+            path.line--3(d="M0 30l28 28c2 2 2 2 7 2h64")
+        nav.nav
+          +navItem("how-it-works", "How it Works")
+          +navItem("for-meetups", "For Meetups")
+          +navItem("blog", "Blog")
+          +navItem("support", "Support")
+    block teaser
+    main.main
+      #header-anchor
+      block main
+    footer#footer.footer
+      .wrap
+        .inner
+          .box
+            h6 Community
+            a(href=siteData.meta.twitterUrl target="_blank" rel="noreferrer noopener") Twitter
+            a(href=siteData.meta.telegramUrl target="_blank" rel="noreferrer noopener") Telegram
+            a(href=siteData.meta.discordUrl target="_blank" rel="noreferrer noopener") Discord
+            a(href=siteData.meta.instagramUrl target="_blank" rel="noreferrer noopener") Instagram
+          .box
+            h6 Company
+            a(href="/join-us/") Join us
+            a(href="/termsConditions.html") T&C
+            a(href="/privacyPolicy.html") Privacy Policy
+          .box
+            h6 Download
+            a(href="/beta/") APK
+            a(href=siteData.meta.iosUrl) iPhone
+            a(href=siteData.meta.androidUrl) Android
+          .box
+            h6 Security
+            a(href="#") PGP key
+            a(href="#") Warrant Canary
+          .box
+            h6 Contact
+            a(href="mailto:hello@peachbitcoin.com") Email
+          .box
+            h6 Bitcoin
+            a(href="/bitcoin.pdf") Whitepaper
+    script(src=assetPath("/js/main.js"))

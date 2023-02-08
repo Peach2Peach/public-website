@@ -1,0 +1,54 @@
+{
+  "private": true,
+  "version": "0.1.0",
+  "name": "peachbitcoin.com",
+  "description": "Peach Website",
+  "repository": "git@github.com:dennisreimann/peachbitcoin.com.git",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "config": {
+    "dist": "dist",
+    "port": "3000"
+  },
+  "scripts": {
+    "clean": "rm -rf rev-manifest.json site-data.json dist/*",
+    "init": "npm-run-all -p build:data build:static",
+    "start": "NODE_ENV=development npm-run-all clean init -p start:*",
+    "start:pages": "onchange -i -k 'site-data.json' 'pug.config.js' 'markdown.js' 'src/**/*.pug' 'tasks/generate_pages.js' -- npm run build:pages",
+    "start:styles": "onchange -i -k 'src/**/*.css' -- npm run build:styles",
+    "start:data": "onchange -k 'blog/**/*' 'content/**/*' 'tasks/generate_site_data.js' -- npm run build:data",
+    "start:serve": "browser-sync start --config browser-sync.config.js --watch",
+    "build": "npm-run-all clean init -p build:*",
+    "build:static": "mkdir -p dist/blog && cp -r static/* dist",
+    "build:data": "node tasks/generate_site_data.js",
+    "build:pages": "node tasks/generate_pages.js",
+    "build:styles": "postcss src/css/main.css --output dist/css/main.css",
+    "optimize": "npm-run-all -p optimize:* -s rev",
+    "optimize:styles": "csso dist/css/main.css --output dist/css/main.css",
+    "rev": "node-file-rev --root=dist dist/css/* dist/js/* dist/img/*.jpg dist/img/*.png dist/img/*.svg",
+    "prod": "NODE_ENV=production npm-run-all -p build:static build:styles -s optimize build:data build:pages"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.13",
+    "browser-sync": "2.27.11",
+    "csso-cli": "4.0.1",
+    "glob": "8.1.0",
+    "gray-matter": "4.0.3",
+    "jstransformer-markdown-it": "3.0.0",
+    "markdown-it": "13.0.1",
+    "markdown-it-container": "3.0.0",
+    "markdown-it-replace-link": "1.2.0",
+    "node-file-rev": "1.1.4",
+    "npm-run-all": "4.1.5",
+    "onchange": "7.1.0",
+    "postcss": "8.4.21",
+    "postcss-calc": "8.2.4",
+    "postcss-cli": "10.1.0",
+    "postcss-custom-media": "9.1.1",
+    "postcss-import": "15.1.0",
+    "postcss-nesting": "11.1.0",
+    "pug": "3.0.2"
+  }
+}

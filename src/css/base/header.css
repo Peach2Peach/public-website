@@ -1,0 +1,211 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  height: var(--header-height);
+  background: var(--bg-gradient-peachy);
+
+  &::after {
+    content: '';
+    width: 100%;
+    height: var(--header-height);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    transition: box-shadow var(--transition-duration-medium);
+  }
+
+  &.topbar {
+    background: var(--bg-gradient-peachy);
+
+    &::after {
+      box-shadow: var(--box-shadow-strong);
+    }
+  }
+
+  @media (--up_to_M) {
+    --logo-height: 2.5rem;
+    --nav-font-size: 1.5rem;
+  }
+  @media (--M_and_up) {
+    --logo-height: 3rem;
+    --nav-font-size: 1.25rem;
+  }
+
+  /* blur effect on home */
+  @nest body#index > &:not(.topbar) {
+    background-image: radial-gradient(110.76% 117.21% at 100% 0%,
+      rgba(255, 162, 76, var(--alpha-gradient-peachy, .5)) 0%,
+      rgba(255, 122, 80, var(--alpha-gradient-peachy, .75)) 50.25%,
+      rgba(255, 77, 66, var(--alpha-gradient-peachy, 1)) 100%);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    backdrop-filter: blur(var(--space-xs));
+  }
+
+  & .wrap {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  & .brand {
+    display: inline-flex;
+  }
+
+  & .logo {
+    height: var(--logo-height);
+    position: relative;
+    top: -2px;
+  }
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+
+  & a {
+    font-size: var(--nav-font-size);
+    font-weight: var(--font-weight-semibold);
+    white-space: nowrap;
+    text-decoration: none !important;
+  }
+
+  @media (--up_to_M) {
+    position: fixed;
+    z-index: -2;
+    top: var(--header-height);
+    left: 100%;
+    bottom: 0;
+    width: 100vw;
+    overflow-y: scroll;
+    flex-direction: column;
+    background: rgba(var(--color-bg-main-rgb), .7);
+    transition: left var(--transition-duration-medium) ease-in-out;
+    backdrop-filter: blur(var(--space-xs));
+
+    & > a {
+      flex: 0 0 3.5em;
+      width: 100%;
+      border-bottom: 1px solid var(--color-neutral-10);
+      padding: var(--space-l);
+      text-align: center;
+      overflow: hidden;
+      color: var(--color-body-text);
+      background: var(--color-bg-main);
+
+      &:hover {
+        color: var(--color-primary-main);
+      }
+    }
+  }
+  @media (--M_and_up) {
+    gap: var(--space-l);
+
+    & > a {
+      color: var(--color-white);
+      transition: text-shadow var(--transition-duration-fast);
+
+      &:focus,
+      &:hover {
+        text-shadow: var(--box-shadow-strong);
+      }
+    }
+  }
+}
+
+@media (--M_and_up) {
+  #nav-toggle {
+    display: none !important;
+  }
+}
+
+/* Triggers the topbar box-shadow style */
+#header-anchor {
+  height: 0;
+  pointer-events: none;
+  margin-top: calc(var(--header-height) * -1);
+  margin-bottom: var(--header-height);
+}
+
+/* Mobile menu */
+#show-menu {
+  display: none;
+}
+
+#nav-toggle {
+  --size: 1.75rem;
+  display: block;
+  cursor: pointer;
+  flex: 0 0 var(--size);
+  width: var(--size);
+  height: var(--size);
+  overflow: hidden;
+  color: var(--color-white);
+  opacity: var(--opacity-text);
+  transition: opacity var(--transition-duration-fast);
+
+  &:hover {
+    opacity: 1;
+  }
+
+  & svg {
+    transform: scale(3);
+  }
+
+  & path {
+    --length: 24;
+    --offset: -38;
+    --transition-values: var(--transition-duration-medium) ease-in-out;
+
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: var(--length) var(--total-length);
+    stroke-dashoffset: var(--offset);
+    transition:
+      transform var(--transition-values),
+      stroke-dasharray var(--transition-values),
+      stroke-dashoffset var(--transition-values);
+  }
+  & .line--1,
+  & .line--3 {
+    --total-length: 111.22813415527344;
+    --offset: -50.22813415527344;
+  }
+  & .line--2 {
+    --total-length: 99;
+  }
+}
+
+/* Mobile menu active */
+#show-menu:checked + #nav-toggle {
+  & > svg {
+    & path {
+      transform: translateX(30px);
+    }
+    & .line--1,
+    & .line--3 {
+      --offset: -16.9705627485;
+      --length: 22.627416998;
+    }
+    & .line--2 {
+      --offset: -20;
+      --length: 0;
+    }
+  }
+  @media (--up_to_M) {
+    & + .nav {
+      left: 0;
+    }
+  }
+}

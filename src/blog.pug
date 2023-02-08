@@ -1,0 +1,9 @@
+extends /template.pug
+
+block main
+  section.wrap.blog
+    .content-wrap
+      != html
+    .posts
+      each post in siteData.posts
+        +postPreview(post)

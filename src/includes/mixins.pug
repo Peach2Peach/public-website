@@ -1,0 +1,16 @@
+mixin sprite(id, title)
+  svg(role="/img" title=title)&attributes(attributes)
+    use(xlink:href=`${assetPath("/img/sprite.svg")}#${id}`)
+
+mixin postPreview(post)
+  a.postPreview(href=`/${post.permalink}`)&attributes(attributes)
+    if post.teaser
+      div.image
+        img(src=assetPath(post.teaser) alt=post.title)
+    div.content
+      h3=post.title
+      .date= (new Date(post.date)).toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' })
+      p=post.description
+
+mixin navItem(id, title)
+  a(href=`/${id}/` class=(navCurrent === id && 'current'))&attributes(attributes)= title
