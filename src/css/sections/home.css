@@ -95,10 +95,10 @@
   margin: var(--space-l) auto var(--space-m);
 
   & a {
-    color: rgba(255, 77, 66, 1);
+    color: var(--color-primary-main);
 
     &:hover {
-      color: var(--color-primary-main);
+      color: rgba(255, 77, 66, 1);
     }
   }
 
