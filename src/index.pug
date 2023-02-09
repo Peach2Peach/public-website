@@ -15,12 +15,11 @@ block teaser
 block main
   section#top.wrap
     .content-wrap
-      != html
+      != html.top
 
   section#mission.wrap
     .content-wrap
-      h2 Join our Mission
-      p We aim to make stacking sats peer-to-peer the standard!
+      != html.mission
       div.social
         a(href=siteData.meta.twitterUrl target="_blank" rel="noreferrer noopener"): +sprite("twitter", "Twitter")
         a(href=siteData.meta.telegramUrl target="_blank" rel="noreferrer noopener"): +sprite("telegram", "Telegram")
@@ -45,13 +44,4 @@ block main
 
   section#bottom.wrap
     .content-wrap
-      h2 About Us
-      p Peach, the company, is born from people who believe in the hardest money that has ever existed, and want to make it accessible to the whole world without compromising the fundamental aspects of Bitcoin.
-      p
-        = "Are you one of those? Check out our "
-        a(href="/join-us/") Join Us
-        = " section, maybe we can work together!"
-      p
-        = "If you want to know more about the company, check out our "
-        a(href="/blog/") blog posts
-        = " talking about how everything started, and how we got here."
+      != html.about

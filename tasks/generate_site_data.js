@@ -14,10 +14,17 @@ const toDate = date => (new Date(date)).toJSON().split('T')[0]
 const getMarkdown = filepath => {
   const contents = readFileSync(filepath)
   const { content, data } = matter(contents)
-  data.content = content
-  data.html = content ? renderMarkdown(content) : null
+  let html = content ? renderMarkdown(content) : null
+  if (html && html.match(/<!--/)) {
+    html = Array.from(html.matchAll(/<!--\s*(.*?)\s*-->(.*?)(?=<!--|$)/gs))
+      .reduce((res, match) =>
+        Object.assign(res, { [match[1]]: match[2].trim() }),
+        {})
+  }
   if (!data.title) data.title = extractTitle(content)
   if (!data.description) data.description = extractDescription(content)
+  data.content = content
+  data.html = html
   return data
 }
 
