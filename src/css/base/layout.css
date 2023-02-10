@@ -18,4 +18,8 @@
     padding-top: var(--section-padding-top);
     padding-bottom: var(--section-padding-bottom);
   }
+
+  & article + article {
+    margin-top: var(--space-xl);
+  }
 }

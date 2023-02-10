@@ -11,7 +11,7 @@ Peach aims to solve this issue by *partnering with meetups all over the world* t
 
 If you are a meetup organizer and would like to get your meetup into Peach, fill the contact form below and we'll get back to you to proceed with the integration!
 
-If you want to know more about the Peach Cash Trades, check out our article [Peach x Meetups](/blog/).
+If you want to know more about the Peach Cash Trades, check out our article [Peach x Meetups](/blog/peach-for-meetups/).
 
 Are you a meetup organizer and want to get your meetup integrated into Peach to enable cash trades?
 Contact us via email on [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com) and we'll get back to you ASAP.

@@ -3,14 +3,16 @@ mixin sprite(id, title)
     use(xlink:href=`${assetPath("/img/sprite.svg")}#${id}`)
 
 mixin postPreview(post)
-  a.postPreview(href=`/${post.permalink}`)&attributes(attributes)
+  article.postPreview&attributes(attributes)
+    .content-wrap
+      header
+        small.date= (new Date(post.date)).toLocaleDateString('en-us', { year: 'numeric', month: 'long', day: 'numeric' })
+        h3
+          a(href=`/${post.permalink}`)= post.title
+      div.content
+        p= post.description
     if post.teaser
-      div.image
-        img(src=assetPath(post.teaser) alt=post.title)
-    div.content
-      h3=post.title
-      .date= (new Date(post.date)).toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' })
-      p=post.description
+      img(src=assetPath(post.teaser) alt=post.title)
 
 mixin navItem(id, title)
   a(href=`/${id}/` class=(navCurrent === id && 'current'))&attributes(attributes)= title

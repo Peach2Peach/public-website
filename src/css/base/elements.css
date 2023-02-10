@@ -37,7 +37,6 @@ h6 {
   line-height: 1;
 
   & a {
-    color: currentColor;
     text-decoration: none !important;
   }
 }
@@ -88,6 +87,10 @@ ul, ol {
 
 p, ul, ol {
   margin-bottom: var(--space-m);
+
+  @nest li > & {
+    margin-bottom: 0;
+  }
 }
 
 p,
@@ -137,6 +140,10 @@ button {
   &:hover {
     box-shadow: var(--box-shadow-strong);
   }
+}
+
+img {
+  max-width: 100%;
 }
 
 img:-moz-loading {
