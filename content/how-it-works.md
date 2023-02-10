@@ -1,21 +1,21 @@
+---
+template: how_it_works
+---
+<!-- how_it_works -->
 # How it works
 
-## Characteristics / Features
-
-
-::: left
+<!-- how_it_works_1 -->
 ### Stack sats every day!
 
 Buy and Sell up to 1000 CHF per day and 100'000 CHF per year.
-:::
-::: right
+
 ### Easy registration
 
 Download the app and get your account immediately set up!
 We are not asking you for any private info.
 Your our account is a Bitcoin public/private key pair.
-:::
 
+<!-- how_it_works_2 -->
 ### Peach Bitcoin wallet: Self-custodial
 
 **Not your keys, not your coins.**
@@ -29,22 +29,7 @@ However, if you prefer to keep using another wallet, you also have the option to
 Your private data (payment details, chat messages) are stored encrypted on your phone.
 Make sure to create a backup of your account!
 
-![](/img/tachira/peach-screen-1-nobg.png)
-
-![](/img/tachira/peach-screen-2-nobg.png)
-
-![](/img/tachira/peach-screen-3-nobg.png)
-
-![](/img/tachira/peach-screen-4-nobg.png)
-
-![](/img/tachira/peach-screen-5-nobg.png)
-
-### Reputation system
-
-Each account has a reputation score that allows to reward good actors and to punish malicious ones.
-Your number of trades and the speed at
-which you trade will get you special badges recognitions!
-
+<!-- how_it_works_3 -->
 ### Multi-signatures escrow
 
 We set up a 2 out 2 multi-signatures escrow with the seller to ensure to the buyer that the sats exist.
@@ -54,13 +39,16 @@ If the seller is malicious, Peach will be able to send the sats to the buyer aft
 
 Peach will help you throughout the buying or selling process and will also be here to mitigate disputes directly from the chat inside the app.
 
+<!-- peach_matches -->
 ## Peach Matches
 
+<!-- peach_matches_1 -->
 ### How does Peach Matchmaking work?
 
 Peach connects you with another Bitcoin Buyer or Seller according to your preferences of currencies and payment methods.
 Based on this, Peach notifies you when you receive matching offers. We sort the matches by reputation score and price of the offer.
 
+<!-- peach_matches_2 -->
 ### How is a trade created?
 
 A Buyer can match as many sell offers as he wants.
@@ -78,13 +66,17 @@ The Buyer can cancel the trade at anytime.
 The Seller can only cancel a trade by asking first to the Buyer if he is okay to cancel.
 Watch out, cancelling a trade impacts your reputation score.
 
+<!-- peach_matches_3 -->
 ### Why does the Buyer matches and the Seller double matches?
 
 In Peach, the Seller sets the price at which they wants to sell their sats.
 The Buyer shows his interest for an offer by matching it and the Seller chooses to trade with the best match offer he receives.
-If Buyers don't receive double matches, they are incentivised to match more offers.
-If Sellers don't receive matches, they are incentivised to adjust their price and increase their reputation score.
 
+**If Buyers don't receive double matches, they are incentivised to match more offers.**
+
+**If Sellers don't receive matches, they are incentivised to adjust their price and increase their reputation score.**
+
+<!-- how_peach_works -->
 ## How Peach works
 
 ### Is Peach free?
@@ -94,35 +86,41 @@ Buyers and sellers can publish their offers for free.
 Buyers pay 2% of transaction fee to Peach for every trade completed.
 Sellers do not pay any fee.
 
+<!-- how_peach_works_1 -->
 ### What's the difference between Peach and regular Bitcoin exchanges?
 
 Peach is not buying or selling Bitcoin from/to its users.
 Our mission is to facilitate the connection between peers and provide the safest infrastructure possible to trade peer-to-peer.
 Buying or selling from another peer allows you to send or receive a payment from/to a non-related Bitcoin company and to use the payment of method of your choice.
-Last but not least, the user owns his Bitcoin.
 
+**Last but not least, the user owns his Bitcoin.**
+
+<!-- how_peach_works_2 -->
 ### Is it safe to buy and sell Bitcoin on Peach?
 
 We work hard to ensure a safe marketplace free of malicious actors.
 We implement a series of actions to identify bad actors and keep them away from the platform.
 Peach remains a public space available to everyone, so as per the nature of public spaces, some outliers can access the free marketplace.
 
+<!-- how_peach_works_3 -->
 ### When is the price of the trade set?
 
 When the buyer matches an offer.
 The seller may accept this match or not.
+
+### Can Peach be used on laptop?
+
+Peach is native mobile application and only available to download for free in the App Store and Google Play Store.
 
 ### Where can I use Peach?
 
 Peach supports currencies from the European zone at the moment.
 We aim to make Peach available in as many countries as possible, as soon as possible.
 
-### Can Peach be used on laptop?
-
-Peach is native mobile application and only available to download for free in the App Store and Google Play Stored.
-
+<!-- peach_features -->
 ## Peach Features
 
+<!-- peach_features_1 -->
 ### How does the Peach Account work?
 
 This password encrypts your account information in a `peach-account.json` file that must be stored on your phone to back up your account.
@@ -130,15 +128,13 @@ This file is encrypted and your password is the key that can unlock decryption.
 We do not save your password on our servers for you!
 We have no way of recovering your password or your JSON file.
 Do not lose it!
-
-![](/img/tachira/ezgif-4-8d2a3b4b27.gif)
-
 ### How does the Peach reputation score work?
 
 Your Peach reputation score will determine if your offer is shown first or last in the list.
 Your final score is calculated with the ratings that you received at the end of each trade, and with your behaviour throughout the trade process.
 For exemple, canceling a trade will get your reputation score negatively impacted while you will be rewarded for confirming a payment fast!
 
+<!-- peach_features_2 -->
 ### What are the super tags?
 
 User with a reputation score above 4.3 can unlock badges:
@@ -148,10 +144,30 @@ User with a reputation score above 4.3 can unlock badges:
 - **EarlyAdopter**: is reserved for trustworthy users who are helping us in any ways: testing the app, promoting.
   You can also unlock this badge if you have the *SuperTrader* badge and have shared your completed trade on twitter at least 3 times.
 
-![](/img/tachira/ezgif-4-356d329b74.gif)
+<!-- peach_features_3 -->
+### What is the Peach Wallet?
 
-![](/img/tachira/ezgif-4-b11eb7d69f.gif)
+Peach implements a self-custodial wallet inside the app. Users can
+choose to use that wallet, or their own preferred one. Peach wallet
+can be connected to your own node for a full sovereign process.
 
-![](/img/tachira/ezgif-5-6d1650ba86.gif)
+<!-- payment_methods -->
+## Supported payment methods in Peach
 
-![](/img/tachira/ezgif-5-e9056faa0f.gif)
+<!-- payment_methods_1 -->
+- Cash
+- SEPA transfers
+- Online Wallets
+  - PayPal
+  - Revolut
+  - Wise
+- Gift Cards
+  - Amazon
+  - Steam
+- National Options
+  - Bizum - Spain
+  - Satispay - Italy
+  - MBWay - Portugal
+
+<!-- payment_methods_2 -->
+Do you want a specific payment method to be integrated into Peach? Contact us with the details and we'll consider adding it.
