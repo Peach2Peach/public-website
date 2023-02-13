@@ -24,12 +24,11 @@ mixin map(id, markers)
     // https://jvectormap.com/documentation/javascript-api/jvm-map/
     new jvm.MultiMap({
       container: $(`#!{id}`),
-      maxLevel: 0,
       main: {
-        map: 'europe_mill',
+        map: 'world_mill',
         backgroundColor: 'transparent',
         markers,
-        focusOn: ['DE', 'FR', 'BE'],
+        focusOn: ['DE', 'GB', 'ES', 'PL', 'PO', 'IT', 'NL', 'BE', 'GR', 'CY'],
         regionStyle: {
           initial: {
             'fill': 'var(--color-map-region)',
