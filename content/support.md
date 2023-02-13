@@ -15,6 +15,13 @@ Our PGP fingerprint: `XXXX XXXX XXXX XXXX XXXX`
 - [Discord](https://discord.gg/ypeHz3SW54)
 - [Instagram](https://www.instagram.com/peachbitcoin/)
 
+## Guides
+
+- [Quick start guide](/faq-quickstart/)
+- [Trading guide](/faq-trading/)
+- [Account guide](/faq-account/)
+- [Privacy guide](/faq-privacy/)
+
 ## FAQ
 
 ### How do I start?

@@ -105,6 +105,7 @@ p,
 ul,
 ol,
 nav,
+figure,
 .note {
   & + h2 {
     margin-top: var(--space-xl);
@@ -158,6 +159,16 @@ img {
 
 img:-moz-loading {
   visibility: hidden;
+}
+
+figure  {
+  text-align: center;
+
+  & img {
+    padding: var(--space-xxs);
+    border-radius: var(--space-l);
+    background-color: var(--color-neutral-5);
+  }
 }
 
 [aria-hidden="true"] {
