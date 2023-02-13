@@ -9,7 +9,32 @@ block pageScripts
 block main
   section.wrap
     .content-wrap
-      != html
+      != html.intro
+
+      form(method="POST" action="https://5dcdd79e.sibforms.com/serve/MUIEACK8DNtsYekP-whrDbBFB1y3mlblrQm0hnpDEW06e-6_pp5TeB8pA3E-j2U3pw9xZZ5iIdtHjHlzBbjHoKB6D2BBHo2CvW0rFPlP05jJ97khgMEdrM4TqiD69oVkkQaINYSH7zQVIxwbLaLs0vYBcoMOcrQdcHXha_LfF0NDYDG9dtJTyidQHboAEDkOtNNdELB1E1bZqXCp")
+        h4 Are you a meetup organizer?
+        p Do you want to get your meetup integrated into Peach to enable cash trades? Fill the form below and we'll get back to you ASAP.
+        div
+          label(for="email") Your email address
+          input#email(type="text" name="EMAIL" autocomplete="off" placeholder="Your email address" required)
+        div
+          label(for="location") Where is your meetup held?
+          input#location(type="text" name="LOCATION" autocomplete="off" placeholder="Your location" required)
+        div
+          label(for="frequency") Frequency of the meetup
+          input#frequency(type="text" name="FREQUENCY" autocomplete="off" placeholder="E.g. Weekly, Monthly, …" required)
+        button.button(type="submit") Send Email
+        input(type="hidden" name="email_address_check" value="")
+        input(type="hidden" name="locale" value="en")
+        input(type="hidden" name="html_type" value="simple")
+
+      .form_addon!= html.form_addon
+
+  .wrap
+    .content-wrap
+      != html.map
+
+  br
 
   +map('meetupMap', siteData.meetups.map(m => JSON.stringify({
       name: m.name,
