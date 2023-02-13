@@ -4,7 +4,8 @@ keywords:
   - Bitcoin
   - P2P
   - Peer to peer trades
-teaser: /img/tachira/peach-screen-4-nobg.png
+#teaser: /img/tachira/peach-screen-4-nobg.png
+helpFooter: true
 ---
 # Peach x Meetups
 
@@ -12,8 +13,6 @@ We're adding a lot of meetups where users can trade cash securely using Peach al
 the rest of the world in a near future). We're asking you (meetup organizers) to help users out in case of any problems, and to
 tweet some nice pics of the process. As thanks, we'll give you EXPOSURE, nice merch and 1.5% of the trading volume that
 happens on your meetup. Full details below 👇
-
-![](/img/tachira/peach-screen-4-nobg.png)
 
 ## Open letter to meetup organizers
 
@@ -142,4 +141,3 @@ When a user wants to buy Bitcoin with cash on Peach, he’ll need to follow this
 Once you click on Next, and the offer is published, you’ll be able to match with other peers who have published buy or sell offers in the same meetup.
 
 That’s all you need to know to publish your cash trade in Peach!
-In case of having any problem, let us know through telegram, twitter, discord, or directly send an email to [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com).

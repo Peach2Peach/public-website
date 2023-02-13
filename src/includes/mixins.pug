@@ -3,7 +3,7 @@ mixin sprite(id, title)
     use(xlink:href=`${assetPath("/img/sprite.svg")}#${id}`)
 
 mixin postPreview(post)
-  article.postPreview&attributes(attributes)
+  article.post-preview&attributes(attributes)
     .content-wrap
       header
         small.date= (new Date(post.date)).toLocaleDateString('en-us', { year: 'numeric', month: 'long', day: 'numeric' })

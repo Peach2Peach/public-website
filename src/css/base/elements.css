@@ -11,6 +11,7 @@ html {
   font-family: var(--font-family-base);
   font-size: var(--font-size-base);
   scroll-behavior: smooth;
+  scroll-padding: calc(var(--header-height) + var(--section-padding-top)) 0 0 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -35,6 +36,7 @@ h5,
 h6 {
   font-weight: var(--font-weight-semibold);
   line-height: 1;
+  outline: none;
 
   & a {
     text-decoration: none !important;
@@ -81,21 +83,29 @@ a {
   }
 }
 
-ul, ol {
+ul {
   margin-left: 1rem;
+  margin-bottom: var(--space-m);
 }
 
-p, ul, ol {
+ol {
+  margin-left: 1rem;
+  margin-bottom: var(--space-m);
+}
+
+p, ul, figure, .note {
   margin-bottom: var(--space-m);
 
-  @nest li > & {
+  @nest ul li > &:last-child {
     margin-bottom: 0;
   }
 }
 
 p,
 ul,
-ol {
+ol,
+nav,
+.note {
   & + h2 {
     margin-top: var(--space-xl);
   }
@@ -225,5 +235,21 @@ form {
     color: var(--color-primary-main);
     box-shadow: var(--box-shadow-strong);
     text-decoration: none;
+  }
+}
+
+.note {
+  color: var(--color-white);
+  background: var(--bg-gradient-peachy);
+  padding: var(--space-m) var(--space-l);
+  border-radius: var(--border-radius);
+
+  & a {
+    color: var(--color-white);
+    text-decoration: underline;
+  }
+
+  & :last-child {
+    margin-bottom: 0;
   }
 }

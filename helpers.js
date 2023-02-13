@@ -15,6 +15,7 @@ const stripHTML = str => {
 // slug
 const slugify = str => str.toLowerCase()
   .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue')
+  .replace(/\//g, '-')
   .replace(/\s+/g, '-').replace(/[^\w\-]+/g, '')
   .replace(/\-\-+/g, '-').replace(/^-+/, '').replace(/-+$/, '')
 
@@ -50,8 +51,10 @@ const config = {
   html: true,
   typographer: true,
   plugins: [
-    ['markdown-it-container', 'left'],
-    ['markdown-it-container', 'right'],
+    ['markdown-it-container', 'note'],
+    ['markdown-it-anchor', { slugify, permalink: false }],
+    ['markdown-it-toc-done-right', { slugify, level: 2, listType: 'ul' }],
+    ['markdown-it-implicit-figures', { figcaption: true }],
     'markdown-it-replace-link'
   ],
   replaceLink(link) {

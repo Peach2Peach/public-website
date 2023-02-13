@@ -2,8 +2,20 @@ extends /template.pug
 
 block main
   section.wrap
-    .content-wrap
+    .content-wrap.post
       != html
+
+      if helpFooter
+        p
+          = "In case of having any problem, let us know through "
+          a(href=siteData.meta.telegramUrl target="_blank" rel="noreferrer noopener") Telegram
+          = ", "
+          a(href=siteData.meta.twitterUrl target="_blank" rel="noreferrer noopener") Twitter
+          = ", or directly send an email to "
+          a(href="mailto:hello@peachbitcoin.com") hello@peachbitcoin.com
+          = " (for secure communication, find our PGP key in our "
+          a(href="/support/") support
+          = " section)."
 
       p.date= (new Date(date)).toLocaleDateString('en-us', { year: 'numeric', month: 'long', day: 'numeric' })
 
