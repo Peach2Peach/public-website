@@ -1,6 +1,6 @@
 mixin sprite(id, title)
   svg(role="/img" title=title)&attributes(attributes)
-    use(xlink:href=`${assetPath("/img/sprite.svg")}#${id}`)
+    use(xlink:href=`${assetPath("/img/icons.svg")}#${id}`)
 
 mixin postPreview(post)
   article.post-preview&attributes(attributes)

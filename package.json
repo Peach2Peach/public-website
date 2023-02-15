@@ -17,12 +17,14 @@
     "init": "npm-run-all -p build:data build:static",
     "start": "NODE_ENV=development npm-run-all clean init -p start:*",
     "start:pages": "onchange -i -k 'site-data.json' 'pug.config.js' 'helpers.js' 'src/**/*.pug' 'tasks/generate_pages.js' -- npm run build:pages",
+    "start:icons": "onchange -i -k 'src/icons/**/*.svg' -- npm run build:icons",
     "start:styles": "onchange -i -k 'src/**/*.css' -- npm run build:styles",
     "start:data": "onchange -k 'blog/**/*' 'content/**/*' 'tasks/generate_site_data.js' -- npm run build:data",
     "start:serve": "browser-sync start --config browser-sync.config.js --watch",
     "build": "npm-run-all clean init -p build:*",
     "build:static": "mkdir -p dist/blog && cp -r static/* dist",
     "build:data": "node tasks/generate_site_data.js",
+    "build:icons": "node tasks/generate_icon_sprite.js",
     "build:pages": "node tasks/generate_pages.js",
     "build:styles": "postcss src/css/main.css --output dist/css/main.css",
     "optimize": "npm-run-all -p optimize:* -s rev",
@@ -52,6 +54,7 @@
     "postcss-custom-media": "9.1.2",
     "postcss-import": "15.1.0",
     "postcss-nesting": "11.2.0",
-    "pug": "3.0.2"
+    "pug": "3.0.2",
+    "svgstore": "3.0.1"
   }
 }
