@@ -62,3 +62,38 @@ main {
 #how-it-works article > div + div {
   margin-top: var(--space-l);
 }
+
+
+.contact {
+  display: flex;
+  flex-wrap: wrap;
+
+  & a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-xs);
+    color: var(--color-primary-main);
+
+    &:hover {
+      color: rgba(255, 77, 66, 1);
+      text-decoration: none;
+    }
+  }
+
+  & svg {
+    width: 4rem;
+    height: 4rem;
+  }
+
+  @media (max-width: 26.99rem) {
+    gap: var(--space-l);
+
+    & a {
+      flex-basis: 35%;
+    }
+  }
+  @media (min-width: 27rem) {
+    gap: var(--space-xl);
+  }
+}

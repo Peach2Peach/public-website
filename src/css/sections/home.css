@@ -1,5 +1,14 @@
-#index #header-anchor {
-  margin-top: calc(var(--header-height) * -2);
+#index {
+  & #header-anchor {
+    margin-top: calc(var(--header-height) * -2);
+  }
+
+  & .contact {
+    align-items: center;
+    justify-content: center;
+    max-width: 24rem;
+    margin: var(--space-l) auto var(--space-m);
+  }
 }
 
 .teaser {
@@ -90,38 +99,5 @@
   & form {
     margin-left: auto;
     margin-right: auto;
-  }
-}
-
-.social {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  max-width: 24rem;
-  margin: var(--space-l) auto var(--space-m);
-
-  & a {
-    color: var(--color-primary-main);
-
-    &:hover {
-      color: rgba(255, 77, 66, 1);
-    }
-  }
-
-  & svg {
-    width: 4rem;
-    height: 4rem;
-  }
-
-  @media (max-width: 26.99rem) {
-    gap: var(--space-l);
-
-    & a {
-      flex-basis: 35%;
-    }
-  }
-  @media (min-width: 27rem) {
-    gap: var(--space-xl);
   }
 }
