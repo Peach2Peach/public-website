@@ -63,7 +63,7 @@
     padding-bottom: var(--section-padding-bottom);
 
     @nest .with-teaser &:is(:first-of-type) {
-      padding-top: calc(var(--section-padding-top) * 2.5);
+      padding-top: calc(var(--section-padding-top) * 1.5);
     }
   }
 
