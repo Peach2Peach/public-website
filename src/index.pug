@@ -1,5 +1,8 @@
 extends /template.pug
 
+block append vars
+  - const hasTeaser = true
+
 block teaser
   section.teaser
     h1 Peach Bitcoin
@@ -10,7 +13,7 @@ block teaser
       a.button.button--white(href=siteData.meta.iosUrl) Download on iPhone
       a.button.button--white(href=siteData.meta.androidUrl) Download on Android
     img(src=assetPath('/img/phones.png') alt="Swipe, match, stack")
-    a.scroll(href="#top"): +sprite("chevron-down")
+    a.scroll(href="#main"): +sprite("chevron-down")
 
 block main
   section#top.wrap

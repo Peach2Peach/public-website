@@ -1,60 +1,64 @@
-main {
-  & .left,
-  & .right {
-    display: flex;
+.teaser {
+  color: var(--color-white);
+  background: var(--bg-gradient-peachy);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: calc(var(--section-padding-top) + var(--header-height))
+    var(--wrap-padding-horizontal) var(--section-padding-bottom);
+  text-align: center;
 
-    & img {
-      align-self: center;
-      max-width: 100%;
-    }
+  /* gradually try to set better but less supported values and units */
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+  min-height: 100dvh;
+
+  & h1 {
+    margin-top: auto;
+    font-size: clamp(3rem, 10vw, 5rem);
+  }
+
+  & h2 {
+    font-size: clamp(2rem, 7vw, 3.5rem);
+  }
+
+  & span {
+    white-space: nowrap;
+  }
+
+  & img {
+    width: 100%;
+    max-width: 560px;
 
     @media (--up_to_M) {
-      flex-direction: column;
-
-      & div {
-        flex: 1 1 100%;
-      }
-
-      & img {
-        margin-bottom: var(--space-xl);
-
-        &[src$=".gif"] {
-          max-width: 65%;
-        }
-      }
-    }
-    @media (--M_and_up) {
-      align-items: center;
-      justify-content: space-between;
-      gap: var(--space-xl);
-
-      & img {
-        max-width: 45%;
-
-        &[src$=".gif"] {
-          max-width: 30%;
-          margin-left: 7.5%;
-          margin-right: 7.5%;
-        }
-      }
+      width: 90%;
     }
   }
 
-  @media (--M_and_up) {
-    & .right > div,
-    & .left > img {
-      order: 0;
-    }
+  & .download {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-l);
+    margin: var(--space-l) 0;
 
-    & .left > div,
-    & .right > img {
-      order: 1;
+    & > a {
+      flex: 0 0 16rem;
     }
   }
-}
 
-#how-it-works article > div + div {
-  margin-top: var(--space-l);
+  & a.scroll {
+    margin-top: auto;
+    color: var(--color-white);
+
+    & svg {
+      width: 4rem;
+      height: 4rem;
+    }
+  }
 }
 
 .contact {

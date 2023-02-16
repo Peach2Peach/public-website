@@ -1,0 +1,7 @@
+#how-it-works {
+  & img {
+    &[src$=".gif"] {
+      max-width: 65%;
+    }
+  }
+}

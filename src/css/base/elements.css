@@ -107,6 +107,10 @@ ol,
 nav,
 figure,
 .note {
+  & + h1 {
+    margin-top: var(--space-xxxl);
+  }
+
   & + h2 {
     margin-top: var(--space-xl);
   }
@@ -159,21 +163,6 @@ img {
 
 img:-moz-loading {
   visibility: hidden;
-}
-
-figure  {
-  text-align: center;
-
-  & img {
-    padding: var(--space-xxs);
-    border-radius: var(--space-l);
-    background-color: var(--color-neutral-5);
-  }
-}
-
-svg[role="img"] {
-  width: 1rem;
-  height: 1rem;
 }
 
 [aria-hidden="true"] {
@@ -286,5 +275,16 @@ form {
 
   & :last-child {
     margin-bottom: 0;
+  }
+}
+
+main {
+  & figure  {
+    text-align: center;
+  }
+
+  & svg[role="img"] {
+    width: 1rem;
+    height: 1rem;
   }
 }

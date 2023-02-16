@@ -10,9 +10,15 @@
   max-width: 42em;
 
   &.content-wrap--centered {
+    max-width: 36em;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+
+    & ul {
+      list-style: none;
+      margin-left: 0;
+    }
   }
 }
 
@@ -23,6 +29,10 @@
   & section {
     padding-top: var(--section-padding-top);
     padding-bottom: var(--section-padding-bottom);
+
+    @nest .with-teaser &:is(:first-of-type) {
+      padding-top: calc(var(--section-padding-top) * 2.5);
+    }
   }
 
   & article + article {

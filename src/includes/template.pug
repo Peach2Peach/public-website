@@ -1,10 +1,11 @@
-- const pageTitle = title ? `${title} · ${siteData.meta.title}` : siteData.meta.title
-- const pageDescription = description || siteData.meta.description
-- const pageKeywords = keywords || siteData.meta.keywords
-- const pageCard = cardImage || teaser || siteData.meta.cardImage
-- const themeColor = siteData.meta.themeColor
-
 include /mixins.pug
+
+block vars
+  - const pageTitle = title ? `${title} · ${siteData.meta.title}` : siteData.meta.title
+  - const pageDescription = description || siteData.meta.description
+  - const pageKeywords = keywords || siteData.meta.keywords
+  - const pageCard = cardImage || teaser || siteData.meta.cardImage
+  - const themeColor = siteData.meta.themeColor
 
 <!DOCTYPE html>
 html(lang=lang)
@@ -40,7 +41,7 @@ html(lang=lang)
     link(rel="stylesheet" href=assetPath("/css/main.css"))
     title= pageTitle
     block pageScripts
-  body(id=slugify(permalink))
+  body(id=slugify(permalink) class=(hasTeaser ? 'with-teaser' : null))
     header.header#header
       .wrap
         a(href="/").brand
@@ -57,7 +58,7 @@ html(lang=lang)
           +navItem("blog", "Blog")
           +navItem("support", "Support")
     block teaser
-    main.main
+    main#main.main
       #header-anchor
       block main
     footer#footer.footer

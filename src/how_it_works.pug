@@ -1,60 +1,18 @@
 extends /template.pug
 
+block append vars
+  - const hasTeaser = true
+
+block teaser
+  section.teaser
+    != html.teaser
+    .download
+      a.button.button--white(href=siteData.meta.iosUrl) Download on iPhone
+      a.button.button--white(href=siteData.meta.androidUrl) Download on Android
+    != html.teaser_1
+    a.scroll(href="#main"): +sprite("chevron-down")
+
 block main
   section.wrap
-    article
-      .right#how_it_works_1
-        div
-          != html.how_it_works
-          != html.how_it_works_1
-        img(src=assetPath("/img/tachira/peach-screen-1-nobg.png"))
-      .left#how_it_works_2
-        div!= html.how_it_works_2
-        img(src=assetPath("/img/tachira/peach-screen-2-nobg.png"))
-      .content-wrap
-        != html.how_it_works_3
-
-    article
-      .right#peach_matches_1
-        div
-          != html.peach_matches
-          != html.peach_matches_1
-        img(src=assetPath("/img/tachira/peach-screen-3-nobg.png"))
-      .left#peach_matches_2
-        div!= html.peach_matches_2
-        img(src=assetPath("/img/tachira/peach-screen-4-nobg.png"))
-      .content-wrap
-        != html.peach_matches_3
-
-    article
-      .right#how_peach_works_1
-        div
-          != html.how_peach_works
-          != html.how_peach_works_1
-        img(src=assetPath("/img/tachira/ezgif-4-356d329b74.gif"))
-      .content-wrap
-        != html.how_peach_works_2
-      .left#how_peach_works_3
-        div!= html.how_peach_works_3
-        img(src=assetPath("/img/tachira/peach-screen-3-nobg.png"))
-
-    article
-      .right#peach_features_1
-        div
-          != html.peach_features
-          != html.peach_features_1
-        img(src=assetPath("/img/tachira/ezgif-4-8d2a3b4b27.gif"))
-      .content-wrap
-        != html.peach_features_2
-      .left#peach_features_3
-        div!= html.peach_features_3
-        img(src=assetPath("/img/tachira/peach-screen-5-nobg.png"))
-
-    article
-      .content-wrap
-        != html.payment_methods
-      .right#payment_methods_1
-        div!= html.payment_methods_1
-        img(src=assetPath("/img/tachira/ezgif-4-b11eb7d69f.gif"))
-      .content-wrap
-        != html.payment_methods_2
+    .content-wrap.content-wrap--centered
+      != html.main
