@@ -6,18 +6,13 @@
   padding-right: var(--wrap-padding-horizontal);
 }
 
-@define-mixin content-centered {
-  max-width: 36em;
+.content-wrap {
+  --max-width: 42em;
+  max-width: var(--max-width);
   margin-left: auto;
   margin-right: auto;
-}
-
-
-.content-wrap {
-  max-width: 42em;
 
   &.content-wrap--centered {
-    @mixin content-centered;
     text-align: center;
 
     & ul {
@@ -29,7 +24,7 @@
   &.content-wrap--flex  {
     --gap-v: var(--space-l);
     --gap-h: var(--space-xxxl);
-    max-width: none;
+    --max-width: none;
     margin-left: auto;
     margin-right: auto;
 
@@ -41,10 +36,6 @@
 
     @media (--up_to_M) {
       flex-direction: column;
-
-      > * {
-        @mixin content-centered;
-      }
     }
     @media (--M_and_up) {
       > * {
@@ -130,7 +121,7 @@
 }
 
 .contact {
-  --icon-size: 4rem;
+  --icon-size: 3rem;
 
   display: flex;
   flex-wrap: wrap;

@@ -1,4 +1,4 @@
-# Trading Guide
+# Trading FAQ
 
 :::details How can I be sure I get the bitcoin / the money?
 

@@ -108,17 +108,27 @@ nav,
 figure,
 .note {
   & + h1 {
-    margin-top: var(--space-xxxl);
+    padding-top: var(--space-xxxl);
   }
 
   & + h2 {
-    margin-top: var(--space-xl);
+    padding-top: var(--space-xl);
   }
 
   & + h3,
   & + h4,
   & + h5,
   & + h6 {
+    padding-top: var(--space-l);
+  }
+}
+
+h3,
+h4,
+h5,
+h6 {
+  & + figure,
+  & + .figures {
     margin-top: var(--space-l);
   }
 }
@@ -218,49 +228,59 @@ form {
   }
 }
 
-@define-mixin peach-button {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--space-xs);
-  border-radius: 3em;
-  padding: var(--space-xs) var(--space-l);
-  cursor: pointer;
-  outline: none;
-  text-transform: uppercase;
-  text-decoration: none;
-  font-weight: var(--font-weight-semibold);
-  font-family: var(--font-family-base);
-  font-size: 1.1rem;
-  background-repeat: no-repeat;
-  transition-property: color;
-  transition-duration: var(--transition-duration-fast);
-  white-space: nowrap;
+details {
+  text-align: left;
 
-  &:focus,
-  &:hover {
-    box-shadow: var(--box-shadow-strong);
-    text-decoration: none;
+  & summary {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-m);
+    padding: var(--space-s) 0;
+
+    &::marker {
+      display: none;
+      content: "";
+    }
+
+    .title {
+      font-size: var(--font-size-l);
+      line-height: 1.175;
+      color: var(--color-neutral-65);
+      font-weight: var(--font-weight-semibold);
+    }
+
+    .marker {
+      content: url(/css/plus.svg);
+    }
+  }
+
+  &[open] > summary .marker {
+    content: url(/css/minus.svg);
   }
 }
 
-@define-mixin peach-button-white {
-  color: var(--color-body-text);
-  background-color: var(--color-white);
+details article {
+  padding-bottom: var(--space-m);
 
-  &:focus,
-  &:hover {
-    color: var(--color-primary-main);
+  & :last-child {
+    margin-bottom: 0;
   }
 }
 
-@define-mixin peach-button-primary {
-  color: var(--color-white);
-  background: var(--color-primary-main);
+details[open] article {
+  animation: animateDown var(--transition-duration-fast) linear;
+}
 
-  &:focus,
-  &:hover {
-    background: var(--bg-gradient-peachy);
+@keyframes animateDown {
+  0% {
+    opacity: 0;
+    transform: translatey(-.5rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translatey(0);
   }
 }
 
@@ -322,9 +342,48 @@ form {
   }
 }
 
+.figures {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-xl);
+  margin-bottom: var(--space-xl);
+
+  @media (--L_and_up) {
+    width: calc(100% + 200px);
+    margin-left: -100px;
+  }
+
+  & figure {
+    flex: 0 1 380px;
+    margin: 0;
+
+    @media (--up_to_S) {
+      flex-basis: 100%;
+    }
+    @media (--S_to_L) {
+      flex-basis: calc(50% - var(--space-xl));
+    }
+    @media (--L_and_up) {
+      flex-basis: calc(25% - var(--space-xl));
+    }
+  }
+
+  & img {
+    padding: var(--space-xxs);
+    border-radius: var(--space-l);
+    background-color: var(--color-neutral-5);
+  }
+}
+
 main {
   & figure  {
     text-align: center;
+  }
+
+  & figcaption {
+    font-size: var(--font-size-s);
+    color: var(--color-neutral-65);
   }
 
   & svg[role="img"] {

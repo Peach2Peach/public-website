@@ -1,4 +1,5 @@
 /* Base */
+@import 'base/mixins.css';
 @import 'base/variables.css';
 @import 'base/fonts.css';
 @import 'base/elements.css';

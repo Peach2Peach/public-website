@@ -1,11 +1,6 @@
 #index {
-  & .content-wrap {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-  }
-
   & .contact {
+    --icon-size: 4rem;
     max-width: 24rem;
 
     @media (max-width: 24rem) {

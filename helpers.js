@@ -1,5 +1,3 @@
-const importFresh = require('import-fresh')
-
 const IS_DEV = process.env.NODE_ENV === 'development'
 const HOST = IS_DEV ? 'http://localhost:3000' : getBaseUrl()
 
@@ -15,11 +13,10 @@ const stripHTML = str => {
 }
 
 // slug
-const slugify = str => str.toLowerCase()
-  .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue')
-  .replace(/\//g, '-')
-  .replace(/\s+/g, '-').replace(/[^\w\-]+/g, '')
-  .replace(/\-\-+/g, '-').replace(/^-+/, '').replace(/-+$/, '')
+const slugify = str => str.toLowerCase().trim()
+  .replace(/[^\w\s-]/g, '')
+  .replace(/[\s_-]+/g, '-')
+  .replace(/^-+|-+$/g, '')
 
 const truncate = (str, wordCount) => {
   const words = str.trim().split(/\s(?![^\[]*\])/g)
@@ -27,11 +24,12 @@ const truncate = (str, wordCount) => {
   const tail = words.join(' ')
   return [head, tail]
 }
+
 // links
 const linkTarget = url => url.startsWith('http') ? '_blank' : null
 const getRev = path => {
   let revs
-  try { revs = importFresh('./rev-manifest.json') } catch (error) {}
+  try { revs = require('./rev-manifest.json') } catch (error) {}
   return revs && revs[path]
 }
 const assetPath = path => getRev(path) || path
@@ -42,21 +40,21 @@ const assetUrl = (path, protocol = 'https') => {
   if (!url.startsWith(`${protocol}:`)) url = url.replace(/^.*:/, `${protocol}:`)
   return url
 }
+
+// variables
 const getVar = path => {
   let vars
-  try { vars = importFresh('./content/meta.json') } catch (error) {}
+  try { vars = require('./content/meta.json') } catch (error) {}
   return vars && vars[path]
 }
 const variable = name => getVar(name) || name
-
-const random = max =>  Math.floor(Math.random() * Math.floor(max))
 
 // configure markdown-it
 const transformer = require('jstransformer')
 const { _tr: mdTransformer } = transformer(require('jstransformer-markdown-it'))
 
-const ICON_REGEX = /:([\w-_]+?):/gi
-const VARIABLE_REGEX = /\$([\w-_]+?)\$/gi
+const ICON_REGEX = /:([\w-_]+):/gi
+const VARIABLE_REGEX = /\$([\w-_]+)\$/gi
 
 // configure replacements
 const replace = require('markdown-it-replace-it')
@@ -80,12 +78,18 @@ replace.replacements.push({
   }
 })
 
+// toc and anchors
+const markdownItTocAndAnchor = require('markdown-it-toc-and-anchor').default
+
 const config = {
   html: true,
   typographer: true,
   plugins: [
+    ['markdown-it-implicit-figures', { figcaption: true }],
+    [markdownItTocAndAnchor, { slugify, anchorLink: false, tocFirstLevel: 2, tocLastLevel: 2 }],
     ['markdown-it-container', 'note'],
     ['markdown-it-container', 'buttons'],
+    ['markdown-it-container', 'figures'],
     ['markdown-it-container', 'details', {
       validate (params) {
         return params.trim().match(/^details\s+(.*)$/)
@@ -95,13 +99,10 @@ const config = {
         const isOpening = nesting === 1
         const [, summary] = info.trim().match(/^details\s+(.*)$/) || []
         return isOpening
-          ? `<details><summary>${summary}</summary>\n`
-          : '</details>\n'
+          ? `<details id="${slugify(summary)}"><summary><span class="title">${summary}</span><span class="marker"></span></summary><article>\n`
+          : '</article></details>\n'
       }
     }],
-    ['markdown-it-anchor', { slugify, permalink: false }],
-    ['markdown-it-toc-done-right', { slugify, level: 2, listType: 'ul' }],
-    ['markdown-it-implicit-figures', { figcaption: true }],,
     'markdown-it-replace-link',
     replace
   ],
@@ -126,9 +127,9 @@ module.exports = {
   slugify,
   stripHTML,
   truncate,
-  random,
   linkTarget,
   assetUrl,
   assetPath,
-  getRev
+  getRev,
+  getVar
 }

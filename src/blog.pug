@@ -2,8 +2,8 @@ extends /template.pug
 
 block main
   section.wrap
-    .content-wrap
+    .content-wrap.content-wrap--centered
       != html
-    .posts
+    .content-wrap.posts
       each post in siteData.posts
         +postPreview(post)

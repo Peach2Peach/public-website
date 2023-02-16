@@ -1,4 +1,4 @@
-# Privacy Guide
+# Privacy FAQ
 
 :::details What info does Peach collect of me?
 

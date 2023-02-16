@@ -10,11 +10,11 @@ block teaser
 
 block main
   section#top.wrap
-    .content-wrap
+    .content-wrap.content-wrap--centered
       != html.top
 
   section#mission.wrap
-    .content-wrap
+    .content-wrap.content-wrap--centered
       != html.mission
       .contact
         a(href=siteData.meta.twitterUrl target="_blank" rel="noreferrer noopener" title="Twitter")
@@ -43,5 +43,5 @@ block main
       input(type="hidden" name="html_type" value="simple")
 
   section#bottom.wrap
-    .content-wrap
+    .content-wrap.content-wrap--centered
       != html.about

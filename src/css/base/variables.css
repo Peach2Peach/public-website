@@ -1,3 +1,6 @@
+@custom-media --up_to_S screen and (max-width: 459.99px);
+@custom-media --S_to_M screen and (min-width: 460px) and (max-width: 739.99px);
+@custom-media --S_to_L screen and (min-width: 460px) and (max-width: 1099.99px);
 @custom-media --up_to_M screen and (max-width: 739.99px);
 @custom-media --up_to_L screen and (max-width: 1099.99px);
 @custom-media --M_to_L screen and (min-width: 740px) and (max-width: 1099.99px);

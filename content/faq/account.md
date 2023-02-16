@@ -1,4 +1,4 @@
-# Account Guide
+# Account FAQ
 
 :::details What is a Peach account?
 

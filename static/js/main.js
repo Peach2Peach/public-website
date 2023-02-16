@@ -43,4 +43,11 @@ document.addEventListener("DOMContentLoaded", () => {
       headerObserver.observe($headerAnchor)
     }
   }
+
+  // FAQ
+  const itemId = window.location.hash;
+  const $details = itemId ? document.querySelector(`details${itemId}`) : null
+  if ($details) {
+    $details.setAttribute('open', true)
+  }
 })

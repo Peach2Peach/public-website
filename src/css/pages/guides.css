@@ -1,4 +1,4 @@
-[id^="guides-"] {
+[id^="faq-"] {
   & figure  {
     & img {
       padding: var(--space-xxs);

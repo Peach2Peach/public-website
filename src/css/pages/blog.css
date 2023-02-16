@@ -1,7 +1,4 @@
 .post-preview {
-  display: flex;
-  gap: var(--space-l);
-
   + .post-preview {
     margin-top: var(--space-l);
   }
