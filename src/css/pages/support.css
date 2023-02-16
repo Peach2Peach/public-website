@@ -1,16 +1,24 @@
 #support {
+  .faq,
   .guides {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     gap: var(--space-m);
-    margin: var(--space-l) auto var(--space-xxl);
 
     & a {
       --max-width: 15rem;
       flex: 1 1 var(--max-width);
       max-width: var(--max-width);
     }
+  }
+
+  .guides {
+    margin: var(--space-xxl) auto var(--space-xl);
+  }
+
+  .faq {
+    margin: var(--space-l) auto var(--space-xxl);
   }
 }

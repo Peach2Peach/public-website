@@ -1,9 +1,10 @@
 #for-meetups {
   & .content-wrap--flex {
-    margin-bottom: var(--space-xl);
+    margin-bottom: var(--space-xxl);
 
     @media (--M_and_up) {
       margin-top: var(--space-xl);
+      margin-bottom: var(--space-xxxl);
     }
   }
 }

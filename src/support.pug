@@ -5,8 +5,13 @@ block main
     .content-wrap.content-wrap--centered
       != html
 
-      h2 Guides
       .guides
+        a(href='/guides/quickstart/').button.button--primary
+          span Quick Start Guide
+          +sprite("quickstart")
+
+      h2 FAQ
+      .faq
         a(href='/guides/quickstart/').button.button--primary
           span Quick Start Guide
           +sprite("quickstart")
