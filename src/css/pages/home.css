@@ -4,10 +4,12 @@
   }
 
   & .contact {
-    align-items: center;
-    justify-content: center;
     max-width: 24rem;
     margin: var(--space-l) auto var(--space-m);
+
+    @media (max-width: 24rem) {
+      max-width: calc(var(--icon-size) * 2.5);
+    }
   }
 }
 
@@ -64,14 +66,12 @@
   }
 
   & a.scroll {
-    padding: var(--space-m);
     margin-top: auto;
-    margin-bottom: var(--space-l);
     color: var(--color-white);
 
     & svg {
-      width: 2rem;
-      height: 1.5rem;
+      width: 4rem;
+      height: 4rem;
     }
   }
 }

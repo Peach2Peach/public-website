@@ -1,7 +1,5 @@
 # Quick Start
 
-[[toc]]
-
 ## Intro: Why Peach?
 
 On a normal exchange, you buy bitcoin from them directly. That often makes it pretty easy, but you do need to upload your identity documents, which could be leaked when the exchange gets hacked, and is generally bad for privacy.

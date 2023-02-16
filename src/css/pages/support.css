@@ -1,0 +1,16 @@
+#support {
+  .guides {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-m);
+    margin-bottom: var(--space-xl);
+
+    & a {
+      --max-width: 15rem;
+      flex: 1 1 var(--max-width);
+      max-width: var(--max-width);
+    }
+  }
+}

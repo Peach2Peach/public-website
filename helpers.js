@@ -47,6 +47,18 @@ const random = max =>  Math.floor(Math.random() * Math.floor(max))
 const transformer = require('jstransformer')
 const { _tr: mdTransformer } = transformer(require('jstransformer-markdown-it'))
 
+// configure replacements
+const replace = require('markdown-it-replace-it')
+replace.replacements.push({
+  name: 'icons',
+  re: /:([\w-_]+?):/gi,
+  html: true,
+  sub (str) {
+    const i = str.replace(/:/g, '')
+    return `<svg role="img"><use href="${assetPath('/img/icons.svg')}#${i}"></use></svg>`
+  }
+})
+
 const config = {
   html: true,
   typographer: true,
@@ -54,12 +66,11 @@ const config = {
     ['markdown-it-container', 'note'],
     ['markdown-it-anchor', { slugify, permalink: false }],
     ['markdown-it-toc-done-right', { slugify, level: 2, listType: 'ul' }],
-    ['markdown-it-implicit-figures', { figcaption: true }],
-    'markdown-it-replace-link'
+    ['markdown-it-implicit-figures', { figcaption: true }],,
+    'markdown-it-replace-link',
+    replace
   ],
-  replaceLink(link) {
-    return getRev(link) || link
-  }
+  replaceLink: assetPath
 }
 
 // monkey-patch render function to pass custom options

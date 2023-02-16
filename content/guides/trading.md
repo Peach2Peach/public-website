@@ -1,7 +1,5 @@
 # Trading Guide
 
-[[toc]]
-
 ## How can I be sure I get the bitcoin / the money?
 
 When making a sell offer, the seller sends the bitcoin to an address that is controlled by him and Peach: the bitcoin can only be moved from here, if he and Peach both sign off on it. This makes sure that:

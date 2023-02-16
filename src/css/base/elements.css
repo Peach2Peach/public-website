@@ -11,7 +11,7 @@ html {
   font-family: var(--font-family-base);
   font-size: var(--font-size-base);
   scroll-behavior: smooth;
-  scroll-padding: calc(var(--header-height) + var(--section-padding-top)) 0 0 0;
+  scroll-padding: var(--header-height) 0 0 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -171,6 +171,11 @@ figure  {
   }
 }
 
+svg[role="img"] {
+  width: 1rem;
+  height: 1rem;
+}
+
 [aria-hidden="true"] {
   display: none;
 }
@@ -226,6 +231,7 @@ form {
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: var(--space-xs);
   border-radius: 3em;
   padding: var(--space-xs) var(--space-l);
   cursor: pointer;
@@ -235,17 +241,35 @@ form {
   font-weight: var(--font-weight-semibold);
   font-family: var(--font-family-base);
   font-size: 1.1rem;
-  background-color: var(--color-white);
   background-repeat: no-repeat;
-  color: var(--color-body-text);
   transition-property: color;
   transition-duration: var(--transition-duration-fast);
+  white-space: nowrap;
 
   &:focus,
   &:hover {
-    color: var(--color-primary-main);
     box-shadow: var(--box-shadow-strong);
     text-decoration: none;
+  }
+
+  &.button--white {
+    color: var(--color-body-text);
+    background-color: var(--color-white);
+
+    &:focus,
+    &:hover {
+      color: var(--color-primary-main);
+    }
+  }
+
+  &.button--primary {
+    color: var(--color-white);
+    background: var(--color-primary-main);
+
+    &:focus,
+    &:hover {
+      background: var(--bg-gradient-peachy);
+    }
   }
 }
 

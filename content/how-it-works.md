@@ -155,19 +155,19 @@ can be connected to your own node for a full sovereign process.
 ## Supported payment methods in Peach
 
 <!-- payment_methods_1 -->
-- Cash
-- SEPA transfers
+- :payment-euro: Cash
+- :payment-sepa: SEPA transfers
 - Online Wallets
-  - PayPal
-  - Revolut
-  - Wise
+  - :payment-paypal: PayPal
+  - :payment-revolut: Revolut
+  - :payment-wise: Wise
 - Gift Cards
-  - Amazon
-  - Steam
+  - :payment-amazon: Amazon
+  - :payment-steam: Steam
 - National Options
-  - Bizum - Spain
-  - Satispay - Italy
-  - MBWay - Portugal
+  - :payment-bizum: Bizum - Spain
+  - :payment-satispay: Satispay - Italy
+  - :payment-mbway: MBWay - Portugal
 
 <!-- payment_methods_2 -->
 Do you want a specific payment method to be integrated into Peach? Contact us with the details and we'll consider adding it.

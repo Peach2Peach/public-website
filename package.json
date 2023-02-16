@@ -43,6 +43,7 @@
     "markdown-it-anchor": "8.6.6",
     "markdown-it-container": "3.0.0",
     "markdown-it-implicit-figures": "0.11.0",
+    "markdown-it-replace-it": "1.0.0",
     "markdown-it-replace-link": "1.2.0",
     "markdown-it-toc-done-right": "4.2.0",
     "node-file-rev": "1.1.4",

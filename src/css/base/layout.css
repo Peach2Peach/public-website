@@ -8,6 +8,12 @@
 
 .content-wrap {
   max-width: 42em;
+
+  &.content-wrap--centered {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
 }
 
 .main {

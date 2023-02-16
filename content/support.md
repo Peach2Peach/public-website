@@ -9,12 +9,3 @@ We're available to respond to encrypted emails.
 Please send your email with your public key attached to [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com).
 
 Our PGP fingerprint: `XXXX XXXX XXXX XXXX XXXX`
-
-## Guides
-
-- [Quick start guide](/faq-quickstart/)
-- [Trading guide](/faq-trading/)
-- [Account guide](/faq-account/)
-- [Privacy guide](/faq-privacy/)
-
-## Contact

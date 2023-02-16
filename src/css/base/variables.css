@@ -19,6 +19,8 @@
   --color-primary-main: #F56522;
   --color-primary-mild-2: #FFA171;
   --color-primary-mild-1: #FCCCB6;
+  --color-peach-rgb: 255, 77, 66;
+  --color-peach: rgba(255, 77, 66, 1);
 
   --color-bg-main-rgb: 255, 249, 246;
   --color-bg-light: #FFFCFA;
@@ -37,7 +39,7 @@
   --bg-gradient-peachy: radial-gradient(110.76% 117.21% at 100% 0%,
     rgba(255, 162, 76, var(--alpha-gradient-peachy, 1)) 0%,
     rgba(255, 122, 80, var(--alpha-gradient-peachy, 1)) 50.25%,
-    rgba(255, 77, 66, var(--alpha-gradient-peachy, 1)) 100%) no-repeat;
+    var(--color-peach) 100%) no-repeat;
 
   --space-xxs: .25rem;
   --space-xs: .5rem;

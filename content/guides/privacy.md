@@ -1,7 +1,5 @@
 # Privacy Guide
 
-[[toc]]
-
 ## What info does Peach collect of me?
 
 We strive to store the absolute minimum amount of data on our users as we can. As a quick overview, this is what we have on our servers:

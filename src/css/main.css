@@ -7,7 +7,8 @@
 @import 'base/footer.css';
 
 /* Sections */
-@import 'sections/home.css';
-@import 'sections/page.css';
-@import 'sections/blog.css';
-@import 'sections/meetups.css';
+@import 'pages/page.css';
+@import 'pages/home.css';
+@import 'pages/blog.css';
+@import 'pages/meetups.css';
+@import 'pages/support.css';
