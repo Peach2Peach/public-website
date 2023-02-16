@@ -64,6 +64,20 @@ const config = {
   typographer: true,
   plugins: [
     ['markdown-it-container', 'note'],
+    ['markdown-it-container', 'details', {
+      validate (params) {
+        return params.trim().match(/^details\s+(.*)$/)
+      },
+
+      render (tokens, idx) {
+        const { info, nesting } = tokens[idx]
+        const isOpening = nesting === 1
+        const [, summary] = info.trim().match(/^details\s+(.*)$/) || []
+        return isOpening
+          ? `<details><summary>${summary}</summary>\n`
+          : '</details>\n'
+      }
+    }],
     ['markdown-it-anchor', { slugify, permalink: false }],
     ['markdown-it-toc-done-right', { slugify, level: 2, listType: 'ul' }],
     ['markdown-it-implicit-figures', { figcaption: true }],,
