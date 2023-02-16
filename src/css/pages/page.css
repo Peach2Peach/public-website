@@ -65,8 +65,7 @@ main {
   align-items: center;
   justify-content: center;
   gap: var(--space-m) var(--space-l);
-  margin-left: auto;
-  margin-right: auto;
+  margin: var(--space-l) auto var(--space-m);
 
   @media (max-width: 32rem) {
     max-width: calc(var(--icon-size) * 3.75);

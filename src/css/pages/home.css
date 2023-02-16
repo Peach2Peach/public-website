@@ -5,7 +5,6 @@
 
   & .contact {
     max-width: 24rem;
-    margin: var(--space-l) auto var(--space-m);
 
     @media (max-width: 24rem) {
       max-width: calc(var(--icon-size) * 2.5);

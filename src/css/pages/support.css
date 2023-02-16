@@ -5,7 +5,7 @@
     align-items: center;
     justify-content: center;
     gap: var(--space-m);
-    margin-bottom: var(--space-xl);
+    margin: var(--space-l) auto var(--space-xxl);
 
     & a {
       --max-width: 15rem;
