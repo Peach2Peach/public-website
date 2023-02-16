@@ -3,10 +3,10 @@
     margin: var(--space-xl) 0 var(--space-l);
   }
 
-  & .form_addon {
+  .form_addon {
     font-size: var(--font-size-s);
 
-    & :last-child {
+    :last-child {
       margin-bottom: 0;
     }
   }

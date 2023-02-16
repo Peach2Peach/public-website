@@ -1,3 +1,5 @@
+const importFresh = require('import-fresh')
+
 const IS_DEV = process.env.NODE_ENV === 'development'
 const HOST = IS_DEV ? 'http://localhost:3000' : getBaseUrl()
 
@@ -29,7 +31,7 @@ const truncate = (str, wordCount) => {
 const linkTarget = url => url.startsWith('http') ? '_blank' : null
 const getRev = path => {
   let revs
-  try { revs = require('./rev-manifest.json') } catch (error) {}
+  try { revs = importFresh('./rev-manifest.json') } catch (error) {}
   return revs && revs[path]
 }
 const assetPath = path => getRev(path) || path
@@ -40,6 +42,12 @@ const assetUrl = (path, protocol = 'https') => {
   if (!url.startsWith(`${protocol}:`)) url = url.replace(/^.*:/, `${protocol}:`)
   return url
 }
+const getVar = path => {
+  let vars
+  try { vars = importFresh('./content/meta.json') } catch (error) {}
+  return vars && vars[path]
+}
+const variable = name => getVar(name) || name
 
 const random = max =>  Math.floor(Math.random() * Math.floor(max))
 
@@ -47,15 +55,28 @@ const random = max =>  Math.floor(Math.random() * Math.floor(max))
 const transformer = require('jstransformer')
 const { _tr: mdTransformer } = transformer(require('jstransformer-markdown-it'))
 
+const ICON_REGEX = /:([\w-_]+?):/gi
+const VARIABLE_REGEX = /\$([\w-_]+?)\$/gi
+
 // configure replacements
 const replace = require('markdown-it-replace-it')
 replace.replacements.push({
   name: 'icons',
-  re: /:([\w-_]+?):/gi,
+  re: ICON_REGEX,
   html: true,
   sub (str) {
     const i = str.replace(/:/g, '')
     return `<svg role="img"><use href="${assetPath('/img/icons.svg')}#${i}"></use></svg>`
+  }
+})
+
+replace.replacements.push({
+  name: 'variables',
+  re: VARIABLE_REGEX,
+  html: true,
+  sub (str) {
+    const v = str.replace(/\$/g, '')
+    return variable(v)
   }
 })
 
@@ -64,11 +85,11 @@ const config = {
   typographer: true,
   plugins: [
     ['markdown-it-container', 'note'],
+    ['markdown-it-container', 'buttons'],
     ['markdown-it-container', 'details', {
       validate (params) {
         return params.trim().match(/^details\s+(.*)$/)
       },
-
       render (tokens, idx) {
         const { info, nesting } = tokens[idx]
         const isOpening = nesting === 1
@@ -84,7 +105,15 @@ const config = {
     'markdown-it-replace-link',
     replace
   ],
-  replaceLink: assetPath
+  replaceLink (link) {
+    const match = link.match(VARIABLE_REGEX)
+    if (match) {
+      const name = match[0].replace(/\$/g, '')
+      const v = variable(name)
+      return v ? link.replace(match[0], v) : link
+    }
+    return assetPath(link)
+  }
 }
 
 // monkey-patch render function to pass custom options

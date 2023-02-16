@@ -29,7 +29,7 @@ attending the meetup, and once they are there, trade in a secure and safe enviro
 You can check out the different meetups that are already using our cash feature in our “[For Meetups](/for-meetups/)” page.
 
 :::note
-If you are a meetup organizer, and want to get your meetup integrated inside Peach, send an email to [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com) or visit
+If you are a meetup organizer, and want to get your meetup integrated inside Peach, send an email to [$contactEmail$](mailto:$contactEmail$) or visit
 our [For Meetups](/for-meetups/) page and fill out the form.
 :::
 

@@ -57,7 +57,8 @@ html(lang=lang)
           +navItem("for-meetups", "For Meetups")
           +navItem("blog", "Blog")
           +navItem("support", "Support")
-    block teaser
+    if hasTeaser
+      block teaser
     main#main.main
       #header-anchor
       block main
@@ -73,11 +74,11 @@ html(lang=lang)
           .box
             h6 Company
             a(href="/join-us/") Join us
-            a(href="/terms-and-conditions/") T&C
+            a(href="/terms-and-conditions/") T&amp;C
             a(href="/privacy-policy/") Privacy Policy
           .box
             h6 Download
-            a(href="/beta/") APK
+            a(href="/apk/") APK
             a(href=siteData.meta.iosUrl) iPhone
             a(href=siteData.meta.androidUrl) Android
           .box

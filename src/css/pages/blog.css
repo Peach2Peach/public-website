@@ -2,11 +2,11 @@
   display: flex;
   gap: var(--space-l);
 
-  & + .post-preview {
+  + .post-preview {
     margin-top: var(--space-l);
   }
 
-  & .date {
+  .date {
     color: var(--color-neutral-65);
   }
 

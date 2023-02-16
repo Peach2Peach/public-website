@@ -4,4 +4,24 @@
       max-width: 65%;
     }
   }
+
+  .payment {
+    & ul {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: var(--space-l);
+    }
+    & li {
+      display: inline-flex;
+      align-items: center;
+      gap: var(--space-xxs);
+
+      & svg[role="img"] {
+        width: 2rem;
+        height: 2rem;
+      }
+    }
+  }
 }

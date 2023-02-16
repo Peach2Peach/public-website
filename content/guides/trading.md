@@ -28,7 +28,7 @@ All your payment details are stored on your phone, so we cannot see them. What w
 
 :::details Is there any way I can buy/sell more than the trading limit?
 
-If you're a high volume buyer or seller, send us an email at [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com)!
+If you're a high volume buyer or seller, send us an email at [$contactEmail$](mailto:$contactEmail$)!
 :::
 
 :::details What are the fees for trading on Peach?

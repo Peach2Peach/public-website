@@ -216,7 +216,7 @@ form {
   }
 }
 
-.button {
+@define-mixin peach-button {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -240,26 +240,68 @@ form {
     box-shadow: var(--box-shadow-strong);
     text-decoration: none;
   }
+}
+
+@define-mixin peach-button-white {
+  color: var(--color-body-text);
+  background-color: var(--color-white);
+
+  &:focus,
+  &:hover {
+    color: var(--color-primary-main);
+  }
+}
+
+@define-mixin peach-button-primary {
+  color: var(--color-white);
+  background: var(--color-primary-main);
+
+  &:focus,
+  &:hover {
+    background: var(--bg-gradient-peachy);
+  }
+}
+
+.button {
+  @mixin peach-button;
 
   &.button--white {
-    color: var(--color-body-text);
-    background-color: var(--color-white);
-
-    &:focus,
-    &:hover {
-      color: var(--color-primary-main);
-    }
+    @mixin peach-button-white;
   }
 
   &.button--primary {
-    color: var(--color-white);
-    background: var(--color-primary-main);
-
-    &:focus,
-    &:hover {
-      background: var(--bg-gradient-peachy);
-    }
+    @mixin peach-button-primary;
   }
+}
+
+.buttons,
+.buttons p {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-m) var(--space-l);
+}
+
+.buttons {
+  margin: var(--space-l) 0;
+
+  & p {
+    width: 100%;
+  }
+
+  & a {
+    flex: 0 0 16rem;
+    @mixin peach-button;
+  }
+}
+
+.teaser .buttons a {
+  @mixin peach-button-white;
+}
+
+:not(.teaser) >  .buttons a {
+  @mixin peach-button-primary;
 }
 
 .note {

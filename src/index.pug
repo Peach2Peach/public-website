@@ -5,14 +5,7 @@ block append vars
 
 block teaser
   section.teaser
-    h1 Peach Bitcoin
-    h2
-      = "Buy & Sell Bitcoin "
-      span peer-to-peer
-    .download
-      a.button.button--white(href=siteData.meta.iosUrl) Download on iPhone
-      a.button.button--white(href=siteData.meta.androidUrl) Download on Android
-    img(src=assetPath('/img/phones.png') alt="Swipe, match, stack")
+    != html.teaser
     a.scroll(href="#main"): +sprite("chevron-down")
 
 block main

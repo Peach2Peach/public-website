@@ -6,10 +6,6 @@ block append vars
 block teaser
   section.teaser
     != html.teaser
-    .download
-      a.button.button--white(href=siteData.meta.iosUrl) Download on iPhone
-      a.button.button--white(href=siteData.meta.androidUrl) Download on Android
-    != html.teaser_1
     a.scroll(href="#main"): +sprite("chevron-down")
 
 block main

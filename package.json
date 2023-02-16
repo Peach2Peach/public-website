@@ -38,9 +38,10 @@
     "csso-cli": "4.0.1",
     "glob": "8.1.0",
     "gray-matter": "4.0.3",
+    "import-fresh": "3.3.0",
     "jstransformer-markdown-it": "3.0.0",
     "markdown-it": "13.0.1",
-    "markdown-it-anchor": "8.6.6",
+    "markdown-it-anchor": "8.6.7",
     "markdown-it-container": "3.0.0",
     "markdown-it-implicit-figures": "0.11.0",
     "markdown-it-replace-it": "1.0.0",
@@ -54,7 +55,8 @@
     "postcss-cli": "10.1.0",
     "postcss-custom-media": "9.1.2",
     "postcss-import": "15.1.0",
-    "postcss-nesting": "11.2.0",
+    "postcss-mixins": "9.0.4",
+    "postcss-nesting": "11.2.1",
     "pug": "3.0.2",
     "svgstore": "3.0.1"
   }

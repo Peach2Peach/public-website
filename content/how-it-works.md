@@ -6,7 +6,10 @@ template: how_it_works
 
 ## Stack sats every day
 
-<!-- teaser_1 -->
+:::buttons
+[Download on iPhone]($iosUrl$)
+[Download on Android]($androidUrl$)
+:::
 
 ![](/img/tachira/peach-screen-1-nobg.png)
 
@@ -159,6 +162,8 @@ can be connected to your own node for a full sovereign process.
 
 ![](/img/tachira/peach-screen-5-nobg.png)
 
+<div class="payment">
+
 # Supported payment methods
 
 ## General
@@ -186,3 +191,5 @@ can be connected to your own node for a full sovereign process.
 Do you want a specific payment method to be integrated into Peach? Contact us with the details and we'll consider adding it.
 
 ![](/img/tachira/ezgif-4-b11eb7d69f.gif)
+
+</div>

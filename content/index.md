@@ -1,6 +1,18 @@
 ---
 template: index
 ---
+<!-- teaser -->
+# Peach Bitcoin
+
+## Buy & Sell Bitcoin <span>peer-to-peer</span>
+
+:::buttons
+[Download on iPhone]($iosUrl$)
+[Download on Android]($androidUrl$)
+:::
+
+![](/img/phones.png)
+
 <!-- top -->
 ## Buy and Sell Bitcoin, the way you want
 

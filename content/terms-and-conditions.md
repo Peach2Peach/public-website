@@ -269,4 +269,4 @@ These Service Terms contain the entire understanding between the parties as to t
 
 ## 21. Contact
 
-If you have any questions, comments, concerns or other correspondence, Peach can be contacted via email on [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com)
+If you have any questions, comments, concerns or other correspondence, Peach can be contacted via email on [$contactEmail$](mailto:$contactEmail$)
