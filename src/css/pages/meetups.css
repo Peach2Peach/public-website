@@ -1,13 +1,9 @@
 #for-meetups {
-  & form {
-    margin: var(--space-xl) 0 var(--space-l);
-  }
+  & .content-wrap--flex {
+    margin-bottom: var(--space-xl);
 
-  .form_addon {
-    font-size: var(--font-size-s);
-
-    :last-child {
-      margin-bottom: 0;
+    @media (--M_and_up) {
+      margin-top: var(--space-xl);
     }
   }
 }

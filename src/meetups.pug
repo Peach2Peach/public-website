@@ -9,8 +9,12 @@ block pageScripts
 
 block main
   section.wrap
-    .content-wrap
-      != html.intro
+    .content-wrap.content-wrap--centered
+      != html.headline
+
+    .content-wrap.content-wrap--flex
+      .intro
+        != html.intro
 
       form(method="POST" action="https://5dcdd79e.sibforms.com/serve/MUIEACK8DNtsYekP-whrDbBFB1y3mlblrQm0hnpDEW06e-6_pp5TeB8pA3E-j2U3pw9xZZ5iIdtHjHlzBbjHoKB6D2BBHo2CvW0rFPlP05jJ97khgMEdrM4TqiD69oVkkQaINYSH7zQVIxwbLaLs0vYBcoMOcrQdcHXha_LfF0NDYDG9dtJTyidQHboAEDkOtNNdELB1E1bZqXCp")
         h4 Are you a meetup organizer?
@@ -29,13 +33,8 @@ block main
         input(type="hidden" name="locale" value="en")
         input(type="hidden" name="html_type" value="simple")
 
-      .form_addon!= html.form_addon
-
-  .wrap
-    .content-wrap
+    .content-wrap.content-wrap--centered
       != html.map
-
-  br
 
   +map('meetupMap', siteData.meetups.map(m => JSON.stringify({
       name: m.name,

@@ -171,10 +171,12 @@ img:-moz-loading {
 
 form {
   max-width: 29rem;
+  flex: 0 1 29rem;
   color: var(--color-white);
   background: var(--bg-gradient-peachy);
   padding: var(--space-m) var(--space-l);
   border-radius: var(--border-radius);
+  text-align: left;
 
   & h4 {
     margin-bottom: var(--space-m);
