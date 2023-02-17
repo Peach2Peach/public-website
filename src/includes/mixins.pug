@@ -14,7 +14,7 @@ mixin postPreview(post)
       p= post.description
 
 mixin navItem(id, title)
-  a(href=`/${id}/` class=(navCurrent === id && 'current'))&attributes(attributes)= title
+  a(href=`/${id}/` class=(permalink === id && 'current'))&attributes(attributes)= title
 
 mixin map(id, markers)
   .vectorMap(id=id)

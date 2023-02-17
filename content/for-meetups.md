@@ -2,7 +2,7 @@
 template: meetups
 ---
 <!-- headline -->
-# For meetups
+# Integrate your meetup in Peach
 
 <!-- intro -->
 Are you the kind of Bitcoiner who likes to travel all around, but always need to sell some corn for cash everywhere you go?

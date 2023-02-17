@@ -30,7 +30,8 @@ const getMarkdown = filepath => {
 
 const extractTitle = text => {
   if (!text) return
-  return (text.match(/^# (.*)/) || [])[1]
+  console.log(text)
+  return (text.match(/# (.*)/) || [])[1]
 }
 
 const extractDescription = text => {

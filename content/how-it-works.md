@@ -1,10 +1,11 @@
 ---
+title: How it works
 template: how_it_works
 ---
 <!-- teaser -->
-# How it works
+# Stack sats <span>every day</span>
 
-## Stack sats every day
+### Download the app and get your account immediately set up!
 
 :::buttons
 [Download on iPhone]($iosUrl$)
@@ -13,9 +14,7 @@ template: how_it_works
 
 ![](/img/tachira/peach-screen-1-nobg.png)
 
-Download the app and get your account immediately set up!
-
-Buy and Sell up to 1000 CHF per day and 100'000 CHF per year.
+**Buy and Sell up to 1000 CHF per day and 100'000 CHF per year.**
 
 <!-- main -->
 # How it works

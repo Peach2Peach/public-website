@@ -138,17 +138,6 @@ nav {
   }
 }
 
-strong {
-  color: var(--color-neutral-65);
-  font-weight: var(--font-weight-semibold);
-}
-
-code {
-  color: var(--color-neutral-65);
-  font-size: var(--font-size-s);
-  font-family: monospace;
-}
-
 small {
   font-size: var(--font-size-s);
 }
@@ -405,5 +394,18 @@ main {
   & svg[role="img"] {
     width: 1rem;
     height: 1rem;
+  }
+
+  & strong {
+    font-weight: var(--font-weight-semibold);
+    background: var(--bg-gradient-peachy);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  & code {
+    color: var(--color-neutral-65);
+    font-size: var(--font-size-s);
+    font-family: monospace;
   }
 }

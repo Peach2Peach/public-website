@@ -82,10 +82,23 @@
   & h1 {
     margin-top: auto;
     font-size: clamp(3rem, 10vw, 5rem);
+    max-width: 17em;
   }
 
   & h2 {
     font-size: clamp(2rem, 7vw, 3.5rem);
+    max-width: 17em;
+  }
+
+  & h3 {
+    font-size: clamp(1.5rem, 5vw, 2.5rem);
+    max-width: 17em;
+  }
+
+  & strong {
+    font-size: var(--font-size-l);
+    color: inherit;
+    max-width: 17em;
   }
 
   & span {
