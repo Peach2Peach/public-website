@@ -5,6 +5,8 @@ keywords:
   - Payment method
   - P2P
   - Peer to peer trades
+tags:
+  - How To
 helpFooter: true
 description: |
   Peach provides “meeting points” for users where it is recommended to trade with cash, for security reasons. This meeting points are already

@@ -4,6 +4,8 @@ keywords:
   - Bitcoin
   - P2P
   - Peer to peer trades
+tags:
+  - Meetups
 #teaser: /img/tachira/peach-screen-4-nobg.png
 helpFooter: true
 ---

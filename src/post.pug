@@ -19,5 +19,10 @@ block main
 
       p.date= (new Date(date)).toLocaleDateString('en-us', { year: 'numeric', month: 'long', day: 'numeric' })
 
+      if tags
+        p.tags
+          = "Tagged with:"
+          each tag in tags
+            a(href=`/blog/tag/${slugify(tag)}`)= tag
       p
         a(href="/blog/") All blog posts

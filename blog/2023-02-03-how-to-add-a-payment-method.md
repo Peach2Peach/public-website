@@ -5,14 +5,12 @@ keywords:
   - Payment method
   - P2P
   - Peer to peer trades
+tags:
+  - How To
 helpFooter: true
 description: |
   One would first ask, why do we want to add other payment methods in our trades? The reason is simple.
-  As you know, Peach allows users to trade Bitcoin p2p, the problem is when another user wants to trade with you, but you cannot see his/her offer just because they are using another
-  payment method.
-
-  To be open to the maximum possible options, and be able to choose from a wide range of matches, you need to open yourself to trade with
-  different payment methods.
+  As you know, Peach allows users to trade Bitcoin p2p, the problem is when another user wants to trade with you, but you cannot see his/her offer just because they are using anothercpayment method. To be open to the maximum possible options, and be able to choose from a wide range of matches, you need to open yourself to trade withcdifferent payment methods.
 ---
 # How to add a new payment method on the Peach app
 
