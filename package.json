@@ -28,8 +28,9 @@
     "build:styles": "postcss src/css/main.css --output dist/css/main.css",
     "optimize": "npm-run-all -p optimize:* -s rev",
     "optimize:styles": "csso dist/css/main.css --output dist/css/main.css",
+    "sitemap": "node tasks/generate_sitemap.js",
     "rev": "node-file-rev --root=dist dist/css/*.css dist/js/*.js dist/img/*.jpg dist/img/*.png dist/img/*.svg dist/img/tachira/*.gif dist/img/tachira/*.png",
-    "prod": "NODE_ENV=production npm-run-all init optimize build:data build:pages"
+    "prod": "NODE_ENV=production npm-run-all init optimize build:data build:pages sitemap"
   },
   "devDependencies": {
     "autoprefixer": "10.4.13",
