@@ -106,9 +106,10 @@ ul,
 ol,
 nav,
 figure,
+.figures,
 .note {
   & + h1 {
-    padding-top: var(--space-xxxl);
+    padding-top: var(--space-xxl);
   }
 
   & + h2 {
@@ -126,7 +127,11 @@ figure,
 h3,
 h4,
 h5,
-h6 {
+h6,
+p,
+ul,
+ol,
+nav {
   & + figure,
   & + .figures {
     margin-top: var(--space-l);
@@ -361,11 +366,22 @@ details[open] article {
     @media (--up_to_S) {
       flex-basis: 100%;
     }
-    @media (--S_to_L) {
+    @media (--S_to_M) {
       flex-basis: calc(50% - var(--space-xl));
+    }
+    @media (--M_to_L) {
+      flex-basis: calc(33% - var(--space-xl));
     }
     @media (--L_and_up) {
       flex-basis: calc(25% - var(--space-xl));
+    }
+  }
+
+  &.figures--3 {
+    & figure {
+      @media (--S_to_M) {
+        flex-basis: calc(33% - var(--space-xl));
+      }
     }
   }
 

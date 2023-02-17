@@ -14,9 +14,10 @@ const stripHTML = str => {
 
 // slug
 const slugify = str => str.toLowerCase().trim()
-  .replace(/[^\w\s-]/g, '')
-  .replace(/[\s_-]+/g, '-')
-  .replace(/^-+|-+$/g, '')
+  .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue')
+  .replace(/\//g, '-')
+  .replace(/\s+/g, '-').replace(/[^\w\-]+/g, '')
+  .replace(/\-\-+/g, '-').replace(/^-+/, '').replace(/-+$/, '')
 
 const truncate = (str, wordCount) => {
   const words = str.trim().split(/\s(?![^\[]*\])/g)
@@ -89,7 +90,19 @@ const config = {
     [markdownItTocAndAnchor, { slugify, anchorLink: false, tocFirstLevel: 2, tocLastLevel: 2 }],
     ['markdown-it-container', 'note'],
     ['markdown-it-container', 'buttons'],
-    ['markdown-it-container', 'figures'],
+    ['markdown-it-container', 'figures', {
+      validate (params) {
+        return params.trim().match(/^figures\s+(\d+)$/)
+      },
+      render (tokens, idx) {
+        const { info, nesting } = tokens[idx]
+        const isOpening = nesting === 1
+        const [, count] = info.trim().match(/^figures\s+(.*)$/) || []
+        return isOpening
+          ? `<div class="figures figures--${count}">\n`
+          : '</div>\n'
+      }
+    }],
     ['markdown-it-container', 'details', {
       validate (params) {
         return params.trim().match(/^details\s+(.*)$/)

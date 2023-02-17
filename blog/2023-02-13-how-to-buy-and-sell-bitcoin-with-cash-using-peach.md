@@ -16,8 +16,6 @@ description: |
 Disclaimer: The process to add a new meetup as a payment method is the same for both buyer and seller. Once the meetup is added, both
 counterparts need to follow the usual Peach process to publish their trade and find a trading partner.
 
-[[toc]]
-
 ## Intro
 
 Dear peachies, in today’s tutorial we’ll explain how Peach users can trade with cash using the Peach app.
@@ -48,10 +46,11 @@ meetups, we’ll see we can “**add a new meetup**”.
 
 2. Once we’ve clicked on “add new meetup”, a full list of the available **Countries** will appear on the app. Choose your desired country, and
 then you’ll see the full list of **meetups** available in that country.
-
+    :::figures 2
     ![Select country](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-country.png)
 
     ![Select meetup](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-meetup.png)
+    :::
 
 3. Once the meetup has been chosen, you’ll see a full screen with all the available information about it. There you’ll be able to “**add this
 meetup**” to your payment methods list.
@@ -65,10 +64,11 @@ goes wrong with those trades.
 
 5. After accepting it, you’ll have added successfully the meetup into your payment methods list, and you’ll be able to proceed with publishing
 the buy/sell offer as you’d normally do with any other payment method in Peach.
-
+    :::figures 2
     ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-cash-option.png)
 
     ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-cash-option.png)
+    :::
 
 Once you click on Next, and the offer is published, you’ll be able to match with other peers who have published buy or sell offers in the
 same meetup.

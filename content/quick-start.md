@@ -15,7 +15,7 @@ Peach is **easy** to use, it's more **private** , has **more payment methods** a
 After you've installed the app (through the [App Store]($iosUrl$), [Play Store]($androidUrl$) or [APK download](/apk/)), you're pretty much already done.
 The only thing required from you right now is a referral code - if you have one.
 
-:::figures
+:::figures 4
 ![First you'll be asked if you want to share some data with us](/img/faq/quickstart/onboarding/usage-data.png)
 
 ![You'll then be met by a quick three-step explainer on how Peach works.](/img/faq/quickstart/onboarding/1.png)
@@ -33,7 +33,7 @@ Placing your first buy offer can be done in just a few seconds. You'll just need
 
 Here's the step by step of your first buy offer:
 
-:::figures
+:::figures 5
 ![You'll first select how much you want to buy. This is always a range, and you'll be shown all sell offers available in that range.](/img/faq/quickstart/buy/BuyStep1.png)
 
 ![You'll then need to tell us how you want to pay. If you want to know more about payment methods, you should [read this guide](#guide-4-adding-payment-methods). At the end, you can come right back here.](/img/faq/quickstart/buy/BuyStep2.png)
@@ -51,7 +51,7 @@ After publishing your buy offer, you'll be shown all the sell offers that fall w
 
 ![Match Card](/img/faq/quickstart/buy/MatchCardExplainer.png)
 
-:::figures
+:::figures 2
 ![When you've selected the currency and payment method you want to use for this trade (if you have more than one in common), you can match the offer.](/img/faq/quickstart/buy/BuyStep6.png)
 
 ![You'll get five seconds to undo if you change your mind. After that, the seller will be notified of their match, and unmatching now is considered a dick move (your Peach Score will be hurt)](/img/faq/quickstart/buy/BuyStep7.png)
@@ -59,7 +59,7 @@ After publishing your buy offer, you'll be shown all the sell offers that fall w
 
 ### Making the trade
 
-:::figures
+:::figures 2
 ![If the seller matches you back, you'll be notified & shown their payment details. You should go to your payment app and manually make the payment there. After that, you confirm that you did with the slider at the bottom, and you wait for the seller to respond (you can chit-chat in the meantime).](/img/faq/quickstart/buy/BuyStep8.png)
 
 ![Once the seller confirms, the deed is done! The bitcoin amount will be sent to your wallet and you can give eachother a rating. (Assuming everything went well, of course.)](/img/faq/quickstart/buy/BuyStep9.png)
@@ -73,7 +73,7 @@ Here's the step by step of your first sell offer:
 
 ### Creating a sell offer
 
-:::figures
+:::figures 7
 ![First, you'll select how much you want to sell. You can select any amount, but there is a maximum to prevent your offer for going over the daily limit and becoming unavailable.](/img/faq/quickstart/sell/SellStep01.png)
 
 ![You'll then select if you want to offer the buyer a discount, or ask a little more than the market price.](/img/faq/quickstart/sell/SellStep02.png)
@@ -97,7 +97,7 @@ After publishing your sell offer, it will be shown to all the buyers that have a
 
 ### Making the trade
 
-:::figures
+:::figures 3
 ![After you've selected a match, the trade is officially made. You'll get to see from where the buyer will be making the payment, and for how much. You can also chat with your buyer should you have any questions.](/img/faq/quickstart/sell/SellStep08.png)
 
 ![Once the buyer has made the payment, you should check the relevant payment account to see if you received it. If you did, you can confirm it here. Once you've confirmed you received the payment, the bitcoin will be sent to the buyer.](/img/faq/quickstart/sell/SellStep09.png)
@@ -109,7 +109,7 @@ After publishing your sell offer, it will be shown to all the buyers that have a
 
 When you make a buy or sell offer in Peach, you'll need to let your counterparty know how you'll pay, or want to be paid.
 
-:::figures
+:::figures 7
 ![First, you can choose between two categories: **remote** (e.g. bank transfer, paypal) or on a **meetup** (with cash).](/img/faq/quickstart/add-payment-method/AddPM01.png)
 
 ![You'll then select which currency you want to use for this payment method.](/img/faq/quickstart/add-payment-method/AddPM02.png)

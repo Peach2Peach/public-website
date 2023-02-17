@@ -29,3 +29,25 @@
     margin-bottom: 0;
   }
 }
+
+[id^="blog-"] {
+  .figures {
+    justify-content: flex-start;
+
+    & figure {
+      & figcaption {
+        text-align: center;
+      }
+    }
+  }
+
+  & figure  {
+    text-align: left;
+
+    & img {
+      padding: var(--space-xxs);
+      border-radius: var(--space-l);
+      background-color: var(--color-neutral-5);
+    }
+  }
+}
