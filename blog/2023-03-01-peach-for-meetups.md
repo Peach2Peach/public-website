@@ -6,7 +6,7 @@ keywords:
   - Peer to peer trades
 tags:
   - Meetups
-#teaser: /img/tachira/peach-screen-4-nobg.png
+previewImage: /img/blog/peach-for-meetups/teaser.jpg
 helpFooter: true
 ---
 # Peach x Meetups

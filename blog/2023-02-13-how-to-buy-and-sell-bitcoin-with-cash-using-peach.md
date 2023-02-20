@@ -7,6 +7,7 @@ keywords:
   - Peer to peer trades
 tags:
   - How To
+previewImage: /img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/teaser.jpg
 helpFooter: true
 description: |
   Peach provides “meeting points” for users where it is recommended to trade with cash, for security reasons. This meeting points are already
