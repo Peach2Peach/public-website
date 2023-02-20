@@ -1,10 +1,10 @@
 #index {
   & .contact {
     --icon-size: 4rem;
-    max-width: 24rem;
+    max-width: 26rem;
 
-    @media (max-width: 24rem) {
-      max-width: calc(var(--icon-size) * 2.5);
+    @media (--up_to_M) {
+      max-width: 16em;
     }
   }
 }

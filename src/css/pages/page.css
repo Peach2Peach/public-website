@@ -144,7 +144,7 @@
   margin: var(--space-l) auto var(--space-m);
 
   @media (max-width: 32rem) {
-    max-width: calc(var(--icon-size) * 3.75);
+    max-width: calc(var(--icon-size) * 4);
   }
 
   & a {
