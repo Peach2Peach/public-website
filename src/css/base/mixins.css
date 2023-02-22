@@ -43,3 +43,10 @@
     background: var(--bg-gradient-peachy);
   }
 }
+
+@define-mixin peach-text {
+  font-weight: var(--font-weight-bold);
+  background: var(--bg-gradient-peachy);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

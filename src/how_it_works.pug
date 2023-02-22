@@ -10,5 +10,34 @@ block teaser
 
 block main
   section.wrap
-    .content-wrap.content-wrap--centered
-      != html.main
+    article.content-wrap.content-wrap--flex
+      div!= html.easy_registration
+      img(src=assetPath("/img/tachira/easy_registration.png"))
+
+    article.content-wrap.content-wrap--flex
+      div!= html.not_your_keys
+      img(src=assetPath("/img/tachira/peach-screen-3-nobg.png"))
+
+    article.content-wrap.content-wrap--flex
+      div!= html.security
+      img(src=assetPath("/img/tachira/security.png"))
+
+    article.content-wrap.content-wrap--flex
+      div!= html.difference
+      img(src=assetPath("/img/tachira/difference.png"))
+
+    article#sounds_cool.content-wrap.content-wrap--centered
+      != html.sounds_cool
+      a(href="/quick-start/").button.button--primary
+        span Quick Start Guide
+        +sprite("quickstart")
+
+    article#payment.content-wrap.content-wrap--flex
+      div!= html.payment_methods
+      img(src=assetPath("/img/tachira/ezgif-4-b11eb7d69f.gif"))
+
+    article#questions.content-wrap.content-wrap--centered
+      != html.questions
+      a(href="/support/").button.button--primary
+        span Support
+        +sprite("help")

@@ -1,11 +1,75 @@
 #how-it-works {
-  & img {
-    &[src$=".gif"] {
-      max-width: 65%;
+  .teaser {
+    & figure {
+      margin-top: auto;
+    }
+    & img {
+      max-width: 1100px;
+    }
+
+    & h1 {
+      font-size: clamp(2rem, 7vw, 4rem);
     }
   }
 
-  .payment {
+  & figcaption {
+    display: none;
+  }
+
+  & article + article {
+    margin-top: var(--space-xxl);
+  }
+
+  & .content-wrap--flex {
+    & div {
+      text-align: center;
+    }
+
+    @media (--up_to_M) {
+      & img {
+        width: 100%;
+        max-width: 400px;
+        align-self: center;
+      }
+    }
+
+    @media (--M_and_up) {
+      align-items: center;
+
+      & div {
+        --flex-width: 60%;
+        text-align: center;
+
+        > &:last-child {
+          margin-bottom: 0;
+        }
+      }
+      & img {
+        --flex-width: 40%;
+        width: 100%;
+
+        &[src$=".gif"] {
+          max-width: 30%;
+          margin-left: 7.5%;
+          margin-right: 7.5%;
+        }
+      }
+
+      &:nth-child(odd) {
+        & img {
+          order: 0;
+        }
+
+        & div {
+          order: 1;
+        }
+      }
+    }
+  }
+
+  #payment {
+    margin-top: var(--space-xxxl);
+
     & ul {
       display: flex;
       flex-wrap: wrap;
@@ -22,6 +86,21 @@
         width: 2rem;
         height: 2rem;
       }
+    }
+  }
+
+  #sounds_cool,
+  #questions {
+    margin-top: var(--space-xxxl);
+
+    & h3 {
+      @mixin peach-text;
+      font-size: var(--font-size-xl);
+    }
+
+    & .button {
+      max-width: 15rem;
+      margin: var(--space-l) auto var(--space-xl);
     }
   }
 }

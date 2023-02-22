@@ -20,11 +20,8 @@
 
 #mission {
   & h2 {
+    @mixin peach-text;
     font-size: var(--font-size-xxxl);
-    font-weight: var(--font-weight-bold);
-    background: var(--bg-gradient-peachy);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
   }
 }
 

@@ -39,7 +39,8 @@
     }
     @media (--M_and_up) {
       > * {
-        flex-basis: calc(50% - var(--gap-h) / 2);
+        --flex-width: 50%;
+        flex-basis: calc(var(--flex-width) - var(--gap-h) / 2);
       }
     }
   }
