@@ -45,14 +45,15 @@ We have a full getting started guide right here:
 <!-- payment_methods -->
 ### Supported payment methods
 
-There are a whole bunch of payment methods you can choose from.
+There are a whole bunch of payment methods you can choose from.<br>
 If you have one you'd like to use, but it isn't listed, let us know!
 
-<!-- payment_methods_list -->
 #### General
 
 - :payment-euro: Cash
-- :payment-sepa: SEPA transfers
+- :payment-sepa: SEPA
+
+---
 
 #### Online Wallets
 
@@ -60,10 +61,14 @@ If you have one you'd like to use, but it isn't listed, let us know!
 - :payment-revolut: Revolut
 - :payment-wise: Wise
 
+---
+
 #### Gift Cards
 
 - :payment-amazon: Amazon
 - :payment-steam: Steam
+
+---
 
 #### National Options
 

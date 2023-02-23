@@ -29,7 +29,7 @@
     }
 
     @media (--up_to_M) {
-      & img {
+      & figure {
         width: 100%;
         max-width: 400px;
         align-self: center;
@@ -38,23 +38,20 @@
 
     @media (--M_and_up) {
       & div {
-        --flex-width: 60%;
+        --flex-width: 55%;
         text-align: center;
 
         > &:last-child {
           margin-bottom: 0;
         }
       }
-      & img {
-        --flex-width: 40%;
+      & figure {
+        --flex-width: 45%;
         width: 100%;
-
-        &[src$=".gif"] {
-        }
       }
 
       &:nth-child(odd) {
-        & img {
+        & figure {
           order: 0;
         }
 
@@ -63,12 +60,24 @@
         }
       }
     }
+
+    @media (--L_and_up) {
+      & div {
+        padding: 0 var(--space-xxl);
+      }
+    }
   }
 
-  #payment_list {
+  #payment {
     --icon-size: 2rem;
     margin-top: var(--space-l);
     gap: 0;
+
+    & hr {
+      border-top: 2px solid var(--color-neutral-10);
+      margin: var(--space-l) auto;
+      width: 4em;
+    }
 
     & ul {
       display: flex;
@@ -81,6 +90,9 @@
       display: inline-flex;
       align-items: center;
       gap: var(--space-xxs);
+      flex-direction: column;
+      color: var(--color-neutral-65);
+      font-size: var(--font-size-s);
     }
   }
 

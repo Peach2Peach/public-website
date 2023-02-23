@@ -12,19 +12,19 @@ block main
   section.wrap
     article.content-wrap.content-wrap--flex
       div!= html.easy_registration
-      img(src=assetPath("/img/how-it-works/easy_registration.png"))
+      figure: img(src=assetPath("/img/how-it-works/easy_registration.png"))
 
     article.content-wrap.content-wrap--flex
       div!= html.self_custody
-      img(src=assetPath("/img/how-it-works/self_custody.png"))
+      figure: img(src=assetPath("/img/how-it-works/self_custody.png"))
 
     article.content-wrap.content-wrap--flex
       div!= html.security
-      img(src=assetPath("/img/how-it-works/security.png"))
+      figure: img(src=assetPath("/img/how-it-works/security.png"))
 
     article.content-wrap.content-wrap--flex
       div!= html.difference
-      img(src=assetPath("/img/how-it-works/difference.png"))
+      figure: img(src=assetPath("/img/how-it-works/difference.png"))
 
   section.wrap
     article#sounds_cool.content-wrap.content-wrap--centered
@@ -36,10 +36,6 @@ block main
   section.wrap
     article#payment.content-wrap.content-wrap--centered
       != html.payment_methods
-
-    article#payment_list.content-wrap.content-wrap--flex
-      div!= html.payment_methods_list
-      img(src=assetPath("/img/how-it-works/payment.gif"))
 
   section.wrap
     article#questions.content-wrap.content-wrap--centered

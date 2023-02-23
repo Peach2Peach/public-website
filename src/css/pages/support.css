@@ -1,17 +1,28 @@
 #support {
-  .faq,
   .guides {
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-m);
     max-width: 15rem;
-  }
-
-  .guides {
-    margin: var(--space-xxl) auto var(--space-xl);
+    margin: var(--space-l) auto var(--space-xl);
   }
 
   .faq {
-    margin: var(--space-l) auto var(--space-xxl);
+    display: flex;
+    gap: var(--space-m);
+
+    @media (--up_to_M) {
+      flex-direction: column;
+      max-width: 15rem;
+      margin: var(--space-l) auto var(--space-xl);
+    }
+
+    @media (--M_and_up) {
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      margin: var(--space-l) 0 var(--space-xxl);
+
+      & a {
+        flex: 0 0 12rem;
+      }
+    }
   }
 }

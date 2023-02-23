@@ -16,6 +16,11 @@
     max-width: 26em;
     font-size: var(--font-size-l);
   }
+  & p {
+    max-width: 23em;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 #mission {

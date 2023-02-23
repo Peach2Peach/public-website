@@ -3,7 +3,7 @@ extends /template.pug
 block main
   section.wrap
     .content-wrap.content-wrap--centered
-      != html
+      != html.intro
 
       .guides
         a(href="/quick-start/").button.button--primary
@@ -22,7 +22,7 @@ block main
           span Privacy
           +sprite("privacy")
 
-      h2 Contact
+      != html.contact
       .contact
         a(href=`mailto:${siteData.meta.contactEmail}` title="email")
           +sprite("social-email", "Email")
