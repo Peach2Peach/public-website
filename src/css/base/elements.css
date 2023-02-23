@@ -440,10 +440,8 @@ main {
   }
 
   & strong {
+    @mixin peach-text;
     font-weight: var(--font-weight-semibold);
-    background: var(--bg-gradient-peachy);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
   }
 
   & code {

@@ -1,10 +1,13 @@
 #index {
   & .contact {
-    --icon-size: 4rem;
     max-width: 26rem;
 
     @media (--up_to_M) {
       max-width: 16em;
+    }
+
+    & svg[role="img"] {
+      --icon-size: 4rem;
     }
   }
 }

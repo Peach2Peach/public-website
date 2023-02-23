@@ -27,7 +27,7 @@
     "build:pages": "node tasks/generate_pages.js",
     "build:styles": "postcss src/css/main.css --output dist/css/main.css",
     "optimize": "npm-run-all -p optimize:* -s rev",
-    "optimize:styles": "csso dist/css/main.css --output dist/css/main.css",
+    "optimize:styles": "csso --no-restructure dist/css/main.css --output dist/css/main.css",
     "sitemap": "node tasks/generate_sitemap.js",
     "rev": "node-file-rev --root=dist dist/css/*.css dist/js/*.js dist/img/*.jpg dist/img/*.png dist/img/*.svg dist/img/how-it-works/*.gif dist/img/how-it-works/*.png",
     "prod": "NODE_ENV=production npm-run-all init optimize build:data build:pages sitemap"
