@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "autoprefixer": "10.4.13",
-    "browser-sync": "2.27.11",
+    "browser-sync": "2.27.12",
     "csso-cli": "4.0.1",
     "glob": "8.1.0",
     "gray-matter": "4.0.3",
