@@ -37,7 +37,6 @@
     }
 
     @media (--M_and_up) {
-
       & div {
         --flex-width: 60%;
         text-align: center;

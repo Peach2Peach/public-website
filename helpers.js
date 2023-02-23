@@ -57,6 +57,8 @@ const { _tr: mdTransformer } = transformer(require('jstransformer-markdown-it'))
 const ICON_REGEX = /:([\w-_]+):/gi
 const VARIABLE_REGEX = /\$([\w-_]+)\$/gi
 
+const icon = symbol => `<svg role="img"><use href="${assetPath('/img/icons.svg')}#${symbol}"></use></svg>`
+
 // configure replacements
 const replace = require('markdown-it-replace-it')
 replace.replacements.push({
@@ -65,7 +67,7 @@ replace.replacements.push({
   html: true,
   sub (str) {
     const i = str.replace(/:/g, '')
-    return `<svg role="img"><use href="${assetPath('/img/icons.svg')}#${i}"></use></svg>`
+    return icon(i)
   }
 })
 
@@ -114,6 +116,19 @@ const config = {
         return isOpening
           ? `<details id="${slugify(summary)}"><summary><span class="title">${summary}</span><span class="marker"></span></summary><article>\n`
           : '</article></details>\n'
+      }
+    }],
+    ['markdown-it-container', 'box', {
+      validate (params) {
+        return params.trim().match(/^box\s+([\w-]+)$/)
+      },
+      render (tokens, idx) {
+        const { info, nesting } = tokens[idx]
+        const isOpening = nesting === 1
+        const [, symbol] = info.trim().match(/^box\s+(.*)$/) || []
+        return isOpening
+          ? `<div class="info-box">\n${icon(symbol)}\n`
+          : '</div>\n'
       }
     }],
     'markdown-it-replace-link',
