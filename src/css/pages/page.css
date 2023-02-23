@@ -29,7 +29,6 @@
     margin-right: auto;
 
     display: flex;
-    flex-wrap: wrap;
     align-items: flex-start;
     justify-content: center;
     gap: var(--gap-v) var(--gap-h);

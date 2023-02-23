@@ -45,6 +45,7 @@
           margin-bottom: 0;
         }
       }
+
       & figure {
         --flex-width: 45%;
         width: 100%;
