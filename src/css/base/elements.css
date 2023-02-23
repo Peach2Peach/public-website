@@ -369,6 +369,17 @@ details[open] article {
   &.figures--3 {
     & figure {
       @media (--S_to_M) {
+        flex-basis: calc(50% - var(--space-xl));
+      }
+    }
+  }
+
+  &.figures--2,
+  &.figures--3,
+  &.figures--5,
+  &.figures--7 {
+    & figure {
+      @media (--M_and_up) {
         flex-basis: calc(33% - var(--space-xl));
       }
     }
