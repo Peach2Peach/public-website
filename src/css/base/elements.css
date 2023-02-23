@@ -394,6 +394,8 @@ details[open] article {
 }
 
 .info-box {
+  --icon-size: 2rem;
+
   position: relative;
   border: 1px solid var(--color-neutral-10);
   background-color: var(--color-white);
@@ -404,7 +406,6 @@ details[open] article {
   padding: var(--space-s) var(--space-m) var(--space-s) 1.75rem;
 
   & svg[role="img"] {
-    --icon-size: 2rem;
     position: absolute;
     left: calc(var(--icon-size) / 2 * -1);
     top: 1.2rem;
@@ -424,9 +425,8 @@ details[open] article {
 }
 
 svg[role="img"] {
-  --icon-size: 1rem;
-  width: var(--icon-size);
-  height: var(--icon-size);
+  width: var(--icon-size, 1rem);
+  height: var(--icon-size, 1rem);
 }
 
 main {

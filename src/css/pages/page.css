@@ -135,6 +135,7 @@
 }
 
 .contact {
+  --icon-size: 3rem;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -152,12 +153,6 @@
     height: var(--icon-size);
     color: var(--color-primary-main);
     border-radius: calc(var(--icon-size) / 2);
-
-    & svg {
-      --icon-size: 3rem;
-      width: var(--icon-size);
-      height: var(--icon-size);
-    }
 
     &:focus,
     &:hover {

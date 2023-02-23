@@ -66,6 +66,7 @@
   }
 
   #payment_list {
+    --icon-size: 2rem;
     margin-top: var(--space-l);
     gap: 0;
 
@@ -80,11 +81,6 @@
       display: inline-flex;
       align-items: center;
       gap: var(--space-xxs);
-
-      & svg[role="img"] {
-        width: 2rem;
-        height: 2rem;
-      }
     }
   }
 
