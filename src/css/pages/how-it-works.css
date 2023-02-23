@@ -4,7 +4,8 @@
       margin-top: auto;
     }
     & img {
-      max-width: 1100px;
+      max-width: 1000px;
+      padding: var(--space-l);
     }
 
     & h1 {
@@ -17,10 +18,12 @@
   }
 
   & article + article {
-    margin-top: var(--space-xxl);
+    margin-top: var(--space-xxxl);
   }
 
   & .content-wrap--flex {
+    align-items: center;
+
     & div {
       text-align: center;
     }
@@ -34,7 +37,6 @@
     }
 
     @media (--M_and_up) {
-      align-items: center;
 
       & div {
         --flex-width: 60%;
@@ -49,9 +51,6 @@
         width: 100%;
 
         &[src$=".gif"] {
-          max-width: 30%;
-          margin-left: 7.5%;
-          margin-right: 7.5%;
         }
       }
 
@@ -67,15 +66,16 @@
     }
   }
 
-  #payment {
-    margin-top: var(--space-xxxl);
+  #payment_list {
+    margin-top: var(--space-l);
+    gap: 0;
 
     & ul {
       display: flex;
       flex-wrap: wrap;
       align-items: center;
       justify-content: center;
-      gap: var(--space-l);
+      gap: var(--space-xs) var(--space-l);
     }
     & li {
       display: inline-flex;
@@ -91,8 +91,6 @@
 
   #sounds_cool,
   #questions {
-    margin-top: var(--space-xxxl);
-
     & h3 {
       @mixin peach-text;
       font-size: var(--font-size-xl);
@@ -100,7 +98,11 @@
 
     & .button {
       max-width: 15rem;
-      margin: var(--space-l) auto var(--space-xl);
+      margin: var(--space-l) auto 0;
     }
+  }
+
+  #questions {
+    margin-bottom: var(--space-xxl)
   }
 }

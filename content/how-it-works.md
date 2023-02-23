@@ -3,7 +3,7 @@ title: How it works
 template: how_it_works
 ---
 <!-- teaser -->
-![Buy and Sell Bitcoin Peer-to-Peer](/img/tachira/peach-4-2.png)
+![Buy and Sell Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
 
 ### Stack sats <span>every day</span>!
 
@@ -19,7 +19,7 @@ Download the app for free and start trading right away! We won't ask you to uplo
 [Download on Android]($androidUrl$)
 :::
 
-<!-- not_your_keys -->
+<!-- self_custody -->
 ### Not your keys, not your coins
 
 The app has an easy to use wallet that you control built in, or you can use your existing wallet. Stick to the basics or make it hardcore - you're always in control.
@@ -48,6 +48,7 @@ We have a full getting started guide right here:
 There are a whole bunch of payment methods you can choose from.
 If you have one you'd like to use, but it isn't listed, let us know!
 
+<!-- payment_methods_list -->
 #### General
 
 - :payment-euro: Cash

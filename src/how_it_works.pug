@@ -12,30 +12,36 @@ block main
   section.wrap
     article.content-wrap.content-wrap--flex
       div!= html.easy_registration
-      img(src=assetPath("/img/tachira/easy_registration.png"))
+      img(src=assetPath("/img/how-it-works/easy_registration.png"))
 
     article.content-wrap.content-wrap--flex
-      div!= html.not_your_keys
-      img(src=assetPath("/img/tachira/peach-screen-3-nobg.png"))
+      div!= html.self_custody
+      img(src=assetPath("/img/how-it-works/self_custody.png"))
 
     article.content-wrap.content-wrap--flex
       div!= html.security
-      img(src=assetPath("/img/tachira/security.png"))
+      img(src=assetPath("/img/how-it-works/security.png"))
 
     article.content-wrap.content-wrap--flex
       div!= html.difference
-      img(src=assetPath("/img/tachira/difference.png"))
+      img(src=assetPath("/img/how-it-works/difference.png"))
 
+  section.wrap
     article#sounds_cool.content-wrap.content-wrap--centered
       != html.sounds_cool
       a(href="/quick-start/").button.button--primary
         span Quick Start Guide
         +sprite("quickstart")
 
-    article#payment.content-wrap.content-wrap--flex
-      div!= html.payment_methods
-      img(src=assetPath("/img/tachira/ezgif-4-b11eb7d69f.gif"))
+  section.wrap
+    article#payment.content-wrap.content-wrap--centered
+      != html.payment_methods
 
+    article#payment_list.content-wrap.content-wrap--flex
+      div!= html.payment_methods_list
+      img(src=assetPath("/img/how-it-works/payment.gif"))
+
+  section.wrap
     article#questions.content-wrap.content-wrap--centered
       != html.questions
       a(href="/support/").button.button--primary
