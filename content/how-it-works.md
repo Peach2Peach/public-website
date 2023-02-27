@@ -19,6 +19,57 @@ Download the app for free and start trading right away! We won't ask you to uplo
 [Download on Android]($androidUrl$)
 :::
 
+<!-- payment_methods -->
+### Supported payment methods
+
+There are a whole bunch of payment methods you can choose from.<br>
+If you have one you'd like to use, but it isn't listed, [let us know](mailto:$contactEmail$?subject=Payment%20method)!
+
+#### Supported Currencies
+
+- EUR
+- GBP
+- CHF
+- SEK
+- DKK
+- NOK
+- PLN
+
+---
+
+#### Bank Transfer
+
+- :payment-sepa: SEPA / Instant SEPA
+- :payment-fasterpayments: Faster Payments
+
+---
+
+#### Online Wallets
+
+- :payment-advcash: Advcash
+- :payment-paypal: PayPal
+- :payment-revolut: Revolut
+- :payment-wise: Wise
+
+---
+
+#### National Options
+
+- :payment-vipps: Norway - Vipps
+- :payment-mobilepay: Denmark - MobilePay
+- :payment-satispay: Italy - Satispay
+- :payment-mbway: Portugal - MBWay
+- :payment-bizum: Spain - Bizum
+- :payment-blik: Poland - Blik
+- :payment-twint: Switzerland - Twint
+- :payment-swish: Sweden - Swish
+
+---
+
+#### Gift Cards
+
+- :payment-amazon: Amazon
+
 <!-- self_custody -->
 ### Not your keys, not your coins
 
@@ -41,40 +92,6 @@ Our mission is to make this as easy and safe as possible.  
 ### Sounds cool, but how does it work?
 
 We have a full getting started guide right here:
-
-<!-- payment_methods -->
-### Supported payment methods
-
-There are a whole bunch of payment methods you can choose from.<br>
-If you have one you'd like to use, but it isn't listed, let us know!
-
-#### General
-
-- :payment-euro: Cash
-- :payment-sepa: SEPA
-
----
-
-#### Online Wallets
-
-- :payment-paypal: PayPal
-- :payment-revolut: Revolut
-- :payment-wise: Wise
-
----
-
-#### Gift Cards
-
-- :payment-amazon: Amazon
-- :payment-steam: Steam
-
----
-
-#### National Options
-
-- :payment-bizum: Bizum - Spain
-- :payment-satispay: Satispay - Italy
-- :payment-mbway: MBWay - Portugal
 
 <!-- questions -->
 ### Still have questions?

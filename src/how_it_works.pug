@@ -14,17 +14,13 @@ block main
       div!= html.easy_registration
       figure: img(src=assetPath("/img/how-it-works/easy_registration.png"))
 
+  section.wrap
+    article#payment.content-wrap.content-wrap--centered
+      != html.payment_methods
+
     article.content-wrap.content-wrap--flex
       div!= html.self_custody
       figure: img(src=assetPath("/img/how-it-works/self_custody.png"))
-
-    article.content-wrap.content-wrap--flex
-      div!= html.security
-      figure: img(src=assetPath("/img/how-it-works/security.png"))
-
-    article.content-wrap.content-wrap--flex
-      div!= html.difference
-      figure: img(src=assetPath("/img/how-it-works/difference.png"))
 
   section.wrap
     article#sounds_cool.content-wrap.content-wrap--centered
@@ -33,9 +29,13 @@ block main
         span Quick Start Guide
         +sprite("quickstart")
 
-  section.wrap
-    article#payment.content-wrap.content-wrap--centered
-      != html.payment_methods
+    article.content-wrap.content-wrap--flex
+      div!= html.security
+      figure: img(src=assetPath("/img/how-it-works/security.png"))
+
+    article.content-wrap.content-wrap--flex
+      div!= html.difference
+      figure: img(src=assetPath("/img/how-it-works/difference.png"))
 
   section.wrap
     article#questions.content-wrap.content-wrap--centered

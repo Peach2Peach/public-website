@@ -73,6 +73,11 @@
     margin-top: var(--space-l);
     gap: 0;
 
+    & h3 {
+      @mixin peach-text;
+      font-size: var(--font-size-xl);
+    }
+
     & hr {
       border-top: 2px solid var(--color-neutral-10);
       margin: var(--space-l) auto;
@@ -84,7 +89,7 @@
       flex-wrap: wrap;
       align-items: center;
       justify-content: center;
-      gap: var(--space-xs) var(--space-l);
+      gap: var(--space-l);
     }
     & li {
       display: inline-flex;
