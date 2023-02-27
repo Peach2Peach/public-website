@@ -208,7 +208,18 @@
     "url": "https://www.meetup.com/lisbon-bitcoin-maximalists/",
     "longitude": -9.139337,
     "latitude": 38.722252
-  }
+  },
+  {
+    "name": "Beer 2 Beer - Neuchatel",
+    "url": "https://signal.group/#CjQKIOkx1dh5jAnRQ0lO8Ed0Nga55de6C3SBpKnTJveLbzY5EhAo4TuyV8Cff30gTYZMhuI6",
+    "longitude": 6.9292641,
+    "latitude": 46.9895828
+  },  {
+    "name": "Málaga 2140",
+    "url": "https://malaga2140.xyz/",
+    "longitude": -4.4216366,
+    "latitude": 36.7213028
+  },
 
 
 
