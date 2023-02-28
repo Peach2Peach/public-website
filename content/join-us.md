@@ -4,18 +4,37 @@
 
 ::::figures 3
 :::box tech-peach
-### Senior CoinJoiner
-5+ years of experience
+### Backend Developer
 :::
 
 :::box tech-peach
-### Junior Meetuper
-No experience needed
+### Frontend Developer
 :::
 
 :::box tech-peach
-### Medior BBQ Analyst
-3-5 years of experience
+### Product Designer
+:::
+
+:::box tech-peach
+### Regional Growth Hacker
+
+Marketing manager
+:::
+
+:::box tech-peach
+### Local market growth hacker
+
+UK, Germany, Spain and Italy
+:::
+
+:::box tech-peach
+### Content Creator
+
+Instagram / Tik Tok
+:::
+
+:::box tech-peach
+### Product Manager
 :::
 ::::
 

@@ -408,7 +408,7 @@ details[open] article {
   & svg[role="img"] {
     position: absolute;
     left: calc(var(--icon-size) / 2 * -1);
-    top: 1.2rem;
+    top: .55rem;
     background-color: var(--color-white);
     border-radius: var(--space-xs);
     padding: var(--space-xxs) 0;
