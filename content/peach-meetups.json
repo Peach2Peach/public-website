@@ -183,13 +183,13 @@
     "name": "Lausanne Bitcoin Meetup",
     "url": "https://bitcoinlausanne.ch",
     "longitude": 6.632273,
-    "latitude": 46.519653 
+    "latitude": 46.519653
   },
   {
     "name": "Leeds Bitcoin Network",
     "url": "https://twitter.com/leedsbtc",
     "longitude": -1.549077,
-    "latitude": 53.800755 
+    "latitude": 53.800755
   },
   {
     "name": "London Bitcoin Space",
@@ -219,9 +219,5 @@
     "url": "https://malaga2140.xyz/",
     "longitude": -4.4216366,
     "latitude": 36.7213028
-  },
-
-
-
-
+  }
 ]
