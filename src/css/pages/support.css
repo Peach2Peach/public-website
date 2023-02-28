@@ -25,4 +25,8 @@
       }
     }
   }
+
+  .contact {
+    margin-top: var(--space-xl);
+  }
 }
