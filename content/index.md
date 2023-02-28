@@ -34,8 +34,8 @@ We aim to make stacking sats peer-to-peer the standard!
 <!--[about]-->
 ## About Us
 
-Peach, the company, is born from people who believe in the hardest money that has ever existed, and want to make it accessible to the whole world without compromising the fundamental aspects of Bitcoin.
+Peach, the company, is born from people who believe in the hardest money that has ever existed, and want to make it accessible to the whole world without compromising on the fundamental aspects of Bitcoin.
 
 Are you one of those? Check out our [Join Us](/join-us/) section, maybe we can work together!
 
-If you want to know more about the company, check out our a [blog posts](/blog/) talking about how everything started, and how we got here.
+If you want to know more about the company, check out our [blog posts](/blog/) talking about how everything started, and how we got here.
