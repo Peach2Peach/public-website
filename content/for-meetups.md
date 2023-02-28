@@ -20,6 +20,8 @@ If you are a meetup organizer and would like to get your meetup into Peach, fill
 
 If your meetup is eligible\* to be integrated inside our app, we'll get back in touch with you to ask for the final details.
 
+<small>*only Europe and [accepted currencies](/how-it-works/#payment) are eligible right now. In the future we will be expanding to other zones in the world, so don't hesitate in applying even if your meetup does not comply with all the requisites.</small>
+
 <!--[map]-->
 ### Check out all the places where you can trade bitcoin with cash using Peach!
 
