@@ -75,25 +75,25 @@
   text-align: center;
 
   /* gradually try to set better but less supported values and units */
-  min-height: 100vh;
-  min-height: -webkit-fill-available;
-  min-height: 100dvh;
+  height: 100vh;
+  height: -webkit-fill-available;
+  height: 100dvh;
 
-  @media (--L_and_up) {
-    /* gradually try to set better but less supported values and units */
-    height: 100vh;
-    height: -webkit-fill-available;
-    height: 100dvh;
+  @media (orientation: landscape) {
+    height: auto;
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
+    min-height: 100dvh;
   }
 
   & h1 {
     margin-top: auto;
-    font-size: clamp(3rem, 10vw, 4.125rem);
+    font-size: clamp(3rem, 10vw, 8vh);
     max-width: 17em;
   }
 
   & h2 {
-    font-size: clamp(2rem, 6vw, 2.25rem);
+    font-size: clamp(2rem, 5vw, 4vh);
     max-width: 17em;
   }
 
@@ -114,10 +114,14 @@
 
   & img {
     width: 100%;
-    max-height: 40vh;
+    max-height: 35vh;
 
     @media (--up_to_M) {
       width: 90%;
+    }
+
+    @media screen and (max-height: 799.99px) {
+      max-height: 25vh !important;
     }
   }
 
@@ -134,8 +138,8 @@
     color: var(--color-white);
 
     & svg {
-      width: 4rem;
-      height: 4rem;
+      width: 3rem;
+      height: 3rem;
     }
   }
 }
