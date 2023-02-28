@@ -14,8 +14,8 @@ block main
       div!= html.easy_registration
       figure: img(src=assetPath("/img/how-it-works/easy_registration.png"))
 
-  section.wrap
-    article#payment.content-wrap.content-wrap--centered
+  section.wrap#payment
+    article.content-wrap.content-wrap--centered
       != html.payment_methods
 
     article.content-wrap.content-wrap--flex

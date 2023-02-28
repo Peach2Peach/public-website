@@ -13,11 +13,11 @@
 #bottom,
 #mission {
   & .content-wrap {
-    max-width: 26em;
+    --max-width: 26em;
     font-size: var(--font-size-l);
   }
   & p {
-    max-width: 23em;
+    max-width: 24em;
     margin-left: auto;
     margin-right: auto;
   }
@@ -32,6 +32,12 @@
 
 #newsletter {
   & form {
+    max-width: 20.75rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  & .button {
     margin-left: auto;
     margin-right: auto;
   }

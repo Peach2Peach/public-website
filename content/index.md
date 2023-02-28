@@ -16,20 +16,20 @@ template: index
 <!--[top]-->
 ## Buy and Sell Bitcoin, the way you want
 
-Peach is a mobile application that connects Bitcoin buyers and sellers directly together.
+Peach is a mobile application that **connects** Bitcoin buyers and sellers directly together.
 
-Buy or sell bitcoin peer-to-peer anywhere, at anytime.
+Buy or sell bitcoin peer-to-peer **anywhere, at anytime**.
 
-Use the payment method of your choice amongst many options.
+Use the payment method of your choice amongst **[many options](/how-it-works/#payment)**.
 
-Sell at the price of your choice because peer-to-peer markets are the real markets.
+Sell at the **price of your choice** because peer-to-peer markets are the real markets.
 
 **KYC-free Bitcoin are the best Bitcoin.**
 
 <!--[mission]-->
 ## Join our Mission
 
-We aim to make stacking sats peer-to-peer the standard!
+### We aim to make stacking sats peer-to-peer the standard!
 
 <!--[about]-->
 ## About Us
