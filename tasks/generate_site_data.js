@@ -15,8 +15,8 @@ const getMarkdown = filepath => {
   const contents = readFileSync(filepath)
   const { content, data } = matter(contents)
   let html = content ? renderMarkdown(content) : null
-  if (html && html.match(/<!--/)) {
-    html = Array.from(html.matchAll(/<!--\s*(.*?)\s*-->(.*?)(?=<!--|$)/gs))
+  if (html && html.match(/<!--\[/)) {
+    html = Array.from(html.matchAll(/<!--\[(.*?)\]-->(.*?)(?=<!--|$)/gs))
       .reduce((res, match) =>
         Object.assign(res, { [match[1]]: match[2].trim() }),
         {})

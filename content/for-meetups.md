@@ -1,10 +1,10 @@
 ---
 template: meetups
 ---
-<!-- headline -->
+<!--[headline]-->
 # Integrate your meetup in Peach
 
-<!-- intro -->
+<!--[intro]-->
 Are you the kind of Bitcoiner who likes to travel all around, but always need to sell some corn for cash everywhere you go?
 
 Do you jump from meetup to meetup as an excuse to visit the world?
@@ -20,7 +20,7 @@ If you are a meetup organizer and would like to get your meetup into Peach, fill
 
 If your meetup is eligible\* to be integrated inside our app, we'll get back in touch with you to ask for the final details.
 
-<!-- map -->
+<!--[map]-->
 ### Check out all the places where you can trade bitcoin with cash using Peach!
 
 If you want to know more about the **Peach Cash Trades**, check out our article [Peach x Meetups](/blog/peach-for-meetups/), or just check out the map elow to see where you can find other peers to trade bitcoin for cash.
