@@ -21,7 +21,7 @@
       margin: var(--space-l) 0 var(--space-xxl);
 
       & a {
-        flex: 0 0 12rem;
+        flex: 0 0 15rem;
       }
     }
   }

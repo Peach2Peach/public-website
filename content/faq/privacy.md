@@ -10,7 +10,7 @@ We strive to store the absolute minimum amount of data on our users as we can. A
 - The data of your trades (which type of payment method you're using, how much you're buying, etc.)
 - Usage data, if you agreed to this
 
-For a full breakdown, please see our privacy policy.
+For a full breakdown, please see our [privacy policy](/privacy-policy/).
 
 \* A hash is some data that was made unrecognizable, similar to encrypting it. The same data will always lead to the same hash. This means we don't know what the data is, but we will be able to spot if the same data is used twice.
 :::

@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const $headerAnchor = document.querySelector('#header-anchor')
   const $headerLinks = document.querySelectorAll('#header a')
   const $header = document.querySelector('#header')
+  const $details = document.querySelectorAll('details[id]')
 
   // Topbar
   const topbarClass = 'topbar'
@@ -46,8 +47,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // FAQ
   const itemId = window.location.hash;
-  const $details = itemId ? document.querySelector(`details${itemId}`) : null
+  const $detail = itemId ? document.querySelector(`details${itemId}`) : null
+  if ($detail) {
+    $detail.setAttribute('open', true)
+    window.scrollTo(0, $detail.offsetTop)
+  }
+
   if ($details) {
-    $details.setAttribute('open', true)
+    $details.forEach($detail => {
+      $detail.addEventListener('click', e => {
+        const { currentTarget } = e
+        const hash = currentTarget.getAttribute('open') === null ? `#${currentTarget.id}` : ''
+        window.history.replaceState({}, '', `${location.pathname}${hash}`)
+      })
+    })
   }
 })
