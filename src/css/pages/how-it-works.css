@@ -74,7 +74,7 @@
   }
 
   #payment {
-    --icon-size: 2rem;
+    --icon-size: 3rem;
     margin-top: var(--space-l);
     gap: 0;
 
@@ -83,8 +83,12 @@
       font-size: var(--font-size-xl);
     }
 
+    & h4 {
+      margin-bottom: var(--space-m);
+    }
+
     & hr {
-      border-top: 2px solid var(--color-neutral-10);
+      border-top: 2px solid var(--color-neutral-5);
       margin: var(--space-l) auto;
       width: 4em;
     }
@@ -92,17 +96,35 @@
     & ul {
       display: flex;
       flex-wrap: wrap;
-      align-items: center;
       justify-content: center;
-      gap: var(--space-l);
+      gap: var(--space-m);
     }
+
     & li {
       display: inline-flex;
       align-items: center;
+      justify-content: center;
       gap: var(--space-xxs);
       flex-direction: column;
       color: var(--color-neutral-65);
-      font-size: var(--font-size-s);
+      font-size: var(--font-size-xs);
+      border: 1px solid var(--color-neutral-10);
+      background-color: var(--color-white);
+      border-radius: var(--border-radius);
+      padding: var(--space-xs) var(--space-s);
+
+      @media (--up_to_M) {
+        flex-basis: 40%;
+      }
+      @media (--M_and_up) {
+        flex-basis: 20%;
+        min-width: 9.5rem;
+      }
+    }
+
+    & ul:first-of-type li {
+      flex-basis: 4rem !important;
+      min-width: auto !important;
     }
   }
 
