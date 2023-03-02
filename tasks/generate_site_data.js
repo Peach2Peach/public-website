@@ -45,7 +45,7 @@ const pages = glob.sync(join(dir, 'content', '**', '*.md')).map(filePath => {
   return data
 })
 
-const posts = glob.sync(join(dir, 'blog', '**', '*.md')).map(filePath => {
+const posts = glob.sync(join(dir, 'blog', '*.md')).map(filePath => {
   const data = getMarkdown(filePath)
   const [, date, name] = filePath.match(/(\d{4}-\d{2}-\d{2})-(.*)\./)
   data.date = toDate(date)
