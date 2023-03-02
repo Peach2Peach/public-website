@@ -66,8 +66,9 @@ If you have one you'd like to use, but it isn't listed, [let us know](mailto:$co
 
 ---
 
-#### Gift Cards
+#### Cash & Gift Cards
 
+- :payment-cash: Cash
 - :payment-amazon: Amazon
 
 <!--[self_custody]-->
