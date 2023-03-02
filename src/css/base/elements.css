@@ -406,7 +406,7 @@ details[open] article {
   outline: none;
   padding: var(--space-s) var(--space-m) var(--space-s) 1.75rem;
 
-  & svg[role="img"] {
+  & [role="img"] {
     position: absolute;
     left: calc(var(--icon-size) / 2 * -1);
     top: .55rem;
@@ -425,7 +425,7 @@ details[open] article {
   }
 }
 
-svg[role="img"] {
+[role="img"] {
   width: var(--icon-size, 1rem);
   height: var(--icon-size, 1rem);
 }

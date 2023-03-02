@@ -57,7 +57,10 @@ const { _tr: mdTransformer } = transformer(require('jstransformer-markdown-it'))
 const ICON_REGEX = /:([\w-_]+):/gi
 const VARIABLE_REGEX = /\$([\w-_]+)\$/gi
 
-const icon = symbol => `<svg role="img"><use href="${assetPath('/img/icons.svg')}#${symbol}"></use></svg>`
+const icon = symbol =>
+  ['payment-blik', 'payment-swish', 'payment-twint'].includes(symbol)
+    ? `<img role="img" src="${assetPath(`/icons/${symbol}.svg`)}" />`
+    : `<svg role="img"><use href="${assetPath('/img/icons.svg')}#${symbol}"></use></svg>`
 
 // configure replacements
 const replace = require('markdown-it-replace-it')

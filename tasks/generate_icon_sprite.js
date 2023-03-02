@@ -9,7 +9,7 @@ const slugify = str => str.toLowerCase().replace(/\W/gi, '-')
 
 const svgs = glob.sync(join(dir, '**/*.svg'))
 const sprite = svgstore({
-  cleanDefs: true,
+  cleanDefs: false,
   cleanSymbols: true,
   renameDefs: true,
   symbolAttrs: {
