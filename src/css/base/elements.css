@@ -192,8 +192,14 @@ form {
 
     &.check {
       display: flex;
-      align-items: flex-start;
+      align-items: center;
       gap: var(--space-s);
+      line-height: 1.2;
+
+      & input {
+        position: relative;
+        top: -.15rem;
+      }
     }
   }
 
