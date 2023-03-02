@@ -19,7 +19,6 @@
 
   &:focus,
   &:hover {
-    box-shadow: var(--box-shadow-strong);
     text-decoration: none;
   }
 }

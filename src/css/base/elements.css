@@ -155,11 +155,6 @@ button {
   background-repeat: no-repeat;
   border-radius: var(--border-radius);
   outline: none;
-
-  &:focus,
-  &:hover {
-    box-shadow: var(--box-shadow-strong);
-  }
 }
 
 img {
