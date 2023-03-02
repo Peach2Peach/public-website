@@ -37,6 +37,12 @@ If you have one you'd like to use, but it isn't listed, [let us know](mailto:$co
 
 ---
 
+#### Cash
+
+- :payment-cash: Cash
+
+---
+
 #### Bank Transfer
 
 - :payment-sepa: SEPA / Instant SEPA
@@ -66,9 +72,8 @@ If you have one you'd like to use, but it isn't listed, [let us know](mailto:$co
 
 ---
 
-#### Cash & Gift Cards
+#### Gift Cards
 
-- :payment-cash: Cash
 - :payment-amazon: Amazon
 
 <!--[self_custody]-->
