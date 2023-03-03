@@ -2,7 +2,8 @@
 const {
   assetPath,
   assetUrl,
-  slugify
+  slugify,
+  IS_DEV
 } = require('./helpers')
 
 module.exports = {
@@ -10,5 +11,6 @@ module.exports = {
   siteData: require('./site-data'),
   assetUrl,
   assetPath,
-  slugify
+  slugify,
+  IS_DEV
 }

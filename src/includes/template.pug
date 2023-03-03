@@ -40,6 +40,13 @@ html(lang=lang)
     link(rel="mask-icon" href=assetPath("/img/favicon/safari-pinned-tab.svg") color=themeColor)
     link(rel="stylesheet" href=assetPath("/css/main.css"))
     title= pageTitle
+    if !IS_DEV
+      script(src="https://www.googletagmanager.com/gtag/js?id=G-TBTST1GYXK" async)
+      script.
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-TBTST1GYXK');
     block pageScripts
   body(id=slugify(permalink) class=(hasTeaser ? 'with-teaser' : null))
     header.header#header

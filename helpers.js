@@ -162,5 +162,6 @@ module.exports = {
   assetUrl,
   assetPath,
   getRev,
-  getVar
+  getVar,
+  IS_DEV
 }
