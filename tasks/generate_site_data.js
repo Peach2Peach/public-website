@@ -1,6 +1,6 @@
 const { readFileSync, writeFileSync } = require('fs')
 const { join, relative, resolve } = require('path')
-const glob = require('glob')
+const { globSync } = require('glob')
 const matter = require('gray-matter')
 const { slugify, renderMarkdown } = require('../helpers')
 const meta = require('../content/meta.json')
@@ -39,13 +39,13 @@ const extractDescription = text => {
   return paragraph ? paragraph.toString().replace(/[\*\_]]/g, '').replace(/\[(.*?)\]\(.*?\)/g, '$1') : null
 }
 
-const pages = glob.sync(join(dir, 'content', '**', '*.md')).map(filePath => {
+const pages = globSync(join(dir, 'content', '**', '*.md')).map(filePath => {
   const data = getMarkdown(filePath)
   data.permalink = relative(join(dir, 'content'), filePath).replace('.md', '')
   return data
 })
 
-const posts = glob.sync(join(dir, 'blog', '*.md')).map(filePath => {
+const posts = globSync(join(dir, 'blog', '*.md')).map(filePath => {
   const data = getMarkdown(filePath)
   const [, date, name] = filePath.match(/(\d{4}-\d{2}-\d{2})-(.*)\./)
   data.date = toDate(date)
