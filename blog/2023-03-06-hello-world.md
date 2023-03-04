@@ -18,7 +18,7 @@ both meatspace and cyberspace. This exploratory phase often
 triggered my imagination. The wow moment wasn’t when I
 understood the basics of how Bitcoin works, the real wow moment
 was when I mapped the whole system in my head and started to
-touch upon the consequences of what “ x the money, x the world”
+touch upon the consequences of what “Fix the money, Fix the world”
 would entail.
 
 As I embrace the beauty of human nature and the human condition,
@@ -38,7 +38,7 @@ harder. This quest for developing the better version of myself and
 for being part of a higher level of civilization is the ultimate and most
 elevated goal I could ever try to pursue. I want to be part of the
 Bitcoin revolution. Do my part at my own individual level, as little
-and insigni cant as it may be. I want to align my time and energy
+and insignificant as it may be. I want to align my time and energy
 with economic incentives based on a standard of Hope.
 
 Individual and purposeful actions are also the basic building blocks
@@ -53,7 +53,7 @@ How do people acquire bitcoin?
 Where and how do they buy it?
 Where do they get off 0?
 
-Now that the problem to solve is de ned, let’s look at the solution.
+Now that the problem to solve is defined, let’s look at the solution.
 
 I looked at the on/off ramp market. A lot of big centralized
 exchanges: meh, they’re for traders, not for me, not for my friends.
