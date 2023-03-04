@@ -1,9 +1,15 @@
 extends /template.pug
 
 block main
-  section.wrap.blog
-    .content-wrap
-      != html
-    .posts
-      each post in siteData.posts
+  section.wrap
+    .content-wrap.content-wrap--centered
+      if tag
+        h1= `Blog posts tagged with "${tag}"`
+      else
+        != html
+        .content-wrap.tags
+          each tag in siteData.tags
+            a(href=`/${tag.permalink}`)= tag.tag
+    .content-wrap.posts
+      each post in (posts || siteData.posts)
         +postPreview(post)

@@ -1,57 +1,48 @@
 extends /template.pug
 
+block append vars
+  - const hasTeaser = true
+
 block teaser
   section.teaser
-    h1 Peach Bitcoin
-    h2
-      = "Buy & Sell Bitcoin "
-      span peer-to-peer
-    .download
-      a.button(href=siteData.meta.iosUrl) Download on iPhone
-      a.button(href=siteData.meta.androidUrl) Download on Android
-    img(src=assetPath('/img/phones.png') alt="Swipe, match, stack")
-    a.scroll(href="#header-anchor"): +sprite("down")
+    != html.teaser
+    a.scroll(href="#main"): +sprite("chevron-down")
 
 block main
   section#top.wrap
-    .content-wrap
-      != html
+    .content-wrap.content-wrap--centered
+      != html.top
 
   section#mission.wrap
-    .content-wrap
-      h2 Join our Mission
-      p We aim to make stacking sats peer-to-peer the standard!
-      div.social
-        a(href=siteData.meta.twitterUrl target="_blank" rel="noreferrer noopener"): +sprite("twitter", "Twitter")
-        a(href=siteData.meta.telegramUrl target="_blank" rel="noreferrer noopener"): +sprite("telegram", "Telegram")
-        a(href=siteData.meta.discordUrl target="_blank" rel="noreferrer noopener"): +sprite("discord", "Discord")
-        a(href=siteData.meta.instagramUrl target="_blank" rel="noreferrer noopener"): +sprite("instagram", "Instagram")
+    .content-wrap.content-wrap--centered
+      != html.mission
+      .contact
+        a(href=siteData.meta.twitterUrl target="_blank" rel="noreferrer noopener" title="Twitter")
+          +sprite("social-twitter", "Twitter")
+        a(href=siteData.meta.telegramUrl target="_blank" rel="noreferrer noopener" title="Telegram")
+          +sprite("social-telegram", "Telegram")
+        a(href=siteData.meta.discordUrl target="_blank" rel="noreferrer noopener" title="Discord")
+          +sprite("social-discord", "Discord")
+        a(href=siteData.meta.instagramUrl target="_blank" rel="noreferrer noopener" title="Instagram")
+          +sprite("social-instagram", "Instagram")
+        a(href=siteData.meta.nostrUrl target="_blank" rel="noreferrer noopener" title="Nostr")
+          +sprite("social-nostr", "Nostr")
 
   section#newsletter.wrap
     form.newsletter-form(method="POST" action="https://5dcdd79e.sibforms.com/serve/MUIEAGjzL2fItMY1cwWaIXk6UiGKmh6OFwDRRA3wjUptuI7KEG1oWd0-a1M8fGC4apXeJkr9xTZPG-HK-Cyl0Zs8OEyH-qMndMqnE5MgP-0WVFz9ryAKU_te8XOKoOStliGWWB1LTjgioz5XpKeH-rihs5STRci4aD12qb4jAeOqrVXbV8E4wJKLWDVaEgrLzrIY612Qgi2V1KQq")
-      h4 Subscribe to our mailing list to stay up to date with important Peach updates
+      h4: label(for="email") Subscribe to our mailing list to stay up to date with important Peach updates
       div
-        label(for="email") Enter your email address to subscribe
         input#email(type="text" name="EMAIL" autocomplete="off" placeholder="Your email address" required)
       div.check
         input#optin(type="checkbox" value="1" name="OPT_IN")
         label(for="optin"): small I agree to receive your newsletters and accept the <a href="/privacyPolicy.html">data privacy</a> statement.
       p
         small You may unsubscribe at any time using the link in our newsletter.
-      button.button(type="submit") Subscribe
+      button.button.button--white(type="submit") Subscribe
       input(type="hidden" name="email_address_check" value="")
       input(type="hidden" name="locale" value="en")
       input(type="hidden" name="html_type" value="simple")
 
   section#bottom.wrap
-    .content-wrap
-      h2 About Us
-      p Peach, the company, is born from people who believe in the hardest money that has ever existed, and want to make it accessible to the whole world without compromising the fundamental aspects of Bitcoin.
-      p
-        = "Are you one of those? Check out our "
-        a(href="/join-us/") Join Us
-        = " section, maybe we can work together!"
-      p
-        = "If you want to know more about the company, check out our "
-        a(href="/blog/") blog posts
-        = " talking about how everything started, and how we got here."
+    .content-wrap.content-wrap--centered
+      != html.about

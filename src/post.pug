@@ -1,11 +1,30 @@
 extends /template.pug
 
 block main
-  section.wrap.post
-    .content-wrap
+  section.wrap
+    .content-wrap.post
       != html
 
-      p.date= (new Date(date)).toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' })
+      if helpFooter
+        p
+          = "In case of having any problem, let us know through "
+          a(href=siteData.meta.telegramUrl target="_blank" rel="noreferrer noopener") Telegram
+          = ", "
+          a(href=siteData.meta.twitterUrl target="_blank" rel="noreferrer noopener") Twitter
+          = ", "
+          a(href=siteData.meta.discordUrl target="_blank" rel="noreferrer noopener") Discord
+          = ", or directly send an email to "
+          a(href=`mailto:${siteData.meta.contactEmail}`)= siteData.meta.contactEmail
+          = " (for secure communication, find our PGP key in our "
+          a(href="/support/") support
+          = " section)."
 
+      p.date= displayDate(date)
+
+      if tags
+        p.tags
+          = "Tagged with:"
+          each tag in tags
+            a(href=`/blog/tag/${slugify(tag)}`)= tag
       p
         a(href="/blog/") All blog posts

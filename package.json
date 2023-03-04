@@ -6,7 +6,7 @@
   "repository": "git@github.com:dennisreimann/peachbitcoin.com.git",
   "license": "UNLICENSED",
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=16.0.0"
   },
   "config": {
     "dist": "dist",
@@ -14,41 +14,48 @@
   },
   "scripts": {
     "clean": "rm -rf rev-manifest.json site-data.json dist/*",
-    "init": "npm-run-all -p build:data build:static",
-    "start": "NODE_ENV=development npm-run-all clean init -p start:*",
-    "start:pages": "onchange -i -k 'site-data.json' 'pug.config.js' 'markdown.js' 'src/**/*.pug' 'tasks/generate_pages.js' -- npm run build:pages",
-    "start:styles": "onchange -i -k 'src/**/*.css' -- npm run build:styles",
+    "init": "npm-run-all clean -p build:data build:styles build:static build:icons",
+    "start": "NODE_ENV=development npm-run-all init -p start:*",
+    "start:icons": "onchange -k 'src/icons/**/*.svg' -- npm run build:icons",
+    "start:styles": "onchange -k 'src/**/*.css' -- npm run build:styles",
     "start:data": "onchange -k 'blog/**/*' 'content/**/*' 'tasks/generate_site_data.js' -- npm run build:data",
+    "start:pages": "onchange -i -k 'site-data.json' 'pug.config.js' 'helpers.js' 'src/**/*.pug' 'tasks/generate_pages.js' -- npm run build:pages",
     "start:serve": "browser-sync start --config browser-sync.config.js --watch",
-    "build": "npm-run-all clean init -p build:*",
     "build:static": "mkdir -p dist/blog && cp -r static/* dist",
     "build:data": "node tasks/generate_site_data.js",
+    "build:icons": "node tasks/generate_icon_sprite.js",
     "build:pages": "node tasks/generate_pages.js",
     "build:styles": "postcss src/css/main.css --output dist/css/main.css",
     "optimize": "npm-run-all -p optimize:* -s rev",
-    "optimize:styles": "csso dist/css/main.css --output dist/css/main.css",
-    "rev": "node-file-rev --root=dist dist/css/* dist/js/* dist/img/*.jpg dist/img/*.png dist/img/*.svg",
-    "prod": "NODE_ENV=production npm-run-all -p build:static build:styles -s optimize build:data build:pages"
+    "optimize:styles": "csso --no-restructure dist/css/main.css --output dist/css/main.css",
+    "sitemap": "node tasks/generate_sitemap.js",
+    "rev": "node-file-rev --root=dist dist/css/*.css dist/js/*.js dist/img/*.jpg dist/img/*.png dist/img/*.svg dist/icons/*.svg dist/img/how-it-works/*.gif dist/img/how-it-works/*.png",
+    "prod": "NODE_ENV=production npm-run-all init optimize build:data build:pages sitemap"
   },
   "devDependencies": {
     "autoprefixer": "10.4.13",
-    "browser-sync": "2.27.11",
-    "csso-cli": "4.0.1",
-    "glob": "8.1.0",
+    "browser-sync": "2.28.1",
+    "csso-cli": "4.0.2",
+    "glob": "9.2.1",
     "gray-matter": "4.0.3",
     "jstransformer-markdown-it": "3.0.0",
     "markdown-it": "13.0.1",
     "markdown-it-container": "3.0.0",
+    "markdown-it-implicit-figures": "0.11.0",
+    "markdown-it-replace-it": "1.0.0",
     "markdown-it-replace-link": "1.2.0",
+    "markdown-it-toc-and-anchor": "4.2.0",
     "node-file-rev": "1.1.4",
     "npm-run-all": "4.1.5",
     "onchange": "7.1.0",
     "postcss": "8.4.21",
     "postcss-calc": "8.2.4",
     "postcss-cli": "10.1.0",
-    "postcss-custom-media": "9.1.1",
+    "postcss-custom-media": "9.1.2",
     "postcss-import": "15.1.0",
-    "postcss-nesting": "11.1.0",
-    "pug": "3.0.2"
+    "postcss-mixins": "9.0.4",
+    "postcss-nesting": "11.2.1",
+    "pug": "3.0.2",
+    "svgstore": "3.0.1"
   }
 }

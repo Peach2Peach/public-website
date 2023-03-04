@@ -3,7 +3,7 @@ const { mkdirSync, readFileSync, writeFileSync } = require('fs')
 const { dirname, resolve } = require('path')
 const config = require('../pug.config')
 
-const { posts, pages } = JSON.parse(readFileSync(resolve(__dirname, '..', 'site-data.json')))
+const { posts, pages, tags } = JSON.parse(readFileSync(resolve(__dirname, '..', 'site-data.json')))
 
 const renderPage = (template, id, data = {}) => {
   const { lang = 'en' } = data
@@ -26,6 +26,11 @@ pages.forEach(page => {
 })
 
 // blog
-posts.forEach(post => {
-  renderPage('post', post.permalink, post)
+posts.forEach(page => {
+  renderPage('post', page.permalink, page)
+})
+
+tags.forEach(page => {
+  const { template = 'blog' } = page
+  renderPage(template, page.permalink, page)
 })

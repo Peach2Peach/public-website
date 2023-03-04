@@ -1,0 +1,51 @@
+@define-mixin peach-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-xs);
+  border-radius: 3em;
+  padding: var(--space-xs) var(--space-l);
+  cursor: pointer;
+  outline: none;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: var(--font-weight-semibold);
+  font-family: var(--font-family-base);
+  font-size: 1.1rem;
+  background-repeat: no-repeat;
+  transition-property: color;
+  transition-duration: var(--transition-duration-fast);
+  white-space: nowrap;
+
+  &:focus,
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+@define-mixin peach-button-white {
+  color: var(--color-body-text);
+  background-color: var(--color-white);
+
+  &:focus,
+  &:hover {
+    color: var(--color-primary-main);
+  }
+}
+
+@define-mixin peach-button-primary {
+  color: var(--color-white);
+  background: var(--color-primary-main);
+
+  &:focus,
+  &:hover {
+    background: var(--bg-gradient-peachy);
+  }
+}
+
+@define-mixin peach-text {
+  font-weight: var(--font-weight-bold);
+  background: var(--bg-gradient-peachy);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

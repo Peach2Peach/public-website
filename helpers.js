@@ -13,8 +13,9 @@ const stripHTML = str => {
 }
 
 // slug
-const slugify = str => str.toLowerCase()
+const slugify = str => str.toLowerCase().trim()
   .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue')
+  .replace(/\//g, '-')
   .replace(/\s+/g, '-').replace(/[^\w\-]+/g, '')
   .replace(/\-\-+/g, '-').replace(/^-+/, '').replace(/-+$/, '')
 
@@ -24,6 +25,7 @@ const truncate = (str, wordCount) => {
   const tail = words.join(' ')
   return [head, tail]
 }
+
 // links
 const linkTarget = url => url.startsWith('http') ? '_blank' : null
 const getRev = path => {
@@ -40,22 +42,109 @@ const assetUrl = (path, protocol = 'https') => {
   return url
 }
 
-const random = max =>  Math.floor(Math.random() * Math.floor(max))
+// variables
+const getVar = path => {
+  let vars
+  try { vars = require('./content/meta.json') } catch (error) {}
+  return vars && vars[path]
+}
+const variable = name => getVar(name) || name
 
 // configure markdown-it
 const transformer = require('jstransformer')
 const { _tr: mdTransformer } = transformer(require('jstransformer-markdown-it'))
 
+const ICON_REGEX = /:([\w-_]+):/gi
+const VARIABLE_REGEX = /\$([\w-_]+)\$/gi
+
+const icon = symbol =>
+  ['payment-blik', 'payment-swish', 'payment-twint'].includes(symbol)
+    ? `<img role="img" src="${assetPath(`/icons/${symbol}.svg`)}" />`
+    : `<svg role="img"><use href="${assetPath('/img/icons.svg')}#${symbol}"></use></svg>`
+
+// configure replacements
+const replace = require('markdown-it-replace-it')
+replace.replacements.push({
+  name: 'icons',
+  re: ICON_REGEX,
+  html: true,
+  sub (str) {
+    const i = str.replace(/:/g, '')
+    return icon(i)
+  }
+})
+
+replace.replacements.push({
+  name: 'variables',
+  re: VARIABLE_REGEX,
+  html: true,
+  sub (str) {
+    const v = str.replace(/\$/g, '')
+    return variable(v)
+  }
+})
+
+// toc and anchors
+const markdownItTocAndAnchor = require('markdown-it-toc-and-anchor').default
+
 const config = {
   html: true,
   typographer: true,
   plugins: [
-    ['markdown-it-container', 'left'],
-    ['markdown-it-container', 'right'],
-    'markdown-it-replace-link'
+    ['markdown-it-implicit-figures', { figcaption: true }],
+    [markdownItTocAndAnchor, { slugify, anchorLink: false, tocFirstLevel: 2, tocLastLevel: 2 }],
+    ['markdown-it-container', 'note'],
+    ['markdown-it-container', 'buttons'],
+    ['markdown-it-container', 'figures', {
+      validate (params) {
+        return params.trim().match(/^figures\s+(\d+)$/)
+      },
+      render (tokens, idx) {
+        const { info, nesting } = tokens[idx]
+        const isOpening = nesting === 1
+        const [, count] = info.trim().match(/^figures\s+(.*)$/) || []
+        return isOpening
+          ? `<div class="figures figures--${count}">\n`
+          : '</div>\n'
+      }
+    }],
+    ['markdown-it-container', 'details', {
+      validate (params) {
+        return params.trim().match(/^details\s+(.*)$/)
+      },
+      render (tokens, idx) {
+        const { info, nesting } = tokens[idx]
+        const isOpening = nesting === 1
+        const [, summary] = info.trim().match(/^details\s+(.*)$/) || []
+        return isOpening
+          ? `<details id="${slugify(summary)}"><summary><span class="title">${summary}</span><span class="marker"></span></summary><article>\n`
+          : '</article></details>\n'
+      }
+    }],
+    ['markdown-it-container', 'box', {
+      validate (params) {
+        return params.trim().match(/^box\s+([\w-]+)$/)
+      },
+      render (tokens, idx) {
+        const { info, nesting } = tokens[idx]
+        const isOpening = nesting === 1
+        const [, symbol] = info.trim().match(/^box\s+(.*)$/) || []
+        return isOpening
+          ? `<div class="info-box">\n${icon(symbol)}\n`
+          : '</div>\n'
+      }
+    }],
+    'markdown-it-replace-link',
+    replace
   ],
-  replaceLink(link) {
-    return getRev(link) || link
+  replaceLink (link) {
+    const match = link.match(VARIABLE_REGEX)
+    if (match) {
+      const name = match[0].replace(/\$/g, '')
+      const v = variable(name)
+      return v ? link.replace(match[0], v) : link
+    }
+    return assetPath(link)
   }
 }
 
@@ -64,14 +153,27 @@ const { render: renderMd } = mdTransformer
 
 mdTransformer.render = str => renderMd(str, config)
 
+// date
+
+const displayDate = date => {
+  const dt = new Date(date)
+  const fm = dt.toLocaleDateString('en-us', { month: 'long', day: 'numeric' })
+  if (fm.endsWith('1')) return `${fm}st, ${dt.getFullYear()}`
+  else if (fm.endsWith('2')) return `${fm}nd, ${dt.getFullYear()}`
+  else if (fm.endsWith('3')) return `${fm}rd, ${dt.getFullYear()}`
+  else return `${fm}th, ${dt.getFullYear()}`
+}
+
 module.exports = {
   renderMarkdown: mdTransformer.render,
   slugify,
   stripHTML,
   truncate,
-  random,
   linkTarget,
   assetUrl,
   assetPath,
-  getRev
+  getRev,
+  getVar,
+  displayDate,
+  IS_DEV
 }

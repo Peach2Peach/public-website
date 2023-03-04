@@ -39,11 +39,11 @@
   }
 
   /* blur effect on home */
-  @nest body#index > &:not(.topbar) {
+  @nest body.with-teaser > &:not(.topbar) {
     background-image: radial-gradient(110.76% 117.21% at 100% 0%,
       rgba(255, 162, 76, var(--alpha-gradient-peachy, .5)) 0%,
       rgba(255, 122, 80, var(--alpha-gradient-peachy, .75)) 50.25%,
-      rgba(255, 77, 66, var(--alpha-gradient-peachy, 1)) 100%);
+      var(--color-peach) 100%);
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
     backdrop-filter: blur(var(--space-xs));
@@ -133,6 +133,10 @@
   pointer-events: none;
   margin-top: calc(var(--header-height) * -1);
   margin-bottom: var(--header-height);
+
+  @nest body.with-teaser & {
+    margin-top: calc(var(--header-height) * -2);
+  }
 }
 
 /* Mobile menu */

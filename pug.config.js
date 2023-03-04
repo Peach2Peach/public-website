@@ -2,7 +2,9 @@
 const {
   assetPath,
   assetUrl,
-  slugify
+  slugify,
+  displayDate,
+  IS_DEV
 } = require('./helpers')
 
 module.exports = {
@@ -10,5 +12,7 @@ module.exports = {
   siteData: require('./site-data'),
   assetUrl,
   assetPath,
-  slugify
+  slugify,
+  displayDate,
+  IS_DEV
 }

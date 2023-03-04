@@ -1,10 +1,11 @@
-- const pageTitle = title ? `${title} · ${siteData.meta.title}` : siteData.meta.title
-- const pageDescription = description || siteData.meta.description
-- const pageKeywords = keywords || siteData.meta.keywords
-- const pageCard = cardImage || siteData.meta.cardImage
-- const themeColor = siteData.meta.themeColor
-
 include /mixins.pug
+
+block vars
+  - const pageTitle = title && title != siteData.meta.title ? `${title} · ${siteData.meta.title}` : `${siteData.meta.title} · ${siteData.meta.tagline}`
+  - const pageDescription = description || siteData.meta.description
+  - const pageKeywords = keywords || siteData.meta.keywords
+  - const pageCard = cardImage || teaser || siteData.meta.cardImage
+  - const themeColor = siteData.meta.themeColor
 
 <!DOCTYPE html>
 html(lang=lang)
@@ -39,7 +40,15 @@ html(lang=lang)
     link(rel="mask-icon" href=assetPath("/img/favicon/safari-pinned-tab.svg") color=themeColor)
     link(rel="stylesheet" href=assetPath("/css/main.css"))
     title= pageTitle
-  body(id=slugify(permalink))
+    if !IS_DEV
+      script(src="https://www.googletagmanager.com/gtag/js?id=G-TBTST1GYXK" async)
+      script.
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-TBTST1GYXK');
+    block pageScripts
+  body(id=slugify(permalink) class=(hasTeaser ? 'with-teaser' : null))
     header.header#header
       .wrap
         a(href="/").brand
@@ -55,8 +64,9 @@ html(lang=lang)
           +navItem("for-meetups", "For Meetups")
           +navItem("blog", "Blog")
           +navItem("support", "Support")
-    block teaser
-    main.main
+    if hasTeaser
+      block teaser
+    main#main.main
       #header-anchor
       block main
     footer#footer.footer
@@ -68,23 +78,23 @@ html(lang=lang)
             a(href=siteData.meta.telegramUrl target="_blank" rel="noreferrer noopener") Telegram
             a(href=siteData.meta.discordUrl target="_blank" rel="noreferrer noopener") Discord
             a(href=siteData.meta.instagramUrl target="_blank" rel="noreferrer noopener") Instagram
+            a(href=siteData.meta.nostrUrl target="_blank" rel="noreferrer noopener") Nostr
           .box
             h6 Company
             a(href="/join-us/") Join us
-            a(href="/termsConditions.html") T&C
-            a(href="/privacyPolicy.html") Privacy Policy
+            a(href="/terms-and-conditions/") T&amp;C
+            a(href="/privacy-policy/") Privacy Policy
           .box
             h6 Download
-            a(href="/beta/") APK
+            a(href="/apk/") APK
             a(href=siteData.meta.iosUrl) iPhone
             a(href=siteData.meta.androidUrl) Android
           .box
             h6 Security
-            a(href="#") PGP key
-            a(href="#") Warrant Canary
+            a(href="https://keys.openpgp.org/vks/v1/by-fingerprint/06417DD8953BFE3CEB1EEFFEB53F708160DF0AFC") PGP key
           .box
             h6 Contact
-            a(href="mailto:hello@peachbitcoin.com") Email
+            a(href=`mailto:${siteData.meta.contactEmail}`) Email
           .box
             h6 Bitcoin
             a(href="/bitcoin.pdf") Whitepaper

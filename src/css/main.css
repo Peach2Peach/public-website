@@ -1,11 +1,16 @@
 /* Base */
+@import 'base/mixins.css';
 @import 'base/variables.css';
 @import 'base/fonts.css';
 @import 'base/elements.css';
-@import 'base/layout.css';
 @import 'base/header.css';
 @import 'base/footer.css';
 
 /* Sections */
-@import 'sections/home.css';
-@import 'sections/blog.css';
+@import 'pages/page.css';
+@import 'pages/home.css';
+@import 'pages/how-it-works.css';
+@import 'pages/blog.css';
+@import 'pages/meetups.css';
+@import 'pages/support.css';
+@import 'pages/guides.css';

@@ -1,0 +1,32 @@
+#support {
+  .guides {
+    max-width: 15rem;
+    margin: var(--space-l) auto var(--space-xl);
+  }
+
+  .faq {
+    display: flex;
+    gap: var(--space-m);
+
+    @media (--up_to_M) {
+      flex-direction: column;
+      max-width: 15rem;
+      margin: var(--space-l) auto var(--space-xl);
+    }
+
+    @media (--M_and_up) {
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      margin: var(--space-l) 0 var(--space-xxl);
+
+      & a {
+        flex: 0 0 15rem;
+      }
+    }
+  }
+
+  .contact {
+    margin-top: var(--space-xl);
+  }
+}

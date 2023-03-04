@@ -96,7 +96,7 @@
     "latitude": 50.937531
   },
   {
-    "name": "Einundzwanzig Mannheim"
+    "name": "Einundzwanzig Mannheim",
     "url": "https://einundzwanzig.space/meetups/",
     "longitude": 8.466040,
     "latitude": 49.487457
@@ -132,7 +132,7 @@
     "latitude": 38.076090
   },
   {
-    "name": Athens - "Hellenic Bitcoin",
+    "name": "Athens Hellenic Bitcoin",
     "url": "https://t.me/hellenicbitcoin",
     "longitude": 23.733800,
     "latitude": 38.006670
@@ -183,13 +183,13 @@
     "name": "Lausanne Bitcoin Meetup",
     "url": "https://bitcoinlausanne.ch",
     "longitude": 6.632273,
-    "latitude": 46.519653 
+    "latitude": 46.519653
   },
   {
     "name": "Leeds Bitcoin Network",
     "url": "https://twitter.com/leedsbtc",
     "longitude": -1.549077,
-    "latitude": 53.800755 
+    "latitude": 53.800755
   },
   {
     "name": "London Bitcoin Space",
@@ -219,9 +219,5 @@
     "url": "https://malaga2140.xyz/",
     "longitude": -4.4216366,
     "latitude": 36.7213028
-  },
-
-
-
-
+  }
 ]

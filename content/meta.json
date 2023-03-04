@@ -1,13 +1,16 @@
 {
   "title": "Peach Bitcoin",
+  "tagline": "Buy & Sell Bitcoin peer-to-peer",
   "description": "Buy and Sell bitcoin the way you want",
   "keywords": "Bitcoin",
   "themeColor": "#F56522",
   "cardImage": "/img/card.jpg",
-  "twitterUrl": "https: //twitter.com/peachbitcoin",
-  "telegramUrl": "https: //t.me/+GkOW1J-ixBBkZWRk",
-  "instagramUrl": "https: //www.instagram.com/peachbitcoin/",
+  "twitterUrl": "https://twitter.com/peachbitcoin",
+  "telegramUrl": "https://t.me/+GkOW1J-ixBBkZWRk",
+  "instagramUrl": "https://www.instagram.com/peachbitcoin/",
   "discordUrl": "https://discord.gg/ypeHz3SW54",
+  "nostrUrl": "#",
+  "contactEmail": "hello@peachbitcoin.com",
   "androidUrl": "#",
   "iosUrl": "#"
 }

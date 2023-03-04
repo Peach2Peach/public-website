@@ -1,16 +1,50 @@
 mixin sprite(id, title)
-  svg(role="/img" title=title)&attributes(attributes)
-    use(xlink:href=`${assetPath("/img/sprite.svg")}#${id}`)
+  svg(role="img" title=title)&attributes(attributes)
+    use(href=`${assetPath("/img/icons.svg")}#${id}`)
 
 mixin postPreview(post)
-  a.postPreview(href=`/${post.permalink}`)&attributes(attributes)
-    if post.teaser
-      div.image
-        img(src=assetPath(post.teaser) alt=post.title)
-    div.content
-      h3=post.title
-      .date= (new Date(post.date)).toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' })
-      p=post.description
+  a(href=`/${post.permalink}`).post-preview&attributes(attributes)
+    if post.previewImage
+      img(src=assetPath(post.previewImage) alt=post.title)
+    header
+      small.date= displayDate(post.date)
+      h3= post.title
 
 mixin navItem(id, title)
-  a(href=`/${id}/` class=(navCurrent === id && 'current'))&attributes(attributes)= title
+  a(href=`/${id}/` class=(permalink === id && 'current'))&attributes(attributes)= title
+
+mixin map(id, markers)
+  .vectorMap(id=id)
+  script.
+    const markers = [!{markers}];
+    // https://jvectormap.com/documentation/javascript-api/jvm-map/
+    new jvm.MultiMap({
+      container: $(`#!{id}`),
+      main: {
+        map: 'world_mill',
+        backgroundColor: 'transparent',
+        markers,
+        focusOn: ['DE', 'GB', 'ES', 'PL', 'PO', 'IT', 'NL', 'BE', 'GR', 'CY'],
+        regionStyle: {
+          initial: {
+            'fill': 'var(--color-map-region)',
+            'stroke': 'var(--color-map-outline)',
+            'stroke-width': .25
+          },
+          hover: {
+            'fill-opacity': .8,
+            cursor: 'pointer'
+          }
+        },
+        onMarkerClick(event, index) {
+          const marker = markers[index]
+          if (marker.url) window.open(marker.url, '_blank');
+        }
+      },
+      mapUrlByCode(code, multiMap) {
+        return `/vendor/jvectormap/maps/${code.toLowerCase()}_${multiMap.defaultProjection}.js`;
+      },
+      mapNameByCode(code, multiMap) {
+        return `${code.toLowerCase()}_${multiMap.defaultProjection}`;
+      }
+    });

@@ -1,0 +1,19 @@
+#for-meetups {
+  & .content-wrap--flex {
+    margin-bottom: var(--space-xxl);
+
+    @media (--M_to_L) {
+      margin-top: var(--space-xl);
+      margin-bottom: var(--space-xxl);
+    }
+    @media (--L_and_up) {
+      margin-top: var(--space-xl);
+      margin-bottom: var(--space-xxxl);
+    }
+  }
+}
+
+.vectorMap {
+  width: 100%;
+  height: 60vh;
+}

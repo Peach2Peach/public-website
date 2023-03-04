@@ -1,0 +1,44 @@
+#index {
+  & .contact {
+    --icon-size: 4rem;
+    max-width: 26rem;
+
+    @media (--up_to_M) {
+      max-width: 16em;
+    }
+  }
+}
+
+#top,
+#bottom,
+#mission {
+  & .content-wrap {
+    --max-width: 26em;
+    font-size: var(--font-size-l);
+  }
+  & p {
+    max-width: 24em;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+#mission {
+  & h2 {
+    @mixin peach-text;
+    font-size: var(--font-size-xxxl);
+  }
+}
+
+#newsletter {
+  & form {
+    max-width: 20.75rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  & .button {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

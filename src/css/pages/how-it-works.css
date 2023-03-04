@@ -1,0 +1,147 @@
+#how-it-works {
+  .teaser {
+    & figure {
+      margin-top: auto;
+    }
+
+    & img {
+      max-height: 50vh;
+
+      @media screen and (max-height: 799.99px) {
+        max-height: 35vh !important;
+      }
+    }
+
+    & h1 {
+      font-size: clamp(2rem, 7vw, 5vh);
+    }
+  }
+
+  & figcaption {
+    display: none;
+  }
+
+  & article + article {
+    margin-top: var(--space-xxxl);
+  }
+
+  & .content-wrap--flex {
+    align-items: center;
+
+    & div {
+      text-align: center;
+    }
+
+    @media (--up_to_M) {
+      & figure {
+        width: 100%;
+        max-width: 400px;
+        align-self: center;
+      }
+    }
+
+    @media (--M_and_up) {
+      & div {
+        --flex-width: 55%;
+        text-align: center;
+
+        > &:last-child {
+          margin-bottom: 0;
+        }
+      }
+
+      & figure {
+        --flex-width: 45%;
+        width: 100%;
+      }
+
+      &:nth-child(odd) {
+        & figure {
+          order: 0;
+        }
+
+        & div {
+          order: 1;
+        }
+      }
+    }
+
+    @media (--L_and_up) {
+      & div {
+        padding: 0 var(--space-xxl);
+      }
+    }
+  }
+
+  #payment {
+    --icon-size: 3rem;
+    margin-top: var(--space-l);
+    gap: 0;
+
+    & h3 {
+      @mixin peach-text;
+      font-size: var(--font-size-xl);
+    }
+
+    & h4 {
+      margin-bottom: var(--space-m);
+    }
+
+    & hr {
+      border-top: 2px solid var(--color-neutral-5);
+      margin: var(--space-l) auto;
+      width: 4em;
+    }
+
+    & ul {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: var(--space-m);
+    }
+
+    & li {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: var(--space-xxs);
+      flex-direction: column;
+      color: var(--color-neutral-65);
+      font-size: var(--font-size-xs);
+      border: 1px solid var(--color-neutral-10);
+      background-color: var(--color-white);
+      border-radius: var(--border-radius);
+      padding: var(--space-xs) var(--space-s);
+
+      @media (--up_to_M) {
+        flex-basis: 40%;
+      }
+      @media (--M_and_up) {
+        flex-basis: 20%;
+        min-width: 9.5rem;
+      }
+    }
+
+    & ul:first-of-type li {
+      flex-basis: 4rem !important;
+      min-width: auto !important;
+    }
+  }
+
+  #sounds_cool,
+  #questions {
+    & h3 {
+      @mixin peach-text;
+      font-size: var(--font-size-xl);
+    }
+
+    & .button {
+      max-width: 15rem;
+      margin: var(--space-l) auto 0;
+    }
+  }
+
+  #questions {
+    margin-bottom: var(--space-xxl)
+  }
+}
