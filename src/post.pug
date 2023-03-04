@@ -19,7 +19,7 @@ block main
           a(href="/support/") support
           = " section)."
 
-      p.date= (new Date(date)).toLocaleDateString('en-us', { year: 'numeric', month: 'long', day: 'numeric' })
+      p.date= displayDate(date)
 
       if tags
         p.tags

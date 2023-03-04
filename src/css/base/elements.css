@@ -455,3 +455,28 @@ main {
     font-family: monospace;
   }
 }
+
+blockquote {
+  border-radius: var(--border-radius);
+  background: var(--color-neutral-5);
+  margin: var(--space-l) 0;
+  padding: var(--space-m) var(--space-l);
+  quotes: "\201C""\201D""";
+}
+
+blockquote:before {
+  color: var(--color-neutral-10);
+  content: open-quote;
+  font-size: 5rem;
+  line-height: 0.1em;
+  margin-right: var(--space-xs);
+  vertical-align: -0.4em;
+}
+
+blockquote p {
+  display: inline;
+}
+
+blockquote cite {
+  display: inline-block;
+}

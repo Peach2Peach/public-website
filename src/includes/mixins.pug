@@ -7,7 +7,7 @@ mixin postPreview(post)
     if post.previewImage
       img(src=assetPath(post.previewImage) alt=post.title)
     header
-      small.date= (new Date(post.date)).toLocaleDateString('en-us', { year: 'numeric', month: 'long', day: 'numeric' })
+      small.date= displayDate(post.date)
       h3= post.title
 
 mixin navItem(id, title)

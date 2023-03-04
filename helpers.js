@@ -153,6 +153,17 @@ const { render: renderMd } = mdTransformer
 
 mdTransformer.render = str => renderMd(str, config)
 
+// date
+
+const displayDate = date => {
+  const dt = new Date(date)
+  const fm = dt.toLocaleDateString('en-us', { month: 'long', day: 'numeric' })
+  if (fm.endsWith('1')) return `${fm}st, ${dt.getFullYear()}`
+  else if (fm.endsWith('2')) return `${fm}nd, ${dt.getFullYear()}`
+  else if (fm.endsWith('3')) return `${fm}rd, ${dt.getFullYear()}`
+  else return `${fm}th, ${dt.getFullYear()}`
+}
+
 module.exports = {
   renderMarkdown: mdTransformer.render,
   slugify,
@@ -163,5 +174,6 @@ module.exports = {
   assetPath,
   getRev,
   getVar,
+  displayDate,
   IS_DEV
 }
