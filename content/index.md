@@ -9,6 +9,7 @@ template: index
 :::buttons
 [Download on iPhone]($iosUrl$)
 [Download on Android]($androidUrl$)
+[Download APK on Android](/apk/)
 :::
 
 ![](/img/phones.png)
