@@ -1,3 +1,6 @@
+---
+template: text
+---
 # Terms & Conditions
 
 These Service Terms were last updated on **September 9th, 2022**

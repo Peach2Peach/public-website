@@ -1,13 +1,12 @@
 # Download the APK
 
 :::buttons
-[Download Universal APK](https://peachbitcoin.com/apks/latest/app-prod-universal-release.apk)
-[Download ARM64-v8 APK](https://peachbitcoin.com/apks/latest/app-prod-arm64-v8a-release.apk)
+[Download Universal APK]($apkUniversalUrl$)
+[Download ARM64-v8 APK]($apkArm64v8Url$)
 :::
 
-- Latest version: 0.1.10 (117)
-- [Peach signature](https://peachbitcoin.com/apks/latest/manifest-peach.sig)
-- [SHA256 checksums](https://peachbitcoin.com/apks/latest/manifest-peach.txt)
+- [Peach signature]($apkSignaturesUrl$)
+- [SHA256 checksums]($apkChecksumsUrl$)
 
 We recommend downloading the ARM64 version from Android 8.0 and up.
 

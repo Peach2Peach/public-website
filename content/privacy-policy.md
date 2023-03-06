@@ -1,3 +1,6 @@
+---
+template: text
+---
 # Privacy Policy
 
 This privacy policy was last updated on **September 9th, 2022**
@@ -21,7 +24,7 @@ By "you", we mean any Peach accountholder and/or user of our services and produc
 
 Peach is the controller of your personal data collected through the Service. One of our main priorities is the privacy of our users.
 
-Please [contact us]($contactEmail$) if you have questions about our privacy practices that are not addressed in this Privacy Statement.
+Please [contact us](mailto:$contactEmail$) if you have questions about our privacy practices that are not addressed in this Privacy Statement.
 
 You must read this Privacy Policy together with any other privacy notice or fair processing notice that we may provide at or around the time that we collect or process personal data about you so that you are fully aware of how and why we are using that data.
 
@@ -33,7 +36,7 @@ If you do not agree with the Privacy Policy, you should refrain from using the S
 
 While we will strive to notify our users of any changes, the Privacy Policy may be updated by Peach at any time without any prior notice requirement. The current version is published on [https://peachbitcoin.com/privacy-policy/](https://peachbitcoin.com/privacy-policy/).
 
-Our Service is not intended for use by nor directed at anyone under the age of 18 and we do not knowingly collect any Personal Identifiable Information from children under the age of 18. If you think that your child provided this kind of information , we strongly recommend you to [contact us]($contactEmail$) immediately and we will promptly remove such information.
+Our Service is not intended for use by nor directed at anyone under the age of 18 and we do not knowingly collect any Personal Identifiable Information from children under the age of 18. If you think that your child provided this kind of information , we strongly recommend you to [contact us](mailto:$contactEmail$) immediately and we will promptly remove such information.
 
 ## 3. What information we collect
 
@@ -93,7 +96,7 @@ We will only use your personal data when the law allows us to. Most commonly we 
 
 You will receive marketing messages from us if you have given us your consent to do so by signing up on the website.
 
-To unsubscribe from marketing emails at any time, you can click the unsubscribe link that can be found at the bottom of any marketing email. You may also [contact us]($contactEmail$) to inform us if you do not wish to receive any marketing materials from us.
+To unsubscribe from marketing emails at any time, you can click the unsubscribe link that can be found at the bottom of any marketing email. You may also [contact us](mailto:$contactEmail$) to inform us if you do not wish to receive any marketing materials from us.
 
 ### 4.2 Sharing your information
 

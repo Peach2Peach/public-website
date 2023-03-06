@@ -9,8 +9,12 @@
   "telegramUrl": "https://t.me/+GkOW1J-ixBBkZWRk",
   "instagramUrl": "https://www.instagram.com/peachbitcoin/",
   "discordUrl": "https://discord.gg/ypeHz3SW54",
-  "nostrUrl": "#",
+  "nostrUrl": "https://snort.social/p/npub15369wu3wzzar5fclhecyqfv683x69n6nhlg7rxqnsg2dydgxflpq3apswl",
   "contactEmail": "hello@peachbitcoin.com",
-  "androidUrl": "#",
-  "iosUrl": "#"
+  "androidUrl": "https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet",
+  "iosUrl": "https://testflight.apple.com/join/wfSPFEWG",
+  "apkUniversalUrl": "https://download.peachbitcoin.com/apks/latest/app-prod-universal-release.apk",
+  "apkArm64v8Url": "https://download.peachbitcoin.com/apks/latest/app-prod-arm64-v8a-release.apk",
+  "apkSignaturesUrl": "https://download.peachbitcoin.com/apks/latest/manifest-peach.sig",
+  "apkChecksumsUrl": "https://download.peachbitcoin.com/apks/latest/manifest-peach.txt"
 }

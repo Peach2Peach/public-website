@@ -17,16 +17,7 @@ block main
     .content-wrap.content-wrap--centered
       != html.mission
       .contact
-        a(href=siteData.meta.twitterUrl target="_blank" rel="noreferrer noopener" title="Twitter")
-          +sprite("social-twitter", "Twitter")
-        a(href=siteData.meta.telegramUrl target="_blank" rel="noreferrer noopener" title="Telegram")
-          +sprite("social-telegram", "Telegram")
-        a(href=siteData.meta.discordUrl target="_blank" rel="noreferrer noopener" title="Discord")
-          +sprite("social-discord", "Discord")
-        a(href=siteData.meta.instagramUrl target="_blank" rel="noreferrer noopener" title="Instagram")
-          +sprite("social-instagram", "Instagram")
-        a(href=siteData.meta.nostrUrl target="_blank" rel="noreferrer noopener" title="Nostr")
-          +sprite("social-nostr", "Nostr")
+        include /social.pug
 
   section#newsletter.wrap
     form.newsletter-form(method="POST" action="https://5dcdd79e.sibforms.com/serve/MUIEAGjzL2fItMY1cwWaIXk6UiGKmh6OFwDRRA3wjUptuI7KEG1oWd0-a1M8fGC4apXeJkr9xTZPG-HK-Cyl0Zs8OEyH-qMndMqnE5MgP-0WVFz9ryAKU_te8XOKoOStliGWWB1LTjgioz5XpKeH-rihs5STRci4aD12qb4jAeOqrVXbV8E4wJKLWDVaEgrLzrIY612Qgi2V1KQq")
