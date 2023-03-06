@@ -1,4 +1,14 @@
 #index {
+  & .teaser {
+    @media screen and (max-height: 599.99px) {
+      & h1 {
+        display: none;
+      }
+      & h2 {
+        margin-top: auto;
+      }
+    }
+  }
   & .contact {
     --icon-size: 4rem;
     max-width: 26rem;
