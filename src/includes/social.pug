@@ -1,0 +1,6 @@
+each social in ['Twitter', 'Telegram', 'Discord', 'Instagram', 'Nostr']
+  - const id = social.toLowerCase()
+  - const url = siteData.meta[`${id}Url`]
+  if url
+    a(href=url target="_blank" rel="noreferrer noopener" title=social)
+      +sprite(`social-${id}`, social)
