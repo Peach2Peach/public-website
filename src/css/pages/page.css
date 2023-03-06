@@ -85,6 +85,12 @@
     min-height: -webkit-fill-available;
     min-height: 100dvh;
   }
+  @media screen and (max-height: 599.99px) {
+    height: auto;
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
+    min-height: 100dvh;
+  }
 
   & h1 {
     margin-top: auto;
