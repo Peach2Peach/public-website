@@ -24,7 +24,7 @@ Use the payment method of your choice amongst **[many options](/how-it-works/#pa
 
 Sell at the **price of your choice** because peer-to-peer markets are the real markets.
 
-**KYC-free Bitcoin are the best Bitcoin.**
+**KYC-free Bitcoin is the best Bitcoin.**
 
 <!--[mission]-->
 ## Join our Mission
