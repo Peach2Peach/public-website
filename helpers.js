@@ -58,7 +58,7 @@ const ICON_REGEX = /:([\w-_]+):/gi
 const VARIABLE_REGEX = /\$([\w-_]+)\$/gi
 
 const icon = symbol =>
-  ['payment-blik', 'payment-swish', 'payment-twint'].includes(symbol)
+  ['payment-blik', 'payment-swish', 'payment-twint', 'tech-peach'].includes(symbol)
     ? `<img role="img" src="${assetPath(`/icons/${symbol}.svg`)}" />`
     : `<svg role="img"><use href="${assetPath('/img/icons.svg')}#${symbol}"></use></svg>`
 
