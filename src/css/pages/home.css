@@ -8,6 +8,11 @@
         margin-top: auto;
       }
     }
+    & .buttons {
+      & a {
+        flex: 0 0 18rem;
+      }
+    }
   }
   & .contact {
     --icon-size: 4rem;
