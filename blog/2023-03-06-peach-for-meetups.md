@@ -13,7 +13,7 @@ helpFooter: true
 
 We're adding a lot of meetups where users can trade cash securely using Peach all around Europe (and expanding to
 the rest of the world in a near future). We're asking you (meetup organizers) to help users out in case of any problems, and to
-tweet some nice pics of the process. As thanks, we'll give you EXPOSURE, nice merch and 1.5% of the trading volume that
+tweet some nice pics of the process. As thanks, we'll give you EXPOSURE, nice merch and 1% of the trading volume that
 happens on your meetup. Full details below 👇
 
 ## Open letter to meetup organizers
