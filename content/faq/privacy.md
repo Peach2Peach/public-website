@@ -54,7 +54,7 @@ gpg --import PGP-peach.asc
 (make sure to substitute PGP-peach.asc for the correct file name, usually it will be 48339A19645E2E53488E0E5479E1B270FACD1BD2.asc)
 
 - Verify the signatures that you previously downloaded with the following command:
-````
+```
 gpg --verify manifest-peach.sig manifest-peach.txt
 ``` 
 In the output you should see the following line:
