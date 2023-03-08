@@ -26,6 +26,7 @@ Give a list
 Only your counterparty can see your payment details; they are sent via the Peach servers, but are fully end to end encrypted (like with most chat apps) so that we cannot see what they are.
 
 When you start a dispute, you and your counterparty's payment details and your chat history will be visible to the assigned Peach mediator.
+:::
 
 :::details How to verify the APK?
 
