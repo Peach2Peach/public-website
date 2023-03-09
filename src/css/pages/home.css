@@ -1,6 +1,6 @@
 #index {
   & .teaser {
-    @media screen and (max-height: 599.99px) {
+    @media screen and (max-height: 749.99px) {
       & h1 {
         display: none;
       }
