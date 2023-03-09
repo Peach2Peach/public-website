@@ -208,10 +208,36 @@
     "url": "https://signal.group/#CjQKIOkx1dh5jAnRQ0lO8Ed0Nga55de6C3SBpKnTJveLbzY5EhAo4TuyV8Cff30gTYZMhuI6",
     "longitude": 6.9292641,
     "latitude": 46.9895828
-  },  {
+  },
+  {
     "name": "Málaga 2140",
     "url": "https://malaga2140.xyz/",
     "longitude": -4.4216366,
     "latitude": 36.7213028
+  },
+  {
+    "name": "Aix-en-Provence",
+    "url": "https://t.me/AixBitcoinMeetup",
+    "longitude": 5.4474738,
+    "latitude": 43.5298424
+  },
+  {
+    "name": "Koblenz",
+    "url": "https://t.me/Einundzwanzig_Ko",
+    "longitude": 7.5943951,
+    "latitude": 50.3533278
+  },
+  {
+    "name": "Ingolstadt",
+    "url": "https://t.me/EinundzwanzigIngolstadt",
+    "longitude": 11.4250395,
+    "latitude": 48.7630165
+  },
+  {
+    "name": "Trier",
+    "url": "https://t.me/Einundzwanzig_Trier",
+    "longitude": 6.6441878,
+    "latitude": 49.7596208
   }
+  
 ]
