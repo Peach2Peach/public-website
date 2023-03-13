@@ -8,6 +8,8 @@
 - [Peach signature]($apkSignaturesUrl$)
 - [SHA256 checksums]($apkChecksumsUrl$)
 
+Latest version: 0.2.1 (143)
+
 We recommend downloading the ARM64 version from Android 8.0 and up.
 
 ## Can't install the APK?
