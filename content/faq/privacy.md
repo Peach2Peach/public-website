@@ -65,7 +65,6 @@ gpg: Good signature from "hello@peachbitcoin.com <hello@peachbitcoin.com>" [unkn
 :::
 
 :::How to sign an external address?
-
 Follow this steps to sign the receiving address when buying Bitcoin to an external wallet:
 
 _Note: The first 2 steps are useful if you **always** want to receive your funds in external addresses. If you just want to do it once, or you want to sometimes use peach wallet, start from step 3._
@@ -90,4 +89,5 @@ _Note: The first 2 steps are useful if you **always** want to receive your funds
 
 8. Your offer is published.
 
-_*Disclaimer: not all wallets support the option to sign/verify your address. Peach recommends using Blue Wallet, Sparrow or Samourai as they all offer the sign/verify option._:::
+_*Disclaimer: not all wallets support the option to sign/verify your address. Peach recommends using Blue Wallet, Sparrow or Samourai as they all offer the sign/verify option._
+:::
