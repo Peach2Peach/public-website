@@ -1,6 +1,6 @@
 [
   {
-    "name": "Belgian Bitcoin Embasse",
+    "name": "Belgian Bitcoin Embassy",
     "url": "https://belgianbitcoinembassy.org",
     "longitude": 4.400278,
     "latitude": 51.217778
@@ -238,6 +238,11 @@
     "url": "https://t.me/Einundzwanzig_Trier",
     "longitude": 6.6441878,
     "latitude": 49.7596208
+  },
+  {
+    "name": "Preston Bitcoin Meetup",
+    "url": "https://t.me/PrestonBitcoin",
+    "longitude": -2.6992717,
+    "latitude": 53.7593363
   }
-  
 ]
