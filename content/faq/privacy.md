@@ -63,3 +63,33 @@ In the output you should see the following line:
 gpg: Good signature from "hello@peachbitcoin.com <hello@peachbitcoin.com>" [unknown]
 ```
 :::
+
+:::How to sign an external address?
+
+Follow this steps to sign the receiving address when buying Bitcoin to an external wallet:
+
+_Note: The first 2 steps are useful if you **always** want to receive your funds in external addresses. If you just want to do it once, or you want to sometimes use peach wallet, start from step 3._
+
+1. Go to settings
+  - disable peach wallet
+  - go to payout address
+
+2. Paste the new receiving address
+
+3. Go through the process to publish your buy offer, and before publishing it, make sure you choose to receive to your external wallet address (click on the upper right little wallet icon on the offer summary screen).
+
+4. Once you confirm your buy offer, the message to sign your address will appear. Copy it and go back to your wallet.
+
+5. Search for the "sign/verify" option* and paste:
+  - your receiving address
+  - the peach message
+
+6. Click on sign & the signature will appear. Copy it.
+
+7. Paste the signature on the peach wallet and click on confirm.
+
+8. Your offer is published.
+
+_*Disclaimer: not all wallets support the option to sign/verify your address. Peach recommends using Blue Wallet, Sparrow or Samourai as they all offer the sign/verify option._
+
+:::
