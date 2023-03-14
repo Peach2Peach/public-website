@@ -90,6 +90,4 @@ _Note: The first 2 steps are useful if you **always** want to receive your funds
 
 8. Your offer is published.
 
-_*Disclaimer: not all wallets support the option to sign/verify your address. Peach recommends using Blue Wallet, Sparrow or Samourai as they all offer the sign/verify option._
-
-:::
+_*Disclaimer: not all wallets support the option to sign/verify your address. Peach recommends using Blue Wallet, Sparrow or Samourai as they all offer the sign/verify option._:::
