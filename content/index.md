@@ -11,6 +11,7 @@ template: index
 [Download on Android]($androidUrl$)
 [Download APK on Android](/apk/)
 :::
+#### Latest version: $apkVersionBuild$
 
 ![](/img/phones.png)
 
