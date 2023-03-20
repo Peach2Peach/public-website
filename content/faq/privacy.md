@@ -91,3 +91,11 @@ _Note: The first 2 steps are useful if you **always** want to receive your funds
 
 _*Disclaimer: not all wallets support the option to sign/verify your address. Peach recommends using Blue Wallet, Sparrow or Samourai as they all offer the sign/verify option._
 :::
+
+:::details Is Taproot supported?
+
+- It is possible to fund escrows from a taproot address, and withdraw funds from the peach wallet to a taproot address.
+- It is NOT possible set a taproot address as a direct payout address (it’s not possible to sign a message with a taproot address).
+
+:::
+
