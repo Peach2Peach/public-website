@@ -244,5 +244,23 @@
     "url": "https://t.me/PrestonBitcoin",
     "longitude": -2.6992717,
     "latitude": 53.7593363
+  },
+  {
+    "name": "Genova Bitcoin Hub",
+    "url": "https://t.me/bitcoingenova",
+    "longitude": 8.9338624,
+    "latitude": 44.40726
+  },
+  {
+    "name": "Prato Bitcoin Hub",
+    "url": "https://t.me/bitcoinpratohub",
+    "longitude": 11.0941473,
+    "latitude": 43.9357181
+  },
+  {
+    "name": "Einundzwanzig Basel",
+    "url": "https://bitcoin-basel.ch/",
+    "longitude": 7.5878261,
+    "latitude": 47.5581077
   }
 ]
