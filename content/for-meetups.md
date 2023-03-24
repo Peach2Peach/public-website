@@ -12,7 +12,7 @@ Do you jump from meetup to meetup as an excuse to visit the world?
 Or simply, you just hesitate on publishing offers in public telegram groups to avoid being doxxed?
 
 We've got the solution for you.
-Peach app includes **Cash Trades**.
+Peach app includes **anonymous Cash Trades**.
 
 We are **partnering with meetups all over the world** to facilitate safe & secure places to trade Bitcoin with cash.
 
