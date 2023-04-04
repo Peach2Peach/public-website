@@ -262,5 +262,47 @@
     "url": "https://bitcoin-basel.ch/",
     "longitude": 7.5878261,
     "latitude": 47.5581077
+  },
+  {
+    "name": "Einezwänzg Seeland",
+    "url": "https://portal.einundzwanzig.space/ch/meetup/32-einezwaenzg-seeland",
+    "longitude": 7.305262,
+    "latitude": 47.0721368
+  },
+  {
+    "name": "Bitcoin Andorra",
+    "url": "https://www.meetup.com/es-ES/bitcoin-andorra/members/",
+    "longitude": 1.5212467,
+    "latitude": 42.5069391
+  },
+  {
+    "name": "Einundzwanzig Kassel",
+    "url": "https://t.me/einundzwanzig_kassel",
+    "longitude": 9.4924096,
+    "latitude": 51.3154546
+  },
+  {
+    "name": "Burgas Bitcoin",
+    "url": "https://t.me/+k1uxJgMGfSdmNDk0",
+    "longitude": 27.2082645,
+    "latitude": 42.444553
+  },
+  {
+    "name": "Einundzwanzig Konstanz",
+    "url": "https://t.me/Einundzwanzig_Konstanz",
+    "longitude": 9.1750718,
+    "latitude": 47.659216
+  },
+  {
+    "name": "Bitcoin Nottingham Meetups Group",
+    "url": "https://www.bitcoinnottingham.org/meetups",
+    "longitude": -1.1496461,
+    "latitude": 52.9534193
+  },
+  {
+    "name": "Portugal Norte Bitcoin Meetup",
+    "url": "http://btcnorte.org/",
+    "longitude": -8.6107884,
+    "latitude": 41.1494512
   }
 ]
