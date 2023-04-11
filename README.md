@@ -39,6 +39,20 @@ Actual content
 ::::              // ends the figures block
 ```
 
+#### Example Job Description
+
+On the Join Us page this is used to manage the open position descriptions.
+
+Within the `::::figures 3` block, you can add a block like this, to post a new job listing:
+
+```
+:::box tech-peach
+### Local market growth hacker
+
+We are looking for someone to help us develop the regions UK, Germany, Spain and Italy.
+:::
+```
+
 ## Workflow
 
 The site is published on [GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages):
