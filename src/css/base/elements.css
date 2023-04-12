@@ -311,15 +311,12 @@ details[open] article {
   & a {
     flex: 0 0 16rem;
     @mixin peach-button;
+    @mixin peach-button-primary;
   }
 }
 
 .teaser .buttons a {
   @mixin peach-button-white;
-}
-
-:not(.teaser) >  .buttons a {
-  @mixin peach-button-primary;
 }
 
 .note {

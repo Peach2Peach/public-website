@@ -13,7 +13,24 @@
         flex: 0 0 18rem;
       }
     }
+
+    @media screen and (orientation: landscape) and (max-height: 899.99px) {
+      & .inner-wrap {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: var(--space-xl);
+      }
+      & .buttons {
+        width: 18rem;
+        order: 2;
+      }
+      & img {
+        max-height: 320px !important;
+      }
+    }
   }
+
   & .contact {
     --icon-size: 4rem;
     max-width: 26rem;
