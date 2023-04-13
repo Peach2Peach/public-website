@@ -235,7 +235,8 @@ details {
     gap: var(--space-m);
     padding: var(--space-s) 0;
 
-    &::marker {
+    &::marker,
+    &::-webkit-details-marker {
       display: none;
       content: "";
     }
