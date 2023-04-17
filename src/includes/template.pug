@@ -86,7 +86,7 @@ html(lang=lang)
             a(href="/privacy-policy/") Privacy Policy
           .box
             h6 Download
-            Latest version: $apkVersionBuild$
+            span= `Latest version: ${siteData.meta.apkVersionBuild}`
             a(href="/apk/") APK
             a(href=siteData.meta.iosUrl) iPhone
             a(href=siteData.meta.androidUrl) Android
