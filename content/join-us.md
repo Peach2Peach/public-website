@@ -1,7 +1,7 @@
 # Join Us
 
 ## Open positions
-
+<!--
 ::::figures 3
 :::box tech-peach
 ### Backend Developer
@@ -39,6 +39,9 @@ Instagram / Tik Tok
 ::::
 
 Other interesting skills? Let us know!
+-->
+
+We are always interested in receiving applications from  rockstar talents in engineering, product design, and growth hacking. Subscribe to our newsletter or join our social networks to stay updated on our next hiring wave!
 
 [All about Peach, the company](/blog/all-about-peach-the-company/)
 
