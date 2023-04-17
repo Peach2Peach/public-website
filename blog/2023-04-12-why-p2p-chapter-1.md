@@ -47,7 +47,7 @@ We believe that there is a better way of using Bitcoin, and we believe that peop
 <cite>— Satoshi Nakamoto, Bitcoin whitepaper</cite>
 
 
-This was the first of a full series of blog posts where we'll fall down the rabbit hole of p2p. Subscribe to our [mailing list](https://peachbitcoin.com) to receive updates about the next posts.
+Dear peaches, thank you for reading this far, this was the first of a full series of blog posts where we'll fall down the rabbit hole of p2p. If you want to receive updates about the next posts, feel free to subscribe to our [mailing list](https://peachbitcoin.com).
 
 If you want to know more about us, check out or socials, or simply [contact us](mailto:hello@peachbitcoin.com) (use our [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2) if possible) we'll be happy to hear from you!
 
