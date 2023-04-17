@@ -235,7 +235,8 @@ details {
     gap: var(--space-m);
     padding: var(--space-s) 0;
 
-    &::marker {
+    &::marker,
+    &::-webkit-details-marker {
       display: none;
       content: "";
     }
@@ -311,15 +312,12 @@ details[open] article {
   & a {
     flex: 0 0 16rem;
     @mixin peach-button;
+    @mixin peach-button-primary;
   }
 }
 
 .teaser .buttons a {
   @mixin peach-button-white;
-}
-
-:not(.teaser) >  .buttons a {
-  @mixin peach-button-primary;
 }
 
 .note {
@@ -446,6 +444,10 @@ main {
 
     @media (--S_and_up) {
       white-space: nowrap;
+    }
+
+    & a {
+      text-decoration: underline;
     }
   }
 

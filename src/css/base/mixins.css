@@ -25,11 +25,12 @@
 
 @define-mixin peach-button-white {
   color: var(--color-body-text);
-  background-color: var(--color-white);
+  background: var(--color-white);
 
   &:focus,
   &:hover {
     color: var(--color-primary-main);
+    background: var(--color-white);
   }
 }
 

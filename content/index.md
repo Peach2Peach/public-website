@@ -6,14 +6,17 @@ template: index
 
 ## Buy & Sell Bitcoin <span>peer-to-peer</span>
 
+<div class="inner-wrap">
+
 :::buttons
 [Download on iPhone]($iosUrl$)
 [Download on Android]($androidUrl$)
 [Download APK on Android](/apk/)
 :::
-#### Latest version: $apkVersionBuild$
 
 ![](/img/phones.png)
+
+</div>
 
 <!--[top]-->
 ## Buy and Sell Bitcoin, the way you want

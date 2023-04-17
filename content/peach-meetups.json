@@ -304,5 +304,11 @@
     "url": "http://btcnorte.org/",
     "longitude": -8.6107884,
     "latitude": 41.1494512
+  },
+  {
+    "name": "Dwadzieścia Jeden",
+    "url": "https://dwadziesciajeden.pl/",
+    "longitude": 21.0067249,
+    "latitude": 52.2319581
   }
 ]

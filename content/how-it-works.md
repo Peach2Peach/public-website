@@ -41,6 +41,8 @@ If you have one you'd like to use, but it isn't listed, [let us know](mailto:$co
 
 - :payment-cash: Cash
 
+Check out all the [available meetups](/for-meetups/) to trade Bitcoin with cash!
+
 ---
 
 #### Bank Transfer
