@@ -16,7 +16,7 @@ description: |
 # Why P2P series - Chapter 1
 ## The origins of Bitcoin
 
-Dear peaches, as you may already know, our app allows users to buy Bitcoin P2P (peer to peer, or :peach:to:peach: as we prefer). But, even if many people have heard those words before, have you ever stopped to think what that even means?
+Dear peaches, as you may already know, our app allows users to buy Bitcoin P2P (peer to peer, or peach to peach as we prefer). But, even if many people have heard those words before, have you ever stopped to think what that even means?
 
 The basic definition is pretty obvious, but in the bitcoin space, many people are still buying Bitcoin using services that require verification of personal information, aka VEXs[^1], thus tying the Bitcoin bought to your identity. Which makes us wonder: have we (bitcoiners) really understood what this is all about?
 
@@ -53,4 +53,4 @@ This was the first of a full series of blog posts where we'll fall down the rabb
 If you want to know more about us, check out or socials, or simply [contact us](mailto:hello@peachbitcoin.com) (use our [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2) if possible) we'll be happy to hear from you!
 [Telegram](), [Discord](), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
-Keep spreading the Peach word, who knows when you'll find the match of your life :wink: !
+Keep spreading the Peach word, who knows when you'll find the match of your life!
