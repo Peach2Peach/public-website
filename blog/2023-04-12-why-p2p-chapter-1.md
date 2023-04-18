@@ -54,3 +54,5 @@ If you want to know more about us, check out or socials, or simply [contact us](
 [Telegram](https://t.me/+GkOW1J-ixBBkZWRk), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
 Keep spreading the Peach word, who knows when you'll find the match of your life!
+
+_*shoutout to @okada_blue for introducing the “VEX” terminology, aka; Verification Exchanges in his article https://bitcoinmagazine.com/culture/the-value-of-p2p-bitcoin-exchanges _
