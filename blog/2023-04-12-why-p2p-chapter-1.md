@@ -55,4 +55,4 @@ If you want to know more about us, check out or socials, or simply [contact us](
 
 Keep spreading the Peach word, who knows when you'll find the match of your life!
 
-*shoutout to @okada_blue for introducing the “VEX” terminology, aka; Verification Exchanges in his article https://bitcoinmagazine.com/culture/the-value-of-p2p-bitcoin-exchanges
+*shoutout to [@okada_blue](https://twitter.com/okada_blue) for introducing the “VEX” terminology, aka; Verification Exchanges in his article [The Value of p2p Bitcoin exchanges](https://bitcoinmagazine.com/culture/the-value-of-p2p-bitcoin-exchanges)
