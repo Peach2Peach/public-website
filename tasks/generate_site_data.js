@@ -52,7 +52,7 @@ const posts = globSync(join(dir, 'blog', '*.md')).map(filePath => {
   data.name = name
   data.permalink = `blog/${data.name}`
   return data
-}).reverse()
+})
 
 // blog with tags
 const blogPage = pages.find(p => p.id === 'blog')
