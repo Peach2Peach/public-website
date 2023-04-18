@@ -22,7 +22,7 @@ The basic definition is pretty obvious, but in the bitcoin space, many people ar
 
 In this series of blog posts we will dive a little bit deeper into what it means to use bitcoin P2P, and some of its advantages.
 
-In today's chapter, we want to briefly explore is how everything started.
+In today's chapter, we want to briefly explore how everything started.
 
 ![bitcoin whitepaper](/img/blog/why-p2p-1/whitepaper-intro.png)
 
