@@ -322,5 +322,17 @@
     "url": "https://t.me/+zme2HfJVZEBmZmY0",
     "longitude": 2.745640,
     "latitude": 48.875038
+  },
+  {
+    "name": "West Kirby, Wirall Bitcoin Meetup",
+    "url": "https://www.bitcoinwirral.org/",
+    "longitude": -3.1865608,
+    "latitude": 53.3733229
+  },
+  {
+    "name": "Engelberg, Bitcoin for Switzerland",
+    "url": "https://www.bitcoinforswitzerland.com/",
+    "longitude": 8.4043996,
+    "latitude": 46.8223497
   }
 ]
