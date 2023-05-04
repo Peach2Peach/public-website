@@ -3,11 +3,21 @@ template: text
 ---
 # Privacy Policy
 
-This privacy policy was last updated on **September 9th, 2022**
+This privacy policy was last updated on **May 5th, 2023**
+
+## 0. Summary
+
+This summary is not intended to replace the privacy policy, but merely to summarize its contents. 
+
+We think privacy is very important, and should be the default state for any app. We also want to make privacy accessible for everyone through an easy-to-use app. In some cases though, collecting data about the use of our app is highly valuable, or hard to avoid. Where we collect your data, we strive to clearly inform you and make it opt-in where possible.
+
+**All your sensitive personal data is stored on your phone**, and when making a match only the relevant data for the trade is sent to your counterparty via an end-to-end encrypted channel. As such, we cannot see your payment information. We do check the hash (the encrypted version) of this data, so that we can enforce the 1000CHF trading limit set by Swiss regulation and effectively ban scammers from our platform. But, again, without actually knowing the information itself.
+
+Having data about how our app is used is very valuable for improving it. Sharing this data is always opt-in. **The analytics data does not contain personally identifiable information** (see section 3.4 for specifics) and is collected via Firebase and Google Analytics (yes, we know...)
 
 ## 1. Introduction
 
-This page explains which type of information Peach collects of its users during the use of it's products and services, and how this information is used.
+This page explains which types of information Peach collects of its users during the use of its products and services, and how this information is used.
 
 When we speak of  "Peach",  "we",  "us"  or  "our",  we mean Peach S.A.R.L and its representatives. Peach Sàrl is a company registered, organized and existing under the laws of Switzerland, under company registration number CHE-158.025.408 whose registered office is at:
 
@@ -30,19 +40,27 @@ You must read this Privacy Policy together with any other privacy notice or fair
 
 ## 2. General
 
-If you choose to use our products and services, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use our products and services, then you agree to the collection and use of information as described this policy. As we think privacy is very important, we strive to collect as little data about you as we can, though we need to collect some data to make our services work. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-If you do not agree with the Privacy Policy, you should refrain from using the Service.
+If you do not agree with the Privacy Policy, you should refrain from using our services.
 
 While we will strive to notify our users of any changes, the Privacy Policy may be updated by Peach at any time without any prior notice requirement. The current version is published on [https://peachbitcoin.com/privacy-policy/](https://peachbitcoin.com/privacy-policy/).
 
-Our Service is not intended for use by nor directed at anyone under the age of 18 and we do not knowingly collect any Personal Identifiable Information from children under the age of 18. If you think that your child provided this kind of information , we strongly recommend you to [contact us](mailto:$contactEmail$) immediately and we will promptly remove such information.
+Our Service is not intended for use by nor directed at anyone under the age of 18 and we do not knowingly collect any Personal Identifiable Information from children under the age of 18. If you think that your child provided this kind of information, we strongly recommend you to [contact us](mailto:$contactEmail$) immediately and we will promptly remove such information.
 
 ## 3. What information we collect
 
 ### 3.1 On our website
 
-We do not currently collect any user data via our website.
+We use Google Analytics on our website for collecting basic usage data. The following information is collected (please note that this data is not used to be linked to your person or peach ID in any way):
+  * The country you're visiting from (derived from your IP address)
+  * Which pages you visit, and how long you are on these pages
+  * Browser and browser version
+  * Operating system and operating system version
+  * Screen resolution
+  * Browser language
+
+Your email address is collected if you decide to sign up for our newsletter.
 
 ### 3.2 When you contact us
 
@@ -54,35 +72,41 @@ To be able to make use of Peach you will enter information relating to the trade
 
 1. #### Publically available information
 
-    * the amount of sats you want to buy or sell
-    * the payment method(s) you want to use
-    * the currencies you want to use
-    * the premium at which you want to sell
+  * the amount of sats you want to buy or sell
+  * the payment method(s) you want to use
+  * the currencies you want to use
+  * the premium at which you want to sell
 
-2. #### Information available to the counterparty
+2. #### Information available only to the counterparty (except in case of a dispute, see 4.3)
 
-    * the details of your payment methods (e.g. IBAN, email address)
-    * chat messages
+  * the details of your payment methods (e.g. IBAN, email address)
+  * chat messages
 
 3. #### Information available to Peach
 
-    * the bitcoin address you want to receive the bitcoin on
+  * the bitcoin address you want to receive the bitcoin on
 
 ### 3.4 Optionally shared data
 
 #### Usage data
 
-You have the possibility to help Peach optimalize the user experience in P2P-trading by automatically sending usage data. The data is collected in Google Firebase & Google Analytics.
+Having data about how our app is used is very useful in improving the user experience; but this is always an opt-in feature. The data is collected in Google Firebase & Google Analytics. You can toggle sharing usage data on/off in Settings > About Peach > Diagnostics. The following data is shared when you opt-in:
 
-You can toggle sharing usage data on/off in Settings > About Peach > Diagnostics
+  * Technical device stats, like your OS and screen size
+  * Demographics information, like your country
+  * The version of the app you're using
+  * Which screens have been viewed
+  * Conversion information like the amounts that are being sold and which currencies and payment methods are being used
 
 #### Crash reports
 
-When the Peach app detects that the app has run into an unexpected issue, a crash report is generated.
+When the Peach app detects that the app has run into an unexpected issue, a crash report is generated. You will be prompted to decide whether or not you would like to share this crash report to the Peach team. The Peach team can use this crash report to find the root cause and improve the software to avoid this problem occurring in the future. The following information is included in a crash report:
 
-You will be prompted to decide whether or not you would like to share this crash report to the Peach team. The Peach team can use this crash report to find the root cause and improve the software to avoid this problem occurring in the future.
+  * App logs (these do not contain personal information, but can contain trade IDs)
+  * The version of the app you're using
+  * The version of your operating system
 
-The crash reports are collected in Google Firebase.
+The crash reports are collected in Google Firebase; you can find what information is collected [here](https://firebase.google.com/support/privacy/#examples-end-user-data-processed-by-firebase); we use Firebase Cloud Messaging and Firebase Crashlytics.
 
 ## How and why we use and/or share your information
 
@@ -90,13 +114,13 @@ The crash reports are collected in Google Firebase.
 
 We will only use your personal data when the law allows us to. Most commonly we will use your personal data in the following circumstances:
 
-* when you asked us to do so, or provided consent for us to do so
-* when we need to do so in order to resolve a dispute
-* when we need to do so to comply with a legal or regulatory obligation
+  * when you asked us to do so, or provided consent for us to do so
+  * when we need to do so in order to resolve a dispute
+  * when we need to do so to comply with a legal or regulatory obligation
 
 You will receive marketing messages from us if you have given us your consent to do so by signing up on the website.
 
-To unsubscribe from marketing emails at any time, you can click the unsubscribe link that can be found at the bottom of any marketing email. You may also [contact us](mailto:$contactEmail$) to inform us if you do not wish to receive any marketing materials from us.
+To unsubscribe from marketing emails, you can click the unsubscribe link that can be found at the bottom of any marketing email at any time.
 
 ### 4.2 Sharing your information
 
@@ -122,8 +146,8 @@ We share your information with the following parties:
   * **ProtonMail**: For our email communications we use "ProtonMail". We may share your email and nickname with this service.
   * **Zammad**: For customer support we use "Zammad". We may share your email address with this service.
   * **MailerLite**: For marketing emails and registering early access users, we use "MailerLite". We may share your email address with this service.
-  * **Firebase** (opt-in): To monitor for and fix crashes, we give you the option to send a crash report after a crash. In case you choose to send this report, we use the "Firebase" service to collect and analyze the crash logs. Your IP address may be included in the error messages.
-  * **Firebase & Google Analytics** (opt-in): When you allow Peach to send usage data, we use "Firebase" & "Google Analytics" service to collect the data we use in behavioral statistics. Your IP address may be included in the data we provide to Firebase, which is used by Firebase to understand how you use our Service.
+  * **Firebase** (opt-in): To monitor for and fix crashes, we give you the option to send a crash report after a crash. In case you choose to send this report, we use the "Firebase" service to collect and analyze the crash logs. You can find what information is collected [here](https://firebase.google.com/support/privacy/#examples-end-user-data-processed-by-firebase); we use Firebase Cloud Messaging and Firebase Crashlytics.
+  * **Firebase & Google Analytics** (opt-in): When you allow Peach to send usage data, we use "Firebase" & "Google Analytics" service to collect the data we use in behavioral statistics. Your IP address may be included in the data provided to Firebase.
 
 ### 4.3 Disputes
 
