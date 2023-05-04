@@ -106,7 +106,7 @@ When the Peach app detects that the app has run into an unexpected issue, a cras
   * The version of the app you're using
   * The version of your operating system
 
-The crash reports are collected in Google Firebase; you can find what information is collected [here](https://firebase.google.com/support/privacy/#examples-end-user-data-processed-by-firebase); we use Firebase Cloud Messaging and Firebase Crashlytics.
+The crash reports are collected in Google Firebase. You can find what information is collected [here](https://firebase.google.com/support/privacy/#examples-end-user-data-processed-by-firebase); we use Firebase Cloud Messaging and Firebase Crashlytics.
 
 ## How and why we use and/or share your information
 
@@ -134,10 +134,7 @@ We share your information with the following parties:
 
     People you trade with will need extra information to be able to conclude the trade you want to perform between the 2 of you. Only the information relevant to the trade you double match with will be provided to the counterparty.
 
-    Peach User data passes through the Peach server encrypted. This includes:
-
-  * your payment details
-  * the chat between you and your trading partner
+    Peach User data passes through the Peach server encrypted. This includes your payment details and the chat between you and your trading partner.
 
 * #### Service providers
 
@@ -145,7 +142,7 @@ We share your information with the following parties:
 
   * **ProtonMail**: For our email communications we use "ProtonMail". We may share your email and nickname with this service.
   * **Zammad**: For customer support we use "Zammad". We may share your email address with this service.
-  * **MailerLite**: For marketing emails and registering early access users, we use "MailerLite". We may share your email address with this service.
+  * **Sendinblue**: For marketing emails and registering early access users, we use "Sendinblue". We may share your email address with this service.
   * **Firebase** (opt-in): To monitor for and fix crashes, we give you the option to send a crash report after a crash. In case you choose to send this report, we use the "Firebase" service to collect and analyze the crash logs. You can find what information is collected [here](https://firebase.google.com/support/privacy/#examples-end-user-data-processed-by-firebase); we use Firebase Cloud Messaging and Firebase Crashlytics.
   * **Firebase & Google Analytics** (opt-in): When you allow Peach to send usage data, we use "Firebase" & "Google Analytics" service to collect the data we use in behavioral statistics. Your IP address may be included in the data provided to Firebase.
 
