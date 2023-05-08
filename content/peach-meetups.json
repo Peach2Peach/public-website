@@ -334,5 +334,11 @@
     "url": "https://www.bitcoinforswitzerland.com/",
     "longitude": 8.4043996,
     "latitude": 46.8223497
+  },
+  {
+    "name": "Baden Bitcoin Club",
+    "url": "https://bitcoinbaden.ch",
+    "longitude": 8.3086822,
+    "latitude": 47.4736827
   }
 ]
