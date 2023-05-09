@@ -7,7 +7,7 @@ keywords:
   - p2p exchange
 tags:
   - Education
-previewImage: /img/blog/why-p2p-1/fungibility.jpeg
+previewImage: /img/blog/why-p2p-1/fungibility.png
 description: |
   Bitcoin is money for free people. We believe that every single human being has the right to choose which money he uses to store his wealth, the
   result of his work, his time and energy.
@@ -24,7 +24,7 @@ In this series of blog posts we will dive a little bit deeper into what it means
 
 In today's chapter, we want to briefly explore the concept of Fungibility.
 
-![fungibility](/img/blog/why-p2p-1/fungibility.jpeg)
+![fungibility](/img/blog/why-p2p-1/fungibility.png)
 
 > In economics, fungibility is the property of a good or a commodity whose individual units are essentially interchangeable, and each of whose parts is indistinguishable from any other part.
 
