@@ -18,7 +18,7 @@ description: |
 
 Dear peaches, as you may already know, our app allows users to buy Bitcoin P2P (peer to peer, or peach to peach as we prefer). But, even if many people have heard those words before, have you ever stopped to think what that even means?
 
-The basic definition is pretty obvious, but in the bitcoin space, many people are still buying Bitcoin using services that require verification of personal information, aka VEXs*, thus tying the Bitcoin bought to your identity. Which makes us wonder: have we (bitcoiners) really understood what this is all about?
+The basic definition is pretty obvious, but in the bitcoin space, many people are still buying Bitcoin using services that require verification of personal information, aka VEXs, thus tying the Bitcoin bought to your identity. Which makes us wonder: have we (bitcoiners) really understood what this is all about?
 
 In this series of blog posts we will dive a little bit deeper into what it means to use bitcoin P2P, and some of its advantages.
 
