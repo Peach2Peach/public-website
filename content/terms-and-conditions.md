@@ -3,13 +3,13 @@ template: text
 ---
 # Terms & Conditions
 
-These Service Terms were last updated on **September 9th, 2022**
+These Service Terms were last updated on **May 11th, 2023**
 
 ## 1. Introduction
 
 This page sets out the service terms for Peach accountholders. By creating a Peach account, you accept all of these terms and conditions.
 
-When we speak of  "Peach",  "we",  "us"  or  "our",  we mean Peach S.A.R.L and its representatives. Peach Sàrl is a company registered, organized and existing under the laws of Switzerland, under company registration number CHE-158.025.408 whose registered office is at:
+When we speak of  "Peach",  "we",  "us"  or  "our",  we mean Peach S.A.R.L and its representatives. Peach Sàrl is a company accredited by [SRO PolyReg](https://www.polyreg.ch/en/) and is registered, organized and existing under the laws of Switzerland, under company registration number CHE-158.025.408, whose registered office is at:
 
 Rue des Beaux-Arts 8<br>
 c/o LEAX Avocats Sàrl<br>
@@ -28,56 +28,46 @@ Peach is a non-custodial peer-to-peer marketplace (native mobile application) th
 * the infrastructure for a safe trade with a 2-out-of-2 multi signature escrow solution between Peach and the Seller
 * a customer support and dispute management service with a Peach mediator employee to arbitrate and settle dispute between users
 
-Peach does not facilitate any local currency payments in order to exchange fiat currency for a digital currency, and we do not provide a digital currency exchange service. **Peach does not purchase cryptocurrencies from, or sell cryptocurrencies to, its account holders.**
+Peach only facilitates a marketplace for people to exchange bitcoin between themselves. Peach is not a bitcoin exchange, and **does not purchase bitcoin from or sell bitcoin to its users**. 
 
-**Nothing on our website is intended to constitute legal or financial advice.** The information on our website, and the posting and viewing of any the information on our website, should not be construed as, and should not be relied upon for, legal, financial or taxation advice in any circumstance.
+The information on our website is solely intended for informational purposes, and should not be relied upon for legal, financial or taxations advice. No financial results are guaranteed and one should always discuss their investments with a trusted financial professional.
 
-Throughout this document and within the Peach app and website we make use of the terms satoshis, sats, bitcoin and btc: they all represent BTC, the divisible and fungible asset on the Bitcoin Blockchain. This is the only 'cryptocurrency' for which Peach provides a matchmaking service. Everyone is free to trade what they want, but we are strong believers in Bitcoin only.
+Throughout this document (and within the Peach app and website) we may interchangably use sats, satoshis, bitcoin or btc, which we all take to mean the fungible asset on the bitcoin blockchain. This is the only 'cryptocurrency' for which Peach provides a matchmaking service. Everyone is free to trade what they want, but we are strong believers in Bitcoin only.
 
 Peach does not:
 
-* process payments - **all liability for sending and receiving payment and confirming the validity of the transaction lies between the Buyer and the Seller.**
-* purchase cryptocurrencies from, or sell cryptocurrencies to, its account holders
+* process payments - **the Buyer and the Seller assume full responsibility for the fiat transfer and any costs associated**
+* purchase bitcoin from or sell bitcoin to its users
 * provide a digital currency exchange service
-* accept responsibility for fiat transactions
 * participate in any transaction
-* provide legal or financial advice. The information on our website, and the posting and viewing of any information on our website, should not be construed as, and should not be relied upon for, legal, financial or taxation advice in any circumstance.
+* provide legal or financial advice
 
 ## 2. Your Account
 
-When using the Peach application for the first time, you will be asked to chose a password in order to create an account. This account will allow your app to access the Peach platform to make use of the matchmaking services. The password you pick, will encrypt your private Peach data, including keys to identify your account to connect to Peach services.
+When using the Peach application for the first time, you will be asked to choose a password in order to create an account. This account will allow your app to access the Peach platform to make use of the matchmaking services. The password you pick will encrypt your private Peach data, including keys to identify your account to connect to Peach services.
 
-You must maintain the confidentiality of your password and **you are responsible for all activities that are conducted through your account**, whether or not you have authorized such use.
+You must maintain the confidentiality of your password and account; **you are responsible for all activities that are conducted through your account**, whether or not you have authorized such use. If you lose your password, you will not be able to access your encrypted communications or private data, and there is no way for Peach to recover access.
 
-You must remember your password. If you lose your password, you will not be able to access your encrypted communications or private data, and there is no way for Peach to recover access.
+It is not allowed to create more than one Peach account. In order to ensure that a user can only create one Peach account from his mobile device, **Peach keeps a _hash_ of the user's unique device ID**, among other measures. More about how your data is used can be read in our [privacy policy](https://peachbitcoin.com/privacy-policy/). 
 
-You must only create and be the holder of one account. In order to ensure that a user can only create one Peach account from his mobile device, **Peach keeps a _hash_ of the user's unique device ID.**
-
-You must be at least 18 years old to sign up for a Peach account. If you sign up for an account, you affirm that you are at least 18 years old.
+You must be at least 18 years old to sign up for a Peach account. By signing up for an account, you confirm that you are at least 18 years old.
 
 ## 3. Generating Peach Keys
 
 When you create an account, a private and public keypair is created on your device which is unique to you. You hold the private key – we do not have a copy.
 
-When a Seller doublematches an offer of a Buyer, a contract is created between both parties and their respective private keys are used to create a symmetrical key. This symmetrical key is used to encrypt communications between the involved parties for this specific contract/trade.
-
-As such, we cannot read your communications with another user, unless you or your counterparty gives us the symmetrical key to decrypt these communications by raising a dispute as described in section 9.
+When a match is made (see sections 4 and 5) the respective keys of the buyer and the seller are used to create a symmetrical key. This symmetrical key is used to encrypt communications between the involved parties for this specific contract/trade. As such, we cannot read your communications with another user, unless you or your counterparty gives us the symmetrical key to decrypt these communications by raising a dispute as described in section 9.
 
 ## 4. Creating Offers
 
-Peach users may create offers to buy or sell sats/bitcoin in exchange for local currencies. Offers on the marketplace are not made publicly available.
+Peach users may create offers to buy or sell sats in exchange for a currency of their choice. The Seller can set the conditions of the trade:
 
-The Seller will post a Sell offer in which they indicate their accepted conditions to perform a trade:
-
-* the amount of bitcoin
-* the payment method(s) the Seller is willing to use (including the respective payment details to be used if a match results in a trade)
+* the amount of bitcoin to be sold
+* the payment method(s) the Seller is willing to accept (including the respective payment details to be used if a match results in a trade)
 * the currencies the Seller is willing to accept
+* the premium (in percentage above the market price at the time of making the match - see more in section 6)
 
-In the sell offer the Seller will indicate the premium he requires to be met. This is a percentage of the market price at moment that a matching buy offer is created. (see further in section 6.)
-
-Payment details must not change from the time an offer was published and at the time of the contract. The moment the sell offer is published, a hash is created and this is linked to the sell offer.
-
-As a security measure against malicious actors, Peach implements “account signing”. Peach keeps the user's payment details' hash (encryption) and considers an account trusted if the trade was completed successfully for this specific Payment Method (with unchanged details). If the users changes or add a new payment details, the verification will have to start again.
+The payment details can not change from the time an offer was published and at the time of the contract. The moment the sell offer is published, a hash is created and this is linked to the sell offer.
 
 To make this offer available the Seller will fund the escrow.
 
@@ -85,15 +75,13 @@ The Seller will be charged a fee by the Bitcoin network to fund an escrow as any
 
 The Buyer will post a Buy offer, in which they indicate their preferred conditions to find a matching Sell offer:
 
-* the amount of bitcoin
-* the payment method(s) the Buyer is willing to use
+* a range of the amount of bitcoin he wishes to buy
+* the payment method(s) the Buyer is willing and able to use
 * the currencies the Buyer is willing and able to send
 
-The Buyer will provide a Bitcoin address to which they can receive Bitcoin/Satoshis should this buy offer result in a trade.
+The Buyer will provide a Bitcoin address to which they can receive Bitcoin/Satoshis should this buy offer result in a trade. This address can be automatically provided by the built-in Peach wallet, or the buyer can provide an address from an external wallet.
 
-Sell offers will only be shown to Buyers that placed a Buy offer which is eligible to match; meaning at least the same amount of Satoshis and the same Payment Method.
-
-It is possible for an offer to be offered in a different currency then the preferred one, if the payment method is available for this currency and the payment method allows conversion to this requested currency. The Buyer is then informed before matching that specific offer. The Buyer is responsible to assure that the amount and currency requested by the Seller is made available to the Seller: any exchange costs by the provider of the payment method is to be paid by the Buyer.
+Sell offers will only be shown to Buyers that placed a Buy offer which is eligible to match; meaning that the amount that the Seller has sent to the escrow lies within the range the buyer has indicated, and there is at least one Currency / Payment Method pair that both users have selected. 
 
 The Peach service will offer the Buyer all eligible Sell offers matching their preferences. By accepting (matching) a Seller's offer, the Buyer agrees to be bound by the terms and conditions of that offer (Currency and Payment method). When the offers match with more than one currency and or Payment Method the Buyer can indicate which match they would like to match.
 
@@ -101,9 +89,7 @@ The Peach service will offer the Buyer all eligible Sell offers matching their p
 
 Payment details entered in Peach are only shared to the Buyer in a contract (Offer matched by Buyer and Double matched by Seller). This communication is end-to-end encrypted and for the Buyer only.
 
-Offers displayed on the Peach app have a Peach fee (see section 7) priced into them by default, which is why Buyers will receive a slightly different amount of sats then described in a bucket ( the bucket amount minus the Peach fee and transaction fee).
-
-In accordance with Swiss law, trades without KYC are regulated to a limit of CHF1000/day and CHF100'000/year. Once this limit has been reached, you will not be able to take or make any further buy and/or sell offers.
+In accordance with Swiss law, trades without KYC are regulated to a limit of CHF1000/day and CHF100'000/year. Once this limit has been reached, you will not be able to make any new trades.
 
 As a security measure, the first two trades are limited to CHF 50.
 
@@ -111,7 +97,7 @@ As a security measure, the first two trades are limited to CHF 50.
 
 ## 5. Trades
 
-As described in section 4: The Seller is presented with a matched Buy offer. Only when the Seller Double Matches that matched Buy offer, agreeing with the fixed payment amount, a contract is created using the criteria that were fixed in the matching Buy Offer. Both, sell and buy offers, are taken then out of the marketplace.
+Any user can use Peach to create either a buy or sell offer. As described in section 4, the Seller sets the initial criteria for a match. A Buyer can then select which sell offers he wishes to see by creating his own buy offer with the preferred criteria. The Buyer can match as many sell offers as he wishes; a trade is established with the first Seller that matches him back. At that point in time, the fiat amount to be sent to the Seller is determined. Both offers are then taken out of the marketplace, and both parties agree to bring the trade to completion according to its conditions. Should either party not adhere to any of the conditions, a dispute can be raised, as described in section 9. 
 
 By matching (as Buyer) and doublematching (as Seller), both parties agree to be bound by the terms and conditions of that offer, which includes dispute resolution as described in section 9.
 
@@ -159,7 +145,7 @@ You must comply with all reasonable security requirements prescribed from time t
 
 ## 9. Disputes
 
-The contract of sale is between the Seller and the Buyer. Accordingly, the parties are required to 1st try their best efforts to resolve the dispute between themselves. If the parties can not agree on a resolution, either party may raise a dispute and thus involve a Peach arbitrator.
+The contract of sale is between the Seller and the Buyer. Accordingly, the parties are required to first try their best efforts to resolve the dispute between themselves. If the parties can not agree on a resolution, either party may raise a dispute and thus involve a Peach arbitrator.
 
 Raising a dispute and the outcome of a dispute will impact the users Peach reputation, as an incentive to 'play fair' and not harassing other users by raising disputes lightly.
 
@@ -193,9 +179,7 @@ This process for resolving disputes is incorporated in all contracts between buy
 
 ## 10. Peach fees
 
-**Note:** as long as the Peach application is in the beta phase, no fees will be charged by Peach. Bitcoin on-chain fees will still apply
-
-Any contract successfully finished through an escrow that Peach is party to will be subject to a fee. 1.5% of the total amount sent out of the escrow will be sent to a bitcoin address controlled by Peach. The remaining funds will be sent to the address indicated by the Buyer, minus any bitcoin transaction fees.
+Any contract successfully finished through the Peach platform will be subject to a fee; 2% of the total amount sent out of the escrow will be sent to a bitcoin address controlled by Peach. The remaining funds will be sent to the address indicated by the Buyer, minus any bitcoin transaction fees.
 
 ## 11. Taxes
 
@@ -225,7 +209,7 @@ By using any of our services or products, the user warrants that this use is in 
 
 ## 14. Risks associated with dealing with other users
 
-Bitcoin transfers are irreversible. If a user sends bitcoin to an incorrect address or otherwise makes a mistake in transfering funds over the bitcoin network, they, nor Peach, can reverse the transaction, and the funds will be lost. As such, **any transfers made via the Peach platform are at the risk of the user**.
+Bitcoin transfers are irreversible. If a user sends bitcoin to an incorrect address or otherwise makes a mistake in transfering funds over the bitcoin network, they, nor Peach, can reverse the transaction, and the funds will be lost. As such, **the user assumes full responsibility for any transfers made via the Peach platform**.
 
 ## 15. Disclaimer of warranties
 
@@ -263,8 +247,6 @@ These Service Terms are governed by the laws of **Neuchâtel, Switzerland**. The
 We reserve the right to update, replace or otherwise change any part of these Service Terms at our sole discretion, by posting updates and changes to our website. If you do not agree to the changes, your only remedy is to discontinue the use of our products and services.
 
 While we will strive to notify our users of any changes, it is your sole responsibility to check our website periodically for changes. Your continued use of the services following the posting of any changes to these Service Terms constitutes acceptance of those changes.
-
-**These Service Terms were last updated on the 9th of September, 2022.**
 
 ## 20. Entire understanding
 
