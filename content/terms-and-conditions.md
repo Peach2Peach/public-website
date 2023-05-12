@@ -3,7 +3,7 @@ template: text
 ---
 # Terms & Conditions
 
-These Service Terms were last updated on **May 11th, 2023**
+These Service Terms were last updated on **May 12th, 2023**
 
 ## 1. Introduction
 
@@ -32,7 +32,7 @@ Peach only facilitates a marketplace for people to exchange bitcoin between them
 
 The information on our website is solely intended for informational purposes, and should not be relied upon for legal, financial or taxations advice. No financial results are guaranteed and one should always discuss their investments with a trusted financial professional.
 
-Throughout this document (and within the Peach app and website) we may interchangably use sats, satoshis, bitcoin or btc, which we all take to mean the fungible asset on the bitcoin blockchain. This is the only 'cryptocurrency' for which Peach provides a matchmaking service. Everyone is free to trade what they want, but we are strong believers in Bitcoin only.
+Throughout this document (and within the Peach app and website) we may interchangably use sats, satoshis, bitcoin or BTC, which we all take to mean the bitcoin token on the Bitcoin blockchain. This is the only 'cryptocurrency' for which Peach provides a matchmaking service. In this document we differentiate between "bitcoin" meaning the token, and "Bitcoin" meaning the network.
 
 Peach does not:
 
@@ -79,7 +79,7 @@ The Buyer will post a Buy offer, in which they indicate their preferred conditio
 * the payment method(s) the Buyer is willing and able to use
 * the currencies the Buyer is willing and able to send
 
-The Buyer will provide a Bitcoin address to which they can receive Bitcoin/Satoshis should this buy offer result in a trade. This address can be automatically provided by the built-in Peach wallet, or the buyer can provide an address from an external wallet.
+The Buyer will provide a Bitcoin address to which they can receive Bitcoin, should this buy offer result in a trade. This address can be automatically provided by the built-in Peach wallet, or the buyer can provide an address from an external wallet.
 
 Sell offers will only be shown to Buyers that placed a Buy offer which is eligible to match; meaning that the amount that the Seller has sent to the escrow lies within the range the buyer has indicated, and there is at least one Currency / Payment Method pair that both users have selected. 
 
@@ -105,7 +105,7 @@ The Buyer is responsible to assure that the amount and currency requested by the
 
 We do not have any bank accounts that hold users' funds, nor do we facilitate or escrow any local currency payments between Buyers and Sellers.
 
-Bitcoin (BTC) trades are conducted via the Bitcoin protocol and network, which we cannot and do not control. When a Seller sends BTC to fund a sell offer, the Seller transfers BTC directly to an escrow script on the public Bitcoin blockchain. The escrow transaction output can only be redeemed by the Buyer or Seller. Peach cannot access BTC held in escrow as per the code of the Bitcoin escrow script.
+Bitcoin trades are conducted via the Bitcoin network, which we cannot and do not control. When a Seller sends BTC to fund a sell offer, the Seller transfers BTC directly to an escrow script on the public Bitcoin blockchain. The escrow transaction output can only be redeemed by the Buyer or Seller. Peach cannot access BTC held in escrow as per the code of the Bitcoin escrow script.
 
 ## 6. Communication between parties
 
@@ -128,7 +128,7 @@ Once a trader and Seller match their offers, the trade should proceed in accorda
 * The Buyer makes the payment in the matched currency,
 * the Buyer claims the payment is made by pressing the Payment Made button,
 * once the payment is received in full, the Seller confirms this by clicking the confirm payment button,
-* the bitcoin is then automatically released from the escrow and sent to the bitcoin address that the Buyer indicated in their Buy Offer,
+* the bitcoin is then automatically released from the escrow and sent to the Bitcoin address that the Buyer indicated in their Buy Offer,
 * both users rate their counterparty
 
 If the Buyer does not claim that the payment is made within the defined time period, the escrow may be cancelled by the Seller. The Buyer may cancel the escrow at any time.
