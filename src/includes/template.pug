@@ -87,7 +87,7 @@ html(lang=lang)
             a(href=getUrl("/privacy-policy/", lang)) !{i18n('privacyPolicy', lang)}
           .box
             h6 !{i18n('download', lang)}
-            span= `Latest version: ${siteData.meta.apkVersionBuild}`
+            span= `${siteData.meta.apkVersionBuild}`
             a(href=getUrl("/apk/", lang)) !{i18n('apk', lang)}
             a(href=siteData.meta.iosUrl) !{i18n('iphone', lang)}
             a(href=siteData.meta.androidUrl) !{i18n('android', lang)}
@@ -100,4 +100,8 @@ html(lang=lang)
           .box
             h6 !{i18n('bitcoin', lang)}
             a(href="/bitcoin.pdf") !{i18n('whitepaper', lang)}
+          .box
+            h6 !{i18n('languages', lang)}
+            a(href="/") English
+            a(href="/es") Español
     script(src=assetPath("/js/main.js"))
