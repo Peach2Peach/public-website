@@ -51,7 +51,7 @@ html(lang=lang)
   body(id=slugify(permalink) class=(hasTeaser ? 'with-teaser' : null))
     header.header#header
       .wrap
-        a(href="/").brand
+        a(href=getUrl("/", lang)).brand
           img.logo(src=assetPath("/img/peach-bitcoin.svg") alt="Peach Bitcoin")
         input(id="show-menu" type="checkbox")
         label(id="nav-toggle" for="show-menu")
@@ -62,7 +62,8 @@ html(lang=lang)
         nav.nav
           +navItem("how-it-works", "How it Works")
           +navItem("for-meetups", "For Meetups")
-          +navItem("blog", "Blog")
+          if lang === 'en'
+            +navItem("blog", "Blog")
           +navItem("support", "Support")
     if hasTeaser
       block teaser
@@ -81,13 +82,13 @@ html(lang=lang)
             a(href=siteData.meta.nostrUrl target="_blank" rel="noreferrer noopener") Nostr
           .box
             h6 Company
-            a(href="/join-us/") Join us
-            a(href="/terms-and-conditions/") T&amp;C
-            a(href="/privacy-policy/") Privacy Policy
+            a(href=getUrl("/join-us/", lang)) Join us
+            a(href=getUrl("/terms-and-conditions/", lang)) T&amp;C
+            a(href=getUrl("/privacy-policy/", lang)) Privacy Policy
           .box
             h6 Download
             span= `Latest version: ${siteData.meta.apkVersionBuild}`
-            a(href="/apk/") APK
+            a(href=getUrl("/apk/", lang)) APK
             a(href=siteData.meta.iosUrl) iPhone
             a(href=siteData.meta.androidUrl) Android
           .box

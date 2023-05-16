@@ -7,13 +7,17 @@ function getBaseUrl () {
   return !branchUrl.match('master--') ? branchUrl : 'https://peachbitcoin.com'
 }
 
+function getUrl (url, lang) {
+  return lang === 'en' ? url: `/${lang}${url}`
+}
+
 // replacements
 const stripHTML = str => {
   return str && encode(decode(str.replace(/(<([^>]+)>)/ig, '').trim().replace(/\n\s*/g, '\n')), { level: 'xml' })
 }
 
 // slug
-const slugify = str => str.toLowerCase().trim()
+const slugify = str => !str ? '' : str.toLowerCase().trim()
   .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue')
   .replace(/\//g, '-')
   .replace(/\s+/g, '-').replace(/[^\w\-]+/g, '')
@@ -35,6 +39,7 @@ const getRev = path => {
 }
 const assetPath = path => getRev(path) || path
 const assetUrl = (path, protocol = 'https') => {
+  if (!path) return ''
   if (IS_DEV && !path.startsWith('http')) protocol = 'http'
   const base = path.startsWith('http') ? '' : HOST
   let url = `${base}${assetPath(path)}`
@@ -170,6 +175,7 @@ module.exports = {
   stripHTML,
   truncate,
   linkTarget,
+  getUrl,
   assetUrl,
   assetPath,
   getRev,

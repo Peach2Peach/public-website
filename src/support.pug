@@ -6,22 +6,22 @@ block main
       != html.intro
 
       .guides
-        a(href="/quick-start/").button.button--primary
+        a(href=getUrl("/quick-start/", lang)).button.button--primary
           span Quick Start Guide
           +sprite("quickstart")
 
       h2 FAQ
       .faq
-        a(href="/faq/trading/").button.button--primary
+        a(href=getUrl("/faq/trading/", lang)).button.button--primary
           span Trading
           +sprite("trading")
-        a(href="/faq/matches/").button.button--primary
+        a(href=getUrl("/faq/matches/", lang)).button.button--primary
           span Matches
           +sprite("matches")
-        a(href="/faq/account/").button.button--primary
+        a(href=getUrl("/faq/account/", lang)).button.button--primary
           span My Account
           +sprite("account")
-        a(href="/faq/privacy/").button.button--primary
+        a(href=getUrl("/faq/privacy/", lang)).button.button--primary
           span Privacy
           +sprite("privacy")
 

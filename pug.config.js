@@ -1,5 +1,6 @@
 // initialize markdown rendering
 const {
+  getUrl,
   assetPath,
   assetUrl,
   slugify,
@@ -10,6 +11,7 @@ const {
 module.exports = {
   basedir: './src/includes',
   siteData: require('./site-data'),
+  getUrl,
   assetUrl,
   assetPath,
   slugify,

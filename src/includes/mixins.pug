@@ -3,7 +3,7 @@ mixin sprite(id, title)
     use(href=`${assetPath("/img/icons.svg")}#${id}`)
 
 mixin postPreview(post)
-  a(href=`/${post.permalink}`).post-preview&attributes(attributes)
+  a(href=getUrl(`/${post.permalink}`, lang)).post-preview&attributes(attributes)
     if post.previewImage
       img(src=assetPath(post.previewImage) alt=post.title)
     header
@@ -11,7 +11,7 @@ mixin postPreview(post)
       h3= post.title
 
 mixin navItem(id, title)
-  a(href=`/${id}/` class=(permalink === id && 'current'))&attributes(attributes)= title
+  a(href=getUrl(`/${id}/`, lang) class=(permalink === id && 'current'))&attributes(attributes)= title
 
 mixin map(id, markers)
   .vectorMap(id=id)
