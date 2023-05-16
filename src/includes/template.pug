@@ -60,11 +60,11 @@ html(lang=lang)
             path.line--2(d="M0 50h99")
             path.line--3(d="M0 30l28 28c2 2 2 2 7 2h64")
         nav.nav
-          +navItem("how-it-works", "How it Works")
-          +navItem("for-meetups", "For Meetups")
+          +navItem("how-it-works", i18n("howItWorks", lang))
+          +navItem("for-meetups", i18n("forMeetups", lang))
           if lang === 'en'
-            +navItem("blog", "Blog")
-          +navItem("support", "Support")
+            +navItem("blog", i18n("blog", lang))
+          +navItem("support", i18n("support", lang))
     if hasTeaser
       block teaser
     main#main.main
@@ -74,30 +74,30 @@ html(lang=lang)
       .wrap
         .inner
           .box
-            h6 Community
-            a(href=siteData.meta.twitterUrl target="_blank" rel="noreferrer noopener") Twitter
-            a(href=siteData.meta.telegramUrl target="_blank" rel="noreferrer noopener") Telegram
-            a(href=siteData.meta.discordUrl target="_blank" rel="noreferrer noopener") Discord
-            a(href=siteData.meta.instagramUrl target="_blank" rel="noreferrer noopener") Instagram
-            a(href=siteData.meta.nostrUrl target="_blank" rel="noreferrer noopener") Nostr
+            h6 !{i18n('community', lang)}
+            a(href=siteData.meta.twitterUrl target="_blank" rel="noreferrer noopener") !{i18n('twitter', lang)}
+            a(href=siteData.meta.telegramUrl target="_blank" rel="noreferrer noopener") !{i18n('telegram', lang)}
+            a(href=siteData.meta.discordUrl target="_blank" rel="noreferrer noopener") !{i18n('discord', lang)}
+            a(href=siteData.meta.instagramUrl target="_blank" rel="noreferrer noopener") !{i18n('instagram', lang)}
+            a(href=siteData.meta.nostrUrl target="_blank" rel="noreferrer noopener") !{i18n('nostr', lang)}
           .box
-            h6 Company
-            a(href=getUrl("/join-us/", lang)) Join us
-            a(href=getUrl("/terms-and-conditions/", lang)) T&amp;C
-            a(href=getUrl("/privacy-policy/", lang)) Privacy Policy
+            h6 !{i18n('company', lang)}
+            a(href=getUrl("/join-us/", lang)) !{i18n('joinUs', lang)}
+            a(href=getUrl("/terms-and-conditions/", lang)) !{i18n('tAndC', lang)}
+            a(href=getUrl("/privacy-policy/", lang)) !{i18n('privacyPolicy', lang)}
           .box
             h6 Download
             span= `Latest version: ${siteData.meta.apkVersionBuild}`
-            a(href=getUrl("/apk/", lang)) APK
-            a(href=siteData.meta.iosUrl) iPhone
-            a(href=siteData.meta.androidUrl) Android
+            a(href=getUrl("/apk/", lang)) !{i18n('apk', lang)}
+            a(href=siteData.meta.iosUrl) !{i18n('iphone', lang)}
+            a(href=siteData.meta.androidUrl) !{i18n('android', lang)}
           .box
-            h6 Security
-            a(href="https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2") PGP key
+            h6 !{i18n('security', lang)}
+            a(href="https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2") !{i18n('pgpKey', lang)}
           .box
-            h6 Contact
-            a(href=`mailto:${siteData.meta.contactEmail}`) Email
+            h6 !{i18n('contact', lang)}
+            a(href=`mailto:${siteData.meta.contactEmail}`) !{i18n('email', lang)}
           .box
-            h6 Bitcoin
-            a(href="/bitcoin.pdf") Whitepaper
+            h6 !{i18n('bitcoin', lang)}
+            a(href="/bitcoin.pdf") !{i18n('whitepaper', lang)}
     script(src=assetPath("/js/main.js"))

@@ -7,26 +7,26 @@ block main
 
       .guides
         a(href=getUrl("/quick-start/", lang)).button.button--primary
-          span Quick Start Guide
+          span !{i18n('quickStartGuide', lang)}
           +sprite("quickstart")
 
-      h2 FAQ
+      h2 !{i18n('faq', lang)}
       .faq
         a(href=getUrl("/faq/trading/", lang)).button.button--primary
-          span Trading
+          span !{i18n('trading', lang)}
           +sprite("trading")
         a(href=getUrl("/faq/matches/", lang)).button.button--primary
-          span Matches
+          span !{i18n('matches', lang)}
           +sprite("matches")
         a(href=getUrl("/faq/account/", lang)).button.button--primary
-          span My Account
+          span !{i18n('myAccount', lang)}
           +sprite("account")
         a(href=getUrl("/faq/privacy/", lang)).button.button--primary
-          span Privacy
+          span !{i18n('privacy', lang)}
           +sprite("privacy")
 
       != html.contact
       .contact
-        a(href=`mailto:${siteData.meta.contactEmail}` title="email")
-          +sprite("social-email", "Email")
+        a(href=`mailto:${siteData.meta.contactEmail}` title=i18n("email", lang))
+          +sprite("social-email", i18n("email", lang))
         include /social.pug
