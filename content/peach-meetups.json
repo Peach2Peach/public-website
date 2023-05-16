@@ -340,5 +340,17 @@
     "url": "https://bitcoinbaden.ch",
     "longitude": 8.3086822,
     "latitude": 47.4736827
+  },
+  {
+    "name": "De Bitcoin Meetup",
+    "url": "https://www.meetup.com/de-bitcoin-meetup/",
+    "longitude": 4.88929224,
+    "latitude": 52.40383529
+  },
+  {
+    "name": "Geneva Bitcoin Enthusiasts",
+    "url": "https://www.bitcoinerevents.com/venue/central-station-bar-vinyl-shop/",
+    "longitude": 6.13975763,
+    "latitude": 46.21097946
   }
 ]
