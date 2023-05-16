@@ -1,4 +1,4 @@
-#how-it-works {
+[id*="how-it-works"] {
   .teaser {
     & figure {
       margin-top: auto;
