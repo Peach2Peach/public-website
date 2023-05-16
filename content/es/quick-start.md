@@ -12,7 +12,7 @@ Peach es **fácil** de usar, es más **privado**, tiene **más métodos de pago*
 
 ## Guía 1: Configuración de la aplicación
 
-Después de haber instalado la aplicación (a través de la [App Store]($iosUrl$), [Play Store]($androidUrl$) o [descarga APK](/apk/)), ya estás prácticamente listo.
+Después de haber instalado la aplicación (a través de la [App Store]($iosUrl$), [Play Store]($androidUrl$) o [descarga APK](/es/apk/)), ya estás prácticamente listo.
 Lo único que se requiere de ti ahora es un código de referido, si tienes uno.
 
 :::figures 4
@@ -25,7 +25,7 @@ Lo único que se requiere de ti ahora es un código de referido, si tienes uno.
 ![¡Eso es todo! ¡Estás listo para empezar!](/img/faq/quickstart/onboarding/created.png)
 :::
 
-Este proceso de configuración rápida significa que **aún no tienes copia de seguridad**. Se te pedirá que [crees una copia de seguridad y una contraseña](/faq/account/#how-should-i-store-my-backup) después de haber completado tu primer intercambio (compra o venta de bitcoin).
+Este proceso de configuración rápida significa que **aún no tienes copia de seguridad**. Se te pedirá que [crees una copia de seguridad y una contraseña](/es/faq/account/#how-should-i-store-my-backup) después de haber completado tu primer intercambio (compra o venta de bitcoin).
 
 ## Guía 2: Tu primera oferta de compra
 

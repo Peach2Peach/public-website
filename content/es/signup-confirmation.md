@@ -3,7 +3,7 @@
 ¡Funcionó y pronto tendrás noticias nuestras! 😀
 
 :::buttons
-[Volver a la página anterior](/)
+[Volver a la página anterior](/es/)
 :::
 
 <script>

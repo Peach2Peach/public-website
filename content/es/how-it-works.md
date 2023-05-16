@@ -1,6 +1,6 @@
 ---
 title: Cómo funciona
-template: cómo_funciona
+template: how_it_works
 ---
 <!--[teaser]-->
 ![Compra y venta de Bitcoin entre pares](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
@@ -41,7 +41,7 @@ Si tienes uno que te gustaría usar, pero no está en la lista, [háznoslo saber
 
 - :payment-cash: Efectivo
 
-¡Revisa todos los [meetups disponibles](/for-meetups/) para intercambiar Bitcoin con efectivo!
+¡Revisa todos los [meetups disponibles](/es/for-meetups/) para intercambiar Bitcoin con efectivo!
 
 ---
 
