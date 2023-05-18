@@ -29,12 +29,12 @@ Instagram / Tik Tok
 :::
 ::::
 ¿Otras habilidades interesantes? ¡Haznos saber!
-
+-->
 Siempre estamos interesados en recibir aplicaciones de talentos excepcionales en ingeniería, diseño de producto y crecimiento. ¡Suscríbete a nuestro boletín o únete a nuestras redes sociales para estar al día de nuestra próxima ola de contrataciones!
 
-[Todo sobre Peach, la empresa](/es/blog/all-about-peach-the-company/)
+[Todo sobre Peach, la empresa](/blog/all-about-peach-the-company/)
 
-## Nuestra pila tecnológica
+## ¿Cómo trabajamos?
 
 ::::figures 3
 :::box tech-docker
