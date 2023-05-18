@@ -53,7 +53,7 @@ Figma
 :::
 ::::
 
-Envía tu currículum vitae a **$contactEmail$** especificando el trabajo para el que deseas postularte.
+Envía tu currículum vitae a **$contactEmail$** especificando el trabajo para el que deseas aplicar.
 
 :::buttons
 [Aplica ahora](mailto:$contactEmail$)
