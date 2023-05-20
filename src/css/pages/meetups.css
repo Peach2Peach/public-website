@@ -1,4 +1,4 @@
-#for-meetups {
+[id*="for-meetups"] {
   & .content-wrap--flex {
     margin-bottom: var(--space-xxl);
 

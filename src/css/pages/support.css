@@ -1,4 +1,4 @@
-#support {
+[id*="support"] {
   .guides {
     max-width: 15rem;
     margin: var(--space-l) auto var(--space-xl);

@@ -16,7 +16,7 @@ block main
           = ", or directly send an email to "
           a(href=`mailto:${siteData.meta.contactEmail}`)= siteData.meta.contactEmail
           = " (for secure communication, find our PGP key in our "
-          a(href="/support/") support
+          a(href=getUrl("/support/", lang)) support
           = " section)."
 
       p.date= displayDate(date)
@@ -25,6 +25,6 @@ block main
         p.tags
           = "Tagged with:"
           each tag in tags
-            a(href=`/blog/tag/${slugify(tag)}`)= tag
+            a(href=getUrl(`/blog/tag/${slugify(tag)}`, lang))= tag
       p
-        a(href="/blog/") All blog posts
+        a(href=getUrl("/blog/", lang)) All blog posts

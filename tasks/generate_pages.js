@@ -5,10 +5,15 @@ const config = require('../pug.config')
 
 const { posts, pages, tags } = JSON.parse(readFileSync(resolve(__dirname, '..', 'site-data.json')))
 
+const getDestination = (out, lang) => {
+  if (lang === 'en') return out === 'index' ? 'index.html' : `${out}/index.html`
+  return out.endsWith('/index') ? `${lang}/index.html` : `${out}/index.html`
+}
+
 const renderPage = (template, id, data = {}) => {
   const { lang = 'en' } = data
   const out = lang === 'en' ? id : `${lang}/${id}`
-  const dest = out === 'index' ? 'index.html' : `${out}/index.html`
+  const dest = getDestination(out, lang)
   const tmpl = resolve(__dirname, '..', `src/${template}.pug`)
   const options = Object.assign({}, config, { template, lang, id }, data)
   const rendered = pug.renderFile(tmpl, options)
