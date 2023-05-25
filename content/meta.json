@@ -13,9 +13,9 @@
   "contactEmail": "hello@peachbitcoin.com",
   "androidUrl": "https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet",
   "iosUrl": "https://testflight.apple.com/join/wfSPFEWG",
-  "apkUniversalUrl": "https://download.peachbitcoin.com/apks/latest/app-prod-universal-release.apk",
-  "apkArm64v8Url": "https://download.peachbitcoin.com/apks/latest/app-prod-arm64-v8a-release.apk",
+  "apkUniversalUrl": "https://download.peachbitcoin.com/apks/latest/app-prod-universal-release-0.2.7-170.apk",
+  "apkArm64v8Url": "https://download.peachbitcoin.com/apks/latest/app-prod-arm64-v8a-release-0.2.7-170.apk",
   "apkSignaturesUrl": "https://download.peachbitcoin.com/apks/latest/manifest-peach.sig",
   "apkChecksumsUrl": "https://download.peachbitcoin.com/apks/latest/manifest-peach.txt",
-  "apkVersionBuild": "0.2.6 (167)"
+  "apkVersionBuild": "0.2.7 (170)"
 }
