@@ -69,7 +69,7 @@ Peach users may create offers to buy or sell sats in exchange for a currency of 
 
 The payment details can not change from the time an offer was published and at the time of the contract. The moment the sell offer is published, a hash is created and this is linked to the sell offer.
 
-To make this offer available the Seller will fund the escrow.
+To make this offer available the Seller will fund the escrow. The escrow needs to be funded within seven (7) days. If there is no (confirmed) transaction to the escrow within that time period, the escrow will be closed, and any transactions done to it will be refunded to the original sending address, should any transactions have been made.
 
 The Seller will be charged a fee by the Bitcoin network to fund an escrow as any standard Bitcoin transaction. Cancelling an offer will again result in the Bitcoin network charging a fee. When a Peach escrow is released (to Buyer or Seller) the fee is calculated automatically based on the mempool dynamics.
 
