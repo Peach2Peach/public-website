@@ -1,19 +1,21 @@
 ---
 keywords:
   - Bitcoin
+  - buy bitcoin
+  - sell bitcoin
   - Peach app
   - P2P
   - p2p
   - p2p exchange
 tags:
   - Education
-previewImage: /img/blog/why-p2p/sustainable.png
+previewImage: /img/blog/why-p2p/sustainable-economy.png
 description: |
   Bitcoin is money for free people. We believe that every single human being has the right to choose which money he uses to store his wealth, the
   result of his work, his time and energy.
   Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
 ---
-# Why P2P series - Chapter 2, Fungibility
+# Why P2P series - Chapter 3, Circular Economies
 ## Fungibility
 
 Dear peaches, as you may already know, our app allows users to buy Bitcoin P2P (peer to peer, or peach to peach as we prefer). But, even if many people have heard those words before, have you ever stopped to think what that even means?
