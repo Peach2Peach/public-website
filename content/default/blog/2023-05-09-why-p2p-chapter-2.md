@@ -7,13 +7,13 @@ keywords:
   - p2p exchange
 tags:
   - Education
-previewImage: /img/blog/why-p2p-1/fungibility.png
+previewImage: /img/blog/why-p2p/fungibility.png
 description: |
   Bitcoin is money for free people. We believe that every single human being has the right to choose which money he uses to store his wealth, the
   result of his work, his time and energy.
   Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
 ---
-# Why P2P series - Chapter 2
+# Why P2P series - Chapter 2, Fungibility
 ## Fungibility
 
 Dear peaches, as you may already know, our app allows users to buy Bitcoin P2P (peer to peer, or peach to peach as we prefer). But, even if many people have heard those words before, have you ever stopped to think what that even means?
@@ -24,7 +24,7 @@ In this series of blog posts we will dive a little bit deeper into what it means
 
 In today's chapter, we want to briefly explore the concept of Fungibility.
 
-![gold](/img/blog/why-p2p-1/fungibility.png)
+![gold](/img/blog/why-p2p/fungibility.png)
 
 > In economics, fungibility is the property of a good or a commodity whose individual units are essentially interchangeable, and each of whose parts is indistinguishable from any other part.
 
