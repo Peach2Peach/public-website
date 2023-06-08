@@ -7,13 +7,13 @@ keywords:
   - p2p exchange
 tags:
   - education
-previewImage: /img/blog/why-p2p-1/origins.jpeg
+previewImage: /img/blog/why-p2p/origins.jpeg
 description: |
   Bitcoin is money for free people. We believe that every single human being has the right to choose which money he uses to store his wealth, the
   result of his work, his time and energy.
   Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
 ---
-# Why P2P series - Chapter 1
+# Why P2P series - Chapter 1, The origins
 ## The origins of Bitcoin
 
 Dear peaches, as you may already know, our app allows users to buy Bitcoin P2P (peer to peer, or peach to peach as we prefer). But, even if many people have heard those words before, have you ever stopped to think what that even means?
@@ -24,7 +24,7 @@ In this series of blog posts we will dive a little bit deeper into what it means
 
 In today's chapter, we want to briefly explore how everything started.
 
-![bitcoin whitepaper](/img/blog/why-p2p-1/whitepaper-intro.png)
+![bitcoin whitepaper](/img/blog/why-p2p/whitepaper-intro.png)
 
 Bitcoin isn’t something that randomly appeared. It’s conception was founded in the fact that the money masters (governments and central banks) played their game until they reached a point were it wasn’t sustainable anymore. 
 Even if the propaganda machine will tell you that “external problems” are the cause of your loss of purchasing power… in the end we know that’s not true. Their incompetence and greed led us where we are today.
