@@ -358,5 +358,29 @@
     "url": "https://www.meetup.com/bitcoin-warsaw/",
     "longitude": 20.9532333,
     "latitude": 52.2428994
+  },
+  {
+    "name": "Satoshi Spritz Crema",
+    "url": "https://t.me/satoshispritzcrema",
+    "longitude": 9.683230,
+    "latitude": 45.361839
+  },
+  {
+    "name": "Roanne Bitcoin Meetup",
+    "url": "https://accepter-les-paiements-bitcoin.univer.se/roanne-bitcoin-meetup",
+    "longitude": 4.071720,
+    "latitude": 46.039200
+  },
+  {
+    "name": "Einundzwanzig Osnabrück",
+    "url": "https://t.me/Einundzwanzig_OS",
+    "longitude": 8.053190,
+    "latitude": 52.267281
+  },
+  {
+    "name": "Blockchain Biel/Bienne",
+    "url": "https://t.me/BBBblockchainbielbienne",
+    "longitude": 7.248760,
+    "latitude": 47.143299
   }
 ]
