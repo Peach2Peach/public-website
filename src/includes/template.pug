@@ -62,8 +62,7 @@ html(lang=lang)
         nav.nav
           +navItem("how-it-works", i18n("howItWorks", lang))
           +navItem("for-meetups", i18n("forMeetups", lang))
-          if lang === 'en'
-            +navItem("blog", i18n("blog", lang))
+          +navItem("blog", i18n("blog", lang))
           +navItem("support", i18n("support", lang))
     if hasTeaser
       block teaser
