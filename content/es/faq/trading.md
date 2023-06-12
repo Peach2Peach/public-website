@@ -45,10 +45,6 @@ Puede cancelar sus ofertas e intercambios haciendo clic en la X roja en la parte
 ![Cancelar intercambio](/img/faq/trading/cancel.png)
 
 Dicho esto, esto a menudo tiene consecuencias. Antes de emparejarte con alguien, puedes cancelar en cualquier momento. Después de haber emparejado, sin embargo, tu reputación se verá afectada negativamente. Además, como vendedor, deberás pedir permiso al comprador para cancelar el intercambio. ¡Es posible que ya haya realizado el pago!
-
-:::details ¿Qué significa la puntuación Peach?
-
-La puntuación Peach es tu reputación en Peach. Se basa en la valoración del usuario (los pulgares hacia arriba / abajo que tu contraparte te da después de un comercio) y en tus acciones, como disputas, rapidez de pago, entre otras.
 :::
 
 :::details ¿Por qué recibí menos sats de los que pensaba que estaba comprando?
@@ -56,11 +52,6 @@ La puntuación Peach es tu reputación en Peach. Se basa en la valoración del u
 Peach cobra una tarifa comercial del 2% al comprador, lo que significa que recibirás menos sats que la cantidad del comercio. Además, tendrás que pagar tarifas de red de Bitcoin. Tu comercio podría verse así, por ejemplo:
 
 ![Desglose de compra](/img/faq/trading/TradeBreakdownBuy.png)
-:::
-
-:::details Como comprador, ¿puedo emparejar con varios vendedores?
-
-¡Sí! Puedes emparejar con tantos vendedores como desees. El hecho de emparejarte con un vendedor no garantiza que ellos te emparejen de vuelta, por lo que a menudo es inteligente emparejarse con tantos como sea posible. Realizarás el comercio con el primer vendedor que te empareje de vuelta, mientras que los otros deberán buscar nuevos compradores.
 :::
 
 :::details ¿Qué sucede si no quiero usar la billetera Peach para el pago / reembolso?
