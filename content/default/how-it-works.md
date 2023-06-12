@@ -34,6 +34,11 @@ If you have one you'd like to use, but it isn't listed, [let us know](mailto:$co
 - DKK
 - NOK
 - PLN
+- BGN
+- CZK
+- HUF
+- ISK
+- RON
 
 ---
 
@@ -48,7 +53,9 @@ Check out all the [available meetups](/for-meetups/) to trade Bitcoin with cash!
 #### Bank Transfer
 
 - :payment-sepa: SEPA / Instant SEPA
-- :payment-fasterpayments: Faster Payments
+- :payment-fasterpayments: Faster Payments (GBP)
+- :payment-straksbetaling: Straksbetaling (NOK)
+- :payment-nationalbanktransfer: National Bank Transfer (BGN, CZK, DKK, HUF, NOK, PLN, RON)
 
 ---
 
@@ -58,16 +65,26 @@ Check out all the [available meetups](/for-meetups/) to trade Bitcoin with cash!
 - :payment-paypal: PayPal
 - :payment-revolut: Revolut
 - :payment-wise: Wise
+- :payment-n26: N26
+- :payment-friends24: Friends 24
+- :payment-skrill: Skrill
+- payment-neteller: Neteller
+- :payment-paysera: Paysera
 
 ---
 
 #### National Options
 
 - :payment-vipps: Norway - Vipps
-- :payment-mobilepay: Denmark - MobilePay
-- :payment-satispay: Italy - Satispay
+- :payment-kekspay: Croatia - KEKS Pay
+- :payment-mobilepay: Denmark, Finland - MobilePay
+- :payment-paylib: France - Paylib
+- :payment-lydia: France - Lydia
+- :payment-satispay: France, Germany, Italy - Satispay
 - :payment-mbway: Portugal - MBWay
 - :payment-bizum: Spain - Bizum
+- :payment-verse: Spain, Italy - Verse
+- :payment-iris: Greece - Iris
 - :payment-blik: Poland - Blik
 - :payment-twint: Switzerland - Twint
 - :payment-swish: Sweden - Swish
