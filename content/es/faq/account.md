@@ -55,3 +55,10 @@ Cuando creas una cuenta de Peach, automáticamente recibirás un código de refe
 
 Cuando alguien use tu código de referido, esa persona empieza con un regalo de 100 puntos de Peach.
 :::
+
+:::details ¿Por qué puedo comprar sin KYC (CSC; Conozca Su Cliente) en Peach?
+
+Peach es una empresa que cumple al 100% con las regulaciones. Somos un intermediario financiero suizo afiliado y nuestro marco de cumplimiento permite operaciones de cambio de divisas sin CSC por debajo de determinados umbrales.
+
+Somos un intermediario financiero afiliado en Suiza. La normativa suiza sobre KYC/AML es una de las más estrictas del mundo, y tenemos un historial de primera en su cumplimiento. Nos tomamos muy en serio el cumplimiento de la normativa y trabajamos duro para que nuestros procesos sean a prueba de balas.
+:::
