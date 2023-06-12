@@ -55,3 +55,8 @@ Cuando creas una cuenta de Peach, automáticamente recibirás un código de refe
 
 Cuando alguien use tu código de referido, esa persona empieza con un regalo de 100 puntos de Peach.
 :::
+
+:::details ¿Qué significa la puntuación Peach?
+
+La puntuación Peach es tu reputación en Peach. Se basa en la valoración del usuario (los pulgares hacia arriba / abajo que tu contraparte te da después de un comercio) y en tus acciones, como disputas, rapidez de pago, entre otras.
+:::
