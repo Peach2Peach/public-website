@@ -66,3 +66,8 @@ When making a trade, you'll need to sign a message that you're in control of thi
 
 We'll be working on xpub support very soon, but for now, you'll need to manually change this address if you don't want to re-use it.
 :::
+
+:::details How is the Bitcoin price calculated on Peach?
+
+The BTC price we show on Peach is an aggregate of the BTC price on centralised exchanges.
+:::
