@@ -55,3 +55,8 @@ When you make a Peach account, you'll automatically get a referral code. When ot
 
 When someone uses your referral code, that person starts off with a gift of 100 Peach points themselves!
 :::
+
+:::details What does the Peach Score mean?
+
+The Peach score is your reputation on Peach. It is based on the user rating (the thumbs up/down your counterparty gives you after a trade) and on your actions, like disputes, how fast you pay, and more.
+:::
