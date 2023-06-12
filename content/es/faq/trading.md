@@ -68,6 +68,7 @@ Estaremos trabajando en el soporte xpub muy pronto, pero por ahora, deberás cam
 :::
 
 :::details ¿Cómo es calculado el precio de Bitcoin en la app?
+
 El precio de Bitcoin que mostramos es un agregado del precio de Bitcoin en varias exchanges centralizadas.
 :::
 
