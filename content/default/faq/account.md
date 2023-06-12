@@ -64,6 +64,4 @@ The Peach score is your reputation on Peach. It is based on the user rating (the
 :::details Why can I buy legally without KYC?
 
 Peach is a 100% compliant company. We are an affiliated Swiss financial intermediary and our compliance framework allows for KYC-less money exchange transactions under certain thresholds.
-
-We are an affiliated financial intermediary in Switzerland. Swiss KYC/AML regulations are among the strictest in the world, and we have a first-rate track record in complying with them. We take compliance very seriously and we work hard to make our processes bulletproof.
 :::
