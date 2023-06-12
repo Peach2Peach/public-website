@@ -59,11 +59,6 @@ Peach charges 2% trading fees to the buyer, which means that you'll get less sat
 ![Buy Breakdown](/img/faq/trading/TradeBreakdownBuy.png)
 :::
 
-:::details As a buyer, can I match multiple sellers?
-
-Yes! You can match as many sellers as you want. Matching a seller doesn't guarantee that they'll match you back, so it's often smart to match as many as possible. You will make the trade with the first seller that matches you back, while the other ones will need to look for new buyers.
-:::
-
 :::details What if I don't want to use the Peach wallet for the payout / refund?
 
 Of course, you're free to use your own wallet if you want to. We still highly recommend using the Peach wallet, as it's by far the easiest way to make a trade. You can then send the funds to any other wallet.
