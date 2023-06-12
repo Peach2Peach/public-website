@@ -47,11 +47,6 @@ You can cancel your offers and trades by clicking the red X at the top of the sc
 That said, this often does have consequences. Before you match anyone, you can cancel at any time. After you've matched, though, your reputation will be negatively impacted. Next to that, as a seller, you'll need to ask the buyer for permission to cancel the trade. They might already have made the payment!
 :::
 
-:::details What does the Peach Score mean?
-
-The Peach score is your reputation on Peach. It is based on the user rating (the thumbs up/down your counterparty gives you after a trade) and on your actions, like disputes, how fast you pay, and more.
-:::
-
 :::details Why did I receive less sats than I thought I was buying?
 
 Peach charges 2% trading fees to the buyer, which means that you'll get less sats than the amount the trade is for. Next to that, you'll need to pay bitcoin network fees. Your trade could look like this, for example:
