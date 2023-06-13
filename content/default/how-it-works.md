@@ -55,7 +55,7 @@ Check out all the [available meetups](/for-meetups/) to trade Bitcoin with cash!
 - :payment-sepa: SEPA / Instant SEPA
 - :payment-fasterpayments: Faster Payments (GBP)
 - :payment-credit-card: Straksbetaling (NOK)
-- :payment-banktransfer: National Bank Transfer (BGN, CZK, DKK, HUF, NOK, PLN, RON)
+- :payment-banktransfer: National Bank Transfer
 
 ---
 
