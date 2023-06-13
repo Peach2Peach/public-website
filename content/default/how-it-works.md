@@ -54,7 +54,7 @@ Check out all the [available meetups](/for-meetups/) to trade Bitcoin with cash!
 
 - :payment-sepa: SEPA / Instant SEPA
 - :payment-fasterpayments: Faster Payments (GBP)
-- :payment-credit-card: Straksbetaling (NOK)
+- :payment-creditcard: Straksbetaling (NOK)
 - :payment-banktransfer: National Bank Transfer
 
 ---
@@ -66,7 +66,7 @@ Check out all the [available meetups](/for-meetups/) to trade Bitcoin with cash!
 - :payment-revolut: Revolut
 - :payment-wise: Wise
 - :payment-n26: N26
-- :payment-friends-24: Friends 24
+- :payment-friends24: Friends 24
 - :payment-skrill: Skrill
 - :payment-neteller: Neteller
 - :payment-paysera: Paysera
