@@ -66,7 +66,7 @@ Check out all the [available meetups](/for-meetups/) to trade Bitcoin with cash!
 - :payment-revolut: Revolut
 - :payment-wise: Wise
 - :payment-n26: N26
-- :payment-friends24: Friends 24
+- :payment-friends24black: Friends 24
 - :payment-skrill: Skrill
 - :payment-neteller: Neteller
 - :payment-paysera: Paysera
