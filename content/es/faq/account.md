@@ -55,13 +55,3 @@ Cuando creas una cuenta de Peach, automáticamente recibirás un código de refe
 
 Cuando alguien use tu código de referido, esa persona empieza con un regalo de 100 puntos de Peach.
 :::
-
-:::details ¿Por qué puedo comprar sin KYC (CSC; Conozca Su Cliente) en Peach?
-
-Peach es una empresa que cumple al 100% con las regulaciones. Somos un intermediario financiero suizo afiliado y nuestro marco de cumplimiento permite operaciones de cambio de divisas sin CSC por debajo de determinados umbrales.
-:::
-
-:::details ¿Qué significa la puntuación Peach?
-
-La puntuación Peach es tu reputación en Peach. Se basa en la valoración del usuario (los pulgares hacia arriba / abajo que tu contraparte te da después de un comercio) y en tus acciones, como disputas, rapidez de pago, entre otras.
-:::
