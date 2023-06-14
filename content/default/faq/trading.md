@@ -47,21 +47,11 @@ You can cancel your offers and trades by clicking the red X at the top of the sc
 That said, this often does have consequences. Before you match anyone, you can cancel at any time. After you've matched, though, your reputation will be negatively impacted. Next to that, as a seller, you'll need to ask the buyer for permission to cancel the trade. They might already have made the payment!
 :::
 
-:::details What does the Peach Score mean?
-
-The Peach score is your reputation on Peach. It is based on the user rating (the thumbs up/down your counterparty gives you after a trade) and on your actions, like disputes, how fast you pay, and more.
-:::
-
 :::details Why did I receive less sats than I thought I was buying?
 
 Peach charges 2% trading fees to the buyer, which means that you'll get less sats than the amount the trade is for. Next to that, you'll need to pay bitcoin network fees. Your trade could look like this, for example:
 
 ![Buy Breakdown](/img/faq/trading/TradeBreakdownBuy.png)
-:::
-
-:::details As a buyer, can I match multiple sellers?
-
-Yes! You can match as many sellers as you want. Matching a seller doesn't guarantee that they'll match you back, so it's often smart to match as many as possible. You will make the trade with the first seller that matches you back, while the other ones will need to look for new buyers.
 :::
 
 :::details What if I don't want to use the Peach wallet for the payout / refund?
@@ -75,4 +65,9 @@ If you want to add your own wallet, you can disable "payout to Peach wallet" and
 When making a trade, you'll need to sign a message that you're in control of this wallet, as per Swiss regulations.
 
 We'll be working on xpub support very soon, but for now, you'll need to manually change this address if you don't want to re-use it.
+:::
+
+:::details How is the Bitcoin price calculated on Peach?
+
+The BTC price we show on Peach is an aggregate of the BTC price on centralised exchanges.
 :::

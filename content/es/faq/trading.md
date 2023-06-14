@@ -67,3 +67,8 @@ Al realizar un intercambio, deberás firmar un mensaje que indique que estás en
 Estaremos trabajando en el soporte xpub muy pronto, pero por ahora, deberás cambiar esta dirección manualmente si no deseas reutilizarla.
 :::
 
+:::details ¿Cómo es calculado el precio de Bitcoin en la app?
+
+El precio de Bitcoin que mostramos es un agregado del precio de Bitcoin en varias exchanges centralizadas.
+:::
+

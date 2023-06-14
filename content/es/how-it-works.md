@@ -48,7 +48,9 @@ Si tienes uno que te gustaría usar, pero no está en la lista, [háznoslo saber
 #### Transferencia bancaria
 
 - :payment-sepa: SEPA / Instant SEPA
-- :payment-fasterpayments: FasterPayments
+- :payment-fasterpayments: Faster Payments (GBP)
+- :payment-creditcard: Straksbetaling (NOK)
+- :payment-banktransfer: National Bank Transfer
 
 ---
 
@@ -58,19 +60,29 @@ Si tienes uno que te gustaría usar, pero no está en la lista, [háznoslo saber
 - :payment-paypal: PayPal
 - :payment-revolut: Revolut
 - :payment-wise: Wise
+- :payment-n26: N26
+- :payment-friends24: Friends 24
+- :payment-skrill: Skrill
+- :payment-neteller: Neteller
+- :payment-paysera: Paysera
 
 ---
 
-#### Opciones nacionales
+#### Opciones Nacionales
 
-- :payment-vipps: Noruega - Vipps
-- :payment-mobilepay: Dinamarca - MobilePay
-- :payment-satispay: Italia - Satispay
+- :payment-vipps: Norway - Vipps
+- :payment-kekspay: Croatia - KEKS Pay
+- :payment-mobilepay: Denmark, Finland - MobilePay
+- :payment-paylib: France - Paylib
+- :payment-lydia: France - Lydia
+- :payment-satispay: France, Germany, Italy - Satispay
 - :payment-mbway: Portugal - MBWay
-- :payment-bizum: España - Bizum
-- :payment-blik: Polonia - Blik
-- :payment-twint: Suiza - Twint
-- :payment-swish: Suecia - Swish
+- :payment-bizum: Spain - Bizum
+- :payment-verse: Spain, Italy - Verse
+- :payment-iris: Greece - Iris
+- :payment-blik: Poland - Blik
+- :payment-twint: Switzerland - Twint
+- :payment-swish: Sweden - Swish
 
 ---
 
