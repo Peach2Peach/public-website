@@ -24,4 +24,4 @@ Si tu meetup es elegible\* para ser integrado en nuestra aplicación, nos pondre
 <!--[map]-->
 ### ¡Mira todos los lugares donde puedes intercambiar Bitcoin por efectivo usando Peach!
 
-Si quieres saber más sobre los **Intercambios en Efectivo de Peach**, echa un vistazo a nuestro artículo [Peach x Meetups](/es/blog/peach-for-meetups/) o simplemente revisa el mapa a continuación para ver dónde puedes encontrar otros usuarios para intercambiar Bitcoin por efectivo.
+Si quieres saber más sobre los **Intercambios en Efectivo de Peach**, echa un vistazo a nuestro artículo [Peach x Meetups](/blog/peach-for-meetups/) o simplemente revisa el mapa a continuación para ver dónde puedes encontrar otros usuarios para intercambiar Bitcoin por efectivo.
