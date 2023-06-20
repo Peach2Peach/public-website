@@ -34,6 +34,11 @@ Si tienes uno que te gustaría usar, pero no está en la lista, [háznoslo saber
 - DKK
 - NOK
 - PLN
+- BGN
+- CZK
+- HUF
+- ISK
+- RON
 
 ---
 
