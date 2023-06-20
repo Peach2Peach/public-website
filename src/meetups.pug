@@ -20,15 +20,15 @@ block main
         h4 !{i18n('meetups.form.title', lang)}
         p !{i18n('meetups.form.description', lang)}
         div
-          label(for="email") !{i18n('meetups.meetupLocation', lang)}
+          label(for="email") !{i18n('input.email', lang)}
           input#email(type="text" name="EMAIL" autocomplete="off" placeholder="Your email address" required)
         div
-          label(for="location") !{i18n('meetups.frequency', lang)}
+          label(for="location") !{i18n('meetups.meetupLocation', lang)}
           input#location(type="text" name="LOCATION" autocomplete="off" placeholder="Your location" required)
         div
-          label(for="frequency") !{i18n('input.sendEmail', lang)}
+          label(for="frequency") !{i18n('meetups.frequency', lang)}
           input#frequency(type="text" name="FREQUENCY" autocomplete="off" placeholder="E.g. Weekly, Monthly, …" required)
-        button.button.button--white(type="submit") !{i18n('input.email', lang)}
+        button.button.button--white(type="submit") !{i18n('input.sendEmail', lang)}
         input(type="hidden" name="email_address_check" value="")
         input(type="hidden" name="locale" value="en")
         input(type="hidden" name="html_type" value="simple")
