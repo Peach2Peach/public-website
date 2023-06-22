@@ -50,12 +50,12 @@ We are always interested in receiving applications from  rockstar talents in eng
 ::::figures 3
 :::box tech-docker
 ### Server infrastructure
-Linux, Docker
+Linux, Docker, NodeJS
 :::
 
 :::box tech-react
 ### Building the app
-React & React Native
+React & React Native, BDK
 :::
 
 :::box tech-figma
