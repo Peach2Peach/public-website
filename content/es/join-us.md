@@ -39,12 +39,12 @@ Siempre estamos interesados en recibir aplicaciones de talentos excepcionales en
 ::::figures 3
 :::box tech-docker
 ### Infraestructura del servidor
-Linux, Docker
+Linux, Docker, NodeJS
 :::
 
 :::box tech-react
 ### Construyendo la aplicación
-React & React Native
+React & React Native, BDK
 :::
 
 :::box tech-figma
