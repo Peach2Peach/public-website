@@ -1,5 +1,6 @@
 const en = require('./translations/en.json')
 const es = require('./translations/es.json')
+const fr = require('./translations/fr.json')
 
 const properties = {
   en,
