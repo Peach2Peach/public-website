@@ -21,15 +21,15 @@ block main
 
   section#newsletter.wrap
     form.newsletter-form(method="POST" action="https://5dcdd79e.sibforms.com/serve/MUIEAGjzL2fItMY1cwWaIXk6UiGKmh6OFwDRRA3wjUptuI7KEG1oWd0-a1M8fGC4apXeJkr9xTZPG-HK-Cyl0Zs8OEyH-qMndMqnE5MgP-0WVFz9ryAKU_te8XOKoOStliGWWB1LTjgioz5XpKeH-rihs5STRci4aD12qb4jAeOqrVXbV8E4wJKLWDVaEgrLzrIY612Qgi2V1KQq")
-      h4: label(for="email") Subscribe to our mailing list to stay up to date with Peach updates, and receive P2P market stats directly to your inbox!
+      h4: label(for="email") !{i18n('mailing.list.title', lang)}
       div
         input#email(type="text" name="EMAIL" autocomplete="off" placeholder="Email" required)
       div.check
         input#optin(type="checkbox" value="1" name="OPT_IN")
-        label(for="optin"): small I accept receiving Peach emails and I do accept the terms found in the <a href="/privacyPolicy.html">Privacy Policy</a>.
+        label(for="optin"): small !{i18n('mailing.list.optin', lang)} <a href="/privacyPolicy.html">!{i18n('mailing.list.privacypolicy', lang)}</a>.
       p
-        small You can unsubscribe at any moment through one of our emails.
-      button.button.button--white(type="submit") Subscribe
+        small !{i18n('mailing.list.unsubscribe', lang)}
+      button.button.button--white(type="submit") !{i18n('mailing.list.subscribe.button', lang)}
       input(type="hidden" name="email_address_check" value="")
       input(type="hidden" name="locale" value="en")
       input(type="hidden" name="html_type" value="simple")
