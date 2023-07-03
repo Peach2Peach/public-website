@@ -5,6 +5,7 @@ const fr = require('./translations/fr.json')
 const properties = {
   en,
   es,
+  fr,
 }
 
 /**
