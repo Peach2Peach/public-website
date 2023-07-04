@@ -9,6 +9,12 @@ block teaser
     a.scroll(href="#main"): +sprite("chevron-down")
 
 block main
+  
+  <link rel="stylesheet" href="https://ap-widget.s3.amazonaws.com/css/glider.min.css" />
+  <link rel="stylesheet" href="https://ap-widget.s3.amazonaws.com/css/widget.min.css" />
+  <script type="text/javascript" src="https://ap-widget.s3.amazonaws.com/glider.min.js"></script>
+  <script type="text/javascript" src="https://ap-widget.s3.amazonaws.com/widget.min.js" async></script>
+
   section#top.wrap
     .content-wrap.content-wrap--centered
       != html.top
