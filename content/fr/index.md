@@ -44,3 +44,7 @@ Peach, l'entreprise, est née de personnes qui croient en la monnaie la plus dur
 Faites-vous partie de ces personnes ? Consultez notre section [Rejoignez-nous](/join-us/), peut-être que nous pouvons travailler ensemble !
 
 Si vous voulez en savoir plus sur l'entreprise, consultez nos [articles de blog](/blog/) qui parlent de comment tout a commencé et comment nous en sommes arrivés là.
+
+### Qu'est-ce que les gens disent de nous?
+<br>
+<div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
