@@ -35,6 +35,11 @@
     "meetups.meetupLocation": "Où se déroule votre meetup ?",
     "meetups.frequency": "Fréquence du meetup",
     "input.sendEmail": "Envoyer un email",
-    "input.email": "Votre adresse email"
-  }
+    "input.email": "Votre adresse email",
+    "mailing.list.title": "Abonnez-vous à notre newsletter pour recevoir les dernières nouvelles de Peach et les statistiques sur le marché pair à pair!",
+    "mailing.list.optin": "J’accepte de recevoir des courriels de Peach et j’accepte les conditions énoncées dans la",
+    "mailing.list.unsubscribe": "Vous pouvez vous désabonner à tout moment via l’un de nos e-mails",
+    "mailing.list.subscribe.button": "S'inscrire",
+    "mailing.list.privacypolicy": "Politique de Confidentialité"
+}
   
