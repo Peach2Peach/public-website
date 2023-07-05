@@ -45,3 +45,8 @@ Peach, l'azienda, nasce da persone che credono nella moneta più solida che sia 
 Se sei uno di loro, dai un'occhiata alla nostra sezione [Unisciti a noi](/join-us/), forse possiamo lavorare insieme!
 
 Se desideri saperne di più sull'azienda, leggi i nostri [articoli del blog](/blog/) che raccontano come è cominciato tutto e come siamo arrivati fin qui.
+
+### Cosa dicono di noi?
+<br>
+<div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
+
