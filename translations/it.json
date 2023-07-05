@@ -35,5 +35,10 @@
     "telegram": "Telegram",
     "trading": "Trading",
     "twitter": "Twitter",
-    "whitepaper": "Whitepaper"
+    "whitepaper": "Whitepaper",
+    "mailing.list.title": "Iscriviti alla nostra mailing list per rimanere aggiornato sulle novità di Peach e ricevere direttamente nella tua casella di posta le statistiche del mercato P2P!",
+    "mailing.list.optin": "Accetto di ricevere email da Peach e accetto i termini indicati nell'Informativa sulla ",
+    "mailing.list.unsubscribe": "Puoi disiscriverti in qualsiasi momento attraverso una qualunque delle nostre email",
+    "mailing.list.subscribe.button": "Iscriviti",
+    "mailing.list.privacypolicy": "privacy policy"
 }
