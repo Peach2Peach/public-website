@@ -46,7 +46,7 @@ Ci sono molti metodi di pagamento tra cui scegliere. Se ne hai uno che desideri 
 
 - :payment-cash: Contanti
 
-Consulta tutti i [meetups disponibili](/for-meetups/) per scambiare Bitcoin con contanti!
+Consulta tutti i [meetups disponibili](/it/for-meetups/) per scambiare Bitcoin con contanti!
 
 ---
 
