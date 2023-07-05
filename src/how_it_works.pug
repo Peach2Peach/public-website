@@ -25,7 +25,7 @@ block main
   section.wrap
     article#sounds_cool.content-wrap.content-wrap--centered
       != html.sounds_cool
-      a(href=getUrl("/quick-start/", lang)).button.button--primary
+      a(href=getUrl('quick-start', lang)).button.button--primary
         span Quick Start Guide
         +sprite("quickstart")
 
@@ -40,6 +40,6 @@ block main
   section.wrap
     article#questions.content-wrap.content-wrap--centered
       != html.questions
-      a(href=getUrl("/support/", lang)).button.button--primary
+      a(href=getUrl('support', lang)).button.button--primary
         span Support
         +sprite("help")
