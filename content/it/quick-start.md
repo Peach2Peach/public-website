@@ -16,7 +16,7 @@ Dopo aver installato l'app (tramite l'[App Store]($iosUrl$), il [Play Store]($an
 L'unica cosa che ti viene richiesta al momento dell'avvio è un codice di affiliazione, se ne hai uno.
 
 :::figures 4
-![Innanzitutto, verrà chiesto se desideri condividere alcuni dati di utilizzo con noi](/img/faq/quickstart/onboarding/usage-data.png)
+![Innanzitutto, ti verrà chiesto se desideri condividere alcuni dati di utilizzo con noi](/img/faq/quickstart/onboarding/usage-data.png)
 
 ![Successivamente, verra introdotto brevemente in tre passaggi come funziona Peach](/img/faq/quickstart/onboarding/1.png)
 
