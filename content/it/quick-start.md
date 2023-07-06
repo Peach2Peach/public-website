@@ -20,7 +20,7 @@ L'unica cosa che ti viene richiesta al momento dell'avvio è un codice di affili
 
 ![Successivamente, ti verrà presentato in tre brevi passaggi il funzionamento di Peach](/img/faq/quickstart/onboarding/1.png)
 
-![Dopo di ciò, verrà chiesto se hai un codice di affiliazione. Se non ce l'hai, non preoccuparti 😉](/img/faq/quickstart/onboarding/new.png)
+![In seguito, ti verrà chiesto se disponi di un codice di affiliazione. Se non ne hai uno, non preoccuparti 😉](/img/faq/quickstart/onboarding/new.png)
 
 ![Ecco fatto! Sei pronto per iniziare!](/img/faq/quickstart/onboarding/created.png)
 :::
@@ -29,7 +29,7 @@ Questo rapido processo di configurazione significa che **non hai ancora effettua
 
 ## Guida 2: La tua prima offerta di acquisto
 
-Piazzare la tua prima offerta di acquisto può essere fatto in pochi secondi. Dovrai solo scegliere l'importo che vuoi comprare e come desideri pagare il venditore.
+Piazzare la tua prima offerta di acquisto richiede solo pochi secondi. Dovrai solo scegliere l'importo che vuoi comprare e come desideri pagare il venditore.
 
 Ecco un esempio passo dopo passo per la tua prima offerta di acquisto:
 
