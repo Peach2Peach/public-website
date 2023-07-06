@@ -36,7 +36,7 @@ Ecco un esempio passo dopo passo per la tua prima offerta di acquisto:
 :::figures 5
 ![Inizialmente dovrai selezionare quanto vuoi acquistare. Questo è sempre un intervallo e ti verranno mostrate tutte le offerte di vendita disponibili in quell'intervallo.](/img/faq/quickstart/buy/BuyStep1.png)
 
-![Dovrai poi dirci come desideri pagare. Se desideri saperne di più sui metodi di pagamento, puoi [leggere guida 4](#guide-4-adding-payment-methods). Alla fine, puoi tornare qui.](/img/faq/quickstart/buy/BuyStep2.png)
+![Dovrai poi dirci come desideri pagare. Se desideri saperne di più sui metodi di pagamento, puoi [leggere guida 4](#guida-4-aggiunta-metodi-di-pagamento). Alla fine, puoi tornare qui.](/img/faq/quickstart/buy/BuyStep2.png)
 
 ![Nota che puoi selezionare quanti metodi di pagamento desideri, per aumentare le tue possibilità di ottenere un match!](/img/faq/quickstart/buy/BuyStep3.png)
 
