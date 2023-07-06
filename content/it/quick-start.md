@@ -65,9 +65,9 @@ Dopo aver pubblicato la tua offerta di acquisto, ti verranno mostrate tutte le o
 
 ## Guida 3: La tua prima offerta di vendita
 
-Piazzare la tua prima offerta di vendita può essere fatto in pochi minuti. Dovrai solo scegliere l'importo che vuoi vendere e come vuoi essere pagato dal compratore.
+Piazzare la tua prima offerta di vendita richiede pochi minuti. Dovrai solo scegliere l'importo che vuoi vendere e come vuoi essere pagato dal compratore.
 
-Ecco un esempio dopo passo per la tua prima offerta di vendita:
+Ecco un esempio passo dopo passo per la tua prima offerta di vendita:
 
 ### Creazione di un'offerta di vendita
 
