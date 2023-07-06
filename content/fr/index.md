@@ -25,7 +25,7 @@ Peach est une application mobile qui **connecte** directement les acheteurs et l
 
 Achetez ou vendez du bitcoin en pair-à-pair **partout, à tout moment**.
 
-Utilisez la méthode de paiement de votre choix parmi **[de nombreuses options](/how-it-works/#payment)**.
+Utilisez la méthode de paiement de votre choix parmi **[de nombreuses options](/fr/how-it-works/#payment)**.
 
 Vendez au **prix de votre choix** car les marchés pair-à-pair sont les vrais marchés.
 
