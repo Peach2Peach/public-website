@@ -18,7 +18,7 @@ L'unica cosa che ti viene richiesta al momento dell'avvio è un codice di affili
 :::figures 4
 ![Innanzitutto, ti verrà chiesto se desideri condividere alcuni dati di utilizzo con noi](/img/faq/quickstart/onboarding/usage-data.png)
 
-![Successivamente, verra introdotto brevemente in tre passaggi come funziona Peach](/img/faq/quickstart/onboarding/1.png)
+![Successivamente, ti verrà presentato in tre brevi passaggi il funzionamento di Peach](/img/faq/quickstart/onboarding/1.png)
 
 ![Dopo di ciò, verrà chiesto se hai un codice di affiliazione. Se non ce l'hai, non preoccuparti 😉](/img/faq/quickstart/onboarding/new.png)
 
