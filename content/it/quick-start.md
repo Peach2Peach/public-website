@@ -54,7 +54,7 @@ Dopo aver pubblicato la tua offerta di acquisto, ti verranno mostrate tutte le o
 :::figures 2
 ![Quando hai selezionato la valuta e il metodo di pagamento che desideri utilizzare per questo scambio (se ne hai più di uno in comune), puoi confermare il match dell'offerta.](/img/faq/quickstart/buy/BuyStep6.png)
 
-![Avrai cinque secondi per annullare se cambi idea. Dopo di che, il venditore sarà informato del match, e annullare da questo momento viene considerato un comportamento scorretto (il tuo punteggio Peach verrà penalizzato)](/img/faq/quickstart/buy/BuyStep7.png)
+![Avrai cinque secondi per annullare se cambi idea. Dopo di che, il venditore sarà informato del match, e annullare da questo momento viene considerato un comportamento scorretto (la tua reputazione su Peach ne risentirà)](/img/faq/quickstart/buy/BuyStep7.png)
 :::
 
 ### Effettuare lo scambio
