@@ -26,7 +26,7 @@ Peach è un'app mobile che **connette** direttamente compratori e venditori di B
 
 Compra o vendi Bitcoin peer-to-peer **ovunque, in qualsiasi momento**.
 
-Utilizza il metodo di pagamento che preferisci tra i**[molti disponibili](/how-it-works/#payment)**.
+Utilizza il metodo di pagamento che preferisci tra i **[molti disponibili](/it/how-it-works/#payment)**.
 
 Vendi al **prezzo che desideri** perché i mercati peer-to-peer sono i veri mercati.
 
