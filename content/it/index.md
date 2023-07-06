@@ -10,9 +10,9 @@ template: index
 <div class="inner-wrap">
 
 :::buttons
-[Download su iPhone]($iosUrl$)
-[Download su Android]($androidUrl$)
-[Download APK su Android](/apk/)
+[Scarica su iPhone]($iosUrl$)
+[Scarica su Android]($androidUrl$)
+[Scarica APK su Android](/apk/)
 :::
 
 ![](/img/phones.png)
