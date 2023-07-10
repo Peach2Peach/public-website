@@ -2,7 +2,7 @@
 
 ## Offene Stellen
 <!--
-::::Abbildungen 3
+::::figures 3
 :::box tech-peach
 ### Backend Entwickler
 :::
@@ -43,11 +43,11 @@ Andere interssante Skills? Lass es uns wissen!
 
 Wir sind immer an Bewerbungen von Rockstar-Talenten aus den Bereichen Technik, Produktdesign und Growth Hacking interessiert. Abonniere unseren Newsletter, oder folge uns in den sozialen Medien um über neue Stellen auf dem laufenden zu bleiben!
 
-[Alles über Peach, das Unternehmen](/blog/Alles-über-Peach-das-Unternehmen/)
+[Alles über Peach, das Unternehmen](/blog/all-about-peach-the-company/)
 
 ## Unsere Tech Abteilung
 
-::::Abbildungen 3
+::::figures 3
 :::box tech-docker
 ### Server Infrastruktur
 Linux, Docker, NodeJS
@@ -64,7 +64,7 @@ Figma
 :::
 ::::
 
-Sende deinen Lebenslauf an **$KontaktEmail$** Teile uns mit für welche Stelle du dich konkrett bewirbst.
+Sende deinen Lebenslauf an **$contactEmail$** Teile uns mit für welche Stelle du dich konkrett bewirbst.
 
 :::Tasten
 [Jetzt Bewerben](mailto:$contactEmail$)
