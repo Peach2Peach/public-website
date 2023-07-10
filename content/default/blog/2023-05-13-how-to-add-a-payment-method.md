@@ -82,7 +82,7 @@ methods:
 Be careful, do not get confused with the CASH option.
 
 1. If we want to add one of the available local payment methods, the first thing we’ll need to choose is the Country of the local payment
-method. The available ones right now are **Italy (Satispay)**, **Portugal (MB Way)** and **Spain (Bizum)**.
+method. Right now there are **Italy (Satispay)**, **Portugal (MB Way)** and **Spain (Bizum)**, **Faster Payments (UK)**, etc.
 
 ![](/img/blog/how-to-add-a-payment-method/national-options-1.png)
 
