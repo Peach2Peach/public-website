@@ -6,7 +6,7 @@ keywords:
   - Peer to peer trades
 tags:
   - Meetups
-previewImage: /img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/teaser.jpg
+previewImage: /img/blog/peach-for-meetups/meetup-preview.jpg
 helpFooter: true
 ---
 # Peach x Meetups
