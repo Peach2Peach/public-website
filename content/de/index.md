@@ -1,5 +1,5 @@
 ---
-Vorlage: Index
+template: index
 ---
 <!--[teaser]-->
 # Peach Bitcoin
@@ -8,7 +8,7 @@ Vorlage: Index
 
 <div class="inner-wrap">
 
-:::Tasten
+:::buttons
 [Für iPhone herunterladen]($iosUrl$)
 [Für Android herunterladen]($androidUrl$)
 [APK für Android herunterladen](/apk/)
@@ -18,7 +18,7 @@ Vorlage: Index
 
 </div>
 
-<!--[Oben]-->
+<!--[top]-->
 ## Kaufe & Verkaufe Bitcoin, so wie du willst.
 
 Peach ist eine Mobile App, welche Bitcoin Käufer und Verkäufer direkt miteinander verbindet.
@@ -31,12 +31,12 @@ Verkaufe zu deinem Preis, weil Peer-to-Peer Handel ist richtiger Handel.
 
 **KYC-freie Bitcoin sind die besten Bitcoins.**
 
-<!--[Mission]-->
+<!--[mission]-->
 ## Trette unserer Mission bei
 
 ### Unser Ziel ist es, Sats Peer-to-Peer zu stacken zum Standart zu machen!
 
-<!--[Über]-->
+<!--[about]-->
 ## Über uns
 
 Das Unternehmen Peach wurde von Menschen gegründet welche an das härteste Geld glauben das es je gab und es der ganzen Welt zugänglich machen wollen ohne Kompromisse bei den grundlegenden Aspekten von Bitcoin einzugehen.
