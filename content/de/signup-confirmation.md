@@ -1,9 +1,9 @@
-# Danke für deine Anmeldung
+# Danke fÃ¼r deine Anmeldung
 
-Es hat funktioniert, du wirst in kürze von uns hören.
+Es hat funktioniert, du wirst in kÃ¼rze von uns hÃ¶ren.ğŸ˜€
 
-:::Tasten
-[Zurück zur vorherigen Seite](/)
+:::buttons
+[ZurÃ¼ck zur vorherigen Seite](/de/)
 :::
 
 <Script>
