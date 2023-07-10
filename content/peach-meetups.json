@@ -388,5 +388,23 @@
     "url": "https://bitcoinhideaway.com/meetups/",
     "longitude": -7.261545,
     "latitude": 53.316982
+  },
+  {
+    "name": "Sofia BTC Meetup",
+    "url": "https://discord.gg/EThEaWAN",
+    "longitude": 23.3217359,
+    "latitude": 42.6977028
+  },
+  {
+    "name": "Pirate Beach - BTC Tenerife",
+    "url": "https://t.me/+f6V0gjlYTsRmM2Y0",
+    "longitude": -16.589,
+    "latitude": 28.217
+  },
+  {
+    "name": "Bitcoin Trieste",
+    "url": "https://bitcointrieste.com/",
+    "longitude": 13.7772781,
+    "latitude": 45.6496485
   }
 ]
