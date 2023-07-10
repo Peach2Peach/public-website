@@ -4,23 +4,23 @@
 
 ## Intro: Warum Peach?
 
-Bei einer normalen Börse kaufst du Bitcoin direkt bei der Börse. Das macht es oft ziemlich einfach, aber du musst deine Ausweisdokumente hochladen welche bei einem Hackerangriff auf die Börse gestohlen werden könnten. Und im allgemeinen schlecht für die Privatsphäre sind.
+Bei einer normalen BÃ¶rse kaufst du Bitcoin direkt bei der BÃ¶rse. Das macht es oft ziemlich einfach, aber du musst deine Ausweisdokumente hochladen welche bei einem Hackerangriff auf die BÃ¶rse gestohlen werden kÃ¶nnten. Und im allgemeinen schlecht fÃ¼r die PrivatsphÃ¤re sind.
 
-Auf der anderen Seite gibt es den Peer-to-Peer-Handel. Hier handelst du direkt mit anderen Leuten was in vielerlei Hinsicht besser für deine Privatsphäre ist. Aber die Verwendung kann ziemlich kompliziert sein … bis jetzt!
+Auf der anderen Seite gibt es den Peer-to-Peer-Handel. Hier handelst du direkt mit anderen Leuten was in vielerlei Hinsicht besser fÃ¼r deine PrivatsphÃ¤re ist. Aber die Verwendung kann ziemlich kompliziert sein â€¦ bis jetzt!
 
-Peach ist **einfach** zu verwenden, es ist **privater**, hat **mehr Zahlungsmethoden** und du kaufst _**echte**_ **Bitcoin**, nicht ein Versprechen darauf, welches ausgezahlt werden kann oder auch nicht. Hier erfährst du wie es geht:
+Peach ist **einfach** zu verwenden, es ist **privater**, hat **mehr Zahlungsmethoden** und du kaufst _**echte**_ **Bitcoin**, nicht ein Versprechen darauf, welches ausgezahlt werden kann oder auch nicht. Hier erfÃ¤hrst du wie es geht:
 
 ## Anleitung 1: Einrichten der App
 
-Nachdem du die App installiert hast (über den [App Store]($iosUrl$), [Play Store]($androidUrl$) oder [APK-Download](/apk/)), bist du schon so gut wie fertig.
-Das einzige, was du im moment benötigst ist ein Empfehlungscode – sofern du einen hast.
+Nachdem du die App installiert hast (Ã¼ber den [App Store]($iosUrl$), [Play Store]($androidUrl$) oder [APK-Download](/apk/)), bist du schon so gut wie fertig.
+Das einzige, was du im moment benÃ¶tigst ist ein Empfehlungscode â€“ sofern du einen hast.
 
-:::Abbildungen 4
-![Zuerst wirst du gefragt, ob du einige Daten mit uns teilen möchtest](/img/faq/quickstart/onboarding/usage-data.png)
+:::figures 4
+![Zuerst wirst du gefragt, ob du einige Daten mit uns teilen mÃ¶chtest](/img/faq/quickstart/onboarding/usage-data.png)
 
-![Dann erhälst du eine kurze dreistufige Erklärung zur Funktionsweise von Peach.](/img/faq/quickstart/onboarding/1.png)
+![Dann erhÃ¤lst du eine kurze dreistufige ErklÃ¤rung zur Funktionsweise von Peach.](/img/faq/quickstart/onboarding/1.png)
 
-![Danach wirst du gefragt, ob du einen Empfehlungscode hast. Wenn nicht, mach dir darüber keine Sorgen](/img/faq/quickstart/onboarding/new.png)
+![Danach wirst du gefragt, ob du einen Empfehlungscode hast. Wenn nicht, mach dir darÃ¼ber keine Sorgen](/img/faq/quickstart/onboarding/new.png)
 
 ![Das wars! Es kann losgehen!](/img/faq/quickstart/onboarding/created.png)
 :::
@@ -29,94 +29,97 @@ Dieser schnelle Einrichtungsprozess bedeutet, dass **du noch nicht gesichert bis
 
 ## Anleitung 2: Ihr erstes Kaufangebot
 
-Dein erstes Kaufangebot kannst du in wenigen Sekunden erstellen. Du musst uns lediglich mitteilen, wie viel du kaufen möchtest und wie du den Verkäufer bezahlen möchtest.
+Dein erstes Kaufangebot kannst du in wenigen Sekunden erstellen. Du musst uns lediglich mitteilen, wie viel du kaufen mÃ¶chtest und wie du den VerkÃ¤ufer bezahlen mÃ¶chtest.
 
-Hier ist die Schritt-für-Schritt-Anleitung für dein erstes Kaufangebot:
+Hier ist die Schritt-fÃ¼r-Schritt-Anleitung fÃ¼r dein erstes Kaufangebot:
 
-:::Abbildungen 5
-![Du wählst zunächst aus wie viel du kaufen möchtest. Dies ist immer ein Bereich und dir werden alle in diesem Bereich verfügbaren Verkaufsangebote angezeigt.](/img/faq/quickstart/buy/BuyStep1.png)
+:::figures 5
+![Du wÃ¤hlst zunÃ¤chst aus wie viel du kaufen mÃ¶chtest. Dies ist immer ein Bereich und dir werden alle in diesem Bereich verfÃ¼gbaren Verkaufsangebote angezeigt.](/img/faq/quickstart/buy/BuyStep1.png)
 
-![Du musst uns dann mitteilen wie du bezahlen möchtest. Wenn du mehr über Zahlungsmethoden erfahren möchtest, solltest du [diesen Leitfaden lesen](#Anleitung-4 Zahlungsmethoden hinzufügen). Am Ende kannst du direkt hierher zurückkehren.](/img/faq/quickstart/buy/BuyStep2.png)
+![Du musst uns dann mitteilen wie du bezahlen mÃ¶chtest. Wenn du mehr Ã¼ber Zahlungsmethoden erfahren mÃ¶chtest, solltest du [diesen Leitfaden lesen](#Anleitung-4 Zahlungsmethoden hinzufÃ¼gen). Am Ende kannst du direkt hierher zurÃ¼ckkehren.](/img/faq/quickstart/buy/BuyStep2.png)
 
-![Beachte dass du so viele Zahlungsmethoden auswählen kannst wie du möchtest, um deine Chancen auf eine Übereinstimmung zu erhöhen!](/img/faq/quickstart/buy/BuyStep3.png)
+![Beachte dass du so viele Zahlungsmethoden auswÃ¤hlen kannst wie du mÃ¶chtest, um deine Chancen auf eine Ãœbereinstimmung zu erhÃ¶hen!](/img/faq/quickstart/buy/BuyStep3.png)
 
-![Danach siehst du eine kurze Zusammenfassung in der du alle von dir ausgewählten Zahlungsmethoden und den Betrag welchen du kaufst überprüfen.](/img/faq/quickstart/buy/BuyStep4.png)
+![Danach siehst du eine kurze Zusammenfassung in der du alle von dir ausgewÃ¤hlten Zahlungsmethoden und den Betrag welchen du kaufst Ã¼berprÃ¼fen.](/img/faq/quickstart/buy/BuyStep4.png)
 
-![Dein Kaufangebot ist jetzt veröffentlicht! Wenn Verkaufsangebote verfügbar sind werden dir diese sofort angezeigt. Wenn nicht musst du etwas warten.](/img/faq/quickstart/buy/BuyStep5.png)
+![Dein Kaufangebot ist jetzt verÃ¶ffentlicht! Wenn Verkaufsangebote verfÃ¼gbar sind werden dir diese sofort angezeigt. Wenn nicht musst du etwas warten.](/img/faq/quickstart/buy/BuyStep5.png)
 :::
 
-### Passende Verkäufer
+### Passende VerkÃ¤ufer
 
-Nach der Veröffentlichung deines Kaufangebots werden dir alle Verkaufsangebote angezeigt, die in dem von dir gewählten Bereich fallen und mindestens eine Zahlungsmethode gemeinsam haben:
+Nach der VerÃ¶ffentlichung deines Kaufangebots werden dir alle Verkaufsangebote angezeigt, die in dem von dir gewÃ¤hlten Bereich fallen und mindestens eine Zahlungsmethode gemeinsam haben:
 
 ![Match Karte](/img/faq/quickstart/buy/MatchCardExplainer.png)
 
-:::Abbildungen 2
-![Wenn du die Währung und Zahlungsmethode ausgewählt hast, welche du für diesen Trade verwenden möchtest (falls du mehr als eine gemeinsam hast), kannst du das Angebot anpassen.](/img/faq/quickstart/buy/BuyStep6.png )
+:::figures 2
+![Wenn du die WÃ¤hrung und Zahlungsmethode ausgewÃ¤hlt hast, welche du fÃ¼r diesen Trade verwenden mÃ¶chtest (falls du mehr als eine gemeinsam hast), kannst du das Angebot anpassen.](/img/faq/quickstart/buy/BuyStep6.png )
 
-![Du hast 5 Sekunden Zeit den Vorgang rückgängig zu machen, wenn du deine Meinung änderst.  Danach wird der Verkäufer über den Match benachrichtigt wenn du dein Match jetzt rückgängig machst wird es als stornierung betrachtet (Dein Peach Ruf wird negativ beeinflusst)](/img/faq/quickstart/buy/BuyStep7.png)
+![Du hast 5 Sekunden Zeit den Vorgang rÃ¼ckgÃ¤ngig zu machen, wenn du deine Meinung Ã¤nderst.  Danach wird der VerkÃ¤ufer Ã¼ber den Match benachrichtigt wenn du dein Match jetzt rÃ¼ckgÃ¤ngig machst wird es als stornierung betrachtet (Dein Peach Ruf wird negativ beeinflusst)](/img/faq/quickstart/buy/BuyStep7.png)
 :::
 
-### Den Handel abschließen
+### Den Handel abschlieÃŸen
 
-:::Abbildungen 2
-![Wenn dich der Verkäufer zurückmatched wirst du benachrichtigt und bekommst seine Zahlungsdetails. Du musst jetzt die Zahlung manuell via Zahlungs-App ausführen. Danach bestätigst du dies mit dem Schieberegler und wartest auf die Antwort des Verkäufers (Ihr könnt in der Zwischenzeit Chatten).](/img/faq/quickstart/buy/BuyStep8.png)
+:::figures 2
+![Wenn dich der VerkÃ¤ufer zurÃ¼ckmatched wirst du benachrichtigt und bekommst seine Zahlungsdetails. Du musst jetzt die Zahlung manuell via Zahlungs-App ausfÃ¼hren. Danach bestÃ¤tigst du dies mit dem Schieberegler und wartest auf die Antwort des VerkÃ¤ufers (Ihr kÃ¶nnt in der Zwischenzeit Chatten).](/img/faq/quickstart/buy/BuyStep8.png)
 
-![Sobald der Verkäufer bestätigt, ist der Handel abgeschlossen. Der Bitcoin-Betrag wird an deine Wallet gesendet und ihr könnt euch gegenseitig bewerten. (Vorausgesetzt, alles ist gut gelaufen.)](/img/faq/quickstart/buy/BuyStep9.png)
+![Sobald der VerkÃ¤ufer bestÃ¤tigt, ist der Handel abgeschlossen. Der Bitcoin-Betrag wird an deine Wallet gesendet und ihr kÃ¶nnt euch gegenseitig bewerten. (Vorausgesetzt, alles ist gut gelaufen.)](/img/faq/quickstart/buy/BuyStep9.png)
 :::
 
 ## Anleitung 3: Dein erstes Verkaufsangebot
 
-Dein erstes Verkaufsangebot kannst du in wenigen Minuten erstellen. Du musst uns lediglich mitteilen, wie viel du verkaufen möchtest und wie dein Käufer dich bezahlen soll.
+Dein erstes Verkaufsangebot kannst du in wenigen Minuten erstellen. Du musst uns lediglich mitteilen, wie viel du verkaufen mÃ¶chtest und wie dein KÃ¤ufer dich bezahlen soll.
 
-Hier ist die Schritt-für-Schritt-Anleitung für dein erstes Verkaufsangebot:
-:::Abbildungen 7
-![Zuerst wähle aus wie viel du verkaufen möchtest. Du kannst einen beliebigen Betrag auswählen, es gibt jedoch einen Höchstbetrag um zu verhindern dass dein Angebot das Tageslimit überschreitet und nicht mehr verfügbar ist.](/img/faq/quickstart/sell/SellStep01.png)
+Hier ist die Schritt-fÃ¼r-Schritt-Anleitung fÃ¼r dein erstes Verkaufsangebot:
 
-![Du wählst dann aus ob du dem Käufer einen Rabatt anbieten oder etwas mehr als den Marktpreis verlangen möchtest.](/img/faq/quickstart/sell/SellStep02.png)
+### Erstellen eines Verkaufsangebots
 
-![Du musst dann angeben wie du bezahlt werden möchtest. Am Ende kannst du direkt hierher zurückkehren.](/img/faq/quickstart/sell/SellStep03.png)
+:::figures 7
+![Zuerst wÃ¤hle aus wie viel du verkaufen mÃ¶chtest. Du kannst einen beliebigen Betrag auswÃ¤hlen, es gibt jedoch einen HÃ¶chstbetrag um zu verhindern dass dein Angebot das Tageslimit Ã¼berschreitet und nicht mehr verfÃ¼gbar ist.](/img/faq/quickstart/sell/SellStep01.png)
 
-![Du kannst so viele Zahlungsmethoden auswählen wie du möchtest, um deine Chancen auf ein Match zu erhöhen!](/img/faq/quickstart/sell/SellStep04.png)
+![Du wÃ¤hlst dann aus ob du dem KÃ¤ufer einen Rabatt anbieten oder etwas mehr als den Marktpreis verlangen mÃ¶chtest.](/img/faq/quickstart/sell/SellStep02.png)
 
-![Danach siehst du eine kurze Zusammenfassung in der du alle von dir ausgewählten Zahlungsmethoden und den von dir verkauften Betrag überprüfen kannst.](/img/faq/quickstart/sell/SellStep05.png)
+![Du musst dann angeben wie du bezahlt werden mÃ¶chtest. Am Ende kannst du direkt hierher zurÃ¼ckkehren.](/img/faq/quickstart/sell/SellStep03.png)
 
-![Der letzte Schritt vor der Veröffentlichung deines Verkaufsangebots besteht darin, die Escrow aufzufüllen um den Handel abzusichern. Du sendest die Bitcoin von der Wallet in welcher du sie gerade hast an diese Adresse.](/img/faq/quickstart/sell/SellStep06.png)
+![Du kannst so viele Zahlungsmethoden auswÃ¤hlen wie du mÃ¶chtest, um deine Chancen auf ein Match zu erhÃ¶hen!](/img/faq/quickstart/sell/SellStep04.png)
 
-![Das wars! Nachdem das Bitcoin-Netzwerk die Transaktion bestätigt hat wird dein Verkaufsangebot veröffentlicht und wartet auf eine Übereinstimmung.](/img/faq/quickstart/sell/SellStep07.png)
+![Danach siehst du eine kurze Zusammenfassung in der du alle von dir ausgewÃ¤hlten Zahlungsmethoden und den von dir verkauften Betrag Ã¼berprÃ¼fen kannst.](/img/faq/quickstart/sell/SellStep05.png)
+
+![Der letzte Schritt vor der VerÃ¶ffentlichung deines Verkaufsangebots besteht darin, die Escrow aufzufÃ¼llen um den Handel abzusichern. Du sendest die Bitcoin von der Wallet in welcher du sie gerade hast an diese Adresse.](/img/faq/quickstart/sell/SellStep06.png)
+
+![Das wars! Nachdem das Bitcoin-Netzwerk die Transaktion bestÃ¤tigt hat wird dein Verkaufsangebot verÃ¶ffentlicht und wartet auf eine Ãœbereinstimmung.](/img/faq/quickstart/sell/SellStep07.png)
 :::
 
-### Einen Käufer zurückmatchen
+### Einen KÃ¤ufer zurÃ¼ckmatchen
 
-Nach der Veröffentlichung deines Verkaufsangebots wird es allen Käufern angezeigt welche mindestens eine Währung und Zahlungsmethode gemeinsam haben und den von dir verkauften Betrag kaufen möchten. Wenn jemand dein Angebot Matched erhählst du eine Benachrichtigung und kannst ihn zurückmatchen (oder auf weitere Matches warten):
+Nach der VerÃ¶ffentlichung deines Verkaufsangebots wird es allen KÃ¤ufern angezeigt welche mindestens eine WÃ¤hrung und Zahlungsmethode gemeinsam haben und den von dir verkauften Betrag kaufen mÃ¶chten. Wenn jemand dein Angebot Matched erhÃ¤hlst du eine Benachrichtigung und kannst ihn zurÃ¼ckmatchen (oder auf weitere Matches warten):
 
 ![Match Card](/img/faq/quickstart/sell/MatchCardExplainer.png)
 
-### Den Handel abschließen
+### Den Handel abschlieÃŸen
 
-:::Abbildungen 3
-![Nachdem du ein Match ausgewählt hast wird der Handel offiziell durchgeführt. Du erfährst wie der Käufer die Zahlung leisten wird. Du kannst auch mit deinem Käufer chatten, falls du fragen hast.](/img/faq/quickstart/sell/SellStep08.png)
+:::figures 3
+![Nachdem du ein Match ausgewÃ¤hlt hast wird der Handel offiziell durchgefÃ¼hrt. Du erfÃ¤hrst wie der KÃ¤ufer die Zahlung leisten wird. Du kannst auch mit deinem KÃ¤ufer chatten, falls du fragen hast.](/img/faq/quickstart/sell/SellStep08.png)
 
-![Sobald der Käufer die Zahlung geleistet hat prüfe das entsprechenden Zahlungskonto ob du die Zahlung erhalten hast. Wenn ja kannst du es hier bestätigen. Sobald du den Zahlungseingang bestätigt hast, werden die Bitcoin an den Käufer gesendet.](/img/faq/quickstart/sell/SellStep09.png)
+![Sobald der KÃ¤ufer die Zahlung geleistet hat prÃ¼fe das entsprechenden Zahlungskonto ob du die Zahlung erhalten hast. Wenn ja kannst du es hier bestÃ¤tigen. Sobald du den Zahlungseingang bestÃ¤tigt hast, werden die Bitcoin an den KÃ¤ufer gesendet.](/img/faq/quickstart/sell/SellStep09.png)
 
-![Das wars! Der Bitcoin-Betrag wird an den Käufer gesendet und ihr könnt euch gegenseitig bewerten. (Vorausgesetzt, alles ist gut gelaufen.](/img/faq/quickstart/sell/SellStep10.png)
+![Das wars! Der Bitcoin-Betrag wird an den KÃ¤ufer gesendet und ihr kÃ¶nnt euch gegenseitig bewerten. (Vorausgesetzt, alles ist gut gelaufen.](/img/faq/quickstart/sell/SellStep10.png)
 :::
 
-## Anleitung 4: Zahlungsmethoden hinzufügen
+## Anleitung 4: Zahlungsmethoden hinzufÃ¼gen
 
 Wenn du mit Peach ein Kauf- oder Verkaufsangebot erstellst, musst du deiner Gegenpartei mitteilen, wie du bezahlen oder bezahlt werden willst.
 
-:::Abbildungen 7
-![Zunächst kannst du zwischen zwei Kategorien wählen: **Online-Wallet** (z. B. Banküberweisung, Paypal) oder bei einem **Treffen** (mit Bargeld).](/img/faq/quickstart/add-zahlungsmethode /AddPM01.png)
+:::figures 7
+![ZunÃ¤chst kannst du zwischen zwei Kategorien wÃ¤hlen: **Online-Wallet** (z. B. BankÃ¼berweisung, Paypal) oder bei einem **Treffen** (mit Bargeld).](/img/faq/quickstart/add-zahlungsmethode /AddPM01.png)
 
-![ Du wählst dann die Währung aus welche du für diese Zahlungsmethode verwenden möchtest.](/img/faq/quickstart/add-zahlungsmethode/AddPM02.png)
+![ Du wÃ¤hlst dann die WÃ¤hrung aus welche du fÃ¼r diese Zahlungsmethode verwenden mÃ¶chtest.](/img/faq/quickstart/add-zahlungsmethode/AddPM02.png)
 
-![Du siehst dann die Kategorien für diese Währung verfügbaren Zahlungsmethoden. Für dieses Beispiel verwenden wir ein Online-Wallet.](/img/faq/quickstart/add-paid-method/AddPM03.png)
+![Du siehst dann die Kategorien fÃ¼r diese WÃ¤hrung verfÃ¼gbaren Zahlungsmethoden. FÃ¼r dieses Beispiel verwenden wir ein Online-Wallet.](/img/faq/quickstart/add-paid-method/AddPM03.png)
 
-![Es öffnet sich ein Fenster, in der du auswählen kannst welches Online-Wallet du hinzufügen möchtest. Wählen wir PayPal aus.](/img/faq/quickstart/add-paid-method/AddPM04.png)
+![Es Ã¶ffnet sich ein Fenster, in der du auswÃ¤hlen kannst welches Online-Wallet du hinzufÃ¼gen mÃ¶chtest. WÃ¤hlen wir PayPal aus.](/img/faq/quickstart/add-paid-method/AddPM04.png)
 
-![Alles was du hier tun musst ist deine Zahlunsgdetails einzugeben. Du kannst auch angeben, ob dein Wallet weitere Währungen empfangen kann.](/img/faq/quickstart/add-paid-method/AddPM05.png)
+![Alles was du hier tun musst ist deine Zahlunsgdetails einzugeben. Du kannst auch angeben, ob dein Wallet weitere WÃ¤hrungen empfangen kann.](/img/faq/quickstart/add-paid-method/AddPM05.png)
 
-![Sobald du fertig bist „Bestätige“ und…](/img/faq/quickstart/add-zahlungsmethode/AddPM06.png)
+![Sobald du fertig bist â€BestÃ¤tigeâ€œ undâ€¦](/img/faq/quickstart/add-zahlungsmethode/AddPM06.png)
 
-![Fertig! Du hast deine erste Zahlungsmethode hinzugefügt. Füge so viele hinzu wie du möchtest und wähle sie aus um deine Chancen auf eine Übereinstimmung zu erhöhen.](/img/faq/quickstart/add-paid-method/AddPM07.png)
+![Fertig! Du hast deine erste Zahlungsmethode hinzugefÃ¼gt. FÃ¼ge so viele hinzu wie du mÃ¶chtest und wÃ¤hle sie aus um deine Chancen auf eine Ãœbereinstimmung zu erhÃ¶hen.](/img/faq/quickstart/add-paid-method/AddPM07.png)
