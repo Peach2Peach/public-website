@@ -46,7 +46,7 @@ Wenn deine bevorzugte Zahlungsmethode nicht dabei ist, [Lass es uns wissen](mail
 
 - :payment-cash: Bargeld
 
-Entdecke alle [Verfügbaren Treffen](/de/for-meetups/) um Bitcoin mit Bargeld zu Handeln!
+Entdecke alle [Verfügbaren Meetup](/de/for-meetups/) um Bitcoin mit Bargeld zu Handeln!
 
 ---
 
