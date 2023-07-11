@@ -90,7 +90,7 @@ To be able to make use of Peach you will enter information relating to the trade
 
 #### Usage data
 
-Having data about how our app is used is very useful in improving the user experience; but this is always an opt-in feature. The data is collected in Google Firebase & Google Analytics. You can toggle sharing usage data on/off in Settings > About Peach > Diagnostics. The following data is shared when you opt-in:
+Having data about how our app is used is very useful in improving the user experience; but this is always an **opt-in** feature. The data is collected in Google Firebase & Google Analytics. **You can toggle sharing usage data on/off in Settings > About Peach > Diagnostics**. The following data is shared when you opt-in:
 
   * Technical device stats, like your OS and screen size
   * Demographics information, like your country
