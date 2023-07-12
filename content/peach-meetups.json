@@ -622,5 +622,17 @@
     "url": "https://t.me/SatoshiSpritzVicenza",
     "longitude": 11.4063543,
     "latitude": 45.6348591
-  }  
+  },
+  {
+    "name": "Einundzwanzig Franken",
+    "url": "https://einundzwanzig.space/meetups/",
+    "longitude": 11.9244877,
+    "latitude": 50.0902913
+  },
+  {
+    "name": "Satoshi Spritz Unterfranken",
+    "url": "https://einundzwanzig.space/meetups/",
+    "longitude": 9.8917959,
+    "latitude": 50.022585
+  }
 ]
