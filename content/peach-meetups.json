@@ -406,5 +406,221 @@
     "url": "https://bitcointrieste.com/",
     "longitude": 13.7772781,
     "latitude": 45.6496485
-  }
+  },
+  {
+    "name": "Satoshi Spritz Bologna",
+    "url": "https://t.me/SatoshiSpritzBologna",
+    "longitude": 11.3426327,
+    "latitude": 44.4938203
+  },
+  {
+    "name": "Satoshi Spritz Milano",
+    "url": "https://t.me/SatoshiSpritzMilano",
+    "longitude": 9.1896346,
+    "latitude": 45.4641943
+  },
+  {
+    "name": "Satoshi Spritz Torino",
+    "url": "https://t.me/SatoshiSpritzTorino",
+    "longitude": 7.6824892,
+    "latitude": 45.0677551
+  },
+  {
+    "name": "Satoshi Spritz Arezzo",
+    "url": "https://t.me/SatoshiSpritzArezzo",
+    "longitude": 11.876984,
+    "latitude": 43.463512
+  },
+  {
+    "name": "Satoshi Spritz Arquata Scrivia",
+    "url": "https://t.me/SatoshiSpritzArquata",
+    "longitude": 8.885339,
+    "latitude": 44.687845
+  },
+  {
+    "name": "Satoshi Spritz Belluno",
+    "url": "https://t.me/SatoshiSpritzBelluno",
+    "longitude": 12.078914,
+    "latitude": 46.280541
+  },
+  {
+    "name": "Satoshi Spritz Bergamo",
+    "url": "https://t.me/SatoshiSpritzBergamo",
+    "longitude": 9.7542192,
+    "latitude": 45.7566557
+  },
+  {
+    "name": "Satoshi Spritz Brescia",
+    "url": "https://t.me/SatoshiSpritzBrescia",
+    "longitude": 10.425873,
+    "latitude": 45.7795804
+  },
+  {
+    "name": "Satoshi Spritz Cagliari",
+    "url": "https://t.me/SatoshiSpritzCagliari",
+    "longitude": 9.113311,
+    "latitude": 39.217199
+  },
+  {
+    "name": "Satoshi Spritz Cuneo",
+    "url": "https://t.me/SatoshiSpritzCuneo",
+    "longitude": 7.558137,
+    "latitude": 44.45807
+  },
+  {
+    "name": "Satoshi Spritz Faenza",
+    "url": "https://t.me/SatoshiSpritzFaenza",
+    "longitude": 11.8832055,
+    "latitude": 44.2855555
+  },
+  {
+    "name": "Satoshi Spritz Ferrara",
+    "url": "https://t.me/SatoshiSpritzFerrara",
+    "longitude": 11.607539,
+    "latitude": 44.843774
+  },
+  {
+    "name": "Satoshi Spritz Firenze",
+    "url": "https://t.me/SatoshiSpritzFirenze",
+    "longitude": 11.2555757,
+    "latitude": 43.7698712
+  },
+  {
+    "name": "Satoshi Spritz Friuli Venezia Giulia",
+    "url": "https://t.me/SatoshiSpritzFriuli",
+    "longitude": 13.055904,
+    "latitude": 46.151042
+  },
+  {
+    "name": "Satoshi Spritz Lucca",
+    "url": "https://t.me/SatoshiSpritzLucca",
+    "longitude": 10.502233,
+    "latitude": 43.842391
+  },
+  {
+    "name": "Satoshi Spritz Mantova",
+    "url": "https://t.me/SatoshiSpritzMantova",
+    "longitude": 10.6708365,
+    "latitude": 45.1692628
+  },
+  {
+    "name": "Satoshi Spritz Marche",
+    "url": "https://t.me/SatoshiSpritzMarche",
+    "longitude": 13.1415872,
+    "latitude": 43.3458388
+  },
+  {
+    "name": "Satoshi Spritz Modena",
+    "url": "https://t.me/SatoshiSpritzModena",
+    "longitude": 10.9359609,
+    "latitude": 44.5384728
+  },
+  {
+    "name": "Satoshi Spritz Monza",
+    "url": "https://t.me/SatoshiSpritzMonza",
+    "longitude": 9.2788694,
+    "latitude": 45.639544
+  },
+  {
+    "name": "Satoshi Spritz Napoli",
+    "url": "https://t.me/SatoshiSpritzNapoli",
+    "longitude": 14.2487679,
+    "latitude": 40.8358846
+  },
+  {
+    "name": "Satoshi Spritz Padova",
+    "url": "https://t.me/SatoshiSpritzPadova",
+    "longitude": 11.8734455,
+    "latitude": 45.4077172
+  },
+  {
+    "name": "Satoshi Spritz Palermo",
+    "url": "https://t.me/SatoshiSpritzPalermo",
+    "longitude": 13.3524434,
+    "latitude": 38.1112268
+  },
+  {
+    "name": "Satoshi Spritz Pesaro",
+    "url": "https://t.me/SatoshiSpritzPesaro",
+    "longitude": 12.9131228,
+    "latitude": 43.9098114
+  },
+  {
+    "name": "Satoshi Spritz Puglia",
+    "url": "https://t.me/SatoshiSpritzPuglia",
+    "longitude": 16.6210027,
+    "latitude": 40.9842539
+  },
+  {
+    "name": "Satoshi Spritz Rimini",
+    "url": "https://t.me/SatoshiSpritzRimini",
+    "longitude": 12.6307686,
+    "latitude": 43.9470982
+  },
+  {
+    "name": "Satoshi Spritz Rovereto",
+    "url": "https://t.me/SatoshiSpritzRovereto",
+    "longitude": 11.0452369,
+    "latitude": 45.886548
+  },
+  {
+    "name": "Satoshi Spritz Rovigo",
+    "url": "https://t.me/SatoshiSpritzRovigo",
+    "longitude": 12.2741904,
+    "latitude": 44.9772062
+  },
+  {
+    "name": "Satoshi Spritz Taranto",
+    "url": "https://t.me/SatoshiSpritzTaranto",
+    "longitude": 17.0805801,
+    "latitude": 40.5488156
+  },
+  {
+    "name": "Satoshi Spritz - Grosseto",
+    "url": "https://t.me/SatoshiSpritzToscanaSud",
+    "longitude": 11.2878044,
+    "latitude": 42.7751102
+  },
+  {
+    "name": "Satoshi Spritz Toscana Sud - Siena",
+    "url": "https://t.me/SatoshiSpritzToscanaSud",
+    "longitude": 11.4671812,
+    "latitude": 43.1672254
+  },
+  {
+    "name": "Satoshi Spritz Treviso",
+    "url": "https://t.me/SatoshiSpritzTreviso",
+    "longitude": 12.2063158,
+    "latitude": 45.8066913
+  },
+  {
+    "name": "Satoshi Spritz Varese",
+    "url": "https://t.me/SatoshiSpritzVarese",
+    "longitude": 8.7541338,
+    "latitude": 45.8397203
+  },
+  {
+    "name": "Satoshi Spritz Veneto",
+    "url": "https://t.me/SatoshiSpritzVeneto",
+    "longitude": 11.8665254,
+    "latitude": 45.6476663
+  },
+  {
+    "name": "Satoshi Spritz Venezia",
+    "url": "https://t.me/SatoshiSpritzVenezia",
+    "longitude": 12.3345898,
+    "latitude": 45.4371908
+  },
+  {
+    "name": "Satoshi Spritz Verona",
+    "url": "https://t.me/SatoshiSpritzVerona",
+    "longitude": 10.9924122,
+    "latitude": 45.4384958
+  },
+  {
+    "name": "Satoshi Spritz Vicenza",
+    "url": "https://t.me/SatoshiSpritzVicenza",
+    "longitude": 11.4063543,
+    "latitude": 45.6348591
+  }  
 ]
