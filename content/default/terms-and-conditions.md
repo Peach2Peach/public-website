@@ -225,6 +225,12 @@ The Peach may incorporate, reference or provide access to third-party services. 
 
 The use of any third-party service is subject to separate terms and conditions issued by the respective third-party service provider. It is each users' responsibility to review the terms and policies of a third-party service provider before deciding to use such a service.
 
+Third parties used by Peach:
+- Cloudflare
+- ProtonMail
+- Brevo (only for mailing list subscribers)
+- Firebase & Google Analytics (opt-in)
+
 ## 17. Limitation of liability and indemnity
 
 You indemnify Peach and hold Peach unaccountable for all loss, claims, actions, liability, damage, costs, expenses and penalties resulting directly or indirectly from:
