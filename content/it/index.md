@@ -12,7 +12,7 @@ template: index
 :::buttons
 [Scarica su iPhone]($iosUrl$)
 [Scarica su Android]($androidUrl$)
-[Scarica APK su Android](/apk/)
+[Scarica APK su Android](/it/apk/)
 :::
 
 ![](/img/phones.png)
