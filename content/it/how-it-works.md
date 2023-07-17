@@ -23,7 +23,8 @@ Scarica l'app gratuitamente e inizia a fare scambi immediatamente! Non ti verra 
 <!--[payment_methods]-->
 ### Metodi di pagamento supportati
 
-Ci sono molti metodi di pagamento tra cui scegliere. Se ne hai uno che desideri utilizzare, ma non è elencato, [faccelo sapere](mailto:$contactEmail$?subject=Metodo%20di%20pagamento)!
+Ci sono molti metodi di pagamento tra cui scegliere.<br>
+Se ne hai uno che desideri utilizzare, ma non è elencato, [faccelo sapere](mailto:$contactEmail$?subject=Metodo%20di%20pagamento)!
 
 #### Valute supportate
 
