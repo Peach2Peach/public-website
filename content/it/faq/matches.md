@@ -1,10 +1,10 @@
-# FAQ Match Peach 
+# FAQ Match
 
 :::details Come funziona il sistema di match Peach?
 
 Peach ti mette in contatto con un compratore o venditore di Bitcoin in base alle tue preferenze di valute e metodi di pagamento.
 Sulla base di questo, Peach ti notifica quando ricevi un match alla tua offerta.
-Ordiniamo i match in base al [punteggio di reputazione](/faq/trading/#what-does-the-peach-score-mean) e al prezzo dell'offerta.
+Ordiniamo i match in base al [punteggio di reputazione](/it/faq/trading/#what-does-the-peach-score-mean) e al prezzo dell'offerta.
 :::
 
 :::details Come viene creata una transazione?
@@ -16,7 +16,7 @@ Il primo venditore che accetta l'offerta del compratore (Doppio Match) si aggiud
 :::details Posso annullare un match?
 
 In qualsiasi momento!
-Attenzione, il tuo [punteggio di reputazione](/faq/trading/#what-does-the-peach-score-mean) verrà leggermente influenzato se annulli un match.
+Attenzione, il tuo [punteggio di reputazione](/it/faq/trading/#what-does-the-peach-score-mean) verrà leggermente influenzato se annulli un match.
 :::
 
 :::details Posso annullare un Doppio Match (uno scambio)?
@@ -25,7 +25,7 @@ Uno scambio viene creato non appena il venditore accetta l'offerta del comprator
 Il compratore riceve automaticamente gli estremi di pagamento del venditore*.
 Il compratore può annullare lo scambio in qualsiasi momento.
 Il venditore può annullare uno scambio solo chiedendo prima al compratore se è d'accordo ad annullare.
-Attenzione, annullare una transazione influisce sul tuo [punteggio di reputazione](/faq/trading/#what-does-the-peach-score-mean)!
+Attenzione, annullare una transazione influisce sul tuo [punteggio di reputazione](/it/faq/trading/#what-does-the-peach-score-mean)!
 :::
 
 :::details Quando viene fissato il prezzo dello scambio?
