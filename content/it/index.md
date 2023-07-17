@@ -42,7 +42,7 @@ Vendi al **prezzo che desideri** perché i mercati peer-to-peer sono i veri merc
 
 Peach, l'azienda, nasce da persone che credono nella moneta più solida che sia mai esistita e desiderano renderla accessibile a tutto il mondo senza compromettere gli aspetti fondamentali di Bitcoin.
 
-Se sei uno di loro, dai un'occhiata alla nostra sezione [Unisciti a noi](/it/join-us/), forse possiamo lavorare insieme!
+Senti di essere tra questi? Dai un'occhiata alla nostra sezione [Unisciti a noi](/it/join-us/), forse possiamo lavorare insieme!
 
 Se desideri saperne di più sull'azienda, leggi i nostri [articoli del blog](/it/blog/) che raccontano come è cominciato tutto e come siamo arrivati fin qui.
 
