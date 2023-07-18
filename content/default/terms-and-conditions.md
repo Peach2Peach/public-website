@@ -1,5 +1,5 @@
 ---
-template: page
+template: text
 ---
 # Terms & Conditions
 
