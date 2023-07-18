@@ -25,7 +25,7 @@ L'unica cosa che ti viene richiesta al momento dell'avvio è un codice di affili
 ![Ecco fatto! Sei pronto per iniziare!](/img/faq/quickstart/onboarding/created.png)
 :::
 
-Questo rapido processo di configurazione significa che **non hai ancora effettuato un backup**. Ti verrà chiesto di [creare un backup e una password](/it/faq/account/#how-should-i-store-my-backup) dopo aver completato il tuo primo scambio.
+Questo rapido processo di configurazione significa che **non hai ancora effettuato un backup**. Ti verrà chiesto di [creare un backup e una password](/it/faq/account/#come-dovrei-conservare-il-mio-backup) dopo aver completato il tuo primo scambio.
 
 ## Guida 2: La tua prima offerta di acquisto
 
