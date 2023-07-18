@@ -20,7 +20,7 @@ template: index
 </div>
 
 <!--[top]-->
-## Compra e Vendi Bitcoin, come preferisci
+## Compra e Vendi Bitcoin, come vuoi
 
 Peach è un'app mobile che **connette** direttamente compratori e venditori di Bitcoin.
 
