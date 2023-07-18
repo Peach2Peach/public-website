@@ -1,5 +1,5 @@
 ---
-template: text
+template: page
 ---
 # Privacy Policy
 
