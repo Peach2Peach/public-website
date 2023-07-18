@@ -1,257 +1,263 @@
-# Términos y Condiciones
+---
+template: page
+---
+# Terms & Conditions
 
-Estos Términos de Servicio se actualizaron por última vez el **12 de mayo de 2023**
+These Service Terms were last updated on **May 12th, 2023**
 
-## 1. Introducción
+## 1. Introduction
 
-Esta página establece los términos de servicio para los titulares de cuentas de Peach. Al crear una cuenta de Peach, aceptas todos estos términos y condiciones.
+This page sets out the service terms for Peach accountholders. By creating a Peach account, you accept all of these terms and conditions.
 
-Cuando hablamos de "Peach", "nosotros" o "nuestro", nos referimos a Peach S.A.R.L y sus representantes. Peach Sàrl es una empresa acreditada por [SRO PolyReg](https://www.polyreg.ch/en/) y está registrada, organizada y existente bajo las leyes de Suiza, con número de registro de la empresa CHE-158.025.408, cuya oficina registrada está en:
+When we speak of  "Peach",  "we",  "us"  or  "our",  we mean Peach S.A.R.L and its representatives. Peach Sàrl is a company accredited by [SRO PolyReg](https://www.polyreg.ch/en/) and is registered, organized and existing under the laws of Switzerland, under company registration number CHE-158.025.408, whose registered office is at:
 
 Rue des Beaux-Arts 8<br>
 c/o LEAX Avocats Sàrl<br>
 2000 Neuchâtel<br>
-SUIZA
+SWITZERLAND
 
-Cuando decimos "Comprador", nos referimos a la parte que crea una oferta en la plataforma para recibir bitcoin de otro usuario a cambio de una transferencia de su moneda de elección.
+By "Buyer", we mean the party creating an offer on the platform to receive bitcoin from another user in exchange for a transfer of their currency of choice.
 
-Cuando decimos "Vendedor", nos referimos a la parte que crea una oferta en la plataforma para enviar bitcoin a otro usuario a cambio de una transferencia de su moneda de elección.
+By "Seller", we mean the party creating an offer on the platform to send bitcoin to another user in exchange for a transfer of their currency of choice.
 
-Cuando decimos "tú", nos referimos a cualquier titular de cuenta de Peach y/o usuario de nuestros servicios y productos.
+By "you", we mean any Peach accountholder and/or user of our services and products.
 
-Peach es un mercado entre pares no custodial (aplicación móvil nativa) que facilita la conexión de dos personas para comprar y vender bitcoin (BTC). Peach proporciona los siguientes servicios:
+Peach is a non-custodial peer-to-peer marketplace (native mobile application) that facilitates the connection of two persons in order to purchase and sale bitcoin (BTC). Peach provides the following services:
 
-* una aplicación móvil disponible para descargar de forma gratuita desde la App Store y Google Play Store
-* la infraestructura para un comercio seguro con una solución de depósito en garantía de firma múltiple 2 de 2 entre Peach y el Vendedor
-* un servicio de atención al cliente y gestión de disputas con un mediador de Peach empleado para arbitrar y resolver disputas entre usuarios
+* a mobile application available to download for free from the App Store and the Google Play Store
+* the infrastructure for a safe trade with a 2-out-of-2 multi signature escrow solution between Peach and the Seller
+* a customer support and dispute management service with a Peach mediator employee to arbitrate and settle dispute between users
 
-Peach solo facilita un mercado para que las personas intercambien bitcoin entre sí. Peach no es un intercambio de bitcoin y **no compra bitcoin a sus usuarios ni vende bitcoin a sus usuarios**.
+Peach only facilitates a marketplace for people to exchange bitcoin between themselves. Peach is not a bitcoin exchange, and **does not purchase bitcoin from or sell bitcoin to its users**. 
 
-La información en nuestro sitio web está destinada únicamente con fines informativos y no se debe confiar en ella para obtener asesoramiento legal, financiero o tributario. No se garantizan resultados financieros y siempre se debe discutir las inversiones con un profesional financiero de confianza.
+The information on our website is solely intended for informational purposes, and should not be relied upon for legal, financial or taxations advice. No financial results are guaranteed and one should always discuss their investments with a trusted financial professional.
 
-A lo largo de este documento (y dentro de la aplicación y el sitio web de Peach), podemos usar indistintamente sats, satoshis, bitcoin o BTC, que todos entendemos como el token de bitcoin en la cadena de bloques de Bitcoin. Esta es la única "criptomoneda" para la cual Peach proporciona un servicio de emparejamiento. En este documento, diferenciamos entre "bitcoin" en el sentido del token y "Bitcoin" en el sentido de la red.
+Throughout this document (and within the Peach app and website) we may interchangably use sats, satoshis, bitcoin or BTC, which we all take to mean the bitcoin token on the Bitcoin blockchain. This is the only 'cryptocurrency' for which Peach provides a matchmaking service. In this document we differentiate between "bitcoin" meaning the token, and "Bitcoin" meaning the network.
 
-Peach no:
+Peach does not:
 
-* procesa pagos - **el Comprador y el Vendedor asumen la responsabilidad total de la transferencia fiduciaria y los costos asociados**
-* compra bitcoin a sus usuarios ni vende bitcoin a sus usuarios
-* proporciona un servicio de intercambio de moneda digital
-* participa en ninguna transacción
-* proporciona asesoramiento legal o financiero
+* process payments - **the Buyer and the Seller assume full responsibility for the fiat transfer and any costs associated**
+* purchase bitcoin from or sell bitcoin to its users
+* provide a digital currency exchange service
+* participate in any transaction
+* provide legal or financial advice
 
+## 2. Your Account
 
-## 2. Tu cuenta
+When using the Peach application for the first time, you will be asked to choose a password in order to create an account. This account will allow your app to access the Peach platform to make use of the matchmaking services. The password you pick will encrypt your private Peach data, including keys to identify your account to connect to Peach services.
 
-Cuando uses la aplicación Peach por primera vez, se te pedirá que elijas una contraseña para crear una cuenta. Esta cuenta permitirá que tu aplicación acceda a la plataforma de Peach para utilizar los servicios de emparejamiento. La contraseña que elijas cifrará tus datos privados de Peach, incluidas las claves para identificar tu cuenta y conectarte a los servicios de Peach.
+You must maintain the confidentiality of your password and account; **you are responsible for all activities that are conducted through your account**, whether or not you have authorized such use. If you lose your password, you will not be able to access your encrypted communications or private data, and there is no way for Peach to recover access.
 
-Debes mantener la confidencialidad de tu contraseña y cuenta; **eres responsable de todas las actividades que se realicen a través de tu cuenta**, ya sea que hayas autorizado dicho uso o no. Si pierdes tu contraseña, no podrás acceder a tus comunicaciones cifradas o datos privados, y no hay forma de que Peach recupere el acceso.
+It is not allowed to create more than one Peach account. In order to ensure that a user can only create one Peach account from his mobile device, **Peach keeps a _hash_ of the user's unique device ID**, among other measures. More about how your data is used can be read in our [privacy policy](https://peachbitcoin.com/privacy-policy/). 
 
-No está permitido crear más de una cuenta de Peach. Con el fin de asegurarse de que un usuario solo pueda crear una cuenta de Peach desde su dispositivo móvil, **Peach guarda un _hash_ del ID único del dispositivo del usuario**, entre otras medidas. Puedes leer más sobre cómo se utilizan tus datos en nuestra [política de privacidad](https://peachbitcoin.com/privacy-policy/).
+You must be at least 18 years old to sign up for a Peach account. By signing up for an account, you confirm that you are at least 18 years old.
 
-Debes tener al menos 18 años para registrarte en una cuenta de Peach. Al registrarte para obtener una cuenta, confirmas que tienes al menos 18 años.
+## 3. Generating Peach Keys
 
-## 3. Generando claves de Peach
+When you create an account, a private and public keypair is created on your device which is unique to you. You hold the private key – we do not have a copy.
 
-Cuando creas una cuenta, se crea en tu dispositivo un par de claves público y privado que es único para ti. Tú tienes la clave privada: nosotros no tenemos una copia.
+When a match is made (see sections 4 and 5) the respective keys of the buyer and the seller are used to create a symmetrical key. This symmetrical key is used to encrypt communications between the involved parties for this specific contract/trade. As such, we cannot read your communications with another user, unless you or your counterparty gives us the symmetrical key to decrypt these communications by raising a dispute as described in section 9.
 
-Cuando se realiza un emparejamiento (consulta las secciones 4 y 5), se utilizan las claves respectivas del comprador y del vendedor para crear una clave simétrica. Esta clave simétrica se utiliza para cifrar las comunicaciones entre las partes involucradas en este contrato/comercio específico. Por lo tanto, no podemos leer tus comunicaciones con otro usuario a menos que tú o la otra parte nos den la clave simétrica para descifrar estas comunicaciones, al plantear una disputa según se describe en la sección 9.
+## 4. Creating Offers
 
-## 4. Creación de ofertas
+Peach users may create offers to buy or sell sats in exchange for a currency of their choice. The Seller can set the conditions of the trade:
 
-Los usuarios de Peach pueden crear ofertas para comprar o vender sats a cambio de la moneda que elijan. El vendedor puede establecer las condiciones del comercio:
+* the amount of bitcoin to be sold
+* the payment method(s) the Seller is willing to accept (including the respective payment details to be used if a match results in a trade)
+* the currencies the Seller is willing to accept
+* the premium (in percentage above the market price at the time of making the match - see more in section 6)
 
-* la cantidad de bitcoin que se va a vender
-* el o los métodos de pago que el vendedor está dispuesto a aceptar (incluidos los detalles de pago correspondientes que se utilizarán si se produce un emparejamiento y se realiza un comercio)
-* las monedas que el vendedor está dispuesto a aceptar
-* la prima (porcentaje por encima del precio de mercado en el momento de realizar el emparejamiento; consulta más detalles en la sección 6)
+The payment details can not change from the time an offer was published and at the time of the contract. The moment the sell offer is published, a hash is created and this is linked to the sell offer.
 
-Los detalles de pago no pueden cambiarse desde el momento en que se publicó una oferta y en el momento del contrato. En el momento en que se publica la oferta de venta, se crea un _hash_ que se vincula a la oferta de venta.
+To make this offer available the Seller will fund the escrow. The escrow needs to be funded within seven (7) days. If there is no (confirmed) transaction to the escrow within that time period, the escrow will be closed, and any transactions done to it will be refunded to the original sending address, should any transactions have been made.
 
-Para que esta oferta esté disponible, el vendedor financiará el depósito en garantía.
+The Seller will be charged a fee by the Bitcoin network to fund an escrow as any standard Bitcoin transaction. Cancelling an offer will again result in the Bitcoin network charging a fee. When a Peach escrow is released (to Buyer or Seller) the fee is calculated automatically based on the mempool dynamics.
 
-El vendedor será cobrado una tarifa por la red Bitcoin para financiar un depósito en garantía, al igual que cualquier transacción estándar de Bitcoin. Cancelar una oferta resultará en que la red de Bitcoin cobre una comisión nuevamente. Cuando un fideicomiso de Peach se libera (para el Comprador o el Vendedor), la comisión se calcula automáticamente según la dinámica del mempool.
+The Buyer will post a Buy offer, in which they indicate their preferred conditions to find a matching Sell offer:
 
-El Comprador publicará una oferta de Compra, en la que indicará sus condiciones preferidas para encontrar una oferta de Venta coincidente:
+* a range of the amount of bitcoin he wishes to buy
+* the payment method(s) the Buyer is willing and able to use
+* the currencies the Buyer is willing and able to send
 
-* un rango de la cantidad de bitcoin que desea comprar
-* el método(s) de pago que el Comprador está dispuesto y puede utilizar
-* las monedas que el Comprador está dispuesto y puede enviar
+The Buyer will provide a Bitcoin address to which they can receive Bitcoin, should this buy offer result in a trade. This address can be automatically provided by the built-in Peach wallet, or the buyer can provide an address from an external wallet.
 
-El Comprador proporcionará una dirección de Bitcoin a la que puede recibir Bitcoin, en caso de que esta oferta de compra resulte en un intercambio. Esta dirección puede ser proporcionada automáticamente por la billetera Peach incorporada, o el comprador puede proporcionar una dirección de una billetera externa.
+Sell offers will only be shown to Buyers that placed a Buy offer which is eligible to match; meaning that the amount that the Seller has sent to the escrow lies within the range the buyer has indicated, and there is at least one Currency / Payment Method pair that both users have selected. 
 
-Las ofertas de venta solo se mostrarán a los Compradores que hayan realizado una oferta de Compra que sea elegible para coincidir; lo que significa que la cantidad que el Vendedor ha enviado al fideicomiso se encuentra dentro del rango que el comprador ha indicado, y hay al menos una pareja de Moneda / Método de Pago que ambos usuarios han seleccionado.
+The Peach service will offer the Buyer all eligible Sell offers matching their preferences. By accepting (matching) a Seller's offer, the Buyer agrees to be bound by the terms and conditions of that offer (Currency and Payment method). When the offers match with more than one currency and or Payment Method the Buyer can indicate which match they would like to match.
 
-El servicio Peach ofrecerá al Comprador todas las ofertas de Venta elegibles que coincidan con sus preferencias. Al aceptar (coincidir) una oferta del Vendedor, el Comprador acepta estar sujeto a los términos y condiciones de esa oferta (Moneda y Método de Pago). Cuando las ofertas coinciden con más de una moneda y/o Método de Pago, el Comprador puede indicar cuál coincidencia le gustaría seleccionar.
+**The price of the trade, the currency and the payment method used for the trade are locked at the moment that the Buyer matches a specific sell offer**, based on market price and premium set in the Sell offer. The matching Buy offer for that specific Sell offer is then communicated to the user that placed that respective Sell offer.
 
-**El precio del intercambio, la moneda y el método de pago utilizado para el intercambio se bloquean en el momento en que el Comprador coincide con una oferta de venta específica**, según el precio de mercado y la prima establecida en la oferta de Venta. La oferta de Compra coincidente para esa oferta de Venta específica se comunica al usuario que realizó esa oferta de Venta respectiva.
+Payment details entered in Peach are only shared to the Buyer in a contract (Offer matched by Buyer and Double matched by Seller). This communication is end-to-end encrypted and for the Buyer only.
 
-Los detalles de pago ingresados en Peach solo se comparten con el Comprador en un contrato (Oferta coincidente por el Comprador y Doble coincidencia por el Vendedor). Esta comunicación está encriptada de extremo a extremo y solo es para el Comprador.
+In accordance with Swiss law, trades without KYC are regulated to a limit of CHF1000/day and CHF100'000/year. Once this limit has been reached, you will not be able to make any new trades.
 
-De acuerdo con la ley suiza, los intercambios sin KYC están regulados hasta un límite de CHF1000/día y CHF100'000/año. Una vez alcanzado este límite, no podrá realizar nuevos intercambios.
+As a security measure, the first two trades are limited to CHF 50.
 
-Como medida de seguridad, los dos primeros intercambios están limitados a CHF 50.
+**Peach reserves the right to delete offers at its discretion.** Generally, it will delete offers if they appear to be unlawful, non-genuine, fraudulent, or are otherwise incorrect.
 
-**Peach se reserva el derecho de eliminar ofertas a su discreción**. En general, se eliminarán las ofertas si parecen ser ilegales, no auténticas, fraudulentas o de alguna otra manera incorrectas.
+## 5. Trades
 
-## 5. Intercambios
+Any user can use Peach to create either a buy or sell offer. As described in section 4, the Seller sets the initial criteria for a match. A Buyer can then select which sell offers he wishes to see by creating his own buy offer with the preferred criteria. The Buyer can match as many sell offers as he wishes; a trade is established with the first Seller that matches him back. At that point in time, the fiat amount to be sent to the Seller is determined. Both offers are then taken out of the marketplace, and both parties agree to bring the trade to completion according to its conditions. Should either party not adhere to any of the conditions, a dispute can be raised, as described in section 9. 
 
-Cualquier usuario puede usar Peach para crear una oferta de compra o venta. Como se describe en la sección 4, el Vendedor establece los criterios iniciales para una coincidencia.
+By matching (as Buyer) and doublematching (as Seller), both parties agree to be bound by the terms and conditions of that offer, which includes dispute resolution as described in section 9.
 
-Luego, un Comprador puede seleccionar las ofertas de venta que desea ver creando su propia oferta de compra con los criterios preferidos. El Comprador puede coincidir con tantas ofertas de venta como desee; se establece un intercambio con el primer Vendedor que le haga coincidir. En ese momento, se determina la cantidad de dinero fiduciario que se enviará al Vendedor. Ambas ofertas se eliminan del mercado, y ambas partes acuerdan llevar a cabo el intercambio de acuerdo con sus condiciones. Si alguna de las partes no cumple con alguna de las condiciones, se puede plantear una disputa, como se describe en la sección 9.
+The Buyer is responsible to assure that the amount and currency requested by the Seller is made available to the Seller via the Payment method specified in the matched offer.
 
-Al coincidir (como Comprador) y doble coincidir (como Vendedor), ambas partes aceptan estar sujetas a los términos y condiciones de esa oferta, que incluye la resolución de disputas según se describe en la sección 9.
+We do not have any bank accounts that hold users' funds, nor do we facilitate or escrow any local currency payments between Buyers and Sellers.
 
-El Comprador es responsable de asegurarse de que la cantidad y la moneda solicitadas por el Vendedor estén disponibles para el Vendedor a través del método de pago especificado en la oferta coincidente.
+Bitcoin trades are conducted via the Bitcoin network, which we cannot and do not control. When a Seller sends BTC to fund a sell offer, the Seller transfers BTC directly to an escrow script on the public Bitcoin blockchain. The escrow transaction output can only be redeemed by the Buyer or Seller. Peach cannot access BTC held in escrow as per the code of the Bitcoin escrow script.
 
-No tenemos ninguna cuenta bancaria que contenga los fondos de los usuarios, ni facilitamos ni retenemos pagos en moneda local entre Compradores y Vendedores.
+## 6. Communication between parties
 
-Los intercambios de Bitcoin se realizan a través de la red de Bitcoin, que no podemos y no controlamos. Cuando un Vendedor envía BTC para financiar una oferta de venta, el Vendedor transfiere BTC directamente a un script de fideicomiso en la cadena de bloques pública de Bitcoin. La salida de transacción de fideicomiso solo puede ser redimida por el Comprador o el Vendedor. Peach no puede acceder a los BTC retenidos en fideicomiso según el código del script de fideicomiso de Bitcoin.
+Peach users can communicate over the Peach platform when there is a double match and thus a contract created.
 
-## 6. Comunicación entre las partes
+All communication made between Buyers and Sellers on Peach is end-to-end encrypted with a symmetrical key specific to the contract that has been created (as described in section 3). No third parties, including us, have the technical ability to decipher and/or read these messages unless we are given the shared secret to do so by one party by raising a dispute as described in section 9. The history of the chat will be made available for arbitration only. Once a dispute is settled the chat is once again made private between the two parties.
 
-Los usuarios de Peach pueden comunicarse a través de la plataforma Peach cuando hay una doble coincidencia y, por lo tanto, se crea un contrato.
+**It is the responsibility of a user to make and keep adequate records of communications, details of transactions and financial history to the extent that they are required to do so in their jurisdiction.**
 
-Toda la comunicación realizada entre Compradores y Vendedores en Peach está encriptada de extremo a extremo con una clave simétrica específica para el contrato que se ha creado (como se describe en la sección 3). Ninguna tercera parte, incluyéndonos a nosotros, tiene la capacidad técnica de descifrar y/o leer estos mensajes a menos que se nos proporcione el secreto compartido para hacerlo por una de las partes al plantear una disputa, como se describe en la sección 9. El historial del chat estará disponible solo para el arbitraje. Una vez que se resuelve una disputa, el chat vuelve a ser privado entre las dos partes.
+Once a user loses the shared secret used to encrypt the messages, that conversation inaccessible and considered lost.
 
-**Es responsabilidad del usuario realizar y mantener registros adecuados de comunicaciones, detalles de transacciones e historial financiero en la medida en que se les requiera hacerlo en su jurisdicción.**
+You must not be engage in communication with other Peach users which is offensive, abusive, unlawful, defamatory, indecent or inappropriate.
 
-Una vez que un usuario pierde el secreto compartido utilizado para encriptar los mensajes, esa conversación se vuelve inaccesible y se considera perdida.
+You acknowledge that we are unable to provide you with any other information about the identity of another Peach user other than what is made available to you via the Peach application.
 
-No debes participar en comunicación con otros usuarios de Peach que sea ofensiva, abusiva, ilegal, difamatoria, indecente o inapropiada.
+## 7. Terms of the transaction
 
-Reconoces que no podemos proporcionarte ninguna otra información sobre la identidad de otro usuario de Peach que no sea la que está disponible para ti a través de la aplicación Peach.
+Once a trader and Seller match their offers, the trade should proceed in accordance with the terms as both Buyer and the Seller matched. This will normally involve the following steps:
 
-## 7. Términos de la transacción
+* The Buyer makes the payment in the matched currency,
+* the Buyer claims the payment is made by pressing the Payment Made button,
+* once the payment is received in full, the Seller confirms this by clicking the confirm payment button,
+* the bitcoin is then automatically released from the escrow and sent to the Bitcoin address that the Buyer indicated in their Buy Offer,
+* both users rate their counterparty
 
-Una vez que un comerciante y un Vendedor hacen coincidir sus ofertas, el intercambio debe proceder de acuerdo con los términos a los que tanto el Comprador como el Vendedor han coincidido. Esto normalmente implicará los siguientes pasos:
+If the Buyer does not claim that the payment is made within the defined time period, the escrow may be cancelled by the Seller. The Buyer may cancel the escrow at any time.
 
-* El Comprador realiza el pago en la moneda coincidente,
-* el Comprador afirma que se ha realizado el pago al presionar el botón Pago Realizado,
-* una vez que se recibe el pago completo, el Vendedor confirma esto haciendo clic en el botón Confirmar Pago,
-* luego, los bitcoins se liberan automáticamente del fideicomiso y se envían a la dirección de Bitcoin que el Comprador indicó en su oferta de Compra,
-* ambos usuarios califican a la contraparte.
+Sales between Buyers and Sellers are subject to:
 
-Si el Comprador no afirma que se ha realizado el pago dentro del período de tiempo definido, el fideicomiso puede ser cancelado por el Vendedor. El Comprador puede cancelar el fideicomiso en cualquier momento.
+* the payment of Peach' fee
+* the process for resolving disputes
+* the terms of the match, which constitute an agreement between the Buyer and the Seller in regards to: amount of bitcoin, price, payment method and currency
 
-Las ventas entre Compradores y Vendedores están sujetas a:
+## 8. Security
 
-* el pago de la tarifa de Peach
-* el proceso de resolución de disputas
-* los términos de la coincidencia, que constituyen un acuerdo entre el Comprador y el Vendedor con respecto a: la cantidad de bitcoin, el precio, el método de pago y la moneda.
+You must comply with all reasonable security requirements prescribed from time to time by Peach.
 
-## 8. Seguridad
+## 9. Disputes
 
-Debes cumplir con todos los requisitos de seguridad razonables prescritos por Peach de vez en cuando.
+The contract of sale is between the Seller and the Buyer. Accordingly, the parties are required to first try their best efforts to resolve the dispute between themselves. If the parties can not agree on a resolution, either party may raise a dispute and thus involve a Peach arbitrator.
 
-## 9. Disputas
+Raising a dispute and the outcome of a dispute will impact the users Peach reputation, as an incentive to 'play fair' and not harassing other users by raising disputes lightly.
 
-El contrato de venta es entre el Vendedor y el Comprador. En consecuencia, se requiere que las partes hagan su mejor esfuerzo para resolver la disputa entre ellos. Si las partes no pueden ponerse de acuerdo en una solución, cualquiera de las partes puede plantear una disputa e involucrar a un mediador de Peach.
+A Buyer can raise a dispute for many reasons, including, but not limited to:
 
-Plantear una disputa y el resultado de una disputa afectará la reputación del usuario en Peach, como incentivo para "jugar limpio" y no acosar a otros usuarios planteando disputas sin motivo.
+* **Escrow not released by the Seller** - the Buyer has made the payment, but the Seller claims they didn't receive the payment or that there are issues with the payment and refuses to release the escrow
+* **Unresponsive Seller** – the Seller does not respond to the Buyer's messages
+* **Inappropriate behavior** - the Seller is rude, abusive or shows signs of being a malicious actor
 
-Un Comprador puede plantear una disputa por muchas razones, que incluyen, pero no se limitan a:
+A Seller can raise a dispute for many reasons, including, but not limited to:
 
-* **Fideicomiso no liberado por el Vendedor** - el Comprador ha realizado el pago, pero el Vendedor afirma que no ha recibido el pago o que hay problemas con el pago y se niega a liberar el fideicomiso.
-* **Vendedor sin respuesta** - el Vendedor no responde a los mensajes del Comprador.
-* **Comportamiento inapropiado** - el Vendedor es grosero, abusivo o muestra signos de ser un actor malicioso.
+* **No payment received** – The Buyer claims the payment is made, but the Seller has not received the payment
+* **Received wrong payment amount** – the Buyer sent a payment, but not the agreed upon amount
+* **Other payment errors** – the Buyer sent a payment, but not with the agreed upon details, on the correct payment method or in the proper timeframe
+* **Buyer is unresponsive** – the Buyer does not respond to the Seller's messages
+* **Inappropriate behavior** – the Buyer is rude, abusive or shows signs of being a malicious actor
 
-Un Vendedor puede plantear una disputa por muchas razones, que incluyen, pero no se limitan a:
+The party that opens a dispute will share their digital signature with Peach, allowing the mediator to decrypt the communication between the Buyer and the Seller.
 
-* **Pago no recibido** - El Comprador afirma que se realizó el pago, pero el Vendedor no ha recibido el pago.
-* **Monto de pago incorrecto recibido** - el Comprador envió un pago, pero no el monto acordado.
-* **Otros errores de pago** - el Comprador envió un pago, pero no con los detalles acordados, en el método de pago correcto o dentro del plazo adecuado.
-* **Comprador sin respuesta** - el Comprador no responde a los mensajes del Vendedor.
-* **Comportamiento inapropiado** - el Comprador es grosero, abusivo o muestra signos de ser un actor malicioso.
+By using the Peach application, you agree that, in case a dispute is raised, Peach gains access to your conversation and all other information required, including the payment details for the disputed contract by Peach to resolve the dispute for as long as the Dispute takes. You agree to provide any evidence of payment or proof that payment has not been received correctly by showing the overview for the matched Payment method, for the period in which the payment was claimed to be made.
 
-La parte que abre una disputa compartirá su firma digital con Peach, lo que permitirá al mediador descifrar la comunicación entre el Comprador y el Vendedor.
+Peach will determine a winner of the dispute at its own discretion, based on the evidence provided by both parties. The escrow will be released to this party after at most 30 days.
 
-Al utilizar la aplicación Peach, aceptas que, en caso de que se plantee una disputa, Peach tenga acceso a tu conversación y a toda la información requerida, incluidos los detalles de pago del contrato en disputa, para resolver la disputa durante el tiempo que dure la disputa. Aceptas proporcionar cualquier evidencia de pago o prueba de que el pago no se ha recibido correctamente mostrando la descripción general del método de pago coincidente, para el período en el que se afirmó que se realizó el pago.
+Parties must respond to Peach' requests for information promptly, **at most within 24 hours**. If a party does not respond to a request within this timeframe, Peach may decide at any point to resolve the dispute in favor of the other party.
 
-Peach determinará un ganador de la disputa a su propia discreción, basándose en la evidencia proporcionada por ambas partes. El fideicomiso se liberará a esta parte después de un máximo de 30 días.
+The parties agree that, except in cases of gross negligence or fraud, **Peach' decision is conclusive, final and binding** on both parties and there is no appeal from such decision. Peach will have no liability to either a Buyer or a Seller in connection with its decisions.
 
-Las partes deben responder a las solicitudes de información de Peach de manera oportuna, **como máximo dentro de las 24 horas**. Si una de las partes no responde a una solicitud dentro de este plazo Peach puede decidir en cualquier momento resolver la disputa a favor de la otra parte.
+Once a dispute is logged, a hash of the IP and other data will temporarily be stored for as long as the dispute is open. When an arbitrator regards the behavior of one of both parties as an attempt to defraud the counterparty, or as showing unwanted behavior, the dispute might result in a ban for the offending user. To this end a hash of the data will be stored, in order to avoid the possibility of the banned user to create another account.
 
-Las partes acuerdan que, excepto en casos de negligencia grave o fraude, **la decisión de Peach es concluyente, final y vinculante** para ambas partes y no cabe apelación contra dicha decisión. Peach no tendrá ninguna responsabilidad con respecto a sus decisiones, ya sea para un Comprador o un Vendedor.
+This process for resolving disputes is incorporated in all contracts between buyers and sellers arranged through Peach.
 
-Una vez que se registra una disputa, se almacenará temporalmente un hash de la dirección IP y otros datos mientras la disputa esté abierta. Cuando un mediador considere que el comportamiento de una o ambas partes es un intento de defraudar a la otra parte o muestra un comportamiento no deseado, la disputa podría resultar en la prohibición del usuario infractor. Con este fin, se almacenará un hash de los datos para evitar la posibilidad de que el usuario prohibido cree otra cuenta.
+## 10. Peach fees
 
-Este proceso para resolver disputas está incorporado en todos los contratos entre compradores y vendedores realizados a través de Peach.
+Any contract successfully finished through the Peach platform will be subject to a fee; 2% of the total amount sent out of the escrow will be sent to a bitcoin address controlled by Peach. The remaining funds will be sent to the address indicated by the Buyer, minus any bitcoin transaction fees.
 
-## 10. Tarifas de Peach
+## 11. Taxes
 
-Cualquier contrato finalizado con éxito a través de la plataforma de Peach estará sujeto a una tarifa; el 2% del monto total enviado fuera del fideicomiso se enviará a una dirección de bitcoin controlada por Peach. Los fondos restantes se enviarán a la dirección indicada por el Comprador, menos cualquier tarifa de transacción de bitcoin.
+Peach does not assume responsibility for any taxes due. Buyers and Sellers are fully responsible for determining which taxes apply to the transaction and paying them.
 
-## 11. Impuestos
+Peach must be reimbursed for any claim, loss or damage arising from your failure to pay applicable taxes.
 
-Peach no asume responsabilidad por los impuestos adeudados. Los Compradores y Vendedores son totalmente responsables de determinar qué impuestos se aplican a la transacción y pagarlos.
+## 12. Account suspension
 
-Peach debe ser reembolsado por cualquier reclamo, pérdida o daño que surja de tu falta de pago de los impuestos correspondientes.
+We may deny any user access to our services for any reason, including but not limited to:
 
-## 12. Suspensión de cuenta
+* You are using the Peach platform to scam other users, or for any other unlawful purpose
+* You are sending offensive, abusive, unlawful, defamatory, indecent or otherwise inappropriate messages to other users
+* Any change in law that adversely affects Peach' operating model or would make it unlawful to continue the service
 
-Podemos negar a cualquier usuario el acceso a nuestros servicios por cualquier motivo, incluyendo, pero no limitado a:
+If a user is suspended as a result of losing a dispute raised by another user, Peach will keep encoded references (hashes) of the suspended user's data. These hashes will be used to deny any account that is using the same data access to the Peach app.
 
-* Estás utilizando la plataforma de Peach para estafar a otros usuarios o con cualquier otro propósito ilegal.
-* Estás enviando mensajes ofensivos, abusivos, ilegales, difamatorios, indecentes o inapropiados a otros usuarios.
-* Cualquier cambio en la ley que afecte adversamente al modelo operativo de Peach o que haga que el servicio sea ilegal.
+The hashed data includes all of the user's payment data and their device ID. This hash is a reference to the data, but not the data itself. It allows the system to flag users using the same data, without knowing the actual data itself.
 
-Si un usuario es suspendido como resultado de perder una disputa planteada por otro usuario, Peach mantendrá referencias codificadas (hashes) de los datos del usuario suspendido. Estos hashes se utilizarán para denegar el acceso a cualquier cuenta que esté utilizando los mismos datos a la aplicación de Peach.
+After suspension of your account, you are entitled to access to the local data on your phone, however you may not use the Peach platform to interact with any other user.
 
-Los datos hash incluyen todos los datos de pago del usuario y su ID de dispositivo. Este hash es una referencia a los datos, pero no a los datos en sí. Permite al sistema detectar a los usuarios que utilizan los mismos datos sin conocer los datos reales.
+## 13. Compliance with laws
 
-Después de la suspensión de tu cuenta, tienes derecho a acceder a los datos locales en tu teléfono, pero no puedes utilizar la plataforma de Peach para interactuar con ningún otro usuario.
+Although our website and services may be accessed outside of Switzerland, we make no claim that our services comply with the laws of any other country. All users of our services from outside Switzerland, are solely responsible for ensuring compliance with their local laws.
 
-## 13. Cumplimiento de las leyes
+By using any of our services or products, the user warrants that this use is in compliance with all applicable laws and regulations of both Switzerland and the jurisdiction that he is in.
 
-Aunque nuestro sitio web y servicios pueden ser accesibles desde fuera de Suiza, no afirmamos que nuestros servicios cumplan con las leyes de ningún otro país. Todos los usuarios de nuestros servicios que se encuentren fuera de Suiza son los únicos responsables de garantizar el cumplimiento de las leyes locales.
+## 14. Risks associated with dealing with other users
 
-Al utilizar cualquiera de nuestros servicios o productos, el usuario garantiza que dicho uso cumple con todas las leyes y regulaciones aplicables tanto de Suiza como de la jurisdicción en la que se encuentre.
+Bitcoin transfers are irreversible. If a user sends bitcoin to an incorrect address or otherwise makes a mistake in transfering funds over the bitcoin network, they, nor Peach, can reverse the transaction, and the funds will be lost. As such, **the user assumes full responsibility for any transfers made via the Peach platform**.
 
-## 14. Riesgos asociados con la interacción con otros usuarios
+## 15. Disclaimer of warranties
 
-Las transferencias de Bitcoin son irreversibles. Si un usuario envía Bitcoin a una dirección incorrecta o comete algún error al transferir fondos a través de la red de Bitcoin, ni ellos ni Peach pueden revertir la transacción, y los fondos se perderán. Por lo tanto, **el usuario asume la plena responsabilidad de cualquier transferencia realizada a través de la plataforma de Peach**.
+Peach is only a matchmaking service, and, to the maximum extent permissible by law, is not responsible for any actions of its users. This includes, without limitation, representations by any users regarding funds (bitcoin or local currency) having been transferred or any claims of ownership of funds.
 
-## 15. Exención de garantías
+To the maximum extent permitted by law, Peach does not guarantee the quality or fitness for purpose of its services. Our services and products are provided on an "as is" and "as available" basis and their use is at the user's sole risk. Although we strive to make our services available at all times, we do not make any claims as to the availability of the services.
 
-Peach es solo un servicio de intermediación y, en la máxima medida permitida por la ley, no es responsable de las acciones de sus usuarios. Esto incluye, sin limitarse a ello, las representaciones de cualquier usuario con respecto a la transferencia de fondos (Bitcoin o moneda local) o cualquier reclamación de propiedad de los fondos.
+To the maximum extent permitted by law, we make no guarantees to the safety, reliability, availability or longevity of any of the data we store. The user's private data will be stored locally on their own phone, while the publically available data (e.g. buy or sell offers) will be stored on the Peach servers. The user is solely responsible for their own data.
 
-En la máxima medida permitida por la ley, Peach no garantiza la calidad o aptitud para un fin específico de sus servicios. Nuestros servicios y productos se proporcionan "tal cual" y "según disponibilidad", y su uso es responsabilidad exclusiva del usuario. Aunque nos esforzamos por mantener nuestros servicios disponibles en todo momento, no realizamos ninguna afirmación sobre la disponibilidad de los servicios.
+## 16. Third party integrations
 
-En la máxima medida permitida por la ley, no ofrecemos garantías sobre la seguridad, confiabilidad, disponibilidad o duración de los datos que almacenamos. Los datos privados de los usuarios están almacenados en sus propios dispositivos, mientras los datos públicos (p.e. ofertas de compra y venta) serán almacenados en los servidores de Peach. El usuario es el único responsable de sus propios datos.
+The Peach may incorporate, reference or provide access to third-party services. Peach is not the owner, operator or licensor of these third-party services, and Peach shall not be responsible for any consequences stemming from the use of a third-party service.
 
-## 16. Integraciones de terceros
+The use of any third-party service is subject to separate terms and conditions issued by the respective third-party service provider. It is each users' responsibility to review the terms and policies of a third-party service provider before deciding to use such a service.
 
-Peach puede incorporar, referenciar o proporcionar acceso a servicios de terceros. Peach no es el propietario, operador ni licenciante de estos servicios de terceros, y Peach no será responsable de las consecuencias derivadas del uso de un servicio de terceros.
+Third parties used by Peach:
+- Cloudflare
+- ProtonMail
+- Brevo (only for mailing list subscribers)
+- Firebase & Google Analytics (opt-in)
 
-El uso de cualquier servicio de terceros está sujeto a los términos y condiciones separados emitidos por el proveedor de servicios de terceros correspondiente. Es responsabilidad de cada usuario revisar los términos y políticas de un proveedor de servicios de terceros antes de decidir utilizar dicho servicio.
+## 17. Limitation of liability and indemnity
 
-## 17. Limitación de responsabilidad e indemnización
+You indemnify Peach and hold Peach unaccountable for all loss, claims, actions, liability, damage, costs, expenses and penalties resulting directly or indirectly from:
 
-Indemnizas a Peach y mantienes a Peach indemne de toda pérdida, reclamo, acción, responsabilidad, daño, costos, gastos y sanciones resultantes directa o indirectamente de:
+* any actions performed not following these terms of service
+* any unauthorized use of your Peach account
+* act or omission (including any negligence, unlawful conduct, willful misconduct or fraud) by you in relation to your use of any products or services provided by Peach
+* any third party claim against us in relation to your use of any products or services provided by Peach
+* any action taken by Peach as a result of a request made by you, in respect of your account, trade or dispute
+* any lack of action or delay on your part in respect of any dispute, including not responding to a request for information by us within the timeframe laid out in clause 9 (Disputes)
+* any failure by you to comply with any reasonable recommendation made by Peach
+* any actions or inactions of third party service providers
 
-* cualquier acción realizada que no cumpla con estos términos de servicio
-* cualquier uso no autorizado de tu cuenta de Peach
-* acto u omisión (incluyendo cualquier negligencia, conducta ilegal, conducta intencional o fraude) por tu parte en relación con tu uso de cualquier producto o servicio proporcionado por Peach
-* cualquier reclamación de terceros contra nosotros en relación con tu uso de cualquier producto o servicio proporcionado por Peach
-* cualquier acción tomada por Peach como resultado de una solicitud realizada por ti, en relación con tu cuenta, transacción o disputa
-* cualquier falta de acción o retraso por tu parte en relación con cualquier disputa, incluida la falta de respuesta a una solicitud de información por parte nuestra dentro del plazo establecido en la cláusula 9 (Disputas)
-* cualquier incumplimiento por tu parte de cualquier recomendación razonable realizada por Peach
-* cualquier acción o inacción de los proveedores de servicios de terceros
+## 18. Applicable law and language
 
-## 18. Ley aplicable e idioma
+These Service Terms are governed by the laws of **Neuchâtel, Switzerland**. These Service Terms may be translated into other languages, however the official language of these terms is English. Translations may not accurately represent the information communicated in the English language. The English version of these terms takes precedent over any translations.
 
-Estos Términos de Servicio se rigen por las leyes de **Neuchâtel, Suiza**. Estos Términos de Servicio pueden ser traducidos a otros idiomas, sin embargo, el idioma oficial de estos términos es el inglés. Las traducciones pueden no representar con precisión la información comunicada en el idioma inglés. La versión en inglés de estos términos tiene prioridad sobre cualquier traducción.
+## 19. Changes to these terms
 
-## 19. Cambios en estos términos
+We reserve the right to update, replace or otherwise change any part of these Service Terms at our sole discretion, by posting updates and changes to our website. If you do not agree to the changes, your only remedy is to discontinue the use of our products and services.
 
-Nos reservamos el derecho de actualizar, reemplazar o cambiar cualquier parte de estos Términos de Servicio a nuestra sola discreción, mediante la publicación de actualizaciones y cambios en nuestro sitio web. Si no estás de acuerdo con los cambios, tu único recurso es dejar de utilizar nuestros productos y servicios.
+While we will strive to notify our users of any changes, it is your sole responsibility to check our website periodically for changes. Your continued use of the services following the posting of any changes to these Service Terms constitutes acceptance of those changes.
 
-Si bien nos esforzaremos por notificar a nuestros usuarios sobre cualquier cambio, es tu única responsabilidad verificar periódicamente nuestro sitio web en busca de cambios. Tu uso continuado de los servicios después de la publicación de cualquier cambio en estos Términos de Servicio constituye la aceptación de dichos cambios.
+## 20. Entire understanding
 
-## 20. Comprensión total
+These Service Terms contain the entire understanding between the parties as to the subject matter of this terms.
 
-Estos Términos de Servicio contienen la comprensión completa entre las partes en relación con el tema de estos términos.
+## 21. Contact
 
-## 21. Contacto
-
-Si tienes alguna pregunta, comentario, consultas u otra correspondencia, puedes contactar a Peach por correo electrónico a [$contactEmail$](mailto:$contactEmail$)
+If you have any questions, comments, concerns or other correspondence, Peach can be contacted via email on [$contactEmail$](mailto:$contactEmail$)
