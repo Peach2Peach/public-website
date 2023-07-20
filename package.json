@@ -21,7 +21,7 @@
     "start:data": "onchange -k 'blog/**/*' 'content/**/*' 'tasks/generate_site_data.js' -- npm run build:data",
     "start:pages": "onchange -i -k 'site-data.json' 'pug.config.js' 'helpers.js' 'src/**/*.pug' 'tasks/generate_pages.js' -- npm run build:pages",
     "start:serve": "browser-sync start --config browser-sync.config.js --watch",
-    "build:static": "mkdir -p dist/blog && cp -r static/* dist",
+    "build:static": "mkdir -p dist/blog && cp -r static/* dist && cp static/.well-known dist",
     "build:data": "node tasks/generate_site_data.js",
     "build:icons": "node tasks/generate_icon_sprite.js",
     "build:pages": "node tasks/generate_pages.js",
