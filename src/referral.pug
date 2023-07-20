@@ -1,0 +1,8 @@
+extends /template.pug
+
+block append vars
+  - const hasTeaser = true
+
+block teaser
+  section.teaser
+    != html.teaser
