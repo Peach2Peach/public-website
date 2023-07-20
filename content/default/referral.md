@@ -22,7 +22,7 @@ Sign up using referral code: <span id="referral-code"><span> and receive a signu
 Or click this button from your mobile device:
 <div class="buttons">
   <p>
-    <a id="referral-code-button" href="https://peachbitcoin.page.link/?link=https%3A%2F%2Fpeachbitcoin.com%2F%3Freferral%3DREFERRAL">Get signup bonus!</a>
+    <a id="referral-code-button" href="https://peachbitcoin.page.link/?link=https%3A%2F%2Fpeachbitcoin.com%2Freferral%3Fcode%3DREFERRAL">Get signup bonus!</a>
   </p>
 </div>
 
