@@ -1,0 +1,27 @@
+[{
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.peachbitcoin.peach.mainnet",
+      "sha256_cert_fingerprints": [
+        "0B:AD:31:61:35:F3:C2:F5:17:F2:76:FD:AB:7E:3A:C0:55:24:E2:B3:6E:FD:B0:D2:43:DC:2A:72:4E:28:60:A2",
+        "F7:B5:B1:12:B2:68:F4:77:5A:91:26:BA:5E:C6:6D:A0:5F:16:4C:E6:64:C6:D8:EF:05:1F:45:9E:79:C0:CF:20"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.peachbitcoin.peach",
+      "sha256_cert_fingerprints": [
+        "FA:34:7A:E3:C4:70:FB:80:FC:84:C8:AC:AC:F5:E7:FE:34:88:21:75:B2:E0:40:C1:95:1C:60:15:C0:03:D1:E7",
+        "0B:AD:31:61:35:F3:C2:F5:17:F2:76:FD:AB:7E:3A:C0:55:24:E2:B3:6E:FD:B0:D2:43:DC:2A:72:4E:28:60:A2"
+      ]
+    }
+  }
+]
