@@ -18,7 +18,7 @@ Download the app for free and start trading right away! We won't ask you to uplo
 
 
 ### Step 2: Signup using the referral code
-Sign up using referral code: <span id="referral-code"><span> and receive a signup bonus.
+Sign up using referral code: <span id="referral-code"></span> and receive a signup bonus.
 
 <!--Or click this button from your mobile device:
 <div class="buttons">
