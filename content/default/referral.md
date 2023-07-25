@@ -44,8 +44,8 @@ Sign up using referral code: <span id="referral-code"></span> and receive a sign
       window.location.href = window.location.origin
     } else {
       var $refCode = document.getElementById('referral-code')
-      var $button = document.getElementById('referral-code-button')
+      //var $button = document.getElementById('referral-code-button')
       $refCode.innerText = code.toUpperCase()
-      $button.href = $button.href.replace('REFERRAL', code.toUpperCase())
+      //$button.href = $button.href.replace('REFERRAL', code.toUpperCase())
     }
 </script>
