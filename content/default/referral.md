@@ -16,15 +16,16 @@ Download the app for free and start trading right away! We won't ask you to uplo
 [Download APK on Android](/apk/)
 :::
 
+
 ### Step 2: Signup using the referral code
 Sign up using referral code: <span id="referral-code"><span> and receive a signup bonus.
 
-Or click this button from your mobile device:
+<!--Or click this button from your mobile device:
 <div class="buttons">
   <p>
     <a id="referral-code-button" href="https://peachbitcoin.page.link/?link=https%3A%2F%2Fpeachbitcoin.com%2Freferral%3Fcode%3DREFERRAL">Get signup bonus!</a>
   </p>
-</div>
+</div>-->
 
 <script>
   function getParameterByName(name, url) {
