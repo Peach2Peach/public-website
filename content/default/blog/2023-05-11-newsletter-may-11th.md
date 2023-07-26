@@ -19,8 +19,8 @@ description: |
   result of his work, his time and energy.
   Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
 ---
-# Newsletter April 27th
-## Peach 0.2 launched
+# Newsletter May 11th
+## High fees monkeys
 
 ![peachy peach bitcoin gif](/img/blog/newsletter/gif-peach.gif)
 
