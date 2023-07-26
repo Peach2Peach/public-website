@@ -43,7 +43,7 @@ With our Peach reputation system, we’re making it easy to judge if a peer can 
 
 Reputation in this digital era may end up being even more important than identity, so in case you are using Peach, don't hesitate to be friendly with your trading partners, cause they can decide wether they liked trading with you or not, and that can have an impact in your future trades!
 
-Actually, don't hesitate in being friendly with everyone who crosses your life path. Bitcoin brought us a tool to do good. Let's spread abundance around us instead of the hate mindset that fiat and this high consumist model brought into our world. Let's make trusting other worth it again.
+Actually, don't hesitate in being friendly with everyone who crosses your life path. Bitcoin brought us a tool to do good. Let's spread abundance around us instead of the hate mindset that fiat and this high consumerism model brought into our world. Let's make trusting each other worth it again.
 
 ---
 
