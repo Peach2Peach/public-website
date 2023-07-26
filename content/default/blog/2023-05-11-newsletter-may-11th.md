@@ -13,7 +13,7 @@ keywords:
   - newsletter
 tags:
   - Newsletter
-previewImage: /img/blog/newsletter/peach-1x.png
+previewImage: /img/blog/newsletter/mail-post.jpg
 description: |
   Bitcoin is money for free people. We believe that every single human being has the right to choose which money he uses to store his wealth, the
   result of his work, his time and energy.
