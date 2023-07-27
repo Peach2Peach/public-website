@@ -20,8 +20,8 @@ description: |
   Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
 
 ---
-# Newsletter July 6th
-## Earn Sats with Apollo!
+# Newsletter July 27th
+## Peaches have a strong core
 
 ![peachy peach bitcoin gif](/img/blog/newsletter/gif-peach.gif)
 
