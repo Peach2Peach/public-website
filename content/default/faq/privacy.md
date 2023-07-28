@@ -15,12 +15,6 @@ For a full breakdown, please see our [privacy policy](/privacy-policy/).
 \* A hash is some data that was made unrecognizable, similar to encrypting it. The same data will always lead to the same hash. This means we don't know what the data is, but we will be able to spot if the same data is used twice.
 :::
 
-<!--
-:::details What info is sent when I share usage data?
-Give a list
-:::
--->
-
 :::details Who can see my payment details?
 
 Only your counterparty can see your payment details; they are sent via the Peach servers, but are fully end to end encrypted (like with most chat apps) so that we cannot see what they are.
