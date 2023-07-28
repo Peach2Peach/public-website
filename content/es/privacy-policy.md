@@ -1,5 +1,5 @@
 ---
-template: text
+template: page
 ---
 # Privacy Policy
 
@@ -138,13 +138,14 @@ We share your information with the following parties:
 
 * #### Service providers
 
-    We do not sell your information, and never will. We only share your data with third parties to help use, provide and improve our Services. We strictly limit how our partners can use and disclose the data we provide. We share your data with the following parties:
+    We do not sell your information, and never will. We only use third parties to help, provide and improve our Services. We strictly limit how our partners can use and disclose the data we provide. We share your data with the following parties:
 
   * **ProtonMail**: For our email communications we use "ProtonMail". We may share your email and nickname with this service.
   * **Zammad**: For customer support we use "Zammad". We may share your email address with this service.
   * **Sendinblue**: For marketing emails and registering early access users, we use "Sendinblue". We may share your email address with this service.
   * **Firebase** (opt-in): To monitor for and fix crashes, we give you the option to send a crash report after a crash. In case you choose to send this report, we use the "Firebase" service to collect and analyze the crash logs. You can find what information is collected [here](https://firebase.google.com/support/privacy/#examples-end-user-data-processed-by-firebase); we use Firebase Cloud Messaging and Firebase Crashlytics.
   * **Firebase & Google Analytics** (opt-in): When you allow Peach to send usage data, we use "Firebase" & "Google Analytics" service to collect the data we use in behavioral statistics. Your IP address may be included in the data provided to Firebase.
+  * **Cloudflare**
 
 ### 4.3 Disputes
 

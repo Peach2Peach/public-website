@@ -34,6 +34,11 @@ Si vous en avez une que vous souhaitez utiliser mais qui ne figure pas dans la l
 - DKK
 - NOK
 - PLN
+- BGN
+- CZK
+- HUF
+- ISK
+- RON
 
 ---
 
@@ -41,7 +46,7 @@ Si vous en avez une que vous souhaitez utiliser mais qui ne figure pas dans la l
 
 - :payment-cash: Espèces
 
-Découvrez tous les [meetups disponibles](/for-meetups/) pour échanger du Bitcoin contre des espèces !
+Découvrez tous les [meetups disponibles](/fr/for-meetups/) pour échanger du Bitcoin contre des espèces !
 
 ---
 

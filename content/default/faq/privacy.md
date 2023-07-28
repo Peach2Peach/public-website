@@ -4,11 +4,11 @@
 
 We strive to store the absolute minimum amount of data on our users as we can. As a quick overview, this is what we have on our servers:
 
-- A hash\* of your phone's ID
+- A hash\* of your app unique ID (AdID)
 - A hash of your payment data
 - Your encrypted chats
 - The data of your trades (which type of payment method you're using, how much you're buying, etc.)
-- Usage data, if you agreed to this
+- Usage data (Firebase & Google Analytics), **if you agreed to this**
 
 For a full breakdown, please see our [privacy policy](/privacy-policy/).
 

@@ -2,6 +2,7 @@ const en = require('./translations/en.json')
 const es = require('./translations/es.json')
 const fr = require('./translations/fr.json')
 const de = require('./translations/de.json')
+const it = require('./translations/it.json')
 
 
 const properties = {
@@ -9,6 +10,7 @@ const properties = {
   es,
   fr,
   de,
+  it,
 }
 
 /**

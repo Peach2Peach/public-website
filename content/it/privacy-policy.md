@@ -19,7 +19,7 @@ Having data about how our app is used is very valuable for improving it. Sharing
 
 This page explains which types of information Peach collects of its users during the use of its products and services, and how this information is used.
 
-When we speak of  "Peach",  "we",  "us"  or  "our",  we mean Peach S.A.R.L and its representatives. Peach Sàrl is a company registered, organized and existing under the laws of Switzerland, under company registration number CHE-158.025.408 whose registered office is at:
+When we speak of  "Peach",  "we",  "us"  or  "our",  we mean Peach S.A.R.L and its representatives. Peach Sàrl is a company registered, organized and existing under the laws of Switzerland, under company registration number CHE-158.025.408 whose registered office is at:
 
 Rue des Beaux-Arts 8<br>
 c/o LEAX Avocats Sàrl<br>
@@ -138,7 +138,7 @@ We share your information with the following parties:
 
 * #### Service providers
 
-    We do not sell your information, and never will. We only share your data with third parties to help use, provide and improve our Services. We strictly limit how our partners can use and disclose the data we provide. We share your data with the following parties:
+    We do not sell your information, and never will. We only use third parties to help, provide and improve our Services. We strictly limit how our partners can use and disclose the data we provide. We share your data with the following parties:
 
   * **ProtonMail**: For our email communications we use "ProtonMail". We may share your email and nickname with this service.
   * **Zammad**: For customer support we use "Zammad". We may share your email address with this service.

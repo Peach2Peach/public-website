@@ -90,7 +90,7 @@ To be able to make use of Peach you will enter information relating to the trade
 
 #### Usage data
 
-Having data about how our app is used is very useful in improving the user experience; but this is always an opt-in feature. The data is collected in Google Firebase & Google Analytics. You can toggle sharing usage data on/off in Settings > About Peach > Diagnostics. The following data is shared when you opt-in:
+Having data about how our app is used is very useful in improving the user experience; but this is always an **opt-in** feature. The data is collected in Google Firebase & Google Analytics. **You can toggle sharing usage data on/off in Settings > About Peach > Diagnostics**. The following data is shared when you opt-in:
 
   * Technical device stats, like your OS and screen size
   * Demographics information, like your country
@@ -145,6 +145,7 @@ We share your information with the following parties:
   * **Sendinblue**: For marketing emails and registering early access users, we use "Sendinblue". We may share your email address with this service.
   * **Firebase** (opt-in): To monitor for and fix crashes, we give you the option to send a crash report after a crash. In case you choose to send this report, we use the "Firebase" service to collect and analyze the crash logs. You can find what information is collected [here](https://firebase.google.com/support/privacy/#examples-end-user-data-processed-by-firebase); we use Firebase Cloud Messaging and Firebase Crashlytics.
   * **Firebase & Google Analytics** (opt-in): When you allow Peach to send usage data, we use "Firebase" & "Google Analytics" service to collect the data we use in behavioral statistics. Your IP address may be included in the data provided to Firebase.
+  * **Cloudflare**: Our servers connect to cloudflare for DDoS protection and security.
 
 ### 4.3 Disputes
 
