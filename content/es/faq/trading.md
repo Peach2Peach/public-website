@@ -72,3 +72,15 @@ Estaremos trabajando en el soporte xpub muy pronto, pero por ahora, deberás cam
 El precio de Bitcoin que mostramos es un agregado del precio de Bitcoin en varias exchanges centralizadas.
 :::
 
+:::details ¿Cómo acelerar transacciones atascadas debido a comisiones de minería demasiado bajas?
+
+Depende del tipo de transacciones de las que estemos hablando. Aquí hay una lista de todas las transacciones que pueden ocurrir en Peach y sus soluciones para aumentar las comisiones: 
+1. Transacción para financiar el depósito en garantía para publicar una oferta de venta
+> Si depositáste fondos desde la billetera Peach, puedes hacer RBF (Replace By Fee, aumentar la comisión) en la transacción.
+> Si depositáste fondos desde una billetera externa, debe verificar si la billetera admite RBF para aumentar las tarifas de la red.
+2. Liberar transacción del depósito en garantía (comprar Bitcoin)
+> Si su dirección de recepción es de la billetera Peach, puede retirar el monto total a una billetera externa suya con tarifas más altas (Configuración > comisiones de red) - Técnica CPFP (Child Pays for Parent)
+> Si su dirección de recepción proviene de una billetera externa, también puede realizar la técnica CPFP si es compatible con su billetera.
+3. Enviar transacción desde la cartera de Peach a otra cartera
+> Puede usar RBF (Replace-By-Fee) desde su Peach Wallet en los detalles de su transacción!
+:::
