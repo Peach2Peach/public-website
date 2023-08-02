@@ -76,13 +76,13 @@ The BTC price we show on Peach is an aggregate of the BTC price on centralised e
 It depends what type of transactions we are talking about. Here is a list of all transactions that can happen in Peach and their solutions to bump fees:
 
 1. Transaction for funding the escrow to publish a sell offer
-> If you funded the escrow from the Peach wallet, you can RBF (Replace-By-Fee) the transaction and pump the fees
-> If you funded the escrow from an external wallet, you need to check if the wallet supports RBF (Replace-By-Fee) to increase the network fees.
+- If you funded the escrow from the Peach wallet, you can RBF (Replace-By-Fee) the transaction and pump the fees
+- If you funded the escrow from an external wallet, you need to check if the wallet supports RBF (Replace-By-Fee) to increase the network fees.
 
 2. Release transaction from the escrow (buying Bitcoin)
-> If your receiving address is from the Peach wallet, then you can withdraw the total amount to an external wallet of yours with higher fees (Settings > Network fees) - CPFP technique
-> If your receiving address is from an external wallet, you can also do the CPFP technique if it’s supported by your wallet
+- If your receiving address is from the Peach wallet, then you can withdraw the total amount to an external wallet of yours with higher fees (Settings > Network fees) - CPFP technique
+- If your receiving address is from an external wallet, you can also do the CPFP technique if it’s supported by your wallet
 
 3. Send transaction from the Peach wallet to another wallet
-> RBF (Replace-By-Fee) from the Peach Wallet in your transaction details!
+- RBF (Replace-By-Fee) from the Peach Wallet in your transaction details!
 :::
