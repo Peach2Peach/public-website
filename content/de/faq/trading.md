@@ -67,7 +67,23 @@ Wenn du einen Handel tätigst musst du gemäss Schweizer Gesezt eine Nachricht s
 Wir starten bald an der Xpub-Unterstützung, aber vorerst musst du die Adressen manuell ändern wenn du sie nicht wiederverwenden möchtest.
 :::
 
-:::detail Wie wird der Bitcoin-Preis auf Peach berechnet?
+:::details Wie wird der Bitcoin-Preis auf Peach berechnet?
 
 Der BTC-Preis den wir auf Peach anzeigen ist der durchschnitt des BTC-Handelspreis an zentralisierten Börsen.
+:::
+
+:::details Wie kann man eine Transaktion beschleunigen, die wegen niedriger Mining-Gebühren feststeckt?
+
+Das hängt davon ab, um welche Art von Transaktionen es sich handelt. Hier ist eine Liste aller möglichen Transaktionen in Peach und ihre Lösungen, um die Gebühren zu erhöhen:
+1. Transaktion zum Finanzieren des Treuhandkontos, um ein Verkaufsangebot zu veröffentlichen
+- Wenn du das Treuhandkonto über die Peach-Wallet finanziert hast, kannst du die Transaktion mit RBF (Replace-By-Fee) ändern und die Gebühren erhöhen.
+- Wenn du das Treuhandkonto über eine externe Wallet finanziert hast, musst du überprüfen, ob deine Wallet RBF (Replace-By-Fee) unterstützt, um die Netzwerkgebühren zu erhöhen.
+
+2. Transaktion zur Freigabe des Treuhandkontos (Kauf von Bitcoin)
+- Wenn deine Empfangsadresse von der Peach-Wallet stammt, kannst du den Gesamtbetrag mit höheren Gebühren auf eine externe Wallet von dir abheben (Einstellungen > Netzwerkgebühren) - CPFP-Technik.
+- Wenn deine Empfangsadresse von einer externen Wallet stammt, kannst du auch die CPFP-Technik anwenden, wenn sie von deiner Wallet unterstützt wird.
+
+3. Transaktion von der Peach-Wallet zu einer anderen Wallet
+- Verwende RBF (Replace-By-Fee) in der Transaktionsansicht deiner Peach-Wallet!
+
 :::
