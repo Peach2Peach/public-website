@@ -76,7 +76,7 @@ Il prezzo di BTC che mostriamo su Peach è una media del prezzo di BTC su exchan
 :::details Come sbloccare una transazione ferma a causa delle basse commissioni di rete?
 Dipende dal tipo di transazione di cui stiamo parlando. Ecco un elenco di tutte le transazioni che possono avvenire su Peach e le soluzioni per aumentarne le commissioni:
 
-1. Transazione per finanziare il deposito al fine di pubblicare un'offerta di vemdita:
+1. Transazione per finanziare il deposito al fine di pubblicare un'offerta di vendita:
 - Se hai finanziato il deposito dal Wallet Peach, puoi effettuare RBF (Replace-By-Fee) per incrementare le commissioni di rete.
 - Se hai finanziato il deposito da un wallet esterno, verifica se supporta RBF (Replace-By-Fee) per aumentare le commissioni di rete.
 
