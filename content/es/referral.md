@@ -13,7 +13,7 @@ template: referral
 :::buttons
 [Descargar en iPhone]($iosUrl$)
 [Descargar en Android]($androidUrl$)
-[Descargar APK en Android](/apk/)
+[Descargar APK en Android](/es/apk/)
 :::
 
 ### Paso 2: Crea tu cuenta con el código de referido
