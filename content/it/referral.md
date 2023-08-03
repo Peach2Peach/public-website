@@ -13,7 +13,7 @@ Scarica l'app gratuitamente e inizia a fare scambi subito! Non ti chiederemo mai
 :::buttons
 [Scarica su iPhone]($iosUrl$)
 [Scarica su Android]($androidUrl$)
-[Scarica APK su Android](/apk/)
+[Scarica APK su Android](/it/apk/)
 :::
 
 ### Passo 2: Registrati utilizzando il codice di affiliazione
