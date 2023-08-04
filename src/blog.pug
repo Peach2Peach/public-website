@@ -9,7 +9,7 @@ block main
         != html
         .content-wrap.tags
           each tag in siteData.tags
-            if tag.lang === lang
+            if (tag.lang === lang || (lang === 'en' && !tag.lang))
               a(href=getUrl(`/${tag.permalink}`, lang))= tag.tag
     .content-wrap.posts
       each post in (posts || siteData.posts)
