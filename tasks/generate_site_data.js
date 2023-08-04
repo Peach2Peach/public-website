@@ -51,6 +51,7 @@ languages.forEach(language => {
         const name = `tag-${slug}`
         res[slug] = res[slug] || Object.assign({}, blogPage, { permalink, tag, name, posts: [] })
         res[slug].posts.push(post)
+        if (language !== 'default') res[slug].lang = language
       })
     }
     return res
