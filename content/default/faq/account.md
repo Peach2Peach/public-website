@@ -51,7 +51,7 @@ When you make a Peach account, you'll automatically get a referral code. When ot
 
 - A custom referral code (100 points)
 - 5x trading without paying any Peach fees (200 points)
-- Convert your points into sats (starting at 300 point, 25 sats per point)
+- Convert your points into sats (starting at 300 point, 10.5 sats per point)
 
 When someone uses your referral code, that person starts off with a gift of 100 Peach points themselves!
 :::
