@@ -1,6 +1,6 @@
 # Κατεβάστε το APK (αρχείο εγκατάστασης)
 
-:::κουμπιά
+:::buttons
 [Λήψη Universal APK]($apkUniversalUrl$)
 [Λήψη ARM64-v8 APK]($apkArm64v8Url$)
 :::
