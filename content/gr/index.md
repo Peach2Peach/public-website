@@ -1,5 +1,5 @@
 ---
-πρότυπο: ευρετήριο
+template: index
 ---
 <!--[teaser]-->
 # Peach Bitcoin
@@ -8,7 +8,7 @@
 
 <div class="inner-wrap">
 
-:::πλήκτρα
+:::buttons
 [Download on iPhone]($iosUrl$)
 [Download on Android]($androidUrl$)
 [Download APK on Android](/apk/)
