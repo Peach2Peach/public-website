@@ -1,6 +1,6 @@
 ---
-τίτλος: Πώς λειτουργεί
-πρότυπο: Πώς_λειτουργεί
+title: How it works
+template: how_it_works
 ---
 <!--[teaser]-->
 ![Αγοράστε και πουλήστε Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
@@ -14,7 +14,7 @@
 
 Κατεβάστε δωρεάν την εφαρμογή και ξεκινήστε αμέσως τις συναλλαγές! Δεν θα σας ζητήσουμε να ανεβάσετε την ταυτότητά σας ή να βγάλετε μια selfie με το δίπλωμα οδήγησής σας.
 
-:::πλήκτρα
+:::buttons
 [Download on iPhone]($iosUrl$)
 [Download on Android]($androidUrl$)
 :::
