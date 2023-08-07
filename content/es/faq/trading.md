@@ -72,6 +72,10 @@ Estaremos trabajando en el soporte xpub muy pronto, pero por ahora, deberás cam
 El precio de Bitcoin que mostramos es un agregado del precio de Bitcoin en varias exchanges centralizadas.
 :::
 
+:::details ¿Por qué el precio de Bitcoin puede variar tanto para monedas bajo alta inflación?
+En casos de monedas que sufren una alta inflación, su precio tiene una gran volatilidad, por lo que el precio puede diferir mucho dependiendo de la fuente dónde sea consultado. En el caso de peach el precio es un agregado de varias exchanges, con lo que intentamos paliar la volatilidad para nuestros usuarios.
+:::
+
 :::details ¿Cómo acelerar transacciones atascadas debido a comisiones de minería demasiado bajas?
 
 Depende del tipo de transacciones de las que estemos hablando. Aquí hay una lista de todas las transacciones que pueden ocurrir en Peach y sus soluciones para aumentar las comisiones: 
