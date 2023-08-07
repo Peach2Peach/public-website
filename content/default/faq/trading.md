@@ -73,8 +73,8 @@ The BTC price we show on Peach is an aggregate of the BTC price on centralised e
 :::
 
 :::details What happens with the price of currencies under high inflation such as Argentina, Venezuela, etc. ?
-Currencies under high inflation suffer from high volatility, hence the price you find in difference exchanges may differ. Peach gives the price according to an aggregate of the BTC price from different sources.
 
+Currencies under high inflation suffer from high volatility, hence the price you find in difference exchanges may differ. Peach gives the price according to an aggregate of the BTC price from different sources.
 :::
 
 :::details How to bump a transaction that is stuck because of low mining fees?
