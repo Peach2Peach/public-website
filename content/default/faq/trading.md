@@ -72,6 +72,11 @@ We'll be working on xpub support very soon, but for now, you'll need to manually
 The BTC price we show on Peach is an aggregate of the BTC price on centralised exchanges.
 :::
 
+:::details What happens with the price of currencies under high inflation such as Argentina, Venezuela, etc. ?
+Currencies under high inflation suffer from high volatility, hence the price you find in difference exchanges may differ. Peach gives the price according to an aggregate of the BTC price from different sources.
+
+:::
+
 :::details How to bump a transaction that is stuck because of low mining fees?
 It depends what type of transactions we are talking about. Here is a list of all transactions that can happen in Peach and their solutions to bump fees:
 
