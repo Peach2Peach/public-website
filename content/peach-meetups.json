@@ -630,9 +630,27 @@
     "latitude": 50.0902913
   },
   {
-    "name": "Satoshi Spritz Unterfranken",
+    "name": "Einundzwanzig Unterfranken",
     "url": "https://einundzwanzig.space/meetups/",
     "longitude": 9.8917959,
     "latitude": 50.022585
+  },
+  {
+    "name": "Malta Bitcoin Hub",
+    "url": "https://t.me/bitcoinmaltahub",
+    "longitude": 14.4476911,
+    "latitude": 35.8885993
+  },
+  {
+    "name": "Kent Bitcoin",
+    "url": "https://kentbitcoin.com",
+    "longitude": 0.5231646,
+    "latitude": 51.2748258
+  },
+  {
+    "name": "Bitcoin Alps",
+    "url": "http://www.bitcoin-alps.ch/",
+    "longitude": 7.6236,
+    "latitude": 46.7554
   }
 ]
