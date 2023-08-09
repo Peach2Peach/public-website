@@ -15,10 +15,12 @@ tags:
   - How To
 previewImage: /img/blog/lightning.jpeg
 description: |
-  Bitcoin is money for free people. We believe that every single human being has the right to choose which money he uses to store his wealth, the
-  result of his work, his time and energy.
+  Bitcoin is money for free people. We believe that every single human being has the right to choose which money he uses to store his 
+  wealth, the result of his work, his time and energy.
   Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
 ---
+# LN <-> On-Chain Swaps, by @swissnode
+## Why Peach and Submarine swaps are a match made in heaven
 
 I have been quite vocal in my support for Peach and have even put a few sats where my mouth is after being convinced nearly two years ago about the brilliance of what Peach has to offer the Bitcoin community: a simple way for the simple stacker to stack his or her sats without the need to identify themself to a platform in order to do so.
 
