@@ -9,9 +9,9 @@ template: index
 <div class="inner-wrap">
 
 :::buttons
-[Download on iPhone]($iosUrl$)
-[Download on Android]($androidUrl$)
-[Download APK on Android](/gr/apk/)
+[Λήψη για iPhone]($iosUrl$)
+[Λήψη για Android]($androidUrl$)
+[Κατεβάστε το αρχείο APK για Android](/gr/apk/)
 :::
 
 ![](/img/phones.png)
