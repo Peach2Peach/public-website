@@ -15,8 +15,8 @@ template: how_it_works
 Κατεβάστε δωρεάν την εφαρμογή και ξεκινήστε αμέσως τις συναλλαγές! Δεν θα σας ζητήσουμε να ανεβάσετε την ταυτότητά σας ή να βγάλετε μια selfie με το δίπλωμα οδήγησής σας.
 
 :::buttons
-[Download on iPhone]($iosUrl$)
-[Download on Android]($androidUrl$)
+[Λήψη για iPhone]($iosUrl$)
+[Λήψη για Android]($androidUrl$)
 :::
 
 <!--[payment_methods]-->
