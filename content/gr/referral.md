@@ -11,9 +11,9 @@ template: referral
 
 ### Βήμα 1: Εγκατάσταση της εφαρμογής
 :::buttons
-[Download on iPhone]($iosUrl$)
-[Download on Android]($androidUrl$)
-[Download APK on Android](/apk/)
+[Λήψη για iPhone]($iosUrl$)
+[Λήψη για Android]($androidUrl$)
+[Κατεβάστε το αρχείο APK για Android](/gr/apk/)
 :::
 
 ### Βήμα 2: Εγγραφείτε χρησιμοποιώντας τον κωδικό σύστασης (referral code)
