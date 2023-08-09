@@ -7,7 +7,7 @@
   padding: var(--space-xs) var(--space-l);
   cursor: pointer;
   outline: none;
-  text-transform: uppercase;
+/*  text-transform: uppercase; */
   text-decoration: none;
   font-weight: var(--font-weight-semibold);
   font-family: var(--font-family-base);
