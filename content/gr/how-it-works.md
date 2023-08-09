@@ -5,7 +5,7 @@ template: how_it_works
 <!--[teaser]-->
 ![Αγοράστε και πουλήστε Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
 
-### Συσσωρεύστε sats<span>κάθε μέρα</span>!
+### Συσσωρεύστε sats <span>κάθε μέρα</span>!
 
 **Αγορά και Πώληση έως 1000 CHF ανά ημέρα και 100'000 CHF ανά έτος.**
 
