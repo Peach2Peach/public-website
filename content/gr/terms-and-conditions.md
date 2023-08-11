@@ -1,5 +1,6 @@
 ---
 template: text
+lang: gr
 ---
 # Terms & Conditions
 
