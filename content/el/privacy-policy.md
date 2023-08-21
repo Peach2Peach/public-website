@@ -1,6 +1,6 @@
 ---
 template: text
-lang: gr
+lang: el
 ---
 # Privacy Policy
 
