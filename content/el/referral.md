@@ -13,7 +13,7 @@ template: referral
 :::buttons
 [Λήψη για iPhone]($iosUrl$)
 [Λήψη για Android]($androidUrl$)
-[Κατεβάστε το αρχείο APK για Android](/gr/apk/)
+[Κατεβάστε το αρχείο APK για Android](/el/apk/)
 :::
 
 ### Βήμα 2: Εγγραφείτε χρησιμοποιώντας τον κωδικό σύστασης (referral code)
