@@ -652,5 +652,119 @@
     "url": "http://www.bitcoin-alps.ch/",
     "longitude": 7.6236,
     "latitude": 46.7554
+  },
+  {
+    "name": "Dvadesetjedan Montenegro - Podgorica",
+    "url": "https://t.me/dvadesetjedan21",
+    "longitude": 19.2621081,
+    "latitude": 42.4415238
+  },
+  {
+    "name": "Bitcoin Association Switzerland",
+    "url": "https://www.meetup.com/de-DE/bitcoin-meetup-switzerland/",
+    "longitude": 8.5410422,
+    "latitude": 47.3744489
+  },
+  {
+    "name": "Free Madeira Bitcoin Meetup",
+    "url": "https://t.me/freemadeira",
+    "longitude": -16.9817487,
+    "latitude": 32.7517501
+  },
+  {
+    "name": "Einundzwanzig Oldenburg",
+    "url": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg?l=de",
+    "longitude": 8.2146017,
+    "latitude": 53.1389753
+  },
+  {
+    "name": "Madrid Bitcoin Tuesdays",
+    "url": "https://t.me/madridmeetup",
+    "longitude": -3.7035825,
+    "latitude": 40.4167047
+  },
+  {
+    "name": "Goma Bitcoin Meetup",
+    "url": "https://twitter.com/kiveclair",
+    "longitude": 29.225652,
+    "latitude": -1.6665685
+  },
+  {
+    "name": "Kinshasa Bitcoin Meetup",
+    "url": "https://twitter.com/BitcoinJamii",
+    "longitude": 15.3125974,
+    "latitude": -4.3217055
+  },
+  {
+    "name": "Lubumbashi Bitcoin Meetup",
+    "url": "https://twitter.com/BitcoinJamii",
+    "longitude": 27.4826264,
+    "latitude": -11.6642316
+  },
+  {
+    "name": "Abidjan Bitcoin Meetup",
+    "url": "https://t.me/AbidjanBitcoinMeetup",
+    "longitude": -4.016107,
+    "latitude": 5.320357
+  },
+  {
+    "name": "BitDevs Lagos",
+    "url": "http://discord.gg/Kn4hTKjAv2",
+    "longitude": 3.3941795,
+    "latitude": 6.4550575
+  },
+  {
+    "name": "BitDevs Abuja",
+    "url": "https://twitter.com/BitDevsAbuja",
+    "longitude": 7.4892974,
+    "latitude": 9.0643305
+  },
+  {
+    "name": "Trezor Academy Nigeria",
+    "url": "#",
+    "longitude": 7.4892874,
+    "latitude": 9.0643205
+  },
+  {
+    "name": "BitDevs Accra",
+    "url": "https://twitter.com/bitdevsAccra",
+    "longitude": -0.2012376,
+    "latitude": 5.5571096
+  },
+  {
+    "name": "BitDevs Johannesburg",
+    "url": "https://bitdevs.joburg",
+    "longitude": 28.049722,
+    "latitude": -26.205
+  },
+  {
+    "name": "BitDevs Nairobi",
+    "url": "https://www.bitdevsnbo.org/",
+    "longitude": 36.8172449,
+    "latitude": -1.2832533
+  },
+  {
+    "name": "Kiveclair - Congo",
+    "url": "https://twitter.com/kiveclair",
+    "longitude": 23.8222636,
+    "latitude": -2.9814344
+  },
+  {
+    "name": "Bitcoin Jamii - Congo",
+    "url": "https://twitter.com/BitcoinJamii",
+    "longitude": 23.8222736,
+    "latitude": -2.9814444
+  },
+  {
+    "name": "Bitcoin Abidjan Community - Côte d'Ivoire",
+    "url": "https://t.me/AbidjanBitcoinMeetup",
+    "longitude": -5.5679458,
+    "latitude": 7.9897371
+  },
+  {
+    "name": "Calabar BitDevs Community",
+    "url": "https://chat.whatsapp.com/IamWImVfrT2AhMx4TinfSO",
+    "longitude": 8.3373597,
+    "latitude": 4.9795999
   }
 ]
