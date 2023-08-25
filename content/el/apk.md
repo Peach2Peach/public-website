@@ -1,4 +1,4 @@
-# Κατεβάστε το APK (αρχείο εγκατάστασης)
+# Κατεβάστε το αρχείο εγκατάστασης APK
 
 :::buttons
 [Λήψη Universal APK]($apkUniversalUrl$)
