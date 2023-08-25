@@ -93,7 +93,7 @@ It depends what type of transactions we are talking about. Here is a list of all
 :::
 
 :::details What is GroupHug?
-GroupHug is simply the term we’ve given to the action of batching transactions from different users to avoid fees for each one of them. For a more detailed explanation, check out our blog post (hiperlink to the blog post attached).
+GroupHug is simply the term we’ve given to the action of batching transactions from different users to avoid fees for each one of them. For a more detailed explanation, check out our [blog post](https://peachbitcoin.com/blog/group-hug).
 :::
 
 :::details If I have a single buy offer running it will be released immediately?
