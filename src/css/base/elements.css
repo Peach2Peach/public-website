@@ -489,7 +489,7 @@ blockquote {
 
 blockquote:before {
   color: var(--color-neutral-10);
-  content: open-quote;
+  content: "“";
   font-size: 5rem;
   line-height: 0;
   margin-right: var(--space-xs);
