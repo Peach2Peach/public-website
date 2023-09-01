@@ -14,8 +14,7 @@ template: index
 [Download APK on Android](/apk/)
 :::
 
-![](/img/phones.png)
-
+![✔ verifiable source code](/img/phones.png)
 </div>
 
 <!--[top]-->
