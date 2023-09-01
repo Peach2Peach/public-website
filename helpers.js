@@ -113,6 +113,19 @@ const config = {
           : '</div>\n'
       }
     }],
+    ['markdown-it-container', 'columns', {
+      validate (params) {
+        return params.trim().match(/^columns\s+(\d+)$/)
+      },
+      render (tokens, idx) {
+        const { info, nesting } = tokens[idx]
+        const isOpening = nesting === 1
+        const [, count] = info.trim().match(/^columns\s+(.*)$/) || []
+        return isOpening
+          ? `<div class="columns columns--${count}">\n`
+          : '</div>\n'
+      }
+    }],
     ['markdown-it-container', 'details', {
       validate (params) {
         return params.trim().match(/^details\s+(.*)$/)

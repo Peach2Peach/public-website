@@ -14,7 +14,7 @@ template: index
 [Κατεβάστε το αρχείο APK για Android](/el/apk/)
 :::
 
-![](/img/phones.png)
+![✔ επαληθέσιμος πηγαίος κώδικας](/img/phones.png)
 
 </div>
 
