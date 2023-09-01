@@ -33,7 +33,7 @@ So, why are we spilling the code beans now? Here's the scoop:
 
 **3. No More Blind Trust:** Trust falls are fun, but not when it comes to bitcoin apps. By sharing our code, we're letting you double-check that we're sticking to our promises. You're in control, and that's the way it should be.
 
-Oh and we are also [Making our Peach-API Public](/blog/2023-09-01-making-our-peach-api-public.md). So if you want to skip the app altogether and use our API directly, you can [find our documentation here](https://docs.peachbitcoin.com/#introduction).
+Oh and we are also [Making our Peach-API Public](/blog/making-our-peach-api-public). So if you want to skip the app altogether and use our API directly, you can [find our documentation here](https://docs.peachbitcoin.com/#introduction).
 So, here's to this new adventure! The Peach App is taking its first open source steps, and you're right here with us. It's not a full transformation, but it's a step that's filled with collaboration, transparency, and a lot of that sweet Peach charm.
 
 Big thanks for sticking by us. Let's make the Peach App's next chapter the juiciest one yet!
