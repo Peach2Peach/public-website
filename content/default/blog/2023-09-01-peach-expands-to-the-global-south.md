@@ -2,6 +2,10 @@
 keywords:
   - Latin America
   - Africa
+  - Bitcoin
+  - P2P
+  - p2p
+  - peer to peer
 tags:
   - Company
 previewImage: /img/blog/peach-expands-to-the-global-south/map.png
