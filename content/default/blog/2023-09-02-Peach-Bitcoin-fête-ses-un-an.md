@@ -40,3 +40,7 @@ Pour citer un de nos co-fondateurs : "Certaines personnes rejoindront Peach parc
 À une époque où le monde financier aspire à davantage de contrôle et que les forces centralisées tentent d’envahir l'espace Bitcoin, nous tenons à souligner que la liberté reste à portée de main. Peach Bitcoin est à vos côtés dans ce combat, défendant chaque Satoshi contre tout contrôle par des intermédiaires.
 
 **Peach 0.3 n’attend que vous.**
+
+---
+
+Post author: [@gloireKW](https://twitter.com/GloireKW)
