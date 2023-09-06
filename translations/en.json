@@ -40,5 +40,7 @@
   "mailing.list.optin": "I accept receiving Peach emails and I do accept the terms found in the",
   "mailing.list.unsubscribe": "You can unsubscribe at any moment through one of our emails.",
   "mailing.list.subscribe.button": "Subscribe",
-  "mailing.list.privacypolicy": "Privacy Policy"
+  "mailing.list.privacypolicy": "Privacy Policy",
+  "github": "Github",
+  "api": "API Docs"
 }
