@@ -8,6 +8,7 @@ keywords:
   - peer to peer
 tags:
   - Company
+  - French
 previewImage: /img/blog/peach-expands-to-the-global-south/map.png
 description: |
   Peach Bitcoin fête ses un an: Nouveautés éblouissantes et… Cap vers le Sud!
