@@ -3,7 +3,7 @@ template: text
 ---
 # Privacy Policy
 
-This privacy policy was last updated on **May 5th, 2023**
+This privacy policy was last updated on **Sep 7th, 2023**
 
 ## 0. Summary
 
@@ -41,6 +41,8 @@ You must read this Privacy Policy together with any other privacy notice or fair
 ## 2. General
 
 If you choose to use our products and services, then you agree to the collection and use of information as described this policy. As we think privacy is very important, we strive to collect as little data about you as we can, though we need to collect some data to make our services work. We will not use or share your information with anyone except as described in this Privacy Policy.
+
+Some parts of our code are Open Source under the MIT licenses. They include the Peach App frontend (MIT-CC) and GroupHug.
 
 If you do not agree with the Privacy Policy, you should refrain from using our services.
 
