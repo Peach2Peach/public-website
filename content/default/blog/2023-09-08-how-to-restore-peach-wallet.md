@@ -15,8 +15,8 @@ description: |
 Your seed phrase, often called a recovery or mnemonic phrase, is a vital key to securing your Bitcoin wallet.
 Every modern Bitcoin wallet allows you to see this seed phrase at least once. It's often 12 or 24 words long. If a wallet doesn't allow you to see the seed phrase, it's most likely a custodial wallet and you might want to consider moving away from it.
 
-
 Here's a quick guide to help you get it, protect it and recover your bitcoin from it:
+
 ## Write Down Your Seed Phrase (12 Words)
 As you set up your Bitcoin wallet, whether it's Peach Wallet, Blue Wallet, or Sparrow, you'll receive a valuable asset – your seed phrase.
 
@@ -58,7 +58,7 @@ However, you won't be able to recover your payment data and even encrypted data 
 
 
 ### BlueWallet
-BlueWallet is a popular mobile wallet. It's simple to use yet power with many wallet features added.
+BlueWallet is a popular mobile wallet. It's simple to use yet powerful with many wallet features added.
 
 :::figures 4
 ![1. Go to Add Wallet and click on "Import wallet"](/img/blog/restore-peach-wallet-from-seed/bluewallet-1-add-wallet.jpeg)
