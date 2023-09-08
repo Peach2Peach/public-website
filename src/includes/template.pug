@@ -4,7 +4,7 @@ block vars
   - const pageTitle = title && title != siteData.meta.title ? `${title} · ${siteData.meta.title}` : `${siteData.meta.title} · ${siteData.meta.tagline}`
   - const pageDescription = description || siteData.meta.description
   - const pageKeywords = keywords || siteData.meta.keywords
-  - const pageCard = cardImage || teaser || siteData.meta.cardImage
+  - const pageCard = previewImage || cardImage || teaser || siteData.meta.cardImage
   - const themeColor = siteData.meta.themeColor
 
 <!DOCTYPE html>
