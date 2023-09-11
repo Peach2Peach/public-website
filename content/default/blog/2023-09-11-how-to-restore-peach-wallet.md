@@ -46,6 +46,13 @@ Remember, your seed phrase is your gateway to your Bitcoin assets, so handle it 
 
 When the time comes to recover your Bitcoin wallet using the seed phrase, follow these general steps. The process is almost identical for most bitcoin wallet. You can recover your seed phrase from any other bitcoin wallet. You don't have to use the Peach app. We will give you 3 examples with: [Peach](https://peachbitcoin.com/), [BlueWallet](https://bluewallet.io/), and [Sparrow](https://www.sparrowwallet.com/).
 
+### In general
+In all cases, you are prompted to enter your seed phrase back into an app, program or hardware wallet. It's best to do this step when nobody could be watching you.
+
+Ideally, you use a hardware wallet which is not directly connected to the internet and cannot be infected with potential malware. We recommend [BitBox](https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc) because it's secure and easy to use.
+
+After you typed in your 12 words. You can quickly verify, you have done it correctly, by checking your balance and transaction history.
+
 ### Peach
 The seed phrase allows you to primarily recover your bitcoin funds. These 12 words even serve as a way to recover your Peach account and even access to bitcoin locked in escrow.
 However, you won't be able to recover your payment data and even encrypted data such as payment data from your trades as well as the chat history.
@@ -91,3 +98,9 @@ The Sparrow Wallet is a powerhouse of a wallet for desktop. It lets you peek und
 ![7. Balance and transaction history should appear after initial sync](/img/blog/restore-peach-wallet-from-seed/sparrow-7-recovered-wallet-in.png)
 
 :::
+
+## Final thoughts
+
+And there you have it, recovery from seed is simple if you follow some basic guidelines.
+
+I do recommend to try the whole process at least once with little money at stake to get comfortable before you secure your life savings.
