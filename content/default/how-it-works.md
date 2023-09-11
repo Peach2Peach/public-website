@@ -23,7 +23,9 @@ Download the app for free and start trading right away! We won't ask you to uplo
 ### Supported payment methods
 
 There are a whole bunch of payment methods you can choose from.<br>
-**If there's another Payment Method you'd like to use, but it isn't listed, [let us know by FILLING THIS FORM](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
+
+**If there's another Payment Method you'd like to use, but it isn't listed, let us know by FILLING**
+<br>[THIS FORM](https://ncxldazr6m4.typeform.com/to/SJljDnae)!
 
 #### Supported Currencies
 
