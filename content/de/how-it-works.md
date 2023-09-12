@@ -23,7 +23,9 @@ Lade die App gratis herunter und starte sofort zuHandeln! Wir werden nicht nach 
 ### Unterstüzte Zahlungsmethoden
 
 Es gibt eine grosse Auswahl an Zahlungsmethoden.<br>
-Wenn deine bevorzugte Zahlungsmethode nicht dabei ist, [Lass es uns wissen](mailto:$contactEmail$?subject=Payment%20method)!
+
+**Falls du eine andere Zahlungsmethode nutzen möchtest, die nicht gelistet ist, sag uns Bescheid und**
+<br><br>**[FÜLLE DIESES FORMULAR AUS!](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
 #### Unterstüzte Währungen
 
