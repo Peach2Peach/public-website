@@ -136,9 +136,8 @@ If you want to know more about Peach features, or read some of our other article
 [Peach x meetups](https://peachbitcoin.com/blog/peach-for-meetups/ )
 
 
+If you want to know more about us, check out or socials, or simply [contact us](mailto:hello@peachbitcoin.com) (use our [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2) if possible) we'll be happy to hear from you!
 
-If you want to know more about us, check out or socials, or simply (contact us)[mailto:hello@peachbitcoin.com] (use our (PGP key)[https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2] if possible) we'll be happy to hear from you!
-
-(Telegram)[https://t.me/+GkOW1J-ixBBkZWRk ], (Discord)[https://discord.gg/ypeHz3SW54 ], (Twitter)[https://twitter.com/peachbitcoin ], (Instagram)[https://instagram.com/peachbitcoin ]
+[Telegram](https://t.me/+GkOW1J-ixBBkZWRk), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
 Keep spreading the Peach word, who knows when you'll find the match of your life!
