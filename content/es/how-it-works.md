@@ -23,7 +23,8 @@ template: how_it_works
 ### Métodos de pago aceptados
 
 Hay un montón de métodos de pago entre los que puedes elegir.<br>
-Si tienes uno que te gustaría usar, pero no está en la lista, [háznoslo saber](mailto:$contactEmail$?subject=Payment%20method)!
+**Si te gustaría que añadamos un nuevo Método de Pago**<br><br>
+**[RELLENA ESTE FORMULARIO](https://ncxldazr6m4.typeform.com/to/SJljDnae)**
 
 #### Monedas admitidas
 
