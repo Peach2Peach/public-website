@@ -23,7 +23,9 @@ Téléchargez gratuitement l'application et commencez à trader immédiatement !
 ### Méthodes de paiement acceptées
 
 Il existe de nombreuses méthodes de paiement parmi lesquelles vous pouvez choisir.<br>
-Si vous en avez une que vous souhaitez utiliser mais qui ne figure pas dans la liste, [faites-le nous savoir](mailto:$contactEmail$?subject=Méthode%20de%20paiement) !
+**Un moyen de paiement n’est pas listé et vous voudriez qu’on l’ajoute? Dites nous en remplissant ce**
+<br><br>
+**[petit formulaire!](https://ncxldazr6m4.typeform.com/to/SJljDnae)**
 
 #### Devises acceptées
 
