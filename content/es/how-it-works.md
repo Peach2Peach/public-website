@@ -53,7 +53,7 @@ Hay un montón de métodos de pago entre los que puedes elegir.<br>
 
 #### Métodos de Pago
 
-En _**[este excel](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/edit?usp=sharing)**_ encontrarás una lista entera de **TODOS LOS MÉTODOS DE PAGO** de la App, así cómo las monedas que soporta cada uno.
+En _**[este excel](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ encontrarás una lista entera de **TODOS LOS MÉTODOS DE PAGO** de la App, así cómo las monedas que soporta cada uno.
 
 Si te gustaría que añadamos un nuevo Método de Pago<br><br>
 **[RELLENA ESTE FORMULARIO](https://ncxldazr6m4.typeform.com/to/SJljDnae)**
