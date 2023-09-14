@@ -56,7 +56,7 @@ Falls du eine andere Zahlungsmethode nutzen möchtest, die nicht gelistet ist, s
 ---
 
 #### Zahlungsmethoden
-Siehe _**[diese Tabelle](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/edit?usp=sharing)**_ um **ALLE UNSERE BEZAHLMETHODEN ZU ENTDECKEN!**
+Siehe _**[diese Tabelle](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ um **ALLE UNSERE BEZAHLMETHODEN ZU ENTDECKEN!**
 
 Falls du eine andere Zahlungsmethode nutzen möchtest, die nicht gelistet ist, sag uns Bescheid und
 <br><br>
