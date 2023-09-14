@@ -139,6 +139,6 @@ _Note: The first 2 steps are useful if you **always** want to receive your funds
 
 _*Disclaimer: not all wallets support the option to sign/verify your address. Peach recommends using Blue Wallet, Sparrow or Samourai as they all offer the sign/verify option._
 
-You can also find a step by step tutorial on how to sign a message using Blue Wallet in our Youtube account: https://youtu.be/d3STuVfFWfQ?si=-M-utlBour8iEuqK
+You can also find a step by step tutorial on how to sign a message using Blue Wallet in our Youtube account: [https://youtu.be/d3STuVfFWfQ](https://youtu.be/d3STuVfFWfQ)
 
 :::
