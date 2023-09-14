@@ -19,7 +19,7 @@ description: |
   result of his work, his time and energy.
   Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
 ---
-# Newsletter May 11th
+# Newsletter September 7
 ## 1 year anniversary
 
 ![peachy peach bitcoin gif](/img/blog/newsletter/gif-peach.gif)
