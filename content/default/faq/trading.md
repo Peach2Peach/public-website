@@ -142,3 +142,8 @@ _*Disclaimer: not all wallets support the option to sign/verify your address. Pe
 You can also find a step by step tutorial on how to sign a message using Blue Wallet in our Youtube account: [https://youtu.be/d3STuVfFWfQ](https://youtu.be/d3STuVfFWfQ)
 
 :::
+
+:::details How to use CPFP to accelerate stuck transactions?
+
+Follow the steps found in this video: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU) to accelerate stuck transactions using CPFP inside the Peach app.
+:::
