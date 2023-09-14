@@ -8,8 +8,9 @@ gtag('config', 'G-TBTST1GYXK');</script></head><body id="faq-privacy"><header cl
 <li>A hash* of your app unique ID (AdID)</li>
 <li>A hash of your payment data</li>
 <li>Your encrypted chats</li>
-<li>The data of your trades (which type of payment method you're using, how much you're buying, etc.)</li>
-<li>Usage data (Firebase & Google Analytics), <strong>if you agreed to this</strong></li>
+<li>The data of the trades to make sure anonymous users do not exceed the trading limit (which type of payment methods are being used, buying and selling amounts)</li>
+<li>Addresses used to send to escrow, and to send from escrow</li>
+<li>Usage data (Firebase & Google Analytics), <strong>only if you agreed to this</strong></li>
 </ul>
 <p>For a full breakdown, please see our <a href="/privacy-policy/">privacy policy</a>.</p>
 <p>* A hash is some data that was made unrecognizable, similar to encrypting it. The same data will always lead to the same hash. This means we don't know what the data is, but we will be able to spot if the same data is used twice.</p>
@@ -53,47 +54,6 @@ gtag('config', 'G-TBTST1GYXK');</script></head><body id="faq-privacy"><header cl
 <p>In the output you should see the following line:</p>
 <pre><code>gpg: Good signature from &quot;hello@peachbitcoin.com &lt;hello@peachbitcoin.com&gt;&quot; [unknown]
 </code></pre>
-</article></details>
-<details id="how-to-sign-an-external-address"><summary><span class="title">How to sign an external address?</span><span class="marker"></span></summary><article>
-<p>Follow this steps to sign the receiving address when buying Bitcoin to an external wallet:</p>
-<p><em>Note: The first 2 steps are useful if you <strong>always</strong> want to receive your funds in external addresses. If you just want to do it once, or you want to sometimes use peach wallet, start from step 3.</em></p>
-<ol>
-<li>Go to settings</li>
-</ol>
-<ul>
-<li>disable peach wallet</li>
-<li>go to payout address</li>
-</ul>
-<ol start="2">
-<li>
-<p>Paste the new receiving address</p>
-</li>
-<li>
-<p>Go through the process to publish your buy offer, and before publishing it, make sure you choose to receive to your external wallet address (click on the upper right little wallet icon on the offer summary screen).</p>
-</li>
-<li>
-<p>Once you confirm your buy offer, the message to sign your address will appear. Copy it and go back to your wallet.</p>
-</li>
-<li>
-<p>Search for the "sign/verify" option* and paste:</p>
-</li>
-</ol>
-<ul>
-<li>your receiving address</li>
-<li>the peach message</li>
-</ul>
-<ol start="6">
-<li>
-<p>Click on sign & the signature will appear. Copy it.</p>
-</li>
-<li>
-<p>Paste the signature on the peach wallet and click on confirm.</p>
-</li>
-<li>
-<p>Your offer is published.</p>
-</li>
-</ol>
-<p><em>*Disclaimer: not all wallets support the option to sign/verify your address. Peach recommends using Blue Wallet, Sparrow or Samourai as they all offer the sign/verify option.</em></p>
 </article></details>
 <details id="is-taproot-supported"><summary><span class="title">Is Taproot supported?</span><span class="marker"></span></summary><article>
 <ul>
