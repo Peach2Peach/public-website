@@ -24,10 +24,6 @@ Download the app for free and start trading right away! We won't ask you to uplo
 
 There are a whole bunch of payment methods you can choose from.<br>
 
-**If there's another Payment Method you'd like to use, but it isn't listed, let us know by filling**
-<br><br>
-**[THIS FORM](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
-
 #### Supported Currencies
 
 - EUR
@@ -58,6 +54,10 @@ There are a whole bunch of payment methods you can choose from.<br>
 #### Available Payment Methods
 
 Take a look at _**[this excel sheet](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/edit?usp=sharing)**_ to discover **ALL OUR PAYMENT METHODS!**
+
+If there's another Payment Method you'd like to use, but it isn't listed, let us know by filling
+<br><br>
+**[THIS FORM](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
 <!--[self_custody]-->
 ### Not your keys, not your coins
