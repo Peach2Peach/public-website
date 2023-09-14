@@ -24,8 +24,9 @@ Lade die App gratis herunter und starte sofort zuHandeln! Wir werden nicht nach 
 
 Es gibt eine grosse Auswahl an Zahlungsmethoden.<br>
 
-**Falls du eine andere Zahlungsmethode nutzen möchtest, die nicht gelistet ist, sag uns Bescheid und**
-<br><br>**[FÜLLE DIESES FORMULAR AUS!](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
+Falls du eine andere Zahlungsmethode nutzen möchtest, die nicht gelistet ist, sag uns Bescheid und
+<br><br>
+**[FÜLLE DIESES FORMULAR AUS!](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
 #### Unterstüzte Währungen
 
@@ -41,61 +42,25 @@ Es gibt eine grosse Auswahl an Zahlungsmethoden.<br>
 - HUF
 - ISK
 - RON
+- TRY
+- ARS
+- COP
+- PEN
+- MXN
+- CLP
+- CRC
+- CFA (XOF)
+- CDF
+- NGN
 
 ---
 
-#### Bargeld
+#### Zahlungsmethoden
+Siehe _**[diese Tabelle](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/edit?usp=sharing)**_ um **ALLE UNSERE BEZAHLMETHODEN ZU ENTDECKEN!**
 
-- :payment-cash: Bargeld
-
-Entdecke alle [Verfügbaren Meetup](/de/for-meetups/) um Bitcoin mit Bargeld zu Handeln!
-
----
-
-#### Bank Überweisung
-
-- :payment-sepa: SEPA / Instant SEPA
-- :payment-fasterpayments: Faster Payments (GBP)
-- :payment-creditcard: Straksbetaling (NOK)
-- :payment-banktransfer: Inland Banküberweisung
-
----
-
-#### Online Wallets
-
-- :payment-advcash: Advcash
-- :payment-paypal: PayPal
-- :payment-revolut: Revolut
-- :payment-wise: Wise
-- :payment-n26: N26
-- :payment-friends24: Friends 24
-- :payment-skrill: Skrill
-- :payment-neteller: Neteller
-- :payment-paysera: Paysera
-
----
-
-#### Inland Möglichkeiten
-
-- :payment-vipps: Norway - Vipps
-- :payment-kekspay: Croatia - KEKS Pay
-- :payment-mobilepay: Denmark, Finland - MobilePay
-- :payment-paylib: France - Paylib
-- :payment-lydia: France - Lydia
-- :payment-satispay: France, Germany, Italy - Satispay
-- :payment-mbway: Portugal - MBWay
-- :payment-bizum: Spain - Bizum
-- :payment-verse: Spain, Italy - Verse
-- :payment-iris: Greece - Iris
-- :payment-blik: Poland - Blik
-- :payment-twint: Switzerland - Twint
-- :payment-swish: Sweden - Swish
-
----
-
-#### Geschenkkarte
-
-- :payment-amazon: Amazon
+Falls du eine andere Zahlungsmethode nutzen möchtest, die nicht gelistet ist, sag uns Bescheid und
+<br><br>
+**[FÜLLE DIESES FORMULAR AUS!](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
 
 <!--[self-custody]-->
