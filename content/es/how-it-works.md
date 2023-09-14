@@ -58,53 +58,6 @@ En _**[este excel](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe
 Si te gustaría que añadamos un nuevo Método de Pago<br><br>
 **[RELLENA ESTE FORMULARIO](https://ncxldazr6m4.typeform.com/to/SJljDnae)**
 
----
-
-#### Transferencia bancaria
-
-- :payment-sepa: SEPA / Instant SEPA
-- :payment-fasterpayments: Faster Payments (GBP)
-- :payment-creditcard: Straksbetaling (NOK)
-- :payment-banktransfer: National Bank Transfer
-
----
-
-#### Monederos en línea
-
-- :payment-advcash: Advcash
-- :payment-paypal: PayPal
-- :payment-revolut: Revolut
-- :payment-wise: Wise
-- :payment-n26: N26
-- :payment-friends24: Friends 24
-- :payment-skrill: Skrill
-- :payment-neteller: Neteller
-- :payment-paysera: Paysera
-
----
-
-#### Opciones Nacionales
-
-- :payment-vipps: Norway - Vipps
-- :payment-kekspay: Croatia - KEKS Pay
-- :payment-mobilepay: Denmark, Finland - MobilePay
-- :payment-paylib: France - Paylib
-- :payment-lydia: France - Lydia
-- :payment-satispay: France, Germany, Italy - Satispay
-- :payment-mbway: Portugal - MBWay
-- :payment-bizum: Spain - Bizum
-- :payment-verse: Spain, Italy - Verse
-- :payment-iris: Greece - Iris
-- :payment-blik: Poland - Blik
-- :payment-twint: Switzerland - Twint
-- :payment-swish: Sweden - Swish
-
----
-
-#### Tarjetas de regalo
-
-- :payment-amazon: Amazon
-
 <!--[self_custody]-->
 ### No tus llaves, no tu dinero
 
