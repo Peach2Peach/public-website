@@ -53,7 +53,7 @@ There are a whole bunch of payment methods you can choose from.<br>
 
 #### Available Payment Methods
 
-Take a look at _**[this excel sheet](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/edit?usp=sharing)**_ to discover **ALL OUR PAYMENT METHODS!**
+Take a look at _**[this excel sheet](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ to discover **ALL OUR PAYMENT METHODS!**
 
 If there's another Payment Method you'd like to use, but it isn't listed, let us know by filling
 <br><br>
