@@ -2,7 +2,7 @@
 template: meetups
 ---
 <!--[headline]-->
-# Integreteme mkutano wako ndani ya Peach
+# Unganisha mkutano wako ndani ya Peach
 
 <!--[intro]-->
 Je! Wewe ni aina ya Bitcoiner anayependa kusafiri kote, lakini daima unahitaji kuuza baadhi ya pesa taslimu kila mahali unapoenda?
