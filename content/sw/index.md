@@ -4,7 +4,7 @@ template: index
 <!--[teaser]-->
 # Peach Bitcoin
 
-## Nunua & Uza Bitcoin <span>mtu-kwa-mtu</span>
+## Nunua & Uuze Bitcoin <span>mtu-kwa-mtu</span>
 
 <div class="inner-wrap">
 
@@ -18,7 +18,7 @@ template: index
 </div>
 
 <!--[top]-->
-## Nunua na Uza Bitcoin, kwa njia unayopenda
+## Nunua na Uuze Bitcoin, kwa njia unayopenda
 
 Peach ni programu ya simu inayounganisha moja kwa moja wanunuzi na wauzaji wa Bitcoin.
 
