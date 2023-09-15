@@ -23,10 +23,6 @@ Pakua programu bila malipo na anza biashara mara moja! Hatutakuuliza kupakia Kit
 
 Kuna njia nyingi za malipo unazoweza kuchagua.<br>
 
-**Ikiwa kuna Njia Nyingine ya Malipo unayotaka kutumia, lakini haipo kwenye orodha, tujulishe kwa kujaza**
-<br><br>
-**[FOMU HII](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
-
 #### Sarafu Zinazoungwa Mkono
 
 - EUR
@@ -41,61 +37,29 @@ Kuna njia nyingi za malipo unazoweza kuchagua.<br>
 - HUF
 - ISK
 - RON
+- TRY
+- ARS
+- COP
+- PEN
+- MXN
+- CLP
+- CRC
+- CFA (XOF)
+- CDF
+- NGN
+- KES
+- ZAR
+- GHS
 
 ---
 
-#### Fedha Taslimu
+#### Malipo Zilizoungwa Mkono
 
-- :malipo-cash: Fedha Taslimu
+Angalia _**[laha hii bora](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ ili kugundua **MBINU ZETU ZOTE ZA MALIPO!**
 
-Tazama [mikutano inayopatikana](/for-meetups/) yote kwa biashara ya Bitcoin kwa fedha taslimu!
-
----
-
-#### Uhamisho wa Benki
-
-- :malipo-sepa: SEPA / SEPA Mara Moja
-- :malipo-fasterpayments: Malipo Haraka (GBP)
-- :malipo-creditcard: Malipo ya Straksbetaling (NOK)
-- :malipo-banktransfer: Uhamisho wa Benki wa Kitaifa
-
----
-
-#### Pochi za Mtandaoni
-
-- :malipo-advcash: Advcash
-- :malipo-paypal: PayPal
-- :malipo-revolut: Revolut
-- :malipo-wise: Wise
-- :malipo-n26: N26
-- :malipo-friends24: Friends 24
-- :malipo-skrill: Skrill
-- :malipo-neteller: Neteller
-- :malipo-paysera: Paysera
-
----
-
-#### Chaguzi za Kitaifa
-
-- :malipo-vipps: Norway - Vipps
-- :malipo-kekspay: Croatia - KEKS Pay
-- :malipo-mobilepay: Denmark, Finland - MobilePay
-- :malipo-paylib: France - Paylib
-- :malipo-lydia: France - Lydia
-- :malipo-satispay: France, Germany, Italy - Satispay
-- :malipo-mbway: Portugal - MBWay
-- :malipo-bizum: Spain - Bizum
-- :malipo-verse: Spain, Italy - Verse
-- :malipo-iris: Greece - Iris
-- :malipo-blik: Poland - Blik
-- :malipo-twint: Switzerland - Twint
-- :malipo-swish: Sweden - Swish
-
----
-
-#### Kadi za Zawadi
-
-- :malipo-amazon: Amazon
+Ikiwa kuna Njia nyingine ya Kulipa ungependa kutumia, lakini haijaorodheshwa, tujulishe kwa kujaza
+<br><br>
+**[FOMU HII](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
 <!--[self_custody]-->
 ### Sio funguo zako, sio sarafu zako
