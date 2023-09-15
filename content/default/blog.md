@@ -1,4 +1,4 @@
 ---
 template: blog
 ---
-# Blog
+# Peach Blog
