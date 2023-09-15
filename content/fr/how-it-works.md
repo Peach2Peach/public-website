@@ -23,9 +23,7 @@ Téléchargez gratuitement l'application et commencez à trader immédiatement !
 ### Méthodes de paiement acceptées
 
 Il existe de nombreuses méthodes de paiement parmi lesquelles vous pouvez choisir.<br>
-**Un moyen de paiement n’est pas listé et vous voudriez qu’on l’ajoute? Dites nous en remplissant ce**
-<br><br>
-**[petit formulaire!](https://ncxldazr6m4.typeform.com/to/SJljDnae)**
+
 
 #### Devises acceptées
 
@@ -41,49 +39,26 @@ Il existe de nombreuses méthodes de paiement parmi lesquelles vous pouvez chois
 - HUF
 - ISK
 - RON
+- TRY
+- ARS
+- COP
+- PEN
+- MXN
+- CLP
+- CRC
+- CFA (XOF)
+- CDF
+- NGN
 
 ---
 
-#### Espèces
+#### Méthodes de paiement acceptées
 
-- :payment-cash: Espèces
+Va voir ce _**[fichier](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ pour découvrir tous nos **MOYENS DE PAIEMENTS!**
 
-Découvrez tous les [meetups disponibles](/fr/for-meetups/) pour échanger du Bitcoin contre des espèces !
-
----
-
-#### Virement bancaire
-
-- :payment-sepa: SEPA / Instant SEPA
-- :payment-fasterpayments: Faster Payments
-
----
-
-#### Portefeuilles en ligne
-
-- :payment-advcash: Advcash
-- :payment-paypal: PayPal
-- :payment-revolut: Revolut
-- :payment-wise: Wise
-
----
-
-#### Options nationales
-
-- :payment-vipps: Norvège - Vipps
-- :payment-mobilepay: Danemark - MobilePay
-- :payment-satispay: Italie - Satispay
-- :payment-mbway: Portugal - MBWay
-- :payment-bizum: Espagne - Bizum
-- :payment-blik: Pologne - Blik
-- :payment-twint: Suisse - Twint
-- :payment-swish: Suède - Swish
-
----
-
-#### Cartes cadeaux
-
-- :payment-amazon: Amazon
+Un moyen de paiement n’est pas listé et vous voudriez qu’on l’ajoute? Dites nous en remplissant ce
+<br><br>
+**[petit formulaire!](https://ncxldazr6m4.typeform.com/to/SJljDnae)**
 
 <!--[self_custody]-->
 ### Pas vos clés, pas vos coins
