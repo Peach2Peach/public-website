@@ -22,7 +22,7 @@ template: index
 
 Peach ni programu ya simu inayounganisha moja kwa moja wanunuzi na wauzaji wa Bitcoin.
 
-Nunua au uza bitcoin mtu-kwa-mtu **popote, wakati wowote**.
+Nunua au uuze bitcoin mtu-kwa-mtu **popote, wakati wowote**.
 
 Tumia njia yako pendwa ya malipo kati ya **[chaguo nyingi](/how-it-works/#payment)**.
 
