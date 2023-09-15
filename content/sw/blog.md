@@ -3,4 +3,4 @@ template: blog
 ---
 # Blog
 
-Actualmente no hay entradas en el blog en español, pero puedes encontrar todos nuestros blogs en inglés haciendo click [aquí](https://peachbitcoin.com/blog) --> translate to swahili
+Kwa sasa hakuna machapisho ya blogu katika ukurasa huu, lakini unaweza kupata machapisho yetu mengine yote yakibofya [hapa](peachbitcoin.com/blog)
