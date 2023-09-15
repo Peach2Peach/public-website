@@ -24,10 +24,6 @@ Download the app for free and start trading right away! We won't ask you to uplo
 
 There are a whole bunch of payment methods you can choose from.<br>
 
-**If there's another Payment Method you'd like to use, but it isn't listed, let us know by filling**
-<br><br>
-**[THIS FORM](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
-
 #### Supported Currencies
 
 - EUR
@@ -42,61 +38,26 @@ There are a whole bunch of payment methods you can choose from.<br>
 - HUF
 - ISK
 - RON
+- TRY
+- ARS
+- COP
+- PEN
+- MXN
+- CLP
+- CRC
+- CFA (XOF)
+- CDF
+- NGN
 
 ---
 
-#### Cash
+#### Available Payment Methods
 
-- :payment-cash: Cash
+Take a look at _**[this excel sheet](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ to discover **ALL OUR PAYMENT METHODS!**
 
-Check out all the [available meetups](/for-meetups/) to trade Bitcoin with cash!
-
----
-
-#### Bank Transfer
-
-- :payment-sepa: SEPA / Instant SEPA
-- :payment-fasterpayments: Faster Payments (GBP)
-- :payment-creditcard: Straksbetaling (NOK)
-- :payment-banktransfer: National Bank Transfer
-
----
-
-#### Online Wallets
-
-- :payment-advcash: Advcash
-- :payment-paypal: PayPal
-- :payment-revolut: Revolut
-- :payment-wise: Wise
-- :payment-n26: N26
-- :payment-friends24: Friends 24
-- :payment-skrill: Skrill
-- :payment-neteller: Neteller
-- :payment-paysera: Paysera
-
----
-
-#### National Options
-
-- :payment-vipps: Norway - Vipps
-- :payment-kekspay: Croatia - KEKS Pay
-- :payment-mobilepay: Denmark, Finland - MobilePay
-- :payment-paylib: France - Paylib
-- :payment-lydia: France - Lydia
-- :payment-satispay: France, Germany, Italy - Satispay
-- :payment-mbway: Portugal - MBWay
-- :payment-bizum: Spain - Bizum
-- :payment-verse: Spain, Italy - Verse
-- :payment-iris: Greece - Iris
-- :payment-blik: Poland - Blik
-- :payment-twint: Switzerland - Twint
-- :payment-swish: Sweden - Swish
-
----
-
-#### Gift Cards
-
-- :payment-amazon: Amazon
+If there's another Payment Method you'd like to use, but it isn't listed, let us know by filling
+<br><br>
+**[THIS FORM](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
 <!--[self_custody]-->
 ### Not your keys, not your coins

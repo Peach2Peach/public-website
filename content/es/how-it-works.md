@@ -23,8 +23,6 @@ template: how_it_works
 ### Métodos de pago aceptados
 
 Hay un montón de métodos de pago entre los que puedes elegir.<br>
-**Si te gustaría que añadamos un nuevo Método de Pago**<br><br>
-**[RELLENA ESTE FORMULARIO](https://ncxldazr6m4.typeform.com/to/SJljDnae)**
 
 #### Monedas admitidas
 
@@ -40,61 +38,25 @@ Hay un montón de métodos de pago entre los que puedes elegir.<br>
 - HUF
 - ISK
 - RON
+- TRY
+- ARS
+- COP
+- PEN
+- MXN
+- CLP
+- CRC
+- CFA (XOF)
+- CDF
+- NGN
 
 ---
 
-#### Efectivo
+#### Métodos de Pago
 
-- :payment-cash: Efectivo
+En _**[este excel](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ encontrarás una lista entera de **TODOS LOS MÉTODOS DE PAGO** de la App, así cómo las monedas que soporta cada uno.
 
-¡Revisa todos los [meetups disponibles](/es/for-meetups/) para intercambiar Bitcoin con efectivo!
-
----
-
-#### Transferencia bancaria
-
-- :payment-sepa: SEPA / Instant SEPA
-- :payment-fasterpayments: Faster Payments (GBP)
-- :payment-creditcard: Straksbetaling (NOK)
-- :payment-banktransfer: National Bank Transfer
-
----
-
-#### Monederos en línea
-
-- :payment-advcash: Advcash
-- :payment-paypal: PayPal
-- :payment-revolut: Revolut
-- :payment-wise: Wise
-- :payment-n26: N26
-- :payment-friends24: Friends 24
-- :payment-skrill: Skrill
-- :payment-neteller: Neteller
-- :payment-paysera: Paysera
-
----
-
-#### Opciones Nacionales
-
-- :payment-vipps: Norway - Vipps
-- :payment-kekspay: Croatia - KEKS Pay
-- :payment-mobilepay: Denmark, Finland - MobilePay
-- :payment-paylib: France - Paylib
-- :payment-lydia: France - Lydia
-- :payment-satispay: France, Germany, Italy - Satispay
-- :payment-mbway: Portugal - MBWay
-- :payment-bizum: Spain - Bizum
-- :payment-verse: Spain, Italy - Verse
-- :payment-iris: Greece - Iris
-- :payment-blik: Poland - Blik
-- :payment-twint: Switzerland - Twint
-- :payment-swish: Sweden - Swish
-
----
-
-#### Tarjetas de regalo
-
-- :payment-amazon: Amazon
+Si te gustaría que añadamos un nuevo Método de Pago<br><br>
+**[RELLENA ESTE FORMULARIO](https://ncxldazr6m4.typeform.com/to/SJljDnae)**
 
 <!--[self_custody]-->
 ### No tus llaves, no tu dinero

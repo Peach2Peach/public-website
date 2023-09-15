@@ -24,9 +24,6 @@ Scarica l'app gratuitamente e inizia a fare scambi immediatamente! Non ti verra 
 ### Metodi di pagamento supportati
 
 Ci sono molti metodi di pagamento tra cui scegliere.<br>
-**Se desideri utilizzare un metodo di pagamento attualmente non previsto, ti preghiamo di comunicarcelo compilando**<br><br>
-**[QUESTO MODULO!](https://ncxldazr6m4.typeform.com/to/SJljDnae)**
-
 
 #### Valute supportate
 
@@ -42,63 +39,52 @@ Ci sono molti metodi di pagamento tra cui scegliere.<br>
 - HUF
 - ISK
 - RON
+- TRY
+- ARS
+- COP
+- PEN
+- MXN
+- CLP
+- CRC
+- CFA (XOF)
+- CDF
+- NGN
 
 ---
 
-#### Contanti
+#### Metodi di pagamento supportati
 
-- :payment-cash: Contanti
+Dai un'occhiata a _**[questo foglio excel](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ per scoprire **tutti i nostri metodi di pagamento**
 
-Consulta tutti i [meetups disponibili](/it/for-meetups/) per scambiare Bitcoin con contanti!
+Se desideri utilizzare un metodo di pagamento attualmente non previsto, ti preghiamo di comunicarcelo compilando<br><br>
+**[QUESTO MODULO!](https://ncxldazr6m4.typeform.com/to/SJljDnae)**
 
----
-
-#### Bonifico bancario
-
-- :payment-sepa: SEPA / Instant SEPA
-- :payment-fasterpayments: Faster Payments (GBP)
-- :payment-creditcard: Straksbetaling (NOK)
-- :payment-banktransfer: Bonifico bancario nazionale
-
----
-
-#### Conti online
-
-- :payment-advcash: Advcash
-- :payment-paypal: PayPal
-- :payment-revolut: Revolut
-- :payment-wise: Wise
-- :payment-n26: N26
-- :payment-friends24: Friends 24
-- :payment-skrill: Skrill
-- :payment-neteller: Neteller
-- :payment-paysera: Paysera
-
----
-
-#### Opzioni nazionali
-
-- :payment-vipps: Norvegia - Vipps
-- :payment-kekspay: Croazia - KEKS Pay
-- :payment-mobilepay: Danimarca, Finlandia - MobilePay
-- :payment-paylib: Francia - Paylib
-- :payment-lydia: Francia - Lydia
-- :payment-satispay: Francia, Germania, Italia - Satispay
-- :payment-mbway: Portogallo - MBWay
-- :payment-bizum: Spagna - Bizum
-- :payment-verse: Spagna, Italia - Verse
-- :payment-iris: Grecia - Iris
-- :payment-blik: Polonia - Blik
-- :payment-twint: Svizzera - Twint
-- :payment-swish: Svezia - Swish
-
----
-
-#### Gift Card
-
-- :payment-amazon: Amazon
 
 <!--[self_custody]-->
-### Niente chiavi, niente bitcoin
+### Non le tue chiavi, non le tue monete
 
-L'app ha un wallet facile da usare che gestisci soltanto tu
+L'app dispone di un portafoglio facile da usare che controlli tu stesso, oppure puoi utilizzare il tuo portafoglio esistente. Resta fedele ai concetti di base o rendilo più avanzato: sei sempre tu a comandare.
+
+<!--[security]-->
+### Super sicuro
+
+Peach utilizza indirizzi Bitcoin Multi-Firma per assicurarsi che la parte corretta possa ottenere i Bitcoin se qualcosa dovesse andare storto durante la transazione.
+
+<!--[difference]-->
+### Cosa differenzia Peach dagli altri scambi?
+
+Con Peach, non compri da noi né vendi a noi.
+Interagisci direttamente con altri utenti!
+Ciò rende il trading di Bitcoin più privato e ti consente di utilizzare qualsiasi metodo di pagamento su cui possiate concordare.
+La nostra missione è renderlo il più semplice e sicuro possibile.
+
+<!--[sounds_cool]-->
+### Sembra interessante, ma come funziona?
+
+Abbiamo una guida completa per iniziare qui:
+
+<!--[questions]-->
+### Hai ancora domande?
+
+Sono sicuro che puoi trovare una risposta nelle nostre domande frequenti.
+Se non lo fai, inviaci un messaggio!
