@@ -68,26 +68,28 @@ Excited for the future, we'll continue navigating the evolving Bitcoin landscape
 ### My Background
 I’m Michael, Lead Frontend Dev at Peach Bitcoin and I’m approaching my first anniversary at Peach after I joined back in November and celebrated Peach’s first birthday in September at The Baltic Honey badger conference.
 To truly understand how the past year at Peach was, how it changed me and how I look back at it I feel I have to start my story a bit earlier, more specifically back in 2020.  I was still in university at this point but at the beginning of the year I started teaching myself how to code, since I was looking for something, anything, to get out of university. To me, academia felt more like a train in which I was a passenger rather than a car in which I was the driver. I felt like a small piece of a machine and my true passions, my dreams or anything authentic about me wasn’t being allowed to be expressed or flourish but rather supressed.
-​
+
 I set myself the mission to teach myself a skill with which I could make a living. On that road I tried many things, but programming was the one that stuck. After some time, hardship, but also lucky circumstances I managed to get my first job at a startup. I felt not only confirmed in my belief that following my own passion was possible, but also felt an immense gratitude for how I was able to do what I enjoyed. Being in a startup gave me an appreciation for the level of impact I could have on a product and that this product was something everyone involved actually cared about. Unfortunately the startup didn’t work out and I was once again in a situation where I asked myself what I wanted to do with my time. I was looking at some job postings but all of them felt like I was going back to a similar world from which I had wanted to escape, endless time spent on soulless things I neither cared about nor felt that I could have an impact even if I would.
-​
+
 I don’t know what took me so long to realize it, I had taken the orange pill some months prior to this situation, but after thinking about not only what I wanted to do (still programming) but also where I wanted to put these skills to use, Bitcoin was the obvious choice. I believed it to be the most important thing in my lifetime that could change the world at the most fundamental level.
 Once again I set myself a clear goal: Find a way to use my skills to advance the adoption of Bitcoin, and by extent of that, the values Bitcoin stands for.
+
 I started looking for opportunities in that sector and found a job listing that felt perfect. I applied and starting harassing anyone I could get in contact with, including the CEO, to consider me, but unfortunately it didn’t work out. I was pretty bummed and so far it seemed the only progress I was able to make was in those jobs I felt pretty much 0 passion for.
 This is the point where Peach Bitcoin entered my life. I saw a tweet by Peach and thought to myself, to heck with it, I’ll give it a shot and send them an application. Well and what can I say, it worked out!
 ​
 ​
 ### My story at Peach
 Getting to work at Peach was once again an incredible experience and I was truly grateful. The mission to direct my energy towards the adoption of Bitcoin had succeeded but as the first days at Peach went by I started to realize more and more that my expectations were exceeded.
-​
+
 Not only was I working on something related to Bitcoin, I was working on something that I felt was in harmony with its core values, most remarkably: Bitcoin-only with a big focus on privacy as a means to individual sovereignty.
-​
+
 The more and the longer I worked on Peach the less I started to think about Bitcoin. I believe this is because as time went on it became more and more like background noise, it was a force of nature that was there and we were just riding the wave of it.
-​
+
 Another thing that I still enjoy on a daily basis is: We all actually care about what we are doing! We use the product, we care deeply about improving its quality but also the enjoyment we get out of doing that.
 When I came to Peach, the team was a lot bigger than it is now. There have been tough moments along the way but I feel like the core only got stronger because of it.
-​
+
 Ultimately the market will decide the future of Peach and by extension the future of all of us that are working on it. Some might find this position scary, or generally not worth it, because it is ‘unsafe’. Similarly to Bitcoin, I find that this volatile nature is a source of truth.
+
 Along the way of Peach this truth razor has been a force that pushed us to cut out things and processes that we didn’t need or that weren’t adding value, while focussing on those that do.
 ​
 One such truth razor for me was using the app myself.
@@ -95,22 +97,27 @@ There have been times when things weren’t working as ideally as we wanted them
 Similarly seeing that actual people are using real money with our app felt both like a great privilege and responsibility. Every time a trade on Peach happened it was a market signal that somebody was trusting us to use their funds well, provide good matches and generally a good service. It was an indisputable confirmation that we were doing something of value.
 Another game changer on that front to me were the meetups. Actually seeing people that use our app, that support and like it was an incredible experience. Hearing “you guys are doing a great job, keep it up” is something that is generally nice to hear. But if it comes from people who share your vision of how the world could and should look like is something else. It's almost like a voice from the future letting you know that you are on the right path.
 On a side note, this is why I also love to tell people that they are doing a good job when I feel that they are. Seeing somebody that cares about his time and spends it on things he deems worth it, that you actually benefit from is a feeling I really like to embrace whenever I happen to notice it (which sadly is way too rare, but we know what fixes this).
-​
+
+
 I also believe that true passion is the only way to outcompete others and actually even set yourself free from competition. There are barriers and hurdles that you just won’t cross if you don’t want to, and the people that care deeply enough will go to lengths to make details work that to others are “impossible”.
 A short example of that was our BTCAmount that went viral a bit. In a redesign we customized the letter spacing of each individual character to make it look nice with a new font we’ve been using. I could have said “screw the design, we’ll just stick to the same spacing everywhere” but that wouldn’t have been what we wanted and the thing about code is: everything is possible, it’s just about wether it’s worth it.
 In this case it was a core part of our design and that’s why it did matter to get the complex details right.
 On another side note this is what I feel separates a fiat from a hard money standard - the level of depth.
 You can look at a painting, a building, listen to a song, eat a meal, read a book or use an app for long periods of time and you still find details you hadn’t seen before, but once you do, you realize that there was a person that made this detail happen and they cared deeply about what it was that they were building.
-​
+
 Another truth razor was the way we worked over the past year.
+
 Being in a remote environment makes it really easy to get lazy because there’s no one looking over your shoulder. But I believe in the same way it can (and for us, it was) a way to actually make the way we work much more value driven. You can’t have 5 coffees while chit chatting with your colleagues pretending that you did a deep work session. We had some of that in the beginning with our daily meetings where you always felt like the hour you spent talking was worth it, until we cut them out completely and realized that things work just fine without them. And I feel that some of these time wasters were more easily recognized working remotely and the communication became much more laser focused on what actually mattered. So in that way with a lower time preference remote work was actually more focused than less.
-​
+
 The first year at Peach was full of new experiences, new learnings and new people, especially recently at the Baltic Honeybadger in Riga, all of which worthy of blog posts of their own, so I hope to have at least given you a glance into all of it.
 I invite everyone who is into Bitcoin to follow that same path, to ask yourself what the most important thing is you could devote your time to and then do it, no matter the cost, the time or the hardship it requires. You will find more value on that path than you ever could otherwise and even in a case of “failure“ I believe you will not regret it. Embrace your inner Peach!
-​
+
 The bear market has been tough on all of us, but our Peachy princess Steph once said:
-“No matter what, we’ll find a way”. So next year, look forward to reading blog posts on how we hopefully overcame ever more challenges with hopefully ever more new Peaches, new features and maybe even the first signs of bulls waiting to start running again. If not us, then who?
-To another great, second year! 
+“No matter what, we’ll find a way”. So next year, look forward to reading blog posts on how we hopefully overcame ever more challenges with hopefully ever more new Peaches, new features and maybe even the first signs of bulls waiting to start running again.
+
+If not us, then who?
+
+To another great, second year!
 
 ![peaches](/img/blog/1y-anniversary/peaches.jpeg)
 
@@ -121,7 +128,7 @@ A lot has changed about Peach since then. We first removed the bucket system, al
 And now, at Baltic Honeybadger 2023, we have another milestone. Not just our first anniversary, but we’ve opened up our API and open-sourced our app, something that people have been asking about for a long long time. If you want to know more about that and what it means, you can read our Open sourcing our Peach App and Making our Peach API public blogs.
 I, for one, am truly proud of what we’ve accomplished together, but this blogpost is also a bittersweet one for me to write, since it’s also me saying goodbye to working for Peach. I’ve enjoyed working together with the team a lot, but the past year has also forced me to reflect on my position as a designer, and has led me to the conclusion that working behind a laptop all day just is not for me – not even when it includes being with bitcoiners 24/7 and waking up to this every day:
 
-![lab's morning views](/img/blog/1y-anniversary/peaches.jpeg)
+![lab's morning views](/img/blog/1y-anniversary/lab-picture.png)
 
 So, I guess this is goodbye (not really – I’ll still be hanging out). I want to thank all of you for your support of Peach, and I want to thank the entire Peach team for both the good and hard times that we’ve been through together and for putting up with all of my bullshit. I think we can be proud of ourselves for what we’ve accomplished, and I’m convinced you guys will accomplish a lot more!
 A happy birthday to Peach, goodbye from me, and a big round of applause for the rest of the team.
