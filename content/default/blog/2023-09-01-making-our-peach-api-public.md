@@ -2,8 +2,12 @@
 keywords:
   - API
   - code
+  - Bitcoin
+  - peer to peer
+  - exchange
+  - trading
 tags:
-  - How To
+  - Code
 previewImage: /img/blog/making-our-peach-api-public/api-example.png
 description: |
   The Peach API is now accessible to everyone.
