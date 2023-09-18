@@ -16,6 +16,8 @@ description: |
 ---
 
 # Peach 1 year anniversary
+![](/img/blog/1y-anniversary/cake.jpeg)
+
 ## The Peach team stories
 
 Dear peaches today's blog post is a bit different to what is commonly seen in the bitcoin/tech space. Today we bring to you the story of how it feels building a Bitcoin startup, some challenges we've gone through, and how Peach managed to survive during 1 year so far. We hope you enjoy them, and encourage you to keep building in this amazing space. LFG!
