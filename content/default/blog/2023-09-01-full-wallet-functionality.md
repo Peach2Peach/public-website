@@ -3,8 +3,7 @@ keywords:
   - code
   - wallet
 tags:
-  - Code
-  - Wallet
+  - Product
 previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.png
 description: |
   Our wallet has gotten a significant upgrade bringing a whole bunch of features to Peach making it even easier for beginners to stack sats the right way.
