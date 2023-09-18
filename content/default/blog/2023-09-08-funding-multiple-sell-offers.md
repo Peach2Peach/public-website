@@ -10,7 +10,7 @@ description: |
   Starting from version 0.3.0, Peach App introduces the ability to create and fund multiple sell offers. Here is how it works.
 ---
 
-# Funding multiple sell offers
+# How to Fund Multiple Sell Offers
 
 Starting from version 0.3.0, Peach App introduces the ability to create and fund multiple sell offers. This feature offers two primary advantages:
 - **save time**, no more repeated tapping in buttons
