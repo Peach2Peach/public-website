@@ -11,8 +11,7 @@ keywords:
   - how to sell bitcoin
   - peer to peer
 tags:
-  - Education
-  - How To
+  - Product
 previewImage: /img/blog/lightning.jpeg
 description: |
   Bitcoin is money for free people. We believe that every single human being has the right to choose which money he uses to store his 
