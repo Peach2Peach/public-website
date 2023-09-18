@@ -7,7 +7,6 @@ keywords:
   - p2p
   - peer to peer
 tags:
-  - Company
   - French
 previewImage: /img/blog/peach-expands-to-the-global-south/map.png
 description: |
