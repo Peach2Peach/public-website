@@ -143,6 +143,8 @@ Glory to God for all things - Lab
 Haven’t you felt time passes differently since you discovered bitcoin?
 Every year feels like many more things happen than the ones before discovering Bitcoin, but at the same time my time horizon when planning things in the future has changed, just as if something weird would happen every 4 years and you need to plan accordingly… ;P
 
+I had already worked (founded and failed, lol) in another startup, where things do indeed move extremely fast, and many things happen. But believe me guys, this space is different.
+
 Maybe I’m the weird one who feels like that, but sincerely, many things have happened to me since I started falling down the rabbit hole, and as time goes by, nothing echoes harder than “You don’t change Bitcoin, Bitcoin changes you”. Especially since you start working on something fully related to it, you (or at least me) realize that it is more worth it building on top of what’s already working, than trying to change Bitcoin itself. Humble yourself in the process, or Bitcoin (& Bitcoiners) will humble you.
 
 In this post I’ll try to explain things I’ve learned at Peach, but also some life learning that I had never thought about before. Hope they can bring some value to you too.
