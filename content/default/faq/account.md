@@ -61,6 +61,16 @@ When someone uses your referral code, that person starts off with a gift of 100 
 The Peach score is your reputation on Peach. It is based on the user rating (the thumbs up/down your counterparty gives you after a trade) and on your actions, like disputes, how fast you pay, and more.
 :::
 
+:::details Why did my transaction disappear from my wallet?
+Unconfirmed transactions that have fees set too low or are too old can be forgotten by nodes in the bitcoin network.
+If this happened to you after buying bitcoin on peach, you can use the in-app contact form to get assistance. Make sure to mention the associated trade id.
+
+To avoid this situation, make sure to set your fees at a sufficient rate. If you are not sure, you can choose an automatic fee rate that will adjust to the current fee situation.
+If you fear a transaction will get purged, you can bump it's fees by using RBF or CPFP depending on the situation.
+
+To know more about how to accelerate transactions, take a look at our Youtube video to learn how to do a CPFP from Peach: https://www.youtube.com/watch?v=24OtQkL0CxU
+:::
+
 :::details Why can I buy legally without KYC?
 
 Peach is a 100% compliant company. We are an affiliated Swiss financial intermediary and our compliance framework allows for KYC-less money exchange transactions under certain thresholds.
