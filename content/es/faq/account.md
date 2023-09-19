@@ -65,3 +65,16 @@ Peach es una empresa que cumple al 100% con las regulaciones. Somos un intermedi
 
 La puntuación Peach es tu reputación en Peach. Se basa en la valoración del usuario (los pulgares hacia arriba / abajo que tu contraparte te da después de un comercio) y en tus acciones, como disputas, rapidez de pago, entre otras.
 :::
+
+:::details ¿Por qué ha desaparecido mi transacción de mi monedero?
+
+Los nodos de la red bitcoin pueden olvidar las transacciones no confirmadas con tarifas demasiado bajas o demasiado antiguas.
+Si esto te ha ocurrido después de comprar bitcoins en peach, puedes utilizar el formulario de contacto de la aplicación para obtener ayuda. Asegúrate de mencionar el identificador de operación asociado.
+
+Para evitar esta situación, asegúrate de fijar tus comisiones a un nivel suficiente. Si no estás seguro, puedes elegir una tarifa automática que se ajuste a la situación actual.
+Si teme que una operación sea eliminada, puede aumentar sus comisiones utilizando RBF o CPFP dependiendo de la situación.
+
+Para saber más sobre cómo acelerar transacciones, eche un vistazo a nuestro vídeo de Youtube para aprender a hacer un CPFP desde Peach: https://www.youtube.com/watch?v=24OtQkL0CxU
+
+:::
+
