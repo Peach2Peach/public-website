@@ -226,4 +226,85 @@ To anyone wondering if they are still on time to change their lifestyle, their j
 ![peaches](/img/blog/1y-anniversary/peaches.jpeg)
 
 # [Steph](@proofofsteph)
+## How did we survive the first year? 
+Peach is alive! 
 
+One year after launching the product (link/video), this is the first celebration statement I want to make. We kept Peach - the product, the company, the team, the ecosystem - alive. I would even say alive and growing! Are we fighting each and every day for its survival? Sure! Are we still feeling delusional and crazy about creating a product out of our imagination? Damn yes! 
+
+But here we are, one year after going public, same place, same day, in Riga at the Baltic Honeybadger conference (the most OG Bitcoin conference) announcing Peach 0.3.  
+
+### 12 months for showing traction 
+
+The name of the game is to build a usable  product that can actually be used. Providing a service that some people will find compelling enough to pay for it. No secret sauce for achieving this or rather the secret sauce is well known: 
+
+    deliver! 
+    Listen to user feedback  
+    deliver! 
+    Repeat 🔁 
+
+
+### Listening to Peach inner cycles
+
+My teammate said “volatility is a feature not a bug” and I could not agree more. Life is movement, the waves constantly come and go. Sometimes the wind makes them crash onto the rocks and sometimes the sweet light of the sun lighten up the waves with a very soft melody. Peach cycles come and go in waves. Peach is now an independent organic being in constant movement living through cycles and responding to external weather conditions. Sometimes it needs to rest and recover and sometimes it needs to sprint. Listening, recognising and then respecting those cycles are critically important to keep Peach healthy in the long run. 
+
+### Ego consciousness
+
+I am Peach but Peach is not only me anymore. Recognizing that the baby has “grown outside of me” is crucial for ensuring its well being. Peach can not grow if I personally don’t grow alongside with its development. Self-awareness and self-criticism have become a Peach live or die challenge. I have faced some critical issues and the only way to resolve them was to become self-conscious about how my ego blocked the way. Either I put on the ego work or Peach suffers, worse Peach can die. And luckily, as the heart of a mum will always prioritise the baby’s growth, the work on the ego begins and doors open up. 
+
+### Being a leader means I will do what I want to do despite the FUD
+
+
+It happened that I see a product feature, or a design, or an internal way of working, or a positioning. I envision an environment that only exists in my head until I share my thoughts with the team to transform the thoughts into the material world. I am lucky to be working with an engineer associate who has an open-mind and is able to help me transforming ideas to down-to-earth solutions while remaining very creative himself. I strongly believe that the best creations are made out of the unique minds of individual(s) and not out of average thoughts of the crowd. So sometimes, even if no one sees it, even if everyone doubt it, I just gotta keep believing, and still do it. And if I was wrong, the solution is easy peachy, I take feedback and iterate.
+
+### Keep faith in Peach’s mission and building the foundation 
+
+Bootstrapping, no budget, bear market, tight runway, team management, product survival, administrative tasks, annoying tasks, bugs… it’s a lot to take on! Two words to keep going: faith and perseverance. Giving up is not an option. We are still at the beginning of the rallye but yet accomplished so much. I know deep down that Peach can only succeed with work, patience, time and effort. Peach is not a quick win scheme. I know the fruits will come out of intensively laboured soil and not out of thin air. Without the tree, no fruits. Without the foundations, no rewards. This past year (and actually more than a year since we started working together in 2021) has been about taking the time to establish solid relationships which allowed our principles and values to emerge and become more clear. Our foundation is made out of discernment, analytical mindset, good preparation for everything new we want to build, planning (‘fail to plan is a plan to fail), intuition. Our general atmosphere is friendly, intimate with a bit place for dialogue, sentiment of peace and serenity. “Find safety in sats” is a meme that fits Peach well.
+
+### Listening to my own inner cycles
+
+If I am not doing well for a long period of time, then Peach follows. Therefore, listening to my own personal and female inner cycle have became a critical challenge to make sure that I don’t burn out. There is no clear boundaries between Peach and me. Everything is interconnected and one has an impact on the other. So Steph mind and body and Steph Peach are one and have to be managed together. I remember I used to read startups stuffs like “you have to work 24h/7” “your startup has to become your only purpose” etc etc. Well, we will see how it goes but I am definitely not fitting in those, in my opinion, old schools views. Smart > hard. Energy flow > empty productivity. I am very much in a position that requires to find balance to survive in the long term. I believe in the mathematical reward that comes out of the “low-time preference” principle and the name of the game is to stop believing and start embodying. 
+
+
+Each of those paragraphs could be a blog on itself, and I could continue on much more. I would close by what is the most obvious answer to “How did we survive the first year?”. Answer: INCENTIVES. See you on another blog :)
+
+![peaches](/img/blog/1y-anniversary/peaches.jpeg)
+
+Well dear peaches, this is the end of the series of blog posts from the team. We just want to sincerely THANK YOU ALL for being part of this journey. Who knows if in 1 year we will still be here, but what would we make with life if we already knew the future? Let's work hard on building it together and improve our surroundings simply by improving ourselves.
+
+> Cheers,
+> The Peach Team
+
+If you want to know more about Peach features, or read some of our other articles, you can find them here!
+
+[How to Recover Bitcoin Wallets Using a Seed Phrase](https://peachbitcoin.com/blog/how-to-restore-peach-wallet/ )
+
+[How to Fund Multiple Sell Offers](https://peachbitcoin.com/blog/funding-multiple-sell-offers/ )
+
+[How to buy and sell Bitcoin with cash using Peach](https://peachbitcoin.com/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/ )
+
+[How to add a new payment method on the Peach app](https://peachbitcoin.com/blog/how-to-add-a-payment-method/ )
+
+[Peach expands to the Global South!](https://peachbitcoin.com/blog/peach-expands-to-the-global-south/ )
+
+[Making our Peach-API Public](https://peachbitcoin.com/blog/making-our-peach-api-public/ )
+
+[Full Wallet Functionality](https://peachbitcoin.com/blog/full-wallet-functionality/ )
+
+[What is GroupHug?](https://peachbitcoin.com/blog/group-hug/ )
+
+[Why P2P series? Chapter 1](https://peachbitcoin.com/blog/why-p2p-chapter-1/ )
+
+[Why P2P series? Chapter 2](https://peachbitcoin.com/blog/why-p2p-chapter-2/ )
+
+[Why P2P series? Chapter 3](https://peachbitcoin.com/blog/why-p2p-chapter-3-circular-economies/ )
+
+[Why P2P series? Chapter 4](https://peachbitcoin.com/blog/why-p2p-chapter-4-chains-of-trust/ )
+
+[Peach x meetups](https://peachbitcoin.com/blog/peach-for-meetups/ )
+
+
+If you want to know more about us, check out or socials, or simply [contact us](mailto:hello@peachbitcoin.com) (use our [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2) if possible) we'll be happy to hear from you!
+
+[Telegram](https://t.me/+GkOW1J-ixBBkZWRk), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
+
+Keep spreading the Peach word, who knows when you'll find the match of your life!
