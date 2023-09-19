@@ -65,3 +65,15 @@ Il punteggio Peach è la tua reputazione su Peach. Si basa sulla valutazione del
 
 Peach è un'azienda conforme al 100%. Siamo un intermediario finanziario svizzero affiliato e il nostro quadro di conformità consente transazioni di scambio di denaro senza KYC in determinate soglie.
 :::
+
+:::details Perché la mia transazione è scomparsa dal mio portafoglio?
+
+I nodi della rete bitcoin possono dimenticare transazioni non confermate con commissioni troppo basse o troppo vecchie.
+Se vi è successo dopo aver acquistato bitcoin su peach, potete usare il modulo di contatto nell'app per ottenere aiuto. Assicuratevi di indicare l'ID della transazione associata.
+
+Per evitare questa situazione, assicuratevi di aver impostato le commissioni a un livello sufficiente. Se non siete sicuri, potete scegliere un tasso automatico che si adatti alla situazione attuale.
+Se si teme che una transazione venga eliminata, è possibile aumentare le commissioni utilizzando RBF o CPFP, a seconda della situazione.
+
+Per saperne di più su come accelerare le transazioni, guardate il nostro video su Youtube per imparare a fare un CPFP da Peach: https://www.youtube.com/watch?v=24OtQkL0CxU
+
+:::
