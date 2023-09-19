@@ -243,6 +243,8 @@ The name of the game is to build a usable  product that can actually be used. Pr
     Repeat 🔁 
 
 
+
+
 ### Listening to Peach inner cycles
 
 My teammate said “volatility is a feature not a bug” and I could not agree more. Life is movement, the waves constantly come and go. Sometimes the wind makes them crash onto the rocks and sometimes the sweet light of the sun lighten up the waves with a very soft melody. Peach cycles come and go in waves. Peach is now an independent organic being in constant movement living through cycles and responding to external weather conditions. Sometimes it needs to rest and recover and sometimes it needs to sprint. Listening, recognising and then respecting those cycles are critically important to keep Peach healthy in the long run. 
