@@ -62,6 +62,7 @@ The Peach score is your reputation on Peach. It is based on the user rating (the
 :::
 
 :::details Why did my transaction disappear from my wallet?
+
 Unconfirmed transactions that have fees set too low or are too old can be forgotten by nodes in the bitcoin network.
 If this happened to you after buying bitcoin on peach, you can use the in-app contact form to get assistance. Make sure to mention the associated trade id.
 
