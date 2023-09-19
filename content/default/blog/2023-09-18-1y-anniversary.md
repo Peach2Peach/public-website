@@ -140,6 +140,8 @@ Glory to God for all things - Lab
 ![peaches](/img/blog/1y-anniversary/peaches.jpeg)
 
 # [Markush](https://twitter.com/akaKush0)
+## Volatility is a feature, not a bug
+
 Haven’t you felt time passes differently since you discovered bitcoin?
 Every year feels like many more things happen than the ones before discovering Bitcoin, but at the same time my time horizon when planning things in the future has changed, just as if something weird would happen every 4 years and you need to plan accordingly… ;P
 
