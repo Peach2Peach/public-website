@@ -55,3 +55,15 @@ Lorsque vous créez un compte Peach, vous recevez automatiquement un code de par
 
 Lorsque quelqu'un utilise votre code de parrainage, cette personne reçoit un cadeau de 100 points Peach !
 :::
+
+:::details Pourquoi ma transaction a-t-elle disparu de mon portefeuille ?
+
+Les nœuds du réseau bitcoin peuvent oublier des transactions non confirmées dont les frais sont trop faibles ou trop anciens.
+Si cela vous est arrivé après avoir acheté des bitcoins sur Peach, vous pouvez utiliser le formulaire de contact de l'application pour obtenir de l'aide. N'oubliez pas de mentionner l'identifiant de la transaction associée.
+
+Pour éviter cette situation, veillez à fixer vos commissions à un niveau suffisant. Si vous n'êtes pas sûr, vous pouvez choisir un taux automatique adapté à la situation actuelle.
+Si vous craignez qu'une transaction soit éliminée, vous pouvez augmenter vos commissions en utilisant RBF ou CPFP selon la situation.
+
+Pour en savoir plus sur la manière d'accélérer les transactions, regardez notre vidéo Youtube pour apprendre à faire un CPFP à partir de Peach : https://www.youtube.com/watch?v=24OtQkL0CxU
+
+:::
