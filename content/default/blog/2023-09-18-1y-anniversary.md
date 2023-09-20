@@ -231,7 +231,7 @@ To anyone wondering if they are still on time to change their lifestyle, their j
 ## How did we survive the first year? 
 Peach is alive! 
 
-One year after launching the product (link/video), this is the first celebration statement I want to make. We kept Peach - the product, the company, the team, the ecosystem - alive. I would even say alive and growing! Are we fighting each and every day for its survival? Sure! Are we still feeling delusional and crazy about creating a product out of our imagination? Damn yes! 
+One year after launching the product, this is the first celebration statement I want to make. We kept Peach - the product, the company, the team, the ecosystem - alive. I would even say alive and growing! Are we fighting each and every day for its survival? Sure! Are we still feeling delusional and crazy about creating a product out of our imagination? Damn yes! 
 
 But here we are, one year after going public, same place, same day, in Riga at the Baltic Honeybadger conference (the most OG Bitcoin conference) announcing Peach 0.3.  
 
