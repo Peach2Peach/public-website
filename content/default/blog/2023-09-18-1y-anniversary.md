@@ -12,7 +12,7 @@ tags:
   - Company
 previewImage: /img/blog/1y-anniversary/cake.jpeg
 description: |
-  Read the full story of how Peach team members arrived to survive during 1y building on a Bitcoin standard!
+  Read the full story of how Peach team members managed to survive during 1y building on a Bitcoin standard!
 ---
 
 # Peach 1 year anniversary
