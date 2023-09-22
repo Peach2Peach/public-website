@@ -1,28 +1,29 @@
----
-title: Peach For Businesses
-template: index
----
-<!--[headline]-->
 # Peach for professionals
-
-<!--[top]-->
 ## Maximize your business revenue with Peach
 
-Peach is a mobile application that **connects** Bitcoin buyers and sellers directly together.
+>some text for the businesses<
 
-Buy or sell bitcoin peer-to-peer **anywhere, at anytime**.
+## Perks for professionals
 
-Use the payment method of your choice amongst **[many options](/how-it-works/#payment)**.
+::::figures 3
+:::box
+### High Liquidity available
+More than 900 open buy offers 24h a day
+:::
 
-Sell at the **price of your choice** because peer-to-peer markets are the real markets.
+:::box
+### Dedicated Agent for you
+1 to 1 dedicated support 24/7
+:::
 
-**KYC-free Bitcoin is the best Bitcoin.**
+:::box
+### Affiliate Program
+Bring more users and increase your revenue
+:::
+::::
 
-<!--[about]-->
-## Get in touch
+If you'd be interested in knowing more about Peach Business, and how to leverage it to maximize the profits of your company, get in touch with us.
 
-Peach, the company, is born from people who believe in the hardest money that has ever existed, and want to make it accessible to the whole world without compromising on the fundamental aspects of Bitcoin.
-
-Are you one of those? Check out our [Join Us](/join-us/) section, maybe we can work together!
-
-If you want to know more about the company, check out our [blog posts](/blog/) talking about how everything started, and how we got here.
+:::buttons
+[Get in touch](mailto:$contactEmail$)
+:::
