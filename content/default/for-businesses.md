@@ -1,22 +1,25 @@
-# Peach for professionals
-## Maximize your business revenue with Peach
+# Peach for Businesses
+## Maximize your revenue with Peach
 
->some text for the businesses<
+Peach Business offers the opportunity to companies and high volume professionals to maximize their profits by tapping into a market with **higher premiums** than traditional exchanges.
+
+We offer perks for **market-makers**, **bitcoin native businesses**, and **high-volume traders**.
+
+Some of the benefit you can enjoy by using the services provided by Peach Business are detailed below.
 
 ## Perks for professionals
-
 ::::figures 3
-:::box
+:::box tech-peach
 ### High Liquidity available
 More than 900 open buy offers 24h a day
 :::
 
-:::box
+:::box tech-peach
 ### Dedicated Agent for you
 1 to 1 dedicated support 24/7
 :::
 
-:::box
+:::box tech-peach
 ### Affiliate Program
 Bring more users and increase your revenue
 :::
