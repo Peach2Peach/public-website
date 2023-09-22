@@ -1,5 +1,5 @@
 # Peach para Profesionales
-## Maximiza tus ingresos con Peach
+## Maximiza tus ganancias con Peach
 
 Peach Business ofrece la oportunidad a las empresas y a los profesionales que mueven altos volúmenes en Bitcoin de maximizar sus ganancias al poder entrar a un mercado con **primas más altas** que los exchanges tradicionales.
 
