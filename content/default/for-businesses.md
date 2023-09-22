@@ -25,7 +25,7 @@ Bring more users and increase your revenue with a custom referral code
 :::
 ::::
 
-If you'd be interested in knowing more about Peach Business, and how to leverage it to maximize the profits of your company, get in touch with us.
+If you are interested in knowing more about Peach Business, and how to leverage it to maximize the profits of your company, get in touch with us.
 
 :::buttons
 [Get in touch](mailto:$contactEmail$)
