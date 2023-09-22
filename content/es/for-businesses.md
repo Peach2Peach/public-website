@@ -1,89 +1,32 @@
----
-title: How it works
-template: how_it_works
----
-<!--[teaser]-->
-![Buy and Sell Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
+# Peach para Profesionales
+## Maximiza tus ingresos con Peach
 
-### Para Empresas y Profesionales
+Peach Business ofrece la oportunidad a las empresas y a los profesionales que mueven altos volúmenes en Bitcoin de maximizar sus ganancias al poder entrar a un mercado con **primas más altas** que los exchanges tradicionales.
 
-**Buy and Sell up to 1000 CHF per day and 100'000 CHF per year.**
+Ofrecemos beneficios para **market makers**, **negocios nativos de Bitcoin** y **profesionales financieros con altos volúmenes**.
 
-<!--[easy_registration]-->
-### Easy registration
+Algunos de los beneficios que puedes disfrutar al utilizar los servicios proporcionados por Peach Business se detallan a continuación.
 
-Download the app for free and start trading right away! We won't ask you to upload your ID or make a selfie with your driver's license
-
-:::buttons
-[Download on iPhone]($iosUrl$)
-[Download on Android]($androidUrl$)
+## Beneficios para profesionales
+::::figures 3
+:::box tech-peach
+### Alta liquidez disponible
+Más de 900 ofertas de compra abiertas las 24 horas del día.
 :::
 
-<!--[payment_methods]-->
-### Supported payment methods
+:::box tech-peach
+### Agente dedicado para ti
+Soporte dedicado 1 a 1 las 24 horas, los 7 días de la semana.
+:::
 
-There are a whole bunch of payment methods you can choose from.<br>
+:::box tech-peach
+### Programa de afiliados
+Atrae a más usuarios y aumenta tus ingresos con un código de referido personalizado.
+:::
+::::
 
-#### Supported Currencies
+Si estás interesado en conocer más sobre Peach Business y cómo aprovecharlo para maximizar las ganancias de tu empresa, ponte en contacto con nosotros.
 
-- EUR
-- GBP
-- CHF
-- SEK
-- DKK
-- NOK
-- PLN
-- BGN
-- CZK
-- HUF
-- ISK
-- RON
-- TRY
-- ARS
-- COP
-- PEN
-- MXN
-- CLP
-- CRC
-- CFA (XOF)
-- CDF
-- NGN
-
----
-
-#### Available Payment Methods
-
-Take a look at _**[this excel sheet](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ to discover **ALL OUR PAYMENT METHODS!**
-
-If there's another Payment Method you'd like to use, but it isn't listed, let us know by filling
-<br><br>
-**[THIS FORM](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
-
-<!--[self_custody]-->
-### Not your keys, not your coins
-
-The app has an easy to use wallet that you control built in, or you can use your existing wallet. Stick to the basics or make it hardcore - you're always in control.
-
-<!--[security]-->
-### Super secure
-
-Peach uses Multi-Signature bitcoin addresses to make sure that the correct party can get the bitcoin if something goes wrong during the trade.
-
-<!--[difference]-->
-### What makes Peach different from other exchanges?
-
-With Peach, you don't buy from or sell to us.
-You interact directly with other peers!
-This makes trading bitcoin more private and allows you to use any payment method that you can agree upon.
-Our mission is to make this as easy and safe as possible.  
-
-<!--[sounds_cool]-->
-### Sounds cool, but how does it work?
-
-We have a full getting started guide right here:
-
-<!--[questions]-->
-### Still have questions?
-
-I'm sure you can find an answer in our FAQs.
-If not, send us a message!
+:::buttons
+[Ponte en contacto](mailto:$contactEmail$)
+:::
