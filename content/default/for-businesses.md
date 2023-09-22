@@ -5,7 +5,7 @@ Peach Business offers the opportunity to companies and high volume professionals
 
 We offer perks for **market-makers**, **bitcoin native businesses**, and **high-volume traders**.
 
-Some of the benefit you can enjoy by using the services provided by Peach Business are detailed below.
+Some of the benefits you can enjoy by using the services provided by Peach Business are detailed below.
 
 ## Perks for professionals
 ::::figures 3
