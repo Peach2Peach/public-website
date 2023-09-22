@@ -21,7 +21,7 @@ More than 900 open buy offers 24h a day
 
 :::box tech-peach
 ### Affiliate Program
-Bring more users and increase your revenue
+Bring more users and increase your revenue with a custom referral code
 :::
 ::::
 
