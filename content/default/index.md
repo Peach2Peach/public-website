@@ -20,7 +20,12 @@ template: index
 <!--[top]-->
 ## Buy and Sell Bitcoin, the way you want
 
-### Download the app using the referral code OPENSOURCE to get 1 free trade when buying, and satsback when selling!
+### Use the code OPENSOURCE to get
+
+If you are a buyer: **1 free trade!**
+
+If you are a seller: **Satsback on each trade!**
+
 :::buttons
 [Download the app using the OPENSOURCE referral code!](https://peachbitcoin.com/referral/?code=OPENSOURCE)
 :::
