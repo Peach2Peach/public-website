@@ -20,6 +20,11 @@ template: index
 <!--[top]-->
 ## Buy and Sell Bitcoin, the way you want
 
+### Download the app using the referral code OPENSOURCE to get 1 free trade when buying, and satsback when selling!
+:::buttons
+[Download the app using the OPENSOURCE referral code!](https://peachbitcoin.com/referral/?code=OPENSOURCE)
+:::
+
 Peach is a mobile application that **connects** Bitcoin buyers and sellers directly together.
 
 Buy or sell bitcoin peer-to-peer **anywhere, at anytime**.
