@@ -772,5 +772,23 @@
     "url": "https://t.me/BrusselsBitcoinMeetupGroup",
     "longitude": 4.3512334,
     "latitude": 50.8550018
+  },
+  {
+    "name": "Balkans P2P - Serbia",
+    "url": "https://t.me/KriptovaluteTelegram",
+    "longitude": 20.4568974,
+    "latitude": 44.8178131
+  },
+  {
+    "name": "Balkans P2P - Croatia",
+    "url": "https://t.me/KriptovaluteTelegram",
+    "longitude": 15.9622315,
+    "latitude": 45.8426414
+  },
+  {
+    "name": "Balkans P2P - Bosnia and Herzegovina",
+    "url": "https://t.me/KriptovaluteTelegram",
+    "longitude": 18.3866868,
+    "latitude": 43.8519774
   }
 ]
