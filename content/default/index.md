@@ -33,7 +33,7 @@ template: index
 
 Peach is a mobile application that **connects** Bitcoin buyers and sellers directly together.
 
-Check out all the supported currencies and payment methods, clicking *[HERE](/how-it-works/#payment)*.
+Check out all the **supported currencies** and **payment methods**, clicking *[HERE](/how-it-works/#payment)*.
 
 Sell at the **price of your choice** because peer-to-peer markets are the real markets.
 
