@@ -20,6 +20,7 @@ template: index
 <!--[top]-->
 # The easiest way to Buy and Sell Bitcoin P2P
 <br>
+
 ### Use the referral code ADD REFCODE to get
 
 **1 free buy trade** and **Satsback on each sell trade**
@@ -32,9 +33,7 @@ template: index
 
 Peach is a mobile application that **connects** Bitcoin buyers and sellers directly together.
 
-Buy or sell bitcoin peer-to-peer **anywhere, at anytime**.
-
-Use the payment method of your choice amongst **[many options](/how-it-works/#payment)**.
+Check out all the supported currencies and payment methods, clicking *[HERE](/how-it-works/#payment)*.
 
 Sell at the **price of your choice** because peer-to-peer markets are the real markets.
 
