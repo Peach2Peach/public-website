@@ -3,8 +3,8 @@ template: index
 ---
 <!--[teaser]-->
 # Peach Bitcoin
-
 ## Compre e Venda Bitcoin <span>peer-to-peer</span>
+### Da Suíça🇨🇭
 
 <div class="inner-wrap">
 
