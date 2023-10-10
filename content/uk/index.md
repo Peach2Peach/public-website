@@ -3,8 +3,8 @@ template: index
 ---
 <!--[teaser]-->
 # Peach Bitcoin
-
 ## Купуйте та продавайте Bitcoin <span>одне одному</span>
+### зі Швейцарії🇨🇭
 
 <div class="inner-wrap">
 
