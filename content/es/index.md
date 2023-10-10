@@ -3,8 +3,8 @@ template: index
 ---
 <!--[teaser]-->
 # Peach Bitcoin
-
 ## Compra y vende Bitcoin <span>entre pares</span>
+### Hecho en Suiza🇨🇭
 
 <div class="inner-wrap">
 
