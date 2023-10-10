@@ -5,6 +5,7 @@
 @import 'base/elements.css';
 @import 'base/header.css';
 @import 'base/footer.css';
+@import 'base/utility.css';
 
 /* Sections */
 @import 'pages/page.css';
