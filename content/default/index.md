@@ -18,17 +18,17 @@ template: index
 </div>
 
 <!--[top]-->
-## Buy and Sell Bitcoin, the way you want
+# The easiest way to Buy and Sell Bitcoin P2P
+<br><br>
+### Use the referral code BITCOIN to get
 
-### Use the code BITCOIN to get
-
-If you are a buyer: **1 free trade!**
-
-If you are a seller: **Satsback on each trade!**
+**1 free buy trade** and **Satsback on each sell trade**
 
 :::buttons
 [Get 1 free trade](https://peachbitcoin.com/referral/?code=BITCOIN)
 :::
+
+## What is Peach?
 
 Peach is a mobile application that **connects** Bitcoin buyers and sellers directly together.
 
@@ -38,7 +38,7 @@ Use the payment method of your choice amongst **[many options](/how-it-works/#pa
 
 Sell at the **price of your choice** because peer-to-peer markets are the real markets.
 
-**KYC-free Bitcoin is the best Bitcoin.**
+**KYC-free Bitcoin is the safest Bitcoin.**
 
 <!--[mission]-->
 ## Join our Mission
