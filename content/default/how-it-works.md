@@ -42,6 +42,8 @@ There are a whole bunch of payment methods you can choose from.<br>
 - RON
 - TRY
 
+---
+
 ##### Latin America
 - ARS
 - COP
@@ -50,10 +52,14 @@ There are a whole bunch of payment methods you can choose from.<br>
 - CLP
 - CRC
 
+---
+
 ##### Africa
 - CFA (XOF)
 - CDF
 - NGN
+
+---
 
 ##### Other
 - LN (swaps)
@@ -61,9 +67,12 @@ There are a whole bunch of payment methods you can choose from.<br>
 
 ---
 
-#### Available Payment Methods
+### Available Payment Methods
 
-Click _**[HERE](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ to discover all our payment methods!
+:::buttons
+[Click here]([$iosUrl$](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing))
+:::
+to discover **ALL OUR PAYMENT METHODS**!
 
 If there's another Payment Method you'd like to use, but it isn't listed, let us know by filling
 <br>
