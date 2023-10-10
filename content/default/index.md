@@ -9,8 +9,8 @@ template: index
 
 <div class="inner-wrap">
 
-[![Download on the Apple Store](/img/apple-download-link.svg)](https://testflight.apple.com/join/wfSPFEWG)
-[![Get it on Google Play](/img/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet)
+[![Download on the Apple Store](/img/Download_on_the_App_Store_Badge_US-UK_blk_092917.eps)](https://testflight.apple.com/join/wfSPFEWG)
+[![Get it on Google Play](/img/google-play-badge.eps)](https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet)
 :::buttons
 [Download APK on Android](/apk/)
 :::
