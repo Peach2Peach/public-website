@@ -3,8 +3,8 @@ template: index
 ---
 <!--[teaser]-->
 # Peach Bitcoin
-
 ## Achetez & Vendez du Bitcoin en <span>pair-à-pair</span>
+### De Suisse🇨🇭
 
 <div class="inner-wrap">
 
