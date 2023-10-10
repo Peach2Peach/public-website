@@ -3,8 +3,8 @@ template: index
 ---
 <!--[teaser]-->
 # Peach Bitcoin
-
 ## Αγοράστε & Πουλήστε Bitcoin <span>peer-to-peer</span>
+### από την Ελβετία🇨🇭
 
 <div class="inner-wrap">
 
