@@ -20,7 +20,7 @@ template: index
 <!--[top]-->
 # The easiest way to Buy and Sell Bitcoin P2P
 <br><br>
-### Use the referral code BITCOIN to get
+### Use the referral code ADD REFCODE to get
 
 **1 free buy trade** and **Satsback on each sell trade**
 
