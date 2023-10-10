@@ -9,9 +9,9 @@ template: index
 
 <div class="inner-wrap">
 
+[![Download on the Apple Store](/img/apple-download-link.svg)](https://testflight.apple.com/join/wfSPFEWG)
+[![Get it on Google Play](/img/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet)
 :::buttons
-[Download on iPhone]($iosUrl$)
-[Download on Android]($androidUrl$)
 [Download APK on Android](/apk/)
 :::
 
