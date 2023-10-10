@@ -5,11 +5,11 @@
 Εάν θέλετε να μας βοηθήσετε να μεταφράσουμε το Peach στην τοπική γλώσσα σας, [επικοινωνήστε μαζί μας!](mailto:hello@peachbitcoin.com)
 
 <ul>
-  <li><a href="https://peachbitcoin.com">Αγγλικά🇬🇧</a></li>
-  <li><a href="https://peachbitcoin.com/es">Ισπανικά🇪🇸</a></li>
-  <li><a href="https://peachbitcoin.com/fr">Γαλλικά🇫🇷</a></li>
-  <li><a href="https://peachbitcoin.com/de">Γερμανικά🇩🇪</a></li>
-  <li><a href="https://peachbitcoin.com/it">Ιταλικά🇮🇹</a></li>
-  <li><a href="https://peachbitcoin.com/el">Ελληνικά🇬🇷</a></li>
-  <li><a href="https://peachbitcoin.com/sw">Σουαχίλι🇰🇪</a></li>
+  <li><a href="/">Αγγλικά🇬🇧</a></li>
+  <li><a href="/es">Ισπανικά🇪🇸</a></li>
+  <li><a href="/fr">Γαλλικά🇫🇷</a></li>
+  <li><a href="/de">Γερμανικά🇩🇪</a></li>
+  <li><a href="/it">Ιταλικά🇮🇹</a></li>
+  <li><a href="/el">Ελληνικά🇬🇷</a></li>
+  <li><a href="/sw">Σουαχίλι🇰🇪</a></li>
 </ul>
