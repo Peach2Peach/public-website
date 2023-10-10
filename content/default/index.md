@@ -3,8 +3,9 @@ template: index
 ---
 <!--[teaser]-->
 # Peach Bitcoin
-#### Made in Switzerland🇨🇭
 ## Buy & Sell Bitcoin <span>peer-to-peer</span>
+#### Made in Switzerland🇨🇭
+
 
 <div class="inner-wrap">
 
