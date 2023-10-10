@@ -26,6 +26,8 @@ There are a whole bunch of payment methods you can choose from.<br>
 
 #### Supported Currencies
 
+##### Europe
+
 - EUR
 - GBP
 - CHF
@@ -39,24 +41,32 @@ There are a whole bunch of payment methods you can choose from.<br>
 - ISK
 - RON
 - TRY
+
+##### Latin America
 - ARS
 - COP
 - PEN
 - MXN
 - CLP
 - CRC
+
+##### Africa
 - CFA (XOF)
 - CDF
 - NGN
+
+##### Other
+- LN (swaps)
+- L-USDT
 
 ---
 
 #### Available Payment Methods
 
-Take a look at _**[this excel sheet](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ to discover **ALL OUR PAYMENT METHODS!**
+Click _**[HERE](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ to discover all our payment methods!
 
 If there's another Payment Method you'd like to use, but it isn't listed, let us know by filling
-<br><br>
+<br>
 **[THIS FORM](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
 <!--[self_custody]-->
