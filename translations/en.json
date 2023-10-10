@@ -23,7 +23,7 @@
   "download": "Download",
   "bitcoin": "Bitcoin",
   "whitepaper": "Whitepaper",
-  "languages": "Languages",
+  "languages": "Languages🌐",
   "quickStartGuide": "Quick Start Guide",
   "faq": "FAQ",
   "trading": "Trading",
@@ -44,6 +44,5 @@
   "github": "Github",
   "api": "API Docs",
   "youtube": "YouTube",
-  "forBusinesses": "For Businesses",
-  "languages": "🌐"
+  "forBusinesses": "For Businesses"
 }
