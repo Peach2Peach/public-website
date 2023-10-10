@@ -65,6 +65,7 @@ html(lang=lang)
           +navItem("for-businesses", i18n("forBusinesses", lang))
           +navItem("blog", i18n("blog", lang))
           +navItem("support", i18n("support", lang))
+          +navItem("languages", 🌐)
     if hasTeaser
       block teaser
     main#main.main
@@ -102,5 +103,5 @@ html(lang=lang)
             a(href="/bitcoin.pdf") !{i18n('whitepaper', lang)}
             a(href="https://docs.peachbitcoin.com") !{i18n('api', lang)}
           .box
-            a(href=getUrl("/languages/", lang)) h6 !{i18n('languages', lang)}
+            a(href=getUrl("/languages/", lang)) !{i18n('languages', lang)}
     script(src=assetPath("/js/main.js"))
