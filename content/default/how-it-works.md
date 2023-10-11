@@ -70,7 +70,7 @@ There are a whole bunch of payment methods you can choose from.<br>
 ### Available Payment Methods
 
 :::buttons
-[Click here]([$iosUrl$](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing))
+[Click here](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
 :::
 to discover **ALL OUR PAYMENT METHODS**!
 
