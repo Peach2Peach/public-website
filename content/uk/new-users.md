@@ -20,6 +20,10 @@ Satsback при кожній угоді на продаж!
 
 Після створення вашого облікового запису переконайтеся, що ділитесь своїм власним реферальним кодом, щоб почати накопичувати бали Peach і обмінювати їх на більше винагород у Bitcoin!
 
+<div class="inner-wrap">
+
+![✔ verifiable source code](/img/phones.png)
+
 <div>
   <div class="md:flex items-end">
     <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
@@ -27,7 +31,9 @@ Satsback при кожній угоді на продаж!
   </div>
 
   :::buttons
-  [Download APK on Android](/apk/)
+  [Завантажити APK на Android](/uk/apk/)
   :::
+
+</div>
 
 </div>
