@@ -55,6 +55,11 @@ Você é uma dessas pessoas? Confira nossa seção [Junte-se a Nós](/join-us/),
 
 Se você quiser saber mais sobre a empresa, confira nossos [posts no blog](/blog/) que falam sobre como tudo começou e como chegamos até aqui.
 
+A Peach é membro da SRO (Organização de Autorregulação) da VQF (Verein Qualitatssicherung Finanzwesen). A Peach é um prestador de serviços financeiros licenciado na Suíça, totalmente compatível com a Lei Suíça de Combate à Lavagem de Dinheiro.
+
+![](/img/vqf.webp)
+
+
 ### O que as pessoas dizem sobre nós?
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
