@@ -1,7 +1,7 @@
 # Pour les nouveaux utilisateurs
 ## Gagnez des récompenses en Bitcoin!
 
-Si vous n'avez pas encore de code de parrainage, vous pouvez commencer à utiliser l'application avec le code: **insérez le code ici**
+Si vous n'avez pas encore de code de parrainage, vous pouvez commencer à utiliser l'application avec le code: **PEACH**
 
 ## Avantages
 ::::figures 2
