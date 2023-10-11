@@ -23,7 +23,6 @@
   "download": "Κατεβάστε",
   "bitcoin": "Bitcoin",
   "whitepaper": "Λευκή Βίβλος (Whitepaper)",
-  "languages": "Γλώσσες",
   "quickStartGuide": "Σύντομος Οδηγός",
   "faq": "Συχνές Ερωτήσεις",
   "trading": "Συναλλαγές",
@@ -41,5 +40,9 @@
   "mailing.list.unsubscribe": "Μπορείτε να διαγραφείτε ανά πάσα στιγμή στέλνοντας μήνυμα σε κάποιο από τα email μας.",
   "mailing.list.subscribe.button": "Εγγραφή",
   "mailing.list.privacypolicy": "Πολιτική Απορρήτου",
-  "youtube": "YouTube"
+  "youtube": "YouTube",
+  "forBusinesses": "Για Επιχειρήσεις",
+  "referral": "παραπομπή",
+  "affiliate": "πρόγραμμα συνεργασίας",
+  "earnBitcoin": "κερδίστε Bitcoin"
 }

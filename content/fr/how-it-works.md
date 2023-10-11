@@ -14,18 +14,26 @@ template: how_it_works
 
 Téléchargez gratuitement l'application et commencez à trader immédiatement ! Nous ne vous demanderons pas de télécharger votre pièce d'identité ou de prendre un selfie avec votre permis de conduire.
 
-:::buttons
-[Télécharger sur iPhone]($iosUrl$)
-[Télécharger sur Android]($androidUrl$)
-:::
+<div>
+  <div class="md:flex items-end">
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+  </div>
+
+  :::buttons
+  [Download APK on Android](/apk/)
+  :::
+
+</div>
 
 <!--[payment_methods]-->
-### Méthodes de paiement acceptées
+### Modes de paiement acceptés
 
-Il existe de nombreuses méthodes de paiement parmi lesquelles vous pouvez choisir.<br>
-
+Vous avez le choix parmi toute une gamme de modes de paiement.
 
 #### Devises acceptées
+
+##### Europe
 
 - EUR
 - GBP
@@ -40,25 +48,47 @@ Il existe de nombreuses méthodes de paiement parmi lesquelles vous pouvez chois
 - ISK
 - RON
 - TRY
+
+---
+
+##### Amérique latine
+
 - ARS
 - COP
 - PEN
 - MXN
 - CLP
 - CRC
+
+---
+
+##### Afrique
+
 - CFA (XOF)
 - CDF
 - NGN
 
 ---
 
-#### Méthodes de paiement acceptées
+##### Autres
 
-Va voir ce _**[fichier](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ pour découvrir tous nos **MOYENS DE PAIEMENTS!**
+- LN (swaps)
+- L-USDT
 
-Un moyen de paiement n’est pas listé et vous voudriez qu’on l’ajoute? Dites nous en remplissant ce
-<br><br>
-**[petit formulaire!](https://ncxldazr6m4.typeform.com/to/SJljDnae)**
+---
+
+### Modes de paiement disponibles
+
+:::buttons
+[Cliquez ici](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
+:::
+pour découvrir **TOUS NOS MODES DE PAIEMENT** !
+
+Si vous souhaitez utiliser un autre mode de paiement qui n'est pas répertorié, veuillez nous en informer en remplissant
+<br>
+
+**[CE FORMULAIRE](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
+
 
 <!--[self_custody]-->
 ### Pas vos clés, pas vos coins

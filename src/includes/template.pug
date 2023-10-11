@@ -65,6 +65,8 @@ html(lang=lang)
           +navItem("for-businesses", i18n("forBusinesses", lang))
           +navItem("blog", i18n("blog", lang))
           +navItem("support", i18n("support", lang))
+          a(href=getUrl(`/languages/`, lang) class=('flex ' + (permalink === 'languages' && 'current')))&attributes(attributes)
+            +sprite("globe")
     if hasTeaser
       block teaser
     main#main.main
@@ -102,12 +104,7 @@ html(lang=lang)
             a(href="/bitcoin.pdf") !{i18n('whitepaper', lang)}
             a(href="https://docs.peachbitcoin.com") !{i18n('api', lang)}
           .box
-            h6 !{i18n('languages', lang)}
-            a(href="/") English
-            a(href="/es") Español
-            a(href="/fr") Français
-            a(href="/de") Deutsch
-            a(href="/it") Italiano
-            a(href="/el") Greek
-            a(href="/sw") Swahili
+            h6 !{i18n('earnBitcoin', lang)}
+            a(href=getUrl("/new-users/", lang)) !{i18n('referral', lang)}
+            a(href=getUrl("/for-businesses/", lang)) !{i18n('affiliate', lang)}
     script(src=assetPath("/js/main.js"))

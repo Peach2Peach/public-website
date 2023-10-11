@@ -3,33 +3,52 @@ template: index
 ---
 <!--[teaser]-->
 # Peach Bitcoin
-
 ## Achetez & Vendez du Bitcoin en <span>pair-à-pair</span>
+#### De Suisse🇨🇭
+
 
 <div class="inner-wrap">
 
-:::buttons
-[Télécharger sur iPhone]($iosUrl$)
-[Télécharger sur Android]($androidUrl$)
-[Télécharger l'APK sur Android](/apk/)
-:::
-
 ![✔ code source vérifiable](/img/phones.png)
+
+<div>
+  <div class="md:flex items-end">
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+  </div>
+
+  :::buttons
+  [Télécharger l'APK sur Android](/apk/)
+  :::
+
+</div>
 
 </div>
 
 <!--[top]-->
-## Achetez et vendez du Bitcoin, comme vous le souhaitez
+# La manière la plus simple d'acheter et de vendre du Bitcoin en P2P
+<br>
 
-Peach est une application mobile qui **connecte** directement les acheteurs et les vendeurs de Bitcoin.
+### Utilisez le code de parrainage PEACH pour obtenir
 
-Achetez ou vendez du bitcoin en pair-à-pair **partout, à tout moment**.
+**1 échange d'achat gratuit** et **Satsback à chaque échange de vente**
 
-Utilisez la méthode de paiement de votre choix parmi **[de nombreuses options](/fr/how-it-works/#payment)**.
+:::buttons
+[Obtenez 1 échange gratuit](https://peachbitcoin.com/referral/?code=PEACH)
+:::
+<br><br>
+
+## Qu'est-ce que Peach ?
+
+Peach est une application mobile qui **met en relation** directe les acheteurs et les vendeurs de Bitcoin.
+
+:::buttons
+[Découvrez nos modes de paiement](/how-it-works/#available-payment-methods)
+:::
 
 Vendez au **prix de votre choix** car les marchés pair-à-pair sont les vrais marchés.
 
-**Le Bitcoin sans KYC est le meilleur Bitcoin.**
+**Le Bitcoin sans KYC est le Bitcoin le plus sûr.**
 
 <!--[mission]-->
 ## Rejoignez notre mission
@@ -44,6 +63,11 @@ Peach, l'entreprise, est née de personnes qui croient en la monnaie la plus dur
 Faites-vous partie de ces personnes ? Consultez notre section [Rejoignez-nous](/join-us/), peut-être que nous pouvons travailler ensemble !
 
 Si vous voulez en savoir plus sur l'entreprise, consultez nos [articles de blog](/blog/) qui parlent de comment tout a commencé et comment nous en sommes arrivés là.
+
+Peach est membre de SRO (Organisation d'autorégulation) de VQF (Verein Qualitatssicherung Finanzwesen). Peach est un prestataire de services financiers agréé en Suisse, en totale conformité avec la Loi suisse sur la lutte contre le blanchiment d'argent.
+
+![](/img/vqf.webp)
+
 
 ### Qu'est-ce que les gens disent de nous?
 <br>
