@@ -27,7 +27,7 @@ Depois de criar sua conta, certifique-se de compartilhar seu próprio código de
   </div>
 
   :::buttons
-  [Download APK on Android](/apk/)
+  [Baixar APK no Android](/pt/apk/)
   :::
 
 </div>
