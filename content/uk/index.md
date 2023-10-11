@@ -4,9 +4,11 @@ template: index
 <!--[teaser]-->
 # Peach Bitcoin
 ## Купуйте та продавайте Bitcoin <span>одне одному</span>
-### зі Швейцарії🇨🇭
+#### зі Швейцарії🇨🇭
 
 <div class="inner-wrap">
+
+![✔ verifiable source code](/img/phones.png)
 
 <div>
   <div class="md:flex items-end">
@@ -15,12 +17,11 @@ template: index
   </div>
 
   :::buttons
-  [Download APK on Android](/apk/)
+  [Завантажити APK на Android](/uk/apk/)
   :::
 
 </div>
 
-![✔ перевірений вихідний код](/img/phones.png)
 </div>
 
 <!--[top]-->
