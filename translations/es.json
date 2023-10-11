@@ -21,7 +21,6 @@
   "contact": "Contacto",
   "email": "Correo Electrónico",
   "bitcoin": "Bitcoin",
-  "languages": "Idioma",
   "whitepaper": "Whitepaper",
   "quickStartGuide": "Guía de Inicio Rápido",
   "faq": "Preguntas frecuentes",
@@ -41,5 +40,8 @@
   "mailing.list.subscribe.button": "Suscribir",
   "mailing.list.privacypolicy": "Política de Privacidad",
   "youtube": "YouTube",
-  "forBusinesses": "Para Profesionales"
+  "forBusinesses": "Para Profesionales",
+  "referral": "Código de referido",
+  "affiliate": "Programa de afiliados",
+  "earnBitcoin": "Ganar Bitcoin"
 }

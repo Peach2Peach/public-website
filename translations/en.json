@@ -23,7 +23,6 @@
   "download": "Download",
   "bitcoin": "Bitcoin",
   "whitepaper": "Whitepaper",
-  "languages": "Languages",
   "quickStartGuide": "Quick Start Guide",
   "faq": "FAQ",
   "trading": "Trading",
@@ -44,5 +43,8 @@
   "github": "Github",
   "api": "API Docs",
   "youtube": "YouTube",
-  "forBusinesses": "For Businesses"
+  "forBusinesses": "For Businesses",
+  "referral": "Referral Code",
+  "affiliate": "Become an Affiliate",
+  "earnBitcoin": "Earn Bitcoin"
 }

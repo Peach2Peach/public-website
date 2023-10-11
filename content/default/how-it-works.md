@@ -14,10 +14,17 @@ template: how_it_works
 
 Download the app for free and start trading right away! We won't ask you to upload your ID or make a selfie with your driver's license
 
-:::buttons
-[Download on iPhone]($iosUrl$)
-[Download on Android]($androidUrl$)
-:::
+<div>
+  <div class="md:flex items-end">
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+  </div>
+
+  :::buttons
+  [Download APK on Android](/apk/)
+  :::
+
+</div>
 
 <!--[payment_methods]-->
 ### Supported payment methods
@@ -25,6 +32,8 @@ Download the app for free and start trading right away! We won't ask you to uplo
 There are a whole bunch of payment methods you can choose from.<br>
 
 #### Supported Currencies
+
+##### Europe
 
 - EUR
 - GBP
@@ -39,24 +48,41 @@ There are a whole bunch of payment methods you can choose from.<br>
 - ISK
 - RON
 - TRY
+
+---
+
+##### Latin America
 - ARS
 - COP
 - PEN
 - MXN
 - CLP
 - CRC
+
+---
+
+##### Africa
 - CFA (XOF)
 - CDF
 - NGN
 
 ---
 
-#### Available Payment Methods
+##### Other
+- LN (swaps)
+- L-USDT
 
-Take a look at _**[this excel sheet](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ to discover **ALL OUR PAYMENT METHODS!**
+---
+
+### Available Payment Methods
+
+:::buttons
+[Click here](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
+:::
+to discover **ALL OUR PAYMENT METHODS**!
 
 If there's another Payment Method you'd like to use, but it isn't listed, let us know by filling
-<br><br>
+<br>
 **[THIS FORM](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
 <!--[self_custody]-->

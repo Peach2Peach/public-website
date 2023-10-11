@@ -23,7 +23,6 @@
   "download": "Pakua",
   "bitcoin": "Bitcoin",
   "whitepaper": "Nakala Nyeupe",
-  "languages": "Lugha",
   "quickStartGuide": "Mwongozo wa Kuanza Haraka",
   "faq": "Maswali Yanayoulizwa Sana",
   "trading": "Biashara",
@@ -42,5 +41,10 @@
   "mailing.list.subscribe.button": "Jisajili",
   "mailing.list.privacypolicy": "Sera ya Faragha",
   "github": "Github",
-  "api": "Nyaraka za API"
+  "api": "Nyaraka za API",
+  "youtube": "YouTube",
+  "forBusinesses": "Kwa Biashara",
+  "referral": "Msimamizi wa kumbukumbu",
+  "affiliate": "Mpango wa washirika",
+  "earnBitcoin": "Kupata Bitcoin"
 }

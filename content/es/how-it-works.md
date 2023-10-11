@@ -14,17 +14,26 @@ template: how_it_works
 
 ¡Descarga la app gratuitamente y compra o vende Bitcoin de inmediato! No te pediremos que subas tu ID o hagas una selfie con tu licencia de conducir ;)
 
-:::buttons
-[Descargar en iPhone]($iosUrl$)
-[Descargar en Android]($androidUrl$)
-:::
+<div>
+  <div class="md:flex items-end">
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+  </div>
+
+  :::buttons
+  [Download APK on Android](/apk/)
+  :::
+
+</div>
 
 <!--[payment_methods]-->
-### Métodos de pago aceptados
+### Métodos de pago admitidos
 
-Hay un montón de métodos de pago entre los que puedes elegir.<br>
+Existen numerosos métodos de pago entre los que puedes elegir.<br>
 
 #### Monedas admitidas
+
+##### Europa
 
 - EUR
 - GBP
@@ -39,24 +48,44 @@ Hay un montón de métodos de pago entre los que puedes elegir.<br>
 - ISK
 - RON
 - TRY
+
+---
+
+##### América Latina
 - ARS
 - COP
 - PEN
 - MXN
 - CLP
 - CRC
+
+---
+
+##### África
 - CFA (XOF)
 - CDF
 - NGN
 
 ---
 
-#### Métodos de Pago
+##### Otros
+- LN (swaps)
+- L-USDT
 
-En _**[este excel](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ encontrarás una lista entera de **TODOS LOS MÉTODOS DE PAGO** de la App, así cómo las monedas que soporta cada uno.
+---
 
-Si te gustaría que añadamos un nuevo Método de Pago<br><br>
-**[RELLENA ESTE FORMULARIO](https://ncxldazr6m4.typeform.com/to/SJljDnae)**
+### Métodos de pago disponibles
+
+:::buttons
+[Haz clic aquí](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
+:::
+para descubrir **TODOS NUESTROS MÉTODOS DE PAGO**.
+
+Si deseas utilizar otro método de pago que no esté en la lista, avísanos completando
+<br>
+
+**[ESTE FORMULARIO](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
+
 
 <!--[self_custody]-->
 ### No tus llaves, no tu dinero
