@@ -1,7 +1,7 @@
 # Para nuevos usuarios
 ## ¡Gana recompensas en Bitcoin!
 
-Si aún no tienes un código de referencia, puedes comenzar a usar la aplicación con el código: **inserta el código aquí**
+Si aún no tienes un código de referencia, puedes comenzar a usar la aplicación con el código: **PEACH**
 
 ## Ventajas
 ::::figures 2
