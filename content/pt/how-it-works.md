@@ -21,10 +21,11 @@ Baixe o aplicativo gratuitamente e compre ou venda Bitcoin imediatamente! Não p
 
 <!--[payment_methods]-->
 ### Métodos de pagamento aceitos
+Existem muitos métodos de pagamento que você pode escolher.
 
-Existem muitos métodos de pagamento entre os quais você pode escolher.<br>
+#### Moedas Suportadas
 
-#### Moedas aceitas
+##### Europa
 
 - EUR
 - GBP
@@ -39,24 +40,46 @@ Existem muitos métodos de pagamento entre os quais você pode escolher.<br>
 - ISK
 - RON
 - TRY
+
+---
+
+##### América Latina
+
 - ARS
 - COP
 - PEN
 - MXN
 - CLP
 - CRC
+
+---
+
+##### África
+
 - CFA (XOF)
 - CDF
 - NGN
 
 ---
 
-#### Métodos de pagamento
+##### Outros
 
-No _**[este excel](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ você encontrará uma lista completa de **TODOS OS MÉTODOS DE PAGAMENTO** do aplicativo, bem como as moedas que cada um suporta.
+- LN (trocas)
+- L-USDT
 
-Se você gostaria que adicionássemos um novo Método de Pagamento,<br><br>
-**[PREENCHA ESTE FORMULÁRIO](https://ncxldazr6m4.typeform.com/to/SJljDnae)**
+---
+
+### Métodos de pagamento disponíveis
+
+:::buttons
+[Clique aqui](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
+:::
+para descobrir **TODOS OS NOSSOS MÉTODOS DE PAGAMENTO**!
+
+Se houver outro método de pagamento que você gostaria de usar, mas não está listado, nos avise preenchendo
+<br>
+
+**[ESTE FORMULÁRIO](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
 <!--[self_custody]-->
 ### Não suas chaves, não seu dinheiro
