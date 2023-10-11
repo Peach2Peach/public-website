@@ -28,17 +28,30 @@ template: index
 
 
 <!--[top]-->
-## Compra e Vendi Bitcoin, come vuoi
+# Il modo più semplice per comprare e vendere Bitcoin P2P
+<br>
 
-Peach è un'app mobile che **connette** direttamente compratori e venditori di Bitcoin.
+### Utilizza il codice di riferimento PEACH per ottenere
 
-Compra o vendi Bitcoin peer-to-peer **ovunque, in qualsiasi momento**.
+**1 scambio d'acquisto gratuito** e **Satsback su ciascuno scambio di vendita**
 
-Utilizza il metodo di pagamento che preferisci tra i **[molti disponibili](/it/how-it-works/#payment)**.
+:::buttons
+[Ottieni 1 scambio gratuito](https://peachbitcoin.com/referral/?code=PEACH)
+:::
+<br><br>
 
-Vendi al **prezzo che desideri** perché i mercati peer-to-peer sono i veri mercati.
+## Cos'è Peach?
 
-**Bitcoin senza KYC è il miglior Bitcoin.**
+Peach è un'applicazione mobile che **collega** direttamente i compratori e i venditori di Bitcoin.
+
+:::buttons
+[Controlla i nostri metodi di pagamento](/how-it-works/#available-payment-methods)
+:::
+
+Vendi al **prezzo che preferisci** perché i mercati peer-to-peer sono i veri mercati.
+
+**Il Bitcoin senza KYC è il Bitcoin più sicuro.**
+
 
 <!--[mission]-->
 ## Unisciti alla nostra Missione

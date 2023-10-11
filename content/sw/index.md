@@ -26,17 +26,30 @@ template: index
 </div>
 
 <!--[top]-->
-## Nunua na Uuze Bitcoin, kwa njia unayopenda
+# Njia rahisi zaidi ya Kununua na Kuuza Bitcoin P2P
+<br>
 
-Peach ni programu ya simu inayounganisha moja kwa moja wanunuzi na wauzaji wa Bitcoin.
+### Tumia nambari ya rufaa PEACH ili kupata
 
-Nunua au uuze bitcoin mtu-kwa-mtu **popote, wakati wowote**.
+**Kubadilishana kununua bure 1** na **Satsback kwa kila kubadilishana kuuza**
 
-Tumia njia yako pendwa ya malipo kati ya **[chaguo nyingi](/how-it-works/#payment)**.
+:::buttons
+[Pata kubadilishana bure 1](https://peachbitcoin.com/referral/?code=PEACH)
+:::
+<br><br>
 
-Uza kwa **bei ya chaguo lako** kwa sababu masoko ya mtu-kwa-mtu ni masoko halisi.
+## Peach Ni Nini?
 
-**Bitcoin bila KYC ndiyo Bitcoin bora zaidi.**
+Peach ni programu ya rununu inayowakutanisha wauzaji na wanunuzi wa Bitcoin moja kwa moja.
+
+:::buttons
+[Angalia Njia Zetu za Malipo](/how-it-works/#available-payment-methods)
+:::
+
+Uza kwa **bei yako unayopenda** kwa sababu masoko ya kwa kwa ni masoko halisi.
+
+**Bitcoin bila KYC ni Bitcoin salama zaidi.**
+
 
 <!--[mission]-->
 ## Jiunge na Azma yetu

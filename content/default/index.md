@@ -29,12 +29,12 @@ template: index
 # The easiest way to Buy and Sell Bitcoin P2P
 <br>
 
-### Use the referral code ADD REFCODE to get
+### Use the referral code PEACH to get
 
 **1 free buy trade** and **Satsback on each sell trade**
 
 :::buttons
-[Get 1 free trade](https://peachbitcoin.com/referral/?code=BITCOIN)
+[Get 1 free trade](https://peachbitcoin.com/referral/?code=PEACH)
 :::
 <br><br>
 ## What is Peach?
