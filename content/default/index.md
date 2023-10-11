@@ -9,13 +9,20 @@ template: index
 
 <div class="inner-wrap">
 
-[![Download on the Apple Store](/img/download-on-the-app-store-vector.svg)](https://testflight.apple.com/join/wfSPFEWG)
-[![Get it on Google Play](/img/google-play-vector.svg)](https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet)
-:::buttons
-[Download APK on Android](/apk/)
-:::
-
 ![✔ verifiable source code](/img/phones.png)
+
+<div>
+  <div class="md:flex items-end">
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+  </div>
+
+  :::buttons
+  [Download APK on Android](/apk/)
+  :::
+
+</div>
+
 </div>
 
 <!--[top]-->
@@ -35,8 +42,7 @@ template: index
 Peach is a mobile application that **connects** Bitcoin buyers and sellers directly together.
 
 :::buttons
-[Check our Payment Methods]([https://peachbitcoin.com/referral/?code=BITCOIN](https://deploy-preview-80--inquisitive-dolphin-3017bc.netlify.app/how-it-works/#available-payment-methods
-)
+[Check our Payment Methods](/how-it-works/#available-payment-methods)
 :::
 
 Sell at the **price of your choice** because peer-to-peer markets are the real markets.

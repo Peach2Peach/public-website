@@ -20,6 +20,10 @@
         align-items: center;
         justify-content: center;
         gap: var(--space-xl);
+
+        & .buttons {
+          margin: 0
+        }
       }
       & .buttons {
         width: 18rem;

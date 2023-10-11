@@ -4,19 +4,26 @@ template: index
 <!--[teaser]-->
 # Peach Bitcoin
 ## Compra y vende Bitcoin <span>entre pares</span>
-### Hecho en Suiza🇨🇭
+#### Hecho en Suiza🇨🇭
 
 <div class="inner-wrap">
 
-:::buttons
-[Descarga para iPhone]($iosUrl$)
-[Descarga para Android]($androidUrl$)
-[Descarga APK para Android](/es/apk/)
-:::
-
 ![✔ código fuente verificable](/img/phones.png)
 
+<div>
+  <div class="md:flex items-end">
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+  </div>
+
+  :::buttons
+  [Descarga APK para Android](/es/apk/)
+  :::
+
 </div>
+
+</div>
+
 
 <!--[top]-->
 ## Compra y vende Bitcoin, como y cuando quieras

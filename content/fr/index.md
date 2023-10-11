@@ -4,17 +4,24 @@ template: index
 <!--[teaser]-->
 # Peach Bitcoin
 ## Achetez & Vendez du Bitcoin en <span>pair-à-pair</span>
-### De Suisse🇨🇭
+#### De Suisse🇨🇭
+
 
 <div class="inner-wrap">
 
-:::buttons
-[Télécharger sur iPhone]($iosUrl$)
-[Télécharger sur Android]($androidUrl$)
-[Télécharger l'APK sur Android](/apk/)
-:::
-
 ![✔ code source vérifiable](/img/phones.png)
+
+<div>
+  <div class="md:flex items-end">
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+  </div>
+
+  :::buttons
+  [Télécharger l'APK sur Android](/apk/)
+  :::
+
+</div>
 
 </div>
 

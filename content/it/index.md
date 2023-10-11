@@ -7,17 +7,25 @@ template: index
 ## Compra & Vendi Bitcoin <span>peer-to-peer</span>
 ### Dalla Svizzera🇨🇭
 
-<div class="inner-wrap">
 
-:::buttons
-[Scarica su iPhone]($iosUrl$)
-[Scarica su Android]($androidUrl$)
-[Scarica APK su Android](/it/apk/)
-:::
+<div class="inner-wrap">
 
 ![✔ codice sorgente verificabile](/img/phones.png)
 
+<div>
+  <div class="md:flex items-end">
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+  </div>
+
+  :::buttons
+  [Scarica APK su Android](/it/apk/)
+  :::
+
 </div>
+
+</div>
+
 
 <!--[top]-->
 ## Compra e Vendi Bitcoin, come vuoi
