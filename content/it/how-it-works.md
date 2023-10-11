@@ -15,10 +15,17 @@ template: how_it_works
 
 Scarica l'app gratuitamente e inizia a fare scambi immediatamente! Non ti verra mai chiesto di caricare il tuo documento d'identità o di farti un selfie per autenticarti.
 
-:::buttons
-[Scarica su iPhone]($iosUrl$)
-[Scarica su Android]($androidUrl$)
-:::
+<div>
+  <div class="md:flex items-end">
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+  </div>
+
+  :::buttons
+  [Download APK on Android](/apk/)
+  :::
+
+</div>
 
 <!--[payment_methods]-->
 ### Metodi di pagamento supportati
