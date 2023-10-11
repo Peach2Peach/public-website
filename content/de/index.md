@@ -64,6 +64,12 @@ Bist du einer von denen? Schau in unserem [Komm zu Uns](/Komm-zu-Uns/) Bereich, 
 
 Wenn du mehr über das Unternehmen Peach wissen willst, schau dir unsere [Blog Beiträge](/Blog/) an. Wir reden darüber, wie alles begann und wie wir soweit gekommen sind.
 
+
+Peach ist Mitglied der SRO (Selbstregulierungsorganisation) von VQF (Verein Qualitätssicherung Finanzwesen). Peach ist ein in der Schweiz lizenzierter Finanzdienstleister, der vollständig mit dem Anti-Geldwäscherei-Gesetz der Schweiz konform ist.
+
+![](/img/vqf.webp)
+
+
 ### Was sagen Leute über uns?
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
