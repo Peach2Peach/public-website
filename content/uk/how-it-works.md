@@ -20,11 +20,13 @@ template: how_it_works
 :::
 
 <!--[payment_methods]-->
-### Підтримувані способи оплати
+### Підтримувані методи оплати
 
-Є ціла низка способів оплати, з яких ви можете вибирати.<br>
+Є багато методів оплати, з яких ви можете вибрати.
 
 #### Підтримувані валюти
+
+##### Європа
 
 - EUR
 - GBP
@@ -39,25 +41,46 @@ template: how_it_works
 - ISK
 - RON
 - TRY
+
+---
+
+##### Латинська Америка
+
 - ARS
 - COP
 - PEN
 - MXN
 - CLP
 - CRC
+
+---
+
+##### Африка
+
 - CFA (XOF)
 - CDF
 - NGN
 
 ---
 
-#### Доступні способи оплати
+##### Інші
 
-Подивіться _**[цей файл Excel](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ для відкриття **ВСІХ НАШИХ СПОСОБІВ ОПЛАТИ!**
+- LN (обмін)
+- L-USDT
 
-Якщо є ще один спосіб оплати, який ви хотіли б використовувати, але він не вказаний, дайте нам знати, заповнивши
-<br><br>
-**[ЦЯ ФОРМА](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
+---
+
+### Доступні методи оплати
+
+:::buttons
+[Натисніть тут](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
+:::
+щоб дізнатися про **ВСІ НАШІ МЕТОДИ ОПЛАТИ**!
+
+Якщо у вас є інший метод оплати, який ви хотіли б використовувати, але його немає у списку, повідомте нам, заповнивши
+<br>
+**[ЦЮ ФОРМУ](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
+
 
 <!--[self_custody]-->
 ### Не ваші ключі, не ваші монети
