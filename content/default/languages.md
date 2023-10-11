@@ -13,5 +13,5 @@ If you'd like to help us translate Peach to your local language, [get in touch w
   <li><a href="/el">Greek🇬🇷</a></li>
   <li><a href="/sw">Swahili🇰🇪</a></li>
   <li><a href="/uk">Ukrainian🇺🇦</a></li>
-  <li><a href="/uk"></a>Portuguese🇵🇹</li>
+  <li><a href="/pt"></a>Portuguese🇵🇹</li>
 </ul>

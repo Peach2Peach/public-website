@@ -13,5 +13,5 @@ Si quieres ayudarnos a traducir Peach a tu idioma local, ¡[contáctanos!](mailt
   <li><a href="/el">Griego🇬🇷</a></li>
   <li><a href="/sw">Suajili🇰🇪</a></li>
   <li><a href="/uk">Ucraniano🇺🇦</a></li>
-  <li><a href="/uk"></a>Portugués🇵🇹</li>
+  <li><a href="/pt"></a>Portugués🇵🇹</li>
 </ul>
