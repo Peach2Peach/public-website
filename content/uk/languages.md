@@ -12,4 +12,5 @@
   <li><a href="https://peachbitcoin.com/it">Італійська🇮🇹</a></li>
   <li><a href="https://peachbitcoin.com/el">Грецька🇬🇷</a></li>
   <li><a href="https://peachbitcoin.com/sw">Суахілі🇰🇪</a></li>
+  <li><a href="https://peachbitcoin.com/sw">Українська🇺🇦</a></li>
 </ul>
