@@ -4,14 +4,13 @@
 Vous trouverez ci-dessous toutes les langues que nous prenons actuellement en charge.
 Si vous souhaitez nous aider à traduire Peach dans votre langue locale, [contactez-nous !](mailto:hello@peachbitcoin.com)
 
-<ul>
-  <li><a href="/">Anglais🇬🇧</a></li>
-  <li><a href="/es">Espagnol🇪🇸</a></li>
-  <li><a href="/fr">Français🇫🇷</a></li>
-  <li><a href="/de">Allemand🇩🇪</a></li>
-  <li><a href="/it">Italien🇮🇹</a></li>
-  <li><a href="/el">Grec🇬🇷</a></li>
-  <li><a href="/sw">Swahili🇰🇪</a></li>
-  <li><a href="/uk">Ukrainien🇺🇦</a></li>
-  <li><a href="/pt"></a>Portugais🇵🇹</li>
-</ul>
+- [Anglais🇬🇧](/)
+- [Espagnol🇪🇸](/es)
+- [Français🇫🇷](/fr)
+- [Allemand🇩🇪](/de)
+- [Italien🇮🇹](/it)
+- [Grec🇬🇷](/el)
+- [Swahili🇰🇪](/sw)
+- [Ukrainien🇺🇦](/uk)
+- [Portugais🇵🇹](/pt)
+
