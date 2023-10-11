@@ -23,9 +23,11 @@ Scarica l'app gratuitamente e inizia a fare scambi immediatamente! Non ti verra 
 <!--[payment_methods]-->
 ### Metodi di pagamento supportati
 
-Ci sono molti metodi di pagamento tra cui scegliere.<br>
+Ci sono molti metodi di pagamento tra cui puoi scegliere.
 
 #### Valute supportate
+
+##### Europa
 
 - EUR
 - GBP
@@ -40,24 +42,46 @@ Ci sono molti metodi di pagamento tra cui scegliere.<br>
 - ISK
 - RON
 - TRY
+
+---
+
+##### America Latina
+
 - ARS
 - COP
 - PEN
 - MXN
 - CLP
 - CRC
+
+---
+
+##### Africa
+
 - CFA (XOF)
 - CDF
 - NGN
 
 ---
 
-#### Metodi di pagamento supportati
+##### Altro
 
-Dai un'occhiata a _**[questo foglio excel](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ per scoprire **tutti i nostri metodi di pagamento**
+- LN (scambi)
+- L-USDT
 
-Se desideri utilizzare un metodo di pagamento attualmente non previsto, ti preghiamo di comunicarcelo compilando<br><br>
-**[QUESTO MODULO!](https://ncxldazr6m4.typeform.com/to/SJljDnae)**
+---
+
+### Metodi di pagamento disponibili
+
+:::buttons
+[Clicca qui](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
+:::
+per scoprire **TUTTI I NOSTRI METODI DI PAGAMENTO**!
+
+Se desideri utilizzare un altro metodo di pagamento che non è elencato, faccelo sapere compilando
+<br>
+
+**[QUESTO MODULO](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
 
 <!--[self_custody]-->

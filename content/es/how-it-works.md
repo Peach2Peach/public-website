@@ -20,11 +20,13 @@ template: how_it_works
 :::
 
 <!--[payment_methods]-->
-### Métodos de pago aceptados
+### Métodos de pago admitidos
 
-Hay un montón de métodos de pago entre los que puedes elegir.<br>
+Existen numerosos métodos de pago entre los que puedes elegir.<br>
 
 #### Monedas admitidas
+
+##### Europa
 
 - EUR
 - GBP
@@ -39,24 +41,44 @@ Hay un montón de métodos de pago entre los que puedes elegir.<br>
 - ISK
 - RON
 - TRY
+
+---
+
+##### América Latina
 - ARS
 - COP
 - PEN
 - MXN
 - CLP
 - CRC
+
+---
+
+##### África
 - CFA (XOF)
 - CDF
 - NGN
 
 ---
 
-#### Métodos de Pago
+##### Otros
+- LN (swaps)
+- L-USDT
 
-En _**[este excel](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ encontrarás una lista entera de **TODOS LOS MÉTODOS DE PAGO** de la App, así cómo las monedas que soporta cada uno.
+---
 
-Si te gustaría que añadamos un nuevo Método de Pago<br><br>
-**[RELLENA ESTE FORMULARIO](https://ncxldazr6m4.typeform.com/to/SJljDnae)**
+### Métodos de pago disponibles
+
+:::buttons
+[Haz clic aquí](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
+:::
+para descubrir **TODOS NUESTROS MÉTODOS DE PAGO**.
+
+Si deseas utilizar otro método de pago que no esté en la lista, avísanos completando
+<br>
+
+**[ESTE FORMULARIO](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
+
 
 <!--[self_custody]-->
 ### No tus llaves, no tu dinero

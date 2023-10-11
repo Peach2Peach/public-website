@@ -20,11 +20,13 @@ Lade die App gratis herunter und starte sofort zuHandeln! Wir werden nicht nach 
 :::
 
 <!--[payment_methods]-->
-### Unterstüzte Zahlungsmethoden
+### Unterstützte Zahlungsmethoden
 
-Es gibt eine grosse Auswahl an Zahlungsmethoden.<br>
+Es gibt eine Vielzahl von Zahlungsmethoden, aus denen Sie wählen können.<br>
 
-#### Unterstüzte Währungen
+#### Unterstützte Währungen
+
+##### Europa
 
 - EUR
 - GBP
@@ -39,24 +41,43 @@ Es gibt eine grosse Auswahl an Zahlungsmethoden.<br>
 - ISK
 - RON
 - TRY
+
+---
+
+##### Lateinamerika
 - ARS
 - COP
 - PEN
 - MXN
 - CLP
 - CRC
+
+---
+
+##### Afrika
 - CFA (XOF)
 - CDF
 - NGN
 
 ---
 
-#### Zahlungsmethoden
-Siehe _**[diese Tabelle](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ um **ALLE UNSERE BEZAHLMETHODEN ZU ENTDECKEN!**
+##### Andere
+- LN (Swaps)
+- L-USDT
 
-Falls du eine andere Zahlungsmethode nutzen möchtest, die nicht gelistet ist, sag uns Bescheid und
-<br><br>
-**[FÜLLE DIESES FORMULAR AUS!](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
+---
+
+### Verfügbare Zahlungsmethoden
+
+:::buttons
+[Hier klicken](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
+:::
+um **ALLE UNSERE ZAHLUNGSMETHODEN** zu entdecken!
+
+Wenn es eine andere Zahlungsmethode gibt, die Sie nutzen möchten, aber nicht aufgeführt ist, lassen Sie es uns wissen, indem Sie
+<br>
+
+**[DIESES FORMULAR](https://ncxldazr6m4.typeform.com/to/SJljDnae)** ausfüllen!
 
 
 <!--[self-custody]-->
