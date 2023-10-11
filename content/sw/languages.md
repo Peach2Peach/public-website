@@ -12,4 +12,6 @@ Ikiwa ungependa kutusaidia kutafsiri Peach kwenye lugha yako ya ndani, [wasilian
   <li><a href="/it">Kiitaliano🇮🇹</a></li>
   <li><a href="/el">Kigiriki🇬🇷</a></li>
   <li><a href="/sw">Kiswahili🇰🇪</a></li>
+  <li><a href="/uk">Kiyukreni🇺🇦</a></li>
+  <li><a href="/pt"></a>Kireno🇵🇹</li>
 </ul>
