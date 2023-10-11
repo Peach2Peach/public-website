@@ -18,27 +18,28 @@ template: index
 </div>
 
 <!--[top]-->
-## Compre e Venda Bitcoin do jeito que você quiser
+# A maneira mais fácil de comprar e vender Bitcoin P2P
+<br>
 
-### Use o código OPENSOURCE para obter
+### Use o código de referência PEACH para obter
 
-Se você é um comprador: **1 negociação grátis!**
-
-Se você é um vendedor: **Satsback em cada negociação!**
+**1 trade de compra grátis** e **Satsback em cada trade de venda**
 
 :::buttons
-[Baixe o aplicativo usando o código de referência OPENSOURCE!](https://peachbitcoin.com/referral/?code=OPENSOURCE)
+[Obtenha 1 trade grátis](https://peachbitcoin.com/referral/?code=PEACH)
 :::
+<br><br>
+## O que é o Peach?
 
-Peach é um aplicativo móvel que **conecta** compradores e vendedores de Bitcoin diretamente.
+O Peach é um aplicativo móvel que **conecta** compradores e vendedores de Bitcoin diretamente.
 
-Compre ou venda Bitcoin peer-to-peer **em qualquer lugar, a qualquer hora**.
-
-Use o método de pagamento de sua escolha entre **[muitas opções](/pt/how-it-works/#payment)**.
+:::buttons
+[Verifique nossos Métodos de Pagamento](/how-it-works/#available-payment-methods)
+:::
 
 Venda pelo **preço de sua escolha** porque os mercados peer-to-peer são os verdadeiros mercados.
 
-**Bitcoin sem KYC é o melhor Bitcoin.**
+**Bitcoin sem KYC é o Bitcoin mais seguro.**
 
 <!--[mission]-->
 ## Junte-se à nossa Missão
