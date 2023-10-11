@@ -3,32 +3,53 @@ template: index
 ---
 <!--[teaser]-->
 # Peach Bitcoin
-
 ## Nunua & Uuze Bitcoin <span>mtu-kwa-mtu</span>
+### Kutoka Uswisi🇨🇭
+
 
 <div class="inner-wrap">
 
-:::buttons
-[Pakua kwa iPhone]($iosUrl$)
-[Pakua kwa Android]($androidUrl$)
-[Pakua APK kwa Android](/apk/)
-:::
-
 ![✔ msimbo wa chanzo unaothibitishwa](/img/phones.png)
+
+<div>
+  <div class="md:flex items-end">
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+  </div>
+
+  :::buttons
+  [Pakua APK kwa Android](/apk/)
+  :::
+
+</div>
+
 </div>
 
 <!--[top]-->
-## Nunua na Uuze Bitcoin, kwa njia unayopenda
+# Njia rahisi zaidi ya Kununua na Kuuza Bitcoin P2P
+<br>
 
-Peach ni programu ya simu inayounganisha moja kwa moja wanunuzi na wauzaji wa Bitcoin.
+### Tumia nambari ya rufaa PEACH ili kupata
 
-Nunua au uuze bitcoin mtu-kwa-mtu **popote, wakati wowote**.
+**Kubadilishana kununua bure 1** na **Satsback kwa kila kubadilishana kuuza**
 
-Tumia njia yako pendwa ya malipo kati ya **[chaguo nyingi](/how-it-works/#payment)**.
+:::buttons
+[Pata kubadilishana bure 1](https://peachbitcoin.com/referral/?code=PEACH)
+:::
+<br><br>
 
-Uza kwa **bei ya chaguo lako** kwa sababu masoko ya mtu-kwa-mtu ni masoko halisi.
+## Peach Ni Nini?
 
-**Bitcoin bila KYC ndiyo Bitcoin bora zaidi.**
+Peach ni programu ya rununu inayowakutanisha wauzaji na wanunuzi wa Bitcoin moja kwa moja.
+
+:::buttons
+[Angalia Njia Zetu za Malipo](/how-it-works/#available-payment-methods)
+:::
+
+Uza kwa **bei yako unayopenda** kwa sababu masoko ya kwa kwa ni masoko halisi.
+
+**Bitcoin bila KYC ni Bitcoin salama zaidi.**
+
 
 <!--[mission]-->
 ## Jiunge na Azma yetu
@@ -43,6 +64,11 @@ Peach, kampuni, inazaliwa kutoka kwa watu wanaoamini pesa ngumu zaidi ambayo ime
 Je, wewe ni mmoja wao? Angalia sehemu yetu ya [Jiunge nasi](/join-us/), labda tunaweza kufanya kazi pamoja!
 
 Ikiwa unataka kujua zaidi kuhusu kampuni, angalia [machapisho yetu ya blogi](/blog/) yanayozungumza jinsi kila kitu kilivyoanza, na jinsi tulivyofika hapa.
+
+Peach ni mwanachama wa SRO (Shirika la Kujisimamia) wa VQF (Verein Qualitatssicherung Finanzwesen). Peach ni mtoa huduma wa kifedha aliyepewa leseni nchini Uswisi ambaye anazingatia kabisa Sheria ya Uswisi ya Kupambana na Utakatishaji wa Fedha.
+
+![](/img/vqf.webp)
+
 
 ### Watu wanasemaje kuhusu sisi?
 <br>

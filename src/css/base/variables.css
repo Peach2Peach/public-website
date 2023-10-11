@@ -4,6 +4,7 @@
 @custom-media --up_to_M screen and (max-width: 739.99px);
 @custom-media --up_to_L screen and (max-width: 1099.99px);
 @custom-media --M_to_L screen and (min-width: 740px) and (max-width: 1099.99px);
+@custom-media --S_and_up screen and (min-width: 460px);
 @custom-media --M_and_up screen and (min-width: 740px);
 @custom-media --L_and_up screen and (min-width: 1100px);
 

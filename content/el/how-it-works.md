@@ -14,17 +14,28 @@ template: how_it_works
 
 Κατεβάστε δωρεάν την εφαρμογή και ξεκινήστε αμέσως τις συναλλαγές! Δεν θα σας ζητήσουμε να ανεβάσετε την ταυτότητά σας ή να βγάλετε μια selfie με το δίπλωμα οδήγησής σας.
 
+<div>
+    <div class="md:flex items-end">
+        <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
+        <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+    </div>
+
+</div>
+
+
 :::buttons
-[Λήψη για iPhone]($iosUrl$)
-[Λήψη για Android]($androidUrl$)
+[Download APK on Android](/apk/)
 :::
 
+
 <!--[payment_methods]-->
-### Υποστηριζόμενοι τρόποι πληρωμής
+### Διαθέσιμες μεθόδοι πληρωμής
 
-Υπάρχουν πολλές μέθοδοι πληρωμής από τις οποίες μπορείτε να επιλέξετε.<br>
+Υπάρχουν πολλοί τρόποι πληρωμής που μπορείτε να επιλέξετε.<br>
 
-#### Υποστηριζόμενα νομίσματα
+#### Υποστηριζόμενοι νομίσματα
+
+##### Ευρώπη
 
 - EUR
 - GBP
@@ -39,25 +50,44 @@ template: how_it_works
 - ISK
 - RON
 - TRY
+
+---
+
+##### Λατινική Αμερική
 - ARS
 - COP
 - PEN
 - MXN
 - CLP
 - CRC
+
+---
+
+##### Αφρική
 - CFA (XOF)
 - CDF
 - NGN
 
 ---
 
-#### Μετρητά
+##### Άλλα
+- LN (ανταλλαγές)
+- L-USDT
 
-Δείτε τον _**[παρακάτω κατάλογο](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)**_ με ολους τους **τροπους πληρωμης**.
+---
 
-Αν θέλετε να χρησιμοποιήσετε κάποια άλλη Μέθοδο Πληρωμής, που δεν είναι στην λίστα, ενημερώσετε μας συμπληρώνοντας την
-<br><br>
-**[παρακάτω φόρμα](https://ncxldazr6m4.typeform.com/to/SJljDnae)**.
+### Διαθέσιμες μεθόδοι πληρωμής
+
+:::buttons
+[Κάντε κλικ εδώ](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
+:::
+για να ανακαλύψετε **ΟΛΕΣ ΤΙΣ ΜΕΘΟΔΟΥΣ ΠΛΗΡΩΜΗΣ ΜΑΣ**!
+
+Αν υπάρχει μια άλλη μέθοδος πληρωμής που θα θέλατε να χρησιμοποιήσετε, αλλά δεν αναφέρεται, ενημερώστε μας συμπληρώνοντας
+<br>
+
+**[ΤΗΝ ΦΟΡΜΑ ΑΥΤΗ](https://ncxldazr6m4.typeform.com/to/SJljDnae)**!
+
 
 <!--[self_custody]-->
 ### Αν δεν έχεις τα κλειδιά σου, δεν έχεις τα νομίσματά σου
