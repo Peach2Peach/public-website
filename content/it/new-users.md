@@ -1,7 +1,7 @@
 # Per i nuovi utenti
 ## Guadagna ricompense in Bitcoin!
 
-Se non hai ancora un codice di riferimento, puoi iniziare a utilizzare l'app con il codice speciale: **inserisci il codice qui**
+Se non hai ancora un codice di riferimento, puoi iniziare a utilizzare l'app con il codice speciale: **PEACH**
 
 ## Vantaggi
 ::::figures 2
