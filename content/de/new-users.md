@@ -1,7 +1,7 @@
 # Für neue Benutzer
 ## Verdienen Sie Bitcoin-Belohnungen!
 
-Wenn Sie noch keinen Empfehlungscode haben, können Sie die App mit dem speziellen Code starten: **Hier Code einfügen**
+Wenn Sie noch keinen Empfehlungscode haben, können Sie die App mit dem speziellen Code starten: **PEACH**
 
 ## Vorteile
 ::::figures 2
