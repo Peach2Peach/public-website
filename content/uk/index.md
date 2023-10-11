@@ -57,6 +57,11 @@ Peach, компанія, народилася від людей, які віря
 
 Якщо ви хочете дізнатися більше про компанію, перегляньте наші [пости в блозі](/blog/), які розповідають, як все почалося і як ми сюди дійшли.
 
+Peach є членом SRO (Саморегулююча організація) VQF (Verein Qualitatssicherung Finanzwesen). Peach є швейцарським фінансовим постачальником, повністю сумісним з Законом Швейцарії про протидію відмиванню грошей.
+
+![](/img/vqf.webp)
+
+
 ### Що люди кажуть про нас?
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
