@@ -1,7 +1,7 @@
 # Kwa Watumiaji Wapya
 ## Jipatie Tuzo za Bitcoin!
 
-Ikiwa bado huna nambari ya rufaa, unaweza kuanza kutumia programu na nambari maalum: **weka nambari hapa**
+Ikiwa bado huna nambari ya rufaa, unaweza kuanza kutumia programu na nambari maalum: **PEACH**
 
 ## Faida
 ::::figures 2
