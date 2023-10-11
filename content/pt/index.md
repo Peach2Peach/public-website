@@ -4,17 +4,22 @@ template: index
 <!--[teaser]-->
 # Peach Bitcoin
 ## Compre e Venda Bitcoin <span>peer-to-peer</span>
-### Da Suíça🇨🇭
+### Na Suíça🇨🇭
 
 <div class="inner-wrap">
 
-:::buttons
-[Download no iPhone]($iosUrl$)
-[Download no Android]($androidUrl$)
-[Download APK no Android](/apk/)
-:::
+![✔ verifiable source code](/img/phones.png)
 
-![✔ código-fonte verificável](/img/phones.png)
+<div>
+  <div class="md:flex items-end">
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+  </div>
+
+  :::buttons
+  [Baixar APK no Android](/pt/apk/)
+  :::
+
 </div>
 
 <!--[top]-->
@@ -31,10 +36,10 @@ template: index
 <br><br>
 ## O que é o Peach?
 
-O Peach é um aplicativo móvel que **conecta** compradores e vendedores de Bitcoin diretamente.
+O Peach é um aplicativo móvel que **conecta** diretamente compradores e vendedores de Bitcoin.
 
 :::buttons
-[Verifique nossos Métodos de Pagamento](/how-it-works/#available-payment-methods)
+[Verifique nossos Métodos de Pagamento](/pt/how-it-works/#available-payment-methods)
 :::
 
 Venda pelo **preço de sua escolha** porque os mercados peer-to-peer são os verdadeiros mercados.
@@ -51,9 +56,9 @@ Venda pelo **preço de sua escolha** porque os mercados peer-to-peer são os ver
 
 A Peach, a empresa, nasceu de pessoas que acreditam na moeda mais sólida que já existiu e desejam torná-la acessível a todo o mundo sem comprometer os aspectos fundamentais do Bitcoin.
 
-Você é uma dessas pessoas? Confira nossa seção [Junte-se a Nós](/join-us/), talvez possamos trabalhar juntos!
+Se é uma dessas pessoas? Confira nossa seção [Junte-se a Nós](/pt/join-us/), talvez possamos trabalhar juntos!
 
-Se você quiser saber mais sobre a empresa, confira nossos [posts no blog](/blog/) que falam sobre como tudo começou e como chegamos até aqui.
+Se quiser saber mais sobre a empresa, siga nossos [posts no blog](/blog/) que falam sobre como tudo começou e como chegamos até aqui.
 
 A Peach é membro da SRO (Organização de Autorregulação) da VQF (Verein Qualitatssicherung Finanzwesen). A Peach é um prestador de serviços financeiros licenciado na Suíça, totalmente compatível com a Lei Suíça de Combate à Lavagem de Dinheiro.
 
