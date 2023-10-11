@@ -12,4 +12,6 @@
   <li><a href="/it">Ιταλικά🇮🇹</a></li>
   <li><a href="/el">Ελληνικά🇬🇷</a></li>
   <li><a href="/sw">Σουαχίλι🇰🇪</a></li>
+  <li><a href="/uk">Ουκρανικά🇺🇦</a></li>
+  <li><a href="/pt"></a>Πορτογαλικά🇵🇹</li>
 </ul>

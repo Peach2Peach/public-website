@@ -12,4 +12,6 @@ Si vous souhaitez nous aider à traduire Peach dans votre langue locale, [contac
   <li><a href="/it">Italien🇮🇹</a></li>
   <li><a href="/el">Grec🇬🇷</a></li>
   <li><a href="/sw">Swahili🇰🇪</a></li>
+  <li><a href="/uk">Ukrainien🇺🇦</a></li>
+  <li><a href="/pt"></a>Portugais🇵🇹</li>
 </ul>
