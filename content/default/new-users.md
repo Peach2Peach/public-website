@@ -1,7 +1,7 @@
 # For new users
 ## Earn Bitcoin rewards!
 
-If you don't have a referral code yet, you can start using the app with the special code: **insert code here**
+If you don't have a referral code yet, you can start using the app with the special code: **PEACH**
 
 ## Advantages
 ::::figures 2
