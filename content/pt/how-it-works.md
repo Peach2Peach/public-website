@@ -21,7 +21,7 @@ Baixe o aplicativo gratuitamente e compre ou venda Bitcoin imediatamente! Não p
   </div>
 
   :::buttons
-  [Download APK on Android](/apk/)
+  [Baixar APK no Android](/pt/apk/)
   :::
 
 </div>
