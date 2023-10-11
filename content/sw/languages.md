@@ -4,14 +4,13 @@
 Hapa unaweza kupata lugha zote tunazozisaidia kwa sasa.
 Ikiwa ungependa kutusaidia kutafsiri Peach kwenye lugha yako ya ndani, [wasiliana nasi!](mailto:hello@peachbitcoin.com)
 
-<ul>
-  <li><a href="/">Kiingereza🇬🇧</a></li>
-  <li><a href="/es">Kihispania🇪🇸</a></li>
-  <li><a href="/fr">Kifaransa🇫🇷</a></li>
-  <li><a href="/de">Kijerumani🇩🇪</a></li>
-  <li><a href="/it">Kiitaliano🇮🇹</a></li>
-  <li><a href="/el">Kigiriki🇬🇷</a></li>
-  <li><a href="/sw">Kiswahili🇰🇪</a></li>
-  <li><a href="/uk">Kiyukreni🇺🇦</a></li>
-  <li><a href="/pt"></a>Kireno🇵🇹</li>
-</ul>
+- [Kiingereza🇬🇧](/)
+- [Kihispania🇪🇸](/es)
+- [Kifaransa🇫🇷](/fr)
+- [Kijerumani🇩🇪](/de)
+- [Kiitaliano🇮🇹](/it)
+- [Kigiriki🇬🇷](/el)
+- [Kiswahili🇰🇪](/sw)
+- [Kiuukreni🇺🇦](/uk)
+- [Kireno🇵🇹](/pt)
+
