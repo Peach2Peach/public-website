@@ -65,9 +65,11 @@ Je, wewe ni mmoja wao? Angalia sehemu yetu ya [Jiunge nasi](/join-us/), labda tu
 
 Ikiwa unataka kujua zaidi kuhusu kampuni, angalia [machapisho yetu ya blogi](/blog/) yanayozungumza jinsi kila kitu kilivyoanza, na jinsi tulivyofika hapa.
 
-Peach ni mwanachama wa SRO (Shirika la Kujisimamia) wa VQF (Verein Qualitatssicherung Finanzwesen). Peach ni mtoa huduma wa kifedha aliyepewa leseni nchini Uswisi ambaye anazingatia kabisa Sheria ya Uswisi ya Kupambana na Utakatishaji wa Fedha.
+<br><br>
 
-![](/img/vqf.webp)
+Peach ni mwanachama wa SRO (Shirika la Kujisimamia) wa Polyreg. Peach ni mtoa huduma wa kifedha aliyepewa leseni nchini Uswisi ambaye anazingatia kabisa Sheria ya Uswisi ya Kupambana na Utakatishaji wa Fedha.
+
+![](/img/home/polyreg.png)
 
 
 ### Watu wanasemaje kuhusu sisi?
