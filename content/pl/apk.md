@@ -10,7 +10,7 @@
 
 Najnowsza wersja: $apkVersionBuild$
 
-Zalecamy pobranie wersji ARM64 od Androida 8.0 i nowszych.
+Zalecamy pobranie wersji ARM64 od Android 8.0 i nowszych.
 
 ## Nie możesz zainstalować APK?
 
