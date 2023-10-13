@@ -13,3 +13,6 @@ If you'd like to help us translate Peach to your local language, [get in touch w
 - [Swahili🇰🇪](/sw)
 - [Ukrainian🇺🇦](/uk)
 - [Portuguese🇵🇹](/pt)
+- [Russian🇷🇺](/ru)
+- [Dutch🇳🇱](/nl)
+- [Polish🇵🇱](/pl)

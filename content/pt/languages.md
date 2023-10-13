@@ -1,8 +1,8 @@
 # Idiomas
-## Peach foi feito para todos, independentemente da sua língua!
+## Peach é feita para todos, não importa o seu idioma!
 
 Aqui você pode encontrar todos os idiomas que atualmente suportamos.
-Se você gostaria de nos ajudar a traduzir o Peach para sua língua local, [entre em contato conosco!](mailto:hello@peachbitcoin.com)
+Se você deseja nos ajudar a traduzir o Peach para o seu idioma local, [entre em contato conosco!](mailto:hello@peachbitcoin.com)
 
 - [Inglês🇬🇧](/)
 - [Espanhol🇪🇸](/es)
@@ -13,4 +13,6 @@ Se você gostaria de nos ajudar a traduzir o Peach para sua língua local, [entr
 - [Swahili🇰🇪](/sw)
 - [Ucraniano🇺🇦](/uk)
 - [Português🇵🇹](/pt)
-
+- [Russo🇷🇺](/ru)
+- [Holandês🇳🇱](/nl)
+- [Polonês🇵🇱](/pl)
