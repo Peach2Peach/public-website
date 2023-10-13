@@ -34,7 +34,7 @@ template: index
 **1 бесплатную покупку** и **Satsback при каждой продаже**
 
 :::buttons
-[Получите 1 бесплатную сделку](https://peachbitcoin.com/referral/?code=PEACH)
+[Получите 1 бесплатную сделку](https://peachbitcoin.com/ru/referral/?code=PEACH)
 :::
 <br><br>
 ## Что такое Peach?

@@ -1,5 +1,5 @@
 ---
-template: блог
+template: blog
 ---
 # Блог
 

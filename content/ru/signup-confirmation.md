@@ -1,10 +1,11 @@
-# Thanks for the signup!
+# Спасибо за регистрацию!
 
-That worked and you'll hear from us soon. 😀
+Это сработало, и скоро вы услышите от нас. 😀
 
 :::buttons
-[Back to previous page](/)
+[Вернуться на предыдущую страницу](/ru)
 :::
+
 
 <script>
   document.querySelector('#signup-confirmation main .buttons a').addEventListener('click', e => {

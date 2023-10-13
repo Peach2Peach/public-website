@@ -1,28 +1,29 @@
 ---
 title: Referral
 template: referral
+lang: ru
 ---
 <!--[teaser]-->
-![Buy and Sell Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
+![Покупка и продажа биткоинов между пользователями](/img/how-it-works/pokupka-i-prodazha-bitkoinov-mezhdu-polzovatelyami.png)
 
-## You have been invited to join peach!
+## Вас пригласили присоединиться к Peach!
 
-Download the app for free and start trading right away! We won't ask you to upload your ID or make a selfie with your driver's license
+Скачайте приложение бесплатно и начните торговать прямо сейчас! Мы не попросим вас загружать свой идентификационный документ или делать селфи со своим водительским удостоверением.
 
-### Step 1: Install the App
+### Шаг 1: Установите приложение
 :::buttons
-[Download on iPhone]($iosUrl$)
-[Download on Android]($androidUrl$)
-[Download APK on Android](/apk/)
+[Скачать на iPhone]($iosUrl$)
+[Скачать на Android]($androidUrl$)
+[Скачать APK на Android](/ru/apk/)
 :::
 
-### Step 2: Signup using the referral code
-Sign up using referral code: <span id="referral-code"><span> and receive a signup bonus.
+### Шаг 2: Регистрация с использованием кода реферала
+Зарегистрируйтесь, используя код реферала: <span id="referral-code"><span>, и получите бонус за регистрацию.
 
-Or click this button from your mobile device:
+Или нажмите эту кнопку с вашего мобильного устройства:
 <div class="buttons">
   <p>
-    <a id="referral-code-button" href="https://peachbitcoin.page.link/?link=https%3A%2F%2Fpeachbitcoin.com%2Freferral%3Fcode%3DREFERRAL">Get signup bonus!</a>
+    <a id="referral-code-button" href="https://peachbitcoin.page.link/?link=https%3A%2F%2Fpeachbitcoin.com%2Freferral%3Fcode%3DREFERRAL">Получить бонус за регистрацию!</a>
   </p>
 </div>
 

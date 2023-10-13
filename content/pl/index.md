@@ -34,7 +34,7 @@ template: index
 **1 darmową transakcję zakupu** i **Satsback przy każdej transakcji sprzedaży**
 
 :::buttons
-[Zdobądź 1 darmową transakcję](https://peachbitcoin.com/referral/?code=PEACH)
+[Zdobądź 1 darmową transakcję](https://peachbitcoin.com/pl/referral/?code=PEACH)
 :::
 <br><br>
 ## Czym jest Peach?

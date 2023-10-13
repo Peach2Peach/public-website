@@ -34,7 +34,7 @@ template: index
 **1 gratis kooptransactie** en **Satsback bij elke verkooptransactie** te krijgen
 
 :::buttons
-[Krijg 1 gratis transactie](https://peachbitcoin.com/referral/?code=PEACH)
+[Krijg 1 gratis transactie](https://peachbitcoin.com/nl/referral/?code=PEACH)
 :::
 <br><br>
 ## Wat is Peach?

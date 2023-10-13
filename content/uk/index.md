@@ -33,7 +33,7 @@ template: index
 **1 безкоштовну купівлю** і **Satsback при кожній продажу**
 
 :::buttons
-[Отримати 1 безкоштовну угоду](https://peachbitcoin.com/referral/?code=PEACH)
+[Отримати 1 безкоштовну угоду](https://peachbitcoin.com/uk/referral/?code=PEACH)
 :::
 <br><br>
 

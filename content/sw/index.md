@@ -34,7 +34,7 @@ template: index
 **Kubadilishana kununua bure 1** na **Satsback kwa kila kubadilishana kuuza**
 
 :::buttons
-[Pata kubadilishana bure 1](https://peachbitcoin.com/referral/?code=PEACH)
+[Pata kubadilishana bure 1](https://peachbitcoin.com/sw/referral/?code=PEACH)
 :::
 <br><br>
 

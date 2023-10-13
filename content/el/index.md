@@ -33,7 +33,7 @@ template: index
 λάβετε **1 δωρεάν συναλλαγή αγοράς** και **Satsback σε κάθε συναλλαγή πώλησης**
 
 :::buttons
-[Λάβετε 1 δωρεάν συναλλαγή](https://peachbitcoin.com/referral/?code=PEACH)
+[Λάβετε 1 δωρεάν συναλλαγή](https://peachbitcoin.com/el/referral/?code=PEACH)
 :::
 <br><br>
 

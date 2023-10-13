@@ -18,7 +18,7 @@ template: index
   </div>
 
   :::buttons
-  [Télécharger l'APK sur Android](/apk/)
+  [Télécharger l'APK sur Android](/fr/apk/)
   :::
 
 </div>
@@ -34,7 +34,7 @@ template: index
 **1 échange d'achat gratuit** et **Satsback à chaque échange de vente**
 
 :::buttons
-[Obtenez 1 échange gratuit](https://peachbitcoin.com/referral/?code=PEACH)
+[Obtenez 1 échange gratuit](https://peachbitcoin.com/fr/referral/?code=PEACH)
 :::
 <br><br>
 

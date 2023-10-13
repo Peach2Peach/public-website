@@ -1,11 +1,10 @@
-# Thanks for the signup!
+# Bedankt voor de aanmelding!
 
-That worked and you'll hear from us soon. 😀
+Dat is gelukt en je zult binnenkort van ons horen. 😀
 
 :::buttons
-[Back to previous page](/)
+[Terug naar vorige pagina](/nl)
 :::
-
 <script>
   document.querySelector('#signup-confirmation main .buttons a').addEventListener('click', e => {
     e.preventDefault()

@@ -1,28 +1,29 @@
 ---
 title: Referral
 template: referral
+lang: nl
 ---
 <!--[teaser]-->
-![Buy and Sell Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
+![Koop en Verkoop Bitcoin Peer-to-Peer](/img/how-it-works/koop-en-verkoop-bitcoin-peer-to-peer.png)
 
-## You have been invited to join peach!
+## Je bent uitgenodigd om je bij Peach aan te sluiten!
 
-Download the app for free and start trading right away! We won't ask you to upload your ID or make a selfie with your driver's license
+Download de app gratis en begin meteen met handelen! We vragen je niet om je ID te uploaden of een selfie te maken met je rijbewijs.
 
-### Step 1: Install the App
+### Stap 1: Installeer de App
 :::buttons
-[Download on iPhone]($iosUrl$)
-[Download on Android]($androidUrl$)
-[Download APK on Android](/apk/)
+[Downloaden op iPhone]($iosUrl$)
+[Downloaden op Android]($androidUrl$)
+[Download APK op Android](/apk/)
 :::
 
-### Step 2: Signup using the referral code
-Sign up using referral code: <span id="referral-code"><span> and receive a signup bonus.
+### Stap 2: Meld je aan met de verwijzingscode
+Meld je aan met de verwijzingscode: <span id="referral-code"><span> en ontvang een aanmeldingsbonus.
 
-Or click this button from your mobile device:
+Of klik op deze knop vanaf je mobiele apparaat:
 <div class="buttons">
   <p>
-    <a id="referral-code-button" href="https://peachbitcoin.page.link/?link=https%3A%2F%2Fpeachbitcoin.com%2Freferral%3Fcode%3DREFERRAL">Get signup bonus!</a>
+    <a id="referral-code-button" href="https://peachbitcoin.page.link/?link=https%3A%2F%2Fpeachbitcoin.com%2Freferral%3Fcode%3DREFERRAL">Ontvang een aanmeldingsbonus!</a>
   </p>
 </div>
 

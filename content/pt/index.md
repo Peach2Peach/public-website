@@ -31,7 +31,7 @@ template: index
 **1 trade de compra grátis** e **Satsback em cada trade de venda**
 
 :::buttons
-[Obtenha 1 trade grátis](https://peachbitcoin.com/referral/?code=PEACH)
+[Obtenha 1 trade grátis](https://peachbitcoin.com/pt/referral/?code=PEACH)
 :::
 <br><br>
 ## O que é o Peach?

@@ -36,7 +36,7 @@ template: index
 **1 scambio d'acquisto gratuito** e **Satsback su ciascuno scambio di vendita**
 
 :::buttons
-[Ottieni 1 scambio gratuito](https://peachbitcoin.com/referral/?code=PEACH)
+[Ottieni 1 scambio gratuito](https://peachbitcoin.com/it/referral/?code=PEACH)
 :::
 <br><br>
 

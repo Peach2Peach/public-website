@@ -1,9 +1,9 @@
-# Thanks for the signup!
+# Dziękujemy za rejestrację!
 
-That worked and you'll hear from us soon. 😀
+To zadziałało, wkrótce odezwiesz się od nas. 😀
 
 :::buttons
-[Back to previous page](/)
+[Wróć do poprzedniej strony](/pl)
 :::
 
 <script>

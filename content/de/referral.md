@@ -4,26 +4,26 @@ template: referral
 lang: de
 ---
 <!--[teaser]-->
-![Buy and Sell Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
+![Bitcoins peer-to-peer kaufen und verkaufen](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
 
-## You have been invited to join peach!
+## Du wurdest eingeladen, Peach beizutreten!
 
-Download the app for free and start trading right away! We won't ask you to upload your ID or make a selfie with your driver's license
+Lade die App kostenlos herunter und beginne sofort mit dem Handel! Wir werden dich nicht bitten, deinen Ausweis hochzuladen oder ein Selfie mit deinem Führerschein zu machen.
 
-### Step 1: Install the App
+### Schritt 1: App installieren
 :::buttons
-[Download on iPhone]($iosUrl$)
-[Download on Android]($androidUrl$)
-[Download APK on Android](/apk/)
+[Auf dem iPhone herunterladen]($iosUrl$)
+[Auf Android herunterladen]($androidUrl$)
+[APK auf Android herunterladen](/de/apk/)
 :::
 
-### Step 2: Signup using the referral code
-Sign up using referral code: <span id="referral-code"><span> and receive a signup bonus.
+### Schritt 2: Registriere dich mit dem Empfehlungscode
+Registriere dich mit dem Empfehlungscode: <span id="referral-code"><span> und erhalte einen Anmeldebonus.
 
-Or click this button from your mobile device:
+Oder klicke auf diese Schaltfläche auf deinem Mobilgerät:
 <div class="buttons">
   <p>
-    <a id="referral-code-button" href="https://peachbitcoin.page.link/?link=https%3A%2F%2Fpeachbitcoin.com%2Freferral%3Fcode%3DREFERRAL">Get signup bonus!</a>
+    <a id="referral-code-button" href="https://peachbitcoin.page.link/?link=https%3A%2F%2Fpeachbitcoin.com%2Freferral%3Fcode%3DREFERRAL">Anmeldebonus erhalten!</a>
   </p>
 </div>
 
