@@ -18,7 +18,7 @@ template: index
   </div>
 
   :::buttons
-  [Pobierz APK na Androida](/pl/apk/)
+  [Pobierz APK na Android](/pl/apk/)
   :::
 
 </div>
