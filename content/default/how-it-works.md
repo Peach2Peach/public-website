@@ -48,6 +48,7 @@ There are a whole bunch of payment methods you can choose from.<br>
 - ISK
 - RON
 - TRY
+- RUB
 
 ---
 
