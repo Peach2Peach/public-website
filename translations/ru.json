@@ -5,11 +5,11 @@
     "support": "Поддержка",
     "community": "Сообщество",
     "company": "Компания",
-    "twitter": "Твиттер",
-    "telegram": "Телеграм",
-    "discord": "Дискорд",
-    "instagram": "Инстаграм",
-    "nostr": "Ностр",
+    "twitter": "Twitter",
+    "telegram": "Telegram",
+    "discord": "Discord",
+    "instagram": "Instagram",
+    "nostr": "Nostr",
     "joinUs": "Присоединяйтесь",
     "tAndC": "Условия использования",
     "privacyPolicy": "Политика конфиденциальности",
@@ -48,4 +48,3 @@
     "affiliate": "Стать партнером",
     "earnBitcoin": "Заработать биткоины"
   }
-  
