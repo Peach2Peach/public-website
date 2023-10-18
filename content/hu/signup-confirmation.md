@@ -1,10 +1,11 @@
-# Thanks for the signup!
+# Köszönjük a regisztrációt!
 
-That worked and you'll hear from us soon. 😀
+Működött, és hamarosan hallasz tőlünk. 😀
 
 :::buttons
-[Back to previous page](/)
+[Vissza a korábbi oldalra](/hu)
 :::
+
 
 <script>
   document.querySelector('#signup-confirmation main .buttons a').addEventListener('click', e => {
