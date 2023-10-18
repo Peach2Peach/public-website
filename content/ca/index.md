@@ -3,13 +3,12 @@ template: index
 ---
 <!--[teaser]-->
 # Peach Bitcoin
-## Buy & Sell Bitcoin <span>peer-to-peer</span>
-#### Made in Switzerland🇨🇭
-
+## Compra i Venda de Bitcoin <span>peer-to-peer</span>
+#### Fet a Suïssa🇨🇭
 
 <div class="inner-wrap">
 
-![✔ verifiable source code](/img/phones.png)
+![✔ codi obert verificable](/img/phones.png)
 
 <div>
   <div class="md:flex items-end">
@@ -18,7 +17,7 @@ template: index
   </div>
 
   :::buttons
-  [Download APK on Android](/apk/)
+  [Descarrega APK per Android](/ca/apk/)
   :::
 
 </div>
@@ -26,51 +25,49 @@ template: index
 </div>
 
 <!--[top]-->
-# The easiest way to Buy and Sell Bitcoin P2P
+# La forma més fàcil de Comprar i Vendre Bitcoin P2P
 <br>
 
-### Use the referral code PEACH to get
+### Utilitza el codi de referència PEACH per aconseguir
 
-**1 free buy trade** and **Satsback on each sell trade**
+**1 operació de compra gratuïta** i **Satsback a cada operació de venda**
 
 :::buttons
-[Get 1 free trade](https://peachbitcoin.com/referral/?code=PEACH)
+[Obtén 1 operació de compra gratuïta](https://peachbitcoin.com/referral/?code=PEACH)
 :::
 <br><br>
-## What is Peach?
+## Què és Peach?
 
-Peach is a mobile application that **connects** Bitcoin buyers and sellers directly together.
+Peach és una aplicació mòbil que **connecta** compradors i venedors de Bitcoin directament.
 
 :::buttons
-[Check our Payment Methods](/how-it-works/#available-payment-methods)
+[Consulta els nostres Mètodes de Pagament](/ca/how-it-works/#available-payment-methods)
 :::
 
-Sell at the **price of your choice** because peer-to-peer markets are the real markets.
+Ven al **preu de la teva elecció** perquè els mercats P2P són els mercats reals.
 
-**KYC-free Bitcoin is the safest Bitcoin.**
+**El Bitcoin sense KYC és el Bitcoin més segur.**
 
 <!--[mission]-->
-## Join our Mission
+## Uneix-te a la nostra Missió
 
-### We aim to make stacking sats peer-to-peer the standard!
+### Volem fer de l'acumulació de sats P2P l'estàndard!
 
 <!--[about]-->
 ## About Us
 
-Peach, the company, is born from people who believe in the hardest money that has ever existed, and want to make it accessible to the whole world without compromising on the fundamental aspects of Bitcoin.
+Peach, la companyia, neix de persones que creuen en la moneda més dura que mai ha existit i volen fer-la accessible a tot el món sense comprometre els aspectes fonamentals de Bitcoin.
 
-Are you one of those? Check out our [Join Us](/join-us/) section, maybe we can work together!
+Ets un d'ells? Dóna un cop d'ull a la nostra secció [Uneix-te a nosaltres](/ca/join-us/), potser podem treballar junts!
 
-If you want to know more about the company, check out our [blog posts](/blog/) talking about how everything started, and how we got here.
+Si vols saber més sobre la companyia, consulta les nostres [entrades de blog](/ca/blog/) que expliquen com tot va començar i com hem arribat fins aquí.
 
 <br><br>
 
-Peach is an SRO member (Self Regulatory Organisation) of Polyreg. Peach is a swiss licensed financial service provider fully compliant with Switzerland's Anti-Money Laundering Act.
+Peach és un membre de SRO (Self Regulatory Organisation) de Polyreg. Peach és un proveïdor de serveis financers amb llicència suïssa totalment compatible amb la Llei suïssa contra el blanqueig de diners.
 
 ![](/img/home/polyreg.png)
 
-
-### What do people say about us?
+### Què diuen les persones sobre nosaltres?
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
-

@@ -3,37 +3,35 @@ title: How it works
 template: how_it_works
 ---
 <!--[teaser]-->
-![Buy and Sell Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
+# Gyűjtsd a satokat <span>naponta</span>!
 
-### Stack sats <span>every day</span>!
-
-**Buy and Sell up to 1000 CHF per day and 100'000 CHF per year.**
+**Vásárolj és adj el napi 1000 CHF-ig, éves szinten pedig 100 000 CHF-ig.**
 
 <!--[easy_registration]-->
-### Easy registration
+### Egyszerű regisztráció
 
-Download the app for free and start trading right away! We won't ask you to upload your ID or make a selfie with your driver's license
+Töltsd le az alkalmazást ingyen, és kezdj el kereskedni azonnal! Nem kérünk tőled, hogy feltöltsd az azonosítód vagy készíts egy szelfit a vezetői engedélyeddel
 
 <div>
   <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Töltsd le az Apple Áruházból"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Töltsd le a Google Play áruházból"></a>
   </div>
 
   :::buttons
-  [Download APK on Android](/apk/)
+  [Töltsd le az APK-t Androidre](/hu/apk/)
   :::
 
 </div>
 
 <!--[payment_methods]-->
-### Supported payment methods
+### Támogatott fizetési módok
 
-There are a whole bunch of payment methods you can choose from.<br>
+Többféle fizetési módot választhatsz.<br>
 
-#### Supported Currencies
+#### Támogatott Valuták
 
-##### Europe
+##### Európa
 
 - EUR
 - GBP
@@ -51,7 +49,7 @@ There are a whole bunch of payment methods you can choose from.<br>
 
 ---
 
-##### Latin America
+##### Latin-Amerika
 - ARS
 - COP
 - PEN
@@ -61,55 +59,54 @@ There are a whole bunch of payment methods you can choose from.<br>
 
 ---
 
-##### Africa
+##### Afrika
 - CFA (XOF)
 - CDF
 - NGN
 
 ---
 
-##### Other
+##### Egyéb
 - LN (swaps)
 - L-USDT
 
 ---
 
-### Available Payment Methods
+### Elérhető fizetési módok
 
 :::buttons
-[Click here](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
+[Kattints ide](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
 :::
-to discover **ALL OUR PAYMENT METHODS**!
 
-If there's another Payment Method you'd like to use, but it isn't listed, let us know by filling
+Ha van egyéb fizetési mód, amit szeretnél használni, de nincs a listán, jelezd nekünk a kitöltésével
 <br>
-**[THIS FORM](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
+**[EZEN AZ ŰRLAPON](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
 <!--[self_custody]-->
-### Not your keys, not your coins
+### Nem a te kulcsaid, nem a te érméid
 
-The app has an easy to use wallet that you control built in, or you can use your existing wallet. Stick to the basics or make it hardcore - you're always in control.
+Az alkalmazásban található egy könnyen használható pénztárca, amit te irányítasz, vagy használhatod meglévő tárcádat. Tartsd az alapoknál vagy tegyél mindent hardcore módba - mindig te döntesz.
 
 <!--[security]-->
-### Super secure
+### Szuper biztonságos
 
-Peach uses Multi-Signature bitcoin addresses to make sure that the correct party can get the bitcoin if something goes wrong during the trade.
+A Peach a többszörös aláírású bitcoin címeket használja annak érdekében, hogy biztosítsa, hogy a helyes fél juthasson hozzá a bitcoinkhoz, ha valami hiba történik a kereskedelem során.
 
 <!--[difference]-->
-### What makes Peach different from other exchanges?
+### Mi teszi a Peach-et más tőzsdéktől?
 
-With Peach, you don't buy from or sell to us.
-You interact directly with other peers!
-This makes trading bitcoin more private and allows you to use any payment method that you can agree upon.
-Our mission is to make this as easy and safe as possible.  
+A Peach-szel nem tőlünk vásárolsz vagy tőlünk értékesítesz.
+Közvetlenül más felhasználókkal lépsz kapcsolatba!
+Ez magánabbá teszi a bitcoinkereskedést, és lehetővé teszi bármilyen fizetési módszer használatát, amiben megállapodhattok.
+A missziónk az, hogy ezt olyan könnyűvé és biztonságossá tegyük, amennyire csak lehetséges.
 
 <!--[sounds_cool]-->
-### Sounds cool, but how does it work?
+### Hangzik jól, de hogy működik?
 
-We have a full getting started guide right here:
+Itt van egy teljes útmutató a kezdéshez:
 
 <!--[questions]-->
-### Still have questions?
+### Még mindig kérdéseid vannak?
 
-I'm sure you can find an answer in our FAQs.
-If not, send us a message!
+Biztos vagyok benne, hogy találsz választ a GYIK-ban.
+Ha mégsem, írj nekünk egy üzenetet!

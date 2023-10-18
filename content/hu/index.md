@@ -3,9 +3,8 @@ template: index
 ---
 <!--[teaser]-->
 # Peach Bitcoin
-## Buy & Sell Bitcoin <span>peer-to-peer</span>
-#### Made in Switzerland🇨🇭
-
+## Bitcoin vásárlása és eladása <span>peer-to-peer</span>
+#### Készült Svájcban🇨🇭
 
 <div class="inner-wrap">
 
@@ -13,12 +12,12 @@ template: index
 
 <div>
   <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Letöltés az Apple Áruházból"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class "h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Töltse le a Google Play-en"></a>
   </div>
 
   :::buttons
-  [Download APK on Android](/apk/)
+  [APK letöltése Androidre](/apk/)
   :::
 
 </div>
@@ -26,51 +25,49 @@ template: index
 </div>
 
 <!--[top]-->
-# The easiest way to Buy and Sell Bitcoin P2P
+# A legegyszerűbb módja a Bitcoin peer-to-peer vásárlásnak és eladásnak
 <br>
 
-### Use the referral code PEACH to get
+### Használja a PEACH ajánló kódot, hogy
 
-**1 free buy trade** and **Satsback on each sell trade**
+**1 ingyenes vásárlási tranzakciót** és **Satsback-ot szerezzen minden eladási tranzakciónál**
 
 :::buttons
-[Get 1 free trade](https://peachbitcoin.com/referral/?code=PEACH)
+[Szerezzen 1 ingyenes tranzakciót](https://peachbitcoin.com/referral/?code=PEACH)
 :::
 <br><br>
-## What is Peach?
+## Mi is az a Peach?
 
-Peach is a mobile application that **connects** Bitcoin buyers and sellers directly together.
+A Peach egy mobilalkalmazás, amely a Bitcoin vásárlókat és eladókat közvetlenül összekapcsolja.
 
 :::buttons
-[Check our Payment Methods](/how-it-works/#available-payment-methods)
+[Nézze meg fizetési módjainkat](/hu/how-it-works/#available-payment-methods)
 :::
 
-Sell at the **price of your choice** because peer-to-peer markets are the real markets.
+Eladhatja **választott áron**, mert a peer-to-peer piacok a valódi piacok.
 
-**KYC-free Bitcoin is the safest Bitcoin.**
+**A KYC-mentes Bitcoin a legbiztonságosabb Bitcoin.**
 
 <!--[mission]-->
-## Join our Mission
+## Csatlakozzon a Küldetésünkhöz
 
-### We aim to make stacking sats peer-to-peer the standard!
+### Célunk, hogy a peer-to-peer módon történő satsok felhalmozását az általános szabvánnyá tegyük!
 
 <!--[about]-->
-## About Us
+## Rólunk
 
-Peach, the company, is born from people who believe in the hardest money that has ever existed, and want to make it accessible to the whole world without compromising on the fundamental aspects of Bitcoin.
+A Peach vállalat azokból a személyekből született, akik hisznek az eddig létezett legkeményebb pénzben, és szeretnék azt az egész világ számára hozzáférhetővé tenni anélkül, hogy a Bitcoin alapvető tulajdonságait veszélyeztetnék.
 
-Are you one of those? Check out our [Join Us](/join-us/) section, maybe we can work together!
+Ön is közéjük tartozik? Nézze meg a [Csatlakozz hozzánk](/hu/join-us/) szakaszt, talán együtt dolgozhatunk!
 
-If you want to know more about the company, check out our [blog posts](/blog/) talking about how everything started, and how we got here.
+Ha többet szeretne megtudni a vállalatról, nézze meg a [blogbejegyzéseinket](/hu/blog/), amelyek arról szólnak, hogyan kezdődött minden, és hogyan jutottunk idáig.
 
 <br><br>
 
-Peach is an SRO member (Self Regulatory Organisation) of Polyreg. Peach is a swiss licensed financial service provider fully compliant with Switzerland's Anti-Money Laundering Act.
+A Peach egy SRO tag (Self Regulatory Organisation) a Polyreg szervezetben. A Peach egy svájci engedéllyel rendelkező pénzügyi szolgáltató, amely teljes mértékben megfelel Svájc Pénzmosás Elleni Törvényének.
 
 ![](/img/home/polyreg.png)
 
-
-### What do people say about us?
+### Mit mondanak rólunk az emberek?
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
-
