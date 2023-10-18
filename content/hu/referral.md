@@ -3,33 +3,33 @@ title: Referral
 template: referral
 ---
 <!--[teaser]-->
-![Buy and Sell Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
+![Bitcoin vásárlás és eladás közvetlenül](/img/hogyan-működik/bitcoin-vásárlás-és-eladás-közvetlenül.png)
 
-## You have been invited to join peach!
+## Meghívtak, hogy csatlakozz a Peach-hez!
 
-Download the app for free and start trading right away! We won't ask you to upload your ID or make a selfie with your driver's license
+Töltsd le az alkalmazást ingyenesen, és kezdd el a kereskedést azonnal! Nem kérünk tőled személyi igazolvány feltöltését vagy arról szóló szelfit, hogy tartod a vezetői engedélyed.
 
-### Step 1: Install the App
+### 1. lépés: Az alkalmazás telepítése
 :::buttons
-[Download on iPhone]($iosUrl$)
-[Download on Android]($androidUrl$)
-[Download APK on Android](/apk/)
+[Töltsd le iPhone-ra]($iosUrl$)
+[Töltsd le Android-re]($androidUrl$)
+[Töltsd le az APK-t Android-re](/hu/apk/)
 :::
 
-### Step 2: Signup using the referral code
-Sign up using referral code: <span id="referral-code"><span> and receive a signup bonus.
+### 2. lépés: Regisztrálj a hivatkozási kód használatával
+Regisztrálj a hivatkozási kód használatával: <span id="referral-code"><span> és kapj egy regisztrációs bónuszt.
 
-Or click this button from your mobile device:
+Vagy kattints erre a gombra a mobil eszközödről:
 <div class="buttons">
   <p>
-    <a id="referral-code-button" href="https://peachbitcoin.page.link/?link=https%3A%2F%2Fpeachbitcoin.com%2Freferral%3Fcode%3DREFERRAL">Get signup bonus!</a>
+    <a id="referral-code-button" href="https://peachbitcoin.page.link/?link=https%3A%2F%2Fpeachbitcoin.com%2Freferral%3Fcode%3DREFERRAL">Szerezz regisztrációs bónuszt!</a>
   </p>
 </div>
 
 <script>
   function getParameterByName(name, url) {
       if (!url) url = window.location.href
-      name = name.replace(/[[\]]/g, '\\$&')
+      name = name replace(/[[\]]/g, '\\$&')
       var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
           results = regex.exec(url)
       if (!results) return null

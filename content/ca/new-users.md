@@ -1,33 +1,33 @@
-# For new users
-## Earn Bitcoin rewards!
+# Per als nous usuaris
+## Guanya recompenses Bitcoin!
 
-If you don't have a referral code yet, you can start using the app with the special code: **PEACH**
+Si encara no tens un codi de referència, pots començar a utilitzar l'aplicació amb el codi especial: **PEACH**
 
-## Advantages
+## Avantatges
 ::::figures 2
 
 :::box tech-peach
-### For buyers
-1 free buy trade!
+### Per als compradors
+1 operació de compra gratuïta!
 :::
 
 :::box tech-peach
-### for sellers
-Satsback on every sell trade!
+### Per als venedors
+Satsback a cada operació de venda!
 :::
 
 ::::
 
-After creating your account, make sure to share your own referral code to start accumulating Peach points, and exchange them for more Bitcoin rewards!
+Després de crear el vostre compte, assegureu-vos de compartir el vostre propi codi de referència per començar a acumular punts Peach i canviar-los per més recompenses Bitcoin!
 
 <div>
-  <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+  <div class="md:flex elements-de-la-base">
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Descarrega-ho a l'App Store"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/obtén-lo-a-Google-Play.svg" alt="Obtén-lo a Google Play"></a>
   </div>
 
   :::buttons
-  [Download APK on Android](/apk/)
+  [Descarrega l'APK a Android](/ca/apk/)
   :::
 
 </div>

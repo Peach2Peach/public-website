@@ -1,71 +1,72 @@
-# Join Us
+# Uneix-te a nosaltres
 
-## Open positions
+## Posicions obertes
 <!--
 ::::figures 3
 :::box tech-peach
-### Backend Developer
+### Desenvolupador Backend
 :::
 
 :::box tech-peach
-### Frontend Developer
+### Desenvolupador Frontend
 :::
 
 :::box tech-peach
-### Product Designer
+### Dissenyador de Producte
 :::
 
 :::box tech-peach
-### Regional Growth Hacker
+### Hacker de Creixement Regional
 
-Marketing manager
+Gestor de màrqueting
 :::
 
 :::box tech-peach
-### Local market growth hacker
+### Hacker de creixement en el mercat local
 
-UK, Germany, Spain and Italy
+Regne Unit, Alemanya, Espanya i Itàlia
 :::
 
 :::box tech-peach
-### Content Creator
+### Creador de contingut
 
 Instagram / Tik Tok
 :::
 
 :::box tech-peach
-### Product Manager
+### Gestor de Producte
 :::
 ::::
 
-Other interesting skills? Let us know!
+Altres habilitats interessants? Fes-nos-ho saber!
+
 -->
 
-We are always interested in receiving applications from  rockstar talents in engineering, product design, and growth hacking. Subscribe to our newsletter or join our social networks to stay updated on our next hiring wave!
+Estem sempre interessats en rebre sol·licituds de talents destacats en enginyeria, disseny de productes i creixement. Subscriu-te al nostre butlletí o uneix-te a les nostres xarxes socials per estar al corrent de la propera onada d'contractacions!
 
-[All about Peach, the company](/blog/all-about-peach-the-company/)
+[Tot sobre Peach, la companyia](/blog/all-about-peach-the-company/)
 
-## Our Tech Stack
+## La nostra pila tecnològica
 
 ::::figures 3
 :::box tech-docker
-### Server infrastructure
+### Infraestructura del servidor
 Linux, Docker, NodeJS
 :::
 
 :::box tech-react
-### Building the app
-React & React Native, BDK
+### Construcció de l'aplicació
+React i React Native, BDK
 :::
 
 :::box tech-figma
-### Design & Concepting
+### Disseny i Conceptualització
 Figma
 :::
 ::::
 
-Send your resume/CV to **$contactEmail$** specifying the job you want to apply for.
+Envia el teu currículum a **$contactEmail$** especificant el lloc de treball al qual vols aplicar.
 
 :::buttons
-[Apply now](mailto:$contactEmail$)
+[Aplica ara](mailto:$contactEmail$)
 :::

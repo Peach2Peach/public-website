@@ -1,33 +1,33 @@
-# For new users
-## Earn Bitcoin rewards!
+# Új felhasználóknak
+## Szerezz Bitcoin jutalmakat!
 
-If you don't have a referral code yet, you can start using the app with the special code: **PEACH**
+Ha még nincs hivatkozási kódod, elkezdheted használni az alkalmazást a következő különleges kóddal: **PEACH**
 
-## Advantages
+## Előnyök
 ::::figures 2
 
 :::box tech-peach
-### For buyers
-1 free buy trade!
+### Vásárlók számára
+1 ingyenes vásárlási tranzakció!
 :::
 
 :::box tech-peach
-### for sellers
-Satsback on every sell trade!
+### Eladók számára
+Satsback minden eladási tranzakciónál!
 :::
 
 ::::
 
-After creating your account, make sure to share your own referral code to start accumulating Peach points, and exchange them for more Bitcoin rewards!
+Fiókjának létrehozása után győződjön meg róla, hogy megosztja saját hivatkozási kódját a Peach pontok gyűjtésének elindításához, és cserélje be őket további Bitcoin jutalmakra!
 
 <div>
   <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Letöltés az Apple Áruházból"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Töltse le a Google Play-en"></a>
   </div>
 
   :::buttons
-  [Download APK on Android](/apk/)
+  [APK letöltése Androidre](/hu/apk/)
   :::
 
 </div>

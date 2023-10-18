@@ -1,71 +1,72 @@
-# Join Us
+# Csatlakozz Hozzánk
 
-## Open positions
+## Nyitott pozíciók
 <!--
 ::::figures 3
 :::box tech-peach
-### Backend Developer
+### Backend Fejlesztő
 :::
 
 :::box tech-peach
-### Frontend Developer
+### Frontend Fejlesztő
 :::
 
 :::box tech-peach
-### Product Designer
+### Terméktervező
 :::
 
 :::box tech-peach
-### Regional Growth Hacker
+### Régió Növekedési Hacker
 
-Marketing manager
+Marketing menedzser
 :::
 
 :::box tech-peach
-### Local market growth hacker
+### Helyi Piac Növekedési Hacker
 
-UK, Germany, Spain and Italy
+Egyesült Királyság, Németország, Spanyolország és Olaszország
 :::
 
 :::box tech-peach
-### Content Creator
+### Tartalomkészítő
 
 Instagram / Tik Tok
 :::
 
 :::box tech-peach
-### Product Manager
+### Termékmenedzser
 :::
 ::::
 
-Other interesting skills? Let us know!
+Más érdekes képességekkel rendelkezik? Mondja el nekünk!
+
 -->
 
-We are always interested in receiving applications from  rockstar talents in engineering, product design, and growth hacking. Subscribe to our newsletter or join our social networks to stay updated on our next hiring wave!
+Mindig érdekelnek mérnöki, terméktervezési és növekedési hacker rocksztárok jelentkezései. Iratkozzon fel hírlevelünkre vagy csatlakozzon közösségi hálózatainkhoz, hogy tájékozódjon a következő toborzási hullámainkról!
 
-[All about Peach, the company](/blog/all-about-peach-the-company/)
+[Mindent a Peach vállalatról](/blog/all-about-peach-the-company/)
 
-## Our Tech Stack
+## A Technológiai Stílusunk
 
 ::::figures 3
 :::box tech-docker
-### Server infrastructure
+### Szerver infrastruktúra
 Linux, Docker, NodeJS
 :::
 
 :::box tech-react
-### Building the app
-React & React Native, BDK
+### Alkalmazás fejlesztése
+React és React Native, BDK
 :::
 
 :::box tech-figma
-### Design & Concepting
+### Tervezés és Koncepció
 Figma
 :::
 ::::
 
-Send your resume/CV to **$contactEmail$** specifying the job you want to apply for.
+Küldje el önéletrajzát a **$contactEmail$** címre, a jelentkezni kívánt munkakör megjelölésével.
 
 :::buttons
-[Apply now](mailto:$contactEmail$)
+[Most jelentkezzen](mailto:$contactEmail$)
 :::
