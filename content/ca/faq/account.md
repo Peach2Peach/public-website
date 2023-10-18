@@ -1,78 +1,78 @@
-# Account FAQ
+# Preguntes més freqüents sobre el compte
 
-:::details What is a Peach account?
+:::details Què és un compte de Peach?
 
-A Peach account is not like a normal account you would have with other services, like an email address and a password. Your Peach account is a file that lives on your phone, which makes it so that we don't need to store your data and don't have to know who you are: you are in control. This file holds all your data: from your bitcoin wallet keys to your payment details
+Un compte de Peach no és com un compte normal que tindries amb altres serveis, com una adreça de correu electrònic i una contrasenya. El teu compte de Peach és un fitxer que es troba al teu telèfon, la qual cosa fa que no necessitem emmagatzemar les teves dades ni saber qui ets: tens el control. Aquest fitxer conté totes les teves dades, des de les claus de la teva cartera de bitcoins fins als detalls de pagament.
 
-This means more privacy for you, but it also comes with responsibility. You will need to back up this file, because otherwise, losing your phone will mean you no longer have access to your Peach account or the funds in your Peach wallet.
+Això significa més privadesa per a tu, però també comporta responsabilitats. Hauràs de fer una còpia de seguretat d'aquest fitxer, ja que si no ho fas, perdre el teu telèfon significarà que ja no tindràs accés al teu compte de Peach ni als fons de la teva cartera de Peach.
 
-This file is also encrypted with a password you set yourself. Since the file is stored digitally, you should make sure that this password is strong.
+Aquest fitxer també està xifrat amb una contrasenya que tu mateix estableixes. Com que el fitxer es guarda de forma digital, has de vetllar perquè aquesta contrasenya sigui forta.
 :::
 
-:::details How do I make a safe password?
+:::details Com puc crear una contrasenya segura?
 
-A safe password is long and random. Humans are very bad at randomness, so we recommend using a password manager to generate passwords for you, to make sure that you get both. A passphrase is generally safer than a password, since it's longer. This could look something like this:
+Una contrasenya segura és llarga i aleatòria. Els humans són molt dolents a l'hora de ser aleatoris, per la qual cosa recomanem fer servir un gestor de contrasenyes per generar contrasenyes, assegurant-te així que obtinguis ambdues característiques. Una frase de pas és generalment més segura que una contrasenya, ja que és més llarga. Podria ser semblant a això:
 
 Confider+Thrift9+Elves+Straining+Distant
 
-![Choose a strong password](/img/faq/account/StrongPassword.png)
+![Tria una contrasenya forta](/img/faq/account/StrongPassword.png)
 
-Since the Peach account is a file, we cannot limit how many times someone gets to try a different password. This could lead to someone using a computer to "brute force" (guess many times) your Peach file open and access your Peach wallet funds & personal data.
+Com que el compte de Peach és un fitxer, no podem limitar quantes vegades algú pot provar una contrasenya diferent. Això podria permetre que algú utilitzi un ordinador per "forçar per brutícia" (adivinar moltes vegades) l'obertura del teu fitxer de Peach i accedir als teus fons de la cartera de Peach i dades personals.
 
-![Time it takes a hacker to brute force your password](/img/faq/account/PWBruteForce.png)
+![Temps que triga un hacker a forçar una contrasenya](/img/faq/account/PWBruteForce.png)
 :::
 
-:::details How can I recover my password?
+:::details Com puc recuperar la meva contrasenya?
 
-Since we don't store your password, you cannot recover it if you don't have the phone on which the Peach app is installed anymore.
+Com que no emmagatzemem la teva contrasenya, no la pots recuperar si ja no tens el telèfon on tenies instal·lada l'aplicació de Peach.
 
-If you're still logged in to Peach, no need to panic if you forgot your password. You can simply create a new backup with a new password through the settings:
+Si encara tens sessió oberta a Peach, no cal que et preocupis si oblides la contrasenya. Simplement pots crear una nova còpia de seguretat amb una nova contrasenya a través de la configuració:
 
-![Backups](/img/faq/account/backups.png)
+![Còpies de seguretat](/img/faq/account/backups.png)
 :::
 
-:::details How should I store my backup?
+:::details Com hauria de guardar la meva còpia de seguretat?
 
-You should always store your backup file away from your phone, like on an SD card, on your PC or an external hard drive. Otherwise you're still screwed when you lose your phone. You can also store it in cloud storage, but it's extra critical that you have a long and secure password if you do.
+Sempre hauries de guardar el fitxer de còpia de seguretat lluny del teu telèfon, com en una targeta SD, al teu ordinador o en un disc dur extern. D'una altra manera, si perds el teu telèfon, encara estaràs en un embolic. També pots guardar-lo en emmagatzematge en núvol, però és crític tenir una contrasenya llarga i segura en aquest cas.
 :::
 
-:::details What's the difference between the file backup and the seed backup?
+:::details Quina és la diferència entre la còpia de seguretat de fitxer i la còpia de seguretat de llavor?
 
-The file backup can recover your entire Peach account, so that you won't need to re-add all your payment methods etc. when you lose your phone. When you recover your account with the seed backup, you'll regain access to your account & funds, but you'll lose your:
+La còpia de seguretat de fitxer pot recuperar tot el teu compte de Peach, de manera que no necessitaràs afegir-hi tots els teus mètodes de pagament, etc. quan perdis el teu telèfon. Quan recuperes el teu compte amb la còpia de seguretat de llavor, tornaràs a tenir accés al teu compte i fons, però perdràs:
 
-- Chat history
-- Payment data
-- Counterparty's payment data in the trade history
+- Històric de xats
+- Dades de pagament
+- Dades de pagament del contrafactant a la història de transaccions
 :::
 
-:::details How does the Peach referral system work?
+:::details Com funciona el sistema de referència de Peach?
 
-When you make a Peach account, you'll automatically get a referral code. When others use this, you'll get one Peach point for every 10 000 sats that your referees trade on Peach. Peach points can be traded in for cool rewards, that change over time. Right now, you can get:
+En crear un compte de Peach, automàticament obtindràs un codi de referència. Quan altres persones l'utilitzin, obtindràs un punt de Peach per cada 10.000 satoshis que les teves persones referides intercanviïn a Peach. Els punts de Peach es poden canviar per recompenses atractives, que canvien amb el temps. Ara mateix, pots aconseguir:
 
-- A custom referral code (100 points)
-- 5x trading without paying any Peach fees (200 points)
-- Convert your points into sats (starting at 300 point, 10.5 sats per point)
+- Un codi de referència personalitzat (100 punts)
+- 5 vegades més d'intercanvi sense pagar cap comissió de Peach (200 punts)
+- Convertir els teus punts en satoshis (a partir de 300 punts, 10,5 satoshis per punt)
 
-When someone uses your referral code, that person starts off with a gift of 100 Peach points themselves!
+Quan algú utilitza el teu codi de referència, aquesta persona comença amb un regal de 100 punts de Peach!
 :::
 
-:::details What does the Peach Score mean?
+:::details Què significa la Puntuació de Peach?
 
-The Peach score is your reputation on Peach. It is based on the user rating (the thumbs up/down your counterparty gives you after a trade) and on your actions, like disputes, how fast you pay, and more.
+La Puntuació de Peach és la teva reputació a Peach. Es basa en la valoració de l'usuari (el polze amunt/avall que et dóna el contrafactant després d'una transacció) i en les teves accions, com ara disputes, quan pagues ràpidament i més coses.
 :::
 
-:::details Why did my transaction disappear from my wallet?
+:::details Per què la meva transacció ha desaparegut de la meva cartera?
 
-Unconfirmed transactions that have fees set too low or are too old can be forgotten by nodes in the bitcoin network.
-If this happened to you after buying bitcoin on peach, you can use the in-app contact form to get assistance. Make sure to mention the associated trade id.
+Les transaccions no confirmades amb comissions massa baixes o que són massa antigues poden ser oblidades pels nodes de la xarxa de bitcoin.
+Si això et passa després de comprar bitcoin a Peach, pots utilitzar el formulari de contacte de l'aplicació per obtenir ajuda. Assegura't de mencionar la identificació de la transacció associada.
 
-To avoid this situation, make sure to set your fees at a sufficient rate. If you are not sure, you can choose an automatic fee rate that will adjust to the current fee situation.
-If you fear a transaction will get purged, you can bump it's fees by using RBF or CPFP depending on the situation.
+Per evitar aquesta situació, assegura't de configurar les teves comissions a una taxa suficient. Si no estàs segur, pots triar una taxa automàtica que s'ajustarà a la situació de la taxa actual.
+Si et preocupa que una transacció sigui eliminada, pots augmentar les seves comissions utilitzant RBF o CPFP, segons la situació.
 
-To know more about how to accelerate transactions, take a look at our Youtube video to learn how to do a CPFP from Peach: https://www.youtube.com/watch?v=24OtQkL0CxU
+Per saber-ne més sobre com accelerar les transaccions, mira el nostre vídeo de Youtube per aprendre com fer un CPFP des de Peach: https://www.youtube.com/watch?v=24OtQkL0CxU
 :::
 
-:::details Why can I buy legally without KYC?
+:::details Per què puc comprar legalment sense KYC?
 
-Peach is a 100% compliant company. We are an affiliated Swiss financial intermediary and our compliance framework allows for KYC-less money exchange transactions under certain thresholds.
+Peach és una empresa 100% en vigor. Som una intermediària financera suïssa afiliada i el nostre marc de compliment permet transaccions d'intercanvi de diners sense KYC sota determinats límits.
 :::

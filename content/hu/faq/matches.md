@@ -1,40 +1,40 @@
-# Matches FAQ
+# Találatok GYIK
 
-:::details How does Peach Matchmaking work?
+:::details Hogyan működik a Peach Partnerkeresés?
 
-Peach connects you with another Bitcoin Buyer or Seller according to your preferences of currencies and payment methods.
-Based on this, Peach notifies you when you receive matching offers.
-We sort the matches by [reputation score](/faq/account/#what-does-the-peach-score-mean) and price of the offer.
+A Peach összekapcsol téged egy másik Bitcoin Vásárlóval vagy Eladóval a te pénznem- és fizetési módpreferenciáid alapján.
+Ezek alapján a Peach értesít téged, amikor megfelelő ajánlatokat kapsz.
+A találatokat a [hírnév pontszám](/hu/faq/account/#what-does-the-peach-score-mean) és az ajánlat árának alapján soroljuk fel.
 :::
 
-:::details How is a trade created?
+:::details Hogyan jön létre egy kereskedelem?
 
-A Buyer can match as many sell offers as he wants.
-The first Seller to accept the Buyer's offer (Double Match) gets the trade!
+Egy Vásárló annyi eladási ajánlatot találhat, amennyit csak akar.
+Az első Eladó, aki elfogadja a Vásárló ajánlatát (Dupla Találat), végzi a kereskedelmet!
 :::
 
-:::details Can I un-match an offer?
+:::details Lehet-e megszüntetni egy találatot?
 
-At any time!
-Watch out, your [reputation score](/faq/account/#what-does-the-peach-score-mean) will be slightly be affected for unmatching an offer.
+Bármikor!
+Vigyázz, a [hírnév pontszámod](/hu/faq/account/#what-does-the-peach-score-mean) kissé érintett lesz, ha megszünteted a találatot.
 :::
 
-:::details Can I cancel a Double Match (a trade)?
+:::details Lehet-e lemondani egy Dupla Találatot (kereskedést)?
 
-A trade is created as soon as the Seller accepts a Buyer's offer.
-The Buyer automatically receives the Seller's payment details*.
-The Buyer can cancel the trade at anytime.
-The Seller can only cancel a trade by asking rst to the Buyer if he is okay to cancel.
-Watch out, cancelling a trade impacts your [reputation score](/faq/account/#what-does-the-peach-score-mean)!
+Egy kereskedelem akkor jön létre, amikor egy Eladó elfogadja a Vásárló ajánlatát.
+A Vásárló automatikusan megkapja az Eladó fizetési adatait*.
+A Vásárló bármikor lemondhatja a kereskedelmet.
+Az Eladó csak akkor mondhatja le a kereskedelmet, ha először megkérdezi a Vásárlót, hogy rendben van-e a lemondás.
+Vigyázz, a kereskedés lemondása hatással van a [hírnév pontszámodra](/hu/faq/account/#what-does-the-peach-score-mean)!
 :::
 
-:::details When is the price of the trade set?
+:::details Mikor kerül meghatározásra a kereskedelem ára?
 
-When the buyer matches an offer.
-The seller may accept this match or not.
+Amikor a vásárló talál egy ajánlatot.
+Az eladó elfogadhatja ezt a találatot, vagy sem.
 :::
 
-:::details As a buyer, can I match multiple sellers?
+:::details Vásárlóként találhatok több eladót?
 
-Yes! You can match as many sellers as you want. Matching a seller doesn't guarantee that they'll match you back, so it's often smart to match as many as possible. You will make the trade with the first seller that matches you back, while the other ones will need to look for new buyers.
+Igen! Találhatsz annyi eladót, amennyit csak akarsz. Az eladóval való találkozás nem garantálja, hogy ő is megtalál téged, ezért gyakran érdemes minél többet találni. A kereskedelmet az első eladóval hozod létre, aki megtalál téged, míg a többieknek új vásárlókat kell keresniük.
 :::

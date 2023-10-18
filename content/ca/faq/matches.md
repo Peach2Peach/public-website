@@ -1,40 +1,40 @@
-# Matches FAQ
+# Preguntes freqüents sobre els Matches
 
-:::details How does Peach Matchmaking work?
+:::details Com funciona el Peach Matchmaking?
 
-Peach connects you with another Bitcoin Buyer or Seller according to your preferences of currencies and payment methods.
-Based on this, Peach notifies you when you receive matching offers.
-We sort the matches by [reputation score](/faq/account/#what-does-the-peach-score-mean) and price of the offer.
+Peach connecta els usuaris amb un altre Comprador o Venedor de Bitcoin segons les preferències de moneda i mètodes de pagament.
+Basant-se en això, Peach us notifica quan rebeu ofertes que coincideixen.
+Ordenem els matches segons la [puntuació de reputació](/ca/faq/account/#what-does-the-peach-score-mean) i el preu de l'oferta.
 :::
 
-:::details How is a trade created?
+:::details Com es crea una transacció?
 
-A Buyer can match as many sell offers as he wants.
-The first Seller to accept the Buyer's offer (Double Match) gets the trade!
+Un Comprador pot fer match amb tantes ofertes de venda com vulgui.
+El primer Venedor que accepti l'oferta del Comprador (Doble Match) realitza la transacció!
 :::
 
-:::details Can I un-match an offer?
+:::details Puc desfer el match d'una oferta?
 
-At any time!
-Watch out, your [reputation score](/faq/account/#what-does-the-peach-score-mean) will be slightly be affected for unmatching an offer.
+En qualsevol moment, però vigila!
+Ves alerta, la teva [puntuació de reputació](/ca/faq/account/#what-does-the-peach-score-mean) es veurà lleugerament afectada per desfer un match amb una oferta.
 :::
 
-:::details Can I cancel a Double Match (a trade)?
+:::details Puc cancel·lar un Doble Match (una transacció)?
 
-A trade is created as soon as the Seller accepts a Buyer's offer.
-The Buyer automatically receives the Seller's payment details*.
-The Buyer can cancel the trade at anytime.
-The Seller can only cancel a trade by asking rst to the Buyer if he is okay to cancel.
-Watch out, cancelling a trade impacts your [reputation score](/faq/account/#what-does-the-peach-score-mean)!
+Una transacció es crea tan aviat com el Venedor accepta l'oferta del Comprador.
+El Comprador rep automàticament les dades de pagament del Venedor*.
+El Comprador pot cancel·lar la transacció en qualsevol moment.
+El Venedor només pot cancel·lar una transacció demanant primer al Comprador si està d'acord en cancel·lar.
+Ves alerta, cancel·lar una transacció afecta la teva [puntuació de reputació](/ca/faq/account/#what-does-the-peach-score-mean)!
 :::
 
-:::details When is the price of the trade set?
+:::details Quan es fixa el preu de la transacció?
 
-When the buyer matches an offer.
-The seller may accept this match or not.
+Quan el Comprador fa match amb una oferta.
+El Venedor pot acceptar aquest match o no.
 :::
 
-:::details As a buyer, can I match multiple sellers?
+:::details Com a Comprador, puc fer match amb diversos Venedors?
 
-Yes! You can match as many sellers as you want. Matching a seller doesn't guarantee that they'll match you back, so it's often smart to match as many as possible. You will make the trade with the first seller that matches you back, while the other ones will need to look for new buyers.
+Sí! Pots fer match amb tants Venedors com vulguis. Fer match amb un Venedor no garanteix que et faci match de tornada, així que sovint és intel·ligent fer match amb tants com sigui possible. Realitzaràs la transacció amb el primer Venedor que et faci match de tornada, mentre que els altres hauran de buscar nous Compradors.
 :::

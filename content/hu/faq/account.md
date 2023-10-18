@@ -1,78 +1,77 @@
-# Account FAQ
+# Fiók GYIK
 
-:::details What is a Peach account?
+:::details Mi az a Peach fiók?
 
-A Peach account is not like a normal account you would have with other services, like an email address and a password. Your Peach account is a file that lives on your phone, which makes it so that we don't need to store your data and don't have to know who you are: you are in control. This file holds all your data: from your bitcoin wallet keys to your payment details
+A Peach fiók nem olyan, mint egy átlagos fiók más szolgáltatásoknál, például egy e-mail cím és egy jelszó. A Peach fiók egy fájl a telefonodon, amely lehetővé teszi számunkra, hogy ne kelljen tárolnunk az adataidat, és ne kelljen tudnunk, ki vagy: te irányítasz. Ez a fájl tartalmazza az összes adataidat: a bitcoin tárcád kulcsaitól a fizetési adataidig.
 
-This means more privacy for you, but it also comes with responsibility. You will need to back up this file, because otherwise, losing your phone will mean you no longer have access to your Peach account or the funds in your Peach wallet.
+Ez több magánéletet jelent számodra, de felelősséggel jár. Fontos, hogy biztonsági másolatot készíts erről a fájlról, mert egyébként, ha elveszíted a telefonodat, már nem férhetsz hozzá a Peach fiókodhoz vagy a Peach pénztárcádban lévő pénzhez.
 
-This file is also encrypted with a password you set yourself. Since the file is stored digitally, you should make sure that this password is strong.
+Ez a fájl egyébként egy olyan jelszóval van titkosítva, amit te magad állítasz be. Mivel a fájl digitálisan van tárolva, fontos, hogy a jelszavad erős legyen.
 :::
 
-:::details How do I make a safe password?
+:::details Hogyan készíthetek biztonságos jelszót?
 
-A safe password is long and random. Humans are very bad at randomness, so we recommend using a password manager to generate passwords for you, to make sure that you get both. A passphrase is generally safer than a password, since it's longer. This could look something like this:
+Egy biztonságos jelszó hosszú és véletlenszerű. Az emberek rosszak a véletlenszerűségben, ezért javasoljuk, hogy használj egy jelszókezelőt, amely generál jelszavakat neked, hogy biztosítsd mindkettőt. Egy jelszónál egy jelszókezelő általában biztonságosabb, mivel hosszabb. Így nézhet ki valami ilyesmi:
 
 Confider+Thrift9+Elves+Straining+Distant
 
-![Choose a strong password](/img/faq/account/StrongPassword.png)
+![Válassz erős jelszót](/img/faq/account/StrongPassword.png)
 
-Since the Peach account is a file, we cannot limit how many times someone gets to try a different password. This could lead to someone using a computer to "brute force" (guess many times) your Peach file open and access your Peach wallet funds & personal data.
+Mivel a Peach fiók egy fájl, nem tudjuk korlátozni, hány alkalommal próbálkozhat valaki más jelszóval. Ez lehetővé teheti, hogy valaki számítógépet használva "brute force" (sokszor próbálkozik) megnyissa a Peach fájlt és hozzáférjen a Peach pénztárcádhoz és a személyes adataidhoz.
 
-![Time it takes a hacker to brute force your password](/img/faq/account/PWBruteForce.png)
+![Idő, amire a hackereknek szükségük van a jelszavad feltöréséhez](/img/faq/account/PWBruteForce.png)
 :::
 
-:::details How can I recover my password?
+:::details Hogyan állíthatom vissza a jelszavamat?
 
-Since we don't store your password, you cannot recover it if you don't have the phone on which the Peach app is installed anymore.
+Mivel mi nem tároljuk a jelszavadat, nem tudod visszaállítani, ha már nincs meg az a telefon, amelyen a Peach alkalmazás telepítve van.
 
-If you're still logged in to Peach, no need to panic if you forgot your password. You can simply create a new backup with a new password through the settings:
+Ha még mindig be vagy jelentkezve a Peach alkalmazásba, ne essen pánikba, ha elfelejtetted a jelszavadat. Egyszerűen hozz létre egy új biztonsági másolatot egy új jelszóval a beállításokon keresztül:
 
-![Backups](/img/faq/account/backups.png)
+![Mentés](/img/faq/account/backups.png)
 :::
 
-:::details How should I store my backup?
+:::details Hogyan kell tárolnom a biztonsági másolatomat?
 
-You should always store your backup file away from your phone, like on an SD card, on your PC or an external hard drive. Otherwise you're still screwed when you lose your phone. You can also store it in cloud storage, but it's extra critical that you have a long and secure password if you do.
+Mindig tárold a biztonsági másolatfájlt távol a telefonodtól, például egy SD kártyán, a PC-n vagy egy külső merevlemezen. Ellenkező esetben még mindig bajban leszel, ha elveszíted a telefonod. Ezt akár felhőtárhelyen is tárolhatod, de különösen fontos, hogy hosszú és biztonságos jelszavaddal rendelkezz, ha ezt teszed.
 :::
 
-:::details What's the difference between the file backup and the seed backup?
+:::details Mi a különbség a fájlbiztonsági másolat és a magbiztonsági másolat között?
 
-The file backup can recover your entire Peach account, so that you won't need to re-add all your payment methods etc. when you lose your phone. When you recover your account with the seed backup, you'll regain access to your account & funds, but you'll lose your:
+A fájlbiztonsági másolat visszaállíthatja az egész Peach fiókodat, így nem kell újra hozzáadnod az összes fizetési módot stb., amikor elveszíted a telefonodat. Amikor a magbiztonsági másolattal helyreállítod a fiókodat, újra hozzáférhetsz a fiókodhoz és a pénzedhez, de elveszted a következőket:
 
-- Chat history
-- Payment data
-- Counterparty's payment data in the trade history
+- Csevegési előzmények
+- Fizetési adatok
+- A kereskedelmi előzményekben szereplő ellenfél fizetési adatai
 :::
 
-:::details How does the Peach referral system work?
+:::details Hogyan működik a Peach ajánlási rendszer?
 
-When you make a Peach account, you'll automatically get a referral code. When others use this, you'll get one Peach point for every 10 000 sats that your referees trade on Peach. Peach points can be traded in for cool rewards, that change over time. Right now, you can get:
+Amikor létrehozol egy Peach fiókot, automatikusan kapsz egy ajánlási kódot. Ha mások használják ezt, te kapsz egy Peach pontot minden 10 000 satsért, amit a hivatkozottak Peach-en keresztül kereskednek. A Peach pontokat értékes jutalmakra cserélheted be, amelyek idővel változnak. Jelenleg ezeket kaphatod:
 
-- A custom referral code (100 points)
-- 5x trading without paying any Peach fees (200 points)
-- Convert your points into sats (starting at 300 point, 10.5 sats per point)
+- Egyéni ajánlási kód (100 pont)
+- 5x kereskedés a Peach díjak kifizetése nélkül (200 pont)
+- Pontjaidat satsokra válthatod (kezdve 300 ponttól, 10,5 sats pontonként)
 
-When someone uses your referral code, that person starts off with a gift of 100 Peach points themselves!
+Amikor valaki használja az ajánlási kódodat, az illető egy 100 Peach pontos ajándékot kap!
 :::
 
-:::details What does the Peach Score mean?
+:::details Mit jelent a Peach pontszám?
 
-The Peach score is your reputation on Peach. It is based on the user rating (the thumbs up/down your counterparty gives you after a trade) and on your actions, like disputes, how fast you pay, and more.
+A Peach pontszám a hírneved a Peach-en. Az a felhasználói értékelésen alapul (az ellenféllel történő kereskedés után a fel vagy le mutató jelek) és a te cselekedeteiden, mint például viták, mennyire gyorsan fizetsz és mások.
 :::
 
-:::details Why did my transaction disappear from my wallet?
+:::details Miért tűnt el a tranzakcióm a pénztárcámból?
 
-Unconfirmed transactions that have fees set too low or are too old can be forgotten by nodes in the bitcoin network.
-If this happened to you after buying bitcoin on peach, you can use the in-app contact form to get assistance. Make sure to mention the associated trade id.
+A megerősítetlen tranzakciókat, amelyeknél túl alacsonyak a díjak vagy túl régiek, elfelejthetik a bitcoin hálózat csomópontjai.
+Ha ez megtörtént veled a Peach-en vásárolt bitcoin után, használhatod az alkalmazásban található kapcsolatfelvételi űrlapot segítséghez. Ne felejtsd el megadni az érintett tranzakció azonosítóját.
 
-To avoid this situation, make sure to set your fees at a sufficient rate. If you are not sure, you can choose an automatic fee rate that will adjust to the current fee situation.
-If you fear a transaction will get purged, you can bump it's fees by using RBF or CPFP depending on the situation.
+Annak érdekében, hogy elkerüld ezt a helyzetet, gondoskodj arról, hogy a díjak elegendőek legyenek. Ha nem vagy biztos, választhatsz egy automatikus díjratételt, amely a jelenlegi díjhelyzethez igazodik. Ha attól tartasz, hogy egy tranzakciót törölnek, a díjakat RBF vagy CPFP használatával növelheted, a helyzettől függően.
 
-To know more about how to accelerate transactions, take a look at our Youtube video to learn how to do a CPFP from Peach: https://www.youtube.com/watch?v=24OtQkL0CxU
+További információért arról, hogyan lehet felgyorsítani a tranzakciókat, nézd meg a Peach Youtube videóját, ahol megtudhatod, hogyan végezd el a CPFP-t a Peach-en: https://www.youtube.com/watch?v=24OtQkL0CxU
 :::
 
-:::details Why can I buy legally without KYC?
+:::details Miért vásárolhatok jogilag KYC nélkül?
 
-Peach is a 100% compliant company. We are an affiliated Swiss financial intermediary and our compliance framework allows for KYC-less money exchange transactions under certain thresholds.
+A Peach egy 100% -osan megfelelő cég. Mi egy kapcsolódó svájci pénzügyi közvetítő vagyunk, és a szabályozási keretünk lehetővé teszi az KYC nélküli pénzcseréket bizonyos küszöbértékek alatt.
 :::
