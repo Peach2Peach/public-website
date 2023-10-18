@@ -1,18 +1,13 @@
-# Download the APK
+# Descarrega l'APK
 
 :::buttons
-[Download Universal APK]($apkUniversalUrl$)
-[Download ARM64-v8 APK]($apkArm64v8Url$)
+[Descarrega l'APK Universal]($apkUniversalUrl$)
+[Descarrega l'APK ARM64-v8]($apkArm64v8Url$)
 :::
 
-- [Peach signature]($apkSignaturesUrl$)
-- [SHA256 checksums]($apkChecksumsUrl$)
+- [Signatura de Peach]($apkSignaturesUrl$)
+- [Checksums SHA256]($apkChecksumsUrl$)
 
-Latest version: $apkVersionBuild$
+Darrera versió: $apkVersionBuild$
 
-We recommend downloading the ARM64 version from Android 8.0 and up.
-
-## Can't install the APK?
-
-Send an email with your operating system (iOS or Android) and the email address linked to your Play/App Store account to
-[$contactEmail$](mailto:$contactEmail$) and we'll add you to the list.
+Recomanem descarregar la versió ARM64 per a Android 8.0 i versions posteriors.
