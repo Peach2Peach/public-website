@@ -1,150 +1,148 @@
-# Trading FAQ
+# Preguntes freqüents sobre el comerç
 
-:::details How can I be sure I get the bitcoin / the money?
+:::details Com puc estar segur d'obtenir els bitcoins / els diners?
 
-When making a sell offer, the seller sends the bitcoin to an address that is controlled by him and Peach: the bitcoin can only be moved from here, if he and Peach both sign off on it. This makes sure that:
+En fer una oferta de venda, el venedor envia els bitcoins a una adreça que està controlada per ell i Peach: els bitcoins només es poden moure d'aquí si tant ell com Peach hi donen el seu consentiment. Això garanteix que:
 
-- The seller cannot move the bitcoin (back) on his own
-- Peach cannot steal the bitcoin
-- The buyer doesn't get the bitcoin until the payment is made
-- The seller can get the bitcoin back if the buyer doesn't respond
+- El venedor no pot moure els bitcoins (de tornada) per si mateix.
+- Peach no pot robar els bitcoins.
+- L'acheteur no rep els bitcoins fins que es realitza el pagament.
+- El venedor pot recuperar els bitcoins si l'acheteur no respon.
 
-If the trade doesn't resolve normally, this address automatically comes into full control of Peach after roughly 30 days (to be precise: when 4320 bitcoin blocks have been mined). This makes sure that:
+Si la transacció no es resol de manera normal, aquesta adreça passa automàticament sota el control complet de Peach després d'aproximadament 30 dies (per ser precisos: quan s'han minat 4320 blocs de bitcoins). Això garanteix que:
 
-- The buyer can get the bitcoin if he can prove he made the payment but the seller doesn't respond
-- The bitcoin doesn't get stuck if something happens to the seller
+- L'acheteur pot recuperar els bitcoins si pot demostrar que ha fet el pagament i el venedor no respon.
+- Els bitcoins no queden bloquejats si passa alguna cosa al venedor.
 
-This is the most important part of securing your trade. Next to that, there's also our intricate reputation system, that helps you identify people who have been using Peach reliably for a long time.
+Aquesta és la part més important per assegurar la vostra transacció. A més a més, tenim el nostre elaborat sistema de reputació, que us ajuda a identificar les persones que han utilitzat Peach de manera fiable durant molt de temps.
 :::
 
-:::details Why is there a trading limit?
+:::details Per què hi ha un límit de compra?
 
-Swiss regulations state that a person can only buy up to 1000CHF of bitcoin per day, without providing their identification to the seller. Since we'd prefer staying out of jail, we enforce this limit in the app.
+La regulació suïssa estableix que una persona només pot comprar fins a 1000CHF de bitcoins al dia, sense proporcionar la seva identificació al venedor. Com que preferim evitar la presó, impossem aquest límit a l'aplicació.
 
-All your payment details are stored on your phone, so we cannot see them. What we can see is a hash\* of your phone's ID and your payment details. This allows us to block any trades that go over the personal limit.
+Totes les vostres dades de pagament es conserven al vostre telèfon, de manera que no podem veure-les. El que podem veure és un hash\* de la vostra identificació del telèfon i les vostres dades de pagament. Això ens permet bloquejar qualsevol transacció que superi el límit personal.
 
-\* A hash is some data that was made unrecognizable, similar to encrypting it. The same data will always lead to the same hash. This means we don't know what the data is, but we will be able to spot if the same data is used twice.
+\* Un hash és una mena de dades que s'han fet irreconeixibles, similar a xifrar-les. Les mateixes dades sempre donen lloc al mateix hash. Això vol dir que no sabem quines són les dades, però podrem veure si s'utilitzen les mateixes dades dues vegades.
 :::
 
-:::details Is there any way I can buy/sell more than the trading limit?
+:::details Hi ha alguna manera de comprar / vendre més enllà del límit de compra?
 
-If you're a high volume buyer or seller, send us an email at [$contactEmail$](mailto:$contactEmail$)!
+Si sou un comprador o venedor de gran volum, envieu-nos un correu electrònic a [$contactEmail$](mailto:$contactEmail$)!
 :::
 
-:::details What are the fees for trading on Peach?
+:::details Quines són les tarifes pel comerç a Peach?
 
-Peach charges 2% of the trading volume in fees to the buyer. When making a trade on Peach, you're doing transactions on the Bitcoin blockchain, which will result in transaction fees. You can always see the full fee structure at the end of your trade, which could look something like this:
+Peach cobra un 2% del volum de negoci en tarifes a l'acheteur. Quan feu una transacció a Peach, esteu realitzant operacions a la xarxa de bitcoins, el que comportarà tarifes de transacció. Podeu veure sempre l'estructura completa de tarifes al final de la vostra transacció, que podria ser semblant a això:
 
-![Trade Breakdowns](/img/faq/trading/TradeBreakdowns.png)
+![Desglossament del Comerç](/img/faq/trading/TradeBreakdowns.png)
 :::
 
-:::details How can I cancel an offer or a trade?
+:::details Com puc cancel·lar una oferta o una transacció?
 
-You can cancel your offers and trades by clicking the red X at the top of the screen, whenever it's available:
+Podeu cancel·lar les vostres ofertes i transaccions fent clic a la X vermella a la part superior de la pantalla, sempre que estigui disponible:
 
-![Cancel Trade](/img/faq/trading/cancel.png)
+![Cancel·lar Transacció](/img/faq/trading/cancel.png)
 
-That said, this often does have consequences. Before you match anyone, you can cancel at any time. After you've matched, though, your reputation will be negatively impacted. Next to that, as a seller, you'll need to ask the buyer for permission to cancel the trade. They might already have made the payment!
+Això dit, això sovint té conseqüències. Abans d'emparellar-vos amb algú, podeu cancel·lar en qualsevol moment. Després de l'emparellament, la vostra reputació es veurà afectada negativament. A més a més, com a venedor, haureu de demanar permís a l'acheteur per cancel·lar la transacció. Potser ja ha fet el pagament!
 :::
 
-:::details Why did I receive less sats than I thought I was buying?
+:::details Per què he rebut menys sats dels que pensava que comprava?
 
-Peach charges 2% trading fees to the buyer, which means that you'll get less sats than the amount the trade is for. Next to that, you'll need to pay bitcoin network fees. Your trade could look like this, for example:
+Peach cobra un 2% de tarifes de negoci a l'acheteur, la qual cosa significa que rebràs menys sats que la quantitat de la transacció. A més a més, haureu de pagar les tarifes de la xarxa de bitcoins. La vostra transacció podria ser semblant a això, per exemple:
 
-![Buy Breakdown](/img/faq/trading/TradeBreakdownBuy.png)
+![Desglossament de Compra](/img/faq/trading/TradeBreakdownBuy.png)
 :::
 
-:::details What if I don't want to use the Peach wallet for the payout / refund?
+:::details I si no vull utilitzar la cartera Peach pel pagament / el reembossament?
 
-Of course, you're free to use your own wallet if you want to. We still highly recommend using the Peach wallet, as it's by far the easiest way to make a trade. You can then send the funds to any other wallet.
+És clar, sou lliures d'utilitzar la vostra pròpia cartera si ho voleu. No obstant això, us recomanem encaridament utilitzar la cartera Peach, ja que és de molt lluny la manera més senzilla de fer una transacció. Després podeu enviar els fons a qualsevol altra cartera.
 
-If you want to add your own wallet, you can disable "payout to Peach wallet" and then set a custom payout address:
+Si voleu afegir la vostra pròpia cartera, podeu desactivar "pagament a la cartera Peach" i després establir una adreça de pagament personalitzada:
 
-![Disable Wallet](/img/faq/trading/disablewallet.png)
+![Desactiva la Cartera](/img/faq/trading/disablewallet.png)
 
-When making a trade, you'll need to sign a message that you're in control of this wallet, as per Swiss regulations.
+En fer una transacció, haureu de signar un missatge que indiqui que teniu el control d'aquesta cartera, d'acord amb la regulació suïssa.
 
-We'll be working on xpub support very soon, but for now, you'll need to manually change this address if you don't want to re-use it.
+Aviat treballarem en el suport xpub, però de moment haureu de canviar manualment aquesta adreça si no voleu tornar-la a utilitzar.
 :::
 
-:::details How is the Bitcoin price calculated on Peach?
+:::details Com es calcula el preu del Bitcoin a Peach?
 
-The BTC price we show on Peach is an aggregate of the BTC price on centralised exchanges.
+El preu del BTC que mostrem a Peach és una agregació del preu del BTC a les borses centralitzades.
 :::
 
-:::details What happens with the price of currencies under high inflation such as Argentina, Venezuela, etc. ?
+:::details Què passa amb el preu de les monedes amb una inflació alta com Argentina, Veneçuela, etc.?
 
-Currencies under high inflation suffer from high volatility, hence the price you find in difference exchanges may differ. Peach gives the price according to an aggregate of the BTC price from different sources.
+Les monedes amb una inflació alta pateixen una alta volatilitat, de manera que el preu que trobeu en diferents borses pot ser diferent. Peach dóna el preu segons una agregació del preu del BTC de diferents fonts.
 :::
 
-:::details How to bump a transaction that is stuck because of low mining fees?
-It depends what type of transactions we are talking about. Here is a list of all transactions that can happen in Peach and their solutions to bump fees:
+:::details Com augmentar una transacció que està bloquejada a causa de les baixes tarifes de mineria?
+Depèn del tipus de transaccions del que estiguem parlant. A continuació, es mostra una llista de totes les transaccions que es poden realitzar a Peach i les seves solucions per augmentar les tarifes:
 
-1. Transaction for funding the escrow to publish a sell offer
-- If you funded the escrow from the Peach wallet, you can RBF (Replace-By-Fee) the transaction and pump the fees
-- If you funded the escrow from an external wallet, you need to check if the wallet supports RBF (Replace-By-Fee) to increase the network fees.
+1. Transacció per finançar l'escrow per publicar una oferta de venda
+- Si heu finançat l'escrow des de la cartera Peach, podeu RBF (Replace-By-Fee) la transacció i augmentar les tarifes.
+- Si heu finançat l'escrow des d'una cartera externa, haureu de comprovar si la cartera admet RBF (Replace-By-Fee) per augmentar les tarifes de la xarxa.
 
-2. Release transaction from the escrow (buying Bitcoin)
-- If your receiving address is from the Peach wallet, then you can withdraw the total amount to an external wallet of yours with higher fees (Settings > Network fees) - CPFP technique
-- If your receiving address is from an external wallet, you can also do the CPFP technique if it’s supported by your wallet
+2. Transacció de l'alliberament de l'escrow (compra de Bitcoin)
+- Si la vostra adreça de recepció és de la cartera Peach, podeu retirar la quantitat total a una altra cartera vostra amb tarifes més altes (Configuració > Tarifes de la xarxa) - tècnica CPFP
+- Si la vostra adreça de recepció és d'una cartera externa, també podeu utilitzar la tècnica CPFP si la vostra cartera la suporta
 
-3. Send transaction from the Peach wallet to another wallet
-- RBF (Replace-By-Fee) from the Peach Wallet in your transaction details!
+3. Enviar una transacció des de la cartera Peach a una altra cartera
+- RBF (Replace-By-Fee) des de la cartera Peach en els detalls de la vostra transacció!
 :::
 
-:::details What is GroupHug?
-GroupHug is simply the term we’ve given to the action of batching transactions from different users to avoid fees for each one of them. For a more detailed explanation, check out our [blog post](https://peachbitcoin.com/blog/group-hug).
+:::details Què és GroupHug?
+GroupHug és simplement el terme que hem donat a l'acció de combinar transaccions d'usuaris diferents per evitar les tarifes per a cadascun d'ells. Per a una explicació més detallada, consulteu el nostre [post al blog](https://peachbitcoin.com/blog/group-hug).
 :::
 
-:::details If I have a single buy offer running it will be released immediately?
+:::details Si tinc una única oferta de compra en curs, s'alliberarà immediatament?
 
-No, your payout will be added to a queue, waiting for payout. The payout will be made when enough users participate in the batch. The number of needed participants can be seen in the pending payout information. You can access this view through the trade details.
-There you can see how many slots of the current batch are takenIn the information you can also see an ETA that will tell you the maximum waiting time if the slots are not filled before.
+No, el vostre pagament s'afegirà a una cua, esperant a ser pagat. El pagament es farà quan suficients usuaris participin en el lot. El nombre de participants necessaris es pot veure a la informació de pagament pendent. Podeu accedir a aquesta vista a través dels detalls de la transacció. Allà podeu veure quantes ranures del lot actual estan ocupades. A la informació també podeu veure una ETA que us indicarà el temps màxim d'espera si les ranures no es compleixen abans.
 :::
 
-:::details How does it work, If I have multiple buying offers ongoing?
+:::details Com funciona, si tinc diverses ofertes de compra en curs?
 
-Just as mentioned before, your payouts will be added to the queue waiting to be batched with other participants.
+Exactament com s'ha mencionat anteriorment, els vostres pagaments s'afegiran a la cua a l'espera d'ésser agrupats amb altres participants.
 :::
 
-:::details Is there a limit of participants who can participate in the batching?
+:::details Hi ha un límit de participants que poden participar en l'agrupació?
 
-No, batches can also go over the maximum number of participants. It’s not a cutoff, but a threshold. Meaning, as soon as the minimum is reached, we just take all psbts and batch them together to make the transaction, and reduce the fees each participant is paying.
+No, els lots també poden superar el nombre màxim de participants. No és un tall, sinó un llindar. Això vol dir que, un cop s'hagi assolit el mínim, simplement prenem totes les psbts i les agrupem per fer la transacció, i reduïm les tarifes que paga cada participant.
 :::
 
-:::details How to sign an external address?
-Follow this steps to sign the receiving address when buying Bitcoin to an external wallet:
+:::details Com signar una adreça externa?
+Seguiu aquests passos per signar l'adreça de recepció quan compreu bitcoins a una cartera externa:
 
-_Note: The first 2 steps are useful if you **always** want to receive your funds in external addresses. If you just want to do it once, or you want to sometimes use peach wallet, start from step 3._
+_Nota: Els dos primers passos són útils si **sempre** voleu rebre els fons a adreces externes. Si només voleu fer-ho una vegada o, de tant en tant, utilitzar la cartera Peach, comenceu a partir del tercer pas._
 
-1. Go to settings
-  - disable peach wallet
-  - go to payout address
+1. Anar a la configuració
+   - desactiveu la cartera Peach
+   - aneu a l'adreça de pagament
 
-2. Paste the new receiving address
+2. Pegar la nova adreça de recepció
 
-3. Go through the process to publish your buy offer, and before publishing it, make sure you choose to receive to your external wallet address (click on the upper right little wallet icon on the offer summary screen).
+3. Seguiu el procés per publicar la vostra oferta de compra i, abans de publicar-la, assegureu-vos que trieu rebre-la a l'adreça de la vostra cartera externa (feu clic a la icona de la cartera petita de la part superior a la dreta a la pantalla de resum de l'oferta).
 
-4. Once you confirm your buy offer, the message to sign your address will appear. Copy it and go back to your wallet.
+4. Un cop hàgiu confirmat la vostra oferta de compra, apareixerà el missatge per signar la vostra adreça. Copieu-lo i torneu a la vostra cartera.
 
-5. Search for the "sign/verify" option* and paste:
-  - your receiving address
-  - the peach message
+5. Cerqueu l'opció "signar/verificar" * i enganxeu-hi:
+   - la vostra adreça de recepció
+   - el missatge de Peach
 
-6. Click on sign & the signature will appear. Copy it.
+6. Feu clic a signar i apareixerà la signatura. Copieu-la.
 
-7. Paste the signature on the peach wallet and click on confirm.
+7. Enganxeu la signatura a la cartera Peach i feu clic a confirmar.
 
-8. Your offer is published.
+8. La vostra oferta està publicada.
 
-_*Disclaimer: not all wallets support the option to sign/verify your address._ 
-Peach recommends using Blue Wallet, Sparrow or Samourai Wallet. Other options include Ledger and Trezor (Hardware Wallets), Bitcoin Core, and Electrum wallet.
+_*Nota legal: no totes les carteres admeten l'opció de signar/verificar la vostra adreça._ 
+Peach recomana utilitzar Blue Wallet, Sparrow o Samourai Wallet. Altres opcions inclouen Ledger i Trezor (carteres de maquinari), Bitcoin Core i la cartera Electrum.
 
-You can also find a step by step tutorial on how to sign a message using Blue Wallet in our Youtube account: [https://youtu.be/d3STuVfFWfQ](https://youtu.be/d3STuVfFWfQ)
+També podeu trobar un tutorial pas a pas sobre com signar un missatge amb Blue Wallet al nostre compte de Youtube: [https://youtu.be/d3STuVfFWfQ](https://youtu.be/d3STuVfFWfQ)
 
 :::
 
-:::details How to use CPFP to accelerate stuck transactions?
-
-Follow the steps found in this video: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU) to accelerate stuck transactions using CPFP inside the Peach app.
+:::details Com utilitzar CPFP per accelerar transaccions bloquejades?
+Seguiu els passos que hi ha en aquest vídeo: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU) per accelerar transaccions bloquejades utilitzant CPFP a l'aplicació Peach.
 :::

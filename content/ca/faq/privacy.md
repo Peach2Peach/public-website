@@ -1,68 +1,67 @@
-# Privacy FAQ
+# Preguntes freqüents sobre la privacitat
 
-:::details What info does Peach collect of me?
+:::details Quines dades recull Peach de mi?
 
-We strive to store the absolute minimum amount of data on our users as we can. As a quick overview, this is what we have on our servers:
+Ens esforcem al màxim per emmagatzemar la quantitat mínima de dades dels nostres usuaris. Com a resum ràpid, això és el que tenim als nostres servidors:
 
-- A hash\* of your app unique ID (AdID)
-- A hash of your payment data
-- Your encrypted chats
-- The data of the trades to make sure anonymous users do not exceed the trading limit (which type of payment methods are being used, buying and selling amounts)
-- Addresses used to send to escrow, and to send from escrow
-- Usage data (Firebase & Google Analytics), **only if you agreed to this**
+- Un hash\* de la vostra identificació única de l'aplicació (AdID)
+- Un hash de les vostres dades de pagament
+- Les vostres converses xifrades
+- Les dades de les transaccions per assegurar que els usuaris anònims no superin els límits de transacció (quins tipus de mètodes de pagament s'utilitzen, quantitats de compra i venda)
+- Adreces utilitzades per enviar fons a l'escrow i per enviar des de l'escrow
+- Dades d'ús (Firebase i Google Analytics), **només si heu donat el vostre consentiment per això**
 
-For a full breakdown, please see our [privacy policy](/privacy-policy/).
+Per obtenir un desglossament complet, consulteu la nostra [política de privacitat](/privacy-policy/).
 
-\* A hash is some data that was made unrecognizable, similar to encrypting it. The same data will always lead to the same hash. This means we don't know what the data is, but we will be able to spot if the same data is used twice.
+\* Un hash és una dada que s'ha fet irreconeixible, similar a la seva encriptació. La mateixa dada sempre portarà al mateix hash. Això significa que no sabem quines són les dades, però podrem veure si les mateixes dades es fan servir dues vegades.
 :::
 
-:::details Who can see my payment details?
+:::details Qui pot veure les meves dades de pagament?
 
-Only your counterparty can see your payment details; they are sent via the Peach servers, but are fully end to end encrypted (like with most chat apps) so that we cannot see what they are.
+Només la vostra contrapart pot veure les vostres dades de pagament; s'envien a través dels servidors de Peach, però estan totalment xifrades d'extrem a extrem (com amb la majoria de les aplicacions de xat) de manera que no les podem veure.
 
-When you start a dispute, you and your counterparty's payment details and your chat history will be visible to the assigned Peach mediator.
+Quan inicieu una disputa, les vostres dades de pagament i la història del vostre xat seran visibles per al mediador de Peach assignat.
 :::
 
-:::details How to verify the APK?
+:::details Com verificar l'APK?
 
-Follow this steps to verify that the APK you downloaded is the real Peach APK:
+Seguiu aquests passos per verificar que l'APK que heu descarregat és l'APK real de Peach:
 
-- Download the APK you want to install from the website, as well as the signature and manifest (everything can be found in https://peachbitcoin.com/apk)
+- Descarregueu l'APK que voleu instal·lar des del lloc web, així com la signatura i el manifest (tot es pot trobar a https://peachbitcoin.com/apk)
 
-- Download Peach PGP key https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2 (can be found in our website also)
+- Descarregueu la clau PGP de Peach https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2 (també es pot trobar al nostre lloc web)
 
-- Generate the checksum of the APK file you’ve downloaded and compare them with the checksum on the manifest.
-````
+- Genereu el resum de l'APK que heu descarregat i compareu-lo amb el resum del manifest.
+
+```
 sha256sum app-prod-arm64-v8a-release.apk
-````
-(substitute app-prod-arm64-v8a-release.apk for the name of your file). It should be the same one than on the manifest. Otherwise contact us and make sure you don’t install that application in your device. In this example, you should see the following output:
+```
+(substituïu app-prod-arm64-v8a-release.apk pel nom del vostre fitxer). Ha de ser el mateix que el del manifest. En cas contrari, poseu-vos en contacte amb nosaltres i assegureu-vos que no instal·leu aquesta aplicació al vostre dispositiu. En aquest exemple, heu de veure la següent sortida:
 ```
 $ sha256sum app-prod-arm64-v8a-release.apk
 
 802450713cb2183e7904ad58813effabf007d518d4467461c3928625e453942c  app-prod-arm64-v8a-release.apk
 ```
-If we compare it to the one found in the manifest-peach.txt we can see it is the same one.
+Si el comparem amb el que es troba al manifest-peach.txt, podem veure que és el mateix.
 
-- Add the Peach key to your keyring
+- Afegiu la clau de Peach al vostre anell de claus
 ```
 gpg --import PGP-peach.asc
 ```
-(make sure to substitute PGP-peach.asc for the correct file name, usually it will be 48339A19645E2E53488E0E5479E1B270FACD1BD2.asc)
+(assegureu-vos de substituir PGP-peach.asc pel nom correcte del fitxer, normalment serà 48339A19645E2E53488E0E5479E1B270FACD1BD2.asc)
 
-- Verify the signatures that you previously downloaded with the following command:
+- Verifiqueu les signatures que heu descarregat anteriorment amb la següent comanda:
 ```
 gpg --verify manifest-peach.sig manifest-peach.txt
 ``` 
-In the output you should see the following line:
+A la sortida haureu de veure la següent línia:
 ```
-gpg: Good signature from "hello@peachbitcoin.com <hello@peachbitcoin.com>" [unknown]
+gpg: Signatura vàlida de "hello@peachbitcoin.com <hello@peachbitcoin.com>" [desconegut]
 ```
 :::
 
-:::details Is Taproot supported?
+:::details S'admet Taproot?
 
-- It is possible to fund escrows from a taproot address, and withdraw funds from the peach wallet to a taproot address.
-- It is NOT possible set a taproot address as a direct payout address (it’s not possible to sign a message with a taproot address).
-
+- És possible finançar els escrows des d'una adreça de Taproot i retirar fons de la vostra cartera de Peach a una adreça de Taproot.
+- NO és possible establir una adreça de Taproot com a adreça de pagament directa (no és possible signar un missatge amb una adreça de Taproot).
 :::
-

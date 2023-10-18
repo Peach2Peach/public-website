@@ -32,9 +32,9 @@ Follow this steps to verify that the APK you downloaded is the real Peach APK:
 - Download Peach PGP key https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2 (can be found in our website also)
 
 - Generate the checksum of the APK file you’ve downloaded and compare them with the checksum on the manifest.
-````
+```
 sha256sum app-prod-arm64-v8a-release.apk
-````
+```
 (substitute app-prod-arm64-v8a-release.apk for the name of your file). It should be the same one than on the manifest. Otherwise contact us and make sure you don’t install that application in your device. In this example, you should see the following output:
 ```
 $ sha256sum app-prod-arm64-v8a-release.apk

@@ -1,150 +1,146 @@
-# Trading FAQ
+# Kereskedelmi GYIK
 
-:::details How can I be sure I get the bitcoin / the money?
+:::details Hogyan lehetek biztos benne, hogy a bitcoint / a pénzt megkapom?
 
-When making a sell offer, the seller sends the bitcoin to an address that is controlled by him and Peach: the bitcoin can only be moved from here, if he and Peach both sign off on it. This makes sure that:
+Amikor eladási ajánlatot tesz, a eladó elküldi a bitcoint egy olyan címre, amelyet ő és a Peach is ellenőriz: a bitcoin csak innen mozgatható el, ha mindketten aláírják. Ez biztosítja, hogy:
 
-- The seller cannot move the bitcoin (back) on his own
-- Peach cannot steal the bitcoin
-- The buyer doesn't get the bitcoin until the payment is made
-- The seller can get the bitcoin back if the buyer doesn't respond
+- Az eladó nem mozgathatja a bitcoint (vissza) saját maga számára.
+- A Peach nem lopja el a bitcoint.
+- A vevő nem kapja meg a bitcoint, amíg a fizetés meg nem történik.
+- Az eladó visszakaphatja a bitcoint, ha a vevő nem válaszol.
 
-If the trade doesn't resolve normally, this address automatically comes into full control of Peach after roughly 30 days (to be precise: when 4320 bitcoin blocks have been mined). This makes sure that:
+Ha az ügylet nem oldódik meg normálisan, ez az cím automatikusan Peach teljes ellenőrzése alá kerül nagyjából 30 nap elteltével (pontosabban, amikor 4320 bitcoin blokkot bányásztak). Ez biztosítja, hogy:
 
-- The buyer can get the bitcoin if he can prove he made the payment but the seller doesn't respond
-- The bitcoin doesn't get stuck if something happens to the seller
+- A vevő megkaphatja a bitcoint, ha bizonyítani tudja, hogy megfizette a vásárlást, de az eladó nem válaszol.
+- A bitcoint nem ragadja meg semmi, ha az eladóval valami történik.
 
-This is the most important part of securing your trade. Next to that, there's also our intricate reputation system, that helps you identify people who have been using Peach reliably for a long time.
+Ez az ügyleted biztosításának legfontosabb része. Emellett van egy bonyolult hírnevi rendszerünk is, amely segít azonosítani azokat az embereket, akik hosszú ideje megbízhatóan használják a Peachet.
 :::
 
-:::details Why is there a trading limit?
+:::details Miért van kereskedelmi korlátozás?
 
-Swiss regulations state that a person can only buy up to 1000CHF of bitcoin per day, without providing their identification to the seller. Since we'd prefer staying out of jail, we enforce this limit in the app.
+A svájci rendeletek szerint egy személy csak naponta legfeljebb 1000 svájci frank értékű bitcoint vásárolhat, anélkül, hogy azonosítaná magát az eladónak. Mivel nem szeretnénk börtönbe kerülni, az alkalmazásban érvényesítjük ezt a korlátot.
 
-All your payment details are stored on your phone, so we cannot see them. What we can see is a hash\* of your phone's ID and your payment details. This allows us to block any trades that go over the personal limit.
+Az összes fizetési adata a telefonodon van tárolva, így mi nem láthatjuk. Amit láthatunk, az a telefonod azonosítójának és a fizetési adataidnak egy hash\* változata. Ez lehetővé teszi számunkra, hogy megakadályozzuk azokat az ügyleteket, amelyek meghaladják a személyes korlátot.
 
-\* A hash is some data that was made unrecognizable, similar to encrypting it. The same data will always lead to the same hash. This means we don't know what the data is, but we will be able to spot if the same data is used twice.
+\* A hash egy adat, amelyet felismerhetetlenné tettek, hasonlóan az átitatáshoz. Az ugyanaz az adat mindig ugyanazt a hash-t fogja eredményezni. Ez azt jelenti, hogy nem tudjuk, mi az az adat, de látni fogjuk, ha ugyanazt az adatot kétszer használják.
 :::
 
-:::details Is there any way I can buy/sell more than the trading limit?
+:::details Van mód arra, hogy többet vásároljak / adjak el a kereskedelmi korláton túl?
 
-If you're a high volume buyer or seller, send us an email at [$contactEmail$](mailto:$contactEmail$)!
+Ha nagy forgalmú vevő vagy eladó vagy, küldj nekünk egy e-mailt a [$contactEmail$](mailto:$contactEmail$) címre!
 :::
 
-:::details What are the fees for trading on Peach?
+:::details Mennyi a kereskedési díj a Peachen?
 
-Peach charges 2% of the trading volume in fees to the buyer. When making a trade on Peach, you're doing transactions on the Bitcoin blockchain, which will result in transaction fees. You can always see the full fee structure at the end of your trade, which could look something like this:
+A Peach 2% díjat számít fel a vásárlási volumen után az vevőnek. Amikor egy Peachen keresztül kereskedelmet hozol létre, a Bitcoin blokkláncon történő tranzakciókat hozol létre, amelyek tranzakciós díjakat eredményeznek. Mindig megnézheted a teljes díjszerkezetet a kereskedelem végén, ami valami ilyesmit mutathat be:
 
-![Trade Breakdowns](/img/faq/trading/TradeBreakdowns.png)
+![Kereskedelem részletei](/img/faq/trading/TradeBreakdowns.png)
 :::
 
-:::details How can I cancel an offer or a trade?
+:::details Hogyan lehetek lemondani egy ajánlatot vagy egy tranzakciót?
 
-You can cancel your offers and trades by clicking the red X at the top of the screen, whenever it's available:
+Lemondhatod az ajánlataidat és a tranzakcióidat, ha rendelkezésre áll a képernyő tetején lévő piros X gombot megnyomva:
 
-![Cancel Trade](/img/faq/trading/cancel.png)
+![Tranzakció lemondása](/img/faq/trading/cancel.png)
 
-That said, this often does have consequences. Before you match anyone, you can cancel at any time. After you've matched, though, your reputation will be negatively impacted. Next to that, as a seller, you'll need to ask the buyer for permission to cancel the trade. They might already have made the payment!
+Azonban ezzel gyakran járnak következmények. Mielőtt bárkivel is párosítanál, bármikor lemondhatsz. Miután párosítottál, azonban a hírneved negatívan befolyásolódik. Ezenkívül eladóként meg kell kérned az vevőtől az engedélyt a tranzakció lemondásához. Elképzelhető, hogy már megfizették!
 :::
 
-:::details Why did I receive less sats than I thought I was buying?
+:::details Miért kaptam kevesebb satoshit, mint amennyit gondoltam vásárolni?
 
-Peach charges 2% trading fees to the buyer, which means that you'll get less sats than the amount the trade is for. Next to that, you'll need to pay bitcoin network fees. Your trade could look like this, for example:
+A Peach 2% kereskedelmi díjat számít fel az vevőnek, ami azt jelenti, hogy kevesebb satoshit kapsz, mint amennyi az ügylet összege. Ezenkívül a Bitcoin hálózati díjakat is fizetned kell. Az ügyleted például így nézhet ki:
 
-![Buy Breakdown](/img/faq/trading/TradeBreakdownBuy.png)
+![Vásárlási lebontás](/img/faq/trading/TradeBreakdownBuy.png)
 :::
 
-:::details What if I don't want to use the Peach wallet for the payout / refund?
+:::details Mi a teendő, ha nem szeretném használni a Peach tárcát a kifizetéshez / visszatérítéshez?
 
-Of course, you're free to use your own wallet if you want to. We still highly recommend using the Peach wallet, as it's by far the easiest way to make a trade. You can then send the funds to any other wallet.
+Természetesen szabadon használhatod a saját tárcádat, ha szeretnéd. Azonban erősen ajánljuk a Peach tárcának használatát, mivel ez messze a legegyszerűbb módja annak, hogy kereskedelmet hozz létre. Ezt követően az alapokat bármely másik tárca felé is elküldheted.
 
-If you want to add your own wallet, you can disable "payout to Peach wallet" and then set a custom payout address:
+Ha hozzá akarod adni saját tárcádat, letilthatod a "kifizetést a Peach tárcába" opciót, majd beállíthatsz egyéni kifizetési címet:
 
-![Disable Wallet](/img/faq/trading/disablewallet.png)
+![Tárca letiltása](/img/faq/trading/disablewallet.png)
 
-When making a trade, you'll need to sign a message that you're in control of this wallet, as per Swiss regulations.
+Kereskedelem létrehozásakor a tárca feletti irányításod bizonyításához alá kell írnod egy üzenetet a svájci rendeletek értelmében.
 
-We'll be working on xpub support very soon, but for now, you'll need to manually change this address if you don't want to re-use it.
+Hamarosan dolgozni fogunk az xpub támogatásán, de egyelőre manuálisan kell megváltoztatnod ezt a címet, ha nem szeretnéd újra használni.
 :::
 
-:::details How is the Bitcoin price calculated on Peach?
+:::details Hogyan számolják ki a Peachen a Bitcoin árát?
 
-The BTC price we show on Peach is an aggregate of the BTC price on centralised exchanges.
+A Peachen bemutatott BTC ár egy centralizált tőzsdéken látható BTC ár összegezése.
 :::
 
-:::details What happens with the price of currencies under high inflation such as Argentina, Venezuela, etc. ?
+:::details Mi történik a magas inflációval rendelkező országok, például Argentína, Venezuela stb. valutáinak árával?
 
-Currencies under high inflation suffer from high volatility, hence the price you find in difference exchanges may differ. Peach gives the price according to an aggregate of the BTC price from different sources.
+A magas inflációval rendelkező valuták erősen szenvednek a nagy volatilitástól, tehát az eltérő tőzsdéken található árak különbözhetnek. A Peach az BTC árat különböző forrásokból összesítve adja meg.
 :::
 
-:::details How to bump a transaction that is stuck because of low mining fees?
-It depends what type of transactions we are talking about. Here is a list of all transactions that can happen in Peach and their solutions to bump fees:
+:::details Hogyan lehet meggyorsítani egy alacsony bányászdíjak miatt megrekedt tranzakciót?
 
-1. Transaction for funding the escrow to publish a sell offer
-- If you funded the escrow from the Peach wallet, you can RBF (Replace-By-Fee) the transaction and pump the fees
-- If you funded the escrow from an external wallet, you need to check if the wallet supports RBF (Replace-By-Fee) to increase the network fees.
+Attól függ, milyen típusú tranzakciókról beszélünk. Itt található egy lista az összes Peachben előforduló tranzakcióról és megoldásaikról a díjak növelése érdekében:
 
-2. Release transaction from the escrow (buying Bitcoin)
-- If your receiving address is from the Peach wallet, then you can withdraw the total amount to an external wallet of yours with higher fees (Settings > Network fees) - CPFP technique
-- If your receiving address is from an external wallet, you can also do the CPFP technique if it’s supported by your wallet
+1. Tranzakció az escrow finanszírozásához az eladási ajánlat közzétételéhez
+- Ha az escrow-t a Peach tárca segítségével finanszíroztad, megteheted az RBF (Csere-a-Díj-miatt) eljárást a tranzakciós díjak növelése érdekében.
+- Ha egy külső tárca segítségével finanszíroztad az escrow-t, ellenőrizd, hogy a tárca támogatja-e az RBF (Csere-a-Díj-miatt) lehetőséget a hálózati díjak növelése érdekében.
 
-3. Send transaction from the Peach wallet to another wallet
-- RBF (Replace-By-Fee) from the Peach Wallet in your transaction details!
+2. Tranzakció az escrowból való kibocsátáshoz (Bitcoin vásárlása)
+- Ha a fogadó címed a Peach tárcából származik, akkor az összeget kiveheted egy másik tárca részére magasabb díjakkal (Beállítások > Hálózati díjak) - CPFP technika
+- Ha a fogadó címed egy külső tárcából származik, akkor szintén alkalmazhatod a CPFP technikát, ha a tárca támogatja
+
+3. Tranzakció küldése a Peach tárcából egy másik tárca felé
+- RBF (Csere-a-Díj-miatt) a Peach tárca segítségével a tranzakciód adatainál!
 :::
 
-:::details What is GroupHug?
-GroupHug is simply the term we’ve given to the action of batching transactions from different users to avoid fees for each one of them. For a more detailed explanation, check out our [blog post](https://peachbitcoin.com/blog/group-hug).
+:::details Mi az a GroupHug?
+A GroupHug egyszerűen az a kifejezés, amit a különböző felhasználók tranzakcióinak összevonására használunk, hogy elkerüljük a díjakat mindegyiküknél. Részletesebb magyarázathoz nézd meg a [blogbejegyzésünket](https://peachbitcoin.com/blog/group-hug).
 :::
 
-:::details If I have a single buy offer running it will be released immediately?
+:::details Ha csak egyetlen vásárlási ajánlatom fut, akkor azt azonnal kibocsátják?
 
-No, your payout will be added to a queue, waiting for payout. The payout will be made when enough users participate in the batch. The number of needed participants can be seen in the pending payout information. You can access this view through the trade details.
-There you can see how many slots of the current batch are takenIn the information you can also see an ETA that will tell you the maximum waiting time if the slots are not filled before.
+Nem, a kifizetésedet várakozási sorhoz adják, és megvárja a kifizetést. A kifizetést akkor hajtják végre, amikor elegendő felhasználó részt vesz a batchben. A várakozási sor információját a tranzakció részletein keresztül érheted el. Ott láthatod, hány helyet foglal el az aktuális batchban. Az információban megtekintheted azt is, hogy az ETA azt mutatja, hogy mi a maximális várakozási idő, ha a helyek nem telnek be előbb.
 :::
 
-:::details How does it work, If I have multiple buying offers ongoing?
+:::details Hogyan működik, ha több vásárlási ajánlatom van folyamatban?
 
-Just as mentioned before, your payouts will be added to the queue waiting to be batched with other participants.
+Pontosan, ahogy azt már korábban említették, a kifizetéseidet várakozási sorhoz adják, és más résztvevőkkel együtt kerülnek batchbe.
 :::
 
-:::details Is there a limit of participants who can participate in the batching?
+:::details Van korlátozás a résztvevők számára, akik részt vehetnek a batchben?
 
-No, batches can also go over the maximum number of participants. It’s not a cutoff, but a threshold. Meaning, as soon as the minimum is reached, we just take all psbts and batch them together to make the transaction, and reduce the fees each participant is paying.
+Nem, a batchek meghaladhatják a résztvevők maximális számát is. Ez nem egy korlátozás, hanem egy küszöb. Azaz, amint a minimumot elérjük, az összes psbts-t egyszerűen együtt veszünk, és batchbe helyezzük a tranzakció elkészítése érdekében, és csökkentjük a résztvevők által fizetendő díjakat.
 :::
 
-:::details How to sign an external address?
-Follow this steps to sign the receiving address when buying Bitcoin to an external wallet:
+:::details Hogyan kell aláírni egy külső címet?
+Kövesd ezeket a lépéseket annak érdekében, hogy aláírd a vásárlás során egy külső tárca részére történő Bitcoin fogadó címét:
 
-_Note: The first 2 steps are useful if you **always** want to receive your funds in external addresses. If you just want to do it once, or you want to sometimes use peach wallet, start from step 3._
+_Megjegyzés: Az első 2 lépés hasznosak, ha **mindig** külső címre szeretnéd megkapni az alapokat. Ha csak egyszer szeretnéd megtenni, vagy időnként használni szeretnéd a Peach tárcát, a 3. lépéstől kezdd el._
 
-1. Go to settings
-  - disable peach wallet
-  - go to payout address
+1. Menj a beállításokhoz
+  - tiltsd le a Peach tárcát
+  - menj a kifizetési címhez
 
-2. Paste the new receiving address
+2. Illessz be egy új fogadó címet
 
-3. Go through the process to publish your buy offer, and before publishing it, make sure you choose to receive to your external wallet address (click on the upper right little wallet icon on the offer summary screen).
+3. Végig kell menned a vásárlási ajánlat közzétételének folyamatán, és mielőtt közzé tennéd, győződj meg arról, hogy a külső tárca címére szeretnél fogadni (kattints a kínálati összegzés képernyőjén található jobb felső pénztárca ikonra).
 
-4. Once you confirm your buy offer, the message to sign your address will appear. Copy it and go back to your wallet.
+4. Amikor megerősíted a vásárlási ajánlatot, megjelenik az üzenet, amely aláírásra kerül az címed érdekében. Másold ki, majd térj vissza a tárcahoz.
 
-5. Search for the "sign/verify" option* and paste:
-  - your receiving address
-  - the peach message
+5. Keresd meg a "cím aláírás / ellenőrzés" lehetőséget*, és illessz be:
+  - a fogadó címed
+  - a Peach üzenetet
 
-6. Click on sign & the signature will appear. Copy it.
+6. Kattints az aláírásra, és megjelenik az aláírás. Másold ki.
 
-7. Paste the signature on the peach wallet and click on confirm.
+7. Illeszd be az aláírást a Peach tárcába, majd kattints a megerősítésre.
 
-8. Your offer is published.
+_*Kijelentés: Nem mindegyik tárca támogatja a cím aláírás/ellenőrzés lehetőségét._ A Peach a Blue Wallet, a Sparrow vagy a Samourai Wallet használatát ajánlja. Egyéb lehetőségek közé tartozik a Ledger és a Trezor (Hardvertárcák), a Bitcoin Core és az Electrum tárca.
 
-_*Disclaimer: not all wallets support the option to sign/verify your address._ 
-Peach recommends using Blue Wallet, Sparrow or Samourai Wallet. Other options include Ledger and Trezor (Hardware Wallets), Bitcoin Core, and Electrum wallet.
-
-You can also find a step by step tutorial on how to sign a message using Blue Wallet in our Youtube account: [https://youtu.be/d3STuVfFWfQ](https://youtu.be/d3STuVfFWfQ)
-
+A cím aláírásának lépésről lépésre történő bemutatását megtalálod a Blue Wallet üzenet aláírásának a használatáról a YouTube csatornánkon: [https://youtu.be/d3STuVfFWfQ](https://youtu.be/d3STuVfFWfQ)
 :::
 
-:::details How to use CPFP to accelerate stuck transactions?
+:::details Hogyan lehet a CPFP-t használni, hogy felgyorsítsa a megrekedt tranzakciókat?
 
-Follow the steps found in this video: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU) to accelerate stuck transactions using CPFP inside the Peach app.
+Kövesd a Peach alkalmazásban található CPFP használatáról szóló lépéseket ebben a videóban: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU).
 :::

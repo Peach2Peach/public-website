@@ -1,68 +1,69 @@
-# Privacy FAQ
+# Gyakori kérdések a magánélettel kapcsolatban
 
-:::details What info does Peach collect of me?
+:::details Milyen információkat gyűjt a Peach rólam?
 
-We strive to store the absolute minimum amount of data on our users as we can. As a quick overview, this is what we have on our servers:
+Az igyekvésünk, hogy a lehető legkevesebb adatot tároljuk felhasználóinkról. Rövid áttekintésként, ezeket az adatokat tároljuk szervereinken:
 
-- A hash\* of your app unique ID (AdID)
-- A hash of your payment data
-- Your encrypted chats
-- The data of the trades to make sure anonymous users do not exceed the trading limit (which type of payment methods are being used, buying and selling amounts)
-- Addresses used to send to escrow, and to send from escrow
-- Usage data (Firebase & Google Analytics), **only if you agreed to this**
+- Az alkalmazás egyedi azonosítójának (AdID) a hash\*-ját
+- A fizetési adataid hash-ét
+- Az titkosított csevegéseidet
+- Az ügyletek adatait annak érdekében, hogy ellenőrizzük, hogy az anonim felhasználók ne lépjék túl a kereskedési limitet (milyen fizetési módokat használnak, vásárlási és eladási összegek)
+- Azokat a címeket, amelyeket az escrow részére és az escrow részéről történő küldéshez használtak
+- Használati adatok (Firebase és Google Analytics), **csak ha ezzel egyetértettél**
 
-For a full breakdown, please see our [privacy policy](/privacy-policy/).
+A teljes lebontásért kérlek, nézd meg a [privát szabályzatunkat](/privacy-policy/).
 
-\* A hash is some data that was made unrecognizable, similar to encrypting it. The same data will always lead to the same hash. This means we don't know what the data is, but we will be able to spot if the same data is used twice.
+\* A hash olyan adat, amelyet felismerhetetlenné tettek, hasonlóan az adatok titkosításához. Ugyanaz az adat mindig ugyanahhoz a hash-hoz vezet. Ez azt jelenti, hogy nem tudjuk, mi az adat, de felismerjük, ha ugyanazt az adatot kétszer használják.
 :::
 
-:::details Who can see my payment details?
+:::details Ki láthatja a fizetési adataimat?
 
-Only your counterparty can see your payment details; they are sent via the Peach servers, but are fully end to end encrypted (like with most chat apps) so that we cannot see what they are.
+Csak a pénzügyi partnered láthatja a fizetési adataidat; azokat a Peach szervereken keresztül küldik, de teljesen végponttól-végpontig titkosítva vannak (mint a legtöbb csevegőalkalmazásnál), így mi nem láthatjuk, mi azok.
 
-When you start a dispute, you and your counterparty's payment details and your chat history will be visible to the assigned Peach mediator.
+Amikor vitát indítasz, a Peach hozzárendelt közvetítője számára lesznek láthatók a fizetési adataid és a csevegési előzményeid is.
 :::
 
-:::details How to verify the APK?
+:::details Hogyan lehet ellenőrizni az APK-t?
 
-Follow this steps to verify that the APK you downloaded is the real Peach APK:
+Kövesd ezeket a lépéseket annak ellenőrzéséhez, hogy a letöltött APK a valódi Peach APK-e:
 
-- Download the APK you want to install from the website, as well as the signature and manifest (everything can be found in https://peachbitcoin.com/apk)
+- Töltsd le az APK-t, amit telepíteni szeretnél a weboldalról, valamint az aláírást és a manifestet (minden megtalálható itt: https://peachbitcoin.com/apk)
 
-- Download Peach PGP key https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2 (can be found in our website also)
+- Töltsd le a Peach PGP kulcsot innen: https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2 (szintén megtalálható a weboldalunkon)
 
-- Generate the checksum of the APK file you’ve downloaded and compare them with the checksum on the manifest.
-````
+- Generáld le az APK fájlod összegzését (checksum) és hasonlítsd össze azt a manifestben található összeggel.
+
+```
 sha256sum app-prod-arm64-v8a-release.apk
-````
-(substitute app-prod-arm64-v8a-release.apk for the name of your file). It should be the same one than on the manifest. Otherwise contact us and make sure you don’t install that application in your device. In this example, you should see the following output:
+```
+(cseréld le a "app-prod-arm64-v8a-release.apk" nevet a saját fájlod nevére). Eznek ugyanaznak kell lennie, mint a manifestben találhatónak. Ellenkező esetben lépj kapcsolatba velünk, és győződj meg róla, hogy ne telepítsd az adott alkalmazást a készülékedre. Ebben a példában az alábbi kimenetet kell látnod:
 ```
 $ sha256sum app-prod-arm64-v8a-release.apk
 
 802450713cb2183e7904ad58813effabf007d518d4467461c3928625e453942c  app-prod-arm64-v8a-release.apk
 ```
-If we compare it to the one found in the manifest-peach.txt we can see it is the same one.
+Ha összehasonlítjuk a manifest-peach.txt fájlban találhatóval, láthatjuk, hogy ugyanaz.
 
-- Add the Peach key to your keyring
+- Add hozzá a Peach kulcsot a kulcsgyűrűdhöz
 ```
 gpg --import PGP-peach.asc
 ```
-(make sure to substitute PGP-peach.asc for the correct file name, usually it will be 48339A19645E2E53488E0E5479E1B270FACD1BD2.asc)
+(győződj meg róla, hogy a "PGP-peach.asc" fájl nevét helyesen cseréled ki, általában ez lesz a 48339A19645E2E53488E0E5479E1B270FACD1BD2.asc)
 
-- Verify the signatures that you previously downloaded with the following command:
+- Ellenőrizd az előzőleg letöltött aláírásokat a következő paranccsal:
 ```
 gpg --verify manifest-peach.sig manifest-peach.txt
 ``` 
-In the output you should see the following line:
+Az eredményben látnod kell a következő sort:
 ```
-gpg: Good signature from "hello@peachbitcoin.com <hello@peachbitcoin.com>" [unknown]
+gpg: Jó aláírás a "hello@peachbitcoin.com <hello@peachbitcoin.com>"-től [ismeretlen]
 ```
 :::
 
-:::details Is Taproot supported?
+:::details Támogatja a Taproot-ot?
 
-- It is possible to fund escrows from a taproot address, and withdraw funds from the peach wallet to a taproot address.
-- It is NOT possible set a taproot address as a direct payout address (it’s not possible to sign a message with a taproot address).
-
+- Lehetséges finanszírozni az escrow-t egy taproot címről, és visszavonni a pénzügyi eszközöket a Peach pénztárcából egy taproot címre.
+- NEM lehetséges egy taproot címet beállítani közvetlen kifizetési címnek (nem lehetséges üzenetet aláírni egy taproot címmel).
 :::
+
 
