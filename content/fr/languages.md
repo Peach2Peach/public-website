@@ -13,4 +13,6 @@ Si vous souhaitez nous aider à traduire Peach dans votre langue locale, [contac
 - [Swahili🇰🇪](/sw)
 - [Ukrainien🇺🇦](/uk)
 - [Portugais🇵🇹](/pt)
+- [Catalan](/ca)
+- [Hongrois🇭🇺](/hu)
 
