@@ -2,27 +2,27 @@
 template: meetups
 ---
 <!--[headline]-->
-# Integrate your meetup in Peach
+# Integráld találkozód a Peach alkalmazásba
 
 <!--[intro]-->
-Are you the kind of Bitcoiner who likes to travel all around, but always need to sell some corn for cash everywhere you go?
+Te olyan Bitcoin-használó vagy, aki szeret világot járni, de mindig szüksége van arra, hogy bárhová menj, eladj néhány kriptopénzt készpénzért?
 
-Do you jump from meetup to meetup as an excuse to visit the world?
+Ugrándozol találkozóról találkozóra ürügyként, hogy felfedd a világot?
 
-Or simply, you just hesitate on publishing offers in public telegram groups to avoid being doxxed?
+Vagy egyszerűen csak habozol azért, hogy ajánlatokat hozz létre nyilvános Telegram-csoportokban azért, hogy ne leplezzenek le?
 
-We've got the solution for you.
-Peach app includes **anonymous Cash Trades**.
+Van számodra megoldásunk.
+A Peach alkalmazás tartalmazza az **anonim Készpénz Tranzakciókat**.
 
-We are **partnering with meetups all over the world** to facilitate safe & secure places to trade Bitcoin with cash.
+**Világszerte partnerkapcsolatban állunk a találkozókkal** annak érdekében, hogy biztonságos és megbízható helyeket biztosítsunk a Bitcoin készpénzért történő tranzakciókhoz.
 
-If you are a meetup organizer and would like to get your meetup into Peach, fill the contact form below and we'll get back to you to proceed with the integration!
+Ha te vagy a találkozód szervezője, és szeretnéd a találkozód integrálni a Peach alkalmazásba, töltsd ki az alábbi kapcsolati űrlapot, és felvesszük veled a kapcsolatot az integráció folytatásához!
 
-If your meetup is eligible\* to be integrated inside our app, we'll get back in touch with you to ask for the final details.
+Ha a találkozód jogosult\* az alkalmazásunkban való integrációra, felvesszük veled a kapcsolatot a végső részletek kérése érdekében.
 
-<small>*only Europe and [accepted currencies](/how-it-works/#payment) are eligible right now. In the future we will be expanding to other zones in the world, so don't hesitate in applying even if your meetup does not comply with all the requisites.</small>
+<small>*Jelenleg csak az európai és az [elfogadott fizetési módok](/hu/how-it-works/#payment) jogosultak. A jövőben terjeszkedni fogunk más régiók felé, így ne habozz jelentkezni, ha a találkozód nem felel meg minden követelménynek.</small>
 
 <!--[map]-->
-### Check out all the places where you can trade bitcoin with cash using Peach!
+### Nézd meg az összes helyet, ahol a Peach alkalmazással Bitcoin készpénzért cserélhetsz!
 
-If you want to know more about the **Peach Cash Trades**, check out our article [Peach x Meetups](/blog/peach-for-meetups/), or just check out the map elow to see where you can find other peers to trade bitcoin for cash.
+Ha többet szeretnél tudni a **Peach Készpénz Tranzakciókról**, nézd meg cikkünket [Peach x Találkozók](/blog/peach-for-meetups/), vagy egyszerűen nézd meg az alábbi térképet, hogy láss, hol találhatsz másokat a Bitcoin készpénzért való cseréhez.
