@@ -21,6 +21,8 @@ const properties = {
   sw,
   pt,
   uk,
+  ca,
+  hu,
 }
 
 /**
