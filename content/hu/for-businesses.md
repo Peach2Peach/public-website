@@ -1,32 +1,32 @@
-# Peach for Businesses
-## Maximize your revenue with Peach
+# Peach üzleteknek
+## Maximalizáld bevételeidet a Peach segítségével
 
-Peach Business offers the opportunity to companies and high volume professionals to maximize their profits by tapping into a market with **higher premiums** than traditional exchanges.
+A Peach Business lehetőséget kínál vállalatoknak és magas forgalmú szakembereknek, hogy maximalizálják nyereségüket egy olyan piacon, ahol a **prémiumok magasabbak** a hagyományos tőzsdéknél.
 
-We offer perks for **market-makers**, **bitcoin native businesses**, and **high-volume traders**.
+Kínálunk előnyöket a **piacalkotók**, a **bitcoin alapú vállalkozások** és a **magas forgalmú kereskedők** számára.
 
-Some of the benefits you can enjoy by using the services provided by Peach Business are detailed below.
+Néhány azon előnyök közül, amelyeket a Peach Business által nyújtott szolgáltatások igénybevételével élvezhetsz, részletezve alább található.
 
-## Perks for professionals
+## Profik előnyei
 ::::figures 3
 :::box tech-peach
-### High Liquidity available
-More than 900 open buy offers 24h a day
+### Magas likviditás elérhető
+Több mint 900 nyitott vásárlási ajánlat 24 órán keresztül
 :::
 
 :::box tech-peach
-### Dedicated Agent for you
-1 to 1 dedicated support 24/7
+### Kijelölt ügynök a számodra
+24/7 egyéni támogatás
 :::
 
 :::box tech-peach
-### Affiliate Program
-Bring more users and increase your revenue with a custom referral code
+### Partnerprogram
+Hozz több felhasználót és növeld bevételedet egyedi ajánlói kóddal
 :::
 ::::
 
-If you are interested in knowing more about Peach Business, and how to leverage it to maximize the profits of your company, get in touch with us.
+Ha érdekel a Peach Business, és hogyan használhatod ki a vállalatod nyereségének maximalizálásához, lépj kapcsolatba velünk.
 
 :::buttons
-[Get in touch](mailto:$contactEmail$)
+[Lépj kapcsolatba](mailto:$contactEmail$)
 :::
