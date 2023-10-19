@@ -2,7 +2,7 @@
 
 Check out the Peach tutorials below!
 
-[![How to connect to your own node in the Peach App](https://img.youtube.com/vi/video-id/0.jpg)](https://www.youtube.com/watch?v=xtvq2i3mIYg)
+[![How to connect to your own node in the Peach App](https://img.youtube.com/vi/xtvq2i3mIYg/0.jpg)](https://www.youtube.com/watch?v=xtvq2i3mIYg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=xtvq2i3mIYg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
