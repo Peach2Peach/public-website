@@ -67,3 +67,8 @@ gpg: Jó aláírás a "hello@peachbitcoin.com <hello@peachbitcoin.com>"-től [is
 :::
 
 
+:::details Hogyan csatlakozhatok a saját csomópontomhoz?
+
+Nézd meg [videó útmutatónkat](https://www.youtube.com/watch?v=xtvq2i3mIYg), hogy megtudd, hogyan csatlakozhatsz a saját csomópontodhoz.
+
+:::

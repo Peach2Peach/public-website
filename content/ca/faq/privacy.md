@@ -65,3 +65,9 @@ gpg: Signatura vàlida de "hello@peachbitcoin.com <hello@peachbitcoin.com>" [des
 - És possible finançar els escrows des d'una adreça de Taproot i retirar fons de la vostra cartera de Peach a una adreça de Taproot.
 - NO és possible establir una adreça de Taproot com a adreça de pagament directa (no és possible signar un missatge amb una adreça de Taproot).
 :::
+
+:::details Com puc connectar-me al meu propi node?
+
+Consulteu el nostre [tutorial en vídeo](https://www.youtube.com/watch?v=xtvq2i3mIYg) per aprendre com connectar-vos al vostre propi node.
+
+:::
