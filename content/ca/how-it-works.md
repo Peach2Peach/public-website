@@ -96,7 +96,7 @@ L'aplicació té una cartera fàcil d'utilitzar que tu mateix controles, o en ca
 Peach fa servir adreces de bitcoin de múltiples signatures per assegurar-se que la part correcta pugui obtenir el bitcoin si alguna cosa surt malament durant la transacció.
 
 <!--[difference]-->
-### Què fa que Peach sigui diferent d'altres borses?
+### Què fa que Peach sigui diferent d'altres apps?
 
 Amb Peach, no ens compres ni vens el Bitcoin a nosaltres.
 Interactues directament amb altres usuaris!
