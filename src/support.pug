@@ -24,6 +24,9 @@ block main
         a(href=getUrl("/faq/privacy/", lang)).button.button--primary
           span !{i18n('privacy', lang)}
           +sprite("privacy")
+        a(href=getUrl("/faq/tutorials/", lang)).button.button--primary
+          span !{i18n('tutorials', lang)}
+          +sprite("tutorials")
 
       != html.contact
       .contact
