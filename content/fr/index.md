@@ -9,7 +9,7 @@ template: index
 
 <div class="inner-wrap">
 
-![✔ code source vérifiable](/img/phones.png)
+![](/img/phones.png)
 
 <div>
   <div class="md:flex items-end">
@@ -24,6 +24,8 @@ template: index
 </div>
 
 </div>
+
+#### ✔ code source vérifiable
 
 <!--[top]-->
 # La manière la plus simple d'acheter et de vendre du Bitcoin en P2P
