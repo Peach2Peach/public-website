@@ -1,5 +1,7 @@
 # Quick Start
 
+At this moment there is no Hungarian version available of the quick start guide.
+
 @[toc]
 
 ## Intro: Why Peach?
