@@ -29,6 +29,7 @@
   "matches": "Співпадіння",
   "myAccount": "Мій обліковий запис",
   "privacy": "Конфіденційність",
+  "tutorials": "Посібники",
   "meetups.form.title": "Ви організатор мітапу?",
   "meetups.form.description": "Бажаєте додати свій мітап до Peach, щоб забезпечити готівкові обміни? Заповніть форму нижче, і ми зв'яжемося з вами найближчим часом.",
   "meetups.meetupLocation": "Де відбувається ваш мітап?",
@@ -44,5 +45,6 @@
   "forBusinesses": "Для бізнесу",
   "referral": "код реферера",
   "affiliate": "Партнерська програма",
-  "earnBitcoin": "Заробити Bitcoin"
+  "earnBitcoin": "Заробити Bitcoin",
+  "github": "Github"
 }

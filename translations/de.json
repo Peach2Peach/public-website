@@ -26,6 +26,7 @@
   "nostr": "Nostr",
   "pgpKey": "PGP-Schlüssel",
   "privacy": "Datenschutz",
+  "tutorials": "Anleitungen",
   "privacyPolicy": "Datenschutzrichtlinie",
   "quickStartGuide": "Schnellstartanleitung",
   "security": "Sicherheit",
@@ -38,5 +39,6 @@
   "youtube": "YouTube",
   "referral": "Empfehlungscode",
   "affiliate": "Partnerprogramm",
-  "earnBitcoin": "Bitcoin verdienen"
+  "earnBitcoin": "Bitcoin verdienen",
+  "github": "Github"
 }

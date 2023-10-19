@@ -28,6 +28,7 @@
   "matches": "Matches",
   "myAccount": "Mi Cuenta",
   "privacy": "Privacidad",
+  "tutorials": "Tutoriales",
   "meetups.form.title": "¿Eres organizador/a de un meetup?",
   "meetups.form.description": "¿Quieres integrar tu meetup en Peach para habilitar intercambios en efectivo? Rellena el formulario a continuación y nos pondremos en contacto contigo lo antes posible.",
   "meetups.meetupLocation": "¿Dónde se celebra tu meetup?",
@@ -43,5 +44,6 @@
   "forBusinesses": "Para Profesionales",
   "referral": "Código de referido",
   "affiliate": "Programa de afiliados",
-  "earnBitcoin": "Ganar Bitcoin"
+  "earnBitcoin": "Ganar Bitcoin",
+  "github": "Github"
 }

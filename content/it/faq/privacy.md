@@ -98,3 +98,15 @@ _*Disclaimer: non tutti i wallet esterni supportano l'opzione di firma/verifica 
 - NON è possibile impostare un indirizzo Taproot come indirizzo di pagamento diretto (non è possibile firmare un messaggio con un indirizzo Taproot).
 
 :::
+
+:::details Come posso connettermi al mio nodo personale?
+
+Collegarti al tuo nodo migliora la privacy, poiché tutte le transazioni vengono instradate nella rete Bitcoin tramite il tuo nodo anziché quello di Peach.
+
+Attualmente, Peach non supporta Tor, quindi devi utilizzare un IPv4 per collegarti al tuo nodo. Se non è aperto su Internet, puoi collegarti solo tramite la rete locale o tramite una VPN privata.
+
+Guarda il nostro [tutorial video](https://www.youtube.com/watch?v=xtvq2i3mIYg) per imparare come collegarti al tuo nodo personale.
+
+Se stai usando Umbrel, puoi utilizzare umbrel.{numero di porta} al posto dell'IP del tuo nodo.
+
+:::

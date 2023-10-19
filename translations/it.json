@@ -26,6 +26,7 @@
   "nostr": "Nostr",
   "pgpKey": "Chiave PGP",
   "privacy": "Privacy",
+  "tutorials": "Tutorial",
   "privacyPolicy": "Informativa sulla privacy",
   "quickStartGuide": "Guida rapida",
   "security": "Sicurezza",
@@ -44,5 +45,6 @@
   "forBusinesses": "Per le Aziende",
   "referral": "Codice di riferimento",
   "affiliate": "Programma di affiliazione",
-  "earnBitcoin": "Guadagnare Bitcoin"
+  "earnBitcoin": "Guadagnare Bitcoin",
+  "github": "Github"
 }
