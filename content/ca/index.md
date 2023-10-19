@@ -73,3 +73,5 @@ Peach és un membre de SRO (Self Regulatory Organisation) de Polyreg. Peach és 
 ### Què diuen les persones sobre nosaltres?
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
+
+Vols guanyar 500 sats? Deixa'ns una ressenya a Apollo seguint [aquest enllaç](https://heyapollo.com/invite-review?prod=peach) i rebràs una recompensa de 500 sats!

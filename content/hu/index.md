@@ -73,3 +73,5 @@ A Peach egy SRO tag (Self Regulatory Organisation) a Polyreg szervezetben. A Pea
 ### Mit mondanak rólunk az emberek?
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
+
+Szeretnél 500 sats-ot keresni? Hagyj nekünk egy értékelést az Apolloban, követve [ezen a linken](https://heyapollo.com/invite-review?prod=peach), és megkapod a 500 sats jutalmat!

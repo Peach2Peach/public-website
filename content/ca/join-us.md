@@ -46,7 +46,7 @@ Estem sempre interessats en rebre sol·licituds de talents destacats en enginyer
 
 [Tot sobre Peach, la companyia](/blog/all-about-peach-the-company/)
 
-## La nostra pila tecnològica
+## Com treballem?
 
 ::::figures 3
 :::box tech-docker

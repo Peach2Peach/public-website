@@ -2,25 +2,24 @@
 template: meetups
 ---
 <!--[headline]-->
-# Integra la teva trobada a Peach
+# Integra el teu meetup a Peach
 
 <!--[intro-->
-Ets del tipus de Bitcoiner que li agrada viatjar arreu, però sempre necessites vendre alguna criptomoneda per obtenir diners en efectiu on siguis?
+Ets del tipus de Bitcoiner que li agrada viatjar arreu, però sempre necessites vendre Bitcoin per obtenir diners en efectiu on siguis?
 
-Saltes de trobada en trobada com a excusa per visitar el món?
+Saltes de meetup en meetup com a excusa per visitar el món?
 
-O simplement, dubtes a l'hora de publicar ofertes en grups de Telegram públics per evitar l'exposició de la teva identitat?
+O simplement, dubtes a l'hora de publicar ofertes en grups de Telegram públics per evitar exposar la teva identitat?
 
 Tenim la solució per a tu.
-L'aplicació Peach inclou **Transaccions en Efectiu anònimes**.
 
-Estem **col·laborant amb trobades arreu del món** per facilitar llocs segurs i fiables per a les transaccions de Bitcoin en efectiu.
+**Transaccions en Efectiu anònimes** a través de Peach.
 
-Si ets l'organitzador d'una trobada i voldries integrar la teva trobada a Peach, omple el formulari de contacte que trobaràs a continuació, i ens posarem en contacte per procedir amb la integració!
+Estem **col·laborant amb meetups arreu del món** per facilitar llocs segurs i fiables per a les transaccions de Bitcoin en efectiu.
 
-Si la teva trobada compleix els requisits\* per a ser integrada a la nostra aplicació, ens posarem en contacte per demanar-te els detalls finals.
+Si ets l'organitzador d'un meetup i voldries integrar el teu meetup a Peach, omple el formulari de contacte que trobaràs a continuació, i ens posarem en contacte per procedir amb la integració!
 
-<small>*Per ara, només són elegibles les trobades a Europa i les [monedes acceptades](/ca/how-it-works/#payment). En un futur, ampliarem a altres zones del món, així que no dubtis a sol·licitar-ho, encara que la teva trobada no compleixi tots els requisits.</small>
+Si el teu meetup compleix els requisits\* per a ser integrat a la nostra aplicació, ens posarem en contacte per demanar-te els detalls finals.
 
 <!--[map]-->
 ### Consulta tots els llocs on pots comerciar amb Bitcoin en efectiu fent servir Peach!
