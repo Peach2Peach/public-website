@@ -16,9 +16,9 @@ template: index
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
   </div>
   <div>
-  :::buttons
-  [Descarrega APK per Android](/ca/apk/)
-  :::
+    :::buttons
+    [Descarrega APK per Android](/ca/apk/)
+    :::
   </div>
 </div>
 
