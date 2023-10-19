@@ -9,7 +9,7 @@ template: index
 
 <div class="inner-wrap">
 
-![✔ msimbo wa chanzo unaothibitishwa](/img/phones.png)
+![](/img/phones.png)
 
 <div>
   <div class="md:flex items-end">
@@ -24,6 +24,8 @@ template: index
 </div>
 
 </div>
+
+#### ✔ msimbo wa chanzo unaothibitishwa
 
 <!--[top]-->
 # Njia rahisi zaidi ya Kununua na Kuuza Bitcoin P2P
