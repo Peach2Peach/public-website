@@ -10,7 +10,7 @@ template: index
 
 <div class="inner-wrap">
 
-![✔ codice sorgente verificabile](/img/phones.png)
+![](/img/phones.png)
 
 <div>
   <div class="md:flex items-end">
@@ -25,6 +25,8 @@ template: index
 </div>
 
 </div>
+
+#### ✔ codice sorgente verificabile
 
 
 <!--[top]-->
