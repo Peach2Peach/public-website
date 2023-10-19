@@ -66,3 +66,10 @@ gpg: Goede handtekening van "hello@peachbitcoin.com <hello@peachbitcoin.com>" [o
 
 :::
 
+:::details Hoe kan ik verbinding maken met mijn eigen knooppunt?
+
+Bekijk onze [videozelfstudie](https://www.youtube.com/watch?v=xtvq2i3mIYg) om te leren hoe je verbinding kunt maken met je eigen knooppunt.
+
+:::
+
+

@@ -66,3 +66,9 @@ gpg: Dobra sygnatura od "hello@peachbitcoin.com <hello@peachbitcoin.com>" [niezn
 
 :::
 
+
+:::details Jak mogę połączyć się z własnym węzłem?
+
+Sprawdź nasz [samouczek wideo](https://www.youtube.com/watch?v=xtvq2i3mIYg), aby dowiedzieć się, jak połączyć się z własnym węzłem.
+
+:::
