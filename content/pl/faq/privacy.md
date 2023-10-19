@@ -69,6 +69,12 @@ gpg: Dobra sygnatura od "hello@peachbitcoin.com <hello@peachbitcoin.com>" [niezn
 
 :::details Jak mogę połączyć się z własnym węzłem?
 
-Sprawdź nasz [samouczek wideo](https://www.youtube.com/watch?v=xtvq2i3mIYg), aby dowiedzieć się, jak połączyć się z własnym węzłem.
+Chcesz polepszyć prywatność? Połącz się z własnym węzłem, ponieważ wszystkie transakcje są przekazywane do sieci Bitcoin poprzez Twój własny węzeł, a nie przez Peach.
+
+Obecnie Peach nie obsługuje protokołu Tor, dlatego musisz użyć IPv4, aby połączyć się ze swoim węzłem. Jeśli Twój węzeł nie jest dostępny w Internecie, możesz połączyć się tylko poprzez sieć lokalną lub za pomocą prywatnej sieci VPN.
+
+Zapoznaj się z naszym [poradnikiem wideo](https://www.youtube.com/watch?v=xtvq2i3mIYg), aby dowiedzieć się, jak połączyć się ze swoim własnym węzłem.
+
+Jeśli korzystasz z Umbrela, możesz użyć umbrel.{numer portu} zamiast adresu IP Twojego węzła.
 
 :::

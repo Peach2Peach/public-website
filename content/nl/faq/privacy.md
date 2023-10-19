@@ -68,8 +68,13 @@ gpg: Goede handtekening van "hello@peachbitcoin.com <hello@peachbitcoin.com>" [o
 
 :::details Hoe kan ik verbinding maken met mijn eigen knooppunt?
 
-Bekijk onze [videozelfstudie](https://www.youtube.com/watch?v=xtvq2i3mIYg) om te leren hoe je verbinding kunt maken met je eigen knooppunt.
+Het verbinden met je eigen knooppunt verbetert de privacy, omdat alle transacties worden doorgestuurd naar het Bitcoin-netwerk via je eigen knooppunt, in plaats van dat van Peach.
 
+Peach ondersteunt momenteel geen Tor, dus je moet een IPv4 gebruiken om verbinding te maken met je knooppunt. Als het niet open is voor internet, kun je alleen verbinding maken via het lokale netwerk of via een privé-VPN.
+
+Bekijk onze [videotutorial](https://www.youtube.com/watch?v=xtvq2i3mIYg) om te leren hoe je verbinding kunt maken met je eigen knooppunt.
+
+Als je Umbrel gebruikt, kun je umbrel.{poortnummer} gebruiken in plaats van het IP-adres van je knooppunt.
 :::
 
 
