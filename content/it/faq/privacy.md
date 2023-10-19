@@ -98,3 +98,9 @@ _*Disclaimer: non tutti i wallet esterni supportano l'opzione di firma/verifica 
 - NON è possibile impostare un indirizzo Taproot come indirizzo di pagamento diretto (non è possibile firmare un messaggio con un indirizzo Taproot).
 
 :::
+
+:::details Come posso connettermi al mio nodo personale?
+
+Guarda il nostro [tutorial video](https://www.youtube.com/watch?v=xtvq2i3mIYg) per imparare come connetterti al tuo nodo personale.
+
+:::

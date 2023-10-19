@@ -92,3 +92,10 @@ _*Haftungsausschluss: Nicht alle Wallets unterstützen die Option zum Signieren/
 - Es ist NICHT möglich, eine Taproot-Adresse als direkte Auszahlungsadresse festzulegen (es ist nicht möglich Taproot-Adressen zu signieren).
 
 :::
+
+:::details Wie kann ich mich mit meinem eigenen Node verbinden?
+
+Schauen Sie sich unser [Video-Tutorial](https://www.youtube.com/watch?v=xtvq2i3mIYg) an, um zu erfahren, wie Sie sich mit Ihrem eigenen Node verbinden können.
+
+:::
+

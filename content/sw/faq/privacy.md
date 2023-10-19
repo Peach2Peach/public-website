@@ -92,3 +92,9 @@ Onyo: Sio mikoba yote inaunga mkono chaguo la kusaini/kuthibitisha anwani yako. 
 Inawezekana kufadhili amana kutoka kwa anwani ya taproot, na kutoa pesa kutoka kwa mkoba wa peach hadi anwani ya taproot.
 Haiwezekani kuweka anwani ya taproot kama anwani ya malipo ya moja kwa moja (haiwezekani kusaini ujumbe na anwani ya taproot).
 :::
+
+:::details Jinsi naweza kuunganisha kwenye nodi yangu mwenyewe?
+
+Tazama [mafunzo ya video](https://www.youtube.com/watch?v=xtvq2i3mIYg) yetu ili kujifunza jinsi ya kuunganisha kwenye nodi yako mwenyewe.
+
+:::

@@ -66,3 +66,8 @@ gpg: Good signature from "hello@peachbitcoin.com <hello@peachbitcoin.com>" [unkn
 
 :::
 
+:::details How can I connect to my own node?
+
+Check out our [video tutorial](https://www.youtube.com/watch?v=xtvq2i3mIYg) to learn how to connect to your own node.
+
+:::

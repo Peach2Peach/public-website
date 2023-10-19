@@ -99,3 +99,9 @@ _**Remarque** : Tous les portefeuilles ne prennent pas en charge l'option de sig
 - Il N'EST PAS possible de définir une adresse Taproot comme adresse de paiement directe (il n'est pas possible de signer un message avec une adresse Taproot).
 
 :::
+
+:::details Comment puis-je me connecter à mon propre nœud ?
+
+Consultez notre [tutoriel vidéo](https://www.youtube.com/watch?v=xtvq2i3mIYg) pour apprendre comment vous connecter à votre propre nœud.
+
+:::

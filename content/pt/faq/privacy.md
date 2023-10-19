@@ -66,4 +66,9 @@ gpg: Boa assinatura de "hello@peachbitcoin.com <hello@peachbitcoin.com>" [descon
 - É possível financiar depósitos em garantia a partir de um endereço Taproot e retirar fundos da carteira Peach para um endereço Taproot.
 - NÃO é possível definir um endereço Taproot como endereço de pagamento direto (não é possível assinar uma mensagem com um endereço Taproot).
 :::
-```
+
+:::details Como posso me conectar ao meu próprio nó?
+
+Confira o nosso [tutorial em vídeo](https://www.youtube.com/watch?v=xtvq2i3mIYg) para aprender como se conectar ao seu próprio nó.
+
+:::

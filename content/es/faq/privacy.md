@@ -98,4 +98,9 @@ _*Aviso: no todas las billeteras admiten la opción de firmar/verificar tu direc
 
 :::
 
+:::details ¿Cómo puedo conectarme a mi propio nodo?
+
+Echa un vistazo a nuestro [tutorial en video](https://www.youtube.com/watch?v=xtvq2i3mIYg) para aprender cómo conectarte a tu propio nodo.
+
+:::
 
