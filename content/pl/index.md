@@ -73,3 +73,5 @@ Peach jest członkiem SRO (Self Regulatory Organisation) Polyreg. Peach to certy
 ### Co ludzie mówią o nas?
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
+
+Chcesz zarobić 500 sats? Zostaw nam recenzję w Apollo, klikając w [ten link](https://heyapollo.com/invite-review?prod=peach), a otrzymasz nagrodę w wysokości 500 sats!

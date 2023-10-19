@@ -73,3 +73,5 @@ Peach is een lid van SRO (Self Regulatory Organisation) Polyreg. Peach is een Zw
 ### Wat zeggen mensen over ons?
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
+
+Wil je 500 sats verdienen? Laat ons een recensie achter in Apollo via [deze link](https://heyapollo.com/invite-review?prod=peach) en je ontvangt een beloning van 500 sats!
