@@ -8,7 +8,7 @@ template: index
 
 <div class="inner-wrap">
 
-![✔ verifiable source code](/img/phones.png)
+![](/img/phones.png)
 
 <div>
   <div class="md:flex items-end">
@@ -23,6 +23,8 @@ template: index
 </div>
 
 </div>
+
+#### ✔ verifiable source code
 
 <!--[top]-->
 # Найлегший спосіб купувати та продавати Bitcoin P2P
@@ -74,3 +76,5 @@ Peach є членом SRO (Саморегулююча організація) Po
 ### Що люди кажуть про нас?
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
+
+Хочете заробити 500 сатів? Залиште відгук в Apollo, перейшовши за [цим посиланням](https://heyapollo.com/invite-review?prod=peach), і отримаєте винагороду у розмірі 500 сатів!

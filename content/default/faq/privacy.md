@@ -66,3 +66,13 @@ gpg: Good signature from "hello@peachbitcoin.com <hello@peachbitcoin.com>" [unkn
 
 :::
 
+:::details How can I connect to my own node?
+
+Connecting to your node enhances privacy since all transactions are relayed to the Bitcoin network through your own node, instead of Peach's.
+
+Peach currently does not support Tor, so you need to use an IPv4 to connect to your node. If it's not open to the internet, you can only connect to it via the local network or through a private VPN.
+
+Check out our [video tutorial](https://www.youtube.com/watch?v=xtvq2i3mIYg) to learn how to connect to your own node.
+
+If you're using Umbrel, you can use umbrel.{port number} instead of your node's IP.
+:::

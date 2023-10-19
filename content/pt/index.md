@@ -8,7 +8,7 @@ template: index
 
 <div class="inner-wrap">
 
-![✔ verifiable source code](/img/phones.png)
+![](/img/phones.png)
 
 <div>
   <div class="md:flex items-end">
@@ -21,6 +21,10 @@ template: index
   :::
 
 </div>
+
+</div>
+
+#### ✔ verifiable source code
 
 <!--[top]-->
 # A maneira mais fácil de comprar e vender Bitcoin P2P
@@ -70,3 +74,5 @@ A Peach é membro da SRO (Organização de Autorregulação) da Polyreg. A Peach
 ### O que as pessoas dizem sobre nós?
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
+
+Quer ganhar 500 sats? Deixe-nos uma avaliação no Apollo seguindo [este link](https://heyapollo.com/invite-review?prod=peach) e você receberá uma recompensa de 500 sats!

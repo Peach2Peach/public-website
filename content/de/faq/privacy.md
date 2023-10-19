@@ -92,3 +92,15 @@ _*Haftungsausschluss: Nicht alle Wallets unterstützen die Option zum Signieren/
 - Es ist NICHT möglich, eine Taproot-Adresse als direkte Auszahlungsadresse festzulegen (es ist nicht möglich Taproot-Adressen zu signieren).
 
 :::
+
+:::details Wie kann ich mich mit meinem eigenen Node verbinden?
+
+Das Verbinden mit deinem eigenen Knoten verbessert die Privatsphäre, da alle Transaktionen über deinen eigenen Knoten an das Bitcoin-Netzwerk übertragen werden, anstatt über den von Peach.
+
+Peach unterstützt derzeit kein Tor, daher musst du eine IPv4 verwenden, um dich mit deinem eigenen Knoten zu verbinden. Wenn er nicht für das Internet geöffnet ist, kannst du dich nur über das lokale Netzwerk oder über ein privates VPN damit verbinden.
+
+Schau dir unser [Video-Tutorial](https://www.youtube.com/watch?v=xtvq2i3mIYg) an, um zu lernen, wie du dich mit deinem eigenen Knoten verbinden kannst.
+
+Wenn du Umbrel verwendest, kannst du stattdessen umbrel.{Portnummer} anstelle der IP deines Knotens verwenden.
+:::
+

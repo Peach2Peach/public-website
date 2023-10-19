@@ -9,7 +9,7 @@ template: index
 
 <div class="inner-wrap">
 
-![✔ msimbo wa chanzo unaothibitishwa](/img/phones.png)
+![](/img/phones.png)
 
 <div>
   <div class="md:flex items-end">
@@ -24,6 +24,8 @@ template: index
 </div>
 
 </div>
+
+#### ✔ msimbo wa chanzo unaothibitishwa
 
 <!--[top]-->
 # Njia rahisi zaidi ya Kununua na Kuuza Bitcoin P2P
@@ -75,3 +77,5 @@ Peach ni mwanachama wa SRO (Shirika la Kujisimamia) wa Polyreg. Peach ni mtoa hu
 ### Watu wanasemaje kuhusu sisi?
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
+
+Je, unataka kupata 500 sats? Acha ukaguzi katika Apollo kwa kufuata [kiunga hiki](https://heyapollo.com/invite-review?prod=peach) na utapata zawadi ya 500 sats!
