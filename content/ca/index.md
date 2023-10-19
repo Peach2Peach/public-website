@@ -8,7 +8,7 @@ template: index
 
 <div class="inner-wrap">
 
-![✔ codi obert verificable](/img/phones.png)
+![](/img/phones.png)
 
 <div>
   <div class="md:flex items-end">
@@ -23,6 +23,8 @@ template: index
 </div>
 
 </div>
+
+#### ✔ codi obert verificable
 
 <!--[top]-->
 # La forma més fàcil de Comprar i Vendre Bitcoin P2P
