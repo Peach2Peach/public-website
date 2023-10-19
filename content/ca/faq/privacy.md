@@ -65,3 +65,15 @@ gpg: Signatura vàlida de "hello@peachbitcoin.com <hello@peachbitcoin.com>" [des
 - És possible finançar els escrows des d'una adreça de Taproot i retirar fons de la vostra cartera de Peach a una adreça de Taproot.
 - NO és possible establir una adreça de Taproot com a adreça de pagament directa (no és possible signar un missatge amb una adreça de Taproot).
 :::
+
+:::details Com puc connectar-me al meu propi node?
+
+Connectar-te al teu node millora la privacitat, ja que totes les transaccions es retransmeten a la xarxa de Bitcoin a través del teu propi node, en comptes del de Peach.
+
+Peach encara no suporta Tor, per tant has d'utilitzar una IPv4 per connectar-te al teu node. En cas que no el tinguis obert a Internet, només podràs connectar-t'hi a la xarxa local, o a través d'una VPN privada.
+
+Consulteu el nostre [tutorial en vídeo](https://www.youtube.com/watch?v=xtvq2i3mIYg) per aprendre com connectar-vos al vostre propi node.
+
+En cas que utilitzis Umbrel, pots escriure umbrel.{número de port} en comptes de la IP del teu node.
+
+:::

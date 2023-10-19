@@ -15,11 +15,9 @@ template: index
     <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
   </div>
-  <div>
-    :::buttons
-    [Descarrega APK per Android](/ca/apk/)
-    :::
-  </div>
+  :::buttons
+  [Descarrega APK per Android](/ca/apk/)
+  :::
 </div>
 
 </div>
@@ -73,3 +71,5 @@ Peach és un membre de SRO (Self Regulatory Organisation) de Polyreg. Peach és 
 ### Què diuen les persones sobre nosaltres?
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
+
+Vols guanyar 500 sats? Deixa'ns una ressenya a Apollo seguint [aquest enllaç](https://heyapollo.com/invite-review?prod=peach) i rebràs una recompensa de 500 sats!

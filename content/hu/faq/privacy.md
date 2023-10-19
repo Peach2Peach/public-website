@@ -67,3 +67,14 @@ gpg: Jó aláírás a "hello@peachbitcoin.com <hello@peachbitcoin.com>"-től [is
 :::
 
 
+:::details Hogyan csatlakozhatok a saját csomópontomhoz?
+
+A saját csomópont használata javítja a magánszférát, mivel az összes tranzakciót saját csomóponton keresztül közvetítjük a Bitcoin hálózatban, nem a Peach csomóponton keresztül.
+
+A Peach jelenleg nem támogatja a Tor hálózatot, ezért egy IPv4-et kell használnod a saját csomópontodhoz való csatlakozáshoz. Ha a csomópontod nincs nyitva az interneten, csak a helyi hálózaton keresztül vagy egy privát VPN segítségével csatlakozhatsz hozzá.
+
+Nézd meg [videó útmutatónkat](https://www.youtube.com/watch?v=xtvq2i3mIYg), hogy megtudd, hogyan csatlakozhatsz a saját csomópontodhoz.
+
+Ha az Umbrel-t használod, az IP címed helyett beírhatod az umbrel.{portszám}
+
+:::

@@ -1,5 +1,7 @@
 # Quick Start
 
+No hi ha versió disponible en Català degut a les constants actualitzacions de la app. Aquesta pàgina serveix de referència, però en cas de no trobar el que busqueu, contacteu amb suport.
+
 @[toc]
 
 ## Intro: Why Peach?
