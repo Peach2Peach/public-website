@@ -100,7 +100,13 @@ _*Aviso: no todas las billeteras admiten la opción de firmar/verificar tu direc
 
 :::details ¿Cómo puedo conectarme a mi propio nodo?
 
-Echa un vistazo a nuestro [tutorial en video](https://www.youtube.com/watch?v=xtvq2i3mIYg) para aprender cómo conectarte a tu propio nodo.
+Conectarte a tu nodo mejora la privacidad, ya que todas las transacciones se retransmiten a la red de Bitcoin a través de tu propio nodo en lugar del de Peach.
+
+Actualmente, Peach no admite Tor, por lo que debes utilizar una IPv4 para conectarte a tu nodo. Si no está abierto a Internet, solo podrás conectarte a través de la red local o mediante una VPN privada.
+
+Consulta nuestro [tutorial en vídeo](https://www.youtube.com/watch?v=xtvq2i3mIYg) para aprender cómo conectarte a tu propio nodo.
+
+Si estás utilizando Umbrel, puedes usar umbrel.{número de puerto} en lugar de la IP de tu nodo.
 
 :::
 

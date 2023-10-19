@@ -95,7 +95,12 @@ _*Haftungsausschluss: Nicht alle Wallets unterstützen die Option zum Signieren/
 
 :::details Wie kann ich mich mit meinem eigenen Node verbinden?
 
-Schauen Sie sich unser [Video-Tutorial](https://www.youtube.com/watch?v=xtvq2i3mIYg) an, um zu erfahren, wie Sie sich mit Ihrem eigenen Node verbinden können.
+Das Verbinden mit deinem eigenen Knoten verbessert die Privatsphäre, da alle Transaktionen über deinen eigenen Knoten an das Bitcoin-Netzwerk übertragen werden, anstatt über den von Peach.
 
+Peach unterstützt derzeit kein Tor, daher musst du eine IPv4 verwenden, um dich mit deinem eigenen Knoten zu verbinden. Wenn er nicht für das Internet geöffnet ist, kannst du dich nur über das lokale Netzwerk oder über ein privates VPN damit verbinden.
+
+Schau dir unser [Video-Tutorial](https://www.youtube.com/watch?v=xtvq2i3mIYg) an, um zu lernen, wie du dich mit deinem eigenen Knoten verbinden kannst.
+
+Wenn du Umbrel verwendest, kannst du stattdessen umbrel.{Portnummer} anstelle der IP deines Knotens verwenden.
 :::
 

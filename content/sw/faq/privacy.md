@@ -95,6 +95,12 @@ Haiwezekani kuweka anwani ya taproot kama anwani ya malipo ya moja kwa moja (hai
 
 :::details Jinsi naweza kuunganisha kwenye nodi yangu mwenyewe?
 
-Tazama [mafunzo ya video](https://www.youtube.com/watch?v=xtvq2i3mIYg) yetu ili kujifunza jinsi ya kuunganisha kwenye nodi yako mwenyewe.
+Je, unataka kuboresha faragha? Kuungana na unapoonyesha inakuza faragha kwa sababu shughuli zote hurejeshwa kwa mtandao wa Bitcoin kupitia unapoonyesha wako mwenyewe, badala ya Peach.
+
+Kwa sasa, Peach haiauni Tor, hivyo unahitaji kutumia IPv4 kuunganisha na unapoonyesha wako. Ikiwa hautafunguliwa kwa mtandao, unaweza kuunganisha tu kupitia mtandao wa ndani au kupitia VPN ya kibinafsi.
+
+Tazama [mafunzo yetu ya video](https://www.youtube.com/watch?v=xtvq2i3mIYg) kujifunza jinsi ya kuunganisha na unapoonyesha wako mwenyewe.
+
+Ikiwa unatumia Umbrel, unaweza kutumia umbrel.{namba ya mlango} badala ya anwani ya IP ya unapoonyesha wako.
 
 :::

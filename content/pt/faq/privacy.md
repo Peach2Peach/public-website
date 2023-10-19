@@ -69,6 +69,12 @@ gpg: Boa assinatura de "hello@peachbitcoin.com <hello@peachbitcoin.com>" [descon
 
 :::details Como posso me conectar ao meu próprio nó?
 
-Confira o nosso [tutorial em vídeo](https://www.youtube.com/watch?v=xtvq2i3mIYg) para aprender como se conectar ao seu próprio nó.
+Conectar ao seu nó melhora a privacidade, uma vez que todas as transações são retransmitidas para a rede Bitcoin por meio do seu próprio nó, em vez do nó da Peach.
+
+A Peach atualmente não suporta o Tor, portanto, você precisa usar um IPv4 para se conectar ao seu nó. Se ele não estiver aberto para a internet, você só poderá se conectar pela rede local ou por meio de uma VPN privada.
+
+Consulte o nosso [tutorial em vídeo](https://www.youtube.com/watch?v=xtvq2i3mIYg) para aprender como se conectar ao seu próprio nó.
+
+Se estiver usando o Umbrel, você pode usar umbrel.{número da porta} em vez do IP do seu nó.
 
 :::
