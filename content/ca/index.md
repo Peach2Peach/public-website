@@ -56,7 +56,7 @@ Ven al **preu de la teva elecció** perquè els mercats P2P són els mercats rea
 <!--[about]-->
 ## Sobre Nosaltres
 
-Peach, la companyia, neix de persones que creuen en la moneda més dura que mai ha existit i volen fer-la accessible a tot el món sense comprometre els aspectes fonamentals de Bitcoin.
+Peach, la companyia, neix de persones que creuen en la moneda més sòlida que existeix i volen fer-la accessible a tot el món sense comprometre els aspectes fonamentals de Bitcoin.
 
 Ets un d'ells? Dóna un cop d'ull a la nostra secció [Uneix-te a nosaltres](/ca/join-us/), potser podem treballar junts!
 
