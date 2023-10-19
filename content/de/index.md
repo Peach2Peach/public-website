@@ -75,3 +75,4 @@ Peach ist Mitglied der SRO (Selbstregulierungsorganisation) von Polyreg. Peach i
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
 
+Möchten Sie 500 Sats verdienen? Hinterlassen Sie uns eine Bewertung in Apollo unter [diesem Link](https://heyapollo.com/invite-review?prod=peach) und Sie erhalten eine Belohnung von 500 Sats!

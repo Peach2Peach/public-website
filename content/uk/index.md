@@ -76,3 +76,5 @@ Peach є членом SRO (Саморегулююча організація) Po
 ### Що люди кажуть про нас?
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
+
+Хочете заробити 500 сатів? Залиште відгук в Apollo, перейшовши за [цим посиланням](https://heyapollo.com/invite-review?prod=peach), і отримаєте винагороду у розмірі 500 сатів!
