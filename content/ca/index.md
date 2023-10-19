@@ -54,7 +54,7 @@ Ven al **preu de la teva elecció** perquè els mercats P2P són els mercats rea
 ### Volem fer de l'acumulació de sats P2P l'estàndard!
 
 <!--[about]-->
-## About Us
+## Sobre Nosaltres
 
 Peach, la companyia, neix de persones que creuen en la moneda més dura que mai ha existit i volen fer-la accessible a tot el món sense comprometre els aspectes fonamentals de Bitcoin.
 
