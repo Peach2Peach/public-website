@@ -23,7 +23,7 @@ Després de crear el vostre compte, assegureu-vos de compartir el vostre propi c
 <div>
   <div class="md:flex elements-de-la-base">
     <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Descarrega-ho a l'App Store"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/obtén-lo-a-Google-Play.svg" alt="Obtén-lo a Google Play"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Obtén-lo a Google Play"></a>
   </div>
 
   :::buttons
