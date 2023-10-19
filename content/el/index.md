@@ -73,3 +73,4 @@ template: index
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
 
+Θέλετε να κερδίσετε 500 sats; Αφήστε μας μια κριτική στο Apollo ακολουθώντας [αυτόν τον σύνδεσμο](https://heyapollo.com/invite-review?prod=peach) και θα λάβετε μια ανταμοιβή 500 sats!
