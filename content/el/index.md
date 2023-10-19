@@ -8,7 +8,7 @@ template: index
 
 <div class="inner-wrap">
 
-![✔ επαληθέσιμος πηγαίος κώδικας](/img/phones.png)
+![](/img/phones.png)
 
 <div>
   <div class="md:flex items-end">
@@ -23,6 +23,8 @@ template: index
 </div>
 
 </div>
+
+#### ✔ επαληθέσιμος πηγαίος κώδικας
 
 <!--[top]-->
 # Ο πιο εύκολος τρόπος για να αγοράσετε και να πουλήσετε Bitcoin P2P
