@@ -790,5 +790,23 @@
     "url": "https://t.me/KriptovaluteTelegram",
     "longitude": 18.3866868,
     "latitude": 43.8519774
+  },
+  {
+    "name": "Bitcoin Skopje",
+    "url": "https://m.facebook.com/groups/334057947239526/?ref=share&mibextid=NSMWBT",
+    "longitude": 21.4319213,
+    "latitude": 41.9961816
+  },
+  {
+    "name": "Zwolle Bitcoinstad Meetup",
+    "url": "https://zwollebitcoinstad.nl/",
+    "longitude": 6.0943765,
+    "latitude": 52.5089759
+  },
+  {
+    "name": "Blockchain Jura - Delémont",
+    "url": "https://t.me/+OoYTSRqirNRlZDA8",
+    "longitude": 7.34921121,
+    "latitude": 47.36471176
   }
 ]
