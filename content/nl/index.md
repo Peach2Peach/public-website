@@ -52,7 +52,7 @@ Verkoop tegen de **prijs van jouw keuze**, omdat peer-to-peer markten de echte m
 <!--[mission]-->
 ## Doe mee met onze missie
 
-### We streven ernaar om peer-to-peer het standaard maken van sats stapelen!
+### We streven ernaar om peer-to-peer de standaard te maken voor het stacken van Sats
 
 <!--[about]-->
 ## Over ons
