@@ -5,7 +5,7 @@ template: how_it_works
 <!--[teaser]-->
 ![Koop en verkoop Bitcoin peer-to-peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
 
-### Stapel sats <span>elke dag</span>!
+### Stack elke dag Sats!
 
 **Koop en verkoop tot 1000 CHF per dag en 100.000 CHF per jaar.**
 
@@ -81,9 +81,9 @@ Er zijn tal van betaalmethoden om uit te kiezen.<br>
 :::
 om **AL ONZE BETAALMETHODEN** te ontdekken!
 
-Als er een andere betaalmethode is die je wilt gebruiken maar die niet in de lijst staat, laat het ons weten door het invullen van
+Als er een andere betaalmethode is die je wilt gebruiken die niet in de lijst staat, laat het ons dan weten door
 <br>
-**[DIT FORMULIER](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
+**[DIT FORMULIER](https://ncxldazr6m4.typeform.com/to/SJljDnae)** in te vullen!
 
 <!--[self_custody]-->
 ### Niet jouw sleutels, niet jouw munten
