@@ -57,11 +57,11 @@ Verkoop tegen de **prijs van jouw keuze**, omdat peer-to-peer markten de echte m
 <!--[about]-->
 ## Over ons
 
-Peach, het bedrijf, is ontstaan uit mensen die geloven in het hardste geld dat ooit heeft bestaan, en het toegankelijk willen maken voor de hele wereld zonder concessies te doen aan de fundamentele aspecten van Bitcoin.
+Het bedrijf Peach is opgericht door mensen die geloven in het hardste geld dat ooit heeft bestaan, en die het toegankelijk willen maken voor de hele wereld, zonder concessies te doen aan de fundamentele aspecten van Bitcoin.
 
-Ben jij er een van? Bekijk onze [Doe mee](/nl/join-us/) sectie, misschien kunnen we samenwerken!
+Ben jij ook zo iemand? Bekijk onze Doe mee sectie, misschien kunnen we samenwerken!
 
-Als je meer wilt weten over het bedrijf, bekijk dan onze [blogberichten](/blog/) waarin wordt verteld hoe alles begon en hoe we hier zijn gekomen.
+Als je meer wilt weten over Peach, bekijk dan onze blogberichten waarin uitgelegd wordt hoe alles is begonnen en hoe we zover zijn gekomen.
 
 <br><br>
 
@@ -74,4 +74,4 @@ Peach is een lid van SRO (Self Regulatory Organisation) Polyreg. Peach is een Zw
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
 
-Wil je 500 sats verdienen? Laat ons een recensie achter in Apollo via [deze link](https://heyapollo.com/invite-review?prod=peach) en je ontvangt een beloning van 500 sats!
+Wil je 500 sats verdienen? Laat een recensie achter in Apollo via [deze link](https://heyapollo.com/invite-review?prod=peach) en je ontvangt een beloning van 500 sats!
