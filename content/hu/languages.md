@@ -1,8 +1,8 @@
 # Nyelvek
-## A Peach mindenki számára elérhető, függetlenül az adott nyelvtől!
+## A Peach mindenki számára elérhető, az adott nyelvtől függetlenül!
 
 Itt találhatod azokat a nyelveket, amelyeket jelenleg támogatunk.
-Ha segítenél nekünk a Peach lefordításában a saját helyi nyelvedre, [lépj kapcsolatba velünk!](mailto:hello@peachbitcoin.com)
+Ha segítenél nekünk a Peach-et a saját helyi nyelvedre lefordítani, [lépj kapcsolatba velünk!](mailto:hello@peachbitcoin.com)
 
 - [Angol🇬🇧](/)
 - [Spanyol🇪🇸](/es)
