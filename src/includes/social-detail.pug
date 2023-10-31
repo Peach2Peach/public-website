@@ -1,0 +1,37 @@
+div(class="flex flex-col")
+  div
+    div(class="w-full")
+      div
+        strong !{i18n('social.main.title', lang)}
+      div !{i18n('social.main.subtitle', lang)}
+    div(class="flex justify-center")
+      a(href=siteData.meta['twitterUrl'] target="_blank" rel="noreferrer noopener" title="Twitter")
+        +sprite(`social-twitter`, 'Twitter')
+      a(class="ml-4" href=siteData.meta['nostrUrl'] target="_blank" rel="noreferrer noopener" title="Nostr")
+        +sprite(`social-nostr`, 'Nostr')
+  div(class="mt-6")
+    div(class="w-full")
+      div
+        strong !{i18n('social.community.title', lang)}
+      div !{i18n('social.community.subtitle', lang)}
+    div(class="flex justify-center")
+      a(href=siteData.meta['telegramUrl'] target="_blank" rel="noreferrer noopener" title="Telegram")
+        +sprite(`social-telegram`, 'Telegram')
+      a(class="ml-4" href=siteData.meta['discordUrl'] target="_blank" rel="noreferrer noopener" title="Discord")
+        +sprite(`social-discord`, 'Discord')
+  div(class="mt-6")
+    div(class="w-full") 
+      div
+        strong !{i18n('social.lifestyle.title', lang)}
+      div !{i18n('social.lifestyle.subtitle', lang)}
+    div(class="flex justify-center")
+      a(href=siteData.meta['instagramUrl'] target="_blank" rel="noreferrer noopener" title="Instagram")
+        +sprite(`social-instagram`, 'Instagram')
+  div(class="mt-6")
+    div(class="w-full")
+      div
+        strong !{i18n('social.video.title', lang)}
+      div !{i18n('social.video.subtitle', lang)}
+    div(class="flex justify-center")
+      a(href=siteData.meta['youtubeUrl'] target="_blank" rel="noreferrer noopener" title="YouTube")
+        +sprite(`social-youtube`, 'YouTube')

@@ -46,5 +46,13 @@
   "referral": "код реферера",
   "affiliate": "Партнерська програма",
   "earnBitcoin": "Заробити Bitcoin",
-  "github": "Github"
+  "github": "Github",
+  "social.main.title": "Слідкуй за нашим основним каналом комунікації!",
+  "social.main.subtitle": "Новий випуск додатка, щоденні пости.",
+  "social.community.title": "Приєднуйся до нашої спільноти",
+  "social.community.subtitle": "Задавай усі свої питання\nі давай усю свою зворотню інформацію.",
+  "social.lifestyle.title": "Слідкуй за нашим Instagram",
+  "social.lifestyle.subtitle": "Занурся в щоденний Peach-стиль життя!",
+  "social.video.title": "Слідкуй за нашим YouTube-каналом",
+  "social.video.subtitle": "Багато посібників для навчання кращих порад Peach"
 }

@@ -53,8 +53,8 @@
   }
 
   & .contact {
-    --icon-size: 4rem;
-    max-width: 26rem;
+    --icon-size: 3rem;
+    max-width: 20rem;
 
     @media (--up_to_M) {
       max-width: 16em;

@@ -45,5 +45,14 @@
   "referral": "Código de referido",
   "affiliate": "Programa de afiliados",
   "earnBitcoin": "Ganar Bitcoin",
-  "github": "Github"
+  "github": "Github",
+  "social.main.title": "¡Sigue nuestro canal principal de comunicación!",
+  "social.main.subtitle": "Nueva versión de la app, publicaciones diarias.",
+  "social.community.title": "Únete a nuestra comunidad",
+  "social.community.subtitle": "Haz todas tus preguntas\ny danos tus comentarios.",
+  "social.lifestyle.title": "Sigue nuestro Instagram",
+  "social.lifestyle.subtitle": "¡Sumérgete en el estilo de vida diario de Peach!",
+  "social.video.title": "Sigue nuestro canal de YouTube",
+  "social.video.subtitle": "Montones de tutoriales para aprender los mejores consejos de Peach"
+
 }
