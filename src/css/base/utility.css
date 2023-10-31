@@ -1,10 +1,15 @@
 .flex {
   display: flex
 }
+.justify-center {
+  justify-content: center;
+}
 .items-end {
   align-items: end;
 }
-
+.w-1\/2 {
+  width: 50%;
+}
 
 .h-180px {
   height: 180px

@@ -69,8 +69,11 @@ If you want to know more about the company, check out our [blog posts](/blog/) t
 
 Peach is an SRO member (Self Regulatory Organisation) of Polyreg. Peach is a swiss licensed financial service provider fully compliant with Switzerland's Anti-Money Laundering Act.
 
-![](/img/home/polyreg.png)
+<div class="flex justify-center"><div class="w-1/2">
 
+  ![](/img/home/polyreg.png)
+
+</div></div>
 
 ### What do people say about us?
 <br>
