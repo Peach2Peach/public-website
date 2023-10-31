@@ -1,8 +1,8 @@
 # Langues
-## Peach est conçu pour tout le monde, quelle que soit votre langue !
+## Peach est conçue pour tout le monde, quelle que soit votre langue !
 
-Vous trouverez ci-dessous toutes les langues que nous prenons actuellement en charge.
-Si vous souhaitez nous aider à traduire Peach dans votre langue locale, [contactez-nous !](mailto:hello@peachbitcoin.com)
+Vous trouverez ici toutes les langues que nous prenons en charge actuellement.
+Si vous souhaitez nous aider à traduire Peach dans votre langue locale, [prenez contact avec nous !](mailto:hello@peachbitcoin.com)
 
 - [Anglais🇬🇧](/)
 - [Espagnol🇪🇸](/es)
@@ -13,4 +13,6 @@ Si vous souhaitez nous aider à traduire Peach dans votre langue locale, [contac
 - [Swahili🇰🇪](/sw)
 - [Ukrainien🇺🇦](/uk)
 - [Portugais🇵🇹](/pt)
-
+- [Russe🇷🇺](/ru)
+- [Néerlandais🇳🇱](/nl)
+- [Polonais🇵🇱](/pl)

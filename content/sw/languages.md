@@ -1,8 +1,8 @@
 # Lugha
-## Peach imeundwa kwa kila mtu, bila kujali lugha yako!
+## Peach imefanywa kwa kila mtu, bila kujali lugha yako!
 
-Hapa unaweza kupata lugha zote tunazozisaidia kwa sasa.
-Ikiwa ungependa kutusaidia kutafsiri Peach kwenye lugha yako ya ndani, [wasiliana nasi!](mailto:hello@peachbitcoin.com)
+Hapa unaweza kupata lugha zote ambazo tunasaidia kwa sasa.
+Ikiwa unataka kutusaidia kutafsiri Peach kwa lugha yako ya ndani, [wasiliana nasi!](mailto:hello@peachbitcoin.com)
 
 - [Kiingereza🇬🇧](/)
 - [Kihispania🇪🇸](/es)
@@ -10,7 +10,9 @@ Ikiwa ungependa kutusaidia kutafsiri Peach kwenye lugha yako ya ndani, [wasilian
 - [Kijerumani🇩🇪](/de)
 - [Kiitaliano🇮🇹](/it)
 - [Kigiriki🇬🇷](/el)
-- [Kiswahili🇰🇪](/sw)
-- [Kiuukreni🇺🇦](/uk)
+- [Swahili🇰🇪](/sw)
+- [Kiukraini🇺🇦](/uk)
 - [Kireno🇵🇹](/pt)
-
+- [Kirusi🇷🇺](/ru)
+- [Kiholanzi🇳🇱](/nl)
+- [Kipolishi🇵🇱](/pl)
