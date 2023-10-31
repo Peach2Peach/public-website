@@ -148,6 +148,8 @@ We share your information with the following parties:
   * **Firebase** (opt-in): To monitor for and fix crashes, we give you the option to send a crash report after a crash. In case you choose to send this report, we use the "Firebase" service to collect and analyze the crash logs. You can find what information is collected [here](https://firebase.google.com/support/privacy/#examples-end-user-data-processed-by-firebase); we use Firebase Cloud Messaging and Firebase Crashlytics.
   * **Firebase & Google Analytics** (opt-in): When you allow Peach to send usage data, we use "Firebase" & "Google Analytics" service to collect the data we use in behavioral statistics. Your IP address may be included in the data provided to Firebase.
   * **Cloudflare**: Our servers connect to cloudflare for DDoS protection and security.
+  * **Blockstream**: By default the Peach wallet connects to Blockstream’s public electrum server. The wallet won’t request addresses from their server until the wallet tab is being accessed. This setting can also be changed under _settings > use your own node_.
+
 
 ### 4.3 Disputes
 
