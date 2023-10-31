@@ -71,7 +71,11 @@ Ikiwa unataka kujua zaidi kuhusu kampuni, angalia [machapisho yetu ya blogi](/bl
 
 Peach ni mwanachama wa SRO (Shirika la Kujisimamia) wa Polyreg. Peach ni mtoa huduma wa kifedha aliyepewa leseni nchini Uswisi ambaye anazingatia kabisa Sheria ya Uswisi ya Kupambana na Utakatishaji wa Fedha.
 
-![](/img/home/polyreg.png)
+<div class="flex justify-center"><div class="w-1/2">
+
+  ![](/img/home/polyreg.png)
+
+</div></div>
 
 
 ### Watu wanasemaje kuhusu sisi?

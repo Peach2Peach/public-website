@@ -75,9 +75,9 @@
   text-align: center;
 
   /* gradually try to set better but less supported values and units */
-  height: 100vh;
-  height: -webkit-fill-available;
-  height: 100dvh;
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+  min-height: 100dvh;
 
   @media (orientation: landscape) {
     height: auto;

@@ -46,5 +46,14 @@
   "referral": "Code de parrainage",
   "affiliate": "Programme d'affiliation",
   "earnBitcoin": "Gagner du Bitcoin",
-  "github": "Github"
+  "github": "Github",
+  "social.main.title": "Suis notre principal canal de communication !",
+  "social.main.subtitle": "Nouvelle sortie de l'app, publications quotidiennes.",
+  "social.community.title": "Rejoins notre communauté",
+  "social.community.subtitle": "Pose simplement toutes tes questions\net donne-nous tes retours.",
+  "social.lifestyle.title": "Suis-nous sur Instagram",
+  "social.lifestyle.subtitle": "Découvre le mode de vie quotidien de Peach !",
+  "social.video.title": "Abonne-toi à notre chaîne YouTube",
+  "social.video.subtitle": "Plein de tutos pour apprendre les meilleurs conseils de Peach"
+
 }

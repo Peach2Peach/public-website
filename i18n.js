@@ -49,6 +49,8 @@ const i18n = (id, locale, ...args) => {
     text = text.replace(regex, arg)
   })
 
+  text = text.replace(/\n/gu, '<br/>')
+
   return (text.match(/ /gu) || []).length >= 4 ? text.replace(/ (?=[^ ]*$)/u, ' ') : text
 }
 

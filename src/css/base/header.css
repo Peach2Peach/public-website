@@ -58,10 +58,11 @@
 
   & .brand {
     display: inline-flex;
+    padding-right: 12px;
   }
 
   & .logo {
-    height: var(--logo-height);
+    max-height: var(--logo-height);
     position: relative;
     top: -2px;
   }
