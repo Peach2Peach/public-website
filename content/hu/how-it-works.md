@@ -1,16 +1,16 @@
 ---
-title: How it works
+title: Hogyan működik
 template: how_it_works
 ---
 <!--[teaser]-->
-# Gyűjtsd a satokat <span>naponta</span>!
+# Gyűjtsd <span>naponta</span> a satoshi-kat!
 
 **Vásárolj és adj el napi 1000 CHF-ig, éves szinten pedig 100 000 CHF-ig.**
 
 <!--[easy_registration]-->
 ### Egyszerű regisztráció
 
-Töltsd le az alkalmazást ingyen, és kezdj el kereskedni azonnal! Nem kérünk tőled, hogy feltöltsd az azonosítód vagy készíts egy szelfit a vezetői engedélyeddel
+Töltsd le ingyen az alkalmazást, és kezdj el azonnal kereskedni! Nem kérjük, hogy a személyidet feltöltsd vagy hogy a vezetői engedélyeddel egy szelfit készíts
 
 <div>
   <div class="md:flex items-end">
@@ -19,7 +19,7 @@ Töltsd le az alkalmazást ingyen, és kezdj el kereskedni azonnal! Nem kérünk
   </div>
 
   :::buttons
-  [Töltsd le az APK-t Androidre](/hu/apk/)
+  [Töltsd le az APK-t Androidra](/hu/apk/)
   :::
 
 </div>
@@ -78,35 +78,35 @@ Többféle fizetési módot választhatsz.<br>
 [Kattints ide](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
 :::
 
-Ha van egyéb fizetési mód, amit szeretnél használni, de nincs a listán, jelezd nekünk a kitöltésével
+Ha van egyéb fizetési mód, amit szeretnél használni, de a listán nincs, az alábbi űrlapon jelezd nekünk
 <br>
 **[EZEN AZ ŰRLAPON](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
 <!--[self_custody]-->
 ### Nem a te kulcsaid, nem a te érméid
 
-Az alkalmazásban található egy könnyen használható pénztárca, amit te irányítasz, vagy használhatod meglévő tárcádat. Tartsd az alapoknál vagy tegyél mindent hardcore módba - mindig te döntesz.
+Az alkalmazásban egy könnyen használható tárca található, amit te irányítasz, vagy egy már meglévő tárcádat is használhatod. Használd alapbeállításokkal vagy állíts mindent hardcore módba - mindig TE döntesz!
 
 <!--[security]-->
 ### Szuper biztonságos
 
-A Peach a többszörös aláírású bitcoin címeket használja annak érdekében, hogy biztosítsa, hogy a helyes fél juthasson hozzá a bitcoinkhoz, ha valami hiba történik a kereskedelem során.
+A Peach a többszörös aláírású bitcoin címeket használja annak érdekében, hogy biztosítsa, ha a kereskedelem során valami hiba történik, a Bitcoinokhoz csak a jogos fél juthasson hozzá.
 
 <!--[difference]-->
-### Mi teszi a Peach-et más tőzsdéktől?
+### Mi különbözteti meg a Peach-et más tőzsdéktől?
 
-A Peach-szel nem tőlünk vásárolsz vagy tőlünk értékesítesz.
+A Peach-el nem tőlünk vásárolsz vagy nekünk értékesítesz.
 Közvetlenül más felhasználókkal lépsz kapcsolatba!
-Ez magánabbá teszi a bitcoinkereskedést, és lehetővé teszi bármilyen fizetési módszer használatát, amiben megállapodhattok.
+Ez a bitcoinkereskedést privátabbá teszi, és biztosítja bármilyen fizetési módszer (amiben megállapodtatok) használatát.
 A missziónk az, hogy ezt olyan könnyűvé és biztonságossá tegyük, amennyire csak lehetséges.
 
 <!--[sounds_cool]-->
-### Hangzik jól, de hogy működik?
+### Ez jól hangzik, de hogy működik?
 
-Itt van egy teljes útmutató a kezdéshez:
+A kezdéshez itt van egy teljes útmutató:
 
 <!--[questions]-->
-### Még mindig kérdéseid vannak?
+### Még mindig vannak kérdéseid?
 
-Biztos vagyok benne, hogy találsz választ a GYIK-ban.
+Biztos vagyok benne, hogy a GYIK-ban választ találsz.
 Ha mégsem, írj nekünk egy üzenetet!

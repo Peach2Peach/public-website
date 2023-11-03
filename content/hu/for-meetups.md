@@ -2,27 +2,28 @@
 template: meetups
 ---
 <!--[headline]-->
-# Integráld találkozód a Peach alkalmazásba
+# Építsd be a Peach alkalmazásba a találkozódat
 
 <!--[intro]-->
-Te olyan Bitcoin-használó vagy, aki szeret világot járni, de mindig szüksége van arra, hogy bárhová menj, eladj néhány kriptopénzt készpénzért?
+Te olyan Bitcoin-használó vagy, aki szeret világot járni, de mindig szüksége van arra, hogy bárhová is menjen, készpénzért eladjon valamennyi kriptopénzt?
 
-Ugrándozol találkozóról találkozóra ürügyként, hogy felfedd a világot?
+Örügyként ugrándozol találkozóról találkozóra, hogy a világot felfedezd?
 
-Vagy egyszerűen csak habozol azért, hogy ajánlatokat hozz létre nyilvános Telegram-csoportokban azért, hogy ne leplezzenek le?
+Vagy egyszerűen csak félsz nyilvános Telegram-csoportokban ajánlatokat létrehozni, mert nem szeretnéd a kilétedet felfedni?
 
 Van számodra megoldásunk.
+
 A Peach alkalmazás tartalmazza az **anonim Készpénz Tranzakciókat**.
 
-**Világszerte partnerkapcsolatban állunk a találkozókkal** annak érdekében, hogy biztonságos és megbízható helyeket biztosítsunk a Bitcoin készpénzért történő tranzakciókhoz.
+**Világszerte több találkozóval állunk partnerkapcsolatban** annak érdekében, hogy a Bitcoint készpénzért történő tranzakcióihoz biztonságos és megbízható helyeket biztosítsunk.
 
-Ha te vagy a találkozód szervezője, és szeretnéd a találkozód integrálni a Peach alkalmazásba, töltsd ki az alábbi kapcsolati űrlapot, és felvesszük veled a kapcsolatot az integráció folytatásához!
+Ha te vagy a találkozód szervezője, és szeretnéd a Peach alkalmazásba a találkozód integrálni, töltsd ki az alábbi kapcsolati űrlapot, és az integráció folytatásához felvesszük veled a kapcsolatot!
 
-Ha a találkozód jogosult\* az alkalmazásunkban való integrációra, felvesszük veled a kapcsolatot a végső részletek kérése érdekében.
+Ha a találkozód az alkalmazásunkban való integrációra jogosult\*, a végső részletek kérése érdekében felvesszük veled a kapcsolatot.
 
-<small>*Jelenleg csak az európai és az [elfogadott fizetési módok](/hu/how-it-works/#payment) jogosultak. A jövőben terjeszkedni fogunk más régiók felé, így ne habozz jelentkezni, ha a találkozód nem felel meg minden követelménynek.</small>
+<small>*Jelenleg csak az európai és az [elfogadott fizetési módok](/hu/how-it-works/#payment) jogosultak. A jövőben más régiók felé is fogunk terjeszkedni, így ne habozz jelentkezni, akkor sem ha a találkozód nem felel meg minden követelménynek.</small>
 
 <!--[map]-->
-### Nézd meg az összes helyet, ahol a Peach alkalmazással Bitcoin készpénzért cserélhetsz!
+### Nézd meg az összes helyet, ahol a Peach alkalmazással Bitcoint készpénzért cserélhetsz!
 
-Ha többet szeretnél tudni a **Peach Készpénz Tranzakciókról**, nézd meg cikkünket [Peach x Találkozók](/blog/peach-for-meetups/), vagy egyszerűen nézd meg az alábbi térképet, hogy láss, hol találhatsz másokat a Bitcoin készpénzért való cseréhez.
+Ha többet szeretnél tudni a **Peach Készpénz Tranzakciókról**, nézd meg cikkünket [Peach x Találkozók](/blog/peach-for-meetups/), vagy egyszerűen nézd meg az alábbi térképet, hogy megtekintsd, a Bitcoin készpénzért való cseréjéhez hol találkozhatsz másokkal.

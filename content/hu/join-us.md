@@ -42,11 +42,11 @@ Más érdekes képességekkel rendelkezik? Mondja el nekünk!
 
 -->
 
-Mindig érdekelnek mérnöki, terméktervezési és növekedési hacker rocksztárok jelentkezései. Iratkozzon fel hírlevelünkre vagy csatlakozzon közösségi hálózatainkhoz, hogy tájékozódjon a következő toborzási hullámainkról!
+Minket mindig érdekelnek mérnöki-, terméktervezési- és növekedési "vénával" megáldott "rocksztárok" tanoncok jelentkezései. Iratkozz fel hírlevelünkre vagy csatlakozz a közösségi hálózatainkhoz, hogy a következő toborzási hullámainkról tájékozódj!
 
 [Mindent a Peach vállalatról](/blog/all-about-peach-the-company/)
 
-## A Technológiai Stílusunk
+## A technológiai stílusunk
 
 ::::figures 3
 :::box tech-docker
@@ -65,8 +65,8 @@ Figma
 :::
 ::::
 
-Küldje el önéletrajzát a **$contactEmail$** címre, a jelentkezni kívánt munkakör megjelölésével.
+Önéletrajzodat a jelentkezni kívánt munkakör megjelölésével küldd a **$contactEmail$** címre.
 
 :::buttons
-[Most jelentkezzen](mailto:$contactEmail$)
+[Most jelentkezzek](mailto:$contactEmail$)
 :::

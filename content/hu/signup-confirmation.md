@@ -1,6 +1,6 @@
 # Köszönjük a regisztrációt!
 
-Működött, és hamarosan hallasz tőlünk. 😀
+Működött, és hamarosan hallasz felőlünk. 😀
 
 :::buttons
 [Vissza a korábbi oldalra](/hu)

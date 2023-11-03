@@ -6,8 +6,8 @@
 :::
 
 - [Peach aláírása]($apkSignaturesUrl$)
-- [SHA256 ellenőrzőösszegek]($apkChecksumsUrl$)
+- [SHA256 checksum]($apkChecksumsUrl$)
 
 Legfrissebb verzió: $apkVersionBuild$
 
-Ajánljuk az ARM64 verzió letöltését Android 8.0 vagy újabb verziójú rendszerre.
+Android 8.0 vagy újabb verziójú rendszerre az ARM64 verzió letöltését ajánljuk.
