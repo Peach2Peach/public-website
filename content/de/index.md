@@ -53,7 +53,7 @@ Verkaufen Sie zum **Preis Ihrer Wahl**, denn Peer-to-Peer-Märkte sind die echte
 
 
 <!--[mission]-->
-## Trette unserer Mission bei
+## Tretet unserer Mission bei
 
 ### Unser Ziel ist es, Sats Peer-to-Peer zu stacken zum Standart zu machen!
 
