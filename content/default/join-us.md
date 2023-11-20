@@ -1,5 +1,27 @@
 # Join Us
 
+## Help us spread the Peach-to-Peach word and become a Peachy local ambassador!
+
+Peach is a peer-to-peer marketplace so word of mouth is crucial to get more adoption. By becoming a local ambassador you will help us grow your local market with innovative, growth hacking ideas. 
+
+### What to expect from Peach:
+
+• earn 50% of our revenue for every trade done with your custom promo code!
+
+• receive merch (upon availabilities) 
+
+• get on a monthly call with the Peach team to share your feedback and influence the product roadmap
+
+### What does Peach expect from you:
+
+• Lots of growth hacking! In practice it means any ideas that could increase new user acquisition. From online posts, content creation (blogs, videos, interviews, live) on any platforms, being present in events of any kind, going spread the word to your local markets or university, giving talks… literally anything is fair game!
+
+• Being imaginative and resourceful are the secret sauce!
+
+Sounds like fun? write to [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com)!
+
+Opportunity available for anyone in **Europe**, **Latin America** and **Africa**.
+
 ## Open positions
 <!--
 ::::figures 3
