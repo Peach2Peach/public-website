@@ -18,5 +18,5 @@
   "apkArm64v8Url": "https://download.peachbitcoin.com/apks/latest/app-prod-arm64-v8a-release-0.4.0-230.apk",
   "apkSignaturesUrl": "https://download.peachbitcoin.com/apks/latest/manifest-peach-0.4.0-230.sig",
   "apkChecksumsUrl": "https://download.peachbitcoin.com/apks/latest/manifest-peach-0.4.0-230.txt",
-  "apkVersionBuild": "Android 0.4.0 (230) // iOS 0.3.5 (219)"
+  "apkVersionBuild": "0.4.0 (230)"
 }
