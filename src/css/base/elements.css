@@ -464,10 +464,6 @@ main {
     @mixin peach-text;
     font-weight: var(--font-weight-semibold);
 
-    @media (--S_and_up) {
-      white-space: nowrap;
-    }
-
     & a {
       text-decoration: underline;
     }
