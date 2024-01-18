@@ -63,8 +63,8 @@ gpg: Boa assinatura de "hello@peachbitcoin.com <hello@peachbitcoin.com>" [descon
 
 :::details O Taproot é suportado?
 
-- É possível financiar depósitos em garantia a partir de um endereço Taproot e retirar fundos da carteira Peach para um endereço Taproot.
-- NÃO é possível definir um endereço Taproot como endereço de pagamento direto (não é possível assinar uma mensagem com um endereço Taproot).
+- Sim, você pode enviar para endereços Taproot pela carteira Peach.
+- Você também pode receber diretamente do custodiante para seu endereço Taproot externo.
 :::
 
 :::details Como posso me conectar ao meu próprio nó?

@@ -94,8 +94,8 @@ _*Disclaimer: non tutti i wallet esterni supportano l'opzione di firma/verifica 
 
 :::details Taproot è supportato?
 
-- È possibile finanziare i depositi da un indirizzo Taproot e prelevare fondi dal wallet Peach verso un indirizzo Taproot.
-- NON è possibile impostare un indirizzo Taproot come indirizzo di pagamento diretto (non è possibile firmare un messaggio con un indirizzo Taproot).
+- Sì, puoi inviare a indirizzi Taproot dal portafoglio Peach.
+- Puoi anche ricevere direttamente dall'escrow al tuo indirizzo Taproot esterno.
 
 :::
 

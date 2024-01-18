@@ -87,10 +87,10 @@ Onyo: Sio mikoba yote inaunga mkono chaguo la kusaini/kuthibitisha anwani yako. 
 
 :::
 
-:::details Is Taproot supported?
+:::details Je, Taproot inaungwa mkono?
 
-Inawezekana kufadhili amana kutoka kwa anwani ya taproot, na kutoa pesa kutoka kwa mkoba wa peach hadi anwani ya taproot.
-Haiwezekani kuweka anwani ya taproot kama anwani ya malipo ya moja kwa moja (haiwezekani kusaini ujumbe na anwani ya taproot).
+- Ndiyo, unaweza kutuma kwenye anwani za Taproot kutoka kwa pochi ya Peach.
+- Unaweza pia kupokea moja kwa moja kutoka kwa escrow hadi anwani yako ya nje ya Taproot.
 :::
 
 :::details Jinsi naweza kuunganisha kwenye nodi yangu mwenyewe?

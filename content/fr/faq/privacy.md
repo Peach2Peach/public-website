@@ -95,9 +95,8 @@ _**Remarque** : Tous les portefeuilles ne prennent pas en charge l'option de sig
 
 :::details Taproot est-il pris en charge ?
 
-- Il est possible de financer des dépôts de garantie à partir d'une adresse Taproot et de retirer des fonds du portefeuille Peach vers une adresse Taproot.
-- Il N'EST PAS possible de définir une adresse Taproot comme adresse de paiement directe (il n'est pas possible de signer un message avec une adresse Taproot).
-
+- Oui, tu peux envoyer vers des adresses Taproot depuis le portefeuille Peach.
+- Tu peux également recevoir directement de l'entiercement vers ton adresse Taproot externe.
 :::
 
 :::details Comment puis-je me connecter à mon propre nœud ?

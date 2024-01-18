@@ -61,8 +61,8 @@ gpg: Good signature from "hello@peachbitcoin.com <hello@peachbitcoin.com>" [unkn
 
 :::details Is Taproot supported?
 
-- It is possible to fund escrows from a taproot address, and withdraw funds from the peach wallet to a taproot address.
-- It is NOT possible set a taproot address as a direct payout address (it’s not possible to sign a message with a taproot address).
+- Yes, you can send to taproot addresses from the Peach wallet.
+- You can also receive directly from the escrow to your external taproot address.
 
 :::
 
