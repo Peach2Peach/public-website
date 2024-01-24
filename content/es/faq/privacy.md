@@ -93,8 +93,8 @@ _*Aviso: no todas las billeteras admiten la opción de firmar/verificar tu direc
 
 :::details ¿Se admite Taproot?
 
-- Es posible enviar sats a Peach desde una dirección de Taproot y retirar fondos de la billetera de Peach a una dirección de Taproot.
-- NO es posible establecer una dirección de Taproot como dirección de pago directo (no es posible firmar un mensaje con una dirección de Taproot).
+- Sí, puedes enviar a direcciones de Taproot desde la billetera Peach.
+- También puedes recibir directamente desde el fideicomiso en tu dirección externa de Taproot.
 
 :::
 

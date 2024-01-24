@@ -88,9 +88,8 @@ _*Haftungsausschluss: Nicht alle Wallets unterstützen die Option zum Signieren/
 
 :::details Wird Taproot unterstützt?
 
-- Es ist möglich die Escrow von einer Taproot-Adresse aus aufzuladen und Bitcoin von der Peach Wallet an eine Taproot-Adresse senden.
-- Es ist NICHT möglich, eine Taproot-Adresse als direkte Auszahlungsadresse festzulegen (es ist nicht möglich Taproot-Adressen zu signieren).
-
+- Ja, du kannst an Taproot-Adressen von der Peach Wallet aus senden.
+- Du kannst auch direkt vom Treuhandkonto auf deine externe Taproot-Adresse empfangen.
 :::
 
 :::details Wie kann ich mich mit meinem eigenen Node verbinden?
