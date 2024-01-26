@@ -78,3 +78,11 @@ Consulte o nosso [tutorial em vídeo](https://www.youtube.com/watch?v=xtvq2i3mIY
 Se estiver usando o Umbrel, você pode usar umbrel.{número da porta} em vez do IP do seu nó.
 
 :::
+
+:::details O que é controle de moedas?
+
+A carteira Peach suporta o controle de moedas ou a gestão de moedas. O objetivo do controle de moedas é manter suas moedas separadas, se desejar, para gerenciar a privacidade.
+
+Assista ao nosso vídeo explicando o controle de moedas em detalhes: [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
+
+:::

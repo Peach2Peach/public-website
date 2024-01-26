@@ -110,3 +110,10 @@ Si estás utilizando Umbrel, puedes usar umbrel.{número de puerto} en lugar de 
 
 :::
 
+:::details ¿Qué es el control de monedas?
+
+La billetera Peach admite el control de monedas o la gestión de monedas. El objetivo del control de monedas es mantener tus monedas separadas si así lo deseas, para gestionar tu privacidad.
+
+Mira nuestro video explicando el control de monedas en detalle: [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
+
+:::

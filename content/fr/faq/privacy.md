@@ -109,3 +109,12 @@ Consultez notre [tutoriel vidéo](https://www.youtube.com/watch?v=xtvq2i3mIYg) p
 
 Si vous utilisez Umbrel, vous pouvez utiliser umbrel.{numéro de port} à la place de l'adresse IP de votre nœud.
 :::
+
+
+:::details Qu'est-ce que la gestion des coins ?
+
+Le portefeuille Peach prend en charge la gestion des coins ou la gestion des cryptomonnaies. L'objectif de la gestion des coins est de garder vos coins séparés si vous le souhaitez, pour gérer votre vie privée.
+
+Regardez notre vidéo expliquant la gestion des coins en détail : [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
+
+:::

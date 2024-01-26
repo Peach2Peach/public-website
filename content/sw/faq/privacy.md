@@ -104,3 +104,12 @@ Tazama [mafunzo yetu ya video](https://www.youtube.com/watch?v=xtvq2i3mIYg) kuji
 Ikiwa unatumia Umbrel, unaweza kutumia umbrel.{namba ya mlango} badala ya anwani ya IP ya unapoonyesha wako.
 
 :::
+
+
+:::details Nini ni udhibiti wa sarafu?
+
+Peach Wallet inasaidia udhibiti wa sarafu au usimamizi wa sarafu. Lengo la udhibiti wa sarafu ni kuweka sarafu zako mbali mbali ikiwa unataka hivyo, kwa ajili ya usimamizi wa faragha.
+
+Tazama video yetu inayoelezea udhibiti wa sarafu kwa undani: [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
+
+:::

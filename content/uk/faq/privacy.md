@@ -77,3 +77,12 @@ gpg: Гарний підпис від "hello@peachbitcoin.com <hello@peachbitcoi
 Якщо ви використовуєте Umbrel, ви можете використовувати umbrel.{номер порту} замість IP-адреси вашого вузла.
 
 :::
+
+
+::: Was ist Coin Control?
+
+Die Peach Wallet unterstützt Coin Control oder das Coin-Management. Das Ziel von Coin Control ist es, deine Münzen getrennt zu halten, wenn du das möchtest, um die Privatsphäre zu verwalten.
+
+Sieh dir unser Video an, das Coin Control im Detail erklärt: [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
+
+:::

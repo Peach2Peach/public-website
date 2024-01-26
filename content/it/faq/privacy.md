@@ -110,3 +110,12 @@ Guarda il nostro [tutorial video](https://www.youtube.com/watch?v=xtvq2i3mIYg) p
 Se stai usando Umbrel, puoi utilizzare umbrel.{numero di porta} al posto dell'IP del tuo nodo.
 
 :::
+
+
+:::details Cos'è il controllo delle monete?
+
+Il portafoglio Peach supporta il controllo delle monete o la gestione delle monete. L'obiettivo del controllo delle monete è mantenere le tue monete separate se lo desideri, per gestire la privacy.
+
+Guarda il nostro video che spiega il controllo delle monete in dettaglio: [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
+
+:::

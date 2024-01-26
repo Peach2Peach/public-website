@@ -90,3 +90,11 @@ PIN/Password protection is planned as well.
 In any case, we advice you to move your funds to cold storage (a hardware wallet such as the [Bitbox 02](https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc "https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc")) which has much stronger security guarantees.
 
 :::
+
+:::details What is coin control?
+
+Peach wallet support coin control or coin management. The goal of coin control is to keep your coins separated if you wish so, for privacy management.
+
+Watch our video explaining coin control in detail: [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
+
+:::
