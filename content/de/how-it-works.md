@@ -29,7 +29,7 @@ Lade die App gratis herunter und starte sofort zuHandeln! Wir werden nicht nach 
 <!--[payment_methods]-->
 ### Unterstützte Zahlungsmethoden
 
-Es gibt eine Vielzahl von Zahlungsmethoden, aus denen Sie wählen können.<br>
+Es gibt eine Vielzahl von Zahlungsmethoden, aus denen du wählen kannst.<br>
 
 #### Unterstützte Währungen
 
@@ -81,10 +81,10 @@ Es gibt eine Vielzahl von Zahlungsmethoden, aus denen Sie wählen können.<br>
 :::
 um **ALLE UNSERE ZAHLUNGSMETHODEN** zu entdecken!
 
-Wenn es eine andere Zahlungsmethode gibt, die Sie nutzen möchten, aber nicht aufgeführt ist, lassen Sie es uns wissen, indem Sie
+Wenn es eine andere Zahlungsmethode gibt, die du nutzen möchtest, aber nicht aufgeführt ist, lasse es es uns wissen, indem du
 <br>
 
-**[DIESES FORMULAR](https://ncxldazr6m4.typeform.com/to/SJljDnae)** ausfüllen!
+**[DIESES FORMULAR](https://ncxldazr6m4.typeform.com/to/SJljDnae)** ausfüllst!
 
 
 <!--[self-custody]-->

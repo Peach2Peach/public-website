@@ -69,11 +69,11 @@ Peach ist ein zu 100 % konformes Unternehmen. Wir sind ein angemeldeter Schweize
 :::details Warum ist meine Transaktion aus meiner Brieftasche verschwunden?
 
 Unbestätigte Transaktionen, deren Gebühren zu niedrig angesetzt oder zu alt sind, können von Knoten im Bitcoin-Netzwerk vergessen werden.
-Wenn Ihnen dies nach dem Kauf von Bitcoin auf Peach passiert ist, können Sie das In-App-Kontaktformular verwenden, um Hilfe zu erhalten. Vergewissern Sie sich, dass Sie die zugehörige Handels-ID angeben.
+Wenn dir dies nach dem Kauf von Bitcoin auf Peach passiert ist, kannst du das In-App-Kontaktformular verwenden, um Hilfe zu erhalten. Vergewissere dich, dass du die zugehörige Handels-ID angibst.
 
-Um diese Situation zu vermeiden, stellen Sie sicher, dass Sie Ihre Gebühren in ausreichender Höhe festlegen. Wenn Sie sich nicht sicher sind, können Sie einen automatischen Gebührensatz wählen, der sich an die aktuelle Gebührensituation anpasst.
-Wenn Sie befürchten, dass eine Transaktion gelöscht wird, können Sie die Gebühren je nach Situation durch die Verwendung von RBF oder CPFP anheben.
+Um diese Situation zu vermeiden, stelle sicher, dass du deine Gebühren in ausreichender Höhe festlegst. Wenn du dich nicht sicher bist, kannst du einen automatischen Gebührensatz wählen, der sich an die aktuelle Gebührensituation anpasst.
+Wenn du befürchtest, dass eine Transaktion gelöscht wird, kannst du die Gebühren je nach Situation durch die Verwendung von RBF oder CPFP anheben.
 
-Wenn Sie mehr darüber erfahren möchten, wie Sie Transaktionen beschleunigen können, sehen Sie sich unser Youtube-Video an, in dem Peach erklärt, wie man eine CPFP durchführt: https://www.youtube.com/watch?v=24OtQkL0CxU
+Wenn du mehr darüber erfahren möchtest, wie du Transaktionen beschleunigen kannst, sehe dir unser Youtube-Video an, in dem Peach erklärt, wie man eine CPFP durchführt: https://www.youtube.com/watch?v=24OtQkL0CxU
 
 :::

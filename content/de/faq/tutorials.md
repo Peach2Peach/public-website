@@ -1,6 +1,6 @@
 # Anleitungen
 
-Schauen Sie sich die Peach-Anleitungen unten an!
+Schaue dir die Peach-Anleitungen unten an!
 
 [![Wie man sich in der Peach-App mit Ihrem eigenen Knoten verbindet](https://img.youtube.com/vi/xtvq2i3mIYg/0.jpg)](https://www.youtube.com/watch?v=xtvq2i3mIYg)
 
