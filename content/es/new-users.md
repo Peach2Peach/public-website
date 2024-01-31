@@ -1,19 +1,12 @@
 # Para nuevos usuarios
 ## ¡Gana recompensas en Bitcoin!
 
-Si aún no tienes un código de referencia, puedes comenzar a usar la aplicación con el código: **PEACH**
-
 ## Ventajas
 ::::figures 2
 
 :::box tech-peach
 ### Para compradores
 ¡Una compra sin comisiones!
-:::
-
-:::box tech-peach
-### Para vendedores
-¡Satsback en cada venta!
 :::
 
 ::::

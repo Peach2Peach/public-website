@@ -30,14 +30,6 @@ template: index
 # A maneira mais fácil de comprar e vender Bitcoin P2P
 <br>
 
-### Use o código de referência PEACH para obter
-
-**1 trade de compra grátis** e **Satsback em cada trade de venda**
-
-:::buttons
-[Obtenha 1 trade grátis](https://peachbitcoin.com/referral/?code=PEACH)
-:::
-<br><br>
 ## O que é o Peach?
 
 O Peach é um aplicativo móvel que **conecta** diretamente compradores e vendedores de Bitcoin.

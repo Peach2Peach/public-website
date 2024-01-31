@@ -31,15 +31,6 @@ template: index
 # Njia rahisi zaidi ya Kununua na Kuuza Bitcoin P2P
 <br>
 
-### Tumia nambari ya rufaa PEACH ili kupata
-
-**Kubadilishana kununua bure 1** na **Satsback kwa kila kubadilishana kuuza**
-
-:::buttons
-[Pata kubadilishana bure 1](https://peachbitcoin.com/referral/?code=PEACH)
-:::
-<br><br>
-
 ## Peach Ni Nini?
 
 Peach ni programu ya rununu inayowakutanisha wauzaji na wanunuzi wa Bitcoin moja kwa moja.
