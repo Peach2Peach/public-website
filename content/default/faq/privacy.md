@@ -29,17 +29,17 @@ Follow this steps to verify that the APK you downloaded is the real Peach APK:
 
 - Download the APK you want to install from the website, as well as the signature and manifest (everything can be found in https://peachbitcoin.com/apk)
 
-- Download Peach PGP key https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2 (can be found in our website also)
+- Download Peach PGP key https://keys.openpgp.org/vks/v1/by-fingerprint/E970EDB410C8E84198F141584AD3CE3043D8CD1B (can be found in our website also)
 
 - Generate the checksum of the APK file you’ve downloaded and compare them with the checksum on the manifest.
 ````
 sha256sum app-prod-arm64-v8a-release.apk
 ````
-(substitute app-prod-arm64-v8a-release.apk for the name of your file). It should be the same one than on the manifest. Otherwise contact us and make sure you don’t install that application in your device. In this example, you should see the following output:
+(substitute app-prod-arm64-v8a-release.apk for the name of your file). It should be the same one as on the manifest. Otherwise contact us and make sure you don’t install that application in your device. In this example, you should see the following output:
 ```
 $ sha256sum app-prod-arm64-v8a-release.apk
 
-802450713cb2183e7904ad58813effabf007d518d4467461c3928625e453942c  app-prod-arm64-v8a-release.apk
+09e4e2db837b2a2aef3a51527ef24fae22cff2b7e2ecd4ca01502c8a61961584  app-prod-arm64-v8a-release.apk
 ```
 If we compare it to the one found in the manifest-peach.txt we can see it is the same one.
 
@@ -47,7 +47,7 @@ If we compare it to the one found in the manifest-peach.txt we can see it is the
 ```
 gpg --import PGP-peach.asc
 ```
-(make sure to substitute PGP-peach.asc for the correct file name, usually it will be 48339A19645E2E53488E0E5479E1B270FACD1BD2.asc)
+(make sure to substitute PGP-peach.asc for the correct file name, usually it will be E970EDB410C8E84198F141584AD3CE3043D8CD1B.asc)
 
 - Verify the signatures that you previously downloaded with the following command:
 ```

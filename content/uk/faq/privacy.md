@@ -29,7 +29,7 @@
 
 - Завантажте APK, який ви хочете встановити з веб-сайту, а також підпис і маніфест (все можна знайти на https://peachbitcoin.com/apk).
 
-- Завантажте ключ Peach PGP https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2 (також можна знайти на нашому веб-сайті).
+- Завантажте ключ Peach PGP https://keys.openpgp.org/vks/v1/by-fingerprint/E970EDB410C8E84198F141584AD3CE3043D8CD1B (також можна знайти на нашому веб-сайті).
 
 - Згенеруйте контрольну суму файлу APK, який ви завантажили, і порівняйте їх з контрольною сумою в маніфесті.
 ```
@@ -39,7 +39,7 @@ sha256sum app-prod-arm64-v8a-release.apk
 ```
 $ sha256sum app-prod-arm64-v8a-release.apk
 
-802450713cb2183e7904ad58813effabf007d518d4467461c3928625e453942c  app-prod-arm64-v8a-release.apk
+09e4e2db837b2a2aef3a51527ef24fae22cff2b7e2ecd4ca01502c8a61961584  app-prod-arm64-v8a-release.apk
 ```
 Якщо ми порівняємо це з тим, що знайдено в маніфесті-peach.txt, ми побачимо, що це та сама контрольна сума.
 
@@ -47,7 +47,7 @@ $ sha256sum app-prod-arm64-v8a-release.apk
 ```
 gpg --import PGP-peach.asc
 ```
-(переконайтеся, що замінили PGP-peach.asc на правильне ім'я файлу, зазвичай це буде 48339A19645E2E53488E0E5479E1B270FACD1BD2.asc)
+(переконайтеся, що замінили PGP-peach.asc на правильне ім'я файлу, зазвичай це буде E970EDB410C8E84198F141584AD3CE3043D8CD1B.asc)
 
 - Перевірте підписи, які ви завантажили раніше, за допомогою наступної команди:
 ```

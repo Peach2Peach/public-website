@@ -28,7 +28,7 @@ Fuata hatua hizi kuthibitisha kuwa APK uliyoipakua ni APK halisi ya Peach:
 
 - Pakua APK unayotaka kusakinisha kutoka kwenye wavuti, pamoja na sahihi na mfumo wa maelezo (kila kitu kinaweza kupatikana hapa: https://peachbitcoin.com/apk)
 
-- Pakua funguo ya PGP ya Peach hapa: https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2 (pia inaweza kupatikana kwenye wavuti yetu)
+- Pakua funguo ya PGP ya Peach hapa: https://keys.openpgp.org/vks/v1/by-fingerprint/E970EDB410C8E84198F141584AD3CE3043D8CD1B (pia inaweza kupatikana kwenye wavuti yetu)
 
 - Tengeneza hash ya faili ya APK uliyopakua na uilinganishe na hash kwenye mfumo wa maelezo.
 ````
@@ -38,7 +38,7 @@ sha256sum app-prod-arm64-v8a-release.apk
 ```
 $ sha256sum app-prod-arm64-v8a-release.apk
 
-802450713cb2183e7904ad58813effabf007d518d4467461c3928625e453942c  app-prod-arm64-v8a-release.apk
+09e4e2db837b2a2aef3a51527ef24fae22cff2b7e2ecd4ca01502c8a61961584  app-prod-arm64-v8a-release.apk
 ```
 Ikiwa tulinganishe na ile kwenye "manifest-peach.txt" tunaweza kuona kuwa ni ileile.
 
@@ -46,7 +46,7 @@ Ikiwa tulinganishe na ile kwenye "manifest-peach.txt" tunaweza kuona kuwa ni ile
 ```
 gpg --import PGP-peach.asc
 ```
-(hakikisha kubadilisha "PGP-peach.asc" kwa jina sahihi la faili, kawaida itakuwa "48339A19645E2E53488E0E5479E1B270FACD1BD2.asc")
+(hakikisha kubadilisha "PGP-peach.asc" kwa jina sahihi la faili, kawaida itakuwa "E970EDB410C8E84198F141584AD3CE3043D8CD1B.asc")
 
 - Thibitisha sahihi ulizopakua hapo awali kwa kutumia amri ifuatayo:
 ```
