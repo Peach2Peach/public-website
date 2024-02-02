@@ -34,7 +34,7 @@ Befolgen diese Schritte um zu überprüfen ob es sich bei der heruntergeladenen 
 ```
 sha256sum app-prod-arm64-v8a-release.apk
 ```
-(Ersetze den Namen der Datei durch app-prod-arm64-v8a-release.apk.) Er sollte derselbe sein wie im Manifest. Andernfalls kontaktiere uns und stelle sicher dass du diese Anwendung nicht auf Gerät installierst. In diesem Beispiel solltest du folgende Ausgabe sehen:
+(Ersetze den Namen der Datei durch app-prod-arm64-v8a-release.apk.) Er sollte derselbe sein wie im Manifest. Andernfalls kontaktiere uns und stelle sicher dass du diese Anwendung nicht auf das Gerät installierst. In diesem Beispiel solltest du folgende Ausgabe sehen:
 ```
 $ sha256sum app-prod-arm64-v8a-release.apk
 
