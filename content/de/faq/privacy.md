@@ -28,17 +28,17 @@ Befolgen diese Schritte um zu überprüfen ob es sich bei der heruntergeladenen 
 
 - Lade die APK welche du installieren möchtest sowie die Signatur und das Manifest (alles findest du unter https://peachbitcoin.com/de/apk) herunter.
 
-- Lade den Peach PGP-Schlüssel herunter: https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2 (auch auf unserer Website)
+- Lade den Peach PGP-Schlüssel herunter: https://keys.openpgp.org/vks/v1/by-fingerprint/E970EDB410C8E84198F141584AD3CE3043D8CD1B (auch auf unserer Website)
 
 - Generiere die Prüfsumme der heruntergeladenen APK-Datei und vergleiche sie mit der Prüfsumme im Manifest.
 ```
 sha256sum app-prod-arm64-v8a-release.apk
 ```
-(Ersetze den Namen der Datei durch app-prod-arm64-v8a-release.apk.) Er sollte detselbe sein wie im Manifest. Andernfalls kontaktiere uns und stelle sicher dass du diese Anwendung nicht auf Gerät installiererst. In diesem Beispiel solltest du folgende Ausgabe sehen:
+(Ersetze den Namen der Datei durch app-prod-arm64-v8a-release.apk.) Er sollte derselbe sein wie im Manifest. Andernfalls kontaktiere uns und stelle sicher dass du diese Anwendung nicht auf Gerät installierst. In diesem Beispiel solltest du folgende Ausgabe sehen:
 ```
 $ sha256sum app-prod-arm64-v8a-release.apk
 
-802450713cb2183e7904ad58813effabf007d518d4467461c3928625e453942c app-prod-arm64-v8a-release.apk
+09e4e2db837b2a2aef3a51527ef24fae22cff2b7e2ecd4ca01502c8a61961584 app-prod-arm64-v8a-release.apk
 ```
 Wenn wir sie mit dem im manifest-peach.txt gefundenen vergleichen sehen wir dass es dieselbe ist.
 
@@ -46,7 +46,7 @@ Wenn wir sie mit dem im manifest-peach.txt gefundenen vergleichen sehen wir dass
 ```
 gpg --import PGP-peach.asc
 ```
-(Stelle sicher dass du PGP-peach.asc durch den korrekten Dateinamen ersetzt. Normalerweise lautet dieser 48339A19645E2E53488E0E5479E1B270FACD1BD2.asc.)
+(Stelle sicher dass du PGP-peach.asc durch den korrekten Dateinamen ersetzt. Normalerweise lautet dieser E970EDB410C8E84198F141584AD3CE3043D8CD1B.asc.)
 
 - Überprüfe die Signaturen welche du zuvor heruntergeladen hast mit dem folgenden Befehl:
 ```

@@ -34,7 +34,7 @@ Siga estos pasos para verificar que el APK que descargó es el APK real de Peach
 
 - Descargue el APK que desea instalar desde el sitio web, así como la firma y el manifiesto (todo se puede encontrar en https://peachbitcoin.com/apk)
 
-- Descargue la clave PGP de Peach https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2 (también se puede encontrar en nuestro sitio web)
+- Descargue la clave PGP de Peach https://keys.openpgp.org/vks/v1/by-fingerprint/E970EDB410C8E84198F141584AD3CE3043D8CD1B (también se puede encontrar en nuestro sitio web)
 
 - Genere el hash del archivo APK que ha descargado y comparelos con el hash en el manifiesto.
 ```
@@ -43,7 +43,7 @@ sha256sum app-prod-arm64-v8a-release.apk
 (sustituya app-prod-arm64-v8a-release.apk por el nombre de su archivo). Debería ser el mismo que en el manifiesto. De lo contrario, contáctenos y asegúrese de no instalar esa aplicación en su dispositivo. En este ejemplo, debería ver la siguiente salida:
 ```
 $ sha256sum app-prod-arm64-v8a-release.apk
-802450713cb2183e7904ad58813effabf007d518d4467461c3928625e453942c  app-prod-arm64-v8a-release.apk
+09e4e2db837b2a2aef3a51527ef24fae22cff2b7e2ecd4ca01502c8a61961584  app-prod-arm64-v8a-release.apk
 ```
 Si lo comparamos con el que se encuentra en manifest-peach.txt, podemos ver que es el mismo.
 
@@ -51,7 +51,7 @@ Si lo comparamos con el que se encuentra en manifest-peach.txt, podemos ver que 
 ```
 gpg --import PGP-peach.asc
 ```
-(asegúrese de sustituir PGP-peach.asc por el nombre de archivo correcto, por lo general será 48339A19645E2E53488E0E5479E1B270FACD1BD2.asc)
+(asegúrese de sustituir PGP-peach.asc por el nombre de archivo correcto, por lo general será E970EDB410C8E84198F141584AD3CE3043D8CD1B.asc)
 
 - Verifica las firmas que descargaste previamente con el siguiente comando:
 ```
