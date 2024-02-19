@@ -826,5 +826,11 @@
     "url": "https://t.me/BitcoinAlgarve",
     "longitude": -8.537693,
     "latitude": 37.136170
+  },
+  {
+    "name": "Oeste Bitcoin Maxi",
+    "url": "https://t.me/OesteBitcoinMeetUp",
+    "longitude": -8.224454,
+    "latitude": 39.399872
   }
 ]
