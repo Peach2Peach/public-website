@@ -15,9 +15,9 @@ gtag('config', 'G-TBTST1GYXK');</script></head><body id="blog-group-hug"><header
 <div class="columns columns--2">
 <figure><img src="/img/blog/group-hug/like-clockwork.png" alt=""></figure>
 <blockquote>
-<p>"It seems we're not quite there yet, but no worries. Patience is key. I've got a 12-hour window, and after that, I'll take whoever's on board, no matter how many. Keep that magic number in mind."</p>
+<p>"It seems we're not quite there yet, but no worries. Patience is key. I've got a 12-hour window, and after that, I'll take whoever's on board, no matter how many. Keep that magic number in mind."
+:::</p>
 </blockquote>
-</div>
 <p>As time unfolds, the crowd swells, meeting the coveted count of 30 or more. The bus driver's voice rises again:</p>
 <blockquote>
 <p>"Well, well, well! Looks like we've got ourselves a fantastic crew now. If you're up for some excitement, hop aboard. Our destination: the mempool. Let's make this journey one to remember!"</p>
@@ -37,7 +37,7 @@ gtag('config', 'G-TBTST1GYXK');</script></head><body id="blog-group-hug"><header
 <p>Out of this need the idea of batching transactions out of the escrows arose. The biggest nut to crack however was coordination.</p>
 <p>We looked at different collaborative transaction protocols such as <a href="https://github.com/zkSNACKs/WabiSabi/blob/master/explainer.md?ref=blog.wasabiwallet.io">WabiSabi</a> and <a href="https://www.samouraiwallet.com/whirlpool">Whirlpool</a>. However, they required the user (the seller in this case) to stay online to craft and sign a release transaction with other users.</p>
 <p>This can be tricky, especially for mobile applications that can experience spotty internet connection. It is also an incentive problem, once the seller got their money, they have no need to help the buyer save on fees.</p>
-<p>So we found this pattern that requires the seller to only do one thing:  sign a valid PSBT once and send it to GroupHug. The server will take it from there and the seller can enjoy the fiat money.</p>
+<p>So we found this pattern that requires the seller to only do one thing: sign a valid PSBT once and send it to GroupHug. The server will take it from there and the seller can enjoy the fiat money.</p>
 <h1 id="how-does-a-grouphug-look-like">How does a GroupHug look like</h1>
 <blockquote>
 <p>It's not a coinjoin - it's a batch</p>
@@ -46,6 +46,7 @@ gtag('config', 'G-TBTST1GYXK');</script></head><body id="blog-group-hug"><header
 <p>Here's an <a href="https://mempool.space/testnet/tx/ebe6d49e0bb65bb040306c03094bb68dfddf7986c142c37a5510fa218e15576c">example of a GroupHug transaction</a>. At first glance it seems to be a coinjoin. But indeed, if you dig a bit deeper you'd recognize that each input corresponds to the output at the same position. So unfortunately there are no privacy benefits.
 You do however save on fees, and that's already a good thing!</p>
 <figure><img src="/img/blog/group-hug/group-hug-transaction.png" alt=""></figure>
+</div>
 </div>
 <h1 id="how-to-participate-in-grouphug-within-peach">How to participate in GroupHug within peach</h1>
 <p>As of right now GroupHug is only usable when buying bitcoin, to enable it do the following steps:</p>
