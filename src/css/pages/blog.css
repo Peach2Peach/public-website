@@ -22,10 +22,10 @@
     flex-basis: 100%;
   }
   @media (--S_to_L) {
-    flex-basis: calc(50% - (var(--space-l)/2));
+    flex-basis: calc(50% - (var(--space-l) / 2));
   }
   @media (--L_and_up) {
-    flex-basis: calc(33.333% - (var(--space-l)/1.5));
+    flex-basis: calc(33.333% - (var(--space-l) / 1.5));
   }
 
   & header {
@@ -77,7 +77,7 @@
   }
 }
 
-[id^="blog"] {
+[id^='blog'] {
   .figures {
     width: 100%;
     margin-left: 0;
@@ -90,7 +90,7 @@
     }
   }
 
-  & figure  {
+  & figure {
     text-align: left;
 
     & img {

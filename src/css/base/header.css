@@ -40,10 +40,12 @@
 
   /* blur effect on home */
   @nest body.with-teaser > &:not(.topbar) {
-    background-image: radial-gradient(110.76% 117.21% at 100% 0%,
-      rgba(255, 162, 76, var(--alpha-gradient-peachy, .5)) 0%,
-      rgba(255, 122, 80, var(--alpha-gradient-peachy, .75)) 50.25%,
-      var(--color-peach) 100%);
+    background-image: radial-gradient(
+      110.76% 117.21% at 100% 0%,
+      rgba(255, 162, 76, var(--alpha-gradient-peachy, 0.5)) 0%,
+      rgba(255, 122, 80, var(--alpha-gradient-peachy, 0.75)) 50.25%,
+      var(--color-peach) 100%
+    );
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
     backdrop-filter: blur(var(--space-xs));
@@ -88,7 +90,7 @@
     width: 100vw;
     overflow-y: scroll;
     flex-direction: column;
-    background: rgba(var(--color-bg-main-rgb), .7);
+    background: rgba(var(--color-bg-main-rgb), 0.7);
     transition: left var(--transition-duration-medium) ease-in-out;
     backdrop-filter: blur(var(--space-xs));
 

@@ -1,4 +1,4 @@
-[id*="how-it-works"] {
+[id*='how-it-works'] {
   .teaser {
     & figure {
       margin-top: auto;
@@ -142,6 +142,6 @@
   }
 
   #questions {
-    margin-bottom: var(--space-xxl)
+    margin-bottom: var(--space-xxl);
   }
 }

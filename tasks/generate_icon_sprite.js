@@ -4,7 +4,7 @@ const { globSync } = require('glob')
 const svgstore = require('svgstore')
 
 const dir = resolve(__dirname, '../src/icons')
-const dstSprite = resolve(__dirname,'../dist/img/icons.svg')
+const dstSprite = resolve(__dirname, '../dist/img/icons.svg')
 const slugify = str => str.toLowerCase().replace(/\W/gi, '-')
 
 const svgs = globSync(join(dir, '**/*.svg'))
@@ -13,8 +13,8 @@ const sprite = svgstore({
   cleanSymbols: true,
   renameDefs: true,
   symbolAttrs: {
-    fill: 'none'
-  }
+    fill: 'none',
+  },
 })
 
 svgs.forEach(svg => {
@@ -23,4 +23,12 @@ svgs.forEach(svg => {
   sprite.add(id, readFileSync(svg, 'utf8'))
 })
 
-writeFileSync(dstSprite, sprite.toString().replace(/\n/g, '').replace(/<symbol /g, '\n<symbol ').replace('<svg ', '\n<svg ').replace('</svg', '\n</svg'))
+writeFileSync(
+  dstSprite,
+  sprite
+    .toString()
+    .replace(/\n/g, '')
+    .replace(/<symbol /g, '\n<symbol ')
+    .replace('<svg ', '\n<svg ')
+    .replace('</svg', '\n</svg'),
+)

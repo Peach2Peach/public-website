@@ -1,6 +1,6 @@
-[id*="referral"] {
+[id*='referral'] {
   #main {
-    padding-top: 0
+    padding-top: 0;
   }
 
   #referral-code {
@@ -82,5 +82,4 @@
       }
     }
   }
-
 }

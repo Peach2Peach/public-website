@@ -7,20 +7,23 @@ The official [Peach](https://peachbitcoin.com) website.
 The content can be edited via the Markdown and JSON files in the [content](./content/default) and [blog](./default/blog) directories.
 
 Every Markdown file is a page and contains the content for that particular page.
-The file name is the path it will appear on on the website: `faq/account.md` ->  `/faq/account/`
+The file name is the path it will appear on on the website: `faq/account.md` -> `/faq/account/`
 
 The Markdown files con contain so called frontmatter, which allows to add data to that page.
 This is used to e.g. reference a special `template`, list `keywords` or associate a `teaserImage` with that page.
 
 ### Translations
+
 There are two ways translations need to maintained
 
 #### 1. Content
+
 The [content](./content/default) folder contains sub folders for each locale.
 The `default` locale is used for english and respectively additional languages use different locale folder (e.g. `es`).
 Each subfolder then contains the content in the respective language.
 
 #### 2. Texts inside templates
+
 Templates are separate from content as they execute logic to create dynamic content.
 To translate texts in templates a helper function is being used:
 
@@ -52,11 +55,11 @@ Those blocks are for layout purposes and wrap the content into containers which 
 These blocks start and end with at least three colons `:::` and can be nested by incrementing the number of colons to the outside:
 
 ```md
-::::figures 3     // starts the figures block
+::::figures 3 // starts the figures block
 :::box tech-peach // starts the box block
 Actual content
-:::               // ends the box block
-::::              // ends the figures block
+::: // ends the box block
+:::: // ends the figures block
 ```
 
 #### Example Job Description

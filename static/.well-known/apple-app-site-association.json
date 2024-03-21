@@ -1,19 +1,14 @@
 {
   "applinks": {
     "apps": [],
-    "details": [{
+    "details": [
+      {
         "appID": "6G5FFY3H35.com.peachbitcoin.peach.mainnet",
-        "paths": [
-          "NOT /_/*",
-          "/*"
-        ]
+        "paths": ["NOT /_/*", "/*"]
       },
       {
         "appID": "6G5FFY3H35.com.peachbitcoin.peach",
-        "paths": [
-          "NOT /_/*",
-          "/*"
-        ]
+        "paths": ["NOT /_/*", "/*"]
       }
     ]
   }

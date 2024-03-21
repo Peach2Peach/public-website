@@ -5,6 +5,6 @@ module.exports = {
     require('postcss-import'),
     require('postcss-nesting'),
     require('postcss-custom-media'),
-    require('postcss-calc')
+    require('postcss-calc'),
   ],
 }

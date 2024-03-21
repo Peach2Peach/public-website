@@ -81,16 +81,19 @@ Sarafu zenye mfumuko wa bei mkubwa hukumbwa na utulivu mkubwa, kwa hivyo bei una
 Inategemea aina gani ya shughuli tunazungumza. Hapa kuna orodha ya shughuli zote zinazoweza kutokea kwa Peach na suluhisho lao kuboresha ada:
 
 1. Shughuli ya kuweka dhamana ili kuchapisha ofa ya kuuza
+
 - Ikiwa ulifadhili dhamana kutoka kwa mkoba wa Peach, unaweza kubadilisha ada kwenye shughuli na kuongeza ada ya mtandao
 - Ikiwa ulifadhili dhamana kutoka kwa mkoba wa nje, unahitaji kuangalia ikiwa mkoba unasaidia RBF (Badilisha kwa Kibali) kuongeza ada ya mtandao.
 
 2. Shughuli ya kutolewa kutoka kwa dhamana (ununuzi wa Bitcoin)
+
 - Ikiwa anwani yako ya kupokea ni kutoka kwa mkoba wa Peach, basi unaweza kutoa kiasi kamili kwa mkoba wako wa nje na ada kubwa (Mipangilio > Ada ya Mtandao) - Mbinu ya CPFP
 - Ikiwa anwani yako ya kupokea ni kutoka kwa mkoba wa nje, unaweza pia kutumia mbinu ya CPFP ikiwa inasaidiwa na mkoba wako
 
 3. Shughuli ya kutuma kutoka kwa mkoba wa Peach kwenda kwa mkoba mwingine
+
 - RBF (Badilisha kwa Kibali) kutoka kwa Mkoba wa Peach kwenye maelezo yako ya shughuli!
-:::
+  :::
 
 :::details What is GroupHug?
 GroupHug ni jina tu ambalo tumetoa kwa hatua ya kuweka pamoja shughuli kutoka kwa watumiaji tofauti ili kuepuka ada kwa kila mmoja wao. Kwa maelezo zaidi, angalia [chapisho letu la blogi](https://peachbitcoin.com/blog/group-hug).

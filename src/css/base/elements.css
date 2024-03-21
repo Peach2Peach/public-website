@@ -60,7 +60,9 @@ h3 {
   line-height: 1.175;
 }
 
-h4, h5, h6 {
+h4,
+h5,
+h6 {
   font-size: var(--font-size-base);
   margin-bottom: var(--space-xs);
   line-height: 1.175;
@@ -93,7 +95,10 @@ ol {
   margin-bottom: var(--space-m);
 }
 
-p, ul, figure, .note {
+p,
+ul,
+figure,
+.note {
   margin-bottom: var(--space-m);
 
   @nest ul li > &:last-child {
@@ -165,7 +170,7 @@ img:-moz-loading {
   visibility: hidden;
 }
 
-[aria-hidden="true"] {
+[aria-hidden='true'] {
   display: none;
 }
 
@@ -198,7 +203,7 @@ form {
 
       & input {
         position: relative;
-        top: -.15rem;
+        top: -0.15rem;
       }
     }
   }
@@ -208,11 +213,11 @@ form {
     margin-bottom: var(--space-xxs);
   }
 
-  & input[type="text"] {
+  & input[type='text'] {
     width: 100%;
   }
 
-  & input[type="checkbox"] {
+  & input[type='checkbox'] {
     width: var(--space-s);
     height: var(--space-s);
     padding: var(--space-s);
@@ -238,7 +243,7 @@ details {
     &::marker,
     &::-webkit-details-marker {
       display: none;
-      content: "";
+      content: '';
     }
 
     .title {
@@ -273,7 +278,7 @@ details[open] article {
 @keyframes animateDown {
   0% {
     opacity: 0;
-    transform: translatey(-.5rem);
+    transform: translatey(-0.5rem);
   }
   100% {
     opacity: 1;
@@ -348,7 +353,8 @@ details[open] article {
     margin-left: -100px;
   }
 
-  & > figure, div {
+  & > figure,
+  div {
     flex: 0 1 380px;
     margin: 0;
 
@@ -367,7 +373,8 @@ details[open] article {
   }
 
   &.figures--3 {
-    & > figure, div {
+    & > figure,
+    div {
       @media (--S_to_M) {
         flex-basis: calc(50% - var(--space-xl));
       }
@@ -378,7 +385,8 @@ details[open] article {
   &.figures--3,
   &.figures--5,
   &.figures--7 {
-    & figure, div {
+    & figure,
+    div {
       @media (--M_and_up) {
         flex-basis: calc(33% - var(--space-xl));
       }
@@ -401,16 +409,17 @@ details[open] article {
   gap: var(--space-l) var(--space-xl);
   margin-bottom: var(--space-xl);
 
-  & > figure, div, p {
+  & > figure,
+  div,
+  p {
     width: 100%;
     flex-shrink: 1;
     margin: 0;
   }
 
-
   & img {
     padding: var(--space-xxs);
-    width: 100%
+    width: 100%;
   }
 }
 
@@ -426,10 +435,10 @@ details[open] article {
   outline: none;
   padding: var(--space-s) var(--space-m) var(--space-s) 1.75rem;
 
-  & [role="img"] {
+  & [role='img'] {
     position: absolute;
     left: calc(var(--icon-size) / 2 * -1);
-    top: .55rem;
+    top: 0.55rem;
     background-color: var(--color-white);
     border-radius: var(--space-xs);
     padding: var(--space-xxs) 0;
@@ -445,13 +454,13 @@ details[open] article {
   }
 }
 
-[role="img"] {
+[role='img'] {
   width: var(--icon-size, 1rem);
   height: var(--icon-size, 1rem);
 }
 
 main {
-  & figure  {
+  & figure {
     text-align: center;
   }
 
@@ -485,7 +494,7 @@ blockquote {
 
 blockquote:before {
   color: var(--color-neutral-10);
-  content: "“";
+  content: '“';
   font-size: 5rem;
   line-height: 0;
   margin-right: var(--space-xs);

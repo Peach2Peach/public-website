@@ -8,7 +8,6 @@ const sw = require('./translations/sw.json')
 const pt = require('./translations/pt.json')
 const uk = require('./translations/uk.json')
 
-
 const properties = {
   en,
   es,
@@ -51,7 +50,9 @@ const i18n = (id, locale, ...args) => {
 
   text = text.replace(/\n/gu, '<br/>')
 
-  return (text.match(/ /gu) || []).length >= 4 ? text.replace(/ (?=[^ ]*$)/u, ' ') : text
+  return (text.match(/ /gu) || []).length >= 4
+    ? text.replace(/ (?=[^ ]*$)/u, ' ')
+    : text
 }
 
 module.exports = i18n

@@ -21,7 +21,7 @@
     }
   }
 
-  &.content-wrap--flex  {
+  &.content-wrap--flex {
     --gap-v: var(--space-l);
     --gap-h: var(--space-xxxl);
     --max-width: none;

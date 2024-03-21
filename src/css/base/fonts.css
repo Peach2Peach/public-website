@@ -3,22 +3,25 @@
   font-family: 'Baloo 2';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/baloo-2-v16-latin-regular.woff2') format('woff2'),
-       url('../fonts/baloo-2-v16-latin-regular.woff') format('woff');
+  src:
+    url('../fonts/baloo-2-v16-latin-regular.woff2') format('woff2'),
+    url('../fonts/baloo-2-v16-latin-regular.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Baloo 2';
   font-style: normal;
   font-weight: 600;
-  src: url('../fonts/baloo-2-v16-latin-600.woff2') format('woff2'),
-       url('../fonts/baloo-2-v16-latin-600.woff') format('woff');
+  src:
+    url('../fonts/baloo-2-v16-latin-600.woff2') format('woff2'),
+    url('../fonts/baloo-2-v16-latin-600.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Baloo 2';
   font-style: normal;
   font-weight: 800;
-  src: url('../fonts/baloo-2-v16-latin-800.woff2') format('woff2'),
-       url('../fonts/baloo-2-v16-latin-800.woff') format('woff');
+  src:
+    url('../fonts/baloo-2-v16-latin-800.woff2') format('woff2'),
+    url('../fonts/baloo-2-v16-latin-800.woff') format('woff');
 }

@@ -3,7 +3,9 @@ const { mkdirSync, readFileSync, writeFileSync } = require('fs')
 const { dirname, resolve } = require('path')
 const config = require('../pug.config')
 
-const { posts, pages, tags } = JSON.parse(readFileSync(resolve(__dirname, '..', 'site-data.json')))
+const { posts, pages, tags } = JSON.parse(
+  readFileSync(resolve(__dirname, '..', 'site-data.json')),
+)
 
 const getDestination = (out, lang) => {
   if (lang === 'en') return out === 'index' ? 'index.html' : `${out}/index.html`

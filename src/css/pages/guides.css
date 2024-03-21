@@ -1,5 +1,5 @@
-[id^="faq-"] {
-  & figure  {
+[id^='faq-'] {
+  & figure {
     & img {
       padding: var(--space-xxs);
       border-radius: var(--space-l);

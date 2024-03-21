@@ -5,7 +5,7 @@ const {
   assetUrl,
   slugify,
   displayDate,
-  IS_DEV
+  IS_DEV,
 } = require('./helpers')
 
 const i18n = require('./i18n')
@@ -19,5 +19,5 @@ module.exports = {
   assetPath,
   slugify,
   displayDate,
-  IS_DEV
+  IS_DEV,
 }

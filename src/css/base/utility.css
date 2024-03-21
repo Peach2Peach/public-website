@@ -1,5 +1,5 @@
 .flex {
-  display: flex
+  display: flex;
 }
 .flex-col {
   flex-direction: column;
@@ -27,7 +27,7 @@
   width: 50%;
 }
 .h-180px {
-  height: 180px
+  height: 180px;
 }
 
 .mt-4 {
@@ -43,7 +43,6 @@
   margin-left: 24px;
 }
 
-
 .text-left {
   text-align: left;
 }
@@ -52,9 +51,9 @@
     margin-left: 16px;
   }
   .md\:flex {
-    display: flex
+    display: flex;
   }
   .md\:h-90px {
-    height: 90px
+    height: 90px;
   }
 }
