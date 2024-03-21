@@ -1,6 +1,7 @@
 # Únete a nosotros
 
 ## Puestos disponibles
+
 <!--
 ::::figures 3
 :::box tech-peach
@@ -30,6 +31,7 @@ Instagram / Tik Tok
 ::::
 ¿Otras habilidades interesantes? ¡Haznos saber!
 -->
+
 Siempre estamos interesados en recibir aplicaciones de talentos excepcionales en ingeniería, diseño de producto y crecimiento. ¡Suscríbete a nuestro boletín o únete a nuestras redes sociales para estar al día de nuestra próxima ola de contrataciones!
 
 [Todo sobre Peach, la empresa](/blog/all-about-peach-the-company/)
@@ -38,17 +40,23 @@ Siempre estamos interesados en recibir aplicaciones de talentos excepcionales en
 
 ::::figures 3
 :::box tech-docker
+
 ### Infraestructura del servidor
+
 Linux, Docker, NodeJS
 :::
 
 :::box tech-react
+
 ### Construyendo la aplicación
+
 React & React Native, BDK
 :::
 
 :::box tech-figma
+
 ### Diseño y conceptualización
+
 Figma
 :::
 ::::

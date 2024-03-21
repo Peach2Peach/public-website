@@ -4,7 +4,7 @@
 
 Nos esforzamos por almacenar la cantidad mínima absoluta de datos de nuestros usuarios. Como resumen rápido, esto es lo que tenemos en nuestros servidores:
 
-- Un hash* del ID de tu teléfono
+- Un hash\* del ID de tu teléfono
 - Un hash de tus datos de pago
 - Tus chats cifrados
 - Los datos de tus transacciones (qué tipo de método de pago estás usando, cuánto estás comprando, etc.)
@@ -37,30 +37,40 @@ Siga estos pasos para verificar que el APK que descargó es el APK real de Peach
 - Descargue la clave PGP de Peach https://keys.openpgp.org/vks/v1/by-fingerprint/E970EDB410C8E84198F141584AD3CE3043D8CD1B (también se puede encontrar en nuestro sitio web)
 
 - Genere el hash del archivo APK que ha descargado y comparelos con el hash en el manifiesto.
+
 ```
 sha256sum app-prod-arm64-v8a-release.apk
 ```
+
 (sustituya app-prod-arm64-v8a-release.apk por el nombre de su archivo). Debería ser el mismo que en el manifiesto. De lo contrario, contáctenos y asegúrese de no instalar esa aplicación en su dispositivo. En este ejemplo, debería ver la siguiente salida:
+
 ```
 $ sha256sum app-prod-arm64-v8a-release.apk
 09e4e2db837b2a2aef3a51527ef24fae22cff2b7e2ecd4ca01502c8a61961584  app-prod-arm64-v8a-release.apk
 ```
+
 Si lo comparamos con el que se encuentra en manifest-peach.txt, podemos ver que es el mismo.
 
 - Agregue la clave de Peach a su llavero
+
 ```
 gpg --import PGP-peach.asc
 ```
+
 (asegúrese de sustituir PGP-peach.asc por el nombre de archivo correcto, por lo general será E970EDB410C8E84198F141584AD3CE3043D8CD1B.asc)
 
 - Verifica las firmas que descargaste previamente con el siguiente comando:
+
 ```
 gpg --verify manifest-peach.sig manifest-peach.txt
 ```
+
 En la salida deberías ver la siguiente línea:
+
 ```
 gpg: Good signature from "hello@peachbitcoin.com <hello@peachbitcoin.com>" [unknown]
 ```
+
 :::
 
 :::details ¿Cómo firmar una dirección externa?
@@ -69,8 +79,9 @@ Sigue estos pasos para firmar la dirección de recepción cuando compras Bitcoin
 _Nota: los primeros 2 pasos son útiles si **siempre** quieres recibir tus fondos en direcciones externas. Si solo quieres hacerlo una vez, o quieres usar la billetera de Peach a veces, comienza desde el paso 3._
 
 1. Ve a Configuración
-  - desactiva la billetera de Peach
-  - ve a dirección de pago
+
+- desactiva la billetera de Peach
+- ve a dirección de pago
 
 2. Pega la nueva dirección de recepción
 
@@ -78,9 +89,10 @@ _Nota: los primeros 2 pasos son útiles si **siempre** quieres recibir tus fondo
 
 4. Una vez que confirmes tu oferta de compra, aparecerá el mensaje para firmar tu dirección. Cópialo y vuelve a tu billetera.
 
-5. Busca la opción "firmar/verificar"* y pega:
-  - tu dirección de recepción
-  - el mensaje de Peach
+5. Busca la opción "firmar/verificar"\* y pega:
+
+- tu dirección de recepción
+- el mensaje de Peach
 
 6. Haz clic en firmar y aparecerá la firma. Cópiala.
 
@@ -88,7 +100,7 @@ _Nota: los primeros 2 pasos son útiles si **siempre** quieres recibir tus fondo
 
 8. Tu oferta se publicará.
 
-_*Aviso: no todas las billeteras admiten la opción de firmar/verificar tu dirección. Peach recomienda usar Blue Wallet, Sparrow o Samourai, ya que todas ofrecen la opción de firmar/verificar._
+_\*Aviso: no todas las billeteras admiten la opción de firmar/verificar tu dirección. Peach recomienda usar Blue Wallet, Sparrow o Samourai, ya que todas ofrecen la opción de firmar/verificar._
 :::
 
 :::details ¿Se admite Taproot?

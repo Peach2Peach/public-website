@@ -43,7 +43,7 @@ Il backup del file può ripristinare l'intero account Peach, in modo da non dove
 - Cronologia delle chat
 - Dati di pagamento
 - Dati di pagamento delle controparti nella cronologia delle transazioni
-:::
+  :::
 
 :::details Come funziona il sistema di affiliazione di Peach?
 

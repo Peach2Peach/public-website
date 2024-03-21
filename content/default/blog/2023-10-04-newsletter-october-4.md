@@ -19,12 +19,14 @@ description: |
   result of his work, his time and energy.
   Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
 ---
+
 # Newsletter October 4
+
 ## Welcome to Hacktober
 
 ![peachy peach bitcoin gif](/img/blog/newsletter/gif-peach.gif)
 
-Hello Peaches! 🍑 
+Hello Peaches! 🍑
 
 As we are entering October, we'd like to start reminding all our subscribers about the long tradition of making this month one of the most profitable for Open Source Development all around the world: #Hacktoberfest
 
@@ -42,7 +44,7 @@ To start with this month's newsletter, we'd like to remark on one thing that we'
 
 We are having a quite big wave of SCAMMERS using PAYPAL. This is why we will apply some rules to only allow seasoned traders in our app with a certain reputation to use this payment method.
 
---- --- ---
+---
 
 Enough with the bad news, let's go with the bright side of things!
 
@@ -62,7 +64,7 @@ The new countries so far gave us such a warm welcome, special thanks to Gloire (
 
 The Bitcoin community is awesome.
 
---- --- ---
+---
 
 Another thing that has been cooking on the back scenes of the app is a branch of our business that we'd like to highlight in this newsletter.
 
@@ -78,10 +80,10 @@ If you'd like to go over the CHF 1k/day, get in touch with us by [clicking here]
 
 We will deeper explain the advantages you can have by leveraging Peach Business services.
 
---- --- ---
+---
 
 #### For investors
- 
+
 Peach has been in this world for a little bit more than 52.560 blocks, and we've now reached more people than we ever thought possible.
 
 But we're not stopping here.
@@ -94,8 +96,7 @@ And we want to do that by draining the casino exchanges until they cannot provid
 
 If you'd like to support us in this mission and give Peach resources to keep expanding all over the world, we'll be gladly open to having a chat with you.
 
-
---- --- ---
+---
 
 ### Market Stats
 
@@ -110,7 +111,6 @@ More and more sellers are entering the market, slowly but steadily. Currently, h
 The more sellers, the more competition, and that can be seen in the **average premium going down 1 full point**.
 
 It is interesting to see that the average amount of sats changes month over month, but the fiat amount keeps being almost the exact same.
-
 
 Avg. BUY offers / day
 150.5
@@ -142,15 +142,15 @@ Average Trade amount
 987 485 sats
 248 CHF
 
-
 Most used Payment Methods
+
 - Revolut
 - Sepa
 - Wise
 - PayPal
 - Twint
 
---- --- ---
+---
 
 To end this little rant, I'd like to leave down here one last link, pointing to one of the most special blog posts we've written so far. This one talks about the experiences of the Peach team members during the last year, and how it has felt building Peach from an insider perspective. If you'd like to know about our story, this blog post is for you! Enjoy!
 [1 year in Peach](https://peachbitcoin.com/blog)

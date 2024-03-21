@@ -38,34 +38,42 @@ sha256sum app-prod-arm64-v8a-release.apk
 ```
 
 (substitua app-prod-arm64-v8a-release.apk pelo nome do seu arquivo). Deve ser o mesmo que no manifesto. Caso contrário, entre em contato conosco e certifique-se de que você não instala esse aplicativo em seu dispositivo. Neste exemplo, você deve ver a seguinte saída:
+
 ```
 $ sha256sum app-prod-arm64-v8a-release.apk
 
 09e4e2db837b2a2aef3a51527ef24fae22cff2b7e2ecd4ca01502c8a61961584  app-prod-arm64-v8a-release.apk
 ```
+
 Se compararmos com o que está no manifesto-peach.txt, veremos que é o mesmo.
 
 - Adicione a chave Peach à sua chave
+
 ```
 gpg --import PGP-peach.asc
 ```
+
 (assegure-se de substituir PGP-peach.asc pelo nome correto do arquivo, geralmente será E970EDB410C8E84198F141584AD3CE3043D8CD1B.asc)
 
 - Verifique as assinaturas que você baixou anteriormente com o seguinte comando:
+
 ```
 gpg --verify manifest-peach.sig manifest-peach.txt
-``` 
+```
+
 Na saída, você deve ver a seguinte linha:
+
 ```
 gpg: Boa assinatura de "hello@peachbitcoin.com <hello@peachbitcoin.com>" [desconhecido]
 ```
+
 :::
 
 :::details O Taproot é suportado?
 
 - Sim, você pode enviar para endereços Taproot pela carteira Peach.
 - Você também pode receber diretamente do custodiante para seu endereço Taproot externo.
-:::
+  :::
 
 :::details Como posso me conectar ao meu próprio nó?
 

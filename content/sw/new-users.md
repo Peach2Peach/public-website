@@ -1,15 +1,17 @@
 # Kwa Watumiaji Wapya
+
 ## Jipatie Tuzo za Bitcoin!
 
-
 ## Faida
+
 ::::figures 2
 
 :::box tech-peach
+
 ### Kwa Wanunuzi
+
 Biashara moja ya kununua bure!
 :::
-
 
 ::::
 
@@ -21,8 +23,8 @@ Baada ya kuunda akaunti yako, hakikisha kushiriki nambari yako ya rufaa ili uanz
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
   </div>
 
-  :::buttons
-  [Download APK on Android](/apk/)
-  :::
+:::buttons
+[Download APK on Android](/apk/)
+:::
 
 </div>

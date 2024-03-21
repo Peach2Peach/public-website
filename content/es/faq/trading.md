@@ -21,7 +21,7 @@ Esta es la parte más importante para asegurar su intercambio. Además de esto, 
 
 Las regulaciones suizas establecen que una persona sólo puede comprar hasta 1000 CHF de bitcoin al día, sin proporcionar su identificación al vendedor. Dado que preferimos mantenernos fuera de la cárcel, hacemos cumplir este límite en la aplicación.
 
-Todos los detalles de su pago se almacenan en su teléfono, por lo que no podemos verlos. Lo que podemos ver es un hash\* de la ID de su teléfono (no identificativo)  y de sus detalles de pago. Esto nos permite bloquear cualquier operación que exceda el límite personal.
+Todos los detalles de su pago se almacenan en su teléfono, por lo que no podemos verlos. Lo que podemos ver es un hash\* de la ID de su teléfono (no identificativo) y de sus detalles de pago. Esto nos permite bloquear cualquier operación que exceda el límite personal.
 
 \* Un hash es un dato que se ha hecho irreconocible, similar a encriptarlo. Los mismos datos siempre conducirán al mismo hash. Esto significa que no sabemos cuáles son los datos, pero podremos detectar si se utilizan los mismos datos dos veces.
 :::
@@ -78,17 +78,21 @@ En casos de monedas que sufren una alta inflación, su precio tiene una gran vol
 
 :::details ¿Cómo acelerar transacciones atascadas debido a comisiones de minería demasiado bajas?
 
-Depende del tipo de transacciones de las que estemos hablando. Aquí hay una lista de todas las transacciones que pueden ocurrir en Peach y sus soluciones para aumentar las comisiones: 
+Depende del tipo de transacciones de las que estemos hablando. Aquí hay una lista de todas las transacciones que pueden ocurrir en Peach y sus soluciones para aumentar las comisiones:
+
 1. Transacción para publicar una oferta de venta
+
 - Si depositáste fondos desde la billetera Peach, puedes hacer RBF (Replace By Fee, aumentar la comisión) en la transacción.
 
 - Si depositáste fondos desde una billetera externa, debe verificar si la billetera admite RBF para aumentar las tarifas de la red.
 
 2. En el momento de recibir el bitcoin comprado
+
 - Si su dirección de recepción es de la billetera Peach, puede retirar el monto total a una billetera externa suya con tarifas más altas (Configuración > comisiones de red) - Técnica CPFP (Child Pays for Parent)
 
 - Si su dirección de recepción es una billetera externa, también puede realizar la técnica CPFP si es compatible con su billetera.
 
 3. Enviar transacción desde la cartera de Peach a otra cartera
+
 - Puede usar RBF (Replace-By-Fee) desde su Peach Wallet en los detalles de su transacción!
-:::
+  :::

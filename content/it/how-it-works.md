@@ -4,6 +4,7 @@ template: how_it_works
 ---
 
 <!--[teaser]-->
+
 ![Compra e Vendi Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
 
 ### Accumula sats <span>ogni giorno</span>!
@@ -11,6 +12,7 @@ template: how_it_works
 **Compra e Vendi fino a 1000 CHF al giorno e 100'000 CHF all'anno.**
 
 <!--[easy_registration]-->
+
 ### Registrazione semplice
 
 Scarica l'app gratuitamente e inizia a fare scambi immediatamente! Non ti verra mai chiesto di caricare il tuo documento d'identità o di farti un selfie per autenticarti.
@@ -21,13 +23,14 @@ Scarica l'app gratuitamente e inizia a fare scambi immediatamente! Non ti verra 
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
   </div>
 
-  :::buttons
-  [Download APK on Android](/apk/)
-  :::
+:::buttons
+[Download APK on Android](/apk/)
+:::
 
 </div>
 
 <!--[payment_methods]-->
+
 ### Metodi di pagamento supportati
 
 Ci sono molti metodi di pagamento tra cui puoi scegliere.
@@ -90,18 +93,20 @@ Se desideri utilizzare un altro metodo di pagamento che non è elencato, faccelo
 
 **[QUESTO MODULO](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
-
 <!--[self_custody]-->
+
 ### Non le tue chiavi, non le tue monete
 
 L'app dispone di un portafoglio facile da usare che controlli tu stesso, oppure puoi utilizzare il tuo portafoglio esistente. Resta fedele ai concetti di base o rendilo più avanzato: sei sempre tu a comandare.
 
 <!--[security]-->
+
 ### Super sicuro
 
 Peach utilizza indirizzi Bitcoin Multi-Firma per assicurarsi che la parte corretta possa ottenere i Bitcoin se qualcosa dovesse andare storto durante la transazione.
 
 <!--[difference]-->
+
 ### Cosa differenzia Peach dagli altri scambi?
 
 Con Peach, non compri da noi né vendi a noi.
@@ -110,11 +115,13 @@ Ciò rende il trading di Bitcoin più privato e ti consente di utilizzare qualsi
 La nostra missione è renderlo il più semplice e sicuro possibile.
 
 <!--[sounds_cool]-->
+
 ### Sembra interessante, ma come funziona?
 
 Abbiamo una guida completa per iniziare qui:
 
 <!--[questions]-->
+
 ### Hai ancora domande?
 
 Sono sicuro che puoi trovare una risposta nelle nostre domande frequenti.

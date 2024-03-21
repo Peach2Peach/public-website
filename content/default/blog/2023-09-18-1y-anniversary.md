@@ -16,6 +16,7 @@ description: |
 ---
 
 # Peach 1 year anniversary
+
 ![](/img/blog/1y-anniversary/cake.jpeg)
 
 ## The Peach team stories
@@ -23,6 +24,7 @@ description: |
 Dear peaches today's blog post is a bit different to what is commonly seen in the bitcoin/tech space. Today we bring to you the story of how it feels building a Bitcoin startup, some challenges we've gone through, and how Peach managed to survive during 1 year so far. We hope you enjoy them, and encourage you to keep building in this amazing space. LFG!
 
 # [Czino](https://twitter.com/capoczino)
+
 ## Unveiling Peach - A Journey Begins
 
 The past year has been a whirlwind of excitement, challenges, and growth. From the officially launch of our product to today, it has been a rollercoaster ride worth cherishing.
@@ -40,7 +42,6 @@ As our team grew, we discovered the power of crafting elegant code that prioriti
 ### It's cycles and balances
 
 However, just like the ebb and flow of tides, our team experienced the natural rhythms of growth and change. We discovered the importance of finding balance in the expansion process. Acknowledging the need to strike the right equilibrium, we made thoughtful decisions to ensure the team remained cohesive and focused. We went through a phase of introspection and decided to reduce the number back to two developers. Embracing this natural process, we prioritized quality over quantity for meaningful achievements.
-
 
 ## Learnings - Embracing the Bitcoin Mindset
 
@@ -65,11 +66,15 @@ Excited for the future, we'll continue navigating the evolving Bitcoin landscape
 ![peaches](/img/blog/1y-anniversary/peaches.jpeg)
 
 # [Michael](https://twitter.com/MManke00)
+
 ## 1 year anniversary at Peach - Laser focus on what matters
+
 ​
+
 ### My Background
+
 I’m Michael, Lead Frontend Dev at Peach Bitcoin and I’m approaching my first anniversary at Peach after I joined back in November and celebrated Peach’s first birthday in September at The Baltic Honey badger conference.
-To truly understand how the past year at Peach was, how it changed me and how I look back at it I feel I have to start my story a bit earlier, more specifically back in 2020.  I was still in university at this point but at the beginning of the year I started teaching myself how to code, since I was looking for something, anything, to get out of university. To me, academia felt more like a train in which I was a passenger rather than a car in which I was the driver. I felt like a small piece of a machine and my true passions, my dreams or anything authentic about me wasn’t being allowed to be expressed or flourish but rather supressed.
+To truly understand how the past year at Peach was, how it changed me and how I look back at it I feel I have to start my story a bit earlier, more specifically back in 2020. I was still in university at this point but at the beginning of the year I started teaching myself how to code, since I was looking for something, anything, to get out of university. To me, academia felt more like a train in which I was a passenger rather than a car in which I was the driver. I felt like a small piece of a machine and my true passions, my dreams or anything authentic about me wasn’t being allowed to be expressed or flourish but rather supressed.
 
 I set myself the mission to teach myself a skill with which I could make a living. On that road I tried many things, but programming was the one that stuck. After some time, hardship, but also lucky circumstances I managed to get my first job at a startup. I felt not only confirmed in my belief that following my own passion was possible, but also felt an immense gratitude for how I was able to do what I enjoyed. Being in a startup gave me an appreciation for the level of impact I could have on a product and that this product was something everyone involved actually cared about. Unfortunately the startup didn’t work out and I was once again in a situation where I asked myself what I wanted to do with my time. I was looking at some job postings but all of them felt like I was going back to a similar world from which I had wanted to escape, endless time spent on soulless things I neither cared about nor felt that I could have an impact even if I would.
 
@@ -80,7 +85,9 @@ I started looking for opportunities in that sector and found a job listing that 
 This is the point where Peach Bitcoin entered my life. I saw a tweet by Peach and thought to myself, to heck with it, I’ll give it a shot and send them an application. Well and what can I say, it worked out!
 ​
 ​
+
 ### My story at Peach
+
 Getting to work at Peach was once again an incredible experience and I was truly grateful. The mission to direct my energy towards the adoption of Bitcoin had succeeded but as the first days at Peach went by I started to realize more and more that my expectations were exceeded.
 
 Not only was I working on something related to Bitcoin, I was working on something that I felt was in harmony with its core values, most remarkably: Bitcoin-only with a big focus on privacy as a means to individual sovereignty.
@@ -99,7 +106,6 @@ There have been times when things weren’t working as ideally as we wanted them
 Similarly seeing that actual people are using real money with our app felt both like a great privilege and responsibility. Every time a trade on Peach happened it was a market signal that somebody was trusting us to use their funds well, provide good matches and generally a good service. It was an indisputable confirmation that we were doing something of value.
 Another game changer on that front to me were the meetups. Actually seeing people that use our app, that support and like it was an incredible experience. Hearing “you guys are doing a great job, keep it up” is something that is generally nice to hear. But if it comes from people who share your vision of how the world could and should look like is something else. It's almost like a voice from the future letting you know that you are on the right path.
 On a side note, this is why I also love to tell people that they are doing a good job when I feel that they are. Seeing somebody that cares about his time and spends it on things he deems worth it, that you actually benefit from is a feeling I really like to embrace whenever I happen to notice it (which sadly is way too rare, but we know what fixes this).
-
 
 I also believe that true passion is the only way to outcompete others and actually even set yourself free from competition. There are barriers and hurdles that you just won’t cross if you don’t want to, and the people that care deeply enough will go to lengths to make details work that to others are “impossible”.
 A short example of that was our BTCAmount that went viral a bit. In a redesign we customized the letter spacing of each individual character to make it look nice with a new font we’ve been using. I could have said “screw the design, we’ll just stick to the same spacing everywhere” but that wouldn’t have been what we wanted and the thing about code is: everything is possible, it’s just about wether it’s worth it.
@@ -124,6 +130,7 @@ To another great, second year!
 ![peaches](/img/blog/1y-anniversary/peaches.jpeg)
 
 # Lab
+
 They grow up so fast... Peach is now officially one year old! Just like a real baby, it’s been about 9 months longer than that ‘behind the scenes’, but who’s counting.
 Back when we first got together to put our heads together on the 9th of January 2021, I couldn’t have imagined what this would grow into or what it would force me to grow into. Back then we were just the four of us with an idea and some guy who was open to putting a little bit of money behind it to cover some of the cost (shoutout to our friend Phil for making our first baby steps possible). About nine months later, after working with friends and family to develop the Peach beta, Peach Bitcoin was officially born at Baltic Honeybadger 2022.
 A lot has changed about Peach since then. We first removed the bucket system, allowing anyone to buy or sell exactly as much as they wanted. There was an extensive visual redesign of the app. We added a big list of payment methods (even outside the EU now!) and are working together with a whole load of meetups for safe cash trades. We added full wallet functionality so that Peach truly is the one-stop-shop app for all your bitcoin needs.
@@ -136,10 +143,10 @@ So, I guess this is goodbye (not really – I’ll still be hanging out). I want
 A happy birthday to Peach, goodbye from me, and a big round of applause for the rest of the team.
 Glory to God for all things - Lab
 
-
 ![peaches](/img/blog/1y-anniversary/peaches.jpeg)
 
 # [Markush](https://twitter.com/akaKush0)
+
 ## Volatility is a feature, not a bug
 
 Haven’t you felt time passes differently since you discovered bitcoin?
@@ -152,6 +159,7 @@ Maybe I’m the weird one who feels like that, but sincerely, many things have h
 In this post I’ll try to explain things I’ve learned at Peach, but also some life learning that I had never thought about before. Hope they can bring some value to you too.
 
 ## The Story
+
 My Bitcoin related jobs did not start with Peach, but approx 1 year before, when I left my fiat tech-consulting job, and decided to start working as a freelancer. It was a sweet time, Bitcoin was in a bull-run, and everyone was looking for “crypto-experts” to build projects/scams, wallets, exchanges, mining operations, or whatever they had in mind.
 
 So there was young Markush, building mining rigs (yeah, also ETH rigs while it was still possible), e-commerce shops, helping people/businesses set up wallets, and coordinating projects on the bitcoin scene.
@@ -177,6 +185,7 @@ From then on, things got a bit more calm and I had a proper onboarding experienc
 Down here I’ll write down some of the most important things I’ve learned, as I think they can be valuable for others reading to this weird post.
 
 ## The Learnings
+
 Let’s get real, working in Bitcoin is stressful. And if the job is in a startup, it is even more. Luckily I had already worked in another startup, and I knew a little bit how this kind of companies operate.
 Being a small team, brings you many opportunities to be really close to the others, but also you feel like you’re alone in many things most of the time, as there is not more than 1 or 2 people working in the same things as you. So you gotta really be someone who learns by himself, and wants to contribute and grow something bigger than a simple day to day job.
 
@@ -210,15 +219,16 @@ Down here is a brief recap of the most important ones (for me):
 
 - Build with a purpose.
 
-And the last one, a question that is not talked about enough… 
+And the last one, a question that is not talked about enough…
 
 - Have you ever thought on how to pay your expenses if you are paid in Bitcoin?
 
-There are many more things I could say, 1 year is full of experiences, but I think the previous ones are a good resume of my inner feelings. I’d love to hear if you’ve gone through similar experiences lately. Hopefully by next year, some of the doubts I still have may have vanished. Or not, but in reality… who cares? :slight_smile: 
+There are many more things I could say, 1 year is full of experiences, but I think the previous ones are a good resume of my inner feelings. I’d love to hear if you’ve gone through similar experiences lately. Hopefully by next year, some of the doubts I still have may have vanished. Or not, but in reality… who cares? :slight_smile:
 
 Maybe the last learning I’d like to highlight is that stability is a fiat concept. Most jobs nowadays are overpaid just to have some people sitting in a chair all year long 5 days a week, when that same job could have been done by a freelancer in 5 months, get paid, and look for something else. If you sometimes feel stuck, or that your job is “too boring”, there’s something telling you that you’re not using your time as you should!
 
 ## The Conclusions
+
 Many people have asked me about my life since I started earning in Bitcoin, and working full time on it. It’s a big change, and it’s not easy, but once you get used to it, it is really fulfilling.
 
 We’re always looking for our comfort zone, and the system is made specifically for you to find it easily. But when you discover life is not just that, but much more, nothing can prevent you to achieve great things.
@@ -228,46 +238,43 @@ To anyone wondering if they are still on time to change their lifestyle, their j
 ![peaches](/img/blog/1y-anniversary/peaches.jpeg)
 
 # [Steph](@proofofsteph)
-## How did we survive the first year? 
-Peach is alive! 
 
-One year after launching the product, this is the first celebration statement I want to make. We kept Peach - the product, the company, the team, the ecosystem - alive. I would even say alive and growing! Are we fighting each and every day for its survival? Sure! Are we still feeling delusional and crazy about creating a product out of our imagination? Damn yes! 
+## How did we survive the first year?
 
-But here we are, one year after going public, same place, same day, in Riga at the Baltic Honeybadger conference (the most OG Bitcoin conference) announcing Peach 0.3.  
+Peach is alive!
 
-### 12 months for showing traction 
+One year after launching the product, this is the first celebration statement I want to make. We kept Peach - the product, the company, the team, the ecosystem - alive. I would even say alive and growing! Are we fighting each and every day for its survival? Sure! Are we still feeling delusional and crazy about creating a product out of our imagination? Damn yes!
 
-The name of the game is to build a usable  product that can actually be used. Providing a service that some people will find compelling enough to pay for it. No secret sauce for achieving this or rather the secret sauce is well known: 
+But here we are, one year after going public, same place, same day, in Riga at the Baltic Honeybadger conference (the most OG Bitcoin conference) announcing Peach 0.3.
 
-    deliver! 
-    Listen to user feedback  
-    deliver! 
-    Repeat 🔁 
+### 12 months for showing traction
 
+The name of the game is to build a usable product that can actually be used. Providing a service that some people will find compelling enough to pay for it. No secret sauce for achieving this or rather the secret sauce is well known:
 
-
+    deliver!
+    Listen to user feedback
+    deliver!
+    Repeat 🔁
 
 ### Listening to Peach inner cycles
 
-My teammate said “volatility is a feature not a bug” and I could not agree more. Life is movement, the waves constantly come and go. Sometimes the wind makes them crash onto the rocks and sometimes the sweet light of the sun lighten up the waves with a very soft melody. Peach cycles come and go in waves. Peach is now an independent organic being in constant movement living through cycles and responding to external weather conditions. Sometimes it needs to rest and recover and sometimes it needs to sprint. Listening, recognising and then respecting those cycles are critically important to keep Peach healthy in the long run. 
+My teammate said “volatility is a feature not a bug” and I could not agree more. Life is movement, the waves constantly come and go. Sometimes the wind makes them crash onto the rocks and sometimes the sweet light of the sun lighten up the waves with a very soft melody. Peach cycles come and go in waves. Peach is now an independent organic being in constant movement living through cycles and responding to external weather conditions. Sometimes it needs to rest and recover and sometimes it needs to sprint. Listening, recognising and then respecting those cycles are critically important to keep Peach healthy in the long run.
 
 ### Ego consciousness
 
-I am Peach but Peach is not only me anymore. Recognizing that the baby has “grown outside of me” is crucial for ensuring its well being. Peach can not grow if I personally don’t grow alongside with its development. Self-awareness and self-criticism have become a Peach live or die challenge. I have faced some critical issues and the only way to resolve them was to become self-conscious about how my ego blocked the way. Either I put on the ego work or Peach suffers, worse Peach can die. And luckily, as the heart of a mum will always prioritise the baby’s growth, the work on the ego begins and doors open up. 
+I am Peach but Peach is not only me anymore. Recognizing that the baby has “grown outside of me” is crucial for ensuring its well being. Peach can not grow if I personally don’t grow alongside with its development. Self-awareness and self-criticism have become a Peach live or die challenge. I have faced some critical issues and the only way to resolve them was to become self-conscious about how my ego blocked the way. Either I put on the ego work or Peach suffers, worse Peach can die. And luckily, as the heart of a mum will always prioritise the baby’s growth, the work on the ego begins and doors open up.
 
 ### Being a leader means I will do what I want to do despite the FUD
 
-
 It happened that I see a product feature, or a design, or an internal way of working, or a positioning. I envision an environment that only exists in my head until I share my thoughts with the team to transform the thoughts into the material world. I am lucky to be working with an engineer associate who has an open-mind and is able to help me transforming ideas to down-to-earth solutions while remaining very creative himself. I strongly believe that the best creations are made out of the unique minds of individual(s) and not out of average thoughts of the crowd. So sometimes, even if no one sees it, even if everyone doubt it, I just gotta keep believing, and still do it. And if I was wrong, the solution is easy peachy, I take feedback and iterate.
 
-### Keep faith in Peach’s mission and building the foundation 
+### Keep faith in Peach’s mission and building the foundation
 
 Bootstrapping, no budget, bear market, tight runway, team management, product survival, administrative tasks, annoying tasks, bugs… it’s a lot to take on! Two words to keep going: faith and perseverance. Giving up is not an option. We are still at the beginning of the rallye but yet accomplished so much. I know deep down that Peach can only succeed with work, patience, time and effort. Peach is not a quick win scheme. I know the fruits will come out of intensively laboured soil and not out of thin air. Without the tree, no fruits. Without the foundations, no rewards. This past year (and actually more than a year since we started working together in 2021) has been about taking the time to establish solid relationships which allowed our principles and values to emerge and become more clear. Our foundation is made out of discernment, analytical mindset, good preparation for everything new we want to build, planning (‘fail to plan is a plan to fail), intuition. Our general atmosphere is friendly, intimate with a big place for dialogue, sentiment of peace and serenity. “Find safety in sats” is a meme that fits Peach well.
 
 ### Listening to my own inner cycles
 
-If I am not doing well for a long period of time, then Peach follows. Therefore, listening to my own personal and female inner cycle have became a critical challenge to make sure that I don’t burn out. There is no clear boundaries between Peach and me. Everything is interconnected and one has an impact on the other. So Steph mind and body and Steph Peach are one and have to be managed together. I remember I used to read startups stuffs like “you have to work 24h/7” “your startup has to become your only purpose” etc etc. Well, we will see how it goes but I am definitely not fitting in those, in my opinion, old schools views. Smart > hard. Energy flow > empty productivity. I am very much in a position that requires to find balance to survive in the long term. I believe in the mathematical reward that comes out of the “low-time preference” principle and the name of the game is to stop believing and start embodying. 
-
+If I am not doing well for a long period of time, then Peach follows. Therefore, listening to my own personal and female inner cycle have became a critical challenge to make sure that I don’t burn out. There is no clear boundaries between Peach and me. Everything is interconnected and one has an impact on the other. So Steph mind and body and Steph Peach are one and have to be managed together. I remember I used to read startups stuffs like “you have to work 24h/7” “your startup has to become your only purpose” etc etc. Well, we will see how it goes but I am definitely not fitting in those, in my opinion, old schools views. Smart > hard. Energy flow > empty productivity. I am very much in a position that requires to find balance to survive in the long term. I believe in the mathematical reward that comes out of the “low-time preference” principle and the name of the game is to stop believing and start embodying.
 
 Each of those paragraphs could be a blog on itself, and I could continue on much more. I would close by what is the most obvious answer to “How did we survive the first year?”. Answer: INCENTIVES. See you on another blog :)
 
@@ -280,32 +287,31 @@ Well dear peaches, this is the end of the series of blog posts from the team. We
 
 If you want to know more about Peach features, or read some of our other articles, you can find them here!
 
-[How to Recover Bitcoin Wallets Using a Seed Phrase](https://peachbitcoin.com/blog/how-to-restore-peach-wallet/ )
+[How to Recover Bitcoin Wallets Using a Seed Phrase](https://peachbitcoin.com/blog/how-to-restore-peach-wallet/)
 
-[How to Fund Multiple Sell Offers](https://peachbitcoin.com/blog/funding-multiple-sell-offers/ )
+[How to Fund Multiple Sell Offers](https://peachbitcoin.com/blog/funding-multiple-sell-offers/)
 
-[How to buy and sell Bitcoin with cash using Peach](https://peachbitcoin.com/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/ )
+[How to buy and sell Bitcoin with cash using Peach](https://peachbitcoin.com/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/)
 
-[How to add a new payment method on the Peach app](https://peachbitcoin.com/blog/how-to-add-a-payment-method/ )
+[How to add a new payment method on the Peach app](https://peachbitcoin.com/blog/how-to-add-a-payment-method/)
 
-[Peach expands to the Global South!](https://peachbitcoin.com/blog/peach-expands-to-the-global-south/ )
+[Peach expands to the Global South!](https://peachbitcoin.com/blog/peach-expands-to-the-global-south/)
 
-[Making our Peach-API Public](https://peachbitcoin.com/blog/making-our-peach-api-public/ )
+[Making our Peach-API Public](https://peachbitcoin.com/blog/making-our-peach-api-public/)
 
-[Full Wallet Functionality](https://peachbitcoin.com/blog/full-wallet-functionality/ )
+[Full Wallet Functionality](https://peachbitcoin.com/blog/full-wallet-functionality/)
 
-[What is GroupHug?](https://peachbitcoin.com/blog/group-hug/ )
+[What is GroupHug?](https://peachbitcoin.com/blog/group-hug/)
 
-[Why P2P series? Chapter 1](https://peachbitcoin.com/blog/why-p2p-chapter-1/ )
+[Why P2P series? Chapter 1](https://peachbitcoin.com/blog/why-p2p-chapter-1/)
 
-[Why P2P series? Chapter 2](https://peachbitcoin.com/blog/why-p2p-chapter-2/ )
+[Why P2P series? Chapter 2](https://peachbitcoin.com/blog/why-p2p-chapter-2/)
 
-[Why P2P series? Chapter 3](https://peachbitcoin.com/blog/why-p2p-chapter-3-circular-economies/ )
+[Why P2P series? Chapter 3](https://peachbitcoin.com/blog/why-p2p-chapter-3-circular-economies/)
 
-[Why P2P series? Chapter 4](https://peachbitcoin.com/blog/why-p2p-chapter-4-chains-of-trust/ )
+[Why P2P series? Chapter 4](https://peachbitcoin.com/blog/why-p2p-chapter-4-chains-of-trust/)
 
-[Peach x meetups](https://peachbitcoin.com/blog/peach-for-meetups/ )
-
+[Peach x meetups](https://peachbitcoin.com/blog/peach-for-meetups/)
 
 If you want to know more about us, check out or socials, or simply [contact us](mailto:hello@peachbitcoin.com) (use our [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2) if possible) we'll be happy to hear from you!
 

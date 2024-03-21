@@ -1,10 +1,13 @@
 ---
 template: support
 ---
+
 <!--[intro]-->
+
 # Support
 
 <!--[contact]-->
+
 ## Contactez-nous
 
 Nous sommes là pour vous aider. N'hésitez pas à nous faire part de votre question, de votre préoccupation ou de votre rapport de bogue.

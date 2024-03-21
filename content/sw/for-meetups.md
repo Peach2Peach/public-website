@@ -1,10 +1,13 @@
 ---
 template: meetups
 ---
+
 <!--[headline]-->
+
 # Unganisha mkutano wako ndani ya Peach
 
 <!--[intro]-->
+
 Je! Wewe ni aina ya Bitcoiner anayependa kusafiri kote, lakini daima unahitaji kuuza baadhi ya pesa taslimu kila mahali unapoenda?
 
 Je! Unaruka kutoka mkutano hadi mkutano kama kisingizio cha kutembelea ulimwengu?
@@ -20,9 +23,10 @@ Ikiwa wewe ni mwandaaji wa mkutano na ungependa kuweka mkutano wako ndani ya Pea
 
 Ikiwa mkutano wako unakidhi\* vigezo vya kuwekwa ndani ya programu yetu, tutakuwasiliana nawe tena ili kukuuliza kwa maelezo ya mwisho.
 
-<small>*ni Ulaya tu na [sarafu zilizokubaliwa](/how-it-works/#payment) ndizo zinazostahiki kwa sasa. Siku za usoni tutapanua kwa maeneo mengine ulimwenguni, kwa hivyo usisite kutuma maombi hata ikiwa mkutano wako hautii vigezo vyote.</small>
+<small>\*ni Ulaya tu na [sarafu zilizokubaliwa](/how-it-works/#payment) ndizo zinazostahiki kwa sasa. Siku za usoni tutapanua kwa maeneo mengine ulimwenguni, kwa hivyo usisite kutuma maombi hata ikiwa mkutano wako hautii vigezo vyote.</small>
 
 <!--[map]-->
+
 ### Angalia maeneo yote ambapo unaweza kuuza bitcoin kwa pesa taslimu kwa kutumia Peach!
 
 Ikiwa unataka kujua zaidi kuhusu **Miamala ya Pesa ya Peach**, angalia nakala yetu [Peach x Mikutano](/blog/peach-for-meetups/), au tuangalie ramani hapa chini kuona mahali unapoweza kupata wenzako wengine kwa biashara ya bitcoin kwa pesa taslimu.

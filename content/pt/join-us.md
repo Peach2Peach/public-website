@@ -1,6 +1,7 @@
 # Junte-se a Nós
 
 ## Vagas abertas
+
 <!--
 ::::figures 3
 :::box tech-peach
@@ -49,17 +50,23 @@ Estamos sempre interessados em receber inscrições de talentos de alto nível e
 
 ::::figures 3
 :::box tech-docker
+
 ### Infraestrutura do servidor
+
 Linux, Docker, NodeJS
 :::
 
 :::box tech-react
+
 ### Construção do aplicativo
+
 React & React Native, BDK
 :::
 
 :::box tech-figma
+
 ### Design & Conceito
+
 Figma
 :::
 ::::

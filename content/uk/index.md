@@ -1,9 +1,13 @@
 ---
 template: index
 ---
+
 <!--[teaser]-->
+
 # Peach Bitcoin
+
 ## Купуйте та продавайте Bitcoin <span>одне одному</span>
+
 #### зі Швейцарії🇨🇭
 
 <div class="inner-wrap">
@@ -16,9 +20,9 @@ template: index
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
   </div>
 
-  :::buttons
-  [Завантажити APK на Android](/uk/apk/)
-  :::
+:::buttons
+[Завантажити APK на Android](/uk/apk/)
+:::
 
 </div>
 
@@ -27,7 +31,9 @@ template: index
 #### ✔ verifiable source code
 
 <!--[top]-->
+
 # Найлегший спосіб купувати та продавати Bitcoin P2P
+
 <br>
 
 ## Що таке Peach?
@@ -42,13 +48,14 @@ Peach - це мобільний додаток, який **з'єднує** бе�
 
 **Bitcoin без KYC - найбезпечніший Bitcoin.**
 
-
 <!--[mission]-->
+
 ## Приєднуйтесь до нашої місії
 
 ### Ми маємо на меті зробити накопичення сатошів peer-to-peer стандартом!
 
 <!--[about]-->
+
 ## Про нас
 
 Peach, компанія, народилася від людей, які вірять в найтвердішу валюту, яка коли-небудь існувала, і хочуть зробити її доступною всьому світу, не компрометуючи фундаментальних аспектів Bitcoin.
@@ -63,12 +70,12 @@ Peach є членом SRO (Саморегулююча організація) Po
 
 <div class="flex justify-center"><div class="w-1/2">
 
-  ![](/img/home/polyreg.png)
+![](/img/home/polyreg.png)
 
 </div></div>
 
-
 ### Що люди кажуть про нас?
+
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
 

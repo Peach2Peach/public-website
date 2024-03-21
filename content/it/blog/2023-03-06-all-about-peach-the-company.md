@@ -10,6 +10,7 @@ description: |
   Bitcoin è denaro per persone libere. Crediamo che ogni singolo essere umano abbia il diritto di scegliere quale denaro utilizzare per conservare la propria ricchezza, il risultato del proprio lavoro, il proprio tempo ed energia.
   La missione di Peach è contribuire all'adozione di Bitcoin portandolo nelle mani delle persone.
 ---
+
 # Tutto riguardo Peach, l'azienda
 
 Peach è stata creata per portare una soluzione a questo problema: "come otteniamo l'adozione di Bitcoin tra i consumatori?"

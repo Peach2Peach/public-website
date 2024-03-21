@@ -43,7 +43,7 @@ O backup de arquivo pode recuperar toda a sua conta Peach, para que você não p
 - Histórico de chat
 - Dados de pagamento
 - Dados de pagamento do seu contraente no histórico de negociações
-:::
+  :::
 
 :::details Como funciona o sistema de indicações Peach?
 

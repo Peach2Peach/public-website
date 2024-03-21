@@ -43,7 +43,7 @@ Das Backup stellt deinen gesamten Peach-Account wieder her, sodass du nicht alle
 - Chatverlauf
 - Zahlungsdaten
 - Zahlungsdaten der Gegenpartei in der Handelshistorie
-:::
+  :::
 
 :::details Wie funktioniert das Peach-Empfehlungssystem?
 

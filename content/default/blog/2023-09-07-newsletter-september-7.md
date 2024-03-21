@@ -19,7 +19,9 @@ description: |
   result of his work, his time and energy.
   Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
 ---
+
 # Newsletter September 7
+
 ## 1 year anniversary
 
 ![peachy peach bitcoin gif](/img/blog/newsletter/gif-peach.gif)
@@ -43,13 +45,12 @@ We're committed to providing newbies with the best and easiest way to buy and se
 But we won't be just doing it by compromising their security and privacy, as many others have chosen to do, but by providing them with it by default.
 That's why, while staying true to our Bitcoiner ethos, we've been working on some amazing new features, with the aim of making them easy for people to use while still keeping them secure and private. The new things you can do now with the Peach app are:
 
-
     Full Wallet Functionality --> Use the self-custodial wallet inside the app to SEND and RECEIVE Bitcoin directly, without the need to leave the app.
-     
+
     Coin-Control --> Manage your UTXOs with an easy and intuitive UI. Do not sacrifice your privacy!
-     
+
     GroupHug --> Automatically batch transactions to save on network fees! (opt-in feature) Learn more by reading this blog post
-     
+
     Expanding to the GLOBAL SOUTH --> Yes! You heard that right, we're expanding to:
     - Africa: Côte d'Ivoire, Congo DRC and Nigeria
     - LATAM: Colombia, Mexico, Argentina and Costa Rica
@@ -84,7 +85,6 @@ from August 10th to September 7th
 
 Down here, you'll find a recap of the most important stats from the previous weeks. Let us know if you'd like to see any chart or metric that doesn't appear here.
 
- 
 Avg. BUY offers / day
 148
 

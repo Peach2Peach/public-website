@@ -18,9 +18,10 @@ description: |
   Bitcoin is money for free people. We believe that every single human being has the right to choose which money he uses to store his wealth, the
   result of his work, his time and energy. Peach Bitcoin is the easiest platform to buy and sell bitcoin peer to peer.
   Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
-
 ---
+
 # Newsletter June 22nd
+
 ## Yearly analysis of the best moment to stack sats
 
 ![peachy peach bitcoin gif](/img/blog/newsletter/gif-peach.gif)
@@ -52,8 +53,6 @@ In case you haven't updated yet, don't get left behind! Peach 0.2.9 includes the
     French PM: no fees for a month (from 21.06 on)
     ...
 
- 
-
 You read that right! Peach en Français and the French Payment Methods are exempt of fees for one full month🤑
 
 For all of you who are in France, do not lose this opportunity to stack cheaper sats in your local payment methods!
@@ -63,10 +62,11 @@ For all of you who are in France, do not lose this opportunity to stack cheaper 
 Since launching the app in Spanish and French, we've been receiving submissions to help us translate the app into different local languages.
 
 The next ones in the line are Italian and German, which are almost finished, but in case you would like to contribute to translating the app into your local language (and earn some sats in the process), we'd be more than happy to hear from you.
- 
+
 We're looking for any European language at first, and later expanding to the rest of the world.
 
 ## Market Stats
+
 from 06/09 to 06/22
 
 Down here you'll find a recap of the most important stats from the previous weeks. Let us know if you'd like to see any chart/metric that doesn't appear here.
@@ -80,20 +80,25 @@ Bob Ljí summarizes it well in this tweet.
 ![bob ljí tweet](https://img.mailinblue.com/5647291/images/content_library/original/6494188b6eb6f010ad6c7ee3.png)
 
 ### Number of trades
+
 - 272
 
 ### Total amount traded
+
 - 316 374 714 sats (79 163 CHF)
 
 ### Average Trade Amount
+
 - 832 565 sats (208 CHF)
 
 ### Order Book Status
+
 583 buy offers | 47 sell offers
 
-*June 22nd - 12:00pm
+\*June 22nd - 12:00pm
 
 ### Top 5 Payment Methods
+
 1. Revolut
 2. Sepa + Instant Sepa
 3. PayPal
@@ -101,43 +106,41 @@ Bob Ljí summarizes it well in this tweet.
 5. Faster Payments
 
 ### Newly added meetups
+
 - Ireland, Bitcoin Hideaway
 - Jura P2P Festival
 - Osnabrück, Germany - Einundzwanzig Osnabrück
 - Biel/Bienne, Switzerland - Blockchain Bienne
 
-
 ## Final Notes
 
 If you want to know more about Peach features, or read some of our other articles, you can find them here!
 
-[How to Recover Bitcoin Wallets Using a Seed Phrase](https://peachbitcoin.com/blog/how-to-restore-peach-wallet/ )
+[How to Recover Bitcoin Wallets Using a Seed Phrase](https://peachbitcoin.com/blog/how-to-restore-peach-wallet/)
 
-[How to Fund Multiple Sell Offers](https://peachbitcoin.com/blog/funding-multiple-sell-offers/ )
+[How to Fund Multiple Sell Offers](https://peachbitcoin.com/blog/funding-multiple-sell-offers/)
 
-[How to buy and sell Bitcoin with cash using Peach](https://peachbitcoin.com/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/ )
+[How to buy and sell Bitcoin with cash using Peach](https://peachbitcoin.com/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/)
 
-[How to add a new payment method on the Peach app](https://peachbitcoin.com/blog/how-to-add-a-payment-method/ )
+[How to add a new payment method on the Peach app](https://peachbitcoin.com/blog/how-to-add-a-payment-method/)
 
-[Peach expands to the Global South!](https://peachbitcoin.com/blog/peach-expands-to-the-global-south/ )
+[Peach expands to the Global South!](https://peachbitcoin.com/blog/peach-expands-to-the-global-south/)
 
-[Making our Peach-API Public](https://peachbitcoin.com/blog/making-our-peach-api-public/ )
+[Making our Peach-API Public](https://peachbitcoin.com/blog/making-our-peach-api-public/)
 
-[Full Wallet Functionality](https://peachbitcoin.com/blog/full-wallet-functionality/ )
+[Full Wallet Functionality](https://peachbitcoin.com/blog/full-wallet-functionality/)
 
-[What is GroupHug?](https://peachbitcoin.com/blog/group-hug/ )
+[What is GroupHug?](https://peachbitcoin.com/blog/group-hug/)
 
-[Why P2P series? Chapter 1](https://peachbitcoin.com/blog/why-p2p-chapter-1/ )
+[Why P2P series? Chapter 1](https://peachbitcoin.com/blog/why-p2p-chapter-1/)
 
-[Why P2P series? Chapter 2](https://peachbitcoin.com/blog/why-p2p-chapter-2/ )
+[Why P2P series? Chapter 2](https://peachbitcoin.com/blog/why-p2p-chapter-2/)
 
-[Why P2P series? Chapter 3](https://peachbitcoin.com/blog/why-p2p-chapter-3-circular-economies/ )
+[Why P2P series? Chapter 3](https://peachbitcoin.com/blog/why-p2p-chapter-3-circular-economies/)
 
-[Why P2P series? Chapter 4](https://peachbitcoin.com/blog/why-p2p-chapter-4-chains-of-trust/ )
+[Why P2P series? Chapter 4](https://peachbitcoin.com/blog/why-p2p-chapter-4-chains-of-trust/)
 
-[Peach x meetups](https://peachbitcoin.com/blog/peach-for-meetups/ )
-
-
+[Peach x meetups](https://peachbitcoin.com/blog/peach-for-meetups/)
 
 If you want to know more about us, check out or socials, or simply [contact us](mailto:hello@peachbitcoin.com) (use our [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2) if possible) we'll be happy to hear from you!
 

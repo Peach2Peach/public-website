@@ -13,6 +13,7 @@ description: |
   One would first ask, why do we want to add other payment methods in our trades? The reason is simple.
   As you know, Peach allows users to trade Bitcoin p2p, the problem is when another user wants to trade with you, but you cannot see his/her offer just because they are using anothercpayment method. To be open to the maximum possible options, and be able to choose from a wide range of matches, you need to open yourself to trade withcdifferent payment methods.
 ---
+
 # How to add a new payment method on the Peach app
 
 Disclaimer: The process to add a new meetup as a payment method is the same for both buyer and seller.
@@ -39,9 +40,9 @@ methods:
 1. Open the Peach app and go to **Settings > Payment Methods**
 
 2. When in the payment methods page, the user will need to choose between remote / meetups payment method.
-    In this case, when we tap on **remote**, we’ll see we can “**add a new currency / payment method**”.
+   In this case, when we tap on **remote**, we’ll see we can “**add a new currency / payment method**”.
 
-    If you want to learn how the cash trades work in the meetups, check out our [How to buy and sell Bitcoin with cash using Peach](/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/) tutorial.
+   If you want to learn how the cash trades work in the meetups, check out our [How to buy and sell Bitcoin with cash using Peach](/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/) tutorial.
 
 :::figures 2
 ![Tap on “add a new currency / payment method”](/img/blog/how-to-add-a-payment-method/add-1.png)
@@ -82,7 +83,7 @@ methods:
 Be careful, do not get confused with the CASH option.
 
 1. If we want to add one of the available local payment methods, the first thing we’ll need to choose is the Country of the local payment
-method. Right now there are **Italy (Satispay)**, **Portugal (MB Way)**, **Spain (Bizum)**, **Faster Payments (UK)**, etc.
+   method. Right now there are **Italy (Satispay)**, **Portugal (MB Way)**, **Spain (Bizum)**, **Faster Payments (UK)**, etc.
 
 ![](/img/blog/how-to-add-a-payment-method/national-options-1.png)
 
@@ -117,33 +118,31 @@ Keep in mind that you can **choose multiple payment methods in each trade**, and
 
 If you want to know more about Peach features, or read some of our other articles, you can find them here!
 
-[How to Recover Bitcoin Wallets Using a Seed Phrase](https://peachbitcoin.com/blog/how-to-restore-peach-wallet/ )
+[How to Recover Bitcoin Wallets Using a Seed Phrase](https://peachbitcoin.com/blog/how-to-restore-peach-wallet/)
 
-[How to Fund Multiple Sell Offers](https://peachbitcoin.com/blog/funding-multiple-sell-offers/ )
+[How to Fund Multiple Sell Offers](https://peachbitcoin.com/blog/funding-multiple-sell-offers/)
 
-[How to buy and sell Bitcoin with cash using Peach](https://peachbitcoin.com/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/ )
+[How to buy and sell Bitcoin with cash using Peach](https://peachbitcoin.com/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/)
 
-[How to add a new payment method on the Peach app](https://peachbitcoin.com/blog/how-to-add-a-payment-method/ )
+[How to add a new payment method on the Peach app](https://peachbitcoin.com/blog/how-to-add-a-payment-method/)
 
-[Peach expands to the Global South!](https://peachbitcoin.com/blog/peach-expands-to-the-global-south/ )
+[Peach expands to the Global South!](https://peachbitcoin.com/blog/peach-expands-to-the-global-south/)
 
-[Making our Peach-API Public](https://peachbitcoin.com/blog/making-our-peach-api-public/ )
+[Making our Peach-API Public](https://peachbitcoin.com/blog/making-our-peach-api-public/)
 
-[Full Wallet Functionality](https://peachbitcoin.com/blog/full-wallet-functionality/ )
+[Full Wallet Functionality](https://peachbitcoin.com/blog/full-wallet-functionality/)
 
-[What is GroupHug?](https://peachbitcoin.com/blog/group-hug/ )
+[What is GroupHug?](https://peachbitcoin.com/blog/group-hug/)
 
-[Why P2P series? Chapter 1](https://peachbitcoin.com/blog/why-p2p-chapter-1/ )
+[Why P2P series? Chapter 1](https://peachbitcoin.com/blog/why-p2p-chapter-1/)
 
-[Why P2P series? Chapter 2](https://peachbitcoin.com/blog/why-p2p-chapter-2/ )
+[Why P2P series? Chapter 2](https://peachbitcoin.com/blog/why-p2p-chapter-2/)
 
-[Why P2P series? Chapter 3](https://peachbitcoin.com/blog/why-p2p-chapter-3-circular-economies/ )
+[Why P2P series? Chapter 3](https://peachbitcoin.com/blog/why-p2p-chapter-3-circular-economies/)
 
-[Why P2P series? Chapter 4](https://peachbitcoin.com/blog/why-p2p-chapter-4-chains-of-trust/ )
+[Why P2P series? Chapter 4](https://peachbitcoin.com/blog/why-p2p-chapter-4-chains-of-trust/)
 
-[Peach x meetups](https://peachbitcoin.com/blog/peach-for-meetups/ )
-
-
+[Peach x meetups](https://peachbitcoin.com/blog/peach-for-meetups/)
 
 If you want to know more about us, check out or socials, or simply [contact us](mailto:hello@peachbitcoin.com) (use our [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2) if possible) we'll be happy to hear from you!
 

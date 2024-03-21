@@ -2,13 +2,13 @@
 
 ## Help us spread the Peach-to-Peach word and become a Peachy local ambassador!
 
-Peach is a peer-to-peer marketplace so word of mouth is crucial to get more adoption. By becoming a local ambassador you will help us grow your local market with innovative, growth hacking ideas. 
+Peach is a peer-to-peer marketplace so word of mouth is crucial to get more adoption. By becoming a local ambassador you will help us grow your local market with innovative, growth hacking ideas.
 
 ### What to expect from Peach:
 
 • earn 50% of our revenue for every trade done with your custom promo code!
 
-• receive merch (upon availabilities) 
+• receive merch (upon availabilities)
 
 • get on a monthly call with the Peach team to share your feedback and influence the product roadmap
 
@@ -23,6 +23,7 @@ Sounds like fun? write to [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com
 Opportunity available for anyone in **Europe**, **Latin America** and **Africa**.
 
 ## Open positions
+
 <!--
 ::::figures 3
 :::box tech-peach
@@ -63,7 +64,7 @@ Instagram / Tik Tok
 Other interesting skills? Let us know!
 -->
 
-We are always interested in receiving applications from  rockstar talents in engineering, product design, and growth hacking. Subscribe to our newsletter or join our social networks to stay updated on our next hiring wave!
+We are always interested in receiving applications from rockstar talents in engineering, product design, and growth hacking. Subscribe to our newsletter or join our social networks to stay updated on our next hiring wave!
 
 [All about Peach, the company](/blog/all-about-peach-the-company/)
 
@@ -71,17 +72,23 @@ We are always interested in receiving applications from  rockstar talents in eng
 
 ::::figures 3
 :::box tech-docker
+
 ### Server infrastructure
+
 Linux, Docker, NodeJS
 :::
 
 :::box tech-react
+
 ### Building the app
+
 React & React Native, BDK
 :::
 
 :::box tech-figma
+
 ### Design & Concepting
+
 Figma
 :::
 ::::

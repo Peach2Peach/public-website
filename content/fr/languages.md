@@ -1,4 +1,5 @@
 # Langues
+
 ## Peach est conçu pour tout le monde, quelle que soit votre langue !
 
 Vous trouverez ci-dessous toutes les langues que nous prenons actuellement en charge.
@@ -13,4 +14,3 @@ Si vous souhaitez nous aider à traduire Peach dans votre langue locale, [contac
 - [Swahili🇰🇪](/sw)
 - [Ukrainien🇺🇦](/uk)
 - [Portugais🇵🇹](/pt)
-

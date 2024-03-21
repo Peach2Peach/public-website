@@ -1,6 +1,7 @@
 # Rejoignez-nous
 
 ## Postes ouverts
+
 <!--
 ::::figures 3
 :::box tech-peach
@@ -49,17 +50,23 @@ Nous sommes toujours intéressés par les candidatures de talents exceptionnels 
 
 ::::figures 3
 :::box tech-docker
+
 ### Infrastructure serveur
+
 Linux, Docker
 :::
 
 :::box tech-react
+
 ### Construction de l'application
+
 React & React Native
 :::
 
 :::box tech-figma
+
 ### Design et conception
+
 Figma
 :::
 ::::

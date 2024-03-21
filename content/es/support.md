@@ -1,10 +1,13 @@
 ---
 template: support
 ---
+
 <!--[intro]-->
+
 # Soporte
 
 <!--[contact]-->
+
 ## Contacto
 
 Estamos aquí para ayudarte. Siéntete libre de hacernos saber tu pregunta, inquietud o reportar un error.

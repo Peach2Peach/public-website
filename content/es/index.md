@@ -1,9 +1,13 @@
 ---
 template: index
 ---
+
 <!--[teaser]-->
+
 # Peach Bitcoin
+
 ## Compra y vende Bitcoin <span>entre pares</span>
+
 #### Hecho en Suiza🇨🇭
 
 <div class="inner-wrap">
@@ -16,9 +20,9 @@ template: index
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
   </div>
 
-  :::buttons
-  [Descarga APK para Android](/es/apk/)
-  :::
+:::buttons
+[Descarga APK para Android](/es/apk/)
+:::
 
 </div>
 
@@ -27,7 +31,9 @@ template: index
 #### ✔ código fuente verificable
 
 <!--[top]-->
+
 # La forma más fácil de comprar y vender Bitcoin P2P
+
 <br>
 
 ## ¿Qué es Peach?
@@ -42,13 +48,14 @@ Vende al **precio de tu elección** porque los mercados peer-to-peer son los ver
 
 **Bitcoin sin KYC es el Bitcoin más seguro.**
 
-
 <!--[mission]-->
+
 ## Únete a nuestra misión
 
 ### ¡Queremos que acumular sats entre pares sea el estándar!
 
 <!--[about]-->
+
 ## Sobre nosotros
 
 Peach, la compañía, nace de personas que creen en el dinero más duro que ha existido y quieren hacerlo accesible para todo el mundo sin comprometer los aspectos fundamentales de Bitcoin.
@@ -57,17 +64,15 @@ Peach, la compañía, nace de personas que creen en el dinero más duro que ha e
 
 Si quieres saber más sobre la compañía, echa un vistazo a nuestras [publicaciones en el blog](/es/blog/) donde hablamos sobre cómo todo comenzó y cómo llegamos hasta aquí.
 
-
 Peach es miembro de SRO (Organización de Autorregulación) de Polyreg. Peach es un proveedor de servicios financieros con licencia suiza totalmente conforme con la Ley Suiza Anti-Lavado de Dinero.
 
 <div class="flex justify-center"><div class="w-1/2">
 
-  ![](/img/home/polyreg.png)
+![](/img/home/polyreg.png)
 
 </div></div>
 
-
 ### ¿Qué dicen de nosotros?
+
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
-

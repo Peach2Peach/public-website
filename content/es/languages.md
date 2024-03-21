@@ -1,4 +1,5 @@
 # Idiomas
+
 ## ¡Peach está diseñado para todos, sin importar tu idioma!
 
 Aquí puedes encontrar todos los idiomas que actualmente admitimos.

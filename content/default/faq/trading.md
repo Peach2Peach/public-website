@@ -81,16 +81,19 @@ Currencies under high inflation suffer from high volatility, hence the price you
 It depends what type of transactions we are talking about. Here is a list of all transactions that can happen in Peach and their solutions to bump fees:
 
 1. Transaction for funding the escrow to publish a sell offer
+
 - If you funded the escrow from the Peach wallet, you can RBF (Replace-By-Fee) the transaction and pump the fees
 - If you funded the escrow from an external wallet, you need to check if the wallet supports RBF (Replace-By-Fee) to increase the network fees.
 
 2. Release transaction from the escrow (buying Bitcoin)
+
 - If your receiving address is from the Peach wallet, then you can withdraw the total amount to an external wallet of yours with higher fees (Settings > Network fees) - CPFP technique
 - If your receiving address is from an external wallet, you can also do the CPFP technique if it’s supported by your wallet
 
 3. Send transaction from the Peach wallet to another wallet
+
 - RBF (Replace-By-Fee) from the Peach Wallet in your transaction details!
-:::
+  :::
 
 :::details What is GroupHug?
 GroupHug is simply the term we’ve given to the action of batching transactions from different users to avoid fees for each one of them. For a more detailed explanation, check out our [blog post](https://peachbitcoin.com/blog/group-hug).
@@ -118,8 +121,9 @@ Follow this steps to sign the receiving address when buying Bitcoin to an extern
 _Note: The first 2 steps are useful if you **always** want to receive your funds in external addresses. If you just want to do it once, or you want to sometimes use peach wallet, start from step 3._
 
 1. Go to settings
-  - disable peach wallet
-  - go to payout address
+
+- disable peach wallet
+- go to payout address
 
 2. Paste the new receiving address
 
@@ -127,9 +131,10 @@ _Note: The first 2 steps are useful if you **always** want to receive your funds
 
 4. Once you confirm your buy offer, the message to sign your address will appear. Copy it and go back to your wallet.
 
-5. Search for the "sign/verify" option* and paste:
-  - your receiving address
-  - the peach message
+5. Search for the "sign/verify" option\* and paste:
+
+- your receiving address
+- the peach message
 
 6. Click on sign & the signature will appear. Copy it.
 
@@ -137,7 +142,7 @@ _Note: The first 2 steps are useful if you **always** want to receive your funds
 
 8. Your offer is published.
 
-_*Disclaimer: not all wallets support the option to sign/verify your address._ 
+_\*Disclaimer: not all wallets support the option to sign/verify your address._
 Peach recommends using Blue Wallet, Sparrow or Samourai Wallet. Other options include Ledger and Trezor (Hardware Wallets), Bitcoin Core, and Electrum wallet.
 
 You can also find a step by step tutorial on how to sign a message using Blue Wallet in our Youtube account: [https://youtu.be/d3STuVfFWfQ](https://youtu.be/d3STuVfFWfQ)

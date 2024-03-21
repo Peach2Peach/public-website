@@ -1,9 +1,13 @@
 ---
 template: index
 ---
+
 <!--[teaser]-->
+
 # Peach Bitcoin
+
 ## Compre e Venda Bitcoin <span>peer-to-peer</span>
+
 #### Na Suíça🇨🇭
 
 <div class="inner-wrap">
@@ -16,9 +20,9 @@ template: index
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
   </div>
 
-  :::buttons
-  [Download APK no Android](/pt/apk/)
-  :::
+:::buttons
+[Download APK no Android](/pt/apk/)
+:::
 
 </div>
 
@@ -27,7 +31,9 @@ template: index
 #### ✔ verifiable source code
 
 <!--[top]-->
+
 # A maneira mais fácil de comprar e vender Bitcoin P2P
+
 <br>
 
 ## O que é o Peach?
@@ -43,11 +49,13 @@ Venda pelo **preço de sua escolha** porque os mercados peer-to-peer são os ver
 **Bitcoin sem KYC é o Bitcoin mais seguro.**
 
 <!--[mission]-->
+
 ## Junte-se à nossa Missão
 
 ### Nossa missão é tornar a acumulação de sats peer-to-peer o padrão!
 
 <!--[about]-->
+
 ## Sobre Nós
 
 A Peach, a empresa, nasceu de pessoas que acreditam na moeda mais sólida que já existiu e desejam torná-la acessível a todo o mundo sem comprometer os aspectos fundamentais do Bitcoin.
@@ -62,12 +70,12 @@ A Peach é membro da SRO (Organização de Autorregulação) da Polyreg. A Peach
 
 <div class="flex justify-center"><div class="w-1/2">
 
-  ![](/img/home/polyreg.png)
+![](/img/home/polyreg.png)
 
 </div></div>
 
-
 ### O que as pessoas dizem sobre nós?
+
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
 

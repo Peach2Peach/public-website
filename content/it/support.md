@@ -1,10 +1,13 @@
 ---
 template: support
 ---
+
 <!--[intro]-->
+
 # Supporto
 
 <!--[contact]-->
+
 ## Contatti
 
 Siamo qui per aiutarti. Sentiti libero di farci conoscere i tuoi dubbi, preoccupazioni o segnalazioni di bug.
@@ -17,7 +20,7 @@ La nostra [Chiave PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A1964
 <br>
 `4833 9A19 645E 2E53 488E 0E54 79E1 B270 FACD 1BD2`
 
-Per le **dispute**, invia un' email con la tua chiave pubblica allegata a  [dispute@peachbitcoin.com](mailto:dispute@peachbitcoin.com).
+Per le **dispute**, invia un' email con la tua chiave pubblica allegata a [dispute@peachbitcoin.com](mailto:dispute@peachbitcoin.com).
 <br><br>
 [Chiave PGP](https://keys.openpgp.org/search?q=DE7EA40D1102F02553BC3BE8D93581859DCCD664):
 <br>

@@ -10,6 +10,7 @@ previewImage: /img/home/bitcoin-logo.png
 ---
 
 # A rant - Why Bitcoin.
+
 Because NGU forever. But that sounds like a fucking scam, and who am I to be trusted with your financial choices.
 But guess what, your great alternative is trusting the governments. They print money and laugh in your face about all of your struggles. They fuck you with inflation once and they fuck you with taxes again. And if you want to do something that they don’t like with the few bucks left guess what. They fuck you for the third time.
 

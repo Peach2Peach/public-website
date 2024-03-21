@@ -18,6 +18,7 @@ Every modern Bitcoin wallet allows you to see this seed phrase at least once. It
 Here's a quick guide to help you get it, protect it and recover your bitcoin from it:
 
 ## Write Down Your Seed Phrase (12 Words)
+
 As you set up your Bitcoin wallet, whether it's Peach Wallet, Blue Wallet, or Sparrow, you'll receive a valuable asset – your seed phrase.
 
 1. **Initial Setup**: Take a pen and paper, that's all you need. It's also popular to stamp the words into metal to protect it better against the elements.
@@ -29,6 +30,7 @@ As you set up your Bitcoin wallet, whether it's Peach Wallet, Blue Wallet, or Sp
 Remember, your seed phrase is your gateway to your Bitcoin assets, so handle it with the utmost care.
 
 ### How to backup your peach account from seed
+
 :::figures 4
 ![Go to settings > backups > seed phrase](/img/blog/restore-peach-wallet-from-seed/peach-1-backup-seed-phrase.png)
 
@@ -39,14 +41,12 @@ Remember, your seed phrase is your gateway to your Bitcoin assets, so handle it 
 ![Done!](/img/blog/restore-peach-wallet-from-seed/peach-4-backup-seed-phrase.png)
 :::
 
-
-
-
 ## Wallet Recovery Process
 
 When the time comes to recover your Bitcoin wallet using the seed phrase, follow these general steps. The process is almost identical for most bitcoin wallet. You can recover your seed phrase from any other bitcoin wallet. You don't have to use the Peach app. We will give you 3 examples with: [Peach](https://peachbitcoin.com/), [BlueWallet](https://bluewallet.io/), and [Sparrow](https://www.sparrowwallet.com/).
 
 ### In general
+
 In all cases, you are prompted to enter your seed phrase back into an app, program or hardware wallet. It's best to do this step when nobody could be watching you.
 
 Ideally, you use a hardware wallet which is not directly connected to the internet and cannot be infected with potential malware. We recommend [BitBox](https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc) because it's secure and easy to use.
@@ -54,6 +54,7 @@ Ideally, you use a hardware wallet which is not directly connected to the intern
 After you typed in your 12 words. You can quickly verify, you have done it correctly, by checking your balance and transaction history.
 
 ### Peach
+
 The seed phrase allows you to primarily recover your bitcoin funds. These 12 words even serve as a way to recover your Peach account and even access to bitcoin locked in escrow.
 However, you won't be able to recover your payment data and even encrypted data such as payment data from your trades as well as the chat history.
 
@@ -63,8 +64,8 @@ However, you won't be able to recover your payment data and even encrypted data 
 ![Wait for account to restored and wallet to be synced. Then check your balance and transaction history](/img/blog/restore-peach-wallet-from-seed/peach-2-transaction-history-after-recovery.png)
 :::
 
-
 ### BlueWallet
+
 BlueWallet is a popular mobile wallet. It's simple to use yet powerful with many wallet features added.
 
 :::figures 4
@@ -78,8 +79,8 @@ BlueWallet is a popular mobile wallet. It's simple to use yet powerful with many
 
 :::
 
-
 ### Sparrow
+
 The Sparrow Wallet is a powerhouse of a wallet for desktop. It lets you peek under the hood and helps you understand how Bitcoin works technically.
 
 :::figures 7
@@ -109,32 +110,31 @@ I do recommend to try the whole process at least once with little money at stake
 
 If you want to know more about Peach features, or read some of our other articles, you can find them here!
 
-[How to Recover Bitcoin Wallets Using a Seed Phrase](https://peachbitcoin.com/blog/how-to-restore-peach-wallet/ )
+[How to Recover Bitcoin Wallets Using a Seed Phrase](https://peachbitcoin.com/blog/how-to-restore-peach-wallet/)
 
-[How to Fund Multiple Sell Offers](https://peachbitcoin.com/blog/funding-multiple-sell-offers/ )
+[How to Fund Multiple Sell Offers](https://peachbitcoin.com/blog/funding-multiple-sell-offers/)
 
-[How to buy and sell Bitcoin with cash using Peach](https://peachbitcoin.com/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/ )
+[How to buy and sell Bitcoin with cash using Peach](https://peachbitcoin.com/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/)
 
-[How to add a new payment method on the Peach app](https://peachbitcoin.com/blog/how-to-add-a-payment-method/ )
+[How to add a new payment method on the Peach app](https://peachbitcoin.com/blog/how-to-add-a-payment-method/)
 
-[Peach expands to the Global South!](https://peachbitcoin.com/blog/peach-expands-to-the-global-south/ )
+[Peach expands to the Global South!](https://peachbitcoin.com/blog/peach-expands-to-the-global-south/)
 
-[Making our Peach-API Public](https://peachbitcoin.com/blog/making-our-peach-api-public/ )
+[Making our Peach-API Public](https://peachbitcoin.com/blog/making-our-peach-api-public/)
 
-[Full Wallet Functionality](https://peachbitcoin.com/blog/full-wallet-functionality/ )
+[Full Wallet Functionality](https://peachbitcoin.com/blog/full-wallet-functionality/)
 
-[What is GroupHug?](https://peachbitcoin.com/blog/group-hug/ )
+[What is GroupHug?](https://peachbitcoin.com/blog/group-hug/)
 
-[Why P2P series? Chapter 1](https://peachbitcoin.com/blog/why-p2p-chapter-1/ )
+[Why P2P series? Chapter 1](https://peachbitcoin.com/blog/why-p2p-chapter-1/)
 
-[Why P2P series? Chapter 2](https://peachbitcoin.com/blog/why-p2p-chapter-2/ )
+[Why P2P series? Chapter 2](https://peachbitcoin.com/blog/why-p2p-chapter-2/)
 
-[Why P2P series? Chapter 3](https://peachbitcoin.com/blog/why-p2p-chapter-3-circular-economies/ )
+[Why P2P series? Chapter 3](https://peachbitcoin.com/blog/why-p2p-chapter-3-circular-economies/)
 
-[Why P2P series? Chapter 4](https://peachbitcoin.com/blog/why-p2p-chapter-4-chains-of-trust/ )
+[Why P2P series? Chapter 4](https://peachbitcoin.com/blog/why-p2p-chapter-4-chains-of-trust/)
 
-[Peach x meetups](https://peachbitcoin.com/blog/peach-for-meetups/ )
-
+[Peach x meetups](https://peachbitcoin.com/blog/peach-for-meetups/)
 
 If you want to know more about us, check out or socials, or simply [contact us](mailto:hello@peachbitcoin.com) (use our [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2) if possible) we'll be happy to hear from you!
 

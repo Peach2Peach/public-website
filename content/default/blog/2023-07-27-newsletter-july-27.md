@@ -18,9 +18,10 @@ description: |
   Bitcoin is money for free people. We believe that every single human being has the right to choose which money he uses to store his wealth, the
   result of his work, his time and energy. Peach Bitcoin is the easiest platform to buy and sell bitcoin peer to peer.
   Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
-
 ---
+
 # Newsletter July 27th
+
 ## Peaches have a strong core
 
 ![peachy peach bitcoin gif](/img/blog/newsletter/gif-peach.gif)
@@ -71,6 +72,7 @@ And in case they don't understand why they should be using Peach instead of any 
 P.S. As you may know, peach is a startup working on a Bitcoin standard, creating the easiest and most sovereign way to buy and sell Bitcoin. Currently, we're on our way to raising a seed round, so if you know anyone who'd be interested in investing in Peach, get in touch with us!
 
 ## Market Stats
+
 from 06/27 to 07/27
 
 Down here, you'll find a recap of the most important stats from the previous weeks. Let us know if you'd like to see any chart or metric that doesn't appear here.
@@ -82,25 +84,32 @@ Median time to complete trade --> Median time between a trade is double matched,
 Do you know any Bitcoin seller looking to sell their corn at 0% fee? Bring them to Peach, we're surrounded of thirsty buyers.
 
 ### Average Premium
+
 - 5.4 %
 
 ### Median time to complete a trade
+
 - 10 minutes
 
 ### Number of trades
+
 - 949
 
 ### Total amount traded
+
 - 741 121 176 sats (206 784 CHF)
 
 ### Average Trade Amount
+
 - 780 950 sats (218 CHF)
 
 ### Order Book Status
+
 586 buy offers | 31 sell offers
-*July 27th - 12:00pm
+\*July 27th - 12:00pm
 
 ### Top 5 Payment Methods
+
 1. Revolut
 2. Sepa + Instant Sepa
 3. PayPal
@@ -108,40 +117,38 @@ Do you know any Bitcoin seller looking to sell their corn at 0% fee? Bring them 
 5. Twint
 
 ### Newly added meetups
-- Italian Satoshi Spritz full community
 
+- Italian Satoshi Spritz full community
 
 ## Final Notes
 
 If you want to know more about Peach features, or read some of our other articles, you can find them here!
 
-[How to Recover Bitcoin Wallets Using a Seed Phrase](https://peachbitcoin.com/blog/how-to-restore-peach-wallet/ )
+[How to Recover Bitcoin Wallets Using a Seed Phrase](https://peachbitcoin.com/blog/how-to-restore-peach-wallet/)
 
-[How to Fund Multiple Sell Offers](https://peachbitcoin.com/blog/funding-multiple-sell-offers/ )
+[How to Fund Multiple Sell Offers](https://peachbitcoin.com/blog/funding-multiple-sell-offers/)
 
-[How to buy and sell Bitcoin with cash using Peach](https://peachbitcoin.com/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/ )
+[How to buy and sell Bitcoin with cash using Peach](https://peachbitcoin.com/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/)
 
-[How to add a new payment method on the Peach app](https://peachbitcoin.com/blog/how-to-add-a-payment-method/ )
+[How to add a new payment method on the Peach app](https://peachbitcoin.com/blog/how-to-add-a-payment-method/)
 
-[Peach expands to the Global South!](https://peachbitcoin.com/blog/peach-expands-to-the-global-south/ )
+[Peach expands to the Global South!](https://peachbitcoin.com/blog/peach-expands-to-the-global-south/)
 
-[Making our Peach-API Public](https://peachbitcoin.com/blog/making-our-peach-api-public/ )
+[Making our Peach-API Public](https://peachbitcoin.com/blog/making-our-peach-api-public/)
 
-[Full Wallet Functionality](https://peachbitcoin.com/blog/full-wallet-functionality/ )
+[Full Wallet Functionality](https://peachbitcoin.com/blog/full-wallet-functionality/)
 
-[What is GroupHug?](https://peachbitcoin.com/blog/group-hug/ )
+[What is GroupHug?](https://peachbitcoin.com/blog/group-hug/)
 
-[Why P2P series? Chapter 1](https://peachbitcoin.com/blog/why-p2p-chapter-1/ )
+[Why P2P series? Chapter 1](https://peachbitcoin.com/blog/why-p2p-chapter-1/)
 
-[Why P2P series? Chapter 2](https://peachbitcoin.com/blog/why-p2p-chapter-2/ )
+[Why P2P series? Chapter 2](https://peachbitcoin.com/blog/why-p2p-chapter-2/)
 
-[Why P2P series? Chapter 3](https://peachbitcoin.com/blog/why-p2p-chapter-3-circular-economies/ )
+[Why P2P series? Chapter 3](https://peachbitcoin.com/blog/why-p2p-chapter-3-circular-economies/)
 
-[Why P2P series? Chapter 4](https://peachbitcoin.com/blog/why-p2p-chapter-4-chains-of-trust/ )
+[Why P2P series? Chapter 4](https://peachbitcoin.com/blog/why-p2p-chapter-4-chains-of-trust/)
 
-[Peach x meetups](https://peachbitcoin.com/blog/peach-for-meetups/ )
-
-
+[Peach x meetups](https://peachbitcoin.com/blog/peach-for-meetups/)
 
 If you want to know more about us, check out or socials, or simply [contact us](mailto:hello@peachbitcoin.com) (use our [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2) if possible) we'll be happy to hear from you!
 

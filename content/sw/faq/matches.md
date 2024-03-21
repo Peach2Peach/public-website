@@ -22,7 +22,7 @@ Jihadhari, [alama yako ya sifa](/faq/account/#what-does-the-peach-score-mean) it
 :::details Can I cancel a Double Match (a trade)?
 
 Biashara inaundwa mara tu Muuzaji anapokubali ofa ya Mnunuzi.
-Mnunuzi anapokea taarifa za malipo kutoka kwa Muuzaji kiotomatiki*.
+Mnunuzi anapokea taarifa za malipo kutoka kwa Muuzaji kiotomatiki\*.
 Mnunuzi anaweza kufuta biashara wakati wowote.
 Muuzaji anaweza kufuta biashara tu kwa kumuuliza kwanza Mnunuzi ikiwa yuko tayari kufuta.
 Jihadhari, kufuta biashara kunaweza kuathiri [alama yako ya sifa](/faq/account/#what-does-the-peach-score-mean)!

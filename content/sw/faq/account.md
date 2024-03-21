@@ -43,7 +43,7 @@ Nakala rudufu ya faili inaweza kurejesha akaunti yako yote ya Peach, ili usihita
 - Historia ya mazungumzo
 - Data ya malipo
 - Data ya malipo ya upande wa pili katika historia ya biashara
-:::
+  :::
 
 :::details How does the Peach referral system work?
 

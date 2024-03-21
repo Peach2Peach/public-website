@@ -22,7 +22,7 @@ Attenzione, il tuo [punteggio di reputazione](/it/faq/account/#what-does-the-pea
 :::details Posso annullare un Doppio Match (uno scambio)?
 
 Uno scambio viene creato non appena il venditore accetta l'offerta del compratore.
-Il compratore riceve automaticamente gli estremi di pagamento del venditore*.
+Il compratore riceve automaticamente gli estremi di pagamento del venditore\*.
 Il compratore può annullare lo scambio in qualsiasi momento.
 Il venditore può annullare uno scambio solo chiedendo prima al compratore se è d'accordo ad annullare.
 Attenzione, annullare una transazione influisce sul tuo [punteggio di reputazione](/it/faq/account/#what-does-the-peach-score-mean)!

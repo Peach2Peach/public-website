@@ -22,7 +22,7 @@ Attention, votre [score de réputation](/faq/trading/#what-does-the-peach-score-
 :::details Puis-je annuler une Double Correspondance (un échange) ?
 
 Un échange est créé dès que le vendeur accepte l'offre de l'acheteur.
-L'acheteur reçoit automatiquement les coordonnées de paiement* du vendeur.
+L'acheteur reçoit automatiquement les coordonnées de paiement\* du vendeur.
 L'acheteur peut annuler l'échange à tout moment.
 Le vendeur ne peut annuler un échange qu'en demandant d'abord à l'acheteur s'il est d'accord pour annuler.
 Attention, l'annulation d'un échange a un impact sur votre [score de réputation](/faq/trading/#what-does-the-peach-score-mean) !

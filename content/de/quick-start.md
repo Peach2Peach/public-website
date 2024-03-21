@@ -52,7 +52,7 @@ Nach der Veröffentlichung deines Kaufangebots werden dir alle Verkaufsangebote 
 ![Match Karte](/img/faq/quickstart/buy/MatchCardExplainer.png)
 
 :::figures 2
-![Wenn du die Währung und Zahlungsmethode ausgewählt hast, welche du für diesen Trade verwenden möchtest (falls du mehr als eine gemeinsam hast), kannst du das Angebot anpassen.](/img/faq/quickstart/buy/BuyStep6.png )
+![Wenn du die Währung und Zahlungsmethode ausgewählt hast, welche du für diesen Trade verwenden möchtest (falls du mehr als eine gemeinsam hast), kannst du das Angebot anpassen.](/img/faq/quickstart/buy/BuyStep6.png)
 
 ![Du hast 5 Sekunden Zeit den Vorgang rückgängig zu machen, wenn du deine Meinung änderst.  Danach wird der Verkäufer über den Match benachrichtigt wenn du dein Match jetzt rückgängig machst wird es als stornierung betrachtet (Dein Peach Ruf wird negativ beeinflusst)](/img/faq/quickstart/buy/BuyStep7.png)
 :::

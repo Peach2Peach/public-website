@@ -19,6 +19,7 @@ description: |
   result of his work, his time and energy.
   Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
 ---
+
 # Newsletter August 10th
 
 ![peachy peach bitcoin gif](/img/blog/newsletter/gif-peach.gif)
@@ -33,7 +34,7 @@ As a wise man once said...
 
 Guys, make sure if Peach ever asks you to scan your iris to use our services... We've been compromised and you should gtfo asap!
 We're commited to provide plebs an easy way to buy and sell bitcoin via their smartphone, without promising stupid airdrops, yield or whatever this shitcoin marketing people come up with next. We're sure anyone who puts enough proof of work into studying how money works, will end up stacking as much sats as possible, and ditch all those casino coins.
-Ok, enough ranting about trivial things, let's get to the really important news... 
+Ok, enough ranting about trivial things, let's get to the really important news...
 We've been occupied preparing everything for this September, as Riga Baltic Honeybadger is just a couple weeks away, and we couldn't be more excited.
 BHB is special for us as we launched Peach Bitcoin there 1 year ago, and we are preparing some BIG announcements for this year's edition. Peach 0.3 is arriving, and it brings huge news with it.
 
@@ -46,7 +47,9 @@ Do you even remember how Peach looked 1 year ago?
 
 Unfortunately, we won't be having a stand this year, but we're bringing some cool merch and surprises for you all guys, so make sure to stop any Peach member if you see them to ask for some 🎁.
 We'll see if Bitcoin keeps giving us this extremely-low-volatility while we are there, but in case you were wondering... Of course you'll be able to purchase sats using cash during the conference!
+
 ---
+
 Apart from the hype BHB has on us, there are some other things we'd like to share with you, as we think they're really important and should not be dismissed.
 If you follow us on twitter, you may have already seen the following tweet:
 
@@ -59,8 +62,8 @@ We've sent some sats to Alexis, and we now want to bring this to our subscribers
 This is the link in case you'd like to contribute:
 https://btcpay.nymte.ch/apps/2aks2XSx8ogQFc2CPuKVben8KNcP/crowdfund
 
-Privacy is a human fight.
----
+## Privacy is a human fight.
+
 And btw... Now that we're talking about that... We've heard some people talking about a possible implementation of BIP47 (Reusable Payment Codes, commonly known as PayNyms) on Peach...👀
 What do you think peaches? Could BIP47 be a good fit for us? Let us know what you think by commenting on this tweet:
 
@@ -72,7 +75,6 @@ from 09/07 to 10/08
 
 Down here, you'll find a recap of the most important stats from the previous weeks. Let us know if you'd like to see any chart or metric that doesn't appear here.
 
- 
 Avg. BUY offers / day
 135
 
@@ -103,14 +105,15 @@ Average Trade amount
 216 CHF
 
 Most used Payment Methods
+
 1. Revolut
 2. Sepa
 3. Wise
 4. Paypal
 5. Twint
 
-
 New Meetups:
+
 - Bitcoin Alps
 - Bitcoin Beer Malta
 - Kent Bitcoin, Midlands, UK

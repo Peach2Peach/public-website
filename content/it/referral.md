@@ -2,7 +2,9 @@
 title: Referral
 template: referral
 ---
+
 <!--[teaser]-->
+
 ![Compra e Vendi Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
 
 ## Sei stato invitato ad unirti a Peach!
@@ -10,6 +12,7 @@ template: referral
 Scarica l'app gratuitamente e inizia a fare scambi subito! Non ti chiederemo mai il tuo documento d'identità o un selfie con la tua patente.
 
 ### Passo 1: Installa l'App
+
 :::buttons
 [Scarica su iPhone]($iosUrl$)
 [Scarica su Android]($androidUrl$)
@@ -17,9 +20,11 @@ Scarica l'app gratuitamente e inizia a fare scambi subito! Non ti chiederemo mai
 :::
 
 ### Passo 2: Registrati utilizzando il codice di affiliazione
+
 Registarti utilizzando il codice di affiliazione: <span id="referral-code"><span> e ricevi un bonus di iscrizione.
 
 Oppure clicca su questo pulsante dal tuo smartphone:
+
 <div class="buttons">
   <p>
     <a id="referral-code-button" href="https://peachbitcoin.page.link/?link=https%3A%2F%2Fpeachbitcoin.com%2Fit%2Freferral%3Fcode%3DREFERRAL">Ricevi Bonus Iscrizione!</a>

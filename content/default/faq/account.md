@@ -43,7 +43,7 @@ The file backup can recover your entire Peach account, so that you won't need to
 - Chat history
 - Payment data
 - Counterparty's payment data in the trade history
-:::
+  :::
 
 :::details How does the Peach referral system work?
 

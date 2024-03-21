@@ -1,6 +1,7 @@
 # Приєднуйтеся до нас
 
 ## Відкриті вакансії
+
 <!--
 ::::figures 3
 :::box tech-peach
@@ -49,17 +50,23 @@ Instagram / Tik Tok
 
 ::::figures 3
 :::box tech-docker
+
 ### Інфраструктура сервера
+
 Linux, Docker, NodeJS
 :::
 
 :::box tech-react
+
 ### Створення додатка
+
 React & React Native, BDK
 :::
 
 :::box tech-figma
+
 ### Дизайн та концепція
+
 Figma
 :::
 ::::

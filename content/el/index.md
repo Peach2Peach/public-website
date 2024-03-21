@@ -1,9 +1,13 @@
 ---
 template: index
 ---
+
 <!--[teaser]-->
+
 # Peach Bitcoin
+
 ## Αγοράστε & Πουλήστε Bitcoin <span>peer-to-peer</span>
+
 #### από την Ελβετία🇨🇭
 
 <div class="inner-wrap">
@@ -16,9 +20,9 @@ template: index
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
   </div>
 
-  :::buttons
-  [Κατεβάστε το αρχείο APK](/el/apk/)
-  :::
+:::buttons
+[Κατεβάστε το αρχείο APK](/el/apk/)
+:::
 
 </div>
 
@@ -27,7 +31,9 @@ template: index
 #### ✔ επαληθέσιμος πηγαίος κώδικας
 
 <!--[top]-->
+
 # Ο πιο εύκολος τρόπος για να αγοράσετε και να πουλήσετε Bitcoin P2P
+
 <br>
 
 ## Τι είναι το Peach;
@@ -43,11 +49,13 @@ template: index
 **Το Bitcoin χωρίς KYC είναι το καλύτερο Bitcoin.**
 
 <!--[mission]-->
+
 ## Γίνετε μέλος της αποστολής μας
 
 ### Στόχος μας είναι να κάνουμε πρότυπο την συσσώρευση sats μεταξύ ομότιμων χρηστών!
 
 <!--[about]-->
+
 ## Σχετικά με Εμάς
 
 Η Peach, η εταιρεία, γεννήθηκε από ανθρώπους που πιστεύουν στο πιο σκληρό χρήμα που υπήρξε ποτέ και θέλουν να το καταστήσουν προσιτό σε όλο τον κόσμο, χωρίς συμβιβασμούς στις θεμελιώδεις αρχές του Bitcoin.
@@ -60,11 +68,12 @@ template: index
 
 <div class="flex justify-center"><div class="w-1/2">
 
-  ![](/img/home/polyreg.png)
+![](/img/home/polyreg.png)
 
 </div></div>
 
 ### Τι λέει ο κόσμος για εμάς;
+
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
 

@@ -32,31 +32,41 @@ Follow this steps to verify that the APK you downloaded is the real Peach APK:
 - Download Peach PGP key https://keys.openpgp.org/vks/v1/by-fingerprint/E970EDB410C8E84198F141584AD3CE3043D8CD1B (can be found in our website also)
 
 - Generate the checksum of the APK file you’ve downloaded and compare them with the checksum on the manifest.
-````
+
+```
 sha256sum app-prod-arm64-v8a-release.apk
-````
+```
+
 (substitute app-prod-arm64-v8a-release.apk for the name of your file). It should be the same one as on the manifest. Otherwise contact us and make sure you don’t install that application in your device. In this example, you should see the following output:
+
 ```
 $ sha256sum app-prod-arm64-v8a-release.apk
 
 09e4e2db837b2a2aef3a51527ef24fae22cff2b7e2ecd4ca01502c8a61961584  app-prod-arm64-v8a-release.apk
 ```
+
 If we compare it to the one found in the manifest-peach.txt we can see it is the same one.
 
 - Add the Peach key to your keyring
+
 ```
 gpg --import PGP-peach.asc
 ```
+
 (make sure to substitute PGP-peach.asc for the correct file name, usually it will be E970EDB410C8E84198F141584AD3CE3043D8CD1B.asc)
 
 - Verify the signatures that you previously downloaded with the following command:
+
 ```
 gpg --verify manifest-peach.sig manifest-peach.txt
-``` 
+```
+
 In the output you should see the following line:
+
 ```
 gpg: Good signature from "hello@peachbitcoin.com <hello@peachbitcoin.com>" [unknown]
 ```
+
 :::
 
 :::details Is Taproot supported?
@@ -87,7 +97,7 @@ That said, we are doing our best to keep your wallet secure by using standard be
 
 PIN/Password protection is planned as well.
 
-In any case, we advice you to move your funds to cold storage (a hardware wallet such as the [Bitbox 02](https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc "https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc")) which has much stronger security guarantees.
+In any case, we advice you to move your funds to cold storage (a hardware wallet such as the [Bitbox 02](https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc 'https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc')) which has much stronger security guarantees.
 
 :::
 

@@ -22,7 +22,7 @@ Watch out, your [reputation score](/faq/account/#what-does-the-peach-score-mean)
 :::details Can I cancel a Double Match (a trade)?
 
 A trade is created as soon as the Seller accepts a Buyer's offer.
-The Buyer automatically receives the Seller's payment details*.
+The Buyer automatically receives the Seller's payment details\*.
 The Buyer can cancel the trade at anytime.
 The Seller can only cancel a trade by asking rst to the Buyer if he is okay to cancel.
 Watch out, cancelling a trade impacts your [reputation score](/faq/account/#what-does-the-peach-score-mean)!

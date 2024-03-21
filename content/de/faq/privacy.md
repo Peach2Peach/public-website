@@ -31,31 +31,41 @@ Befolgen diese Schritte um zu überprüfen ob es sich bei der heruntergeladenen 
 - Lade den Peach PGP-Schlüssel herunter: https://keys.openpgp.org/vks/v1/by-fingerprint/E970EDB410C8E84198F141584AD3CE3043D8CD1B (auch auf unserer Website)
 
 - Generiere die Prüfsumme der heruntergeladenen APK-Datei und vergleiche sie mit der Prüfsumme im Manifest.
+
 ```
 sha256sum app-prod-arm64-v8a-release.apk
 ```
+
 (Ersetze den Namen der Datei durch app-prod-arm64-v8a-release.apk.) Er sollte derselbe sein wie im Manifest. Andernfalls kontaktiere uns und stelle sicher dass du diese Anwendung nicht auf das Gerät installierst. In diesem Beispiel solltest du folgende Ausgabe sehen:
+
 ```
 $ sha256sum app-prod-arm64-v8a-release.apk
 
 09e4e2db837b2a2aef3a51527ef24fae22cff2b7e2ecd4ca01502c8a61961584 app-prod-arm64-v8a-release.apk
 ```
+
 Wenn wir sie mit dem im manifest-peach.txt gefundenen vergleichen sehen wir dass es dieselbe ist.
 
 - Füge den Peach-Schlüssel zu deinem Schlüsselbund hinzu
+
 ```
 gpg --import PGP-peach.asc
 ```
+
 (Stelle sicher dass du PGP-peach.asc durch den korrekten Dateinamen ersetzt. Normalerweise lautet dieser E970EDB410C8E84198F141584AD3CE3043D8CD1B.asc.)
 
 - Überprüfe die Signaturen welche du zuvor heruntergeladen hast mit dem folgenden Befehl:
+
 ```
 gpg --verify manifest-peach.sig manifest-peach.txt
 ```
+
 In der Ausgabe solltest du die folgende Zeile sehen:
+
 ```
 gpg: Good signature from "hello@peachbitcoin.com <hello@peachbitcoin.com>" [unknown]
 ```
+
 :::
 
 :::details Wie signiere ich eine externe Adresse?
@@ -64,6 +74,7 @@ Befolge diese Schritte um die Empfangsadresse zu signieren, wenn du Bitcoin kauf
 _Hinweis: Die ersten beiden Schritte sind hilfreich wenn du deine Bitcoin **immer** auf externe Adressen erhalten möchtest. Wenn du dies nur einmal tun möchtest oder gelegentlich das Peach Wallet verwenden möchtest beginne mit Schritt 3._
 
 1. Gehe zu den Einstellungen
+
    - Peach Wallet deaktivieren
    - Gehe zur Auszahlungsadresse
 
@@ -73,7 +84,8 @@ _Hinweis: Die ersten beiden Schritte sind hilfreich wenn du deine Bitcoin **imme
 
 4. Sobald du dein Kaufangebot bestätigt hast wird die Meldung zum signieren deiner Adresse angezeigt. Kopiere sie und kehre zur Wallet zurück.
 
-5. Suche nach der Option „Signieren/Bestätigen“* und füge folgendes ein:
+5. Suche nach der Option „Signieren/Bestätigen“\* und füge folgendes ein:
+
    - Deine Empfangsadresse
    - die Peachmitteilung
 
@@ -83,14 +95,14 @@ _Hinweis: Die ersten beiden Schritte sind hilfreich wenn du deine Bitcoin **imme
 
 8. Dein Angebot wird veröffentlicht.
 
-_*Haftungsausschluss: Nicht alle Wallets unterstützen die Option zum Signieren/Verifizieren deiner Adresse. Peach empfiehlt die verwendung von Blue Wallet, Sparrow oder Samourai, da diese alle die Option zum Signieren/Verifizieren bieten._
+_\*Haftungsausschluss: Nicht alle Wallets unterstützen die Option zum Signieren/Verifizieren deiner Adresse. Peach empfiehlt die verwendung von Blue Wallet, Sparrow oder Samourai, da diese alle die Option zum Signieren/Verifizieren bieten._
 :::
 
 :::details Wird Taproot unterstützt?
 
 - Ja, du kannst an Taproot-Adressen von der Peach Wallet aus senden.
 - Du kannst auch direkt vom Treuhandkonto auf deine externe Taproot-Adresse empfangen.
-:::
+  :::
 
 :::details Wie kann ich mich mit meinem eigenen Node verbinden?
 
@@ -103,7 +115,6 @@ Schau dir unser [Video-Tutorial](https://www.youtube.com/watch?v=xtvq2i3mIYg) an
 Wenn du Umbrel verwendest, kannst du stattdessen umbrel.{Portnummer} anstelle der IP deines Knotens verwenden.
 :::
 
-
 :::details Was ist Coin Control?
 
 Die Peach Wallet unterstützt Coin Control oder das Coin-Management. Das Ziel von Coin Control ist es, deine Münzen getrennt zu halten, wenn du das möchtest, um die Privatsphäre zu verwalten.
@@ -111,4 +122,3 @@ Die Peach Wallet unterstützt Coin Control oder das Coin-Management. Das Ziel vo
 Sieh dir unser Video an, das Coin Control im Detail erklärt: [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
 
 :::
-

@@ -2,7 +2,9 @@
 title: Referral
 template: referral
 ---
+
 <!--[teaser]-->
+
 ![Nunua na Uza Bitcoin Kwa Kujitegemea](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
 
 ## Umealikwa kujiunga na Peach!
@@ -10,6 +12,7 @@ template: referral
 Pakua programu bure na anza biashara mara moja! Hatutakuuliza kupakia kitambulisho chako au kujipiga picha na leseni ya udereva.
 
 ### Hatua 1: Sakinisha Programu
+
 :::buttons
 [Pakua kwenye iPhone]($iosUrl$)
 [Pakua kwenye Android]($androidUrl$)
@@ -17,9 +20,11 @@ Pakua programu bure na anza biashara mara moja! Hatutakuuliza kupakia kitambulis
 :::
 
 ### Hatua 2: Jiandikishe kwa Kutumia Nambari ya Rufaa
+
 Jisajili kwa kutumia nambari ya rufaa: <span id="referral-code"><span> na upokee bonasi ya usajili.
 
 Au bonyeza kitufe hiki kwenye kifaa chako cha simu:
+
 <div class="buttons">
   <p>
     <a id="referral-code-button" href="https://peachbitcoin.page.link/?link=https%3A%2F%2Fpeachbitcoin.com%2Freferral%3Fcode%3DREFERRAL">Pata bonasi ya kujiandikisha!</a>

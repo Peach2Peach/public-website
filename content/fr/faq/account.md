@@ -43,7 +43,7 @@ La sauvegarde du fichier peut récupérer l'intégralité de votre compte Peach,
 - L'historique des discussions
 - Les données de paiement
 - Les données de paiement des contreparties dans l'historique des transactions
-:::
+  :::
 
 :::details Comment fonctionne le système de parrainage Peach ?
 

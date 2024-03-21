@@ -43,7 +43,7 @@ La copia de seguridad de archivo puede recuperar toda tu cuenta de Peach, para q
 - Historial de chats
 - Métodos de Pago
 - Datos de pago de tus contrapartes en tu historial de intercambios
-:::
+  :::
 
 :::details ¿Cómo funciona el sistema de referidos de Peach?
 
@@ -77,4 +77,3 @@ Si teme que una operación sea eliminada, puede aumentar sus comisiones utilizan
 Para saber más sobre cómo acelerar transacciones, eche un vistazo a nuestro vídeo de Youtube para aprender a hacer un CPFP desde Peach: https://www.youtube.com/watch?v=24OtQkL0CxU
 
 :::
-

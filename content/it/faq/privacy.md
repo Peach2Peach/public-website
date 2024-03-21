@@ -37,31 +37,41 @@ Segui questi passaggi per verificare che l'APK che hai scaricato sia il vero APK
 - Scarica la chiave PGP di Peach da [qui](https://keys.openpgp.org/vks/v1/by-fingerprint/E970EDB410C8E84198F141584AD3CE3043D8CD1B) (può essere trovata anche in fondo al sito web)
 
 - Genera il checksum del file APK scaricato e confrontalo con il checksum nel manifest.
-````
+
+```
 sha256sum app-prod-arm64-v8a-release.apk
-````
+```
+
 (sostituisci app-prod-arm64-v8a-release.apk con il nome del tuo file). Dovrebbe essere lo stesso nome indicato nel manifest. In caso contrario, contattaci e assicurati di non installare quell'applicazione sul tuo dispositivo. Per l'esempio fatto sopra, dovresti visualizzare il seguente output:
+
 ```
 $ sha256sum app-prod-arm64-v8a-release.apk
 
 09e4e2db837b2a2aef3a51527ef24fae22cff2b7e2ecd4ca01502c8a61961584  app-prod-arm64-v8a-release.apk
 ```
+
 Se confrontiamo questo con quello trovato nel file manifest-peach.txt, possiamo verificare che corrispondono.
 
 - Aggiungi la chiave Peach al tuo portachiavi.
+
 ```
 gpg --import PGP-peach.asc
 ```
+
 (assicurati di sostituire PGP-peach.asc con il nome corretto del file, di solito sarà E970EDB410C8E84198F141584AD3CE3043D8CD1B.asc)
 
 - Verifica le firme che hai scaricato in precedenza con il seguente comando:
+
 ```
 gpg --verify manifest-peach.sig manifest-peach.txt
-``` 
+```
+
 Nell'output dovresti vedere la seguente riga:
+
 ```
 gpg: Good signature from "hello@peachbitcoin.com <hello@peachbitcoin.com>" [unknown]
 ```
+
 :::
 
 :::details Come firmare un indirizzo esterno?
@@ -70,6 +80,7 @@ Segui questi passaggi per firmare l'indirizzo di ricezione quando acquisti Bitco
 _Nota: i primi 2 passaggi sono utili se desideri **sempre** ricevere i tuoi fondi in un indirizzo esterno. Se vuoi farlo solo una volta, o desideri utilizzare occasionalmente il wallet Peach, inizia dal passaggio 3._
 
 1. Vai in impostazioni
+
    - disabilita il wallet Peach
    - vai all'indirizzo di pagamento
 
@@ -79,7 +90,8 @@ _Nota: i primi 2 passaggi sono utili se desideri **sempre** ricevere i tuoi fond
 
 4. Una volta confermata la tua offerta di acquisto, apparirà il messaggio per firmare il tuo indirizzo. Copialo e torna al tuo wallet esterno.
 
-5. Cerca l'opzione "firma/verifica"* e incolla:
+5. Cerca l'opzione "firma/verifica"\* e incolla:
+
    - il tuo indirizzo di ricezione
    - il messaggio di Peach
 
@@ -89,7 +101,7 @@ _Nota: i primi 2 passaggi sono utili se desideri **sempre** ricevere i tuoi fond
 
 8. La tua offerta è pubblicata.
 
-_*Disclaimer: non tutti i wallet esterni supportano l'opzione di firma/verifica dell'indirizzo. Peach consiglia di utilizzare Blue Wallet, Sparrow o Samourai in quanto offrono tutti l'opzione di firma/verifica._
+_\*Disclaimer: non tutti i wallet esterni supportano l'opzione di firma/verifica dell'indirizzo. Peach consiglia di utilizzare Blue Wallet, Sparrow o Samourai in quanto offrono tutti l'opzione di firma/verifica._
 :::
 
 :::details Taproot è supportato?
@@ -110,7 +122,6 @@ Guarda il nostro [tutorial video](https://www.youtube.com/watch?v=xtvq2i3mIYg) p
 Se stai usando Umbrel, puoi utilizzare umbrel.{numero di porta} al posto dell'IP del tuo nodo.
 
 :::
-
 
 :::details Cos'è il controllo delle monete?
 

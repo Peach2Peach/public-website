@@ -2,7 +2,9 @@
 title: Como funciona
 template: how_it_works
 ---
+
 <!--[teaser]-->
+
 ![Compre e venda Bitcoin entre pares](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
 
 ### Acumule satoshis <span>todos os dias</span>!
@@ -10,6 +12,7 @@ template: how_it_works
 **Compre e venda até 1000 CHF por dia e 100.000 CHF por ano.**
 
 <!--[easy_registration]-->
+
 ### Registro fácil
 
 Baixe o aplicativo gratuitamente e compre ou venda Bitcoin imediatamente! Não pediremos que você envie seu ID ou tire uma selfie com sua carteira de motorista ;)
@@ -20,14 +23,16 @@ Baixe o aplicativo gratuitamente e compre ou venda Bitcoin imediatamente! Não p
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
   </div>
 
-  :::buttons
-  [Download APK no Android](/pt/apk/)
-  :::
+:::buttons
+[Download APK no Android](/pt/apk/)
+:::
 
 </div>
 
 <!--[payment_methods]-->
+
 ### Métodos de pagamento aceitos
+
 Existem muitos métodos de pagamento que você pode escolher.
 
 #### Moedas Suportadas
@@ -89,16 +94,19 @@ Se houver outro método de pagamento que você gostaria de usar, mas não está 
 **[ESTE FORMULÁRIO](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
 <!--[self_custody]-->
+
 ### Não suas chaves, não seu dinheiro
 
 O aplicativo possui uma carteira fácil de usar que você controla, ou você pode usar sua carteira existente. Fique simples ou vá hardcore - você está sempre no controle.
 
 <!--[security]-->
+
 ### Super seguro
 
 A Peach usa endereços de Bitcoin de Multi-Assinatura para garantir que a parte certa possa receber os bitcoins se algo der errado durante a troca.
 
 <!--[difference]-->
+
 ### O que torna a Peach diferente de outras trocas?
 
 Com a Peach, você não nos compra nem nos vende.
@@ -107,11 +115,13 @@ Isso torna a negociação de Bitcoin mais privada e permite que você use qualqu
 Nossa missão é tornar isso o mais fácil e seguro possível.
 
 <!--[sounds_cool]-->
+
 ### Parece ótimo, mas como funciona?
 
 Temos um guia completo para começar bem aqui:
 
 <!--[questions]-->
+
 ### Ainda tem perguntas?
 
 Você pode encontrar suas respostas em nossas Perguntas Frequentes.

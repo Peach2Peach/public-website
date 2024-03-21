@@ -1,6 +1,7 @@
 # Komm zu uns
 
 ## Offene Stellen
+
 <!--
 ::::figures 3
 :::box tech-peach
@@ -49,17 +50,23 @@ Wir sind immer an Bewerbungen von Rockstar-Talenten aus den Bereichen Technik, P
 
 ::::figures 3
 :::box tech-docker
+
 ### Server Infrastruktur
+
 Linux, Docker, NodeJS
 :::
 
 :::box tech-react
+
 ### Appaufbau
+
 React & React Native, BDK
 :::
 
 :::box tech-figma
+
 ### Konzeptierung & Design
+
 Figma
 :::
 ::::

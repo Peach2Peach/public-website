@@ -22,7 +22,7 @@ Cuidado, sua [pontuação de reputação](/pt/faq/account/#what-does-the-peach-s
 :::details Posso cancelar um Double Match (uma negociação)?
 
 Uma negociação é criada assim que o Vendedor aceita a oferta do Comprador.
-O Comprador recebe automaticamente os detalhes de pagamento do Vendedor*.
+O Comprador recebe automaticamente os detalhes de pagamento do Vendedor\*.
 O Comprador pode cancelar a negociação a qualquer momento.
 O Vendedor só pode cancelar uma negociação pedindo primeiro ao Comprador se ele concorda em cancelar.
 Cuidado, o cancelamento de uma negociação afeta sua [pontuação de reputação](/pt/faq/account/#what-does-the-peach-score-mean)!

@@ -2,7 +2,9 @@
 title: Referral
 template: referral
 ---
+
 <!--[teaser]-->
+
 ![Αγοράστε και Πουλήστε Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
 
 ## Έχετε προσκληθεί να συμμετάσχετε στην peach!
@@ -10,6 +12,7 @@ template: referral
 Κατεβάστε δωρεάν την εφαρμογή και ξεκινήστε αμέσως τις συναλλαγές! Δεν θα σας ζητήσουμε να ανεβάσετε την ταυτότητά σας ή να βγάλετε μια selfie με το δίπλωμα οδήγησής σας.
 
 ### Βήμα 1: Εγκατάσταση της εφαρμογής
+
 :::buttons
 [Λήψη για iPhone]($iosUrl$)
 [Λήψη για Android]($androidUrl$)

@@ -8,6 +8,7 @@ tags:
   - Company
 previewImage: /img/blog/all-about-peach-the-company/teaser.jpg
 ---
+
 # Ciao Mondo
 
 C'è un detto: "Non chiederti cosa Bitcoin può fare per te - chiediti cosa puoi fare tu per Bitcoin".
@@ -37,7 +38,7 @@ L'azienda è stata creata il 23 febbraio 2022. Ad aprile, abbiamo rilasciato Pea
 Peach è un semplice frutto e io sono una donna semplice. Voglio solo aiutare le persone che hanno scelto la pillola arancione. Peach non ha pretese, sta solo fornendo la prova del lavoro necessaria per diventare il miglior gateway per tua nonna, tua madre, tua figlia, tua nipote. E per te!
 
 > Ho iniziato la mia vita con un solo assoluto: che il mondo fosse mio da plasmare a immagine dei miei valori più alti e mai consegnarlo a uno standard inferiore, non importa quanto lunga o difficile fosse la lotta.
-<cite>— Ayn Rand, La rivolta di Atlante</cite>
+> <cite>— Ayn Rand, La rivolta di Atlante</cite>
 
 Peach non è solo un prodotto, ma anche il mio viaggio individualistico per raggiungere la migliore versione di me stessa. Alcune persone si uniranno a Peach perché si allineano con i miei valori. Ma la massa che utilizzerà Peach lo farà perché è il miglior prodotto a loro disposizione.
 

@@ -1,6 +1,7 @@
 # Jiunge Nasi
 
 ## Nafasi za Wazi
+
 <!--
 ::::figures 3
 :::box tech-peach
@@ -49,17 +50,23 @@ Tunavutiwa siku zote na kupokea maombi kutoka kwa talanta mahiri katika uhandisi
 
 ::::figures 3
 :::box tech-docker
+
 ### Miundombinu ya Seva
+
 Linux, Docker, NodeJS
 :::
 
 :::box tech-react
+
 ### Kujenga programu
+
 React & React Native, BDK
 :::
 
 :::box tech-figma
+
 ### Ubunifu na Uundaji wa Mawazo
+
 Figma
 :::
 ::::

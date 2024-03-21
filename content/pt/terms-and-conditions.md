@@ -1,7 +1,9 @@
 ---
 template: text
 ---
+
 # Terms & Conditions
+
 No portuguese version available.
 
 These Service Terms were last updated on **May 12th, 2023**
@@ -25,11 +27,11 @@ By "you", we mean any Peach accountholder and/or user of our services and produc
 
 Peach is a non-custodial peer-to-peer marketplace (native mobile application) that facilitates the connection of two persons in order to purchase and sale bitcoin (BTC). Peach provides the following services:
 
-* a mobile application available to download for free from the App Store and the Google Play Store
-* the infrastructure for a safe trade with a 2-out-of-2 multi signature escrow solution between Peach and the Seller
-* a customer support and dispute management service with a Peach mediator employee to arbitrate and settle dispute between users
+- a mobile application available to download for free from the App Store and the Google Play Store
+- the infrastructure for a safe trade with a 2-out-of-2 multi signature escrow solution between Peach and the Seller
+- a customer support and dispute management service with a Peach mediator employee to arbitrate and settle dispute between users
 
-Peach only facilitates a marketplace for people to exchange bitcoin between themselves. Peach is not a bitcoin exchange, and **does not purchase bitcoin from or sell bitcoin to its users**. 
+Peach only facilitates a marketplace for people to exchange bitcoin between themselves. Peach is not a bitcoin exchange, and **does not purchase bitcoin from or sell bitcoin to its users**.
 
 The information on our website is solely intended for informational purposes, and should not be relied upon for legal, financial or taxations advice. No financial results are guaranteed and one should always discuss their investments with a trusted financial professional.
 
@@ -37,11 +39,11 @@ Throughout this document (and within the Peach app and website) we may interchan
 
 Peach does not:
 
-* process payments - **the Buyer and the Seller assume full responsibility for the fiat transfer and any costs associated**
-* purchase bitcoin from or sell bitcoin to its users
-* provide a digital currency exchange service
-* participate in any transaction
-* provide legal or financial advice
+- process payments - **the Buyer and the Seller assume full responsibility for the fiat transfer and any costs associated**
+- purchase bitcoin from or sell bitcoin to its users
+- provide a digital currency exchange service
+- participate in any transaction
+- provide legal or financial advice
 
 ## 2. Your Account
 
@@ -49,7 +51,7 @@ When using the Peach application for the first time, you will be asked to choose
 
 You must maintain the confidentiality of your password and account; **you are responsible for all activities that are conducted through your account**, whether or not you have authorized such use. If you lose your password, you will not be able to access your encrypted communications or private data, and there is no way for Peach to recover access.
 
-It is not allowed to create more than one Peach account. In order to ensure that a user can only create one Peach account from his mobile device, **Peach keeps a _hash_ of the user's unique device ID**, among other measures. More about how your data is used can be read in our [privacy policy](https://peachbitcoin.com/privacy-policy/). 
+It is not allowed to create more than one Peach account. In order to ensure that a user can only create one Peach account from his mobile device, **Peach keeps a _hash_ of the user's unique device ID**, among other measures. More about how your data is used can be read in our [privacy policy](https://peachbitcoin.com/privacy-policy/).
 
 You must be at least 18 years old to sign up for a Peach account. By signing up for an account, you confirm that you are at least 18 years old.
 
@@ -63,10 +65,10 @@ When a match is made (see sections 4 and 5) the respective keys of the buyer and
 
 Peach users may create offers to buy or sell sats in exchange for a currency of their choice. The Seller can set the conditions of the trade:
 
-* the amount of bitcoin to be sold
-* the payment method(s) the Seller is willing to accept (including the respective payment details to be used if a match results in a trade)
-* the currencies the Seller is willing to accept
-* the premium (in percentage above the market price at the time of making the match - see more in section 6)
+- the amount of bitcoin to be sold
+- the payment method(s) the Seller is willing to accept (including the respective payment details to be used if a match results in a trade)
+- the currencies the Seller is willing to accept
+- the premium (in percentage above the market price at the time of making the match - see more in section 6)
 
 The payment details can not change from the time an offer was published and at the time of the contract. The moment the sell offer is published, a hash is created and this is linked to the sell offer.
 
@@ -76,13 +78,13 @@ The Seller will be charged a fee by the Bitcoin network to fund an escrow as any
 
 The Buyer will post a Buy offer, in which they indicate their preferred conditions to find a matching Sell offer:
 
-* a range of the amount of bitcoin he wishes to buy
-* the payment method(s) the Buyer is willing and able to use
-* the currencies the Buyer is willing and able to send
+- a range of the amount of bitcoin he wishes to buy
+- the payment method(s) the Buyer is willing and able to use
+- the currencies the Buyer is willing and able to send
 
 The Buyer will provide a Bitcoin address to which they can receive Bitcoin, should this buy offer result in a trade. This address can be automatically provided by the built-in Peach wallet, or the buyer can provide an address from an external wallet.
 
-Sell offers will only be shown to Buyers that placed a Buy offer which is eligible to match; meaning that the amount that the Seller has sent to the escrow lies within the range the buyer has indicated, and there is at least one Currency / Payment Method pair that both users have selected. 
+Sell offers will only be shown to Buyers that placed a Buy offer which is eligible to match; meaning that the amount that the Seller has sent to the escrow lies within the range the buyer has indicated, and there is at least one Currency / Payment Method pair that both users have selected.
 
 The Peach service will offer the Buyer all eligible Sell offers matching their preferences. By accepting (matching) a Seller's offer, the Buyer agrees to be bound by the terms and conditions of that offer (Currency and Payment method). When the offers match with more than one currency and or Payment Method the Buyer can indicate which match they would like to match.
 
@@ -98,7 +100,7 @@ As a security measure, the first two trades are limited to CHF 50.
 
 ## 5. Trades
 
-Any user can use Peach to create either a buy or sell offer. As described in section 4, the Seller sets the initial criteria for a match. A Buyer can then select which sell offers he wishes to see by creating his own buy offer with the preferred criteria. The Buyer can match as many sell offers as he wishes; a trade is established with the first Seller that matches him back. At that point in time, the fiat amount to be sent to the Seller is determined. Both offers are then taken out of the marketplace, and both parties agree to bring the trade to completion according to its conditions. Should either party not adhere to any of the conditions, a dispute can be raised, as described in section 9. 
+Any user can use Peach to create either a buy or sell offer. As described in section 4, the Seller sets the initial criteria for a match. A Buyer can then select which sell offers he wishes to see by creating his own buy offer with the preferred criteria. The Buyer can match as many sell offers as he wishes; a trade is established with the first Seller that matches him back. At that point in time, the fiat amount to be sent to the Seller is determined. Both offers are then taken out of the marketplace, and both parties agree to bring the trade to completion according to its conditions. Should either party not adhere to any of the conditions, a dispute can be raised, as described in section 9.
 
 By matching (as Buyer) and doublematching (as Seller), both parties agree to be bound by the terms and conditions of that offer, which includes dispute resolution as described in section 9.
 
@@ -126,19 +128,19 @@ You acknowledge that we are unable to provide you with any other information abo
 
 Once a trader and Seller match their offers, the trade should proceed in accordance with the terms as both Buyer and the Seller matched. This will normally involve the following steps:
 
-* The Buyer makes the payment in the matched currency,
-* the Buyer claims the payment is made by pressing the Payment Made button,
-* once the payment is received in full, the Seller confirms this by clicking the confirm payment button,
-* the bitcoin is then automatically released from the escrow and sent to the Bitcoin address that the Buyer indicated in their Buy Offer,
-* both users rate their counterparty
+- The Buyer makes the payment in the matched currency,
+- the Buyer claims the payment is made by pressing the Payment Made button,
+- once the payment is received in full, the Seller confirms this by clicking the confirm payment button,
+- the bitcoin is then automatically released from the escrow and sent to the Bitcoin address that the Buyer indicated in their Buy Offer,
+- both users rate their counterparty
 
 If the Buyer does not claim that the payment is made within the defined time period, the escrow may be cancelled by the Seller. The Buyer may cancel the escrow at any time.
 
 Sales between Buyers and Sellers are subject to:
 
-* the payment of Peach' fee
-* the process for resolving disputes
-* the terms of the match, which constitute an agreement between the Buyer and the Seller in regards to: amount of bitcoin, price, payment method and currency
+- the payment of Peach' fee
+- the process for resolving disputes
+- the terms of the match, which constitute an agreement between the Buyer and the Seller in regards to: amount of bitcoin, price, payment method and currency
 
 ## 8. Security
 
@@ -152,17 +154,17 @@ Raising a dispute and the outcome of a dispute will impact the users Peach reput
 
 A Buyer can raise a dispute for many reasons, including, but not limited to:
 
-* **Escrow not released by the Seller** - the Buyer has made the payment, but the Seller claims they didn't receive the payment or that there are issues with the payment and refuses to release the escrow
-* **Unresponsive Seller** – the Seller does not respond to the Buyer's messages
-* **Inappropriate behavior** - the Seller is rude, abusive or shows signs of being a malicious actor
+- **Escrow not released by the Seller** - the Buyer has made the payment, but the Seller claims they didn't receive the payment or that there are issues with the payment and refuses to release the escrow
+- **Unresponsive Seller** – the Seller does not respond to the Buyer's messages
+- **Inappropriate behavior** - the Seller is rude, abusive or shows signs of being a malicious actor
 
 A Seller can raise a dispute for many reasons, including, but not limited to:
 
-* **No payment received** – The Buyer claims the payment is made, but the Seller has not received the payment
-* **Received wrong payment amount** – the Buyer sent a payment, but not the agreed upon amount
-* **Other payment errors** – the Buyer sent a payment, but not with the agreed upon details, on the correct payment method or in the proper timeframe
-* **Buyer is unresponsive** – the Buyer does not respond to the Seller's messages
-* **Inappropriate behavior** – the Buyer is rude, abusive or shows signs of being a malicious actor
+- **No payment received** – The Buyer claims the payment is made, but the Seller has not received the payment
+- **Received wrong payment amount** – the Buyer sent a payment, but not the agreed upon amount
+- **Other payment errors** – the Buyer sent a payment, but not with the agreed upon details, on the correct payment method or in the proper timeframe
+- **Buyer is unresponsive** – the Buyer does not respond to the Seller's messages
+- **Inappropriate behavior** – the Buyer is rude, abusive or shows signs of being a malicious actor
 
 The party that opens a dispute will share their digital signature with Peach, allowing the mediator to decrypt the communication between the Buyer and the Seller.
 
@@ -192,9 +194,9 @@ Peach must be reimbursed for any claim, loss or damage arising from your failure
 
 We may deny any user access to our services for any reason, including but not limited to:
 
-* You are using the Peach platform to scam other users, or for any other unlawful purpose
-* You are sending offensive, abusive, unlawful, defamatory, indecent or otherwise inappropriate messages to other users
-* Any change in law that adversely affects Peach' operating model or would make it unlawful to continue the service
+- You are using the Peach platform to scam other users, or for any other unlawful purpose
+- You are sending offensive, abusive, unlawful, defamatory, indecent or otherwise inappropriate messages to other users
+- Any change in law that adversely affects Peach' operating model or would make it unlawful to continue the service
 
 If a user is suspended as a result of losing a dispute raised by another user, Peach will keep encoded references (hashes) of the suspended user's data. These hashes will be used to deny any account that is using the same data access to the Peach app.
 
@@ -227,6 +229,7 @@ The Peach may incorporate, reference or provide access to third-party services. 
 The use of any third-party service is subject to separate terms and conditions issued by the respective third-party service provider. It is each users' responsibility to review the terms and policies of a third-party service provider before deciding to use such a service.
 
 Third parties used by Peach:
+
 - Cloudflare
 - ProtonMail
 - Brevo (only for mailing list subscribers)
@@ -236,14 +239,14 @@ Third parties used by Peach:
 
 You indemnify Peach and hold Peach unaccountable for all loss, claims, actions, liability, damage, costs, expenses and penalties resulting directly or indirectly from:
 
-* any actions performed not following these terms of service
-* any unauthorized use of your Peach account
-* act or omission (including any negligence, unlawful conduct, willful misconduct or fraud) by you in relation to your use of any products or services provided by Peach
-* any third party claim against us in relation to your use of any products or services provided by Peach
-* any action taken by Peach as a result of a request made by you, in respect of your account, trade or dispute
-* any lack of action or delay on your part in respect of any dispute, including not responding to a request for information by us within the timeframe laid out in clause 9 (Disputes)
-* any failure by you to comply with any reasonable recommendation made by Peach
-* any actions or inactions of third party service providers
+- any actions performed not following these terms of service
+- any unauthorized use of your Peach account
+- act or omission (including any negligence, unlawful conduct, willful misconduct or fraud) by you in relation to your use of any products or services provided by Peach
+- any third party claim against us in relation to your use of any products or services provided by Peach
+- any action taken by Peach as a result of a request made by you, in respect of your account, trade or dispute
+- any lack of action or delay on your part in respect of any dispute, including not responding to a request for information by us within the timeframe laid out in clause 9 (Disputes)
+- any failure by you to comply with any reasonable recommendation made by Peach
+- any actions or inactions of third party service providers
 
 ## 18. Applicable law and language
 

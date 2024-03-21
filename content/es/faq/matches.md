@@ -17,7 +17,7 @@ Un comprador puede hacer match con tantas ofertas de venta como desee. ¡El prim
 
 :::details ¿Puedo cancelar un doble match (un intercambio)?
 
-Un intercambio se crea tan pronto como el vendedor acepta la oferta del comprador. El comprador recibe automáticamente los detalles de pago del vendedor*. El comprador puede cancelar el intercambio en cualquier momento. El vendedor solo puede cancelar un intercambio si pregunta primero al comprador si está de acuerdo en cancelar. ¡Ten cuidado, cancelar un intercambio afecta tu [puntuación de reputación](/es/faq/account/#que-significa-la-puntuacion-peach)!
+Un intercambio se crea tan pronto como el vendedor acepta la oferta del comprador. El comprador recibe automáticamente los detalles de pago del vendedor\*. El comprador puede cancelar el intercambio en cualquier momento. El vendedor solo puede cancelar un intercambio si pregunta primero al comprador si está de acuerdo en cancelar. ¡Ten cuidado, cancelar un intercambio afecta tu [puntuación de reputación](/es/faq/account/#que-significa-la-puntuacion-peach)!
 :::
 
 :::details ¿Cuándo se establece el precio del intercambio?

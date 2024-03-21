@@ -1,6 +1,7 @@
 # Join Us
 
 ## Open positions
+
 <!--
 ::::figures 3
 :::box tech-peach
@@ -49,17 +50,23 @@ Instagram / Tik Tok
 
 ::::figures 3
 :::box tech-docker
+
 ### Server infrastructure
+
 Linux, Docker, NodeJS
 :::
 
 :::box tech-react
+
 ### Building the app
+
 React & React Native, BDK
 :::
 
 :::box tech-figma
+
 ### Design & Concepting
+
 Figma
 :::
 ::::

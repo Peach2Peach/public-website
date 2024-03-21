@@ -31,31 +31,41 @@ Fuata hatua hizi kuthibitisha kuwa APK uliyoipakua ni APK halisi ya Peach:
 - Pakua funguo ya PGP ya Peach hapa: https://keys.openpgp.org/vks/v1/by-fingerprint/E970EDB410C8E84198F141584AD3CE3043D8CD1B (pia inaweza kupatikana kwenye wavuti yetu)
 
 - Tengeneza hash ya faili ya APK uliyopakua na uilinganishe na hash kwenye mfumo wa maelezo.
-````
+
+```
 sha256sum app-prod-arm64-v8a-release.apk
-````
+```
+
 (badilisha "app-prod-arm64-v8a-release.apk" na jina la faili yako). Inapaswa kuwa sawa na ile kwenye mfumo wa maelezo. Vinginevyo, wasiliana nasi na hakikisha usisakinishe programu hiyo kwenye kifaa chako. Kwa mfano huu, unapaswa kuona patanisho ifuatayo:
+
 ```
 $ sha256sum app-prod-arm64-v8a-release.apk
 
 09e4e2db837b2a2aef3a51527ef24fae22cff2b7e2ecd4ca01502c8a61961584  app-prod-arm64-v8a-release.apk
 ```
+
 Ikiwa tulinganishe na ile kwenye "manifest-peach.txt" tunaweza kuona kuwa ni ileile.
 
 - Ongeza funguo ya Peach kwenye mkufu wako wa funguo
+
 ```
 gpg --import PGP-peach.asc
 ```
+
 (hakikisha kubadilisha "PGP-peach.asc" kwa jina sahihi la faili, kawaida itakuwa "E970EDB410C8E84198F141584AD3CE3043D8CD1B.asc")
 
 - Thibitisha sahihi ulizopakua hapo awali kwa kutumia amri ifuatayo:
+
 ```
 gpg --verify manifest-peach.sig manifest-peach.txt
-``` 
+```
+
 Katika patanisho, unapaswa kuona mstari ifuatayo:
+
 ```
 gpg: Saini nzuri kutoka kwa "hello@peachbitcoin.com <hello@peachbitcoin.com>" [isiojulikana]
 ```
+
 :::
 
 :::details How to sign an external address?
@@ -64,6 +74,7 @@ Fuata hatua hizi kusaini anwani ya kupokelea unaponunua Bitcoin kwenda kwenye mk
 _Nota: Hatua za kwanza 2 zinaweza kutumika ikiwa unataka **daima** kupokea fedha zako kwenye anwani za nje. Ikiwa unataka kufanya hivyo mara moja tu au unataka mara kwa mara kutumia mkoba wa Peach, anza na hatua ya 3._
 
 1. Nenda kwa mipangilio
+
    - Lemaza mkoba wa Peach
    - Nenda kwa anwani ya malipo
 
@@ -73,7 +84,8 @@ _Nota: Hatua za kwanza 2 zinaweza kutumika ikiwa unataka **daima** kupokea fedha
 
 4. Mara tu unapotathmini ununuzi wako, ujumbe wa kusaini anwani yako utaonekana. Nakili na rudi kwenye mkoba wako.
 
-5. Tafuta chaguo la "kutia saini/thibitisha"* na bandika:
+5. Tafuta chaguo la "kutia saini/thibitisha"\* na bandika:
+
    - anwani yako ya kupokea
    - ujumbe wa Peach
 
@@ -91,7 +103,7 @@ Onyo: Sio mikoba yote inaunga mkono chaguo la kusaini/kuthibitisha anwani yako. 
 
 - Ndiyo, unaweza kutuma kwenye anwani za Taproot kutoka kwa pochi ya Peach.
 - Unaweza pia kupokea moja kwa moja kutoka kwa escrow hadi anwani yako ya nje ya Taproot.
-:::
+  :::
 
 :::details Jinsi naweza kuunganisha kwenye nodi yangu mwenyewe?
 
@@ -104,7 +116,6 @@ Tazama [mafunzo yetu ya video](https://www.youtube.com/watch?v=xtvq2i3mIYg) kuji
 Ikiwa unatumia Umbrel, unaweza kutumia umbrel.{namba ya mlango} badala ya anwani ya IP ya unapoonyesha wako.
 
 :::
-
 
 :::details Nini ni udhibiti wa sarafu?
 

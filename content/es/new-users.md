@@ -1,11 +1,15 @@
 # Para nuevos usuarios
+
 ## ¡Gana recompensas en Bitcoin!
 
 ## Ventajas
+
 ::::figures 2
 
 :::box tech-peach
+
 ### Para compradores
+
 ¡Una compra sin comisiones!
 :::
 
@@ -19,8 +23,8 @@ Después de crear tu cuenta, asegúrate de compartir tu propio código de refere
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
   </div>
 
-  :::buttons
-  [Download APK on Android](/apk/)
-  :::
+:::buttons
+[Download APK on Android](/apk/)
+:::
 
 </div>

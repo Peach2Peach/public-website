@@ -2,7 +2,9 @@
 title: Comment ça marche
 template: how_it_works
 ---
+
 <!--[teaser]-->
+
 ![Achetez et vendez du Bitcoin en pair-à-pair](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
 
 ### Accumulez des sats <span>chaque jour</span> !
@@ -10,6 +12,7 @@ template: how_it_works
 **Achetez et vendez jusqu'à 1000 CHF par jour et 100'000 CHF par an.**
 
 <!--[easy_registration]-->
+
 ### Inscription facile
 
 Téléchargez gratuitement l'application et commencez à trader immédiatement ! Nous ne vous demanderons pas de télécharger votre pièce d'identité ou de prendre un selfie avec votre permis de conduire.
@@ -20,13 +23,14 @@ Téléchargez gratuitement l'application et commencez à trader immédiatement !
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
   </div>
 
-  :::buttons
-  [Download APK on Android](/apk/)
-  :::
+:::buttons
+[Download APK on Android](/apk/)
+:::
 
 </div>
 
 <!--[payment_methods]-->
+
 ### Modes de paiement acceptés
 
 Vous avez le choix parmi toute une gamme de modes de paiement.
@@ -89,18 +93,20 @@ Si vous souhaitez utiliser un autre mode de paiement qui n'est pas répertorié,
 
 **[CE FORMULAIRE](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
-
 <!--[self_custody]-->
+
 ### Pas vos clés, pas vos coins
 
 L'application dispose d'un portefeuille facile à utiliser que vous contrôlez, ou vous pouvez utiliser votre portefeuille existant. Restez aux bases ou allez dans les détails - vous êtes toujours aux commandes.
 
 <!--[security]-->
+
 ### Super sécurisé
 
 Peach utilise des adresses bitcoin à multi-signatures pour s'assurer que la bonne partie puisse récupérer les bitcoins en cas de problème lors de l'échange.
 
 <!--[difference]-->
+
 ### Qu'est-ce qui différencie Peach des autres plateformes d'échange ?
 
 Avec Peach, vous n'achetez pas chez nous ni ne vendez chez nous.
@@ -109,11 +115,13 @@ Cela rend le trading de bitcoin plus privé et vous permet d'utiliser n'importe 
 Notre mission est de rendre cela aussi simple et sûr que possible.
 
 <!--[sounds_cool]-->
+
 ### C'est cool, mais comment ça marche ?
 
 Nous avons un guide complet pour bien commencer ici :
 
 <!--[questions]-->
+
 ### Vous avez encore des questions ?
 
 Je suis sûr que vous trouverez une réponse dans nos FAQ.

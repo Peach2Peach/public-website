@@ -1,11 +1,14 @@
 ---
 template: index
 ---
-<!--[teaser]-->
-# Peach Bitcoin
-## Nunua & Uuze Bitcoin <span>mtu-kwa-mtu</span>
-### Kutoka Uswisi🇨🇭
 
+<!--[teaser]-->
+
+# Peach Bitcoin
+
+## Nunua & Uuze Bitcoin <span>mtu-kwa-mtu</span>
+
+### Kutoka Uswisi🇨🇭
 
 <div class="inner-wrap">
 
@@ -17,9 +20,9 @@ template: index
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
   </div>
 
-  :::buttons
-  [Pakua APK kwa Android](/apk/)
-  :::
+:::buttons
+[Pakua APK kwa Android](/apk/)
+:::
 
 </div>
 
@@ -28,7 +31,9 @@ template: index
 #### ✔ msimbo wa chanzo unaothibitishwa
 
 <!--[top]-->
+
 # Njia rahisi zaidi ya Kununua na Kuuza Bitcoin P2P
+
 <br>
 
 ## Peach Ni Nini?
@@ -43,13 +48,14 @@ Uza kwa **bei yako unayopenda** kwa sababu masoko ya kwa kwa ni masoko halisi.
 
 **Bitcoin bila KYC ni Bitcoin salama zaidi.**
 
-
 <!--[mission]-->
+
 ## Jiunge na Azma yetu
 
 ### Tunalenga kufanya stacking sats mtu-kwa-mtu kuwa kiwango cha kawaida!
 
 <!--[about]-->
+
 ## Kuhusu Sisi
 
 Peach, kampuni, inazaliwa kutoka kwa watu wanaoamini pesa ngumu zaidi ambayo imekuwepo milele, na wanataka kuifanya kupatikana kwa ulimwengu mzima bila kuhatarisha mambo muhimu ya Bitcoin.
@@ -64,12 +70,12 @@ Peach ni mwanachama wa SRO (Shirika la Kujisimamia) wa Polyreg. Peach ni mtoa hu
 
 <div class="flex justify-center"><div class="w-1/2">
 
-  ![](/img/home/polyreg.png)
+![](/img/home/polyreg.png)
 
 </div></div>
 
-
 ### Watu wanasemaje kuhusu sisi?
+
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
 
