@@ -8,16 +8,16 @@ template: index
 
 ## Achetez & Vendez du Bitcoin en <span>pair-à-pair</span>
 
-#### De Suisse🇨🇭
+### De Suisse🇨🇭
 
 <div class="inner-wrap">
 
-![](/img/phones.png)
+<img src="/img/phones.png" alt="Mobile app for trading Bitcoin without KYC verification" />
 
 <div>
   <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Donwload Bitcoin app on the App Store without KYC verification"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Bitcoin app on Google Play store without ID verificatiot"></a>
   </div>
 
 :::buttons
@@ -68,7 +68,7 @@ Peach est membre de SRO (Organisation d'autorégulation) de Polyreg. Peach est u
 
 <div class="flex justify-center"><div class="w-1/2">
 
-![](/img/home/polyreg.png)
+<img src="/img/home/polyreg.png" alt="Swiss regulated Bitcoin exchange certified by Polyreg" />
 
 </div></div>
 

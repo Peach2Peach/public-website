@@ -3,6 +3,9 @@ include /mixins.pug
 block vars
   - const pageTitle = title && title != siteData.meta.title ? `${title} · ${siteData.meta.title}` : `${siteData.meta.title} · ${siteData.meta.tagline}`
   - const pageDescription = description || siteData.meta.description
+  - const twitterDescriptionContent = twitterDescription || siteData.meta.twitterDescription
+  - const ogTitleContent = ogTitle || siteData.meta.ogTitle
+  - const ogDescriptionContent = ogDescription || siteData.meta.ogDescription
   - const pageKeywords = keywords || siteData.meta.keywords
   - const pageCard = previewImage || cardImage || teaser || siteData.meta.cardImage
   - const themeColor = siteData.meta.themeColor
@@ -19,8 +22,8 @@ html(lang=lang)
     meta(name="description" content=pageDescription)
     meta(property="og:locale" content=lang)
     meta(property="og:site_name" content=siteData.title)
-    meta(property="og:title" content=pageTitle)
-    meta(property="og:description" content=pageDescription)
+    meta(property="og:title" content=ogTitleContent)
+    meta(property="og:description" content=ogDescriptionContent)
     meta(property="og:type" content="website")
     meta(property="og:image" content=assetUrl(pageCard, "http"))
     meta(property="og:image:secure_url" content=assetUrl(pageCard))
@@ -29,7 +32,7 @@ html(lang=lang)
     meta(name="twitter:site" content="@peachbitcoin")
     meta(name="twitter:card" content="summary_large_image")
     meta(name="twitter:title" content=pageTitle)
-    meta(name="twitter:description" content=pageDescription)
+    meta(name="twitter:description" content=twitterDescriptionContent)
     meta(name="twitter:image" content=assetUrl(pageCard))
     meta(name="msapplication-TileColor" content=themeColor)
     meta(name="theme-color" content=themeColor)
@@ -51,12 +54,12 @@ html(lang=lang)
         gtag('config', 'G-TBTST1GYXK');
     block pageScripts
   body(id=slugify(permalink) class=(hasTeaser ? 'with-teaser' : null))
-    header.header#header
+    header.header.header-container#header
       .wrap
-        a(href=getUrl("/", lang)).brand
-          img.logo(src=assetPath("/img/peach-bitcoin.svg") alt="Peach Bitcoin")
+        a(href=getUrl("/", lang) class="logo-link").brand
+          img.logo(src=assetPath("/img/peach-bitcoin.svg") alt="Peach Bitcoin" class="logo")
         input(id="show-menu" type="checkbox")
-        label(id="nav-toggle" for="show-menu")
+        label(id="nav-toggle" for="show-menu" class="nav-toggle-label")
           svg(viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg")
             path.line--1(d="M0 70l28-28c2-2 2-2 7-2h64")
             path.line--2(d="M0 50h99")
