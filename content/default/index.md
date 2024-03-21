@@ -4,7 +4,7 @@ template: index
 
 <!--[teaser]-->
 
-# Buy Bitcoin Without KYC | PeachBitcoin Exchange
+# Buy Bitcoin Without KYC | Peach Bitcoin Exchange
 
 ## Buy & Sell Bitcoin <span>peer-to-peer</span>
 
