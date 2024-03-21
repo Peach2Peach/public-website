@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener('DOMContentLoaded', () => {
   const $body = document.body
   const $showMenu = document.querySelector('#show-menu')
   const $headerAnchor = document.querySelector('#header-anchor')
@@ -34,7 +34,9 @@ document.addEventListener("DOMContentLoaded", () => {
   if ('IntersectionObserver' in window) {
     if ($body) {
       const headerObserver = new IntersectionObserver(entries => {
-        const { boundingClientRect: { y } } = entries[0]
+        const {
+          boundingClientRect: { y },
+        } = entries[0]
         if (y < 0) {
           addTopbar()
         } else if (!$showMenu.checked) {
@@ -46,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // FAQ
-  const itemId = window.location.hash;
+  const itemId = window.location.hash
   const $detail = itemId ? document.querySelector(`details${itemId}`) : null
   if ($detail) {
     $detail.setAttribute('open', true)
@@ -57,7 +59,10 @@ document.addEventListener("DOMContentLoaded", () => {
     $details.forEach($detail => {
       $detail.addEventListener('click', e => {
         const { currentTarget } = e
-        const hash = currentTarget.getAttribute('open') === null ? `#${currentTarget.id}` : ''
+        const hash =
+          currentTarget.getAttribute('open') === null
+            ? `#${currentTarget.id}`
+            : ''
         window.history.replaceState({}, '', `${location.pathname}${hash}`)
       })
     })
