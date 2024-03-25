@@ -1,0 +1,5 @@
+---
+szablon: blog
+---
+
+# Blog Peach
