@@ -7,6 +7,19 @@ const el = require('./translations/el.json')
 const sw = require('./translations/sw.json')
 const pt = require('./translations/pt.json')
 const uk = require('./translations/uk.json')
+const pl = require('./translations/pl.json')
+const ar = require('./translations/ar.json')
+const bg = require('./translations/bg.json')
+const cs = require('./translations/cs.json')
+const da = require('./translations/da.json')
+const el_GR = require('./translations/el-GR.json')
+const hi = require('./translations/hi.json')
+const hr = require('./translations/hr.json')
+const nb = require('./translations/nb.json')
+const nl = require('./translations/nl.json')
+const ro = require('./translations/ro.json')
+const ru = require('./translations/ru.json')
+const tr = require('./translations/tr.json')
 
 const properties = {
   en,
@@ -18,6 +31,19 @@ const properties = {
   sw,
   pt,
   uk,
+  pl,
+  ar,
+  bg,
+  cs,
+  da,
+  el_GR,
+  hi,
+  hr,
+  nb,
+  nl,
+  ro,
+  ru,
+  tr,
 }
 
 /**
