@@ -44,17 +44,17 @@ Peach Bitcoin is a p2p mobile app for trading Bitcoin without KYC verification. 
 [Check our Payment Methods](/how-it-works/#available-payment-methods)
 :::
 
-### Welcome to **Peach**, your premier destination for **peer-to-peer cryptocurrency transactions**!
+### Welcome to **Peach**, your premier destination for **peer-to-peer Bitcoin transactions**!
 
 Our mission is to revolutionize the way you **buy and sell Bitcoin**, offering seemless and private transactions without the hassle of ID verification or KYC processes.
 
-If you're looking to **buy Bitcoin with a gift card**, or **buy Bitcoin without ID**, Peach is the place for you. We provide a platform to **buy crypto anonymously** and **exchange peer-to-peer**.
+If you're looking to **buy Bitcoin with a gift card**, or **buy Bitcoin without ID**, Peach is the place for you. We provide a platform to **buy Bitcoin anonymously** and **exchange peer-to-peer**.
 
 We understand the importance of privacy, so we've made it possible to **buy Bitcoin without ID verification**. Learn **how to buy Bitcoin without KYC** and **how to sell Bitcoin without KYC** with Peach.
 
-Are you one of those who value privacy and freedom in the crypto world? Check out our <a href="/join-us/">Join Us</a> section, maybe we can work together! We need sellers who understand the value of a non-KYC Bitcoin market.
+Are you one of those who value privacy and freedom in the Bitcoin world? Check out our <a href="/join-us/">Join Us</a> section, maybe we can work together! We need sellers who understand the value of a non-KYC Bitcoin market.
 
-Follow our main communication channel to stay updated on how to **buy and sell crypto without KYC**. Join us in making the crypto world more accessible and private.
+Follow our main communication channel to stay updated on how to **buy and sell Bitcoin without KYC**. Join us in making the Bitcoin world more accessible and private.
 
 Peach is an SRO member (Self Regulatory Organisation) of Polyreg. Peach is a swiss licensed financial service provider fully compliant with Switzerland's Anti-Money Laundering Act.
 
