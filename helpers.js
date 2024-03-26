@@ -125,7 +125,7 @@ const config = {
   html: true,
   typographer: true,
   plugins: [
-    ['markdown-it-implicit-figures', { figcaption: true }],
+    ['markdown-it-implicit-figures'],
     [
       markdownItTocAndAnchor,
       { slugify, anchorLink: false, tocFirstLevel: 2, tocLastLevel: 2 },

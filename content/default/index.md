@@ -12,7 +12,7 @@ template: index
 
 <div class="inner-wrap">
 
-<img src="/img/phones.png" alt="Mobile app for trading Bitcoin without KYC verification" />
+![Mobile app for trading Bitcoin without KYC verification](/img/phones.png)
 
 <div>
   <div class="md:flex items-end">
@@ -60,7 +60,7 @@ Peach is an SRO member (Self Regulatory Organisation) of Polyreg. Peach is a swi
 
 <div class="flex justify-center"><div class="w-1/2">
 
-<img src="/img/home/polyreg.png" alt="Swiss regulated Bitcoin exchange certified by Polyreg" />
+![Swiss regulated Bitcoin exchange certified by Polyreg](/img/home/polyreg.png)
 
 </div></div>
 

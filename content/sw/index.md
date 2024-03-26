@@ -12,7 +12,7 @@ template: index
 
 <div class="inner-wrap">
 
-<img src="/img/phones.png" alt="Mobile app for trading Bitcoin without KYC verification" />
+![Mobile app for trading Bitcoin without KYC verification](/img/phones.png)
 
 <div>
   <div class="md:flex items-end">
@@ -70,7 +70,7 @@ Peach ni mwanachama wa SRO (Shirika la Kujisimamia) wa Polyreg. Peach ni mtoa hu
 
 <div class="flex justify-center"><div class="w-1/2">
 
-<img src="/img/home/polyreg.png" alt="Swiss regulated Bitcoin exchange certified by Polyreg" />
+![Swiss regulated Bitcoin exchange certified by Polyreg](/img/home/polyreg.png)
 
 </div></div>
 
