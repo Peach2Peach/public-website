@@ -4,20 +4,20 @@ template: index
 
 <!--[teaser]-->
 
-# Peach Bitcoin
+# Buy Bitcoin Without KYC | Peach Bitcoin Exchange
 
 ## Buy & Sell Bitcoin <span>peer-to-peer</span>
 
-#### Made in Switzerland🇨🇭
+### Made in Switzerland🇨🇭
 
 <div class="inner-wrap">
 
-![](/img/phones.png)
+<img src="/img/phones.png" alt="Mobile app for trading Bitcoin without KYC verification" />
 
 <div>
   <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download on the Apple Store"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get it on Google Play"></a>
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Bitcoin app on the App Store without KYC verification"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Bitcoin app on Google Play store without ID verification"></a>
   </div>
 
 :::buttons
@@ -32,45 +32,35 @@ template: index
 
 <!--[top]-->
 
-# The easiest way to Buy and Sell Bitcoin P2P
+## The easiest way to Buy and Sell Bitcoin P2P
 
 <br>
 
 ## What is Peach?
 
-Peach is a mobile application that **connects** Bitcoin buyers and sellers directly together.
+Peach Bitcoin is a p2p mobile app for trading Bitcoin without KYC verification. We **connect** buyers and sellers of Bitcoin in a **secure** and **private** way.
 
 :::buttons
 [Check our Payment Methods](/how-it-works/#available-payment-methods)
 :::
 
-Sell at the **price of your choice** because peer-to-peer markets are the real markets.
+### Welcome to **Peach**, your premier destination for **peer-to-peer Bitcoin transactions**!
 
-**KYC-free Bitcoin is the safest Bitcoin.**
+Our mission is to revolutionize the way you **buy and sell Bitcoin**, offering seemless and private transactions without the hassle of ID verification or KYC processes.
 
-<!--[mission]-->
+If you're looking to **buy Bitcoin with a gift card**, or **buy Bitcoin without ID**, Peach is the place for you. We provide a platform to **buy Bitcoin anonymously** and **exchange peer-to-peer**.
 
-## Join our Mission
+We understand the importance of privacy, so we've made it possible to **buy Bitcoin without ID verification**. Learn **how to buy Bitcoin without KYC** and **how to sell Bitcoin without KYC** with Peach.
 
-### We aim to make stacking sats peer-to-peer the standard!
+Are you one of those who value privacy and freedom in the Bitcoin world? Check out our <a href="/join-us/">Join Us</a> section, maybe we can work together! We need sellers who understand the value of a non-KYC Bitcoin market.
 
-<!--[about]-->
-
-## About Us
-
-Peach, the company, is born from people who believe in the hardest money that has ever existed, and want to make it accessible to the whole world without compromising on the fundamental aspects of Bitcoin.
-
-Are you one of those? Check out our [Join Us](/join-us/) section, maybe we can work together!
-
-If you want to know more about the company, check out our [blog posts](/blog/) talking about how everything started, and how we got here.
-
-<br><br>
+Follow our main communication channel to stay updated on how to **buy and sell Bitcoin without KYC**. Join us in making the Bitcoin world more accessible and private.
 
 Peach is an SRO member (Self Regulatory Organisation) of Polyreg. Peach is a swiss licensed financial service provider fully compliant with Switzerland's Anti-Money Laundering Act.
 
 <div class="flex justify-center"><div class="w-1/2">
 
-![](/img/home/polyreg.png)
+<img src="/img/home/polyreg.png" alt="Swiss regulated Bitcoin exchange certified by Polyreg" />
 
 </div></div>
 
