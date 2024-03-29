@@ -15,7 +15,7 @@ Peach jest **łatwe** w użyciu, jest bardziej **prywatne**, ma **więcej metod 
 Po zainstalowaniu aplikacji (przez [App Store]($iosUrl$), [Play Store]($androidUrl$) lub [pobranie APK](/apk/)), jesteś właściwie już gotowy.
 Jedyne, co od ciebie wymagamy w tej chwili, to kod polecający - jeśli go masz.
 
-:::ilustracje 4
+:::figures 4
 ![Na początku zostaniesz zapytany, czy chcesz udostępnić nam niektóre dane](/img/faq/quickstart/onboarding/usage-data.png)
 
 ![Następnie zobaczysz krótkie wyjaśnienie w trzech krokach, jak działa Peach.](/img/faq/quickstart/onboarding/1.png)
@@ -33,7 +33,7 @@ Złożenie pierwszej oferty kupna może zająć tylko kilka sekund. Wystarczy, �
 
 Oto krok po kroku twojej pierwszej oferty kupna:
 
-:::ilustracje 5
+:::figures 5
 ![Najpierw wybierasz, ile chcesz kupić. To zawsze jest przedział, i zostaną ci pokazane wszystkie dostępne oferty sprzedaży w tym przedziale.](/img/faq/quickstart/buy/BuyStep1.png)
 
 ![Następnie musisz nam powiedzieć, w jaki sposób chcesz zapłacić. Jeśli chcesz dowiedzieć się więcej o metodach płatności, powinieneś [przeczytać ten przewodnik](#przewodnik-4-dodawanie-metod-płatności). Na końcu możesz wrócić tutaj.](/img/faq/quickstart/buy/BuyStep2.png)
@@ -53,7 +53,7 @@ Po opublikowaniu twojej oferty kupna, zostaną ci pokazane wszystkie oferty sprz
 
 ![Karta Dopasowania](/img/faq/quickstart/buy/MatchCardExplainer.png)
 
-:::ilustracje 2
+:::figures 2
 ![Gdy wybierzesz walutę i metodę płatności, której chcesz użyć do tej transakcji (jeśli masz więcej niż jedną wspólną), możesz dopasować ofertę.](/img/faq/quickstart/buy/BuyStep6.png)
 
 ![Masz pięć sekund na cofnięcie, jeśli zmienisz zdanie. Po tym sprzedawca zostanie powiadomiony o dopasowaniu, a cofnięcie teraz jest uznawane za niegrzeczne (twoja ocena Peach zostanie zraniona)](/img/faq/quickstart/buy/BuyStep7.png)
@@ -61,7 +61,7 @@ Po opublikowaniu twojej oferty kupna, zostaną ci pokazane wszystkie oferty sprz
 
 ### Realizacja transakcji
 
-:::ilustracje 2
+:::figures 2
 ![Jeśli sprzedawca również cię dopasuje, zostaniesz powiadomiony i pokazane zostaną ci jego dane płatności. Powinieneś przejść do swojej aplikacji płatności i ręcznie dokonać płatności tam. Po tym potwierdzasz, że to zrobiłeś za pomocą suwaka na dole, i czekasz na odpowiedź sprzedawcy (możesz w międzyczasie pogadać).](/img/faq/quickstart/buy/BuyStep8.png)
 
 ![Gdy sprzedawca potwierdzi, transakcja zostaje zakończona! Kwota bitcoin zostanie wysłana do twojego portfela i możecie ocenić siebie nawzajem. (Zakładając, że wszystko poszło dobrze, oczywiście.)](/img/faq/quickstart/buy/BuyStep9.png)
@@ -75,7 +75,7 @@ Oto krok po kroku twojej pierwszej oferty sprzedaży:
 
 ### Tworzenie oferty sprzedaży
 
-:::ilustracje 7
+:::figures 7
 ![Najpierw wybierasz, ile chcesz sprzedać. Możesz wybrać dowolną kwotę, ale istnieje maksymalna, aby zapobiec twojej ofercie przed przekroczeniem dziennego limitu i staniem się niedostępną.](/img/faq/quickstart/sell/SellStep01.png)
 
 ![Następnie wybierasz, czy chcesz zaoferować kupującemu zniżkę, czy też poprosić trochę więcej niż cena rynkowa.](/img/faq/quickstart/sell/SellStep02.png)
@@ -101,7 +101,7 @@ Po opublikowaniu twojej oferty sprzedaży, zostanie ona pokazana wszystkim kupuj
 
 ### Realizacja transakcji
 
-:::ilustracje 3
+:::figures 3
 ![Po wybraniu dopasowania, transakcja jest oficjalnie dokonana. Zobaczysz, skąd kupujący będzie dokonywał płatności, i za ile. Możesz również porozmawiać ze swoim kupującym, jeśli masz jakieś pytania.](/img/faq/quickstart/sell/SellStep08.png)
 
 ![Gdy kupujący dokona płatności, powinieneś sprawdzić odpowiednie konto płatnicze, czy otrzymałeś ją. Jeśli tak, możesz to potwierdzić tutaj. Po potwierdzeniu otrzymania płatności, bitcoin zostanie wysłany do kupującego.](/img/faq/quickstart/sell/SellStep09.png)
@@ -113,7 +113,7 @@ Po opublikowaniu twojej oferty sprzedaży, zostanie ona pokazana wszystkim kupuj
 
 Gdy składasz ofertę kupna lub sprzedaży w Peach, musisz poinformować swojego kontrahenta, w jaki sposób zapłacisz lub chcesz być zapłacony.
 
-:::ilustracje 7
+:::figures 7
 ![Najpierw możesz wybrać między dwoma kategoriami: **zdalnie** (np. przelew bankowy, PayPal) lub **na spotkaniu** (gotówką).](/img/faq/quickstart/add-payment-method/AddPM01.png)
 
 ![Następnie wybierasz, którą walutę chcesz użyć dla tej metody płatności.](/img/faq/quickstart/add-payment-method/AddPM02.png)
