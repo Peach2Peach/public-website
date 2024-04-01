@@ -1,11 +1,12 @@
 ---
 template: text
-lang: el
 ---
 
 # Privacy Policy
 
-This privacy policy was last updated on **May 5th, 2023**
+No Greek version available.
+
+This privacy policy was last updated on **Dec 19th, 2023**
 
 ## 0. Summary
 
@@ -43,6 +44,8 @@ You must read this Privacy Policy together with any other privacy notice or fair
 ## 2. General
 
 If you choose to use our products and services, then you agree to the collection and use of information as described this policy. As we think privacy is very important, we strive to collect as little data about you as we can, though we need to collect some data to make our services work. We will not use or share your information with anyone except as described in this Privacy Policy.
+
+Some parts of our code are Open Source under the MIT licenses. They include the Peach App frontend (MIT-CC) and GroupHug.
 
 If you do not agree with the Privacy Policy, you should refrain from using our services.
 
@@ -165,6 +168,31 @@ To protect your personal information, we take reasonable precautions and follow 
 
 Communication between the Peach App and the Peach server uses SSL encryption.
 
-## 6. Contact
+## 6. Important information regarding data retention
+
+Your privacy is important to us, and we want to inform you about our data retention practices on the Peach Bitcoin platform.
+
+### Why do we retain information?
+
+- **Legal**: We are obligated to retain certain data to comply with legal requirements.
+- **Dispute resolution**: Retaining information helps us address and resolve disputes effectively and preventing fraud.
+
+### What data we retain
+
+- the order book
+- encrypted data (which we cannot encrypt unless a dispute is opened: payment data, chat data)
+- dispute information of suspected accounts and behaviors
+
+### Your data privacy
+
+We want to be transparent about the fact that, due to legal obligations, we are unable to facilitate the deletion of your account information.
+
+### Your right to information:
+
+You have the right to know what information we hold about you.
+
+If you have any questions or concerns about your data, please contact our support team at [gdpr@peachbitcoin.com](mailto:gdpr@peachbitcoin.com)
+
+## 7. Contact
 
 If you have any questions, comments, concerns or other correspondence, or if you think that we haven't followed this privacy policy, we can be contacted via email on [gdpr@peachbitcoin.com](mailto:gdpr@peachbitcoin.com)

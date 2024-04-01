@@ -1,10 +1,12 @@
 ---
-template: page
+template: text
 ---
 
 # Privacy Policy
 
-This privacy policy was last updated on **May 5th, 2023**
+No Spanish version available.
+
+This privacy policy was last updated on **Dec 19th, 2023**
 
 ## 0. Summary
 
@@ -20,7 +22,7 @@ Having data about how our app is used is very valuable for improving it. Sharing
 
 This page explains which types of information Peach collects of its users during the use of its products and services, and how this information is used.
 
-When we speak of "Peach", "we", "us" or "our", we mean Peach S.A.R.L and its representatives. Peach Sàrl is a company registered, organized and existing under the laws of Switzerland, under company registration number CHE-158.025.408 whose registered office is at:
+When we speak of  "Peach",  "we",  "us"  or  "our",  we mean Peach S.A.R.L and its representatives. Peach Sàrl is a company registered, organized and existing under the laws of Switzerland, under company registration number CHE-158.025.408 whose registered office is at:
 
 Rue des Beaux-Arts 8<br>
 c/o LEAX Avocats Sàrl<br>
@@ -42,6 +44,8 @@ You must read this Privacy Policy together with any other privacy notice or fair
 ## 2. General
 
 If you choose to use our products and services, then you agree to the collection and use of information as described this policy. As we think privacy is very important, we strive to collect as little data about you as we can, though we need to collect some data to make our services work. We will not use or share your information with anyone except as described in this Privacy Policy.
+
+Some parts of our code are Open Source under the MIT licenses. They include the Peach App frontend (MIT-CC) and GroupHug.
 
 If you do not agree with the Privacy Policy, you should refrain from using our services.
 
@@ -92,7 +96,7 @@ To be able to make use of Peach you will enter information relating to the trade
 
 #### Usage data
 
-Having data about how our app is used is very useful in improving the user experience; but this is always an opt-in feature. The data is collected in Google Firebase & Google Analytics. You can toggle sharing usage data on/off in Settings > About Peach > Diagnostics. The following data is shared when you opt-in:
+Having data about how our app is used is very useful in improving the user experience; but this is always an **opt-in** feature. The data is collected in Google Firebase & Google Analytics. **You can toggle sharing usage data on/off in Settings > About Peach > Diagnostics**. The following data is shared when you opt-in:
 
 - Technical device stats, like your OS and screen size
 - Demographics information, like your country
@@ -140,7 +144,7 @@ We share your information with the following parties:
 
 - #### Service providers
 
-  We do not sell your information, and never will. We only use third parties to help, provide and improve our Services. We strictly limit how our partners can use and disclose the data we provide. We share your data with the following parties:
+  We do not sell your information, and never will. We only share your data with third parties to help use, provide and improve our Services. We strictly limit how our partners can use and disclose the data we provide. We share your data with the following parties:
 
   - **ProtonMail**: For our email communications we use "ProtonMail". We may share your email and nickname with this service.
   - **Zammad**: For customer support we use "Zammad". We may share your email address with this service.
@@ -164,6 +168,31 @@ To protect your personal information, we take reasonable precautions and follow 
 
 Communication between the Peach App and the Peach server uses SSL encryption.
 
-## 6. Contact
+## 6. Important information regarding data retention
+
+Your privacy is important to us, and we want to inform you about our data retention practices on the Peach Bitcoin platform.
+
+### Why do we retain information?
+
+- **Legal**: We are obligated to retain certain data to comply with legal requirements.
+- **Dispute resolution**: Retaining information helps us address and resolve disputes effectively and preventing fraud.
+
+### What data we retain
+
+- the order book
+- encrypted data (which we cannot encrypt unless a dispute is opened: payment data, chat data)
+- dispute information of suspected accounts and behaviors
+
+### Your data privacy
+
+We want to be transparent about the fact that, due to legal obligations, we are unable to facilitate the deletion of your account information.
+
+### Your right to information:
+
+You have the right to know what information we hold about you.
+
+If you have any questions or concerns about your data, please contact our support team at [gdpr@peachbitcoin.com](mailto:gdpr@peachbitcoin.com)
+
+## 7. Contact
 
 If you have any questions, comments, concerns or other correspondence, or if you think that we haven't followed this privacy policy, we can be contacted via email on [gdpr@peachbitcoin.com](mailto:gdpr@peachbitcoin.com)

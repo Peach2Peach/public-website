@@ -4,6 +4,8 @@ template: page
 
 # Terms & Conditions
 
+Pas de version française disponible.
+
 These Service Terms were last updated on **May 12th, 2023**
 
 ## 1. Introduction
