@@ -4,9 +4,9 @@ template: text
 
 # Privacy Policy
 
-No portuguese version available.
+No Portugese translation available.
 
-This privacy policy was last updated on **Sep 7th, 2023**
+This privacy policy was last updated on **Dec 19th, 2023**
 
 ## 0. Summary
 
@@ -168,6 +168,31 @@ To protect your personal information, we take reasonable precautions and follow 
 
 Communication between the Peach App and the Peach server uses SSL encryption.
 
-## 6. Contact
+## 6. Important information regarding data retention
+
+Your privacy is important to us, and we want to inform you about our data retention practices on the Peach Bitcoin platform.
+
+### Why do we retain information?
+
+- **Legal**: We are obligated to retain certain data to comply with legal requirements.
+- **Dispute resolution**: Retaining information helps us address and resolve disputes effectively and preventing fraud.
+
+### What data we retain
+
+- the order book
+- encrypted data (which we cannot encrypt unless a dispute is opened: payment data, chat data)
+- dispute information of suspected accounts and behaviors
+
+### Your data privacy
+
+We want to be transparent about the fact that, due to legal obligations, we are unable to facilitate the deletion of your account information.
+
+### Your right to information:
+
+You have the right to know what information we hold about you.
+
+If you have any questions or concerns about your data, please contact our support team at [gdpr@peachbitcoin.com](mailto:gdpr@peachbitcoin.com)
+
+## 7. Contact
 
 If you have any questions, comments, concerns or other correspondence, or if you think that we haven't followed this privacy policy, we can be contacted via email on [gdpr@peachbitcoin.com](mailto:gdpr@peachbitcoin.com)

@@ -4,7 +4,7 @@ template: text
 
 # Privacy Policy
 
-No Ukrainian version available.
+No Polish version available.
 
 This privacy policy was last updated on **Dec 19th, 2023**
 

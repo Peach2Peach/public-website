@@ -1,10 +1,10 @@
 ---
-template: page
+template: text
 ---
 
 # Terms & Conditions
 
-No Italian version available.
+No Polish version available.
 
 These Service Terms were last updated on **May 12th, 2023**
 

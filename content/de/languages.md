@@ -14,3 +14,4 @@ Wenn du uns bei der Übersetzung von Peach in deine Landessprache helfen möchte
 - [🇰🇪 Suaheli](/sw)
 - [🇺🇦 Ukrainisch](/uk)
 - [🇵🇹 Portugiesisch](/pt)
+- [🇵🇱 Polnisch](/pl)
