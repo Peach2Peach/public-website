@@ -15,3 +15,4 @@ Se você gostaria de nos ajudar a traduzir o Peach para sua língua local, [entr
 - [Ucraniano 🇺🇦](/uk)
 - [Português 🇵🇹](/pt)
 - [Polaco 🇵🇱](/pl)
+- [Holandês 🇳🇱](/nl)

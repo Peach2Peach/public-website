@@ -15,3 +15,4 @@ Se desideri aiutarci a tradurre Peach nella tua lingua locale, [contattaci!](mai
 - [Ucraino 🇺🇦](/uk)
 - [Portoghese 🇵🇹](/pt)
 - [Polacco 🇵🇱](/pl)
+- [Olandese 🇳🇱](/nl)
