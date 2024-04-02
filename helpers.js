@@ -20,9 +20,9 @@ const stripHTML = str => {
         str
           .replace(/(<([^>]+)>)/gi, '')
           .trim()
-          .replace(/\n\s*/g, '\n'),
+          .replace(/\n\s*/g, '\n')
       ),
-      { level: 'xml' },
+      { level: 'xml' }
     )
   )
 }
@@ -89,10 +89,12 @@ const VARIABLE_REGEX = /\$([\w-_]+)\$/gi
 
 const icon = symbol =>
   ['payment-blik', 'payment-swish', 'payment-twint', 'tech-peach'].includes(
-    symbol,
+    symbol
   )
     ? `<img role="img" src="${assetPath(`/icons/${symbol}.svg`)}" />`
-    : `<svg role="img"><use href="${assetPath('/img/icons.svg')}#${symbol}"></use></svg>`
+    : `<svg role="img"><use href="${assetPath(
+        '/img/icons.svg'
+      )}#${symbol}"></use></svg>`
 
 // configure replacements
 const replace = require('markdown-it-replace-it')
@@ -123,7 +125,7 @@ const config = {
   html: true,
   typographer: true,
   plugins: [
-    ['markdown-it-implicit-figures', { figcaption: true }],
+    ['markdown-it-implicit-figures'],
     [
       markdownItTocAndAnchor,
       { slugify, anchorLink: false, tocFirstLevel: 2, tocLastLevel: 2 },
@@ -176,7 +178,9 @@ const config = {
           const isOpening = nesting === 1
           const [, summary] = info.trim().match(/^details\s+(.*)$/) || []
           return isOpening
-            ? `<details id="${slugify(summary)}"><summary><span class="title">${summary}</span><span class="marker"></span></summary><article>\n`
+            ? `<details id="${slugify(
+                summary
+              )}"><summary><span class="title">${summary}</span><span class="marker"></span></summary><article>\n`
             : '</article></details>\n'
         },
       },
