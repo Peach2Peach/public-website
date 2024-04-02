@@ -16,3 +16,5 @@ Jeśli chciałbyś nam pomóc przetłumaczyć Peach na Twój lokalny język, [sk
 - [Portugalski🇵🇹](/pt)
 - [Polski🇵🇱](/pl)
 - [Niderlandzki 🇳🇱](/nl)
+- [Węgierski ʜᴜ](/hu)
+

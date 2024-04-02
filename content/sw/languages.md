@@ -16,3 +16,5 @@ Ikiwa ungependa kutusaidia kutafsiri Peach kwenye lugha yako ya ndani, [wasilian
 - [Kireno 🇵🇹](/pt)
 - [Kipolishi 🇵🇱](/pl)
 - [Kiholanzi 🇳🇱](/nl)
+- [Kihungari ʜᴜ](/hu)
+
