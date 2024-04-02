@@ -82,9 +82,7 @@ Az első eladási ajánlatodat néhány perc alatt megteheted. Csak meg kell mon
 
 ![Ezután meg kell mondani, hogyan szeretnél fizetni. A végén visszatérhetsz ide.](/img/faq/quickstart/sell/SellStep03.png)
 
-![Megjegyzendő, hogy akárhány fizetési módot választhatsz, hogy növeld az egyezés esélyét!](/
-
-img/faq/quickstart/sell/SellStep04.png)
+![Megjegyzendő, hogy akárhány fizetési módot választhatsz, hogy növeld az egyezés esélyét!](/img/faq/quickstart/sell/SellStep04.png)
 
 ![Ezután egy gyors összefoglalót látsz, ahol ellenőrizheted az összes kiválasztott fizetési módot és mennyit adsz el.](/img/faq/quickstart/sell/SellStep05.png)
 
@@ -120,9 +118,7 @@ Amikor vételi vagy eladási ajánlatot teszel a Peach-en, tudatnod kell az elle
 
 ![Ezután látod a fizetési módok kategóriáit ebben a valutában. Ebben a példában egy online tárcát választunk.](/img/faq/quickstart/add-payment-method/AddPM03.png)
 
-![Egy fiók nyílik meg, ahol kiválaszthatod, melyik online tárcát szeretnéd hozzáadni. Vá
-
-lasszuk a PayPal-t.](/img/faq/quickstart/add-payment-method/AddPM04.png)
+![Egy fiók nyílik meg, ahol kiválaszthatod, melyik online tárcát szeretnéd hozzáadni. Válasszuk a PayPal-t.](/img/faq/quickstart/add-payment-method/AddPM04.png)
 
 ![Itt csak ki kell töltened az adataidat. Megjelölheted, ha a tárcád fogadhat más valutákat is.](/img/faq/quickstart/add-payment-method/AddPM05.png)
 
