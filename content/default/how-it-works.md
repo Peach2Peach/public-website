@@ -52,6 +52,8 @@ There are a whole bunch of payment methods you can choose from.<br>
 - ISK
 - RON
 - TRY
+- RSD
+- UAH
 
 ---
 
@@ -63,6 +65,18 @@ There are a whole bunch of payment methods you can choose from.<br>
 - MXN
 - CLP
 - CRC
+- GTQ
+- BRL
+- CUP
+- DOP
+- HNL
+- NIO
+- PAB
+- VES
+- VEF
+- UYU
+- PYG
+- BOB
 
 ---
 
@@ -71,13 +85,43 @@ There are a whole bunch of payment methods you can choose from.<br>
 - CFA (XOF)
 - CDF
 - NGN
+- XAF
+- GNF
+- RWF
+- MGA
+- KES
+- GHS
+- ZAR
+- TZS
+- EGP
 
+---
+
+##### Asia
+
+- INR
+- IDR
+- VND
+- MAD
+- PHP
+- CNY
+- JPY
+- KZT
+- KWD
+- ILS
+- UZS
+- RUB
+- 
 ---
 
 ##### Other
 
 - LN (swaps)
 - L-USDT
+- USD
+- XAU
+- NZD
+- AUD
 
 ---
 
