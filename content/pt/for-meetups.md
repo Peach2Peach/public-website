@@ -28,4 +28,4 @@ Se o teu meetup for elegível\* para ser integrado na nossa aplicação, entrare
 
 ### Veja todos os locais onde pode trocar Bitcoin por dinheiro usando o Peach!
 
-Se quiser saber mais sobre as **Trocas por Dinheiro da Peach**, dê uma vista de olhos no nosso artigo [Peach x Meetups](/pt/blog/peach-for-meetups/) ou simplesmente consulte o mapa abaixo para ver onde pode encontrar outros utilizadores para trocar Bitcoin por dinheiro.
+Se quiser saber mais sobre as **Trocas por Dinheiro da Peach**, dê uma vista de olhos no nosso artigo [Peach x Meetups](/blog/peach-for-meetups/) ou simplesmente consulte o mapa abaixo para ver onde pode encontrar outros utilizadores para trocar Bitcoin por dinheiro.
