@@ -22,7 +22,7 @@ Se és organizador de um meetup e gostarias de integrar o teu meetup no Peach co
 
 Se o teu meetup for elegível\* para ser integrado na nossa aplicação, entraremos em contacto contigo para solicitar os detalhes finais.
 
-<small>\*apenas a Europa e as [moedas aceites](/pt/como-funciona/#pagamento) são elegíveis neste momento. No futuro, iremos expandir para outras áreas do mundo, por isso não hesites em candidatar-te mesmo que o teu meetup não cumpra todos os requisitos.</small>
+<small>\*apenas a Europa e as [moedas aceites](/pt/how-it-works/#pagamento) são elegíveis neste momento. No futuro, iremos expandir para outras áreas do mundo, por isso não hesites em candidatar-te mesmo que o teu meetup não cumpra todos os requisitos.</small>
 
 <!--[map]-->
 

@@ -60,9 +60,9 @@ Verkaufen zum **Preis deiner Wahl**, denn Peer-to-Peer-Märkte sind die echten M
 
 Das Unternehmen Peach wurde von Menschen gegründet welche an das härteste Geld glauben das es je gab und es der ganzen Welt zugänglich machen wollen ohne Kompromisse bei den grundlegenden Aspekten von Bitcoin einzugehen.
 
-Bist du einer von denen? Schau in unserem [Komm zu Uns](/Komm-zu-Uns/) Bereich, villeicht können wir zusammenarbeiten!
+Bist du einer von denen? Schau in unserem [Komm zu Uns](/join-us/) Bereich, villeicht können wir zusammenarbeiten!
 
-Wenn du mehr über das Unternehmen Peach wissen willst, schau dir unsere [Blog Beiträge](/Blog/) an. Wir reden darüber, wie alles begann und wie wir soweit gekommen sind.
+Wenn du mehr über das Unternehmen Peach wissen willst, schau dir unsere [Blog Beiträge](/blog/) an. Wir reden darüber, wie alles begann und wie wir soweit gekommen sind.
 
 Peach ist Mitglied der SRO (Selbstregulierungsorganisation) von Polyreg. Peach ist ein in der Schweiz lizenzierter Finanzdienstleister, der vollständig mit dem Anti-Geldwäscherei-Gesetz der Schweiz konform ist.
 
