@@ -832,5 +832,23 @@
     "url": "https://t.me/OesteBitcoinMeetUp",
     "longitude": -8.224454,
     "latitude": 39.399872
+  },
+  {
+    "name": "Bitcoin Martigny",
+    "url": "https://t.me/bitcoinmartigny",
+    "longitude": 7.079232,
+    "latitude": 46.109115
+  },
+  {
+    "name": "European Halving Party",
+    "url": "https://bitcoinfilmfest.com/europeanhalvingparty/",
+    "longitude": 21.0067249,
+    "latitude": 52.2319581
+  },
+  {
+    "name": "Halving Party Citadelle",
+    "url": "https://www.breizhbitcoin.com/halving-party-citadelle/",
+    "longitude": 2.038346,
+    "latitude": 48.652456
   }
 ]
