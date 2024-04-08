@@ -1,6 +1,6 @@
 ---
 title: Hoe het werkt
-template: hoe_het_werkt
+template: how_it_works
 ---
 
 <!--[teaser]-->
