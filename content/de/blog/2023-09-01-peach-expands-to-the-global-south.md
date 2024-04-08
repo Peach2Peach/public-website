@@ -1,48 +1,48 @@
 ---
 keywords:
-  - Latin America
-  - Africa
+  - Lateinamerika
+  - Afrika
   - Bitcoin
   - P2P
   - p2p
-  - peer to peer
+  - Peer-to-Peer
 tags:
-  - Company
+  - Unternehmen
 previewImage: /img/blog/peach-expands-to-the-global-south/map.png
 description: |
-  With the launch of Peach 0.3, the app is expanding its reach to the Global South
+  Mit dem Start von Peach 0.3 erweitert die App ihre Reichweite in den Globalen Süden
 ---
 
-# Peach expands to the Global South!
+# Peach erweitert sich in den Globalen Süden!
 
-## Do you want to help us make trading sats peer-to-peer the standard?
+## Möchtest du uns helfen, den Peer-to-Peer-Handel mit Sats zum Standard zu machen?
 
 TL;DR
 
-Peach has always been committed to democratizing access to Bitcoin, and with the launch of Peach 0.3, the app is expanding its reach to the Global South. By providing an intuitive, KYC-free solution for purchasing Bitcoin, Peach aims to empower individuals in regions where traditional financial services might be limited. Peach will expand in waves and has integrated currencies and payment methods from Argentina, Colombia, Costa Rica, Chile, Mexico, Peru, Venezuela in Latin America and Congo, Côte d’Ivoire Nigeria in Africa. Peach wants to partner with the local Bitcoin meetups and communities on the ground to expand peer-to-peer trading.
+Peach hat sich immer dem Demokratisieren des Zugangs zu Bitcoin verschrieben, und mit dem Start von Peach 0.3 erweitert die App ihre Reichweite in den Globalen Süden. Durch die Bereitstellung einer intuitiven, KYC-freien Lösung für den Kauf von Bitcoin, zielt Peach darauf ab, Einzelpersonen in Regionen zu ermächtigen, in denen traditionelle Finanzdienstleistungen begrenzt sein könnten. Peach wird in Wellen expandieren und hat Währungen und Zahlungsmethoden aus Argentinien, Kolumbien, Costa Rica, Chile, Mexiko, Peru, Venezuela in Lateinamerika und Kongo, Côte d’Ivoire, Nigeria in Afrika integriert. Peach möchte mit den lokalen Bitcoin-Meetups und Gemeinschaften vor Ort zusammenarbeiten, um den Peer-to-Peer-Handel zu erweitern.
 
-Yes, you read that right 😉 Peach is finally going out of Europe, and expanding its frontiers to other parts of the world.
+Ja, du hast richtig gelesen 😉 Peach geht endlich aus Europa hinaus und erweitert seine Grenzen in andere Teile der Welt.
 
-Today, we’re super proud to announce that with the launch of Peach 0.3 we’re adding many new Payment Methods inside our app, specially focused in 2 different regions from the Global South:
+Heute sind wir super stolz darauf anzukündigen, dass wir mit dem Start von Peach 0.3 viele neue Zahlungsmethoden in unserer App hinzufügen, speziell fokussiert auf 2 verschiedene Regionen des Globalen Südens:
 
-- **Africa**
+- **Afrika**
 - **LATAM**
 
-In this blog post, we’ll explain either the process a user needs to go through to use Peach in any of the new supported areas, as well as how you can help us bring Peach to more and more people.
+In diesem Blogbeitrag erklären wir sowohl den Prozess, den ein Benutzer durchlaufen muss, um Peach in einem der neuen unterstützten Gebiete zu nutzen, als auch, wie du uns helfen kannst, Peach zu immer mehr Menschen zu bringen.
 
 ![](/img/blog/peach-expands-to-the-global-south/map.png)
 
-As you may know, the biggest problem in peer-to-peer markets is finding other people who use the same payment methods as you. I may want to buy bitcoin, and someone else may want to sell it, but if we don’t agree on the Payment Method we want to use for that exchange, the trade won’t happen.
+Wie du vielleicht weißt, ist das größte Problem auf Peer-to-Peer-Märkten, andere Menschen zu finden, die dieselben Zahlungsmethoden wie du nutzen. Ich möchte vielleicht Bitcoin kaufen und jemand anderes möchte verkaufen, aber wenn wir uns nicht auf die Zahlungsmethode einigen können, die wir für diesen Austausch verwenden wollen, wird der Handel nicht stattfinden.
 
-That’s the problem we’re focused on solving; providing the easiest way to find other people who use the same payment methods as you, when looking to either buy or sell bitcoin.
+Das ist das Problem, auf das wir uns konzentrieren; die einfachste Möglichkeit zu bieten, andere Menschen zu finden, die dieselben Zahlungsmethoden wie du verwenden, wenn du entweder Bitcoin kaufen oder verkaufen möchtest.
 
-In Europe, there is SEPA (Single Euro Payments Area), which makes things easier for countries who belong to the European Union to send money between them. However, even there, not everyone has access to this payments system, and that’s why many other alternatives are used, and give opportunities to people to send money between themselves. For example by using fintech mobile apps, gift cards, or cash.
+In Europa gibt es SEPA (Single Euro Payments Area), was es für Länder, die zur Europäischen Union gehören, einfacher macht, Geld untereinander zu senden. Aber selbst dort hat nicht jeder Zugang zu diesem Zahlungssystem, und deshalb werden viele andere Alternativen genutzt und geben den Menschen die Möglichkeit, Geld untereinander zu senden. Zum Beispiel durch die Nutzung von Fintech-Mobil-Apps, Geschenkkarten oder Bargeld.
 
-At Peach, we’re constantly listening to our users, and trying to add the payment methods they ask for. And that made us realise that many people from the Global South were also in a need of an easy way to trade Bitcoin peer-to-peer.
+Bei Peach hören wir ständig auf unsere Benutzer und versuchen, die Zahlungsmethoden hinzuzufügen, nach denen sie fragen. Und das hat uns erkennen lassen, dass viele Menschen aus dem Globalen Süden ebenfalls eine einfache Möglichkeit benötigen, Bitcoin Peer-to-Peer zu handeln.
 
-Thanks to the cool bitcoiners who have helped us identify the most used payment methods in different countries around the world, today we’re glad to announce that Peach will start supporting the following Payment Methods:
+Dank der coolen Bitcoiner, die uns geholfen haben, die am meisten genutzten Zahlungsmethoden in verschiedenen Ländern der Welt zu identifizieren, freuen wir uns heute bekannt zu geben, dass Peach folgende Zahlungsmethoden unterstützen wird:
 
-**Africa**
+**Afrika**
 
 - Cote D’Ivoire ( Franc CFA - XOF )
   -- Orange Money
@@ -50,33 +50,33 @@ Thanks to the cool bitcoiners who have helped us identify the most used payment 
   -- MTN
   -- Wave
 
-- Congo DRC ( Franc Congolais - CDF )
+- Kongo DRC ( Franc Congolais - CDF )
   -- Airtel Money
   -- Orange Money
   -- M-Pesa
 
 - Nigeria ( Naira - NGN )
-  -- Bank transfer
+  -- Banküberweisung
   -- Chippercash
   -- Eversend
   -- Payday
 
 **LATAM**
 
-- Argentina ( ARS )
+- Argentinien ( ARS )
   -- Mercado Pago
   -- CBU
   -- CVU
   -- Alias
 
-- Colombia ( COP )
+- Kolumbien ( COP )
   -- Bancolombia
   -- Rappipay
   -- Nequi
 
-- Perú ( PEN )
+- Peru ( PEN )
   -- Rappipay
-  -- México ( MXN )
+  -- Mexiko ( MXN )
   -- Rappipay
 
 - Chile ( CLP )
@@ -84,19 +84,54 @@ Thanks to the cool bitcoiners who have helped us identify the most used payment 
 
 - Costa Rica ( CRC )
   -- SINPE
-  -- SINPE móbil
+  -- SINPE móvil
 
-As you see, we’ve integrated some of the payment methods from each region, but many more can be added.
+Wie du siehst, haben wir einige der Zahlungsmethoden aus jeder Region integriert, aber viele mehr können hinzugefügt werden.
 
-That’s why we are actively asking you for help, in case you know other Payment Methods from any region belonging to either Africa and Central & South America, let us know! We’d love to add them into our app, to enable more individuals to trade sats peer-to-peer in the easiest possible way!
+Deshalb bitten wir dich aktiv um Hilfe, falls du andere Zahlungsmethoden aus irgendeiner Region kennst, die entweder zu Afrika und Mittel- & Südamerika gehört, lass es uns wissen! Wir würden sie gerne in unsere App aufnehmen, um mehr Einzelpersonen den Handel mit Sats Peer-to-Peer auf einfachstmögliche Weise zu ermöglichen!
 
-If you want to send us information about a certain payment method, please send an email to [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com) with the new Payment Method name as the email subject. We’ll get back to you as soon as possible to add it into our app.
+Wenn du uns Informationen über eine bestimmte Zahlungsmethode senden möchtest, sende bitte eine E-Mail an [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com) mit dem Namen der neuen Zahlungsmethode als Betreff der E-Mail. Wir werden uns so schnell wie möglich bei dir melden, um sie in unsere App aufzunehmen.
 
-## Cash trades
+## Bargeldgeschäfte
 
-All the previous payment methods, are considered “digital” payments, done through either bank transfers, or fintech apps. However, **we do also support cash trades**, and to make it easy for people to find other bitcoiners to trade with, we are **partnering with meetups all over the world**, and enable them as official points to trade bitcoin using cash.
+Alle vorherigen Zahlungsmethoden werden als „digitale“ Zahlungen betrachtet, die entweder über Banküberweisungen oder Fintech-Apps getätigt werden. Wir unterstützen jedoch **auch Bargeldgeschäfte**, und um es Menschen leicht zu machen, andere Bitcoiner für den Handel zu finden, **arbeiten wir mit Meetups auf der ganzen Welt zusammen** und ermöglichen sie als offizielle Punkte für den Bitcoin-Handel mit Bargeld.
 
-To know more about how the cash trades work, you can read our blog post [How to buy and sell Bitcoin with cash using Peach](https://peachbitcoin.com/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/).
+Um mehr darüber zu erfahren, wie die Bargeldgeschäfte funktionieren, kannst du unseren Blogbeitrag [Wie man Bitcoin mit Bargeld unter Verwendung von Peach kauft und verkauft](https://peachbitcoin.com/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/) lesen.
 
-**If you are a meetup organizer from anywhere in the Global South, and would like us to add your meetup as an official cash trading point, send us an email to [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com) with your meetup as the email subject, and we’ll get back to you ASAP to integrate it!**
+**Wenn du ein Meetup-Organisator irgendwo im Globalen Süden bist und möchtest, dass wir dein Meetup als offiziellen Bargeldhandelspunkt hinzufügen, sende uns eine E-Mail an [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com) mit deinem Meetup als Betreff der E-Mail, und wir werden uns so schnell wie möglich bei dir melden, um es zu integrieren!**
 
+## Schlussbemerkungen
+
+Wenn Sie mehr über die Funktionen von Peach erfahren möchten oder einige unserer anderen Artikel lesen möchten, finden Sie sie hier!
+
+[Wie man Bitcoin-Wallets mit einem Seed-Phrase wiederherstellt](https://peachbitcoin.com/de/blog/how-to-restore-peach-wallet/)
+
+[Wie man mehrere Verkaufsangebote finanziert](https://peachbitcoin.com/de/blog/funding-multiple-sell-offers/)
+
+[Wie man Bitcoin mit Bargeld kauft und verkauft, mit Peach](https://peachbitcoin.com/de/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/)
+
+[Wie man eine neue Zahlungsmethode in der Peach-App hinzufügt](https://peachbitcoin.com/de/blog/how-to-add-a-payment-method/)
+
+[Peach expandiert in den Globalen Süden!](https://peachbitcoin.com/de/blog/peach-expands-to-the-global-south/)
+
+[Unsere Peach-API öffentlich machen](https://peachbitcoin.com/de/blog/making-our-peach-api-public/)
+
+[Vollständige Wallet-Funktionalität](https://peachbitcoin.com/de/blog/full-wallet-functionality/)
+
+[Was ist GroupHug?](https://peachbitcoin.com/de/blog/group-hug/)
+
+[Warum P2P-Serie? Kapitel 1](https://peachbitcoin.com/de/blog/why-p2p-chapter-1/)
+
+[Warum P2P-Serie? Kapitel 2](https://peachbitcoin.com/de/blog/why-p2p-chapter-2/)
+
+[Warum P2P-Serie? Kapitel 3](https://peachbitcoin.com/de/blog/why-p2p-chapter-3-circular-economies/)
+
+[Warum P2P-Serie? Kapitel 4](https://peachbitcoin.com/de/blog/why-p2p-chapter-4-chains-of-trust/)
+
+[Peach x Treffen](https://peachbitcoin.com/de/blog/peach-for-meetups/)
+
+Wenn Sie mehr über uns erfahren möchten, schauen Sie sich unsere sozialen Medien an oder [kontaktieren Sie uns](mailto:hello@peachbitcoin.com) (wenn möglich, verwenden Sie unseren [PGP-Schlüssel](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2)), wir freuen uns, von Ihnen zu hören!
+
+[Telegram](https://t.me/+GkOW1J-ixBBkZWRk), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
+
+Verbreiten Sie weiterhin das Peach-Wort, wer weiß, wann Sie den Match Ihres Lebens finden werden!

@@ -1,5 +1,5 @@
 ---
-Schlüsselwörter:
+keywords:
   - Bitcoin
   - Bitcoin kaufen
   - Bitcoin verkaufen
@@ -10,10 +10,10 @@ Schlüsselwörter:
   - wie man Bitcoin kauft
   - wie man Bitcoin verkauft
   - Peer-to-Peer
-Tags:
+tags:
   - Bildung
-Vorschaubild: /img/blog/why-p2p/connections.jpg
-Beschreibung: |
+previewImage: /img/blog/why-p2p/connections.jpg
+description: |
   Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder Mensch das Recht hat zu wählen, welches Geld er verwendet, um sein Vermögen zu speichern,
   das Ergebnis seiner Arbeit, seiner Zeit und Energie.
   Die Mission von Peach ist es, einen Beitrag zur Verbreitung von Bitcoin in den Händen der Menschen zu leisten.
