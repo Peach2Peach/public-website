@@ -96,7 +96,7 @@ Wenn du uns Informationen über eine bestimmte Zahlungsmethode senden möchtest,
 
 Alle vorherigen Zahlungsmethoden werden als „digitale“ Zahlungen betrachtet, die entweder über Banküberweisungen oder Fintech-Apps getätigt werden. Wir unterstützen jedoch **auch Bargeldgeschäfte**, und um es Menschen leicht zu machen, andere Bitcoiner für den Handel zu finden, **arbeiten wir mit Meetups auf der ganzen Welt zusammen** und ermöglichen sie als offizielle Punkte für den Bitcoin-Handel mit Bargeld.
 
-Um mehr darüber zu erfahren, wie die Bargeldgeschäfte funktionieren, kannst du unseren Blogbeitrag [Wie man Bitcoin mit Bargeld unter Verwendung von Peach kauft und verkauft](https://peachbitcoin.com/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/) lesen.
+Um mehr darüber zu erfahren, wie die Bargeldgeschäfte funktionieren, kannst du unseren Blogbeitrag [Wie man Bitcoin mit Bargeld unter Verwendung von Peach kauft und verkauft](https://peachbitcoin.com/de/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/) lesen.
 
 **Wenn du ein Meetup-Organisator irgendwo im Globalen Süden bist und möchtest, dass wir dein Meetup als offiziellen Bargeldhandelspunkt hinzufügen, sende uns eine E-Mail an [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com) mit deinem Meetup als Betreff der E-Mail, und wir werden uns so schnell wie möglich bei dir melden, um es zu integrieren!**
 

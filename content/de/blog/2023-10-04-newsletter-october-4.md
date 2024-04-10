@@ -152,4 +152,4 @@ Am häufigsten verwendete Zahlungsmethoden
 ---
 
 Um diesen kleinen Rant zu beenden, möchte ich hier unten einen letzten Link hinterlassen, der auf einen der bisher besondersten Blogposts hinweist, den wir bisher geschrieben haben. Dieser spricht über die Erfahrungen der Peach-Teammitglieder im letzten Jahr und wie es sich angefühlt hat, Peach aus einer Insider-Perspektive aufzubauen. Wenn du mehr über unsere Geschichte erfahren möchtest, ist dieser Blogpost für dich! Viel Spaß!
-[1 Jahr bei Peach](https://peachbitcoin.com/blog)
+[1 Jahr bei Peach](https://peachbitcoin.com/de/blog)

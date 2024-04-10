@@ -76,7 +76,7 @@ Nun, ich denke, das war's! Nach ein paar stressigen Wochen konnten wir großarti
 Also, wenn ihr uns einige Rückmeldungen, etwas Liebe oder Hass über einen unserer Kommunikationskanäle senden möchtet, tut dies bitte!
 PS: Wir haben einige neue Blogposts hinzugefügt, damit die Leute tiefer in all unsere neuen Funktionen eintauchen können. Ihr findet sie alle in unserem Blog-Bereich auf der Website:
 
-https://peachbitcoin.com/blog
+https://peachbitcoin.com/de/blog
 
 ## Marktstatistiken
 
