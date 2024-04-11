@@ -1,103 +1,100 @@
 ---
 keywords:
   - Bitcoin
-  - buy bitcoin
-  - sell bitcoin
-  - Peach app
+  - αγορά bitcoin
+  - πώληση bitcoin
+  - Εφαρμογή Peach
   - P2P
   - p2p
-  - p2p exchange
-  - how to buy bitcoin
-  - how to sell bitcoin
-  - peer to peer
-  - newsletter
+  - ανταλλαγή p2p
+  - πώς να αγοράσετε bitcoin
+  - πώς να πουλήσετε bitcoin
+  - από άτομο σε άτομο
+  - ενημερωτικό δελτίο
 tags:
-  - Newsletter
+  - Ενημερωτικό Δελτίο
 previewImage: /img/blog/newsletter/mail-post.jpg
 description: |
-  Bitcoin is money for free people. We believe that every single human being has the right to choose which money he uses to store his wealth, the
-  result of his work, his time and energy. Peach Bitcoin is the easiest platform to buy and sell bitcoin peer to peer.
-  Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
+  Το Bitcoin είναι χρήμα για ελεύθερους ανθρώπους. Πιστεύουμε ότι κάθε ανθρώπινο ον έχει το δικαίωμα να επιλέξει με ποιο νόμισμα θα αποθηκεύσει τον πλούτο του, το αποτέλεσμα της εργασίας του, του χρόνου και της ενέργειάς του. Η Peach Bitcoin είναι η ευκολότερη πλατφόρμα για να αγοράσετε και να πουλήσετε bitcoin από άτομο σε άτομο.
+  Η αποστολή της Peach είναι να συμβάλλει στην υιοθέτηση του Bitcoin στα χέρια των ανθρώπων.
 ---
 
-# Newsletter June 22nd
+# Ενημερωτικό Δελτίο 22 Ιουνίου
 
-## Yearly analysis of the best moment to stack sats
+## Ετήσια ανάλυση της καλύτερης στιγμής για να συγκεντρώσετε sats
 
 ![peachy peach bitcoin gif](/img/blog/newsletter/gif-peach.gif)
 
-Hello Peaches! 🍑
-Did you know Wednesday was the longest day of the year in the northern hemisphere? That means from now on, until Christmas, you'll have a little less daylight each day to stack sats.
+Γεια σας Peaches! 🍑
+Γνωρίζατε ότι η Τετάρτη ήταν η μεγαλύτερη μέρα του χρόνου στο βόρειο ημισφαίριο; Αυτό σημαίνει πως από τώρα και μέχρι τα Χριστούγεννα, θα έχετε λίγο λιγότερο φως ημέρας κάθε μέρα για να συγκεντρώσετε sats.
 
-Luckily for you, Peach works during the night, so you can match offers whenever you feel like doing so 😉.
+Ευτυχώς για εσάς, η Peach λειτουργεί κατά τη διάρκεια της νύχτας, οπότε μπορείτε να ταιριάζετε προσφορές όποτε έχετε όρεξη 😉.
 
-Diving a little deeper into solstices and the length of days, we did some extensive research with the best experts in the field, to give you our advice on the best season of the year to stack sats.
+Εξερευνώντας λίγο περισσότερο τα ηλιοστάσια και τη διάρκεια των ημερών, κάναμε κάποιες εκτεταμένες έρευνες με τους καλύτερους ειδικούς στον τομέα, για να σας δώσουμε τη συμβουλή μας για την καλύτερη εποχή του χρόνου για να συγκεντρώσετε sats.
 
-![Best time of the year to stack sats](https://img.mailinblue.com/5647291/images/content_library/original/64941307dfe4913ead6c14a6.png)
+![Καλύτερη εποχή του χρόνου για να συγκεντρώσετε sats](https://img.mailinblue.com/5647291/images/content_library/original/64941307dfe4913ead6c14a6.png)
 
-As you can see, NOW is exactly the best moment to stack stats!💸
+Όπως βλέπετε, ΤΩΡΑ είναι ακριβώς η καλύτερη στιγμή για να συγκεντρώσετε sats!💸
 
-(make sure to re-read this statement every day)
+(βεβαιωθείτε ότι θα ξαναδιαβάσετε αυτή τη δήλωση κάθε μέρα)
 
-Jokes apart, summer is officially starting, and good vibes are felt all around.
+Αστειευόμαστε, φυσικά, το καλοκαίρι έχει επίσημα ξεκινήσει, και οι καλές δονήσεις αισθάνονται παντού.
 
-We also want to bring some good news to all of you for this summer season, and as some of you may have already seen, we've been updating the app to include some long-awaited functionalities.
+Θέλουμε επίσης να φέρουμε κάποια καλά νέα σε όλους εσάς για αυτή την καλοκαιρινή σεζόν, και όπως ορισμένοι από εσάς ίσως έχετε ήδη δει, έχουμε αναβαθμίσει την εφαρμογή για να περιλάβουμε κάποιες πολυαναμενόμενες λειτουργικότητες.
 
-In case you haven't updated yet, don't get left behind! Peach 0.2.9 includes the following improvements:
+Σε περίπτωση που δεν έχετε αναβαθμίσει ακόμη, μην μείνετε πίσω! Η Peach 0.2.9 περιλαμβάνει τις εξής βελτιώσεις:
 
-    Update bdk-rn (peach wallet foundation)
-    Funding from peach wallet
-    Improved app startup time
+    Αναβάθμιση bdk-rn (θεμέλιο πορτοφολιού peach)
+    Χρηματοδότηση από το πορτοφόλι peach
+    Βελτιωμένος χρόνος εκκίνησης της εφαρμογής
     Peach en français! 🇲🇫
-    featured events/meetups
-    French PM: no fees for a month (from 21.06 on)
+    επιλεγμένες εκδηλώσεις/συναντήσεις
+    Γαλλικός PM: χωρίς τέλη για ένα μήνα (από 21.06 και μετά)
     ...
 
-You read that right! Peach en Français and the French Payment Methods are exempt of fees for one full month🤑
+Διαβάσατε σωστά! Η Peach en Français και οι Γαλλικοί Τρόποι Πληρωμής είναι εξαιρεμένοι από τέλη για έναν ολόκληρο μήνα🤑
 
-For all of you who are in France, do not lose this opportunity to stack cheaper sats in your local payment methods!
+Για όλους εσάς που βρίσκεστε στη Γαλλία, μη χάσετε αυτή την ευκαιρία να συγκεντρώσετε φθηνότερα sats με τους τοπικούς σας τρόπους πληρωμής!
 
 ![Peach bitcoin oui oui](https://img.mailinblue.com/5647291/images/content_library/original/649416828985185b31521435.gif)
 
-Since launching the app in Spanish and French, we've been receiving submissions to help us translate the app into different local languages.
+Από την κυκλοφορία της εφαρμογής στα Ισπανικά και Γαλλικά, έχουμε λάβει αιτήσεις για να μας βοηθήσουν να μεταφράσουμε την εφαρμογή σε διάφορες τοπικές γλώσσες.
 
-The next ones in the line are Italian and German, which are almost finished, but in case you would like to contribute to translating the app into your local language (and earn some sats in the process), we'd be more than happy to hear from you.
+Οι επόμενες στη σειρά είναι η Ιταλική και η Γερμανική, που είναι σχεδόν ολοκληρωμένες, αλλά σε περίπτωση που θα θέλατε να συμβάλλετε στη μετάφραση της εφαρμογής στην τοπική σας γλώσσα (και να κερδίσετε κάποια sats στη διαδικασία), θα χαρούμε πολύ να ακούσουμε από εσάς.
 
-We're looking for any European language at first, and later expanding to the rest of the world.
+Αναζητούμε κάθε Ευρωπαϊκή γλώσσα αρχικά, και στη συνέχεια θα επεκταθούμε στο υπόλοιπο κόσμο.
 
-## Market Stats
+## Στατιστικά Αγοράςαπό 06/09 έως 06/22
 
-from 06/09 to 06/22
+Παρακάτω θα βρείτε μια σύνοψη των πιο σημαντικών στατιστικών από τις προηγούμενες εβδομάδες. Ενημερώστε μας εάν θα θέλατε να δείτε κάποιο διάγραμμα/μετρική που δεν εμφανίζεται εδώ.
 
-Down here you'll find a recap of the most important stats from the previous weeks. Let us know if you'd like to see any chart/metric that doesn't appear here.
+Περίληψη: Έχουμε δει μια αύξηση στους πωλητές κατά τις τελευταίες εβδομάδες, μας αρέσει να βλέπουμε τους ανθρώπους να σταματούν να χρησιμοποιούν VEXs για να πουλήσουν το Bitcoin τους, και να φέρνουν ρευστότητα στην πραγματική αγορά.
 
-TL;DR: We've seen a spike on sellers during the past weeks, we love seeing people stop using VEXs to sell their Bitcoin, and bringing liquidity to the real market.
+Η αγορά του Ηνωμένου Βασιλείου έχει δει μια αύξηση των συναλλαγών που χρησιμοποιούν τα Faster Payments. 🇬🇧
 
-UK market has seen a spike of trades using Faster Payments.🇬🇧
+Ο Bob Ljí το συνοψίζει καλά σε αυτό το tweet.
 
-Bob Ljí summarizes it well in this tweet.
+![tweet του bob ljí](https://img.mailinblue.com/5647291/images/content_library/original/6494188b6eb6f010ad6c7ee3.png)
 
-![bob ljí tweet](https://img.mailinblue.com/5647291/images/content_library/original/6494188b6eb6f010ad6c7ee3.png)
-
-### Number of trades
+### Αριθμός Συναλλαγών
 
 - 272
 
-### Total amount traded
+### Συνολικό Ποσό Συναλλαγών
 
 - 316 374 714 sats (79 163 CHF)
 
-### Average Trade Amount
+### Μέσο Ποσό Συναλλαγής
 
 - 832 565 sats (208 CHF)
 
-### Order Book Status
+### Κατάσταση Βιβλίου Παραγγελιών
 
-583 buy offers | 47 sell offers
+583 προσφορές αγοράς | 47 προσφορές πώλησης
 
-\*June 22nd - 12:00pm
+\*22 Ιουνίου - 12:00μμ
 
-### Top 5 Payment Methods
+### Κορυφαίοι 5 Τρόποι Πληρωμής
 
 1. Revolut
 2. Sepa + Instant Sepa
@@ -105,45 +102,9 @@ Bob Ljí summarizes it well in this tweet.
 4. Wise
 5. Faster Payments
 
-### Newly added meetups
+### Νέες προσθήκες συναντήσεων
 
-- Ireland, Bitcoin Hideaway
+- Ιρλανδία, Bitcoin Hideaway
 - Jura P2P Festival
-- Osnabrück, Germany - Einundzwanzig Osnabrück
-- Biel/Bienne, Switzerland - Blockchain Bienne
-
-## Final Notes
-
-If you want to know more about Peach features, or read some of our other articles, you can find them here!
-
-[How to Recover Bitcoin Wallets Using a Seed Phrase](https://peachbitcoin.com/el/blog/how-to-restore-peach-wallet/)
-
-[How to Fund Multiple Sell Offers](https://peachbitcoin.com/el/blog/funding-multiple-sell-offers/)
-
-[How to buy and sell Bitcoin with cash using Peach](https://peachbitcoin.com/el/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/)
-
-[How to add a new payment method on the Peach app](https://peachbitcoin.com/el/blog/how-to-add-a-payment-method/)
-
-[Peach expands to the Global South!](https://peachbitcoin.com/el/blog/peach-expands-to-the-global-south/)
-
-[Making our Peach-API Public](https://peachbitcoin.com/el/blog/making-our-peach-api-public/)
-
-[Full Wallet Functionality](https://peachbitcoin.com/el/blog/full-wallet-functionality/)
-
-[What is GroupHug?](https://peachbitcoin.com/el/blog/group-hug/)
-
-[Why P2P series? Chapter 1](https://peachbitcoin.com/el/blog/why-p2p-chapter-1/)
-
-[Why P2P series? Chapter 2](https://peachbitcoin.com/el/blog/why-p2p-chapter-2/)
-
-[Why P2P series? Chapter 3](https://peachbitcoin.com/el/blog/why-p2p-chapter-3-circular-economies/)
-
-[Why P2P series? Chapter 4](https://peachbitcoin.com/el/blog/why-p2p-chapter-4-chains-of-trust/)
-
-[Peach x meetups](https://peachbitcoin.com/el/blog/peach-for-meetups/)
-
-If you want to know more about us, check out or socials, or simply [contact us](mailto:hello@peachbitcoin.com) (use our [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2) if possible) we'll be happy to hear from you!
-
-[Telegram](https://t.me/+GkOW1J-ixBBkZWRk), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
-
-Keep spreading the Peach word, who knows when you'll find the match of your life!
+- Όσναμπρύκ, Γερμανία - Einundzwanzig Osnabrück
+- Biel/Bienne, Ελβετία - Blockchain Bienne
