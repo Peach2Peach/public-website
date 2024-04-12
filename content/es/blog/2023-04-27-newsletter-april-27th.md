@@ -1,45 +1,70 @@
 ---
 keywords:
   - Bitcoin
-  - Peach app
-  - Acerca de
+  - comprar bitcoin
+  - vender bitcoin
+  - Aplicación Peach
+  - P2P
+  - p2p
+  - intercambio p2p
+  - cómo comprar bitcoin
+  - cómo vender bitcoin
+  - de igual a igual
+  - boletín
 tags:
-  - Empresa
-previewImage: /img/blog/peach-for-meetups/teaser.jpg
+  - Boletín
+previewImage: /img/blog/newsletter/mail-post.jpg
 description: |
-  Bitcoin es dinero para la gente libre. Creemos que cada ser humano tiene el derecho de elegir con qué dinero guarda su riqueza, el
+  Bitcoin es dinero para personas libres. Creemos que cada ser humano tiene el derecho de elegir qué dinero utiliza para almacenar su riqueza, el
   resultado de su trabajo, su tiempo y energía.
   La misión de Peach es hacer su parte para contribuir a la adopción de Bitcoin en manos de la gente.
 ---
 
-# Todo sobre Peach, la empresa
+# Boletín 27 de abril
 
-Peach fue creada para participar en la solución de este problema: “¿cómo logramos la adopción del Bitcoin en el comercio minorista?”
+## Lanzamiento de Peach 0.2
 
-Queremos ayudar a tantas personas como sea posible para que tengan acceso al mejor dinero que haya existido. Un dinero que una entidad central no puede devaluar,
-porque tiene una oferta fija. Un dinero que una entidad central no puede censurar, porque tú eres el único que lo posee. Un dinero que una entidad central
-no puede discriminar, porque no necesitas pedir permiso para usarlo. Y el punto más crítico, un dinero que una entidad central no puede controlar
-o modificar, porque Bitcoin utiliza un libro de contabilidad inmutable.
+![peachy peach bitcoin gif](/img/blog/newsletter/gif-peach.gif)
 
-Bitcoin es dinero para la gente libre. Creemos que cada ser humano tiene el derecho de elegir con qué dinero guarda su riqueza, el
-resultado de su trabajo, su tiempo y energía.
+¡Hola Peaches!
+Bienvenidos a nuestro primer boletín. Seguiremos enviando actualizaciones sobre Peach, estadísticas del mercado y otras cosas que creemos pueden aportar valor para ustedes.
+En este primer boletín, queremos compartir algunas cosas…
+Hemos iniciado una serie de publicaciones en el blog destinadas a ayudar a los usuarios a comprender la importancia de P2P. Continuaremos enviando las nuevas publicaciones que publiquemos en este boletín, para asegurarnos de que no se pierdan ninguna de ellas.
+¡Ayúdanos a compartir la palabra P2P con todo el mundo compartiéndola con tus amigos principiantes!
+En la primera publicación profundizamos en los orígenes de Bitcoin, y por qué casi perdimos el camino que Satoshi trajo al mundo.
 
-La misión de Peach es hacer su parte para contribuir a la adopción de Bitcoin en manos de la gente.
+Échale un vistazo [¡aquí!](https://peachbitcoin.com/es/blog/why-p2p-chapter-1/)
 
-Peach nació de la mente de los Bitcoin Maximalists. Gente que cree en la convergencia natural del mercado hacia el mejor dinero
-disponible. Gente que cree que los mercados p2p son los verdaderos mercados, y que desea hacer el proceso de comprar/vender bitcoin y autogestionar su custodia
-lo más fácil posible, incluso para aquellos que nunca han usado una cartera antes.
+## Estadísticas del Mercado
 
-En cuanto al resto, nuestra historia es cliché. ¡Empezó en Bitcoin Twitter y un par de shots de peach después... aquí estamos!
+Todos los volúmenes están basados en CHF
 
-![](/img/blog/all-about-peach-the-company/photo.jpg)
+Queridos peaches, a continuación, encontrarán un resumen de las estadísticas más importantes de la semana anterior. Hágannos saber si les gustaría ver algún gráfico/métrica que no aparece aquí.
 
-Constantemente buscamos a otros pares que quieran ayudarnos en nuestra misión. Si lo que has leído sobre Peach hasta ahora resuena contigo, y crees
-que podrías aportar valor a una empresa como la nuestra, no dudes en contactarnos, o revisar nuestra sección Únete a Nosotros. Y si solo quisieras
-decir hola, pasa por uno de nuestros sociales ¡y estaremos encantados de tener una charla contigo!
+### Estado del Libro de Órdenes
 
----
+- 510 ofertas de compra
+- 39 ofertas de venta
 
+### Los 5 Métodos de Pago Principales
+
+1. Revolut
+2. Sepa + Sepa Instantáneo
+3. PayPal
+4. Wise
+5. Twint
+
+### Principal Meetup de Comercio
+
+- Barcelona Bitcoin Only (600.000 sats, 155 CHF)
+
+### Cantidad total comerciada
+
+- 184.896.097 sats (48 945 CHF)
+
+### Promedio de Cantidad Comerciada
+
+- 684 800 sats (181 CHF)
 
 ## Notas Finales
 
