@@ -237,7 +237,7 @@ To anyone wondering if they are still on time to change their lifestyle, their j
 
 ![peaches](/img/blog/1y-anniversary/peaches.jpeg)
 
-# [Steph](@proofofsteph)
+# [Steph](https://x.com/@proofofsteph)
 
 ## How did we survive the first year?
 
