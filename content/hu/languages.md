@@ -16,4 +16,4 @@ Ha szeretnél segíteni a Peach fordításában a saját helyi nyelvedre, [vedd 
 - [Portugál 🇵🇹](/pt)
 - [Lengyel 🇵🇱](/pl)
 - [Holland 🇳🇱](/nl)
-- [Magyar ʜᴜ](/hu)
+- [Magyar 🇭🇺](/hu)

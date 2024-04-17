@@ -16,5 +16,4 @@ Als je ons wilt helpen Peach te vertalen naar je lokale taal, [neem contact met 
 - [Portugees 🇵🇹](/pt)
 - [Pools 🇵🇱](/pl)
 - [Nederlands 🇳🇱](/nl)
-- [Hongaars ʜᴜ](/hu)
-
+- [Hongaars 🇭🇺](/hu)

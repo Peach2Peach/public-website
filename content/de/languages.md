@@ -16,4 +16,4 @@ Wenn du uns bei der Übersetzung von Peach in deine Landessprache helfen möchte
 - [🇵🇹 Portugiesisch](/pt)
 - [🇵🇱 Polnisch](/pl)
 - [Nederlands 🇳🇱](/nl)
-- [Ungarisch ʜᴜ](/hu)
+- [Ungarisch 🇭🇺](/hu)
