@@ -8,6 +8,8 @@ const sw = require('./translations/sw.json')
 const pt = require('./translations/pt.json')
 const uk = require('./translations/uk.json')
 const pl = require('./translations/pl.json')
+const nl = require('./translations/nl.json')
+const hu = require('./translations/hu.json')
 
 const properties = {
   en,
@@ -20,6 +22,8 @@ const properties = {
   pt,
   uk,
   pl,
+  nl,
+  hu,
 }
 
 /**
