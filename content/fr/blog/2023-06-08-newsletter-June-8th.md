@@ -47,7 +47,7 @@ Même si nous ne serons pas là pour vous rencontrer à toutes les conférences 
 
 En tout cas chers Peaches, après cette rapide mise à jour sur les pensées qui nous sont venues à l'esprit pendant que nous étions dans le jacuzzi, voici quelques statistiques du marché de la semaine dernière. Nous espérons que vous les apprécierez !
 
-PS : Nous venons de publier le 3ème épisode de notre série "Pourquoi P2P ?", jetez-y un œil [ici](https://peachbitcoin.com/blog/why-p2p-chapter-3-circular-economies/) !
+PS : Nous venons de publier le 3ème épisode de notre série "Pourquoi P2P ?", jetez-y un œil [ici](https://peachbitcoin.com/fr/blog/why-p2p-chapter-3-circular-economies/) !
 
 ## Statistiques du marché
 

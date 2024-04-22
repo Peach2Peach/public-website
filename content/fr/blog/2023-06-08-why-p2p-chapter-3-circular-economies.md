@@ -1,49 +1,85 @@
 ---
 keywords:
   - Bitcoin
-  - buy bitcoin
-  - sell bitcoin
-  - Peach app
+  - acheter bitcoin
+  - vendre bitcoin
+  - application Peach
   - P2P
   - p2p
-  - p2p exchange
+  - échange p2p
 tags:
-  - Education
+  - Éducation
 previewImage: /img/blog/why-p2p/sustainable-economy.png
 description: |
-  Bitcoin is money for free people. We believe that every single human being has the right to choose which money he uses to store his wealth, the
-  result of his work, his time and energy.
-  Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
+  Le Bitcoin est l'argent des gens libres. Nous croyons que chaque être humain a le droit de choisir la monnaie qu'il utilise pour stocker sa richesse, le
+  résultat de son travail, de son temps et de son énergie.
+  La mission de Peach est de contribuer à l'adoption du Bitcoin entre les mains des gens.
 ---
 
-# Why P2P series - Chapter 3, Circular Economies
+# Série Pourquoi P2P - Chapitre 3, Économies Circulaires
 
-## Building a sustainable future
+## Construire un avenir durable
 
-Dear peaches, as you may already know, our app allows users to buy Bitcoin P2P (peer to peer, or peach to peach as we prefer). But, even if many people have heard those words before, have you ever stopped to think what that even means?
+Chers Peaches, comme vous le savez peut-être déjà, notre application permet aux utilisateurs d'acheter du Bitcoin en P2P (de pair à pair, ou de Peach à Peach comme nous préférons). Mais, même si beaucoup de gens ont déjà entendu ces termes, vous êtes-vous déjà arrêtés pour réfléchir à ce que cela signifie réellement ?
 
-The basic definition is pretty obvious, but in the bitcoin space, many people are still buying Bitcoin using services that require verification of personal information, aka VEXs, thus tying the Bitcoin bought to your identity. Which makes us wonder: have we (bitcoiners) really understood what this is all about?
+La définition de base est assez évidente, mais dans l'espace Bitcoin, beaucoup de personnes achètent encore du Bitcoin en utilisant des services qui nécessitent la vérification des informations personnelles, alias les VEX, liant ainsi le Bitcoin acheté à votre identité. Ce qui nous amène à nous demander : avons-nous (les bitcoiners) vraiment compris de quoi il s'agit ?
 
-In this series of blog posts we will dive a little bit deeper into what it means to use bitcoin P2P, and some of its advantages.
+Dans cette série d'articles de blog, nous explorerons un peu plus ce que signifie utiliser le Bitcoin en P2P, et certains de ses avantages.
 
-In today's chapter, we will get into how building a P2P mindset can lead to circular economies, why today's economy is broken, and how Bitcoin can bring us back to a more sustainable way of living with our surroundings.
+Dans le chapitre d'aujourd'hui, nous verrons comment développer une mentalité P2P peut conduire à des économies circulaires, pourquoi l'économie actuelle est brisée, et comment le Bitcoin peut nous ramener à une manière de vivre plus durable avec notre environnement.
 
-![back to the roots](/img/blog/why-p2p/sustainable.png)
+![retour aux racines](/img/blog/why-p2p/sustainable.png)
 
-As many bitcoiners believe, Bitcoin can be a lifeboat when the current unsustainable economic system eventually sinks. New systems with better aligned incentives will replace the current ones, leading to new models between peers. We believe these new models will be based in circular economies.
+Comme beaucoup de bitcoiners le croient, le Bitcoin peut être un canot de sauvetage lorsque le système économique actuel non durable finira par couler. De nouveaux systèmes avec de meilleures incitations les remplaceront, conduisant à de nouveaux modèles entre pairs. Nous croyons que ces nouveaux modèles seront basés sur des économies circulaires.
 
-Circular economies benefit local producers, and take advantage of local resources. With this model in mind, participants will need to make sure their local community has almost everything they need to sustain their citizens, while leveraging their own products to trade with other areas of the world. Of course this doesn’t mean a local producer cannot enjoy products from another part of the world, it just means they can’t do so in the same way as today, where only a limited amount of big players can access huge economies of scale thanks to the easy money policies of their government.
+Les économies circulaires profitent aux producteurs locaux et tirent parti des ressources locales. Avec ce modèle en tête, les participants devront s'assurer que leur communauté locale dispose presque de tout ce dont ils ont besoin pour soutenir leurs citoyens, tout en tirant parti de leurs propres produits pour commercer avec d'autres régions du monde. Bien sûr, cela ne signifie pas qu'un producteur local ne peut pas profiter des produits d'une autre partie du monde, cela signifie simplement qu'ils ne peuvent pas le faire de la même manière qu'aujourd'hui, où seul un nombre limité de grands acteurs peut accéder à d'énormes économies d'échelle grâce aux politiques de monnaie facile de leur gouvernement.
 
-The current model allows the cantillonaires (people close to the government and the money printer) to take advantage of the resources found in other areas of the world, as they can simply print money out of thin air, and buy scarce goods with non-scarce money, while devaluating everyone else purchasing power. Meanwhile a circular economy would redistribute this wealth and give everyone around the world more equal opportunities to compete for those same goods.
+Le modèle actuel permet aux cantillonnaires (personnes proches du gouvernement et de la planche à billets) de profiter des ressources trouvées dans d'autres régions du monde, car ils peuvent simplement imprimer de l'argent à partir de rien, et acheter des biens rares avec de l'argent non rare, tout en dévaluant le pouvoir d'achat de tous les autres. Pendant ce temps, une économie circulaire redistribuerait cette richesse et donnerait à tout le monde dans le monde des opportunités plus égales de concourir pour ces mêmes biens.
 
-There's an excellent piece of content by Robert Breedlove, called [Masters and Slaves of Money](https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f) that gets deep into it, for those who are more interested in falling down the rabbit hole of Cantillonaires and money printers.
+Il existe un excellent contenu de Robert Breedlove, intitulé [Masters and Slaves of Money](https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f) qui approfondit le sujet, pour ceux qui sont plus intéressés à plonger dans le terrier des Cantillonnaires et des imprimeurs de monnaie.
 
-Even though the people in power will criticize “capitalism”, the “greedy corporations” or “terrorists” as the cause of wealth inequality in the world, we believe that fiat money is the main culprit. A hard money standard would change the incentives for absolutely everyone in this planet, creating a better scenario for circular economies to flourish, and for trade to flow freely between different territories, allowing us to make our home planet a little bit fairer in the process.
+Même si les personnes au pouvoir critiqueront le "capitalisme", les "entreprises cupides" ou les "terroristes" comme cause de l'inégalité des richesses dans le monde, nous croyons que l'argent fiduciaire est le principal coupable. Un étalon monétaire solide changerait les incitations pour absolument tout le monde sur cette planète, créant un meilleur scénario pour que les économies circulaires prospèrent, et pour que le commerce coule librement entre différents territoires, nous permettant de rendre notre planète un peu plus juste dans le processus.
 
-Peach by itself does not create circular economies ( yet ;) ), but the forming of a P2P mindset is the first step to make users understand the importance of exchanging goods and services locally, and that’s why we want to promote it. We believe in the power of good and strong relationships between humans, and the only way to achieve them is to create better incentives for humans to cooperate between them.
+Peach en soi ne crée pas d'économies circulaires (encore ;) ), mais la formation d'une mentalité P2P est la première étape pour faire comprendre aux utilisateurs l'importance d'échanger des biens et des services localement, et c'est pourquoi nous voulons la promouvoir. Nous croyons en la puissance de bonnes et fortes relations entre les humains, et la seule façon de les atteindre est de créer de meilleures incitations pour les humains à coopérer entre eux.
 
-Once we’ve understood the power of good incentives between us, we can start flourishing again as a sustainable society.
+Une fois que nous aurons compris le pouvoir de bonnes incitations entre nous, nous pourrons à nouveau prospérer en tant que société durable.
 
-![cooperation](/img/blog/why-p2p/cooperation.jpeg)
+![coopération](/img/blog/why-p2p/cooperation.jpeg)
 
 ---
+
+## Notes finales
+
+Si vous souhaitez en savoir plus sur les fonctionnalités de Peach, ou lire certains de nos autres articles, vous pouvez les trouver ici !
+
+[Comment récupérer des portefeuilles Bitcoin en utilisant une phrase de récupération](https://peachbitcoin.com/fr/blog/how-to-restore-peach-wallet/)
+
+[Comment financer plusieurs offres de vente](https://peachbitcoin.com/fr/blog/funding-multiple-sell-offers/)
+
+[Comment acheter et vendre du Bitcoin en espèces avec Peach](https://peachbitcoin.com/fr/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/)
+
+[Comment ajouter une nouvelle méthode de paiement sur l'application Peach](https://peachbitcoin.com/fr/blog/how-to-add-a-payment-method/)
+
+[Peach s'étend au Sud Global !](https://peachbitcoin.com/fr/blog/peach-expands-to-the-global-south/)
+
+[Publication de notre API-Peach](https://peachbitcoin.com/fr/blog/making-our-peach-api-public/)
+
+[Fonctionnalité complète du portefeuille](https://peachbitcoin.com/fr/blog/full-wallet-functionality/)
+
+[Qu'est-ce que GroupHug ?](https://peachbitcoin.com/fr/blog/group-hug/)
+
+[Pourquoi la série P2P ? Chapitre 1](https://peachbitcoin.com/fr/blog/why-p2p-chapter-1/)
+
+[Pourquoi la série P2P ? Chapitre 2](https://peachbitcoin.com/fr/blog/why-p2p-chapter-2/)
+
+[Pourquoi la série P2P ? Chapitre 3](https://peachbitcoin.com/fr/blog/why-p2p-chapter-3-circular-economies/)
+
+[Pourquoi la série P2P ? Chapitre 4](https://peachbitcoin.com/fr/blog/why-p2p-chapter-4-chains-of-trust/)
+
+[Peach x meetups](https://peachbitcoin.com/fr/blog/peach-for-meetups/)
+
+Si vous souhaitez en savoir plus sur nous, consultez nos réseaux sociaux, ou simplement [contactez-nous](mailto:hello@peachbitcoin.com) (utilisez notre [clé PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2) si possible), nous serons heureux de vous entendre !
+
+[Telegram](https://t.me/+GkOW1J-ixBBkZWRk), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
+
+Continuez à propager le mot Peach, qui sait quand vous trouverez la rencontre de votre vie !
