@@ -36,7 +36,7 @@ I to nie jedyna opcja, którą rozważamy! Ale musisz poczekać jeszcze chwilę,
 A teraz porozmawiajmy o czymś bardziej zabawnym. Jak może wiecie, rozpoczęliśmy serię wpisów na blogu mających na celu pomoc użytkownikom w zrozumieniu znaczenia P2P. Będziemy was na bieżąco informować o każdym nowym wpisie w tym newsletterze, abyście niczego nie przegapili.
 Pomóżcie nam rozpowszechniać ideę P2P na całym świecie, dzieląc się nią ze swoimi początkującymi znajomymi!
 
-Sprawdź to [tutaj!](https://peachbitcoin.com/blog/why-p2p-chapter-1/)
+Sprawdź to [tutaj!](https://peachbitcoin.com/pl/blog/why-p2p-chapter-1/)
 
 ## Statystyki rynkowe
 

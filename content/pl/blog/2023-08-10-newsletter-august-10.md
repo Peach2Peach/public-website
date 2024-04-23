@@ -1,110 +1,110 @@
 ---
 keywords:
   - Bitcoin
-  - buy bitcoin
-  - sell bitcoin
-  - Peach app
+  - kup bitcoin
+  - sprzedaj bitcoin
+  - Aplikacja Peach
   - P2P
   - p2p
-  - p2p exchange
-  - how to buy bitcoin
-  - how to sell bitcoin
+  - wymiana p2p
+  - jak kupić bitcoin
+  - jak sprzedać bitcoin
   - peer to peer
   - newsletter
 tags:
   - Newsletter
 previewImage: /img/blog/newsletter/mail-post.jpg
 description: |
-  Bitcoin is money for free people. We believe that every single human being has the right to choose which money he uses to store his wealth, the
-  result of his work, his time and energy.
-  Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
+  Bitcoin to pieniądz dla wolnych ludzi. Wierzymy, że każdy człowiek ma prawo wybrać pieniądz, którym będzie przechowywać swoje bogactwo,
+  wynik swojej pracy, czasu i energii.
+  Misją Peach jest przyczynianie się do adopcji Bitcoina w rękach ludzi.
 ---
 
-# Newsletter August 10th
+# Newsletter 10 sierpnia
 
 ![peachy peach bitcoin gif](/img/blog/newsletter/gif-peach.gif)
 
-Hello Peaches! 🍑
+Witajcie Peaches! 🍑
 
-After last year's 3AC, Luna, Celsius and FTX collapses, it seemed like the world was slowly healing and recovering common sense. Unfortunately, it has taken just 1 year to get back to hype frenzies driven by dystopian characters, which no one really knows where they came from.
-Even if it seems extremely weird to have a new super villain in the scene with almost the same name as the previous one (Sam ALTman vs Sam BANKman, I mean... wtf), don't get caught in their friendly talks about how they want to "help the world become a better place".
-As a wise man once said...
+Po ubiegłorocznych upadkach 3AC, Luna, Celsius i FTX wydawało się, że świat powoli leczy rany i odzyskuje zdrowy rozsądek. Niestety, wystarczył tylko rok, aby wrócić do szaleństw napędzanych przez dystopijne postacie, o których nikt tak naprawdę nie wie, skąd się wzięły.
+Mimo że wydaje się to niezwykle dziwne, że na scenie pojawił się nowy super złoczyńca o niemal identycznym imieniu co poprzedni (Sam ALTman vs Sam BANKman, no poważnie... co do diabła), nie dajcie się zwieść ich miłym rozmowom o tym, jak chcą „pomóc światu stać się lepszym miejscem”.
+Jak powiedział pewien mądry człowiek...
 
-![banksy quote](https://img.mailinblue.com/5647291/images/content_library/original/64d35cc39777020a1b7cf7d7.png)
+![cytat banksy](https://img.mailinblue.com/5647291/images/content_library/original/64d35cc39777020a1b7cf7d7.png)
 
-Guys, make sure if Peach ever asks you to scan your iris to use our services... We've been compromised and you should gtfo asap!
-We're commited to provide plebs an easy way to buy and sell bitcoin via their smartphone, without promising stupid airdrops, yield or whatever this shitcoin marketing people come up with next. We're sure anyone who puts enough proof of work into studying how money works, will end up stacking as much sats as possible, and ditch all those casino coins.
-Ok, enough ranting about trivial things, let's get to the really important news...
-We've been occupied preparing everything for this September, as Riga Baltic Honeybadger is just a couple weeks away, and we couldn't be more excited.
-BHB is special for us as we launched Peach Bitcoin there 1 year ago, and we are preparing some BIG announcements for this year's edition. Peach 0.3 is arriving, and it brings huge news with it.
+Chłopaki, upewnijcie się, że jeśli Peach kiedykolwiek poprosi Was o zeskanowanie tęczówki, aby korzystać z naszych usług... Zostaliśmy skompromitowani i powinniście jak najszybciej stąd uciekać!
+Zobowiązujemy się do zapewnienia prostych sposobów na kupno i sprzedaż bitcoinów przez smartfony, bez obiecujących głupich airdropów, yieldów czy czegokolwiek, co wymyślą następni marketingowcy shitcoinów. Jesteśmy pewni, że każdy, kto wystarczająco dużo pracy włoży w zrozumienie, jak działają pieniądze, zacznie gromadzić jak najwięcej satoshi i porzuci te kasynowe monety.
+Ok, dość narzekania na trywialne sprawy, przejdźmy do naprawdę ważnych wiadomości...
+Przygotowujemy wszystko na wrzesień, ponieważ Riga Baltic Honeybadger zbliża się wielkimi krokami, a my nie możemy się już doczekać.
+BHB jest dla nas wyjątkowe, ponieważ rok temu tam uruchomiliśmy Peach Bitcoin, i przygotowujemy kilka WIELKICH ogłoszeń na tegoroczną edycję. Peach 0.3 nadchodzi i przynosi ze sobą ogromne nowości.
 
 ![Peach 1y anniversary voxel](https://img.mailinblue.com/5647291/images/content_library/original/64d3780885a0cd7497564a07.jpg)
 
-Seeing the evolution of Peach in just 1 year is astonishing from our PoV, and we'd love to share that 1y anniversary with all the fellow plebs who will be attending the conference.
-Do you even remember how Peach looked 1 year ago?
+Widząc ewolucję Peach w zaledwie jeden rok jest zdumiewające z naszego punktu widzenia, i chcielibyśmy podzielić się tym rocznicowym wydarzeniem ze wszystkimi kolegami, którzy będą uczestniczyć w konferencji.
+Czy pamiętacie jeszcze, jak wyglądało Peach rok temu?
 
 ![Peach 0.1](https://img.mailinblue.com/5647291/images/content_library/original/64d36d212c6abc15dd4844bc.png)
 
-Unfortunately, we won't be having a stand this year, but we're bringing some cool merch and surprises for you all guys, so make sure to stop any Peach member if you see them to ask for some 🎁.
-We'll see if Bitcoin keeps giving us this extremely-low-volatility while we are there, but in case you were wondering... Of course you'll be able to purchase sats using cash during the conference!
+Niestety, w tym roku nie będziemy mieli stoiska, ale przynosimy ze sobą fajne gadżety i niespodzianki dla wszystkich, więc upewnijcie się, że zatrzymacie każdego członka Peach, jeśli ich zobaczycie, aby zapytać o 🎁.
+Zobaczymy, czy Bitcoin nadal będzie utrzymywał tę niezwykle niską zmienność, podczas gdy będziemy tam, ale jeśli się zastanawialiście... Oczywiście będziecie mogli kupować sats za gotówkę podczas konferencji!
 
 ---
 
-Apart from the hype BHB has on us, there are some other things we'd like to share with you, as we think they're really important and should not be dismissed.
-If you follow us on twitter, you may have already seen the following tweet:
+Poza ekscytacją, jaką BHB na nas wywiera, są też inne rzeczy, które chcielibyśmy Wam przekazać, ponieważ uważamy, że są naprawdę ważne i nie powinny być ignorowane.
+Jeśli śledzicie nas na Twitterze, mogliście już zobaczyć następujący tweet:
 
 ![Bity vs FINMA](https://img.mailinblue.com/5647291/images/content_library/original/64d370c9bbeb9d0cb969c1d3.png)
 
-Alexis, is a prominent Swiss Bitcoiner, and has filled a lawsuit against FINMA, the Swiss Financial Market Supervisory Authority. They want to reduce the KYC limits to a ridiculous amount, around 1.000 € / month and that kills the possibility for people using Swiss products to keep their privacy intact, while still being able to use those products in a decent way.
+Alexis, znany szwajcarski Bitcoiner, wniósł pozew przeciwko FINMA, Szwajcarskiemu Nadzorowi Rynku Finansowego. Chcą obniżyć limity KYC do śmiesznej kwoty, około 1000 € / miesiąc, co zabija możliwość korzystania z szwajcarskich produktów w sposób zachowujący prywatność, ale nadal godny.
 
-We've sent some sats to Alexis, and we now want to bring this to our subscribers. This issue affects all of us, and in case you can spend some sats (or fiat) to help Alexis prepare better for this battle we'll be forever grateful.
+Przesłaliśmy kilka sats do Alexisa, a teraz chcemy przekazać tę sprawę naszym subskrybentom. Ta kwestia dotyczy nas wszystkich, i w przypadku, gdy możecie przeznaczyć trochę sats (lub fiat) na pomoc Alexisowi przygotować się lepiej do tej bitwy, będziemy Wam dozgonnie wdzięczni.
 
-This is the link in case you'd like to contribute:
+Oto link, jeśli chcielibyście przyczynić się:
 https://btcpay.nymte.ch/apps/2aks2XSx8ogQFc2CPuKVben8KNcP/crowdfund
 
-## Privacy is a human fight.
+## Prywatność to ludzka walka.
 
-And btw... Now that we're talking about that... We've heard some people talking about a possible implementation of BIP47 (Reusable Payment Codes, commonly known as PayNyms) on Peach...👀
-What do you think peaches? Could BIP47 be a good fit for us? Let us know what you think by commenting on this tweet:
+A tak przy okazji... Teraz, gdy o tym mówimy... Słyszeliśmy, że niektórzy ludzie mówią o możliwej implementacji BIP47 (Znane również jako PayNyms, Kod Płatniczy Wielokrotnego Użytku) w Peach...👀
+Co myślicie Peaches? Czy BIP47 pasowałby do nas? Dajcie nam znać, co myślicie, komentując ten tweet:
 
 https://twitter.com/RoninDojoNode/status/1689120698227363840
 
-## Market Stats
+## Statystyki rynkowe
 
-from 09/07 to 10/08
+od 09/07 do 10/08
 
-Down here, you'll find a recap of the most important stats from the previous weeks. Let us know if you'd like to see any chart or metric that doesn't appear here.
+Poniżej znajdziecie podsumowanie najważniejszych statystyk z ostatnich tygodni. Dajcie nam znać, czy chcielibyście zobaczyć jakikolwiek wykres czy metrykę, która tu się nie pojawiła.
 
-Avg. BUY offers / day
+Średnia liczba ofert KUPNA / dzień
 135
 
-4.057 buy offers created in 30 days
+4057 ofert kupna utworzonych w 30 dni
 ­
-Avg. SELL offers / day
+Średnia liczba ofert SPRZEDAŻY / dzień
 56
 
-1676 sell offers created in 30 days
+1676 ofert sprzedaży utworzonych w 30 dni
 ­
-Avg. PREMIUM
-6.3 %
+Średnia PREMIA
+6,3 %
 ­
-Median time to complete a trade
-10 minutes
+Średni czas zakończenia transakcji
+10 minut
 ­
-Number of finished trades
+Liczba zakończonych transakcji
 1232
 ­
-Total amount traded
-974 746 025 sats
+Całkowita ilość wymienionych
+974 746 025 satoshi
 
 264 649 CHF
 ­
-Average Trade amount
-793 767 sats
+Średnia ilość wymienianych w transakcji
+793 767 satoshi
 
 216 CHF
 
-Most used Payment Methods
+Najczęściej używane metody płatności
 
 1. Revolut
 2. Sepa
@@ -112,8 +112,49 @@ Most used Payment Methods
 4. Paypal
 5. Twint
 
-New Meetups:
+Nowe spotkania:
 
 - Bitcoin Alps
 - Bitcoin Beer Malta
-- Kent Bitcoin, Midlands, UK
+- Kent Bitcoin, Midlands,
+
+ Wielka Brytania
+
+---
+
+## Notatki końcowe
+
+Jeśli chcesz dowiedzieć się więcej o funkcjach Peach lub przeczytać inne nasze artykuły, znajdziesz je tutaj!
+
+[Jak odzyskać portfele Bitcoinowe używając frazy seed](https://peachbitcoin.com/pl/blog/how-to-restore-peach-wallet/)
+
+[Jak sfinansować wiele ofert sprzedaży](https://peachbitcoin.com/pl/blog/funding-multiple-sell-offers/)
+
+[Jak kupować i sprzedawać Bitcoin za gotówkę za pomocą Peach](https://peachbitcoin.com/pl/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/)
+
+[Jak dodać nową metodę płatności w aplikacji Peach](https://peachbitcoin.com/pl/blog/how-to-add-a-payment-method/)
+
+[Peach rozszerza działalność na Globalny Południe!](https://peachbitcoin.com/pl/blog/peach-expands-to-the-global-south/)
+
+[Publikacja naszego Peach-API](https://peachbitcoin.com/pl/blog/making-our-peach-api-public/)
+
+[Pełna funkcjonalność portfela](https://peachbitcoin.com/pl/blog/full-wallet-functionality/)
+
+[Co to jest GroupHug?](https://peachbitcoin.com/pl/blog/group-hug/)
+
+[Dlaczego seria P2P? Rozdział 1](https://peachbitcoin.com/pl/blog/why-p2p-chapter-1/)
+
+[Dlaczego seria P2P? Rozdział 2](https://peachbitcoin.com/pl/blog/why-p2p-chapter-2/)
+
+[Dlaczego seria P2P? Rozdział 3](https://peachbitcoin.com/pl/blog/why-p2p-chapter-3-circular-economies/)
+
+[Dlaczego seria P2P? Rozdział 4](https://peachbitcoin.com/pl/blog/why-p2p-chapter-4-chains-of-trust/)
+
+[Peach x spotkania](https://peachbitcoin.com/pl/blog/peach-for-meetups/)
+
+Jeśli chcesz dowiedzieć się więcej o nas, sprawdź nasze media społecznościowe, albo po prostu [skontaktuj się z nami](mailto:hello@peachbitcoin.com) (jeśli to możliwe użyj naszego [klucza PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2)) będziemy szczęśliwi, gdy od Ciebie usłyszymy!
+
+[Telegram](https://t.me/+GkOW1J-ixBBkZWRk), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
+
+Nie przestawaj rozprzestrzeniać słowa o Peach, kto wie, kiedy znajdziesz partnera swojego życia!
+

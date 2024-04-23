@@ -1,70 +1,38 @@
 ---
 keywords:
+  - API
+  - kod
   - Bitcoin
-  - kup bitcoin
-  - sprzedaj bitcoin
-  - Aplikacja Peach
-  - P2P
-  - p2p
-  - wymiana p2p
-  - jak kupić bitcoin
-  - jak sprzedać bitcoin
-  - równy do równego
-  - newsletter
+  - peer to peer
+  - wymiana
+  - handel
 tags:
-  - Newsletter
-previewImage: /img/blog/newsletter/mail-post.jpg
+  - Kod
+previewImage: /img/blog/making-our-peach-api-public/api-example.png
 description: |
-  Bitcoin to pieniądz dla wolnych ludzi. Wierzymy, że każdy człowiek ma prawo wybrać, jaką walutę wykorzystuje do przechowywania swojego bogactwa, 
-  wyniku swojej pracy, czasu i energii.
-  Misją Peach jest przyczynienie się do adopcji Bitcoina w rękach ludzi.
+  Peach API jest teraz dostępne dla wszystkich.
 ---
 
-# Newsletter 27 kwietnia
+# Udostępniamy nasze Peach-API Publicznie
 
-## Peach 0.2 uruchomione
+Cześć, entuzjaści Peach!
 
-![peachy peach bitcoin gif](/img/blog/newsletter/gif-peach.gif)
+Wróciliśmy z nowinką, która z pewnością umili Wam dzień – po ponad roku ciężkiej pracy i nocnych sesjach kodowania, z radością ogłaszamy, że Peach API jest gotowe do publicznego udostępnienia!
 
-Witajcie Peaches!
-Witamy w naszym pierwszym newsletterze. Będziemy kontynuować wysyłanie aktualizacji na temat Peach, statystyk rynkowych i innych rzeczy, które, według nas, mogą dostarczać wartość dla Was!
-W tym pierwszym newsletterze chcemy podzielić się kilkoma informacjami…
-Rozpoczęliśmy serię wpisów na blogu, mających na celu pomoc użytkownikom zrozumieć znaczenie P2P. Będziemy nadal wysyłać nowe wpisy, które publikujemy w tym newsletterze, abyście nie przegapili żadnego z nich.
-Pomóżcie nam rozpowszechnić słowo o P2P na całym świecie, dzieląc się nim z Waszymi początkującymi przyjaciółmi!
-W pierwszym poście zagłębiamy się w pochodzenie Bitcoina i dlaczego prawie straciliśmy ścieżkę, którą przyniósł światu Satoshi.
+Teraz porozmawiajmy o tym, czym jest Peach API. To nasz prezent dla tych, którzy chcą zanurzyć się w świat cyfrowych brzoskwiń bez używania samej aplikacji Peach. Może aplikacja Peach nie jest w Waszym guście, i to jest w porządku – Peach API jest tu, aby dać Wam kawałek akcji w sposób, który Wam odpowiada.
 
-Sprawdź to [tutaj!](https://peachbitcoin.com/pl/blog/why-p2p-chapter-1/)
+Przygotowaliśmy dla Was [pełną dokumentację tutaj](https://docs.peachbitcoin.com/#introduction) oraz [API-Wrapper napisany w TypeScript](https://github.com/Peach2Peach/peach-api-ts).
 
-## Statystyki rynkowe
+Jeśli jesteście czarodziejami kodowania z zacięciem do innowacji, możliwości są nieograniczone, ale oto dwa przykłady:
 
-Wszystkie wolumeny są podane w CHF
+1. Jeśli szukacie alternatywy dla tradycyjnego doświadczenia mobilnego, Peach API umożliwia zaprojektowanie własnego interfejsu. Czy to wersja desktopowa czy unikalna konfiguracja mobilna, API dostarcza narzędzi do dostosowania Waszych interakcji.
+2. **Automatyzacja Handlu:** Ci, którzy dobrze znają się na kodowaniu, mogą wykorzystać Peach API do kontrolowania działalności handlowej. Dzięki możliwości automatyzacji transakcji na podstawie wcześniej ustalonych parametrów, możecie zoptymalizować swoją strategię handlową z efektywnością i precyzją.
 
-Drodzy Peaches, poniżej znajdziecie podsumowanie najważniejszych statystyk z poprzedniego tygodnia. Dajcie nam znać, jeśli chcielibyście zobaczyć jakąś tabelę/metrykę, której tutaj nie ma.
+Czy jesteście doświadczonymi programistami, którzy chcą wykorzystać swoje umiejętności, czy po prostu ktoś, kto chce spersonalizowane doświadczenie z Peach, Peach API jest tutaj, aby spełnić Wasze marzenia.
 
-### Stan księgi zleceń
+Czekajcie na więcej aktualizacji i poradników jak wykorzystać supermoce Peach API. Przyszłość obfituje w możliwości, i jesteśmy podekscytowani, że możemy podjąć tę podróż razem z Wami.
 
-- 510 ofert kupna
-- 39 ofert sprzedaży
-
-### Top 5 Metod Płatności
-
-1. Revolut
-2. Sepa + Instant Sepa
-3. PayPal
-4. Wise
-5. Twint
-
-### Najlepsze spotkanie handlowe
-
-- Barcelona Bitcoin Only (600.000 sats, 155 CHF)
-
-### Łączna kwota handlu
-
-- 184.896.097 sats (48 945 CHF)
-
-### Średnia kwota transakcji
-
-- 684 800 sats (181 CHF)
+Ekipa Peach
 
 ## Notatki końcowe
 
@@ -101,4 +69,3 @@ Jeśli chcesz dowiedzieć się więcej o nas, sprawdź nasze media społecznośc
 [Telegram](https://t.me/+GkOW1J-ixBBkZWRk), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
 Nie przestawaj rozprzestrzeniać słowa o Peach, kto wie, kiedy znajdziesz partnera swojego życia!
-

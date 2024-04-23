@@ -49,7 +49,7 @@ Tak czy inaczej drodzy Peaches, po tym krótkim podsumowaniu myśli, które przy
 
 PS: Właśnie opublikowaliśmy trzeci odcinek naszej serii "Dlaczego P2P?", sprawdźcie to [tutaj](
 
-https://peachbitcoin.com/blog/why-p2p-chapter-3-circular-economies/)!
+https://peachbitcoin.com/pl/blog/why-p2p-chapter-3-circular-economies/)!
 
 ## Statystyki rynkowe
 
