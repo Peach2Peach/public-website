@@ -4,6 +4,8 @@ template: text
 
 # Terms & Conditions
 
+No Dutch translation available.
+
 These Service Terms were last updated on **May 12th, 2023**
 
 ## 1. Introduction
