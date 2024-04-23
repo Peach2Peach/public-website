@@ -27,7 +27,7 @@ Kiedy rozpoczynasz spór, Ty i dane płatnicze Twojego kontrahenta oraz Wasza hi
 
 Postępuj zgodnie z tymi krokami, aby zweryfikować, czy pobrane APK to prawdziwe APK Peach:
 
-- Pobierz APK, które chcesz zainstalować ze strony internetowej, a także podpis i manifest (wszystko można znaleźć na https://peachbitcoin.com/apk)
+- Pobierz APK, które chcesz zainstalować ze strony internetowej, a także podpis i manifest (wszystko można znaleźć na https://peachbitcoin.com/pl/apk)
 
 - Pobierz klucz PGP Peach https://keys.openpgp.org/vks/v1/by-fingerprint/E970EDB410C8E84198F141584AD3CE3043D8CD1B (można to również znaleźć na naszej stronie)
 

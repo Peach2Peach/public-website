@@ -49,7 +49,7 @@ Some parts of our code are Open Source under the MIT licenses. They include the 
 
 If you do not agree with the Privacy Policy, you should refrain from using our services.
 
-While we will strive to notify our users of any changes, the Privacy Policy may be updated by Peach at any time without any prior notice requirement. The current version is published on [https://peachbitcoin.com/privacy-policy/](https://peachbitcoin.com/privacy-policy/).
+While we will strive to notify our users of any changes, the Privacy Policy may be updated by Peach at any time without any prior notice requirement. The current version is published on [https://peachbitcoin.com/pl/privacy-policy/](https://peachbitcoin.com/pl/privacy-policy/).
 
 Our Service is not intended for use by nor directed at anyone under the age of 18 and we do not knowingly collect any Personal Identifiable Information from children under the age of 18. If you think that your child provided this kind of information, we strongly recommend you to [contact us](mailto:$contactEmail$) immediately and we will promptly remove such information.
 

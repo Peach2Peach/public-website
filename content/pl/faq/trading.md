@@ -96,7 +96,7 @@ To zależy, o jakim typie transakcji mówimy. Oto lista wszystkich transakcji, k
 :::
 
 :::details Co to jest GroupHug?
-GroupHug to po prostu termin, który nadaliśmy akcji grupowania transakcji od różnych użytkowników, aby uniknąć opłat dla każdego z nich. Aby uzyskać bardziej szczegółowe wyjaśnienie, sprawdź nasz [wpis na blogu](https://peachbitcoin.com/blog/group-hug).
+GroupHug to po prostu termin, który nadaliśmy akcji grupowania transakcji od różnych użytkowników, aby uniknąć opłat dla każdego z nich. Aby uzyskać bardziej szczegółowe wyjaśnienie, sprawdź nasz [wpis na blogu](https://peachbitcoin.com/pl/blog/group-hug).
 :::
 
 :::details Czy jeśli mam jedną ofertę kupna, zostanie ona natychmiast zrealizowana?
