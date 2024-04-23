@@ -4,6 +4,8 @@ template: text
 
 # Privacy Policy
 
+No Dutch translation available.
+
 This privacy policy was last updated on **Dec 19th, 2023**
 
 ## 0. Summary
