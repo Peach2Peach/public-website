@@ -8,7 +8,7 @@ keywords:
 tags:
   - Jak to zrobić
 obrazPodglądu: /img/blog/how-to-add-a-payment-method/teaser.jpg
-helperFooter: true
+helpFooter: true
 description: |
   Na początek zapytajmy, dlaczego chcemy dodać inne metody płatności w naszych transakcjach? Powód jest prosty.
   Jak wiesz, Peach umożliwia użytkownikom handel Bitcoinem p2p, problem pojawia się, gdy inny użytkownik chce handlować z tobą, ale nie może zobaczyć jego/jej oferty tylko dlatego, że używają innej metody płatności. Aby być otwartym na jak najwięcej opcji i móc wybierać spośród szerokiej gamy dopasowań, musisz być gotów handlować za pomocą różnych metod płatności.
