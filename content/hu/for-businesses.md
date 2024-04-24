@@ -1,40 +1,16 @@
-# Peach vállalkozásoknak
+<doctype html>
 
-## Növeld bevételeidet a Peach-csel
-
-A Peach Business lehetőséget kínál vállalatoknak és nagy forgalmú szakembereknek, hogy maximalizálják profitjukat egy **magasabb prémiumokat** kínáló piacra lépéssel, mint a hagyományos tőzsdék.
-
-Előnyöket kínálunk **piaci készítőknek**, **bitcoinra specializálódott vállalkozásoknak**, és **nagy forgalmú kereskedőknek**.
-
-Az alábbiakban részletesen bemutatjuk azokat az előnyöket, amelyeket élvezhetsz a Peach Business által nyújtott szolgáltatások használatával.
-
-## Előnyök szakembereknek
-
-::::figures 3
-:::box tech-peach
-
-### Magas likviditás elérhető
-
-Több mint 900 nyitott vételi ajánlat 24 órán át minden nap
-:::
-
-:::box tech-peach
-
-### Dedikált Ügyintéző a számodra
-
-1 az 1-ben dedikált támogatás 24/7
-:::
-
-:::box tech-peach
-
-### Partnerprogram
-
-További felhasználók toborzásával és egyéni ajánlói kóddal növeld bevételeidet
-:::
-::::
-
-Ha szeretnél többet megtudni a Peach Business-ről, és arról, hogyan használhatod ki a vállalkozásod profitjának maximalizálására, vedd fel velünk a kapcsolatot.
-
-:::buttons
-[Vedd fel a kapcsolatot](mailto:$contactEmail$)
-:::
+[//]: # (This is a redirection page to /peach-for-businesses/, to keep backlinks to /for-businesses/ working.)
+<html>
+  <head>
+    <title>Redirection</title>
+  </head>
+  <link rel="canonical" href="/peach-for-businesses/">
+  <script>location="/peach-for-businesses/"</script>
+  <meta http-equiv="refresh" content="0;url=/peach-for-businesses/">
+  <meta name="robots" content="noindex">
+  <a href="/peach-for-businesses/">
+    Click here if you are not redirected.
+  </a>
+</html>
+</doctype>

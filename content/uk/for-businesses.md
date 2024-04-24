@@ -1,40 +1,16 @@
-# Peach для Професіоналів
+<doctype html>
 
-## Максимізуйте свій прибуток за допомогою Peach
-
-Peach Business надає можливість компаніям і професіоналам, які працюють з великими обсягами Bitcoin, максимізувати свій прибуток, вступаючи на ринок з **вищими преміями**, ніж традиційні біржі.
-
-Ми пропонуємо переваги для **креаторів ринку**, **бізнесів, пов'язаних з Bitcoin**, та **фінансових професіоналів з великими обсягами**.
-
-Ось деякі переваги, якими ви можете скористатися, використовуючи послуги, які надає Peach Business.
-
-## Переваги для Професіоналів
-
-::::figures 3
-:::box tech-peach
-
-### Висока ліквідність доступна
-
-Понад 900 пропозицій на купівлю, відкритих цілодобово.
-:::
-
-:::box tech-peach
-
-### Особистий агент для вас
-
-Особиста підтримка 1 на 1 цілодобово, 7 днів на тиждень.
-:::
-
-:::box tech-peach
-
-### Партнерська програма
-
-Привертайте більше користувачів і збільшуйте свій дохід зі спеціальним індивідуальним реферальним кодом.
-:::
-::::
-
-Якщо ви зацікавлені дізнатися більше про Peach Business і як використовувати його для максимізації прибутку вашої компанії, будь ласка, зв'яжіться з нами.
-
-:::buttons
-[Зв'яжіться з нами](mailto:$contactEmail$)
-:::
+[//]: # (This is a redirection page to /peach-for-businesses/, to keep backlinks to /for-businesses/ working.)
+<html>
+  <head>
+    <title>Redirection</title>
+  </head>
+  <link rel="canonical" href="/peach-for-businesses/">
+  <script>location="/peach-for-businesses/"</script>
+  <meta http-equiv="refresh" content="0;url=/peach-for-businesses/">
+  <meta name="robots" content="noindex">
+  <a href="/peach-for-businesses/">
+    Click here if you are not redirected.
+  </a>
+</html>
+</doctype>

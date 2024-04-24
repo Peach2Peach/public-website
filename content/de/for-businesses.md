@@ -1,40 +1,16 @@
-# Peach für Unternehmen
+<doctype html>
 
-## Maximiere deinen Umsatz mit Peach
-
-Peach Business bietet Unternehmen und Profis mit hohem Handelsvolumen die Möglichkeit, ihre Gewinne zu maximieren, indem sie in einen Markt mit **höheren Prämien** als herkömmliche Börsen eintauchen.
-
-Wir bieten Vorteile für **Market-Maker**, **Bitcoin-native Unternehmen** und **Hochvolumen-Händler**.
-
-Einige der Vorteile, die du durch die Nutzung der von Peach Business bereitgestellten Dienste genießen kannst, sind nachstehend aufgeführt.
-
-## Vorteile für Profis
-
-::::figures 3
-:::box tech-peach
-
-### Hohe Liquidität verfügbar
-
-Mehr als 900 offene Kaufangebote rund um die Uhr
-:::
-
-:::box tech-peach
-
-### Persönlicher Ansprechpartner für dich
-
-1-zu-1 dedizierte Unterstützung rund um die Uhr
-:::
-
-:::box tech-peach
-
-### Partnerprogramm
-
-Gewinne mehr Benutzer und steiger deinen Umsatz mit einem individuellen Empfehlungscode
-:::
-::::
-
-Wenn du mehr über Peach Business erfahren und wie du es nutzen kannst, um die Gewinne deinen Unternehmens zu maximieren, nimm Kontakt mit uns auf.
-
-:::buttons
-[Kontakt aufnehmen](mailto:$contactEmail$)
-:::
+[//]: # (This is a redirection page to /peach-for-businesses/, to keep backlinks to /for-businesses/ working.)
+<html>
+  <head>
+    <title>Redirection</title>
+  </head>
+  <link rel="canonical" href="/peach-for-businesses/">
+  <script>location="/peach-for-businesses/"</script>
+  <meta http-equiv="refresh" content="0;url=/peach-for-businesses/">
+  <meta name="robots" content="noindex">
+  <a href="/peach-for-businesses/">
+    Click here if you are not redirected.
+  </a>
+</html>
+</doctype>
