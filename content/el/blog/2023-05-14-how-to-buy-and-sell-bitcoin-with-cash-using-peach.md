@@ -40,32 +40,32 @@ description: |
 
 1.  Όταν βρίσκεστε στην καρτέλα **ΑΓΟΡΑ** ή **ΠΩΛΗΣΗ**, θα πρέπει να επιλέξετε μεταξύ της μεθόδου πληρωμής από απόσταση / συναντήσεων. Σε αυτή την περίπτωση, όταν πατάμε στις συναντήσεις, θα δούμε ότι μπορούμε να "προσθέσουμε μια νέα συνάντηση".
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-new-meetup.png)
+    ![Add new meetup](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-new-meetup.png)
 
 2.  Μόλις πατήσουμε στο "προσθήκη νέας συνάντησης", θα εμφανιστεί μια πλήρης λίστα των διαθέσιμων **Χωρών** στην εφαρμογή. Επιλέξτε τη χώρα που επιθυμείτε, και
     στη συνέχεια θα δείτε την πλήρη λίστα των **συναντήσεων** που είναι διαθέσιμες σε εκείνη τη χώρα.
     :::figures 2
     ![Επιλογή χώρας](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-country.png)
 
-        ![Επιλογή συνάντησης](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-meetup.png)
-        :::
+    ![Επιλογή συνάντησης](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-meetup.png)
+    :::
 
 3.  Αφού επιλεγεί η συνάντηση, θα δείτε μια πλήρη οθόνη με όλες τις διαθέσιμες πληροφορίες γι' αυτήν. Εκεί θα μπορέσετε να "προσθέσετε αυτήν
     τη συνάντηση" στη λίστα των μεθόδων πληρωμής σας.
 
-        ![Προσθήκη συνάντησης](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-meetup.png)
+    ![Προσθήκη συνάντησης](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-meetup.png)
 
 4.  Αφού την προσθέσετε, θα δείτε μια ειδοποίηση που σας προειδοποιεί να πραγματοποιείτε ανταλλαγές με μετρητά υπεύθυνα, καθώς το Peach δεν μπορεί να είναι υπεύθυνο σε περίπτωση που κάτι πάει στραβά με αυτές τις ανταλλαγές.
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/trading-cash.png)
+      ![Trading cash](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/trading-cash.png)
 
 5.  Αφού το αποδεχτείτε, θα έχετε προσθέσει επιτυχώς τη συνάντηση στη λίστα των μεθόδων πληρωμής σας, και θα είστε έτοιμοι να προχωρήσετε με τη δημοσίευση
     της προσφοράς αγοράς/πώλησης όπως θα κάνατε κανονικά με οποιαδήποτε άλλη μέθοδο πληρωμής στο Peach.
     :::figures 2
-    ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-cash-option.png)
+    ![Add cash option](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-cash-option.png)
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-cash-option.png)
-        :::
+    ![Select cash option](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-cash-option.png)
+    :::
 
 Μόλις πατήσετε στο Επόμενο, και η προσφορά δημοσιευτεί, θα μπορέσετε να ταιριάξετε με άλλους χρήστες που έχουν δημοσιεύσει προσφορές αγοράς ή πώλησης στην ίδια συνάντηση.
 

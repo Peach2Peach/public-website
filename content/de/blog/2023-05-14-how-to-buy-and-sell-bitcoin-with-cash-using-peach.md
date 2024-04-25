@@ -45,23 +45,23 @@ Wenn ein Benutzer mit Peach Bitcoin mit Bargeld kaufen möchte, müssen diese Sc
     :::figures 2
     ![Land auswählen](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-country.png)
 
-        ![Treffen auswählen](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-meetup.png)
-        :::
+    ![Treffen auswählen](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-meetup.png)
+    :::
 
 3.  Nachdem das Treffen ausgewählt wurde, siehst du einen Vollbildschirm mit allen verfügbaren Informationen darüber. Dort kannst du „**dieses Treffen**“ zu deiner Liste der Zahlungsmethoden hinzufügen.
 
-        ![Treffen hinzufügen](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-meetup.png)
+    ![Treffen hinzufügen](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-meetup.png)
 
 4.  Nachdem du es hinzugefügt hast, siehst du eine Benachrichtigung, die dich warnt, verantwortungsbewusst mit Bargeld zu handeln, da Peach nicht verantwortlich sein kann, falls etwas bei diesen Handelsgeschäften schiefgeht.
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/trading-cash.png)
+    ![Trading cash](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/trading-cash.png)
 
 5.  Nachdem du es akzeptiert hast, hast du das Treffen erfolgreich zu deiner Liste der Zahlungsmethoden hinzugefügt, und du kannst mit der Veröffentlichung des Kauf-/Verkaufsangebots fortfahren, wie du es normalerweise mit jeder anderen Zahlungsmethode in Peach tun würdest.
     :::figures 2
-    ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-cash-option.png)
+    ![Add cash option](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-cash-option.png)
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-cash-option.png)
-        :::
+    ![Select cash option](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-cash-option.png)
+    :::
 
 Nachdem du auf Weiter geklickt und das Angebot veröffentlicht hast, kannst du mit anderen Peers, die Kauf- oder Verkaufsangebote beim selben Treffen veröffentlicht haben, zusammenkommen.
 

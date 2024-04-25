@@ -45,31 +45,31 @@ Wakati mtumiaji anapotaka kununua Bitcoin kwa pesa taslimu kwenye Peach, hatua h
 1. Ikiwa kwenye kichupo cha **KUNUNUA** au **KUUZA**, mtumiaji atahitaji kuchagua kati ya mbinu ya malipo ya mbali / mikutano. Katika kesi hii, tunapobonyeza
     mikutano, tutaweza “**kuongeza mkutano mpya**”.
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-new-meetup.png)
+    ![Add new meetup](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-new-meetup.png)
 
 2. Mara tu tumebofya "ongeza mkutano mpya", orodha kamili ya **Nchi** zilizopo itaonekana kwenye programu. Chagua nchi unayotaka, na
     kisha utaona orodha kamili ya **mikutano** inayopatikana katika nchi hiyo.
     :::figures 2
     ![Chagua nchi](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-country.png)
 
-        ![Chagua mkutano](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-meetup.png)
-        :::
+    ![Chagua mkutano](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-meetup.png)
+    :::
 
 3. Mara baada ya mkutano kuchaguliwa, utaona skrini kamili na habari zote zinazopatikana kuhusu huo. Hapo utaweza “**kuongeza mkutano huu**” kwenye orodha yako ya mbinu za malipo.
 
-        ![Ongeza mkutano](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-meetup.png)
+    ![Ongeza mkutano](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-meetup.png)
 
 4. Baada ya kuongeza, utaona arifa ikikuarifu kufanya biashara kwa uwajibikaji na pesa taslimu, kwani Peach hawezi kuwa na jukumu ikiwa kitu kitakwenda vibaya na biashara hizo.
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/trading-cash.png)
+    ![Trading cash](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/trading-cash.png)
 
 5. Baada ya kukubali, utakuwa umeweza kuongeza mkutano kwenye orodha yako ya mbinu za malipo, na utaweza kuendelea kuchapisha
     kutoa kununua / kuuza kama unavyofanya kawaida na mbinu nyingine yoyote ya malipo katika Peach.
     :::figures 2
-    ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-cash-option.png)
+    ![Add cash option](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-cash-option.png)
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-cash-option.png)
-        :::
+    ![Select cash option](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-cash-option.png)
+    :::
 
 Mara baada ya kubonyeza Hatua inayofuata, na kutoa kuchapishwa, utaweza kufanana na wenzako ambao wamechapisha ofa za kununua au kuuza katika
 mkutano uleule.

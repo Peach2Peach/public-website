@@ -39,29 +39,29 @@ Gdy użytkownik chce kupić Bitcoin za gotówkę na Peach, należy postępować 
 
 1.  Gdy znajdziesz się w zakładce **KUP** lub **SPRZEDAJ**, musisz wybrać między zdalną metodą płatności a spotkaniami. W tym przypadku, gdy klikniemy na spotkania, zobaczymy opcję „**dodaj nowe spotkanie**”.
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-new-meetup.png)
+    ![Add new meetup](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-new-meetup.png)
 
 2.  Po kliknięciu na „dodaj nowe spotkanie”, pojawi się pełna lista dostępnych **Krajów** w aplikacji. Wybierz swój kraj, a następnie zobaczysz pełną listę dostępnych **spotkań** w tym kraju.
     :::figures 2
     ![Wybierz kraj](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-country.png)
 
-        ![Wybierz spotkanie](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-meetup.png)
-        :::
+    ![Wybierz spotkanie](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-meetup.png)
+    :::
 
 3.  Po wybraniu spotkania zobaczysz pełny ekran z wszystkimi dostępnymi informacjami na jego temat. Tam będziesz mógł „**dodać to spotkanie**” do swojej listy metod płatności.
 
-        ![Dodaj spotkanie](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-meetup.png)
+    ![Dodaj spotkanie](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-meetup.png)
 
 4.  Po dodaniu otrzymasz powiadomienie z ostrzeżeniem o odpowiedzialnym handlu gotówką, ponieważ Peach nie może odpowiadać za ewentualne problemy z tymi transakcjami.
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/trading-cash.png)
+    ![Trading cash](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/trading-cash.png)
 
 5.  Po zaakceptowaniu dodasz pomyślnie spotkanie do swojej listy metod płatności i będziesz mógł kontynuować publikację oferty kupna/sprzedaży tak, jak zwykle robisz to z każdą inną metodą płatności w Peach.
     :::figures 2
-    ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-cash-option.png)
+    ![Add cash option](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-cash-option.png)
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-cash-option.png)
-        :::
+    ![Select cash option](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-cash-option.png)
+    :::
 
 Po kliknięciu na Dalej i opublikowaniu oferty będziesz mógł dopasować się do innych użytkowników, którzy opublikowali oferty kupna lub sprzedaży na tym samym spotkaniu.
 

@@ -45,33 +45,33 @@ Quando un utente vuole comprare Bitcoin con contanti su Peach, è necessario seg
 1.  Quando sei nella scheda **COMPRA** o **VENDI**, l'utente dovrà scegliere tra metodo di pagamento remoto/incontri. In questo caso, quando tocchiamo su
     incontri, vedremo che possiamo "**aggiungere un nuovo meetup**".
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-new-meetup.png)
+    ![Add new meetup](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-new-meetup.png)
 
 2.  Una volta cliccato su "aggiungi nuovo meetup", apparirà un elenco completo dei **Paesi** disponibili nell'app. Scegli il Paese desiderato e
     quindi vedrai l'elenco completo dei **meetup** disponibili in quel Paese.
     :::figures 2
     ![Seleziona paese](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-country.png)
 
-        ![Seleziona meetup](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-meetup.png)
-        :::
+    ![Seleziona meetup](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-meetup.png)
+    :::
 
 3.  Una volta scelto il meetup, vedrai uno schermo completo con tutte le informazioni disponibili su di esso. Lì potrai "**aggiungere questo
     meetup**" alla tua lista di metodi di pagamento.
 
-        ![Aggiungi meetup](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-meetup.png)
+    ![Aggiungi meetup](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-meetup.png)
 
 4.  Dopo averlo aggiunto, vedrai una notifica che ti avverte di fare scambi in contanti in modo responsabile, poiché Peach non può essere responsabile in caso di problemi
     con quegli scambi.
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/trading-cash.png)
+    ![Trading cash](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/trading-cash.png)
 
 5.  Dopo averlo accettato, avrai aggiunto con successo il meetup alla tua lista di metodi di pagamento e potrai procedere con la pubblicazione
     dell'offerta di acquisto/vendita come faresti normalmente con qualsiasi altro metodo di pagamento in Peach.
     :::figures 2
-    ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-cash-option.png)
+    ![Add cash option](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-cash-option.png)
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-cash-option.png)
-        :::
+    ![Select cash option](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-cash-option.png)
+    :::
 
 Una volta cliccato su Avanti e l'offerta è pubblicata, potrai trovare corrispondenze con altri utenti che hanno pubblicato offerte di acquisto o vendita nello stesso meetup.
 

@@ -39,31 +39,29 @@ Cuando un usuario quiere comprar Bitcoin con efectivo en Peach, debe seguir esto
 
 1.  Cuando estés en la pestaña de **COMPRAR** o **VENDER**, necesitarás elegir entre método de pago remoto/reuniones. En este caso, cuando tocamos en reuniones, veremos que podemos "**añadir una nueva reunión**".
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-new-meetup.png)
+    ![Add new meetup](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-new-meetup.png)
 
 2.  Una vez que hemos hecho clic en "añadir nueva reunión", aparecerá una lista completa de los **Países** disponibles en la aplicación. Elige tu país deseado, y entonces verás la lista completa de **reuniones** disponibles en ese país.
     :::figures 2
     ![Seleccionar país](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-country.png)
 
-        ![Seleccionar reunión](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-meetup.png)
-        :::
+    ![Seleccionar reunión](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-meetup.png)
+    :::
 
 3.  Una vez que la reunión ha sido elegida, verás una pantalla completa con toda la información disponible sobre ella. Allí podrás "**añadir esta reunión**" a tu lista de métodos de pago.
 
-        ![Añadir reunión](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-meetup.png)
+    ![Añadir reunión](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-meetup.png)
 
 4.  Después de añadirla, verás una notificación advirtiéndote de comerciar responsablemente con efectivo, ya que Peach no puede ser responsable en caso de que algo salga mal con esos comercios.
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/trading-cash.png)
+    ![Trading cash](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/trading-cash.png)
 
 5.  Tras aceptarlo, habrás añadido exitosamente la reunión a tu lista de métodos de pago, y podrás proceder a publicar la oferta de compra/venta como lo harías normalmente con cualquier otro método de pago en Peach.
     :::figures 2
-    ![](/img/blog/how-to-buy-and-sell-bitcoin
+    ![Add cash option](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-cash-option.png)
 
--with-cash-using-peach/add-cash-option.png)
-
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-cash-option.png)
-        :::
+    ![Select cash option](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/select-cash-option.png)
+    :::
 
 Una vez que hagas clic en Siguiente, y la oferta sea publicada, podrás coincidir con otros pares que han publicado ofertas de compra o venta en la misma reunión.
 
