@@ -1,3 +1,18 @@
+---
+keywords:
+  - Latin America
+  - Africa
+  - Bitcoin
+  - P2P
+  - p2p
+  - peer to peer
+tags:
+  - Company
+previewImage: /img/blog/peach-expands-to-the-global-south/map.png
+description: |
+  With the launch of Peach 0.3, the app is expanding its reach to the Global South
+---
+
 # Peach inapanua kufikia Kusini mwa Dunia!
 
 ## Je, ungependa kutusaidia kufanya biashara ya sats kuwa kawaida kati ya watu?

@@ -7,7 +7,7 @@ keywords:
   - Biashara ya Mmoja kwa Mmoja
 tags:
   - Jinsi ya
-perviewImage: /img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/teaser.jpg
+previewImage: /img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/teaser.jpg
 helpFooter: true
 description: |
   Peach hutoa "maeneo ya kukutana" kwa watumiaji ambapo inapendekezwa kufanya biashara kwa pesa taslimu, kwa sababu za usalama. Maeneo haya ya kukutana tayari
