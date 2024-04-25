@@ -39,7 +39,7 @@ Wenn ein Benutzer mit Peach Bitcoin mit Bargeld kaufen möchte, müssen diese Sc
 
 1.  Wähle im Tab **KAUFEN** oder **VERKAUFEN** zwischen der Zahlungsmethode Fernzahlung / Treffen. In diesem Fall sehen wir, wenn wir auf Treffen tippen, dass wir „**ein neues Treffen hinzufügen**“ können.
 
-        ![](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-new-meetup.png)
+    ![Add new meetup](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/add-new-meetup.png)
 
 2.  Nachdem wir auf „ein neues Treffen hinzufügen“ geklickt haben, erscheint eine vollständige Liste der verfügbaren **Länder** in der App. Wähle dein gewünschtes Land aus, und dann siehst du die vollständige Liste der **Treffen**, die in diesem Land verfügbar sind.
     :::figures 2
