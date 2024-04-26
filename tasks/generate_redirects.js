@@ -1,4 +1,4 @@
-const { mkdirSync, writeFileSync } = require('fs')
+const { mkdirSync, writeFileSync, readdirSync } = require('fs')
 const { dirname, join, resolve } = require('path')
 
 // old, new
@@ -6,7 +6,25 @@ const redirects = [
   ['/termsConditions.html', '/terms-and-conditions/'],
   ['/privacyPolicy.html', '/privacy-policy/'],
   ['/beta/', '/apk/'],
+  ['/how-it-works/', '/how-to-buy-btc-no-kyc/'],
+  ['/for-businesses/', '/peach-for-businesses/'],
+  ['/for-meetups/', '/buy-btc-with-cash/'],
 ]
+
+const contentDir = resolve(__dirname, '..', 'content')
+const languageDirs = readdirSync(contentDir, { withFileTypes: true })
+  .filter(dirent => dirent.isDirectory() && dirent.name !== 'default')
+  .map(dirent => dirent.name)
+
+let globalRedirects = [...redirects] // Include the global redirects
+
+languageDirs.forEach(lang => {
+  const localizedRedirects = redirects.map(([oldPath, newPath]) => {
+    return [`/${lang}${oldPath}`, `/${lang}${newPath}`]
+  })
+  globalRedirects = [...globalRedirects, ...localizedRedirects]
+})
+
 
 const dist = resolve(__dirname, '..', 'dist')
 
@@ -19,7 +37,7 @@ const exists = filePath => {
   }
 }
 
-redirects.forEach(([path, redirect]) => {
+globalRedirects.forEach(([path, redirect]) => {
   const filePath = path.endsWith('.html') ? path : join(path, 'index.html')
   const target = join(dist, filePath)
   if (exists(target)) return
