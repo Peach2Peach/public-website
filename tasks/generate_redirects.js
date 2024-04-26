@@ -20,7 +20,7 @@ languageDirs.forEach(lang => {
   const localizedRedirects = redirects.map(([oldPath, newPath]) => {
     return [`/${lang}${oldPath}`, `/${lang}${newPath}`]
   })
-  redirects.push(...localizedRedirects)
+  redirects.push(localizedRedirects)
 })
 
 const dist = resolve(__dirname, '..', 'dist')
