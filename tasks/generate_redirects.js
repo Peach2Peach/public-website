@@ -16,12 +16,15 @@ const languageDirs = readdirSync(contentDir, { withFileTypes: true })
   .filter(dirent => dirent.isDirectory() && dirent.name !== 'default')
   .map(dirent => dirent.name)
 
+let globalRedirects = [...redirects] // Include the global redirects
+
 languageDirs.forEach(lang => {
   const localizedRedirects = redirects.map(([oldPath, newPath]) => {
     return [`/${lang}${oldPath}`, `/${lang}${newPath}`]
   })
-  redirects.push(localizedRedirects)
+  globalRedirects = [...globalRedirects, ...localizedRedirects]
 })
+
 
 const dist = resolve(__dirname, '..', 'dist')
 
@@ -34,7 +37,7 @@ const exists = filePath => {
   }
 }
 
-redirects.forEach(([path, redirect]) => {
+globalRedirects.forEach(([path, redirect]) => {
   const filePath = path.endsWith('.html') ? path : join(path, 'index.html')
   const target = join(dist, filePath)
   if (exists(target)) return
@@ -42,6 +45,6 @@ redirects.forEach(([path, redirect]) => {
   mkdirSync(dirname(target), { recursive: true })
   writeFileSync(
     target,
-    `<!DOCTYPE html><html><title>Redirect</title><link rel="canonical" href="${redirect}"><script>location="${redirect}"</script><meta http-equiv="refresh" content="0;url=${redirect}"><meta name="robots" content="noindex"><a href="${redirect}">Click here if you are not redirected.</a></html>`
+    `<!DOCTYPE html><html><title>Redirect</title><link rel="canonical" href="${redirect}"><script>location="${redirect}"</script><meta http-equiv="refresh" content="0;url=${redirect}"><meta name="robots" content="noindex"><a href="${redirect}">Click here if you are not redirected.</a></html>`,
   )
 })
