@@ -44,26 +44,24 @@ Nous nous engageons à fournir aux novices la meilleure et la plus simple façon
 Mais nous ne le ferons pas en compromettant leur sécurité et leur vie privée, comme beaucoup d'autres ont choisi de le faire, mais en leur fournissant cela par défaut.
 C'est pourquoi, tout en restant fidèles à notre éthos de Bitcoiner, nous avons travaillé sur de nouvelles fonctionnalités étonnantes, dans le but de les rendre faciles à utiliser tout en les gardant sécurisées et privées. Les nouvelles choses que vous pouvez faire maintenant avec l'application Peach sont :
 
-    Fonctionnalité complète du portefeuille --> Utilisez le portefeuille autogéré à l'intérieur de l'application pour ENVOYER et RECEVOIR du Bitcoin directement, sans besoin de quitter l'application.
+  > Fonctionnalités complètes de portefeuille --> Utilisez le portefeuille autogéré à l'intérieur de l'application pour ENVOYER et RECEVOIR du Bitcoin directement, sans besoin de quitter l'application.
 
-    Contrôle des pièces --> Gérez vos UTXOs avec une interface utilisateur facile et intuitive. Ne sacrifiez pas votre vie privée !
+  > Contrôle des pièces --> Gérez vos UTXOs avec une interface utilisateur facile et intuitive. Ne sacrifiez pas votre vie privée !
 
-    GroupHug --> Regroupez automatiquement les transactions pour économiser sur les frais réseau ! (fonctionnalité sur option) En savoir plus en lisant ce billet de blog
+  > GroupHug --> Regroupez automatiquement les transactions pour économiser sur les frais réseau ! (fonctionnalité sur option) En savoir plus en lisant ce billet de blog
 
-    Expansion vers le SUD GLOBAL --> Oui ! Vous avez bien entendu, nous nous étendons à :
-    - Afrique : Côte d'Ivoire, Congo RDC et Nigeria
+  > Expansion vers le SUD GLOBAL --> Oui ! Vous avez bien entendu, nous nous étendons à :
+  > - Afrique : Côte d'Ivoire, Congo RDC et Nigeria
+  > - LATAM : Colombie, Mexique, Argentine et Costa Rica
 
-
-    - LATAM : Colombie, Mexique, Argentine et Costa Rica
-
-    Mais cela ne veut pas dire que nous nous arrêtons là !
-    Si vous êtes un bitcoiner local d'un pays que nous ne soutenons pas encore, veuillez prendre contact avec nous pour l'ajouter à Peach.
+  Mais cela ne veut pas dire que nous nous arrêtons là !
+  Si vous êtes un bitcoiner local d'un pays que nous ne soutenons pas encore, veuillez prendre contact avec nous pour l'ajouter à Peach.
 
 ![Peach en Afrique et en Amérique Latine !](https://img.mailinblue.com/5647291/images/content_library/original/64f9c0ffe65d8946086ff941.jpg)
 
 Et last but not least...
 
-    Mise à disposition du code source de l'application ! --> Nous avons différentes parties de l'application qui sont totalement FOSS, tandis que le code de l'application Peach est sous licence MIT-CC. Vous pouvez trouver tout cela sur notre github.
+  > Mise à disposition du code source de l'application ! --> Nous avons différentes parties de l'application qui sont totalement FOSS, tandis que le code de l'application Peach est sous licence MIT-CC. Vous pouvez trouver tout cela sur notre github.
 
 Nous savions que ce sujet était controversé, et en écoutant la communauté, nous avons pensé qu'il était temps de rendre le code open source et de permettre aux utilisateurs de vérifier et de contrôler ce qui se passe réellement dans l'application.
 

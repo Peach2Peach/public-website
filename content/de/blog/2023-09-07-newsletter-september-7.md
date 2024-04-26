@@ -44,24 +44,24 @@ Wir haben es uns zur Aufgabe gemacht, Neulingen den besten und einfachsten Weg z
 Aber wir werden das nicht tun, indem wir ihre Sicherheit und Privatsphäre kompromittieren, wie es viele andere getan haben, sondern indem wir sie ihnen standardmäßig bieten.
 Deswegen, während wir unserem Bitcoiner-Ethos treu bleiben, haben wir an einigen erstaunlichen neuen Funktionen gearbeitet, mit dem Ziel, sie für die Menschen einfach nutzbar zu machen und gleichzeitig sicher und privat zu halten. Die neuen Dinge, die ihr jetzt mit der Peach-App machen könnt, sind:
 
-    Vollständige Wallet-Funktionalität --> Nutzt das selbstverwahrte Wallet in der App, um Bitcoin direkt zu SENDEN und zu EMPFANGEN, ohne die App verlassen zu müssen.
+  > Vollständige Wallet-Funktionalität --> Nutzt das selbstverwahrte Wallet in der App, um Bitcoin direkt zu SENDEN und zu EMPFANGEN, ohne die App verlassen zu müssen.
 
-    Coin-Control --> Verwaltet eure UTXOs mit einer einfachen und intuitiven Benutzeroberfläche. Opfert eure Privatsphäre nicht!
+  > Coin-Control --> Verwaltet eure UTXOs mit einer einfachen und intuitiven Benutzeroberfläche. Opfert eure Privatsphäre nicht!
 
-    GroupHug --> Bündelt automatisch Transaktionen, um Netzwerkgebühren zu sparen! (Opt-in-Funktion) Erfahrt mehr, indem ihr diesen Blogpost lest
+  > GroupHug --> Bündelt automatisch Transaktionen, um Netzwerkgebühren zu sparen! (Opt-in-Funktion) Erfahrt mehr, indem ihr diesen Blogpost lest
 
-    Ausweitung auf den GLOBAL SOUTH --> Ja! Ihr habt richtig gehört, wir weiten uns aus auf:
-    - Afrika: Côte d'Ivoire, Kongo DRC und Nigeria
-    - LATAM: Kolumbien, Mexiko, Argentinien und Costa Rica
+  > Ausweitung auf den GLOBAL SOUTH --> Ja! Ihr habt richtig gehört, wir weiten uns aus auf:
+  > - Afrika: Côte d'Ivoire, Kongo DRC und Nigeria
+  > - LATAM: Kolumbien, Mexiko, Argentinien und Costa Rica
 
-    Aber das bedeutet nicht, dass wir dort stoppen!
-    Wenn ihr ein lokaler Bitcoiner aus einem Land seid, das wir noch nicht unterstützen, bitte setzt euch mit uns in Verbindung, um es zu Peach hinzuzufügen.
+  Aber das bedeutet nicht, dass wir dort stoppen!
+  Wenn ihr ein lokaler Bitcoiner aus einem Land seid, das wir noch nicht unterstützen, bitte setzt euch mit uns in Verbindung, um es zu Peach hinzuzufügen.
 
 ![Peach in Afrika und Lateinamerika!](https://img.mailinblue.com/5647291/images/content_library/original/64f9c0ffe65d8946086ff941.jpg)
 
 Und last but not least...
 
-    Die App Open Sourcen! --> Wir haben verschiedene Teile der App, die vollständig FOSS sind, während der Peach-App-Code unter der MIT-CC-Lizenz steht. Ihr findet alles auf unserem GitHub.
+  > Die App Open Sourcen! --> Wir haben verschiedene Teile der App, die vollständig FOSS sind, während der Peach-App-Code unter der MIT-CC-Lizenz steht. Ihr findet alles auf unserem GitHub.
 
 Wir wussten, dass dies ein kontroverses Thema war, und nachdem wir auf die Community gehört haben, dachten wir, es sei der richtige Zeitpunkt, den Code Open Source zu machen und den Nutzern zu ermöglichen, zu überprüfen und zu prüfen, was tatsächlich in der App passiert.
 

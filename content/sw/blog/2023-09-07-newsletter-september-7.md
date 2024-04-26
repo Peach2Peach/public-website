@@ -43,24 +43,24 @@ Tunajitolea kutoa njia bora na rahisi kabisa kwa wapya kununua na kuuza bitcoin 
 Lakini hatutafanyi hivyo kwa kudhoofisha usalama wao na faragha, kama wengi wengine wamechagua kufanya, bali kwa kuwapa kimsingi.
 Ndio sababu, bila kujali maadili yetu ya Bitcoiner, tumekuwa tukifanya kazi kwenye vipengele vipya vya kushangaza, lengo likiwa kuwafanya watu watumiwe kwa urahisi wakati bado wanabaki salama na faragha. Mambo mapya unayoweza kufanya sasa na programu ya Peach ni:
 
-    Utendaji Kamili wa Mkoba --> Tumia mkoba wa kujidhibiti ndani ya programu kutuma na kupokea Bitcoin moja kwa moja, bila haja ya kuacha programu.
+  > Utendaji Kamili wa Mkoba --> Tumia mkoba wa kujidhibiti ndani ya programu kutuma na kupokea Bitcoin moja kwa moja, bila haja ya kuacha programu.
 
-    Udhibiti wa Coin --> Dhibiti UTXOs yako kwa UI rahisi na ya kielelezo. Usitoe faragha yako!
+  > Udhibiti wa Coin --> Dhibiti UTXOs yako kwa UI rahisi na ya kielelezo. Usitoe faragha yako!
 
-    GroupHug --> Fanya maagizo ya moja kwa moja kwa ununuzi ili kuokoa ada za mtandao! (kipengele cha hiari) Soma zaidi kwa kusoma chapisho hili la blogu
+  > GroupHug --> Fanya maagizo ya moja kwa moja kwa ununuzi ili kuokoa ada za mtandao! (kipengele cha hiari) Soma zaidi kwa kusoma chapisho hili la blogu
 
-    Kupanua kwenda KUSINI KWA ULIMWENGU --> Ndio! Umesikia hilo sawa, tunapanuka kwenda:
-    - Afrika: Côte d'Ivoire, Congo DRC na Nigeria
-    - LATAM: Colombia, Mexico, Argentina na Costa Rica
+  > Kupanua kwenda KUSINI KWA ULIMWENGU --> Ndio! Umesikia hilo sawa, tunapanuka kwenda:
+  > - Afrika: Côte d'Ivoire, Congo DRC na Nigeria
+  > - LATAM: Colombia, Mexico, Argentina na Costa Rica
 
-    Lakini hilo halimaanishi tunamaliza hapo!
-    Ikiwa wewe ni mtu wa ndani wa bitcoin kutoka nchi ambayo bado hatuisaidii, tafadhali wasiliana nasi ili kuongeza kwenye Peach.
+  Lakini hilo halimaanishi tunamaliza hapo!
+  Ikiwa wewe ni mtu wa ndani wa bitcoin kutoka nchi ambayo bado hatuisaidii, tafadhali wasiliana nasi ili kuongeza kwenye Peach.
 
 ![Peach Afrika na Amerika ya Kusini!](https://img.mailinblue.com/5647291/images/content_library/original/64f9c0ffe65d8946086ff941.jpg)
 
 Na mwisho lakini sio kwa umuhimu...
 
-    Kufungua chanzo cha programu! -->  Tuna sehemu tofauti za programu ambazo ziko kabisa FOSS, wakati msimbo wa programu ya Peach uko chini ya leseni ya MIT-CC. Unaweza kupata kila kitu kwenye github yetu.
+  > Kufungua chanzo cha programu! -->  Tuna sehemu tofauti za programu ambazo ziko kabisa FOSS, wakati msimbo wa programu ya Peach uko chini ya leseni ya MIT-CC. Unaweza kupata kila kitu kwenye github yetu.
 
 Tulijua hili lilikuwa suala lenye utata, na kusik
 
