@@ -7,8 +7,6 @@
   </head>
   <link rel="canonical" href="/peach-for-businesses/">
   <script>location="/peach-for-businesses/"</script>
-  <meta http-equiv="refresh" content="0;url=/peach-for-businesses/">
-  <meta name="robots" content="noindex">
   <a href="/peach-for-businesses/">
     Click here if you are not redirected.
   </a>
