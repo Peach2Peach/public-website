@@ -32,7 +32,7 @@ We zijn begonnen met een reeks blogposts om gebruikers te helpen het belang van 
 Help ons het woord over P2P te verspreiden over de hele wereld door het te delen met je newbie-vrienden!
 In de eerste post duiken we in de oorsprong van Bitcoin, en waarom we bijna het pad dat Satoshi naar de wereld bracht, kwijtraakten.
 
-Bekijk het [hier!](https://peachbitcoin.com/blog/why-p2p-chapter-1/)
+Bekijk het [hier!](https://peachbitcoin.com/nl/blog/why-p2p-chapter-1/)
 
 ## Markstatistieken
 

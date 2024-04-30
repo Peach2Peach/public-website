@@ -96,7 +96,7 @@ Het hangt af van het type transacties waarover we praten. Hier is een lijst van 
   :::
 
 :::details Wat is GroupHug?
-GroupHug is eenvoudigweg de term die we hebben gegeven aan de actie van het batchen van transacties van verschillende gebruikers om kosten voor elk van hen te vermijden. Voor een meer gedetailleerde uitleg, bekijk onze [blogpost](https://peachbitcoin.com/blog/group-hug).
+GroupHug is eenvoudigweg de term die we hebben gegeven aan de actie van het batchen van transacties van verschillende gebruikers om kosten voor elk van hen te vermijden. Voor een meer gedetailleerde uitleg, bekijk onze [blogpost](https://peachbitcoin.com/nl/blog/group-hug).
 :::
 
 :::details Als ik een enkel koopaanbod heb lopen, wordt dit dan onmiddellijk vrijgegeven?

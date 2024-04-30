@@ -74,7 +74,7 @@ Nou, dus dat is alles! Na een paar stressvolle weken hebben we geweldige dingen 
 Dus als je ons wat feedback, wat liefde of wat haat wilt sturen via een van onze communicatiekanalen, doe dat dan gerust!
 PS: We hebben enkele nieuwe blogposts toegevoegd zodat mensen dieper kunnen ingaan op al onze nieuwe functies. Je kunt ze allemaal vinden in onze blogsectie op de website:
 
-https://peachbitcoin.com/blog
+https://peachbitcoin.com/nl/blog
 
 ## Marktstatistieken
 

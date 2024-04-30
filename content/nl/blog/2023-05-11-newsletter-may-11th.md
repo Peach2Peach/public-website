@@ -34,7 +34,7 @@ En dat is niet de enige optie waar we over nadenken! Maar je zult nog even moete
 Hoe dan ook, laten we het hebben over iets wat een beetje leuker is. Zoals je misschien weet, zijn we begonnen met een serie blogposts met als doel gebruikers te helpen het belang van P2P te begrijpen. We houden je op de hoogte van elke nieuwe blogpost in deze nieuwsbrief, zodat je er geen van mist.
 Help ons het P2P-woord met de hele wereld te delen door het te delen met je newbie vrienden!
 
-Bekijk het [hier!](https://peachbitcoin.com/blog/why-p2p-chapter-1/)
+Bekijk het [hier!](https://peachbitcoin.com/nl/blog/why-p2p-chapter-1/)
 
 ## Markstatistieken
 

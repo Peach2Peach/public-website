@@ -95,7 +95,7 @@ Als je informatie wilt sturen over een bepaalde betaalmethode, stuur dan een e-m
 
 Alle voorgaande betaalmethoden worden beschouwd als "digitale" betalingen, uitgevoerd via bankoverschrijvingen of fintech-apps. We ondersteunen echter ook contante transacties, en om het gemakkelijk te maken voor mensen om andere bitcoiners te vinden om mee te handelen, werken we samen met meetups over de hele wereld, en stellen ze in als officiële punten om Bitcoin te verhandelen met contant geld.
 
-Om meer te weten te komen over hoe de contante transacties werken, kun je ons blogbericht lezen [Hoe Bitcoin kopen en verkopen met contant geld via Peach](https://peachbitcoin.com/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/).
+Om meer te weten te komen over hoe de contante transacties werken, kun je ons blogbericht lezen [Hoe Bitcoin kopen en verkopen met contant geld via Peach](https://peachbitcoin.com/nl/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/).
 
 **
 

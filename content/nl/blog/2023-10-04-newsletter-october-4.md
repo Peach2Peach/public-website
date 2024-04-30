@@ -151,7 +151,7 @@ Meest gebruikte betaalmethoden
 ---
 
 Om deze kleine preek af te sluiten, wil ik hieronder nog een laatste link achterlaten, die wijst naar een van de meest bijzondere blogposts die we tot nu toe hebben geschreven. Deze gaat over de ervaringen van de teamleden van Peach gedurende het afgelopen jaar, en hoe het voelde om Peach van binnenuit op te bouwen. Als je meer wilt weten over ons verhaal, is deze blogpost voor jou! Geniet ervan!
-[1 jaar bij Peach](https://peachbitcoin.com/blog)
+[1 jaar bij Peach](https://peachbitcoin.com/nl/blog)
 
 ## Laatste Opmerkingen
 

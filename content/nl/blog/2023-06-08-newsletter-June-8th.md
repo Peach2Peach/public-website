@@ -43,7 +43,7 @@ Zelfs als we niet aanwezig zullen zijn om je te ontmoeten op alle komende confer
 
 Hoe dan ook, lieve Peaches, na deze snelle update over de gedachten die bij ons opkwamen terwijl we in de jacuzzi waren, laten we hier beneden wat marktstatistieken van vorige week achter. Hopelijk geniet je ervan!
 
-PS: We hebben zojuist de 3e aflevering van onze "Waarom P2P?" serie gepubliceerd, bekijk het [hier](https://peachbitcoin.com/blog/why-p2p-chapter-3-circular-economies/)!
+PS: We hebben zojuist de 3e aflevering van onze "Waarom P2P?" serie gepubliceerd, bekijk het [hier](https://peachbitcoin.com/nl/blog/why-p2p-chapter-3-circular-economies/)!
 
 ## Marktstatistieken
 
