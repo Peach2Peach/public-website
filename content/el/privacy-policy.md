@@ -185,7 +185,9 @@ Your privacy is important to us, and we want to inform you about our data retent
 
 ### Your data privacy
 
-We want to be transparent about the fact that, due to legal obligations, we are unable to facilitate the deletion of your account information.
+We want to be transparent about the fact that, due to legal obligations, we are unable to facilitate the deletion of the majority of your account information.
+
+For deletion requests please contact our support team at [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com) or use the delete account button in our app.
 
 ### Your right to information:
 
