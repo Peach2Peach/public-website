@@ -153,6 +153,6 @@ Ha többet szeretnél megtudni a Peach funkcióiról, vagy elolvasnál néhány 
 
 Ha még többet szeretnél tudni rólunk, nézz körül közösségi oldalainkon, vagy egyszerűen csak [lépj velünk kapcsolatba](mailto:hello@peachbitcoin.com) (használd a [PGP kulcsunkat](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2), ha lehetséges), örömmel hallunk felőled!
 
-[Telegram](https://t.me/+GkOW1J-ixBBkZWRk), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
+[Telegram](https://t.me/peachtopeach), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
 Továbbra is terjeszd a Peach szót, ki tudja, mikor találod meg az életed meccsét!

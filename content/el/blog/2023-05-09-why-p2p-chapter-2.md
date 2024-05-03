@@ -79,6 +79,6 @@ description: |
 
 48339A19645E2E53488E0E5479E1B270FACD1BD2) μας αν είναι δυνατόν) θα χαρούμε να ακούσουμε από εσάς!
 
-[Telegram](https://t.me/+GkOW1J-ixBBkZWRk), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
+[Telegram](https://t.me/peachtopeach), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
 Συνεχίστε να διαδίδετε τον λόγο της Peach, ποιος ξέρει πότε θα βρείτε τον ταίρι της ζωής σας!

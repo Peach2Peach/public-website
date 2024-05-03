@@ -78,6 +78,6 @@ Bitcoin не є чимось, що з'явилося випадково. Йог�
 
 Якщо ви хочете дізнатися більше про нас, перевірте наші соцмережі, або просто [зв'яжіться з нами](mailto:hello@peachbitcoin.com) (використовуйте наш [PGP ключ](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2), якщо можливо), ми будемо раді почути від вас!
 
-[Telegram](https://t.me/+GkOW1J-ixBBkZWRk), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
+[Telegram](https://t.me/peachtopeach), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
 Продовжуйте поширювати слово про Peach, хто знає, коли ви знайдете своє життєве віддзеркалення!

@@ -100,6 +100,6 @@ Se vuoi saperne di più sulle funzionalità di Peach, o leggere alcuni dei nostr
 
 Se vuoi saperne di più su di noi, dai un'occhiata ai nostri social o contattaci semplicemente tramite [email](mailto:hello@peachbitcoin.com). Saremo lieti di sentirti!
 
-[Telegram](https://t.me/+GkOW1J-ixBBkZWRk), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
+[Telegram](https://t.me/peachtopeach), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
 Continua a diffondere la parola su Peach, chissà quando troverai l'incontro della tua vita!

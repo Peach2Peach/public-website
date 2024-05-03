@@ -79,6 +79,6 @@ Als je meer wilt weten over Peach functies, of enkele van onze andere artikelen 
 
 Als je meer over ons wilt weten, bekijk dan onze sociale kanalen, of neem gewoon [contact met ons op](mailto:hello@peachbitcoin.com) (gebruik indien mogelijk onze [PGP-sleutel](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2)), we horen graag van je!
 
-[Telegram](https://t.me/+GkOW1J-ixBBkZWRk), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
+[Telegram](https://t.me/peachtopeach), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
 Blijf het woord verspreiden over Peach, wie weet wanneer je de match van je leven zult vinden!

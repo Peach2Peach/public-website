@@ -317,6 +317,6 @@ Eu recomendo tentar todo o processo pelo menos uma vez com pouco dinheiro em jog
 
 Se você quiser saber mais sobre nós, confira nossas redes sociais ou simplesmente [entre em contato conosco](mailto:hello@peachbitcoin.com) (use nossa [chave PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2) se possível) ficaremos felizes em ouvir você!
 
-[Telegram](https://t.me/+GkOW1J-ixBBkZWRk), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
+[Telegram](https://t.me/peachtopeach), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
 Continue divulgando a palavra Peach, quem sabe quando você encontrará a combinação de sua vida!
