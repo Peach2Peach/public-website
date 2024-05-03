@@ -3,7 +3,7 @@ include /mixins.pug
 block vars
   - const pageTitle = title && title != siteData.meta.title ? `${title} · ${siteData.meta.title}` : `${siteData.meta.title} · ${siteData.meta.tagline}`
   - const pageDescription = description || siteData.meta.description
-  - const twitterDescriptionContent = twitterDescription || siteData.meta.twitterDescription
+  - const twitterDescriptionContent = twitterDescription || i18n('meta.twitterDescription', lang)
   - const ogTitleContent = ogTitle || siteData.meta.ogTitle
   - const ogDescriptionContent = ogDescription || siteData.meta.ogDescription
   - const pageKeywords = keywords || siteData.meta.keywords
