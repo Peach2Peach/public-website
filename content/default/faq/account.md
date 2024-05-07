@@ -76,3 +76,12 @@ To know more about how to accelerate transactions, take a look at our Youtube vi
 
 Peach is a 100% compliant company. We are an affiliated Swiss financial intermediary and our compliance framework allows for KYC-less money exchange transactions under certain thresholds.
 :::
+
+:::How do I restore my Bitcoin wallet from another client?
+
+Peach is a self-custodial #bitcoin wallet which means that the user is in control of their private keys (seed phrase)#notyourkeysnotyourcoins
+You should always make sure that your seed phrase (12 words) is safely stored offline. Go to Settings > backup.
+With your seed phrase, you will be able to access your sats from another wallet, like Sparrow wallet on desktop.
+Check out this vide tutorial:
+https://youtu.be/_kTYegiDK2Q
+:::
