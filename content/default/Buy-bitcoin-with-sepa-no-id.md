@@ -1,30 +1,43 @@
-# How to Buy Bitcoin on Peach Bitcoin P2P Exchange Using SEPA
+# How to Buy Bitcoin on Peach Bitcoin Peer-to-Peer Exchange Using SEPA
 
-## Buy Crypto No Kyc With SEPA
+## Buy Bitcoin KYC-free with SEPA or Instant-SEPA
 
 In this article, you will be guided on how to buy Bitcoin (sats) using Peach Bitcoin with SEPA / SEPA Instant without the need for KYC (Know Your Customer) verification. If you are not yet familiar with how Peach Bitcoin operates, please refer to our [Quick Start Guide](https://peachbitcoin.com/quick-start).
 
 After installing the app via the [App Store]($iosUrl$), [Play Store]($androidUrl$), or [APK download](/apk/), you are ready to begin.
 
-## Make a buy offer
+## Explore sell offers as a buyer
 
-Placing your first buy offer can be done in just a few seconds. You'll just need to select how much you want to buy, and how you want to pay your seller.
+You want to buy and exploring sell offers can be done in just a few seconds. You'll just need to select how much you want to buy, and how you want to pay your seller. You can select as many payment methods as you want! You can also select no payment method at all to see the full order book.
 
-Here's the step by step of your first buy offer:
+Here's the step-by-step process to explore sell offers:
 
+**1) Proceed to "Buy" section**
 :::figures 1
 ![First you are in Peach Home](/img/faq/buysepa/newpeachhome.png)
+:::
+**2) Buy bitcoin (no PM selected)**
 
-![Now we go in settings to upload a payment method!](/img/faq/buysepa/addpm.png)
+select all your Payment Methods or leave the field empty
 
+:::figures 2
 ![You'll first select how much you want to buy. This is always a range, and you'll be shown all sell offers available in that range.](/img/faq/buysepa/peachshowoffers.png)
+:::
+**3) Select Payment Method**
 
+enter your payment data
+
+:::figures 3
+![Now we go in settings to upload a payment method!](/img/faq/buysepa/addpm.png)
+:::
+**4) Explore sell offers available according to your criteria**
+:::figures 4
 ![Note that you can select as many payment methods as you want, to increase your chances of a match!](/img/faq/buysepa/showoffers.png)
 :::
 
 ### Matching a seller
 
-After publishing your buy offer, you'll be shown all the sell offers that fall within the range you selected, and that has at least one payment method in common:
+After publishing your buy offer, You'll be shown all the sell offers that fall within the range you selected, and that has at least one payment method in common.
 
 ![Match Card](/img/faq/quickstart/buy/MatchCardExplainer.png)
 
@@ -34,7 +47,23 @@ After publishing your buy offer, you'll be shown all the sell offers that fall w
 ![You'll get five seconds to undo if you change your mind. After that, the seller will be notified of their match, and unmatching now is considered a dick move (your Peach Score will be hurt)](/img/faq/quickstart/buy/BuyStep7.png)
 :::
 
+Once you match a sell offer (basically sending a trade request to the seller), you have to wait for the seller to match you back (basically accepting your trade request). 
+
+**You can and should match as many sell offers as possible! The first seller to match you back gets in a trade with you!**
+
+Tip: if you match an "instant-trade" sell offer, then you don't have to wait for the seller's approval and you instantly get into a trade!
+
 ### Making the trade
+
+
+Peach sends you a push notification when you get in a trade! 
+You can now make the payment following the contract's instruction. 
+
+Peach is NOT connected to your payment method. You have to make the payment on your bank app. Once done, come back to Peach and click on "I made the payment".
+
+Once the seller confirms the reception of the payment, you receive your sats!
+
+**IMPORTANT: go to Settings > back up and save your seed phrase!!! If you lose your seed phrase, you lose your bitcoin. #notyourkeysnotyourcoins**
 
 :::figures 2
 ![If the seller matches you back, you'll be notified & shown their payment details. You should go to your payment app and manually make the payment there. After that, you confirm that you did with the slider at the bottom, and you wait for the seller to respond (you can chit-chat in the meantime).](/img/faq/quickstart/buy/BuyStep8.png)

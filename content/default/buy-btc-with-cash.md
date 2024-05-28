@@ -8,7 +8,7 @@ template: meetups
 
 <!--[intro]-->
 
-Are you Bitcoin enthusiasts who love to explore new places, attending meetups while trading crypto for cash on the go? Do you value anonymity and security in your transactions, steering clear of public platforms to protect your privacy?
+Are you a Bitcoin enthusiast who love to explore new places, attending meetups while trading **Bitcoin** for cash on the go? Do you value anonymity and security in your transactions, steering clear of public platforms to protect your privacy?
 
 Do you jump from meetup to meetup as an excuse to visit the world?
 
@@ -19,7 +19,7 @@ Peach app includes **anonymous Cash Trades**.
 
 By integrating with Peach, you're not just joining a platform; you're joining a movement that champions privacy and security in every transaction. We are **partnering with meetups all over the world** to facilitate safe & secure places to trade Bitcoin with cash.
 
-If you're a meetup organizer interested in integrating with Peach, simply fill out the contact form below, and we'll reach out to kickstart the integration process!
+If you're a meetup organizer interested in integrating with Peach, simply fill out the contact **form**
 
 If your meetup meets our eligibility criteria\*, we'll work closely with you to finalize the integration details.
 

@@ -51,19 +51,14 @@ Embark on a journey of seamless p2p Bitcoin trading with Peach. Our platform red
 
 Say goodbye to cumbersome ID verification and KYC processes as Peach offers a secure and private environment for all your transactions.
 
-Whether you're looking to diversify your portfolio by **buying Bitcoin with a gift card** or prefer the simplicity of **purchase without ID**, Peach provides a trusted platform for conducting **anonymous transactions** and **peer-to-peer exchanges**.
-
-Our streamlined process ensures that you can **buy Bitcoin without ID verification** hassle-free.
+Whether you're looking to **buy Bitcoin with a gift card** or prefer the simplicity of **purchase without ID**, Peach provides a trusted platform for conducting **anonymous transactions** and **peer-to-peer exchanges**.
 
 Join our community of like-minded individuals who value privacy and freedom in the Bitcoin ecosystem !
 We're actively seeking sellers who understand the importance of a **non-KYC Bitcoin market** and want to contribute to its growth.
 
-
-Stay ahead of the curve with the latest updates on **buying and selling Bitcoin without KYC** by following our main communication channels.
+Peach is an SRO member (Self Regulatory Organisation) of Polyreg. Peach is a Swiss licensed financial service provider are fully compliant with Switzerland’s Anti-Money Laundering Act.
 
 Together, let's make the Bitcoin ecosystem more accessible and private for everyone.
-
-As a proud member of Polyreg, Peach adheres to Switzerland's Anti-Money Laundering Act, ensuring compliance and security in every transaction.
 
 Experience the convenience of **purchasing Bitcoin with a gift card, no verification needed**, **buying Bitcoin without ID**, **buying crypto anonymously**, **exchanging peer-to-peer**, and other **non-KYC Bitcoin transactions** with Peach.
 
