@@ -8,20 +8,20 @@ After installing the app via the [App Store]($iosUrl$), [Play Store]($androidUrl
 
 ## Explore sell offers as a buyer
 
-You want to buy and exploring sell offers can be done in just a few seconds. You'll just need to select how much you want to buy, and how you want to pay your seller. You can select as many payment methods as you want! You can also select no payment method at all to see the full order book.
+**Buying and exploring sell offers** can be done in just a few seconds. You'll just need to select how much you want to buy, and how you want to pay your seller. You can select as many payment methods as you want! You can also select no payment method at all to see the full order book.
 
 Here's the step-by-step process to explore sell offers:
 
 **1) Proceed to "Buy" section**
-:::figures 1
+:::figures 3
 ![First you are in Peach Home](/img/faq/buysepa/newpeachhome.png)
 :::
-**2) Buy bitcoin (no PM selected)**
+**2) Buy Bitcoin**
 
 select all your Payment Methods or leave the field empty
 
-:::figures 2
-![You'll first select how much you want to buy. This is always a range, and you'll be shown all sell offers available in that range.](/img/faq/buysepa/peachshowoffers.png)
+:::figures 3
+![You'll first select how much you want to buy. This is always a range, and you'll be shown all sell offers available in that range.](/img/faq/buysepa/peachshowoffers2.png)
 :::
 **3) Select Payment Method**
 
@@ -31,17 +31,17 @@ enter your payment data
 ![Now we go in settings to upload a payment method!](/img/faq/buysepa/addpm.png)
 :::
 **4) Explore sell offers available according to your criteria**
-:::figures 4
+:::figures 3
 ![Note that you can select as many payment methods as you want, to increase your chances of a match!](/img/faq/buysepa/showoffers.png)
 :::
 
-### Matching a seller
+## Matching a seller
 
 After publishing your buy offer, You'll be shown all the sell offers that fall within the range you selected, and that has at least one payment method in common.
 
 ![Match Card](/img/faq/quickstart/buy/MatchCardExplainer.png)
 
-:::figures 2
+:::figures 3
 ![When you've selected the currency and payment method you want to use for this trade (if you have more than one in common), you can match the offer.](/img/faq/quickstart/buy/BuyStep6.png)
 
 ![You'll get five seconds to undo if you change your mind. After that, the seller will be notified of their match, and unmatching now is considered a dick move (your Peach Score will be hurt)](/img/faq/quickstart/buy/BuyStep7.png)
@@ -53,7 +53,7 @@ Once you match a sell offer (basically sending a trade request to the seller), y
 
 Tip: if you match an "instant-trade" sell offer, then you don't have to wait for the seller's approval and you instantly get into a trade!
 
-### Making the trade
+## Making the trade
 
 
 Peach sends you a push notification when you get in a trade! 
@@ -65,7 +65,7 @@ Once the seller confirms the reception of the payment, you receive your sats!
 
 **IMPORTANT: go to Settings > back up and save your seed phrase!!! If you lose your seed phrase, you lose your bitcoin. #notyourkeysnotyourcoins**
 
-:::figures 2
+:::figures 3
 ![If the seller matches you back, you'll be notified & shown their payment details. You should go to your payment app and manually make the payment there. After that, you confirm that you did with the slider at the bottom, and you wait for the seller to respond (you can chit-chat in the meantime).](/img/faq/quickstart/buy/BuyStep8.png)
 
 ![Once the seller confirms, the deed is done! The bitcoin amount will be sent to your wallet and you can give eachother a rating. (Assuming everything went well, of course.)](/img/faq/quickstart/buy/BuyStep9.png)

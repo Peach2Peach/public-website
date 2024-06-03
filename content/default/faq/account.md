@@ -81,6 +81,5 @@ Peach is a 100% compliant company. We are an affiliated Swiss financial intermed
 
 Peach is a **self-custodial Bitcoin wallet** which means that the user is in control of their private keys (seed phrase) #notyourkeysnotyourcoins.
 You should always make sure that your seed phrase (12 words) is safely stored offline. Go to Settings > Backup.
-With your seed phrase, you will be able to access your sats from another wallet, like **Sparrow wallet** on desktop.  
-Check out this video tutorial: https://youtu.be/_kTYegiDK2Q
+With your seed phrase, you will be able to access your sats from another wallet, like **Sparrow wallet** on desktop, check out this [Video Tutorial](https://youtu.be/_kTYegiDK2Q)
 :::
