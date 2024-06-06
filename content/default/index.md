@@ -58,12 +58,12 @@ We're actively seeking sellers who understand the importance of a **non-KYC Bitc
 
 Together, let's make the Bitcoin ecosystem more accessible and private for everyone.
 
-Peach is an SRO member (Self Regulatory Organisation) of Polyreg. Peach is a Swiss **licensed financial service provider** are fully compliant with Switzerland’s Anti-Money Laundering Act.
+Peach is an SRO member (Self Regulatory Organisation) of Polyreg. Peach is a Swiss **licensed financial service provider** and is fully compliant with Switzerland’s Anti-Money Laundering Act.
 
 
 <div class="flex justify-center"><div class="w-1/2">
 
-![Swiss regulated Bitcoin exchange certified by Polyreg](/img/home/polyreg.png)
+[![Swiss regulated Bitcoin exchange certified by Polyreg](/img/home/polyreg.png)](https://www.polyreg.ch/)
 
 </div></div>
 
