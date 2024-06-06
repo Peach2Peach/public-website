@@ -29,6 +29,13 @@ More than 900 open buy offers 24h a day
 
 Bring more users and increase your revenue with a custom referral code
 :::
+
+:::box tech-peach
+
+### Public API available
+
+Integrate Peach directly into your systems with our easy-to-use Public [API](https://docs.peachbitcoin.com/#introduction)
+:::
 ::::
 
 If you are interested in knowing more about Peach Business, and how to leverage it to maximize the profits of your company, get in touch with us.
