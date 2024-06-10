@@ -22,14 +22,14 @@ When you buy Bitcoin on Peach, 2% of that trade amount goes to Peach as a servic
 - the amount that the buyer receives
 - the 2% Peach fee
 
-![](/img/blog/new-grouphug-mechanism/one-input-two-outputs.png)
+![](/img/blog/grouphug-for-everyone/one-input-two-outputs.png)
 As you might know, Bitcoin transactions also have another fee that you have to pay: The mining fee.
 This mining fee is not dependent on the _amount_ you are sending, but the **size of the transaction**. Think of it like sending a picture of a pile of cash. It doesn't really matter how much cash is in the picture, it will still take up the same amount of storage.
 
 Both of these pictures are 1MB in size:
 
-![](/img/blog/new-grouphug-mechanism/one-mb-dollar.jpg)
-![](/img/blog/new-grouphug-mechanism/one-mb-million-dollars.jpg)
+![](/img/blog/grouphug-for-everyone/one-mb-dollar.jpg)
+![](/img/blog/grouphug-for-everyone/one-mb-million-dollars.jpg)
 
 In the same way, a simple bitcoin transaction, like in our case 1 input and 2 outputs, will cost you more or less the same amount, no matter how much you buy. But if there were some way to reduce the number of outputs, you would pay even less.
 
@@ -42,8 +42,8 @@ Peach is built on this realization and with a very clear goal: We want to empowe
 
 However there were a couple of problems with the way Peach was operating and the default experience it was giving our users as well as the conceptualization of batching which became especially apparent after the fee storm during the halving.
 
-![](/img/blog/new-grouphug-mechanism/halving-fee-storm.svg)
-![](/img/blog/new-grouphug-mechanism/high-fees-meme.jpeg)
+![](/img/blog/grouphug-for-everyone/halving-fee-storm.svg)
+![](/img/blog/grouphug-for-everyone/high-fees-meme.jpeg)
 
 As mentioned before, Peach collects 2% per trade, and these fees have to be consolidated at some point. However looking at the mining fees we came to the realization: We were completely fucking ourselves. When we reviewed the impact these consolidations had on the profitability of peach, the mining fee was around 100 sat/vB, something which we have gotten used to seeing.
 At that fee rate, any trade with a service fee less than 4100 sats was for sure loosing us money, and at a 2% fee rate this meant that the absolute minimum amount we should allow to be traded on Peach was 205 000 sats (and our minimum was around 1/10th of that).
@@ -68,15 +68,14 @@ Going forward, every trade will have a maximum mining fee, which peach sets at 1
 This simply means that if after the match the fees spike, Peach will not go beyond this 10% limit.
 If however this 10% limit is already exceeded at the time of match, Peach will simply show a warning on the match card.
 
+![](/img/blog/grouphug-for-everyone/fee-warning.png)
+
 If you still decide to proceed with the trade, let's say at a 15% mining fee, this will be set as the new maximum. In other words you will not pay more than 15%, but if the fees drop you will pay even less.
 
 So lets summarize:
 Going forward you will save much more on mining fees, because we assume that we will have a lot more transactions in our buckets. If you still want peach to broadcast the transaction instantly we will ask you to pay for the added costs to Peach, so that we don't rek ourselves. Peach will also protect buyers from paying a significant amount of mining fees without being aware of this.
 In doing all of this we hope that the default experience for our users will be even smoother and as mentioned in the very beginning, they will notice these changes only as a pleasant surprise when seeing that they paid less in mining fees than expected or when it protects you from spending a huge chunk of your trade on mining fees without realizing it.
 If you're interested in the details you can check the FOSS code [here](https://github.com/Peach2Peach/groupHug/tree/6f1cb023c972eec1fc73989e39a53378313d7394).
-
-Oh and by the way:
-Free Trades save on peach fees anyway because the peach output doesn't exist and previously we would literally pay for these trades using grouphug. This is now also fixed by simply broadcasting free trades instantly!
 
 HAPPY PEACHING!
 
@@ -97,6 +96,8 @@ HAPPY PEACHING!
   - The mining fees used are the half hour fee at the time when the seller confirms the payment. The more participants in a batch, the more you will save, since the peach fee output effectively gets shared among all participants.
 - I want my sats asap, How do I opt-out from Batching?
   - Simple: Just go to your settings in the peach app, open the transaction batching section and click on the toggle. You will have to be on the newest version (0.5.0) though, since we want to make sure the user is aware that this means slightly higher costs.
+- What about Free Trades?
+  - Free Trade payouts will be broadcasted instantly, since there is no peach fee output. This means that you save on mining fees even more and get the benefit of instant broadcasts. You also get a quite significant privacy benefit from the peach fee output not existing! This is a bit of a rabbithole we will explore more in the future but a free trade basically is a number of magnitudes more private than a normal trade. So refer users to Peach to stack points and get free trades!
 
 As a final note lets also make one thing clear: This is a new foundation, but it's by no means the final destination. We already have ideas on how to make this model even better, build on top of it and realize the new opportunities it creates.
 If you have something you want to share also, we'd love to [hear from you](https://t.me/peachtopeach)!!
