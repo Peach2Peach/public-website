@@ -12,7 +12,7 @@ description: |
   With GroupHug, we bundle escrow releases for lower transaction fees. Opt in, wait a tad, save more. You're in control, switch anytime.
 ---
 
-# New GroupHug Mechanism
+# GroupHug For Everyone
 
 After some time and a lot of work we are stoked to bring to you a new release with many quality of life improvements and one big systemic change.
 I will say right away: This change is intended to be under the hood and subtle. Users should not really feel it, and when they notice it, we hope that it will be in a way that is pleasantly surprising. But let's back up a little bit first and let me take you on a brief tour about Peach - the app but also the business.
