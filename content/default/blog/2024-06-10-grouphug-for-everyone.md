@@ -73,6 +73,7 @@ If you still decide to proceed with the trade, let's say at a 15% mining fee, th
 So lets summarize:
 Going forward you will save much more on mining fees, because we assume that we will have a lot more transactions in our buckets. If you still want peach to broadcast the transaction instantly we will ask you to pay for the added costs to Peach, so that we don't rek ourselves. Peach will also protect buyers from paying a significant amount of mining fees without being aware of this.
 In doing all of this we hope that the default experience for our users will be even smoother and as mentioned in the very beginning, they will notice these changes only as a pleasant surprise when seeing that they paid less in mining fees than expected or when it protects you from spending a huge chunk of your trade on mining fees without realizing it.
+If you're interested in the details you can check the FOSS code [here](https://github.com/Peach2Peach/groupHug/tree/6f1cb023c972eec1fc73989e39a53378313d7394).
 
 Oh and by the way:
 Free Trades save on peach fees anyway because the peach output doesn't exist and previously we would literally pay for these trades using grouphug. This is now also fixed by simply broadcasting free trades instantly!
