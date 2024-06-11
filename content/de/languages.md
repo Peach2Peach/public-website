@@ -5,7 +5,7 @@
 Hier findest du alle Sprachen, die wir derzeit unterstützen.
 Wenn du uns bei der Übersetzung von Peach in deine Landessprache helfen möchtest, [nimm Kontakt mit uns auf!](mailto:hello@peachbitcoin.com)
 
-- [🇩🇪 Englisch](/)
+- [🇬🇧 Englisch](/)
 - [🇪🇸 Spanisch](/es)
 - [🇫🇷 Französisch](/fr)
 - [🇩🇪 Deutsch](/de)
