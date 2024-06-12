@@ -81,5 +81,3 @@ If you want to know more about us, check out or socials, or simply [contact us](
 [Telegram](https://t.me/peachtopeach), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
 Keep spreading the Peach word, who knows when you'll find the match of your life!
-
-Keep spreading the Peach word, who knows when you'll find the match of your life!

@@ -19,9 +19,7 @@ description: |
   result of his work, his time and energy.
   Peach’s mission is to do its part to contribute to Bitcoin’s adoption in the hands of the people.
 ---
-
 # Newsletter September 7
-
 ## 1 year anniversary
 
 ![peachy peach bitcoin gif](/img/blog/newsletter/gif-peach.gif)
@@ -45,24 +43,24 @@ We're committed to providing newbies with the best and easiest way to buy and se
 But we won't be just doing it by compromising their security and privacy, as many others have chosen to do, but by providing them with it by default.
 That's why, while staying true to our Bitcoiner ethos, we've been working on some amazing new features, with the aim of making them easy for people to use while still keeping them secure and private. The new things you can do now with the Peach app are:
 
-    Full Wallet Functionality --> Use the self-custodial wallet inside the app to SEND and RECEIVE Bitcoin directly, without the need to leave the app.
+  > Full Wallet Functionality --> Use the self-custodial wallet inside the app to SEND and RECEIVE Bitcoin directly, without the need to leave the app.
 
-    Coin-Control --> Manage your UTXOs with an easy and intuitive UI. Do not sacrifice your privacy!
+  > Coin-Control --> Manage your UTXOs with an easy and intuitive UI. Do not sacrifice your privacy!
 
-    GroupHug --> Automatically batch transactions to save on network fees! (opt-in feature) Learn more by reading this blog post
+  > GroupHug --> Automatically batch transactions to save on network fees! (opt-in feature) Learn more by reading this blog post
 
-    Expanding to the GLOBAL SOUTH --> Yes! You heard that right, we're expanding to:
-    - Africa: Côte d'Ivoire, Congo DRC and Nigeria
-    - LATAM: Colombia, Mexico, Argentina and Costa Rica
+  >Expanding to the GLOBAL SOUTH --> Yes! You heard that right, we're expanding to:
+  >- Africa: Côte d'Ivoire, Congo DRC and Nigeria
+  >- LATAM: Colombia, Mexico, Argentina and Costa Rica
 
-    But that doesn't mean we stop there!
-    If you are a local bitcoiner from a country that we still do not support, please get in touch with us to add it to Peach.
+  But that doesn't mean we stop there!
+  If you are a local bitcoiner from a country that we still do not support, please get in touch with us to add it to Peach.
 
 ![Peach in Africa and Latin America!](https://img.mailinblue.com/5647291/images/content_library/original/64f9c0ffe65d8946086ff941.jpg)
 
 And last but not least...
 
-    Open Sourcing the app! -->  We do have different chunks of the app that are fully FOSS, while the Peach app code is under the MIT-CC license. You can find everything on our github.
+  > Open Sourcing the app! -->  We do have different chunks of the app that are fully FOSS, while the Peach app code is under the MIT-CC license. You can find everything on our github.
 
 We knew this was a controversial topic, and listening to the community, we thought it was the right time to open source the code and let the users be able to verify and check what's indeed happening inside the app.
 
@@ -84,6 +82,7 @@ https://peachbitcoin.com/blog
 from August 10th to September 7th
 
 Down here, you'll find a recap of the most important stats from the previous weeks. Let us know if you'd like to see any chart or metric that doesn't appear here.
+
 
 Avg. BUY offers / day
 148

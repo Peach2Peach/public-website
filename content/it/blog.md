@@ -1,6 +1,6 @@
 ---
 template: blog
-lang: en
+lang: it
 ---
 
 # Blog

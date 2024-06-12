@@ -58,7 +58,7 @@ When someone uses your referral code, that person starts off with a gift of 100 
 
 :::details What does the Peach Score mean?
 
-The Peach score is your reputation on Peach. It is based on the user rating (the thumbs up/down your counterparty gives you after a trade) and on your actions, like disputes, how fast you pay, and more.
+The Peach score is your reputation on Peach. It is based on the user rating (the thumbs up/down your counterparty gives you after a trade) and on your actions, like disputes, how fast you pay, and more. 
 :::
 
 :::details Why did my transaction disappear from my wallet?
@@ -75,4 +75,11 @@ To know more about how to accelerate transactions, take a look at our Youtube vi
 :::details Why can I buy legally without KYC?
 
 Peach is a 100% compliant company. We are an affiliated Swiss financial intermediary and our compliance framework allows for KYC-less money exchange transactions under certain thresholds.
+:::
+
+:::details How do I restore my Bitcoin wallet from another client?
+
+Peach is a **self-custodial Bitcoin wallet** which means that the user is in control of their private keys (seed phrase) #notyourkeysnotyourcoins.
+You should always make sure that your seed phrase (12 words) is safely stored offline. Go to Settings > Backup.
+With your seed phrase, you will be able to access your sats from another wallet, like [Sparrow wallet](https://www.sparrowwallet.com/) on desktop, check out this [Video Tutorial](https://youtu.be/_kTYegiDK2Q)
 :::

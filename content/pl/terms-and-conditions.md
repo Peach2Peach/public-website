@@ -51,7 +51,7 @@ When using the Peach application for the first time, you will be asked to choose
 
 You must maintain the confidentiality of your password and account; **you are responsible for all activities that are conducted through your account**, whether or not you have authorized such use. If you lose your password, you will not be able to access your encrypted communications or private data, and there is no way for Peach to recover access.
 
-It is not allowed to create more than one Peach account. In order to ensure that a user can only create one Peach account from his mobile device, **Peach keeps a _hash_ of the user's unique device ID**, among other measures. More about how your data is used can be read in our [privacy policy](https://peachbitcoin.com/privacy-policy/).
+It is not allowed to create more than one Peach account. In order to ensure that a user can only create one Peach account from his mobile device, **Peach keeps a _hash_ of the user's unique device ID**, among other measures. More about how your data is used can be read in our [privacy policy](https://peachbitcoin.com/pl/privacy-policy/).
 
 You must be at least 18 years old to sign up for a Peach account. By signing up for an account, you confirm that you are at least 18 years old.
 

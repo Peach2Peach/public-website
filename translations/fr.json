@@ -1,5 +1,5 @@
 {
-  "howItWorks": "Comment ça fonctionne",
+  "howItWorks": "Comment ça marche",
   "forMeetups": "Pour les rencontres",
   "blog": "Blog",
   "support": "Support",
@@ -54,5 +54,11 @@
   "social.lifestyle.title": "Suis-nous sur Instagram",
   "social.lifestyle.subtitle": "Découvre le mode de vie quotidien de Peach !",
   "social.video.title": "Abonne-toi à notre chaîne YouTube",
-  "social.video.subtitle": "Plein de tutos pour apprendre les meilleurs conseils de Peach"
+  "social.video.subtitle": "Plein de tutos pour apprendre les meilleurs conseils de Peach",
+  "meta.tagline": "Achetez et vendez du Bitcoin en peer-to-peer",
+  "meta.description": "Peach Bitcoin est LA solution mobile pour des transaction Bitcoin sécurisées et anonymes. Achetez et vendez du Bitcoin avec des cartes cadeaux, sans vérification d'identité. Échangez en pair-à-pair pour une confidentialité totale. Apprenez comment acheter et vendre du Bitcoin sans KYC. Gérez vos actifs numériques anonymement sur notre plateforme d'échange non KYC.",
+  "meta.twitterDescription": "Peach Bitcoin - Achetez du Bitcoin avec une carte cadeau, sans vérification. Échangez en pair-à-pair pour des transactions anonymes. Apprenez comment acheter et vendre du Bitcoin confidentiellement et sans KYC. Gérez vos Bitcoin avec sécurité sur notre plateforme non-KYC.",
+  "meta.ogTitle": "Peach Bitcoin Exchange - Achetez et Vendez du Bitcoin Anonymement et Sans KYC",
+  "meta.ogDescription": "Peach Bitcoin - Achetez des Bitcoins avec des cartes-cadeaux, sans vérification. Échangez de pair à pair pour des transactions anonymes. Apprenez comment acheter et vendre des Bitcoins de manière privée et sans KYC. Gérez vos Bitcoins en toute sécurité avec notre plateforme non-KYC.",
+  "meta.keywords": "Échange de Bitcoins pair à pair sans KYC"
 }

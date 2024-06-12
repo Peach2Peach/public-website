@@ -1,4 +1,4 @@
-# Peach for Businesses
+# Peach Bitcoin for High Volume Sellers and Traders
 
 ## Maximize your revenue with Peach
 
@@ -7,8 +7,6 @@ Peach Business offers the opportunity to companies and high volume professionals
 We offer perks for **market-makers**, **bitcoin native businesses**, and **high-volume traders**.
 
 Some of the benefits you can enjoy by using the services provided by Peach Business are detailed below.
-
-## Perks for professionals
 
 ::::figures 3
 :::box tech-peach
@@ -30,6 +28,13 @@ More than 900 open buy offers 24h a day
 ### Affiliate Program
 
 Bring more users and increase your revenue with a custom referral code
+:::
+
+:::box tech-peach
+
+### Public API available
+
+Integrate Peach directly into your systems with our easy-to-use Public [API](https://docs.peachbitcoin.com/#introduction)
 :::
 ::::
 

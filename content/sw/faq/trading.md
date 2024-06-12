@@ -96,7 +96,7 @@ Inategemea aina gani ya shughuli tunazungumza. Hapa kuna orodha ya shughuli zote
   :::
 
 :::details What is GroupHug?
-GroupHug ni jina tu ambalo tumetoa kwa hatua ya kuweka pamoja shughuli kutoka kwa watumiaji tofauti ili kuepuka ada kwa kila mmoja wao. Kwa maelezo zaidi, angalia [chapisho letu la blogi](https://peachbitcoin.com/blog/group-hug).
+GroupHug ni jina tu ambalo tumetoa kwa hatua ya kuweka pamoja shughuli kutoka kwa watumiaji tofauti ili kuepuka ada kwa kila mmoja wao. Kwa maelezo zaidi, angalia [chapisho letu la blogi](https://peachbitcoin.com/sw/blog/group-hug).
 :::
 
 :::details If I have a single buy offer running it will be released immediately?
