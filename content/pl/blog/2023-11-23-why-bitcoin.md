@@ -9,25 +9,25 @@ tags:
 previewImage: /img/home/bitcoin-logo.png
 ---
 
-# A rant - Why Bitcoin.
+# Rant - Dlaczego Bitcoin.
 
-Because NGU forever. But that sounds like a fucking scam, and who am I to be trusted with your financial choices.
-But guess what, your great alternative is trusting the governments. They print money and laugh in your face about all of your struggles. They fuck you with inflation once and they fuck you with taxes again. And if you want to do something that they don’t like with the few bucks left guess what. They fuck you for the third time.
+Bo NGU forever. Ale to brzmi jak cholerna ściema, i kimże jestem, aby mi ufać w kwestii twoich wyborów finansowych.
+Ale zgadnij co, twoją wspaniałą alternatywą jest zaufanie rządom. Drukują pieniądze i śmieją ci się w twarz z twoich trudności. Pieprzą cię inflacją raz, a podatkami drugi raz. A jeśli chcesz zrobić coś, co im się nie podoba za te kilka groszy, które ci zostały, zgadnij co. Pieprzą cię po raz trzeci.
 
-And here you are telling me that Bitcoin is too risky, that it sounds like a scam, or that it’s just about getting rich quickly. Take your time while you think that and enjoy getting absolutely destroyed by people who have no regard whatsoever for your life and that couldn’t possibly care less about any of your concerns, that smile in your face and rob your money out of your pockets (yes it’s the politicians dummy!).
+A ty tutaj mówisz mi, że Bitcoin jest zbyt ryzykowny, że brzmi jak oszustwo, albo że chodzi tylko o szybkie wzbogacenie się. Zastanów się nad tym i ciesz się, że zostajesz absolutnie zniszczony przez ludzi, którzy nie mają żadnego szacunku dla twojego życia i którym nie zależy na żadnym z twoich problemów, którzy uśmiechają się do ciebie i kradną twoje pieniądze z kieszeni (tak, to politycy, głupcze!).
 
-In the meantime I will stack harder until you realize that Bitcoin is the only way out.
-And while you will wave an id at a camera waiting for some weirdo to allow you to buy Bitcoin I will simply click a button and start buying (yes, kyc is the illicit activity dummy!).
-And once you get around that and hope that the exchange that has your Bitcoin isn’t going bankrupt, I will think of my magic words and how glad I am to not have to give a shit about it.
-(Don’t give them your fucking coins!!!)
+W międzyczasie będę kumulował mocniej, aż zrozumiesz, że Bitcoin to jedyna droga wyjścia.
+A podczas gdy będziesz machał dowodem przed kamerą, czekając, aż jakiś dziwak pozwoli ci kupić Bitcoin, ja po prostu kliknę przycisk i zacznę kupować (tak, kyc to nielegalna działalność, głupcze!).
+A kiedy już to ogarniesz i będziesz miał nadzieję, że giełda, na której masz Bitcoina, nie zbankrutuje, pomyślę o moich magicznych słowach i jak bardzo się cieszę, że nie muszę się tym przejmować.
+(Nie dawaj im swoich cholernych monet!!!)
 
-The government will fuck you. Buy Bitcoin.
-The banks will fuck you. Buy Bitcoin.
-They will regulate your life to shits. Buy Bitcoin.
+Rząd cię pieprzy. Kup Bitcoin.
+Banki cię pieprzą. Kup Bitcoin.
+Będą regulować twoje życie na śmierć. Kup Bitcoin.
 
-They will pretend to join Bitcoin and ask you for your data, for your keys and your moms birth name. They don’t give a fuck. But neither does the honey badger. The honey badger will build the tools that will make them obsolete and while you’re sitting there with a finger up your ass trying to figure out what to do with this crazy rant on the internet I will simply….
+Będą udawać, że dołączają do Bitcoina i prosić cię o twoje dane, o twoje klucze i o imię panieńskie twojej mamy. Nic ich to nie obchodzi. Ale tak samo nie obchodzi to honey badgera. Honey badger stworzy narzędzia, które uczynią ich zbędnymi, a podczas gdy ty będziesz siedział z palcem w dupie, próbując wymyślić, co zrobić z tym szalonym rantem w internecie, ja po prostu…
 
-Buy Bitcoin.
+Kupuję Bitcoin.
 
-Yours truly,
+Z wyrazami szacunku,
 Mr. Dot

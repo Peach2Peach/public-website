@@ -12,173 +12,144 @@ helpFooter: true
 
 # Peach x Meetups
 
-We're adding a lot of meetups where users can trade cash securely using Peach all around Europe (and expanding to
-the rest of the world in a near future). We're asking you (meetup organizers) to help users out in case of any problems, and to
-tweet some nice pics of the process. As thanks, we'll give you EXPOSURE, nice merch and a part of the revenue of the trading volume that
-happens on your meetup. Full details below 👇
+Wir fügen eine Menge Meetups hinzu, bei denen Benutzer in ganz Europa sicher mit Bargeld über Peach handeln können (und bald auch in anderen Teilen der Welt). Wir bitten euch (Meetup-Organisatoren), den Benutzern bei Problemen zu helfen und ein paar schöne Bilder des Prozesses zu twittern. Als Dankeschön bieten wir euch EXPOSURE, schönes Merch und einen Teil des Umsatzes des Handelsvolumens, das auf eurem Meetup stattfindet. Alle Details unten 👇
 
-## Open letter to meetup organizers
+## Offener Brief an Meetup-Organisatoren
 
-Hello meetup organizers!
+Hallo Meetup-Organisatoren!
 
-First of all we want to thank you for wanting to take part in this initiative that will allow plebs to find other peers and stack sats with cash easier
-than ever. You are extremely based.
+Zuerst möchten wir euch dafür danken, dass ihr an dieser Initiative teilnehmen möchtet, die es den Plebs ermöglicht, andere Gleichgesinnte zu finden und Sats mit Bargeld einfacher als je zuvor zu stapeln. Ihr seid extrem based.
 
-In this letter, we’ll be explaining the cash feature from our app, and everything you’ll need to know to use it correctly in your meetups.
+In diesem Brief erklären wir euch die Bargeldfunktion unserer App und alles, was ihr wissen müsst, um sie korrekt auf euren Meetups zu nutzen.
 
-So, for those who still have not yet informed themselves, from version 0.2 onward, Peach will have a new available payment method: CASH.
+Für diejenigen, die sich noch nicht informiert haben: Ab Version 0.2 wird Peach eine neue Zahlungsmethode anbieten: BARGELD.
 
-However, most of the problems we’ve found so far when trading with cash are the difficulty of finding other trading peers due to your location,
-avoid doxxing yourself, and obviously, the risks involved with it.
+Die meisten Probleme, die wir bisher beim Handel mit Bargeld festgestellt haben, sind die Schwierigkeit, andere Handelspartner aufgrund eurer Lage zu finden, die Vermeidung von Doxxing und natürlich die damit verbundenen Risiken.
 
-At Peach, we try to tackle these problems in the best way we know; match-making.
-Just like Tinder but without any kind of personal information attached to your profile. Either as a buyer or a seller, from now on you’ll be able to
-publish a trade, and choose that you accept CASH as the payment method, without ever having to give any other kind of information to the other
-counterpart. Through the E2EE chat you’ll be able to communicate with the other peer and finish the trade flawlessly.
+Bei Peach versuchen wir, diese Probleme auf die beste Weise zu lösen, die wir kennen: Matchmaking.
+Ähnlich wie bei Tinder, aber ohne jegliche persönlichen Informationen in eurem Profil. Sowohl als Käufer als auch als Verkäufer könnt ihr nun ein Angebot veröffentlichen und angeben, dass ihr BARGELD als Zahlungsmethode akzeptiert, ohne jemals irgendwelche anderen Informationen an die Gegenpartei weiterzugeben. Über den E2EE-Chat könnt ihr mit dem anderen Partner kommunizieren und den Handel reibungslos abschließen.
 
-However, to solve all the problems, we need YOUR help. To provide a safe environment to realize those trades, we came up with the idea of
-providing the already existent Bitcoin meetups as the option to choose where the peers should conduct the trades. So when users choose CASH
-as the payment method in Peach, instead of saying just the city where they want to trade, they will see the meetups available in that city.
+Um jedoch alle Probleme zu lösen, benötigen wir EURE Hilfe. Um eine sichere Umgebung für diese Geschäfte zu bieten, haben wir uns überlegt, die bereits existierenden Bitcoin-Meetups als Option anzubieten, wo die Partner die Geschäfte abwickeln sollen. Wenn Benutzer BARGELD als Zahlungsmethode in Peach auswählen, sehen sie statt nur der Stadt, in der sie handeln möchten, die verfügbaren Meetups in dieser Stadt.
 
-That is when Peach does its Tinder-like magic, and matches buyers and sellers who are attending that specific meetup. Users will just need to
-choose which match they prefer, and finish the trade when they meet in person.
+Dann macht Peach seine Tinder-ähnliche Magie und bringt Käufer und Verkäufer zusammen, die an diesem speziellen Meetup teilnehmen. Die Benutzer müssen nur das gewünschte Match auswählen und den Handel abschließen, wenn sie sich persönlich treffen.
 
-Obviously, any user that doesn’t want to wait for the meetup can also publish their offer, but we don’t recommend trading with cash outside of
-safe-environments like Bitcoin meetups. This will be at their own risk as Peach will not be able to help in disputes from cash trades.
+Natürlich kann jeder Benutzer, der nicht auf das Meetup warten möchte, auch sein Angebot veröffentlichen, aber wir empfehlen nicht, außerhalb von sicheren Umgebungen wie Bitcoin-Meetups mit Bargeld zu handeln. Dies erfolgt auf eigenes Risiko, da Peach bei Streitigkeiten aus Bargeldgeschäften nicht helfen kann.
 
-To thank you for helping out & hosting us, we want to share the fees that are charged during your meetup. We believe Bitcoin meetups are some
-of the most based and grassroots events out there, which is why we want to contribute in our own way. We believe that we can help meetup
-organizers to teach newbies how to buy and sell bitcoin safely and securely, following the Bitcoin best practices such as trading p2p and self-
-custodying their coins.
+Um euch für eure Hilfe und das Hosting zu danken, möchten wir die während eures Meetups erhobenen Gebühren teilen. Wir glauben, dass Bitcoin-Meetups einige der most based und basisnahen Veranstaltungen sind, weshalb wir auf unsere Weise dazu beitragen möchten. Wir glauben, dass wir Meetup-Organisatoren helfen können, Neulingen beizubringen, wie man Bitcoin sicher und geschützt kauft und verkauft, indem sie den Bitcoin-Best-Practices wie dem P2P-Handel und der Selbstverwahrung ihrer Coins folgen.
 
-Next to that, we also want to thank you for your efforts by sending some cool exclusive Peach merch to you all. Orange t-shirts for the meetup
-organizers, and white ones for your meetup attendees.
+Darüber hinaus möchten wir euch für eure Bemühungen danken, indem wir euch alle mit coolen exklusiven Peach-Merch-Artikeln versorgen. Orange T-Shirts für die Meetup-Organisatoren und weiße für eure Meetup-Teilnehmer.
 
-We just want to ask for a little favor to you: help us with the “marketing”.
+Wir möchten euch nur um einen kleinen Gefallen bitten: Helft uns beim „Marketing“.
 
-As you know we’ve only just started Peach, we are a small team and we don’t have shitcoin VCs behind to make a TV ad with Matt Damon to
-promote our app.
+Wie ihr wisst, haben wir Peach gerade erst gestartet, wir sind ein kleines Team und wir haben keine Shitcoin-VCs hinter uns, die einen TV-Spot mit Matt Damon machen, um unsere App zu bewerben.
 
-Right now centralized exchanges have most of the bitcoin trading volume. We want to change that and make trading Bitcoin p2p the standard.
-But to achieve that we need everyone to see how easy and convenient it is trading p2p instead of KYC’ing themselves to trade on a centralized
-exchange.
+Derzeit haben zentrale Börsen den größten Teil des Bitcoin-Handelsvolumens. Wir möchten das ändern und den P2P-Bitcoin-Handel zum Standard machen. Um dies zu erreichen, muss jeder sehen, wie einfach und bequem es ist, P2P zu handeln, anstatt sich für den Handel an einer zentralen Börse zu KYC'en.
 
-That’s why we want to ask if you could take some pictures/videos of the trades carried on during your meetups and share them in your own
-twitter accounts, to promote this way of buying, instead of promoting the actual surveillance services.
+Deshalb möchten wir euch bitten, einige Bilder/Videos von den während eurer Meetups durchgeführten Trades zu machen und sie in euren eigenen Twitter-Konten zu teilen, um diese Art des Kaufs zu fördern, anstatt die tatsächlichen Überwachungsdienste zu bewerben.
 
-Make sure to avoid faces and sensitive information, just some phones and cash trades being carried out, as in this [tweet from the Amsterdam
-Conference](https://twitter.com/peachbitcoin/status/1580501011487072256).
+Vermeidet dabei Gesichter und sensible Informationen, nur einige Telefone und Bargeld-Trades, wie in diesem [Tweet von der Amsterdam Conference](https://twitter.com/peachbitcoin/status/1580501011487072256).
 
-As a reward for using our app to trade with cash, the idea is to give away the t-shirts to the first people who complete and tweet about their cash
-trades (actually you can give the t-shirts to whoever you want, but incentivizing people to do cash trades to win a t-shirt we thought it could be a
-cool thing for users).
-If you can help us in that aspect, we’ll be forever grateful.
+Als Belohnung für die Nutzung unserer App für den Bargeldhandel ist die Idee, die T-Shirts an die ersten Personen zu verschenken, die über ihre Bargeld-Trades twittern (eigentlich könnt ihr die T-Shirts an wen ihr wollt geben, aber wir dachten, es könnte eine coole Sache für die Benutzer sein, Bargeld-Trades durchzuführen, um ein T-Shirt zu gewinnen).
+Wenn ihr uns in diesem Aspekt helfen könntet, wären wir euch für immer dankbar.
 
-Finally, if you have any doubts, we’ve attached some FAQs about cash trading down below (they will also be available on our website), and a
-little tutorial on the steps to add a new meetup to your payment methods inside the app.
+Schließlich, falls ihr Zweifel habt, haben wir unten einige FAQs zum Bargeldhandel beigefügt (sie werden auch auf unserer Website verfügbar sein) und ein kleines Tutorial zu den Schritten, wie ihr ein neues Meetup zu euren Zahlungsmethoden in der App hinzufügt.
 
-The Peach Team.
+Das Peach-Team.
 
 ## Details
 
-### What is it about?
+### Worum geht es?
 
-Peach cash trades are intended to make trading bitcoin for cash easier for both the buyer and the seller.
-So far buying bitcoin for cash has not been easy, due to the trust that is involved in a trade with cash and the difficulty of finding other trading
-peers easily and securely.
+Peach-Bargeldgeschäfte sollen den Handel von Bitcoin gegen Bargeld für Käufer und Verkäufer erleichtern.
+Bisher war der Kauf von Bitcoin gegen Bargeld nicht einfach, aufgrund des Vertrauens, das in einem Bargeldgeschäft involviert ist, und der Schwierigkeit, andere Handelspartner einfach und sicher zu finden.
 
-Peach cash trades allow anyone to publish an offer in the Peach app, and trade their bitcoin securely in a p2p way. When using digital payment
-methods (like bank transfers, neobanks, gift cards…) the buyers can provide the proof that they’ve made the payment just with an electronic
-receipt, but that’s not possible with cash. A 5$ wrench attack is always a possibility.
+Peach-Bargeldgeschäfte ermöglichen es jedem, ein Angebot in der Peach-App zu veröffentlichen und seine Bitcoin sicher auf P2P-Weise zu handeln. Bei der Verwendung digitaler Zahlungsmethoden (wie Banküberweisungen, Neobanken, Geschenkkarten…) können die Käufer den Nachweis erbringen, dass sie die Zahlung nur mit einer elektronischen Quittung getätigt haben, aber das ist bei Bargeld nicht möglich. Ein $5-Schraubenschlüssel-Angriff ist immer eine Möglichkeit.
 
-That’s why we are constantly getting in touch with the meetups from all around the world to enable safe and secure places for users to buy
-Bitcoin with cash.
-Since we cannot check if a cash trade actually happened, we only recommend using the cash feature on the meetup itself, which provides a safe
-environment.
+Deshalb sind wir ständig in Kontakt mit den Meetups auf der ganzen Welt, um sichere und geschützte Orte für Benutzer zu schaffen, um Bitcoin mit Bargeld zu kaufen.
+Da wir nicht überprüfen können, ob ein Bargeldhandel tatsächlich stattgefunden hat, empfehlen wir die Nutzung der Bargeldfunktion nur auf dem Meetup selbst, das eine sichere Umgebung bietet.
 
-### How does it work?
+### Wie funktioniert es?
 
-When publishing an offer in Peach, users can choose which payment method they prefer for that specific trade. When choosing the cash option,
-users will need to also choose during which meetup they want to trade their bitcoin for cash, and our app will filter the results automatically.
-The rest of the trade flow is exactly the same as with any other kind of trade in Peach.
+Beim Veröffentlichen eines Angebots in Peach können Benutzer wählen, welche Zahlungsmethode sie für diesen speziellen Handel bevorzugen. Bei der Auswahl der Bargeldoption müssen die Benutzer auch wählen, während welches Meetups sie ihre Bitcoin gegen Bargeld handeln möchten, und unsere App filtert die Ergebnisse automatisch.
+Der Rest des Handelsablaufs ist genau derselbe wie bei jedem anderen Handel in Peach.
 
-### What are the advantages of Peach cash trades?
+### Was sind die Vorteile von Peach-Bargeldgeschäften?
 
-Peach cash trades have many advantages:
+Peach-Bargeldgeschäfte haben viele Vorteile:
 
-1. The trade is secured by our escrow
-2. There is no risk of RBF
-3. No (Telegram) username doxxing
-4. Offer is published in advance, so you can find the premium that you’re willing to pay without haggling
-5. The meetup provides a secure location, reducing the odds of a $5 wrench attack
+1. Der Handel wird durch unser Treuhandsystem gesichert.
+2. Es besteht kein Risiko eines RBF (Replace-by-Fee) Angriffs.
+3. Kein Doxxing des (Telegram-)Benutzernamens.
+4. Das Angebot wird im Voraus veröffentlicht, sodass ihr die Prämie finden könnt, die ihr bereit seid zu zahlen, ohne zu feilschen.
+5. Das Meetup bietet einen sicheren Ort, wodurch die Wahrscheinlichkeit eines $5-Schraubenschlüssel-Angriffs verringert wird.
 
-### What’s in it for the meetup organizers?
+### Was haben die Meetup-Organisatoren davon?
 
-Meetup organizers play an important role in the Peach cash trade: they are the ones who will need to explain how Peach works, and will be the
-point of contact for anyone using the feature during the meetup.
+Meetup-Organisatoren spielen eine wichtige Rolle beim Peach-Bargeldhandel: Sie sind diejenigen, die erklären müssen, wie Peach funktioniert, und werden der Ansprechpartner für jeden sein, der die Funktion während des Meetups nutzt.
 
-To thank & compensate the organizers for this, we give back three things:
+Um den Organisatoren zu danken und sie zu entschädigen, geben wir drei Dinge zurück:
 
-1. Revenue of the volume traded. Important note: we will give back only to the meetup organizers that can be subject to receive donations. Some meetups, due to their status or organization, will not be able receive it.
-2. Peach merch
-3. Visibility for the meetup on the Peach app & website
+1. Umsatz des gehandelten Volumens. Wichtiger Hinweis: Wir geben nur an die Meetup-Organisatoren zurück, die Spenden erhalten können. Einige Meetups können aufgrund ihres Status oder ihrer Organisation keine Spenden erhalten.
+2. Peach-Merch
+3. Sichtbarkeit des Meetups in der Peach-App und auf der Website
 
-### What do users gain when trading with Peach cash feature in the meetups?
+### Was gewinnen die Benutzer, wenn sie die Peach-Bargeldfunktion auf den Meetups nutzen?
 
-Apart from everything explained above about security, the first users to complete cash trades with Peach and present a #ProofOfPeach on
-Bitcoin Twitter will receive directly some of the cool merch that we’ve sent to the meetup organizers.
+Abgesehen von allem oben Erklärten zur Sicherheit erhalten die ersten Benutzer, die Bargeldgeschäfte mit Peach abschließen und einen #ProofOfPeach auf Bitcoin Twitter präsentieren, direkt einige der coolen Merch-Artikel, die wir an die Meetup-Organisatoren gesendet haben.
 
-That, and of course the amazing feeling of acquiring p2p bitcorn in the easiest possible way, and finding other trusted bitcoiners to trade with!
+Das, und natürlich das erstaunliche Gefühl, auf die einfachste Weise P2P-Bitcorn zu erwerben und andere vertrauenswürdige Bitcoiner zu finden, mit denen man handeln kann!
 
-Tutorial: How to BUY or SELL bitcoin with cash on Peach
-Disclaimer: The process to add a new meetup as a payment method is the same for both buyer and seller. Once the meetup is added, both counterparts need to follow the usual Peach process to publish their trade and find a trading partner.
+Tutorial: Wie man Bitcoin mit Bargeld auf Peach KAUFT oder VERKAUFT
+Haftungsausschluss: Der Prozess zum Hinzufügen eines neuen Meetups als Zahlungsmethode ist für Käufer und Verkäufer gleich. Sobald das Meetup hinzugefügt wurde, müssen beide Parteien den üblichen Peach-Prozess befolgen, um ihr Geschäft zu veröffentlichen und einen Handelspartner zu finden.
 
-When a user wants to buy Bitcoin with cash on Peach, he’ll need to follow this steps to publish an offer and find a match:
+Wenn ein Benutzer Bitcoin mit Bargeld auf Peach kaufen möchte, muss er folgende Schritte befolgen, um ein Angebot zu veröffentlichen und ein Match zu finden:
 
-1. When in the BUY or SELL tab, the user will need to choose between remote / meetups payment method. In this case, when we tap on meetups, we’ll see we can “add a new meetup”.
-2. Once we’ve clicked on “add new meetup”, a full list of the available Countries will appear on the app. Choose your desired country, and then you’ll see the full list of meetups available in that country.
-3. Once the meetup has been chosen, you’ll see a full screen with all the available information about it. There you’ll be able to “add this meetup” to your payment methods list.
-4. After adding it, you’ll see a notification warning you to trade responsibly with cash, as Peach cannot be the responsible in case something goes wrong with those trades.
-5. After accepting it, you’ll have added successfully the meetup into your payment methods list, and you’ll be able to proceed with publishing the buy/sell offer as you’d normally do with any other payment method in Peach.
+1. Im KAUFEN- oder VERKAUFEN-Tab muss der Benutzer zwischen Remote- / Meetup-Zahlungsmethode wählen. In diesem Fall sehen wir, wenn wir auf
 
-Once you click on Next, and the offer is published, you’ll be able to match with other peers who have published buy or sell offers in the same meetup.
+ Meetups tippen, dass wir „neues Meetup hinzufügen“ können.
+2. Nachdem wir auf „neues Meetup hinzufügen“ geklickt haben, wird in der App eine vollständige Liste der verfügbaren Länder angezeigt. Wählt das gewünschte Land aus, und dann seht ihr die vollständige Liste der verfügbaren Meetups in diesem Land.
+3. Sobald das Meetup ausgewählt wurde, seht ihr einen Vollbildschirm mit allen verfügbaren Informationen darüber. Dort könnt ihr „dieses Meetup hinzufügen“ zu eurer Zahlungsmethodenliste.
+4. Nach dem Hinzufügen seht ihr eine Benachrichtigung, die euch warnt, verantwortungsbewusst mit Bargeld zu handeln, da Peach nicht verantwortlich sein kann, falls etwas schief geht.
+5. Nach der Annahme habt ihr das Meetup erfolgreich zu euren Zahlungsmethoden hinzugefügt und könnt mit der Veröffentlichung des Kauf-/Verkaufsangebots fortfahren, wie ihr es normalerweise mit jeder anderen Zahlungsmethode in Peach tun würdet.
 
-That’s all you need to know to publish your cash trade in Peach!
+Sobald ihr auf Weiter klickt und das Angebot veröffentlicht ist, könnt ihr mit anderen Partnern matchen, die Kauf- oder Verkaufsangebote im selben Meetup veröffentlicht haben.
+
+Das ist alles, was ihr wissen müsst, um euren Bargeldhandel in Peach zu veröffentlichen!
 
 ---
 
-## Final Notes
+## Abschließende Anmerkungen
 
-If you want to know more about Peach features, or read some of our other articles, you can find them here!
+Wenn ihr mehr über Peach-Funktionen erfahren oder einige unserer anderen Artikel lesen möchtet, findet ihr sie hier!
 
-[How to Recover Bitcoin Wallets Using a Seed Phrase](https://peachbitcoin.com/de/blog/how-to-restore-peach-wallet/)
+[Wie man Bitcoin Wallets mit einer Seed-Phrase wiederherstellt](https://peachbitcoin.com/de/blog/how-to-restore-peach-wallet/)
 
-[How to Fund Multiple Sell Offers](https://peachbitcoin.com/de/blog/funding-multiple-sell-offers/)
+[Wie man mehrere Verkaufsangebote finanziert](https://peachbitcoin.com/de/blog/funding-multiple-sell-offers/)
 
-[How to buy and sell Bitcoin with cash using Peach](https://peachbitcoin.com/de/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/)
+[Wie man Bitcoin mit Bargeld kauft und verkauft, indem man Peach verwendet](https://peachbitcoin.com/de/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/)
 
-[How to add a new payment method on the Peach app](https://peachbitcoin.com/de/blog/how-to-add-a-payment-method/)
+[Wie man eine neue Zahlungsmethode in der Peach-App hinzufügt](https://peachbitcoin.com/de/blog/how-to-add-a-payment-method/)
 
-[Peach expands to the Global South!](https://peachbitcoin.com/de/blog/peach-expands-to-the-global-south/)
+[Peach expandiert in den globalen Süden!](https://peachbitcoin.com/de/blog/peach-expands-to-the-global-south/)
 
-[Making our Peach-API Public](https://peachbitcoin.com/de/blog/making-our-peach-api-public/)
+[Unsere Peach-API öffentlich machen](https://peachbitcoin.com/de/blog/making-our-peach-api-public/)
 
-[Full Wallet Functionality](https://peachbitcoin.com/de/blog/full-wallet-functionality/)
+[Vollständige Wallet-Funktionalität](https://peachbitcoin.com/de/blog/full-wallet-functionality/)
 
-[What is GroupHug?](https://peachbitcoin.com/de/blog/group-hug/)
+[Was ist GroupHug?](https://peachbitcoin.com/de/blog/group-hug/)
 
-[Why P2P series? Chapter 1](https://peachbitcoin.com/de/blog/why-p2p-chapter-1/)
+[Warum P2P-Serie? Kapitel 1](https://peachbitcoin.com/de/blog/why-p2p-chapter-1/)
 
-[Why P2P series? Chapter 2](https://peachbitcoin.com/de/blog/why-p2p-chapter-2/)
+[Warum P2P-Serie? Kapitel 2](https://peachbitcoin.com/de/blog/why-p2p-chapter-2/)
 
-[Why P2P series? Chapter 3](https://peachbitcoin.com/de/blog/why-p2p-chapter-3-circular-economies/)
+[Warum P2P-Serie? Kapitel 3](https://peachbitcoin.com/de/blog/why-p2p-chapter-3-circular-economies/)
 
-[Why P2P series? Chapter 4](https://peachbitcoin.com/de/blog/why-p2p-chapter-4-chains-of-trust/)
+[Warum P2P-Serie? Kapitel 4](https://peachbitcoin.com/de/blog/why-p2p-chapter-4-chains-of-trust/)
 
 [Peach x meetups](https://peachbitcoin.com/de/blog/peach-for-meetups/)
 
-If you want to know more about us, check out or socials, or simply [contact us](mailto:hello@peachbitcoin.com) (use our [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2) if possible) we'll be happy to hear from you!
+Wenn ihr mehr über uns erfahren möchtet, schaut euch unsere sozialen Medien an oder kontaktiert uns einfach [hier](mailto:hello@peachbitcoin.com) (verwendet nach Möglichkeit unseren [PGP-Schlüssel](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2)), wir freuen uns von euch zu hören!
 
 [Telegram](https://t.me/peachtopeach), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
-Keep spreading the Peach word, who knows when you'll find the match of your life!
+Verbreitet das Peach-Wort weiter, wer weiß, wann ihr das Match eures Lebens findet!
