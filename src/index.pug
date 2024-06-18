@@ -17,7 +17,7 @@ block teaser
         const supportedLocales = ['en', 'es', 'de', 'it', 'fr']; // Adjust this list based on your supported locales
         let pathLocale = userLocale.split('-')[0]; // Extract the primary language code
 
-        // Redirect to the appropriate language version
+        // Redirect to the appropriate language versionn
         if (!supportedLocales.includes(pathLocale)) {
           pathLocale = 'en'; // Default to English if the locale isn't supported
         }
