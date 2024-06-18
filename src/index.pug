@@ -10,13 +10,25 @@ block teaser
 
     section.teaser-badge
       img(src='/img/home/bitcoin-logo.png', alt='Bitcoin')
-block main
 
-  <link rel="stylesheet" href="https://ap-widget.s3.amazonaws.com/css/glider.min.css" />
-  <link rel="stylesheet" href="https://ap-widget.s3.amazonaws.com/css/widget.min.css" />
-  <script type="text/javascript" src="https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
-  <script type="text/javascript" src="https://ap-widget.s3.amazonaws.com/glider.min.js"></script>
-  <script type="text/javascript" src="https://ap-widget.s3.amazonaws.com/widget.min.js" async></script>
+    script.
+      document.addEventListener('DOMContentLoaded', function() {
+        let userLocale = navigator.language || navigator.userLanguage;
+        const supportedLocales = ['es', 'de', 'it', 'fr', 'el', 'hu', 'nl', 'pl', 'pt', 'sw', 'uk'];
+        let pathLocale = userLocale.split('-')[0];
+
+        let currentPath = window.location.pathname;
+        if (currentPath === '/' && supportedLocales.includes(pathLocale)) {
+          window.location.pathname = '/' + pathLocale;
+        }
+      })
+
+block main
+  link(rel="stylesheet" href="https://ap-widget.s3.amazonaws.com/css/glider.min.css")
+  link(rel="stylesheet" href="https://ap-widget.s3.amazonaws.com/css/widget.min.css")
+  script(type="text/javascript" src="https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async)
+  script(type="text/javascript" src="https://ap-widget.s3.amazonaws.com/glider.min.js")
+  script(type="text/javascript" src="https://ap-widget.s3.amazonaws.com/widget.min.js" async)
 
   section#top.wrap
     .content-wrap.content-wrap--centered
@@ -52,4 +64,3 @@ block main
   section#bottom.wrap
     .content-wrap.content-wrap--centered
       != html.about
-
