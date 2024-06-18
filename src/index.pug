@@ -14,16 +14,12 @@ block teaser
     script.
       document.addEventListener('DOMContentLoaded', function() {
         let userLocale = navigator.language || navigator.userLanguage;
-        const supportedLocales = ['en', 'es', 'de', 'it', 'fr', 'el', 'hu', 'nl', 'pl', 'pt', 'sw', 'uk']; // Adjust this list based on your supported locales
-        let pathLocale = userLocale.split('-')[0]; // Extract the primary language code
+        const supportedLocales = ['es', 'de', 'it', 'fr', 'el', 'hu', 'nl', 'pl', 'pt', 'sw', 'uk'];
+        let pathLocale = userLocale.split('-')[0];
 
-        // Redirect to the appropriate language version 
-        if (!supportedLocales.includes(pathLocale)) {
-          pathLocale = 'en'; // Default to English if the locale isn't supported
-        }
         let currentPath = window.location.pathname;
-        if (currentPath === '/' || !currentPath.includes(pathLocale)) {
-          window.location.pathname = '/' + pathLocale + currentPath;
+        if (currentPath === '/' && supportedLocales.includes(pathLocale)) {
+          window.location.pathname = '/' + pathLocale;
         }
       })
 
