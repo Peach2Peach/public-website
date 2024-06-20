@@ -832,5 +832,17 @@
     "url": "https://t.me/OesteBitcoinMeetUp",
     "longitude": -8.224454,
     "latitude": 39.399872
+  },
+  {
+    "name": "Bitcoin Martigny",
+    "url": "https://t.me/bitcoinmartigny",
+    "longitude": 7.0729,
+    "latitude": 46.1039
+  },
+  {
+    "name": "The Satoshi Society",
+    "url": "https://x.com/SatsSociety",
+    "longitude": -1.3917,
+    "latitude": 50.8974
   }
 ]
