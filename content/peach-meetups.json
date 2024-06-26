@@ -844,5 +844,11 @@
     "url": "https://x.com/SatsSociety",
     "longitude": -1.3917,
     "latitude": 50.8974
+  },
+  {
+    "name": "Bitcoin Tolosa",
+    "url": "https://www.meetup.com/fr-FR/toulouse-bitcoin/",
+    "longitude":  1.4485,
+    "latitude": 43.6116
   }
 ]
