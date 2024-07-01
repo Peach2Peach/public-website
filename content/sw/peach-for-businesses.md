@@ -1,40 +1,46 @@
-# Peach kwa Biashara
 
-## Zidisha mapato yako na Peach
+# Peach Bitcoin för Säljare och Handlare med Hög Volym
 
-Peach Business inatoa fursa kwa makampuni na wataalamu wa kiasi kikubwa kuongeza faida zao kwa kuingia kwenye soko na **riba kubwa** kuliko kubadilishana za kawaida.
+## Maximera dina intäkter med Peach
 
-Tunatoa faida kwa **Market-Makers**, **biashara za Bitcoin asilia**, na **wachuuzi wa kiasi kikubwa**.
+Peach Business erbjuder företag och yrkesverksamma med hög volym möjligheten att maximera sina vinster genom att komma åt en marknad med **högre premier** än traditionella börser.
 
-Baadhi ya faida unazoweza kunufaika nazo kwa kutumia huduma zinazotolewa na Peach Business zimeelezewa hapa chini.
+Vi erbjuder fördelar för **marknadsgaranter**, **bitcoin-infödda företag** och **handlare med hög volym**.
 
-## Faida kwa wataalam
+Några av de fördelar du kan njuta av genom att använda de tjänster som tillhandahålls av Peach Business beskrivs nedan.
 
 ::::figures 3
 :::box tech-peach
 
-### Likiditi kubwa inapatikana
+### Hög likviditet tillgänglig
 
-Zaidi ya matoleo ya kununua wazi saa 24 kwa siku
+Mer än 900 öppna köperbjudanden dygnet runt
 :::
 
 :::box tech-peach
 
-### Wakala aliyetengwa kwa ajili yako
+### Dedikerad agent för dig
 
-Msaada wa kujitolea 1 kwa 1 saa 24/7
+1 till 1 dedikerad support 24/7
 :::
 
 :::box tech-peach
 
-### Programu ya Washirika
+### Affiliateprogram
 
-Leta watumiaji zaidi na ongeza mapato yako na nambari maalum ya kurejelea
+Ta in fler användare och öka dina intäkter med en anpassad referenskod
+:::
+
+:::box tech-peach
+
+### Offentligt API tillgängligt
+
+Integrera Peach direkt i dina system med vårt användarvänliga offentliga [API](https://docs.peachbitcoin.com/#introduction)
 :::
 ::::
 
-Ikiwa unataka kujua zaidi kuhusu Peach Business, na jinsi ya kuipanua ili kuboresha faida za kampuni yako, wasiliana nasi.
+Om du är intresserad av att veta mer om Peach Business och hur du kan utnyttja det för att maximera ditt företags vinster, kontakta oss.
 
 :::buttons
-[Wasiliana nasi](mailto:$contactEmail$)
+[Kontakta oss](mailto:$contactEmail$)
 :::

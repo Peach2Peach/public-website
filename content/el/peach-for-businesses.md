@@ -1,40 +1,46 @@
-# Peach für Unternehmen
 
-## Maximiere deinen Ihren Umsatz mit Peach
+# Peach Bitcoin για Πωλητές και Εμπόρους Υψηλού Όγκου
 
-Peach Business bietet Unternehmen und Profis mit hohem Handelsvolumen die Möglichkeit, ihre Gewinne zu maximieren, indem sie in einen Markt mit **höheren Prämien** als herkömmliche Börsen eintauchen.
+## Μεγιστοποιήστε τα έσοδά σας με το Peach
 
-Wir bieten Vorteile für **Market-Maker**, **Bitcoin-native Unternehmen** und **Hochvolumen-Händler**.
+Το Peach Business προσφέρει στις εταιρείες και τους επαγγελματίες υψηλού όγκου την ευκαιρία να μεγιστοποιήσουν τα κέρδη τους εκμεταλλευόμενοι μια αγορά με **υψηλότερα ασφάλιστρα** από τα παραδοσιακά χρηματιστήρια.
 
-Einige der Vorteile, die du durch die Nutzung der von Peach Business bereitgestellten Dienste genießen kannst, sind nachstehend aufgeführt.
+Προσφέρουμε προνόμια για **διαμορφωτές αγοράς**, **επιχειρήσεις που χρησιμοποιούν αποκλειστικά bitcoin** και **εμπόρους υψηλού όγκου**.
 
-## Vorteile für Profis
+Μερικά από τα οφέλη που μπορείτε να απολαύσετε χρησιμοποιώντας τις υπηρεσίες που παρέχει το Peach Business αναφέρονται παρακάτω.
 
 ::::figures 3
 :::box tech-peach
 
-### Hohe Liquidität verfügbar
+### Υψηλή ρευστότητα διαθέσιμη
 
-Mehr als 900 offene Kaufangebote rund um die Uhr
+Περισσότερες από 900 ανοικτές προσφορές αγοράς 24 ώρες την ημέρα
 :::
 
 :::box tech-peach
 
-### Persönlicher Ansprechpartner für dich
+### Αφιερωμένος πράκτορας για εσάς
 
-1-zu-1 dedizierte Unterstützung rund um die Uhr
+Ειδική υποστήριξη 1 προς 1, 24/7
 :::
 
 :::box tech-peach
 
-### Partnerprogramm
+### Πρόγραμμα Συνεργατών
 
-Gewinne mehr Benutzer und steiger deinen Umsatz mit einem individuellen Empfehlungscode
+Φέρτε περισσότερους χρήστες και αυξήστε τα έσοδά σας με έναν προσαρμοσμένο κωδικό παραπομπής
+:::
+
+:::box tech-peach
+
+### Διαθέσιμο Δημόσιο API
+
+Ενσωματώστε το Peach απευθείας στα συστήματά σας με το εύχρηστο δημόσιο [API](https://docs.peachbitcoin.com/#introduction) μας
 :::
 ::::
 
-Wenn du mehr über Peach Business erfahren und wie du es nutzen kannst, um die Gewinne deinen Unternehmens zu maximieren, nimm Kontakt mit uns auf.
+Εάν ενδιαφέρεστε να μάθετε περισσότερα για το Peach Business και πώς να το αξιοποιήσετε για να μεγιστοποιήσετε τα κέρδη της εταιρείας σας, επικοινωνήστε μαζί μας.
 
 :::buttons
-[Kontakt aufnehmen](mailto:$contactEmail$)
+[Επικοινωνήστε μαζί μας](mailto:$contactEmail$)
 :::

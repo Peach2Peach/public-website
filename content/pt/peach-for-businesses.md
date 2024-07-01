@@ -1,40 +1,46 @@
-# Peach para Profissionais
 
-## Maximiza os teus lucros com o Peach
+# Peach Bitcoin para Vendedores e Comerciantes de Alto Volume
 
-A Peach Business oferece a oportunidade para empresas e profissionais que movimentam grandes volumes de Bitcoin maximizarem os seus lucros ao entrar num mercado com **prémios mais elevados** do que as bolsas de câmbio tradicionais.
+## Maximize sua receita com Peach
 
-Oferecemos benefícios para **criadores de mercado**, **negócios nativos de Bitcoin** e **profissionais financeiros com grandes volumes**.
+Peach Business oferece às empresas e profissionais de alto volume a oportunidade de maximizar seus lucros ao acessar um mercado com **prêmios mais altos** do que as bolsas tradicionais.
 
-Aqui estão alguns dos benefícios que podes desfrutar ao utilizar os serviços oferecidos pela Peach Business.
+Oferecemos benefícios para **criadores de mercado**, **empresas nativas de bitcoin** e **comerciantes de alto volume**.
 
-## Benefícios para Profissionais
+Alguns dos benefícios que você pode aproveitar usando os serviços fornecidos pelo Peach Business estão detalhados abaixo.
 
 ::::figures 3
 :::box tech-peach
 
-### Alta liquidez disponível
+### Alta Liquidez disponível
 
-Más de 900 ofertas de compra abertas las 24 horas del día.
+Mais de 900 ofertas de compra abertas 24 horas por dia
 :::
 
 :::box tech-peach
 
-### Agente dedicado para ti
+### Agente Dedicado para você
 
-Soporte dedicado 1 a 1 las 24 horas, los 7 días de la semana.
+Suporte dedicado 1 a 1, 24/7
 :::
 
 :::box tech-peach
 
-### Programa de afiliados
+### Programa de Afiliados
 
-Atrae a mais utilizadores e aumenta os teus rendimentos com um código de referido personalizado.
+Traga mais usuários e aumente sua receita com um código de referência personalizado
+:::
+
+:::box tech-peach
+
+### API pública disponível
+
+Integre o Peach diretamente em seus sistemas com nossa [API](https://docs.peachbitcoin.com/#introduction) pública e fácil de usar
 :::
 ::::
 
-Se estás interessado em conhecer mais sobre a Peach Business e como aproveitá-la para maximizar os lucros da tua empresa, entra em contacto connosco.
+Se você está interessado em saber mais sobre o Peach Business e como aproveitá-lo para maximizar os lucros da sua empresa, entre em contato conosco.
 
 :::buttons
-[Ponte em contacto](mailto:$contactEmail$)
+[Entre em contato](mailto:$contactEmail$)
 :::
