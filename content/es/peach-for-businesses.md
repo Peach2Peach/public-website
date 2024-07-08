@@ -1,39 +1,45 @@
-# Peach para Profesionales
 
-## Maximiza tus ganancias con Peach
+# Peach Bitcoin para Vendedores y Comerciantes de Alto Volumen
 
-Peach Business ofrece la oportunidad a las empresas y a los profesionales que mueven altos volúmenes en Bitcoin de maximizar sus ganancias al poder entrar a un mercado con **primas más altas** que los exchanges tradicionales.
+## Maximiza tus ingresos con Peach
 
-Ofrecemos beneficios para **market makers**, **negocios nativos de Bitcoin** y **profesionales financieros con altos volúmenes**.
+Peach Business ofrece a las empresas y a los profesionales de alto volumen la oportunidad de maximizar sus ganancias al acceder a un mercado con **primas más altas** que las bolsas tradicionales.
+
+Ofrecemos beneficios para **creadores de mercado**, **negocios nativos de bitcoin** y **comerciantes de alto volumen**.
 
 Algunos de los beneficios que puedes disfrutar al utilizar los servicios proporcionados por Peach Business se detallan a continuación.
-
-## Beneficios para profesionales
 
 ::::figures 3
 :::box tech-peach
 
 ### Alta liquidez disponible
 
-Más de 900 ofertas de compra abiertas las 24 horas del día.
+Más de 900 ofertas de compra abiertas las 24 horas del día
 :::
 
 :::box tech-peach
 
 ### Agente dedicado para ti
 
-Soporte dedicado 1 a 1 las 24 horas, los 7 días de la semana.
+Soporte dedicado 1 a 1, 24/7
 :::
 
 :::box tech-peach
 
-### Programa de afiliados
+### Programa de Afiliados
 
-Atrae a más usuarios y aumenta tus ingresos con un código de referido personalizado.
+Trae más usuarios y aumenta tus ingresos con un código de referencia personalizado
+:::
+
+:::box tech-peach
+
+### API pública disponible
+
+Integra Peach directamente en tus sistemas con nuestra [API](https://docs.peachbitcoin.com/#introduction) pública y fácil de usar
 :::
 ::::
 
-Si estás interesado en conocer más sobre Peach Business y cómo aprovecharlo para maximizar las ganancias de tu empresa, ponte en contacto con nosotros.
+Si estás interesado en saber más sobre Peach Business y cómo aprovecharlo para maximizar las ganancias de tu empresa, ponte en contacto con nosotros.
 
 :::buttons
 [Ponte en contacto](mailto:$contactEmail$)

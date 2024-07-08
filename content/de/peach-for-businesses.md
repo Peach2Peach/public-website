@@ -1,40 +1,46 @@
-# Peach für Unternehmen
 
-## Maximiere deinen Umsatz mit Peach
+# Peach Bitcoin für Verkäufer und Händler mit hohem Volumen
 
-Peach Business bietet Unternehmen und Profis mit hohem Handelsvolumen die Möglichkeit, ihre Gewinne zu maximieren, indem sie in einen Markt mit **höheren Prämien** als herkömmliche Börsen eintauchen.
+## Maximieren Sie Ihre Einnahmen mit Peach
 
-Wir bieten Vorteile für **Market-Maker**, **Bitcoin-native Unternehmen** und **Hochvolumen-Händler**.
+Peach Business bietet Unternehmen und Fachleuten mit hohem Volumen die Möglichkeit, ihre Gewinne zu maximieren, indem sie einen Markt mit **höheren Prämien** als herkömmliche Börsen nutzen.
 
-Einige der Vorteile, die du durch die Nutzung der von Peach Business bereitgestellten Dienste genießen kannst, sind nachstehend aufgeführt.
+Wir bieten Vorteile für **Market-Maker**, **Bitcoin-native Unternehmen** und **Händler mit hohem Volumen**.
 
-## Vorteile für Profis
+Einige der Vorteile, die Sie durch die Nutzung der von Peach Business bereitgestellten Dienste genießen können, sind unten aufgeführt.
 
 ::::figures 3
 :::box tech-peach
 
 ### Hohe Liquidität verfügbar
 
-Mehr als 900 offene Kaufangebote rund um die Uhr
+Mehr als 900 offene Kaufangebote 24 Stunden am Tag
 :::
 
 :::box tech-peach
 
-### Persönlicher Ansprechpartner für dich
+### Dedizierter Agent für Sie
 
-1-zu-1 dedizierte Unterstützung rund um die Uhr
+1 zu 1 dedizierter Support rund um die Uhr
 :::
 
 :::box tech-peach
 
 ### Partnerprogramm
 
-Gewinne mehr Benutzer und steiger deinen Umsatz mit einem individuellen Empfehlungscode
+Bringen Sie mehr Nutzer und erhöhen Sie Ihre Einnahmen mit einem benutzerdefinierten Empfehlungs-Code
+:::
+
+:::box tech-peach
+
+### Öffentliche API verfügbar
+
+Integrieren Sie Peach direkt in Ihre Systeme mit unserer benutzerfreundlichen öffentlichen [API](https://docs.peachbitcoin.com/#introduction)
 :::
 ::::
 
-Wenn du mehr über Peach Business erfahren und wie du es nutzen kannst, um die Gewinne deinen Unternehmens zu maximieren, nimm Kontakt mit uns auf.
+Wenn Sie mehr über Peach Business erfahren möchten und wie Sie es nutzen können, um die Gewinne Ihres Unternehmens zu maximieren, kontaktieren Sie uns.
 
 :::buttons
-[Kontakt aufnehmen](mailto:$contactEmail$)
+[Kontaktieren Sie uns](mailto:$contactEmail$)
 :::

@@ -1,14 +1,13 @@
-# Perzik voor Bedrijven
 
-## Maximaliseer uw omzet met Perzik
+# Peach Bitcoin voor Verkopers en Handelaren met Hoog Volume
 
-Perzik Bedrijven biedt de mogelijkheid aan bedrijven en professionals met een hoog volume om hun winst te maximaliseren door in te spelen op een markt met **hogere premies** dan traditionele beurzen.
+## Maximaliseer uw inkomsten met Peach
 
-We bieden voordelen voor **marktmakers**, **bitcoin native bedrijven**, en **traders met een hoog volume**.
+Peach Business biedt bedrijven en professionals met hoog volume de mogelijkheid om hun winsten te maximaliseren door toegang te krijgen tot een markt met **hogere premies** dan traditionele beurzen.
 
-Enkele van de voordelen die u kunt genieten door gebruik te maken van de diensten die Perzik Bedrijven biedt, worden hieronder beschreven.
+Wij bieden voordelen voor **marktmakers**, **bitcoin-native bedrijven** en **handelaren met hoog volume**.
 
-## Voordelen voor professionals
+Enkele van de voordelen die u kunt genieten door gebruik te maken van de diensten van Peach Business worden hieronder beschreven.
 
 ::::figures 3
 :::box tech-peach
@@ -20,20 +19,27 @@ Meer dan 900 open koopaanbiedingen 24 uur per dag
 
 :::box tech-peach
 
-### Toegewijde Agent voor u
+### Toegewijde agent voor u
 
-1 op 1 toegewijde ondersteuning 24/7
+1-op-1 toegewijde ondersteuning 24/7
 :::
 
 :::box tech-peach
 
 ### Partnerprogramma
 
-Breng meer gebruikers aan en verhoog uw omzet met een aangepaste verwijzingscode
+Breng meer gebruikers en verhoog uw inkomsten met een aangepaste verwijzingscode
+:::
+
+:::box tech-peach
+
+### Openbare API beschikbaar
+
+Integreer Peach rechtstreeks in uw systemen met onze gebruiksvriendelijke openbare [API](https://docs.peachbitcoin.com/#introduction)
 :::
 ::::
 
-Als u meer wilt weten over Perzik Bedrijven, en hoe u het kunt gebruiken om de winst van uw bedrijf te maximaliseren, neem dan contact met ons op.
+Als u meer wilt weten over Peach Business en hoe u het kunt benutten om de winst van uw bedrijf te maximaliseren, neem dan contact met ons op.
 
 :::buttons
 [Neem contact op](mailto:$contactEmail$)
