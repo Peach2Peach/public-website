@@ -18,14 +18,23 @@ gtag('config', 'G-TBTST1GYXK');</script></head><body class="with-teaser" id="ind
 </div>
 <h4 id="verifiable-source-code">✔ verifiable source code</h4><a class="scroll" href="#main"><svg role="img"><use href="/img/icons-ad17c876ec77063db0cdcde0b171dea8.svg#chevron-down"></use></svg></a><section class="teaser-badge"><img src="/img/home/bitcoin-logo.png" alt="Bitcoin"/></section><script>document.addEventListener('DOMContentLoaded', function() {
   let userLocale = navigator.language || navigator.userLanguage;
-  const supportedLocales = ['es', 'de', 'it', 'fr', 'el', 'hu', 'nl', 'pl', 'pt', 'sw', 'uk'];
+  const supportedLocales = ['es', 'de', 'it', 'fr', 'el', 'hu', 'nl', 'pl', 'pt', 'sw', 'uk',];
   let pathLocale = userLocale.split('-')[0];
 
   let currentPath = window.location.pathname;
-  if (currentPath === '/' && supportedLocales.includes(pathLocale)) {
-    window.location.pathname = '/' + pathLocale;
+  let redirected = sessionStorage.getItem('redirected'); // Check if redirected before
+
+  if (!redirected) { // If not redirected before
+    if (currentPath === '/') {
+      if (pathLocale === 'en') {
+        window.location.pathname = '/index.html'; // routing to english
+      } else if (supportedLocales.includes(pathLocale)) {
+        window.location.pathname = '/' + pathLocale; // Redirect to the right language always if supported
+      }
+      sessionStorage.setItem('redirected', 'true'); // Set redirected in sessionstorage / die at every session
+    }
   }
-})
+});
 </script></section><main class="main" id="main"><div id="header-anchor"></div><link rel="stylesheet" href="https://ap-widget.s3.amazonaws.com/css/glider.min.css"/><link rel="stylesheet" href="https://ap-widget.s3.amazonaws.com/css/widget.min.css"/><script type="text/javascript" src="https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async="async"></script><script type="text/javascript" src="https://ap-widget.s3.amazonaws.com/glider.min.js"></script><script type="text/javascript" src="https://ap-widget.s3.amazonaws.com/widget.min.js" async="async"></script><section class="wrap" id="top"><div class="content-wrap content-wrap--centered"><h1 id="bitcoin-p2p">Найлегший спосіб купувати та продавати Bitcoin P2P</h1>
 <br>
 <h2 id="peach">Що таке Peach?</h2>
