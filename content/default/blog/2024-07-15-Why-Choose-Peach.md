@@ -20,13 +20,10 @@ description: |
 
 In the ever-evolving and competitive landscape of cryptocurrencies, choosing the right platform to buy Bitcoin can make a significant difference. Peach stands out as a top-tier solution for various reasons that go far beyond basic functionalities. Let's explore why Peach is the ideal choice for your Bitcoin purchases.
 
-## ZERO FEES: MAXIMIZE YOUR INVESTMENTS 
-
-One of the most compelling advantages offered by Peach is the absence of transaction fees. Many cryptocurrency trading platforms impose fees that can erode your gains over time. With Peach, every euro you invest goes directly into purchasing Bitcoin, with no hidden costs or percentages eating into your capital. This zero-fee policy is particularly advantageous for those looking to accumulate Bitcoin over time, allowing you to maximize your investment returns in the long run.
-
-## COMPLETE CONTROL WITH NON-CUSTODIAL WALLETS
+## COMPLETE CONTROL WITH NON-CUSTODIAL WALLETS AND MULTISIG ESCROW
 
 Security is a primary concern for any cryptocurrency investor. Peach addresses this concern by offering non-custodial wallets. This means you hold the private keys to your wallet, maintaining full control over your Bitcoin. Unlike platforms that hold the private keys on behalf of users, Peach ensures greater security and autonomy, reducing the risk of losing your funds due to hacks or platform failures.
+The escrow is also a multisig address, meaning that Peach is never in full control of the user funds even during the trade. 
 
 ## COMMITMENT TO SECURITY AND PRIVACY 
 
