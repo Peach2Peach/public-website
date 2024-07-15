@@ -14,14 +14,23 @@ block teaser
     script.
       document.addEventListener('DOMContentLoaded', function() {
         let userLocale = navigator.language || navigator.userLanguage;
-        const supportedLocales = ['es', 'de', 'it', 'fr', 'el', 'hu', 'nl', 'pl', 'pt', 'sw', 'uk'];
+        const supportedLocales = ['es', 'de', 'it', 'fr', 'el', 'hu', 'nl', 'pl', 'pt', 'sw', 'uk',];
         let pathLocale = userLocale.split('-')[0];
 
         let currentPath = window.location.pathname;
-        if (currentPath === '/' && supportedLocales.includes(pathLocale)) {
-          window.location.pathname = '/' + pathLocale;
+        let redirected = sessionStorage.getItem('redirected'); // Check if redirected before
+
+        if (!redirected) { // If not redirected before
+          if (currentPath === '/') {
+            if (pathLocale === 'en') {
+              window.location.pathname = '/index.html'; // routing to english
+            } else if (supportedLocales.includes(pathLocale)) {
+              window.location.pathname = '/' + pathLocale; // Redirect to the right language always if supported
+            }
+            sessionStorage.setItem('redirected', 'true'); // Set redirected in sessionstorage / die at every session
+          }
         }
-      })
+      });
 
 block main
   link(rel="stylesheet" href="https://ap-widget.s3.amazonaws.com/css/glider.min.css")
