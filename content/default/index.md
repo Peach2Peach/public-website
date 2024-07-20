@@ -44,6 +44,7 @@ Peach Bitcoin is a **peer-to-peer** mobile app for trading Bitcoin without KYC v
 [Check our Payment Methods](/how-it-works/#available-payment-methods)
 :::
 
+
 ### Welcome to **Peach**, your premier destination for **peer-to-peer Bitcoin transactions**!
 
 Embark on a journey of seamless peer-to-peer Bitcoin trading with Peach. Our platform redefines the experience of **buying and selling Bitcoin** by prioritizing privacy and convenience.
@@ -52,12 +53,13 @@ Say goodbye to cumbersome ID verification and KYC processes as Peach offers a se
 
 Whether you're looking to **buy Bitcoin with a gift card** or prefer the simplicity of **purchase without ID**, Peach provides a trusted platform for conducting **anonymous transactions** and **peer-to-peer exchanges**.
 
-Join our community of like-minded individuals who value privacy and freedom in the Bitcoin ecosystem!
+Join our community of like-minded individuals who value privacy and freedom in the Bitcoin ecosystem !
 We're actively seeking sellers who understand the importance of a **non-KYC Bitcoin market** and want to contribute to its growth.
 
 Together, let's make the Bitcoin ecosystem more accessible and private for everyone.
 
 Peach is an SRO member (Self Regulatory Organisation) of Polyreg. Peach is a Swiss **licensed financial service provider** and is fully compliant with Switzerland’s Anti-Money Laundering Act.
+
 
 <div class="flex justify-center"><div class="w-1/2">
 
@@ -72,38 +74,4 @@ Peach is an SRO member (Self Regulatory Organisation) of Polyreg. Peach is a Swi
 
 Do you want to earn 500 sats? Leave us a review in Apollo following [this link](https://heyapollo.com/invite-review?prod=peach) and you'll earn a 500 sats reward!
 
-<div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show="trustpilot" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color="#000000"></div>
-
-## Order Book
-
-We have integrated a new order book feature that allows you to view real-time data on available Bitcoin trading options.
-
-### How to Use the Order Book
-
-1. **Access the Order Book**: Scroll down to the `Order Book` section on our homepage.
-2. **View Available Orders**: The table displays the following columns:
-   - **Service**: The service providing the trading option.
-   - **URL**: A link to the trading option.
-   - **Features**: Features of the trading option (e.g., on-chain, p2p).
-   - **Method**: The method of transaction (e.g., In Person, Transferwise).
-   - **Price**: The price for the trading option.
-3. **Fetch Data**: The table fetches real-time data from our API to ensure you have the most current information available.
-
-### Order Book Data
-
-<table id="order-book-table">
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>URL</th>
-      <th>Features</th>
-      <th>Method</th>
-      <th>Price</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Order book data will be injected here -->
-  </tbody>
-</table>
-
-<script src="/static/js/order-book.js"></script>
+<div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show="trustpilot" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
