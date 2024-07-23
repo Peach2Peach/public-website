@@ -1,5 +1,6 @@
 // Nome della cache
 const CACHE_NAME = 'static-v1';
+const LANGUAGES = ['es', 'de', 'it', 'fr', 'el', 'hu', 'nl', 'pl', 'pt', 'sw', 'uk',];
 
 // File da mettere in cache
 const FILES_TO_CACHE = LANGUAGES.flatMap(lang => [
