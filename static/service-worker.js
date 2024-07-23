@@ -95,4 +95,4 @@ self.addEventListener('activate', event => {
       return cache.addAll(pathsToCache);
     })
   );
-});
+}); 
