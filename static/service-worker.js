@@ -2,7 +2,7 @@
 const CACHE_NAME = 'static-v1';
 
 // File da mettere in cache
-const FILES_TO_CACHE = [
+const FILES_TO_CACHE = LANGUAGES.flatMap(lang => [
   '/',
   '/index.html',
   '/_headers',
@@ -19,8 +19,27 @@ const FILES_TO_CACHE = [
   '/js/main.js',
   '/site.webmanifest',
   '/img/favicon/android-chrome-192x192.png',
-  '/img/favicon/android-chrome-512x512.png'
-];
+  '/img/favicon/android-chrome-512x512.png',
+  'peach-for-businesses/',
+  'buy-btc-with-cash/',
+  '/blog',
+  `/${lang}/blog`,
+  `/${lang}/index.html`,
+  `/${lang}/static/_headers`,
+  `/${lang}/fonts/baloo-2-v16-latin-500.woff`,
+  `/${lang}/fonts/baloo-2-v16-latin-regular.woff2`,
+  `/${lang}/fonts/baloo-2-v16-latin-600.woff2`,
+  `/${lang}/static/css/main.css`,
+  `/${lang}/fonts/baloo-2-v16-latin-800.woff2`,
+  `/${lang}/static/baloo-2-v16-latin-600.woff`,
+  `/${lang}/static/_redirects`,
+  `/${lang}/script.js`,
+  `/${lang}/css/main.css`,
+  `/${lang}/js/main.js`,
+  `/${lang}/static/site.webmanifest`,
+  `/${lang}/img/favicon/android-chrome-192x192.png`,
+  `/${lang}/img/favicon/android-chrome-512x512.png`
+]);
 
 // Evento di installazione del Service Worker
 self.addEventListener('install', function(event) {
