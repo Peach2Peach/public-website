@@ -18,7 +18,7 @@ window.addEventListener('load', async function() {
       console.log('Libreria marked.js caricata correttamente come funzione.');
   
       const lang = navigator.language || 'en';
-      const contentPath = `/${lang}/index.html`; // Assicurati che questo percorso sia corretto
+      const contentPath = lang === 'en' ? '/index.html' : `/${lang}/index.html`; // Assicurati che questo percorso sia corretto
   
       try {
         const response = await fetch(contentPath);
