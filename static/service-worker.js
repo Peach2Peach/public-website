@@ -1,9 +1,8 @@
 // Nome della cache
 const CACHE_NAME = 'static-v1';
-const LANGUAGES = ['es', 'de', 'it', 'fr', 'el', 'hu', 'nl', 'pl', 'pt', 'sw', 'uk',];
 
 // File da mettere in cache
-const FILES_TO_CACHE = LANGUAGES.flatMap(lang => [
+const FILES_TO_CACHE = [
   '/',
   '/index.html',
   '/_headers',
@@ -20,27 +19,34 @@ const FILES_TO_CACHE = LANGUAGES.flatMap(lang => [
   '/js/main.js',
   '/site.webmanifest',
   '/img/favicon/android-chrome-192x192.png',
-  '/img/favicon/android-chrome-512x512.png',
-  'peach-for-businesses/',
-  'buy-btc-with-cash/',
+  '/img/favicon/android-chrome-512x512.png'
+];
+
+// Percorsi principali
+const MAIN_PATHS = [
   '/blog',
-  `/${lang}/blog`,
-  `/${lang}/index.html`,
-  `/${lang}/static/_headers`,
-  `/${lang}/fonts/baloo-2-v16-latin-500.woff`,
-  `/${lang}/fonts/baloo-2-v16-latin-regular.woff2`,
-  `/${lang}/fonts/baloo-2-v16-latin-600.woff2`,
-  `/${lang}/static/css/main.css`,
-  `/${lang}/fonts/baloo-2-v16-latin-800.woff2`,
-  `/${lang}/static/baloo-2-v16-latin-600.woff`,
-  `/${lang}/static/_redirects`,
-  `/${lang}/script.js`,
-  `/${lang}/css/main.css`,
-  `/${lang}/js/main.js`,
-  `/${lang}/static/site.webmanifest`,
-  `/${lang}/img/favicon/android-chrome-192x192.png`,
-  `/${lang}/img/favicon/android-chrome-512x512.png`
-]);
+  '/for-meetups',
+  '/for-businesses/',
+  '/peach-for-businesses/',
+  '/support/',
+  '/buy-btc-with-cash/',
+  '/how-it-works/',
+  '/buy-btc-with-cash/',
+  '/how-to-buy-btc-no-kyc/'
+];
+
+// Lingue disponibili
+const LANGUAGES = ['es', 'de', 'it', 'fr', 'el', 'hu', 'nl', 'pl', 'pt', 'sw', 'uk'];
+
+// Aggiungere i percorsi per le lingue disponibili
+LANGUAGES.forEach(lang => {
+  MAIN_PATHS.forEach(path => {
+    FILES_TO_CACHE.push(`/${lang}${path}`);
+  });
+});
+
+// Aggiungere i percorsi principali alla cache
+FILES_TO_CACHE.push(...MAIN_PATHS);
 
 // Evento di installazione del Service Worker
 self.addEventListener('install', function(event) {
