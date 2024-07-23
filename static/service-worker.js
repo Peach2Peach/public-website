@@ -2,20 +2,17 @@ const CACHE_NAME = 'static-v1';
 const FILES_TO_CACHE = [
   '/',
   '/index.html',
-  '/static/_headers',
+  '/_headers',
   '/fonts/baloo-2-v16-latin-500.woff',
   '/fonts/baloo-2-v16-latin-regular.woff2',
   '/fonts/baloo-2-v16-latin-600.woff2',
-  '/static/css',
-  '../src/css/main.css',
+  '/css/main.css',
   '/fonts/baloo-2-v16-latin-800.woff2',
-  '/fonts/baloo-2-v16-latin-500.woff2',
-  '/static/baloo-2-v16-latin-600.woff',
-  '/static/_redirects',
+  '/_redirects',
   '/script.js',
   '/css/main.css',
   '/js/main.js',
-  '/static/site.webmanifest',
+  '/site.webmanifest',
   '/img/favicon/android-chrome-192x192.png',
   '/img/favicon/android-chrome-512x512.png'
 ];
@@ -24,37 +21,37 @@ const FILES_TO_CACHE = [
 self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open(CACHE_NAME).then(function(cache) {
-      return cache.addAll(FILES_TO_CACHE);
+      return Promise.all(
+        FILES_TO_CACHE.map(function(url) {
+          return fetch(new Request(url)).then(function(response) {
+            if (response.ok) {
+              return cache.put(url, response);
+            } else {
+              console.error('Failed to fetch and cache:', url, response.status);
+            }
+          }).catch(function(error) {
+            console.error('Fetch failed for:', url, error);
+          });
+        })
+      );
     }).catch(function(error) {
-      console.error('Failed to cache during install:', error);
+      console.error('Failed to open cache:', error);
     })
   );
 });
 
 // Evento di attivazione del Service Worker
-self.addEventListener('activate', function(event) {
-  event.waitUntil(
-    caches.keys().then(function(keyList) {
-      return Promise.all(keyList.map(function(key) {
-        if (key !== CACHE_NAME) {
-          return caches.delete(key);
-        }
-      }));
-    }).catch(function(error) {
-      console.error('Failed to clean up old caches:', error);
-    })
-  );
-  return self.clients.claim();
-});
-
-// Evento di fetch (richiesta di risorse)
 self.addEventListener('fetch', function(event) {
-  // Gestire solo le richieste GET
+  // Gestire solo richieste GET
   if (event.request.method !== 'GET') {
     return;
   }
 
-  // Rispondere con il file dalla cache o effettuare una richiesta in rete
+  // Gestire solo richieste HTTP e HTTPS
+  if (!event.request.url.startsWith('http') && !event.request.url.startsWith('https')) {
+    return;
+  }
+
   event.respondWith(
     caches.match(event.request).then(function(response) {
       // Restituire la risposta dalla cache se disponibile
@@ -62,21 +59,18 @@ self.addEventListener('fetch', function(event) {
         return response;
       }
 
-      // Se la risposta non è nella cache, effettuare una richiesta in rete
+      // Se la risposta non è nella cache, effettuare una richiesta di rete
       const fetchRequest = event.request.clone();
       return fetch(fetchRequest).then(function(networkResponse) {
-        // Controllare se la risposta della rete è valida
-        if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
-          return networkResponse;
-        }
-
-        // Clonare la risposta della rete e metterla in cache
-        let responseToCache = networkResponse.clone();
-        caches.open(CACHE_NAME).then(function(cache) {
-          cache.put(event.request, responseToCache).catch(function(error) {
-            console.error('Failed to cache network response:', error);
+        // Solo mettere in cache risposte da HTTP/HTTPS con status 200 e tipo 'basic'
+        if (networkResponse && networkResponse.status === 200 && networkResponse.type === 'basic') {
+          let responseToCache = networkResponse.clone();
+          caches.open(CACHE_NAME).then(function(cache) {
+            cache.put(event.request, responseToCache).catch(function(error) {
+              console.error('Failed to cache network response:', error);
+            });
           });
-        });
+        }
         return networkResponse;
       }).catch(function(error) {
         console.error('Fetch error:', error);
