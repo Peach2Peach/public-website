@@ -41,6 +41,27 @@ self.addEventListener('fetch', function(event) {
           if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
             return networkResponse;
           }
+
+          // Gestire le risposte con status 302 (redirezione)
+          if (networkResponse.status === 302) {
+            return fetch(networkResponse.headers.get('Location')).then(function(redirectedResponse) {
+              // Controllare se la risposta rediretta è valida
+              if (!redirectedResponse || redirectedResponse.status !== 200 || redirectedResponse.type !== 'basic') {
+                return redirectedResponse;
+              }
+              // Clonare la risposta rediretta e metterla in cache
+              let responseToCache = redirectedResponse.clone();
+              caches.open(CACHE_NAME).then(function(cache) {
+                cache.put(event.request, responseToCache).catch(function(error) {
+                  console.error('Errore durante il caching della risposta rediretta:', error);
+                });
+              });
+              return redirectedResponse;
+            }).catch(function(error) {
+              console.error('Errore durante il fetch della redirezione:', error);
+            });
+          }
+
           // Clonare la risposta della rete e metterla in cache
           let responseToCache = networkResponse.clone();
           caches.open(CACHE_NAME).then(function(cache) {
@@ -51,16 +72,9 @@ self.addEventListener('fetch', function(event) {
           return networkResponse;
         }).catch(function(error) {
           console.error('Errore durante il fetch dalla rete:', error);
-          // Fornire una risposta di fallback
-          return caches.match(event.request).then(function(cachedResponse) {
-            return cachedResponse || new Response('Contenuto non disponibile offline.');
-          });
         });
       }).catch(function(error) {
         console.error('Errore durante la cache match:', error);
-        return caches.match(event.request).then(function(cachedResponse) {
-          return cachedResponse || new Response('Contenuto non disponibile offline.');
-        });
       })
     );
   }
