@@ -9,12 +9,12 @@ const FILES_TO_CACHE = [
   '/script.js',
   '/css/main.css',
   '/js/main.js',
-  '/site.webmanifest'
+  '/site.webmanifest',
+  '/offline.html'  // Aggiungi una pagina offline per i fallback
 ];
 
 // Evento di installazione del Service Worker
 self.addEventListener('install', function(event) {
-  // Mettere i file in cache durante l'installazione
   event.waitUntil(
     caches.open(CACHE_NAME).then(function(cache) {
       return cache.addAll(FILES_TO_CACHE);
@@ -26,7 +26,6 @@ self.addEventListener('install', function(event) {
 
 // Evento di attivazione del Service Worker
 self.addEventListener('activate', function(event) {
-  // Pulire le vecchie cache non utilizzate
   event.waitUntil(
     caches.keys().then(function(keyList) {
       return Promise.all(keyList.map(function(key) {
@@ -36,46 +35,24 @@ self.addEventListener('activate', function(event) {
       }));
     })
   );
-  // Prendere il controllo delle pagine attualmente aperte
   return self.clients.claim();
 });
 
+// Funzione per mettere in cache le richieste dinamiche
+function addToCache(request, response) {
+  if (request && response) {
+    return caches.open(CACHE_NAME).then(function(cache) {
+      return cache.put(request, response);
+    });
+  }
+}
+
 // Evento di fetch (richiesta di risorse)
 self.addEventListener('fetch', function(event) {
-  // Ignorare richieste non GET
   if (event.request.method !== 'GET') {
     return;
   }
 
-  // Gestire le richieste per le pagine del blog dinamicamente
-  if (event.request.url.includes('/blog/')) {
-    event.respondWith(
-      caches.match(event.request).then(function(response) {
-        if (response) {
-          return response;
-        }
-        return fetch(event.request).then(function(networkResponse) {
-          if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
-            return networkResponse;
-          }
-          let responseToCache = networkResponse.clone();
-          caches.open(CACHE_NAME).then(function(cache) {
-            cache.put(event.request, responseToCache).catch(function(error) {
-              console.error('Errore durante il caching della risposta:', error);
-            });
-          });
-          return networkResponse;
-        }).catch(function(error) {
-          console.error('Errore durante il fetch dalla rete:', error);
-        });
-      }).catch(function(error) {
-        console.error('Errore durante la cache match:', error);
-      })
-    );
-    return;
-  }
-
-  // Gestire le richieste per le altre risorse
   event.respondWith(
     caches.match(event.request).then(function(response) {
       if (response) {
@@ -86,17 +63,32 @@ self.addEventListener('fetch', function(event) {
           return networkResponse;
         }
         let responseToCache = networkResponse.clone();
-        caches.open(CACHE_NAME).then(function(cache) {
-          cache.put(event.request, responseToCache).catch(function(error) {
-            console.error('Errore durante il caching della risposta:', error);
+        addToCache(event.request, responseToCache);
+        return networkResponse;
+      }).catch(function() {
+        return caches.match('/offline.html').then(function(fallbackResponse) {
+          if (fallbackResponse) {
+            return fallbackResponse;
+          }
+          return new Response('Pagina non disponibile offline.', {
+            status: 503,
+            statusText: 'Service Unavailable',
+            headers: new Headers({'Content-Type': 'text/plain'})
           });
         });
-        return networkResponse;
-      }).catch(function(error) {
-        console.error('Errore durante il fetch dalla rete:', error);
       });
     }).catch(function(error) {
       console.error('Errore durante la cache match:', error);
+      return caches.match('/offline.html').then(function(fallbackResponse) {
+        if (fallbackResponse) {
+          return fallbackResponse;
+        }
+        return new Response('Pagina non disponibile offline.', {
+          status: 503,
+          statusText: 'Service Unavailable',
+          headers: new Headers({'Content-Type': 'text/plain'})
+        });
+      });
     })
   );
 });
