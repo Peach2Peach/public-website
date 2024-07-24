@@ -113,3 +113,19 @@ html(lang=lang)
             a(href=getUrl("/new-users/", lang)) !{i18n('referral', lang)}
             a(href=getUrl("/for-businesses/", lang)) !{i18n('affiliate', lang)}
     script(src=assetPath("/js/main.js"))
+    //- Aggiungiamo il blocco scripts alla fine del body
+    block append scripts
+      script.
+        if ('serviceWorker' in navigator) {
+          window.addEventListener('load', function() {
+            navigator.serviceWorker.register('/service-worker.js')
+              .then(function(registration) {
+                console.log('Service Worker registrato con successo:', registration);
+              })
+              .catch(function(error) {
+                console.log('Registrazione del Service Worker fallita:', error);
+              });
+          });
+        } else {
+          console.log('Service Worker non supportato in questo browser.');
+        }
