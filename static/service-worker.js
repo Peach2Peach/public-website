@@ -1,9 +1,39 @@
 // Nome della cache
-const CACHE_NAME = 'dynamic-v1';
+const CACHE_NAME = 'static-v1';
+
+// File da mettere in cache
+const FILES_TO_CACHE = [
+  '/',
+  '/index.html',
+  '/how-it-works/',
+  '/script.js',
+  '/css/main.css',
+  '/js/main.js',
+  '/site.webmanifest',
+  '/blog/',
+  '/blog/Why-Choose-Peach',
+  '/blog/bitcoin-explained-in-2024/',
+  '/blog/grouphug-for-everyone/',
+  '/blog/if-bitcoin-goes-to-1-million/',
+  '/blog/peachy-christmas-bitcoiners/',
+  '/blog/why-bitcoin/',
+  '/blog/peach-reputation-system/',
+  '/blog/newsletter-october-4/',
+  '/blog/1y-anniversary/',
+  '/blog/how-to-restore-peach-wallet/',
+  '/blog/funding-multiple-sell-offers/'
+];
 
 // Evento di installazione del Service Worker
 self.addEventListener('install', function(event) {
-  self.skipWaiting();
+  // Mettere i file in cache durante l'installazione
+  event.waitUntil(
+    caches.open(CACHE_NAME).then(function(cache) {
+      return cache.addAll(FILES_TO_CACHE);
+    }).catch(function(error) {
+      console.error('Errore durante la cache dei file:', error);
+    })
+  );
 });
 
 // Evento di attivazione del Service Worker
@@ -41,28 +71,33 @@ self.addEventListener('fetch', function(event) {
           if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
             return networkResponse;
           }
-
-          // Gestire le risposte con status 302 (redirezione)
-          if (networkResponse.status === 302) {
-            return fetch(networkResponse.headers.get('Location')).then(function(redirectedResponse) {
-              // Controllare se la risposta rediretta è valida
-              if (!redirectedResponse || redirectedResponse.status !== 200 || redirectedResponse.type !== 'basic') {
-                return redirectedResponse;
-              }
-              // Clonare la risposta rediretta e metterla in cache
-              let responseToCache = redirectedResponse.clone();
-              caches.open(CACHE_NAME).then(function(cache) {
-                cache.put(event.request, responseToCache).catch(function(error) {
-                  console.error('Errore durante il caching della risposta rediretta:', error);
-                });
-              });
-              return redirectedResponse;
-            }).catch(function(error) {
-              console.error('Errore durante il fetch della redirezione:', error);
-            });
-          }
-
           // Clonare la risposta della rete e metterla in cache
+          let responseToCache = networkResponse.clone();
+          caches.open(CACHE_NAME).then(function(cache) {
+            cache.put(event.request, responseToCache).catch(function(error) {
+              console.error('Errore durante il caching della risposta:', error);
+            });
+          });
+          return networkResponse;
+        }).catch(function(error) {
+          console.error('Errore durante il fetch dalla rete:', error);
+        });
+      }).catch(function(error) {
+        console.error('Errore durante la cache match:', error);
+      })
+    );
+  }
+});
+
+// Gestire dinamicamente le richieste ai blog con prefissi di lingua
+self.addEventListener('fetch', function(event) {
+  if (event.request.url.includes('/blog/')) {
+    event.respondWith(
+      caches.match(event.request).then(function(response) {
+        return response || fetch(event.request).then(function(networkResponse) {
+          if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
+            return networkResponse;
+          }
           let responseToCache = networkResponse.clone();
           caches.open(CACHE_NAME).then(function(cache) {
             cache.put(event.request, responseToCache).catch(function(error) {
