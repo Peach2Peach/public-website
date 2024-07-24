@@ -11,7 +11,7 @@ const FILES_TO_CACHE = [
   '/js/main.js',
   '/site.webmanifest',
   '/blog/',
-  '/blog/Why-Choose-Peach/',
+  '/blog/Why-Choose-Peach',
   '/blog/bitcoin-explained-in-2024/',
   '/blog/grouphug-for-everyone/',
   '/blog/if-bitcoin-goes-to-1-million/',
@@ -31,7 +31,7 @@ self.addEventListener('install', function(event) {
     caches.open(CACHE_NAME).then(function(cache) {
       return cache.addAll(FILES_TO_CACHE);
     }).catch(function(error) {
-      // Gestione dell'errore di caching durante l'installazione
+      console.error('Errore durante la cache dei file:', error);
     })
   );
 });
@@ -63,8 +63,10 @@ self.addEventListener('fetch', function(event) {
   if (event.request.url.startsWith('http')) {
     event.respondWith(
       caches.match(event.request).then(function(response) {
-        // Restituire la risposta dalla cache o effettuare una richiesta in rete
-        return response || fetch(event.request).then(function(networkResponse) {
+        if (response) {
+          return response;
+        }
+        return fetch(event.request).then(function(networkResponse) {
           // Controllare se la risposta della rete è valida
           if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
             return networkResponse;
@@ -73,13 +75,15 @@ self.addEventListener('fetch', function(event) {
           let responseToCache = networkResponse.clone();
           caches.open(CACHE_NAME).then(function(cache) {
             cache.put(event.request, responseToCache).catch(function(error) {
-              // Gestione dell'errore durante il caching della richiesta
+              console.error('Errore durante il caching della risposta:', error);
             });
           });
           return networkResponse;
+        }).catch(function(error) {
+          console.error('Errore durante il fetch dalla rete:', error);
         });
       }).catch(function(error) {
-        // Gestione dell'errore durante il fetch e caching
+        console.error('Errore durante la cache match:', error);
       })
     );
   }
