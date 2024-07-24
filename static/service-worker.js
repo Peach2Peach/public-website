@@ -5,10 +5,12 @@ const CACHE_NAME = 'static-v1';
 const FILES_TO_CACHE = [
   '/',
   '/index.html',
+  '/how-it-works/',
   '/script.js',
   '/css/main.css',
   '/js/main.js',
-  '/site.webmanifest'
+  '/site.webmanifest',
+  '/blog/'
 ];
 
 // Evento di installazione del Service Worker
