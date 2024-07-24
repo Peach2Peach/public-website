@@ -1,7 +1,4 @@
-// Nome della cache
 const CACHE_NAME = 'static-v1';
-
-// File da mettere in cache
 const FILES_TO_CACHE = [
   '/',
   '/index.html',
@@ -10,7 +7,18 @@ const FILES_TO_CACHE = [
   '/css/main.css',
   '/js/main.js',
   '/site.webmanifest',
-  '/offline.html'  // Aggiungi una pagina offline per i fallback
+  '/blog/',
+  '/blog/Why-Choose-Peach/',
+  '/blog/bitcoin-explained-in-2024/',
+  '/blog/grouphug-for-everyone/',
+  '/blog/if-bitcoin-goes-to-1-million/',
+  '/blog/peachy-christmas-bitcoiners/',
+  '/blog/why-bitcoin/',
+  '/blog/peach-reputation-system/',
+  '/blog/newsletter-october-4/',
+  '/blog/1y-anniversary/',
+  '/blog/how-to-restore-peach-wallet/',
+  '/blog/funding-multiple-sell-offers/'
 ];
 
 // Evento di installazione del Service Worker
@@ -18,8 +26,6 @@ self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open(CACHE_NAME).then(function(cache) {
       return cache.addAll(FILES_TO_CACHE);
-    }).catch(function(error) {
-      console.error('Errore durante la cache dei file:', error);
     })
   );
 });
@@ -38,57 +44,36 @@ self.addEventListener('activate', function(event) {
   return self.clients.claim();
 });
 
-// Funzione per mettere in cache le richieste dinamiche
-function addToCache(request, response) {
-  if (request && response) {
-    return caches.open(CACHE_NAME).then(function(cache) {
-      return cache.put(request, response);
-    });
-  }
-}
-
 // Evento di fetch (richiesta di risorse)
 self.addEventListener('fetch', function(event) {
+  // Ignorare richieste non GET
   if (event.request.method !== 'GET') {
     return;
   }
 
-  event.respondWith(
-    caches.match(event.request).then(function(response) {
-      if (response) {
-        return response;
-      }
-      return fetch(event.request).then(function(networkResponse) {
-        if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
-          return networkResponse;
+  // Gestire solo le richieste HTTP
+  if (event.request.url.startsWith('http')) {
+    event.respondWith(
+      caches.match(event.request).then(function(response) {
+        if (response) {
+          return response;
         }
-        let responseToCache = networkResponse.clone();
-        addToCache(event.request, responseToCache);
-        return networkResponse;
-      }).catch(function() {
-        return caches.match('/offline.html').then(function(fallbackResponse) {
-          if (fallbackResponse) {
-            return fallbackResponse;
+
+        return fetch(event.request).then(function(networkResponse) {
+          if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
+            return networkResponse;
           }
-          return new Response('Pagina non disponibile offline.', {
-            status: 503,
-            statusText: 'Service Unavailable',
-            headers: new Headers({'Content-Type': 'text/plain'})
+
+          let responseToCache = networkResponse.clone();
+          caches.open(CACHE_NAME).then(function(cache) {
+            cache.put(event.request, responseToCache);
           });
+
+          return networkResponse;
+        }).catch(function() {
+          return caches.match('/offline.html'); // Servire un file di fallback offline se disponibile
         });
-      });
-    }).catch(function(error) {
-      console.error('Errore durante la cache match:', error);
-      return caches.match('/offline.html').then(function(fallbackResponse) {
-        if (fallbackResponse) {
-          return fallbackResponse;
-        }
-        return new Response('Pagina non disponibile offline.', {
-          status: 503,
-          statusText: 'Service Unavailable',
-          headers: new Headers({'Content-Type': 'text/plain'})
-        });
-      });
-    })
-  );
+      })
+    );
+  }
 });
