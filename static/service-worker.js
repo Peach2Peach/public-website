@@ -54,9 +54,15 @@ self.addEventListener('fetch', function(event) {
           console.error('Errore durante il fetch dalla rete:', error);
           // Fallback per i blog
           if (event.request.url.includes('/blog/')) {
-            return new Response('Errore di rete nel caricamento del blog', {
-              status: 408,
-              statusText: 'Errore di rete'
+            return caches.match(event.request).then(function(response) {
+              if (response) {
+                return response;
+              } else {
+                return new Response('Errore di rete nel caricamento del blog', {
+                  status: 408,
+                  statusText: 'Errore di rete'
+                });
+              }
             });
           }
           // Fallback generico
