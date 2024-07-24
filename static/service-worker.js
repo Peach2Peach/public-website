@@ -39,7 +39,6 @@ self.addEventListener('fetch', function(event) {
         return fetch(event.request).then(function(networkResponse) {
           // Controllare se la risposta della rete è valida
           if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
-            console.error('Risposta della rete non valida:', networkResponse);
             return networkResponse;
           }
           // Clonare la risposta della rete e metterla in cache
@@ -52,33 +51,9 @@ self.addEventListener('fetch', function(event) {
           return networkResponse;
         }).catch(function(error) {
           console.error('Errore durante il fetch dalla rete:', error);
-          // Fallback per i blog
-          if (event.request.url.includes('/blog/')) {
-            return caches.match(event.request).then(function(response) {
-              if (response) {
-                return response;
-              } else {
-                return new Response('Errore di rete nel caricamento del blog', {
-                  status: 408,
-                  statusText: 'Errore di rete'
-                });
-              }
-            });
-          }
-          // Fallback generico
-          return caches.match('/offline.html').then(function(response) {
-            return response || new Response('Offline', {
-              status: 503,
-              statusText: 'Offline'
-            });
-          });
         });
       }).catch(function(error) {
         console.error('Errore durante la cache match:', error);
-        return new Response('Errore di cache', {
-          status: 408,
-          statusText: 'Errore di cache'
-        });
       })
     );
   }
