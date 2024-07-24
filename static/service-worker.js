@@ -26,19 +26,19 @@ const FILES_TO_CACHE = [
 
 // Evento di installazione del Service Worker
 self.addEventListener('install', function(event) {
-  // Mettere i file in cache durante l'installazione
   event.waitUntil(
-    caches.open(CACHE_NAME).then(function(cache) {
-      return cache.addAll(FILES_TO_CACHE);
-    }).catch(function(error) {
-      // Gestione dell'errore di caching durante l'installazione
-    })
+    caches.open(CACHE_NAME)
+      .then(function(cache) {
+        return cache.addAll(FILES_TO_CACHE);
+      })
+      .catch(function(error) {
+        console.error('Errore durante il caching dei file:', error);
+      })
   );
 });
 
 // Evento di attivazione del Service Worker
 self.addEventListener('activate', function(event) {
-  // Pulire le vecchie cache non utilizzate
   event.waitUntil(
     caches.keys().then(function(keyList) {
       return Promise.all(keyList.map(function(key) {
@@ -48,38 +48,45 @@ self.addEventListener('activate', function(event) {
       }));
     })
   );
-  // Prendere il controllo delle pagine attualmente aperte
   return self.clients.claim();
 });
 
 // Evento di fetch (richiesta di risorse)
 self.addEventListener('fetch', function(event) {
-  // Ignorare richieste non GET
   if (event.request.method !== 'GET') {
     return;
   }
 
-  // Gestire solo le richieste HTTP
   if (event.request.url.startsWith('http')) {
     event.respondWith(
       caches.match(event.request).then(function(response) {
-        // Restituire la risposta dalla cache o effettuare una richiesta in rete
-        return response || fetch(event.request).then(function(networkResponse) {
-          // Controllare se la risposta della rete è valida
+        if (response) {
+          return response;
+        }
+
+        return fetch(event.request).then(function(networkResponse) {
           if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
             return networkResponse;
           }
-          // Clonare la risposta della rete e metterla in cache
-          let responseToCache = networkResponse.clone();
-          caches.open(CACHE_NAME).then(function(cache) {
-            cache.put(event.request, responseToCache).catch(function(error) {
-              // Gestione dell'errore durante il caching della richiesta
+
+          // Controllo se la risposta ha un contenuto
+          if (networkResponse.ok && networkResponse.headers.get('Content-Length') !== '0') {
+            let responseToCache = networkResponse.clone();
+            caches.open(CACHE_NAME).then(function(cache) {
+              cache.put(event.request, responseToCache).catch(function(error) {
+                console.error('Errore durante il caching della richiesta:', error);
+              });
             });
-          });
+          }
+
           return networkResponse;
+        }).catch(function(error) {
+          console.error('Errore durante il fetch dalla rete:', error);
+          return new Response('Errore di rete', { status: 500 });
         });
       }).catch(function(error) {
-        // Gestione dell'errore durante il fetch e caching
+        console.error('Errore durante il match dalla cache:', error);
+        return new Response('Errore di cache', { status: 500 });
       })
     );
   }
