@@ -1,42 +1,12 @@
-// Nome della cache
-const CACHE_NAME = 'static-v1';
 
-// File da mettere in cache
-const FILES_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/how-it-works/',
-  '/script.js',
-  '/css/main.css',
-  '/js/main.js',
-  '/site.webmanifest',
-  '/blog/',
-  '/blog/Why-Choose-Peach',
-  '/blog/bitcoin-explained-in-2024/',
-  '/blog/grouphug-for-everyone/',
-  '/blog/if-bitcoin-goes-to-1-million/',
-  '/blog/peachy-christmas-bitcoiners/',
-  '/blog/why-bitcoin/',
-  '/blog/peach-reputation-system/',
-  '/blog/newsletter-october-4/',
-  '/blog/1y-anniversary/',
-  '/blog/how-to-restore-peach-wallet/',
-  '/blog/funding-multiple-sell-offers/'
-];
+const CACHE_NAME = 'dynamic-v1';
 
-// Evento di installazione del Service Worker
+
 self.addEventListener('install', function(event) {
-  // Mettere i file in cache durante l'installazione
-  event.waitUntil(
-    caches.open(CACHE_NAME).then(function(cache) {
-      return cache.addAll(FILES_TO_CACHE);
-    }).catch(function(error) {
-      console.error('Errore durante la cache dei file:', error);
-    })
-  );
+  self.skipWaiting();
 });
 
-// Evento di attivazione del Service Worker
+
 self.addEventListener('activate', function(event) {
   // Pulire le vecchie cache non utilizzate
   event.waitUntil(
@@ -48,7 +18,7 @@ self.addEventListener('activate', function(event) {
       }));
     })
   );
-  // Prendere il controllo delle pagine attualmente aperte
+  
   return self.clients.claim();
 });
 
@@ -59,7 +29,7 @@ self.addEventListener('fetch', function(event) {
     return;
   }
 
-  // Gestire solo le richieste HTTP
+  
   if (event.request.url.startsWith('http')) {
     event.respondWith(
       caches.match(event.request).then(function(response) {
@@ -67,11 +37,11 @@ self.addEventListener('fetch', function(event) {
           return response;
         }
         return fetch(event.request).then(function(networkResponse) {
-          // Controllare se la risposta della rete è valida
+          
           if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
             return networkResponse;
           }
-          // Clonare la risposta della rete e metterla in cache
+          
           let responseToCache = networkResponse.clone();
           caches.open(CACHE_NAME).then(function(cache) {
             cache.put(event.request, responseToCache).catch(function(error) {
@@ -81,9 +51,17 @@ self.addEventListener('fetch', function(event) {
           return networkResponse;
         }).catch(function(error) {
           console.error('Errore durante il fetch dalla rete:', error);
+          return new Response('Errore di rete', {
+            status: 408,
+            statusText: 'Errore di rete'
+          });
         });
       }).catch(function(error) {
         console.error('Errore durante la cache match:', error);
+        return new Response('Errore di cache', {
+          status: 408,
+          statusText: 'Errore di cache'
+        });
       })
     );
   }
