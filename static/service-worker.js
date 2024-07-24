@@ -1,12 +1,12 @@
-
+// Nome della cache
 const CACHE_NAME = 'dynamic-v1';
 
-
+// Evento di installazione del Service Worker
 self.addEventListener('install', function(event) {
   self.skipWaiting();
 });
 
-
+// Evento di attivazione del Service Worker
 self.addEventListener('activate', function(event) {
   // Pulire le vecchie cache non utilizzate
   event.waitUntil(
@@ -18,7 +18,7 @@ self.addEventListener('activate', function(event) {
       }));
     })
   );
-  
+  // Prendere il controllo delle pagine attualmente aperte
   return self.clients.claim();
 });
 
@@ -29,7 +29,7 @@ self.addEventListener('fetch', function(event) {
     return;
   }
 
-  
+  // Gestire solo le richieste HTTP
   if (event.request.url.startsWith('http')) {
     event.respondWith(
       caches.match(event.request).then(function(response) {
@@ -37,11 +37,12 @@ self.addEventListener('fetch', function(event) {
           return response;
         }
         return fetch(event.request).then(function(networkResponse) {
-          
+          // Controllare se la risposta della rete è valida
           if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
+            console.error('Risposta della rete non valida:', networkResponse);
             return networkResponse;
           }
-          
+          // Clonare la risposta della rete e metterla in cache
           let responseToCache = networkResponse.clone();
           caches.open(CACHE_NAME).then(function(cache) {
             cache.put(event.request, responseToCache).catch(function(error) {
@@ -51,9 +52,19 @@ self.addEventListener('fetch', function(event) {
           return networkResponse;
         }).catch(function(error) {
           console.error('Errore durante il fetch dalla rete:', error);
-          return new Response('Errore di rete', {
-            status: 408,
-            statusText: 'Errore di rete'
+          // Fallback per i blog
+          if (event.request.url.includes('/blog/')) {
+            return new Response('Errore di rete nel caricamento del blog', {
+              status: 408,
+              statusText: 'Errore di rete'
+            });
+          }
+          // Fallback generico
+          return caches.match('/offline.html').then(function(response) {
+            return response || new Response('Offline', {
+              status: 503,
+              statusText: 'Offline'
+            });
           });
         });
       }).catch(function(error) {
