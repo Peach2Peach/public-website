@@ -51,9 +51,16 @@ self.addEventListener('fetch', function(event) {
           return networkResponse;
         }).catch(function(error) {
           console.error('Errore durante il fetch dalla rete:', error);
+          // Fornire una risposta di fallback
+          return caches.match(event.request).then(function(cachedResponse) {
+            return cachedResponse || new Response('Contenuto non disponibile offline.');
+          });
         });
       }).catch(function(error) {
         console.error('Errore durante la cache match:', error);
+        return caches.match(event.request).then(function(cachedResponse) {
+          return cachedResponse || new Response('Contenuto non disponibile offline.');
+        });
       })
     );
   }
