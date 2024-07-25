@@ -12,7 +12,7 @@ template: index
 
 <div class="inner-wrap">
 
-![Mobile app for trading Bitcoin without KYC verification](/img/phones.png)
+<img src="/img/indexphones.png" alt="Mobile app for trading Bitcoin without KYC verification">
 
 <div>
   <div class="md:flex items-end">
