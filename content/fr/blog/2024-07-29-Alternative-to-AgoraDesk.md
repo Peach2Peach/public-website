@@ -1,6 +1,6 @@
 ---
 keywords:
-  - Bitcoin
+  - Bitcoin 
   - Qu'est-ce que Bitcoin?
   - meilleur échange sans KYC
   - échange Bitcoin sans KYC

@@ -1,7 +1,7 @@
 ---
 keywords:
   - Bitcoin
-  - Τι είναι το Bitcoin;
+  - Τι είναι το Bitcoin ;
   - κορυφαία μη KYC ανταλλακτήρια
   - μη KYC Bitcoin ανταλλακτήρια
   - p2p αγορά χωρίς KYC

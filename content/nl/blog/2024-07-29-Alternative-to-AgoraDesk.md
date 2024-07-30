@@ -1,7 +1,7 @@
 ---
 keywords:
   - Bitcoin
-  - Wat is Bitcoin?
+  - Wat is Bitcoin ?
   - beste non-KYC wisselkantoor
   - non-KYC Bitcoin wisselkantoor
   - p2p-marktplaats zonder KYC

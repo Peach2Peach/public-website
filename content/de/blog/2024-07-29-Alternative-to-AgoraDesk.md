@@ -1,7 +1,7 @@
 ---
 keywords:
   - Bitcoin
-  - Was ist Bitcoin?
+  - Was ist Bitcoin ?
   - Top non KYC Börse
   - non KYC Bitcoin Börse
   - p2p Markt ohne KYC

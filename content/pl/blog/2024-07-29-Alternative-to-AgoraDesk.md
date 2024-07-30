@@ -1,7 +1,7 @@
 ---
 keywords:
   - Bitcoin
-  - Co to jest Bitcoin?
+  - Co to jest Bitcoin ?
   - najlepsza giełda bez KYC
   - giełda Bitcoin bez KYC
   - rynek p2p bez KYC
