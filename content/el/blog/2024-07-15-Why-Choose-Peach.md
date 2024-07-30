@@ -1,7 +1,7 @@
 ---
 keywords:
   - Bitcoin
-  - Τι είναι το Bitcoin ;
+  - Τι είναι το Bitcoin;
   - καλύτερος exchanger χωρίς KYC
   - exchanger Bitcoin χωρίς KYC
   - αγορά P2P sat χωρίς KYC

@@ -1,7 +1,7 @@
 ---
 keywords:
   - Bitcoin
-  - What is Bitcoin ?
+  - What is Bitcoin?
   - top non kyc exchanger
   - non kyc bitcoin exchanger
   - p2p market sat no kyc

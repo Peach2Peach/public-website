@@ -1,7 +1,7 @@
 ---
 keywords:
   - Bitcoin
-  - Mi az a Bitcoin ?
+  - Mi az a Bitcoin?
   - legjobb KYC nélküli exchange
   - Bitcoin exchange KYC nélkül
   - P2P piac sat KYC nélkül
