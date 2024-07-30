@@ -1,7 +1,7 @@
 ---
 keywords:
   - Bitcoin
-  - Nini Bitcoin?
+  - Nini Bitcoin ?
   - bora wa kubadilishana bila KYC
   - kubadilishana Bitcoin bila KYC
   - soko la P2P sat bila KYC

@@ -1,7 +1,7 @@
 ---
 keywords:
   - Bitcoin
-  - Що таке Bitcoin?
+  - Що таке Bitcoin ?
   - найкращий обмінник без KYC
   - обмінник Bitcoin без KYC
   - P2P ринок сат без KYC

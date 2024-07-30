@@ -1,7 +1,7 @@
 ---
 keywords:
   - Bitcoin
-  - O que é Bitcoin?
+  - O que é Bitcoin ?
   - melhor exchange sem KYC
   - exchange de Bitcoin sem KYC
   - mercado P2P sat sem KYC
