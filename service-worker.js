@@ -59,34 +59,23 @@ self.addEventListener('fetch', function(event) {
 
   if (event.request.url.startsWith('http')) {
     event.respondWith(
-      caches.match(event.request).then(function(response) {
-        if (response) {
-          return response;
+      fetch(event.request).then(function(networkResponse) {
+        if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
+          return networkResponse;
         }
 
-        return fetch(event.request).then(function(networkResponse) {
-          if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
-            return networkResponse;
-          }
-
-          // Controllo se la risposta ha un contenuto
-          if (networkResponse.ok && networkResponse.headers.get('Content-Length') !== '0') {
-            let responseToCache = networkResponse.clone();
-            caches.open(CACHE_NAME).then(function(cache) {
-              cache.put(event.request, responseToCache).catch(function(error) {
-                console.error('Errore durante il caching della richiesta:', error);
-              });
-            });
-          }
-
-          return networkResponse;
-        }).catch(function(error) {
-          console.error('Errore durante il fetch dalla rete:', error);
-          return new Response('Errore di rete', { status: 500 });
+        let responseToCache = networkResponse.clone();
+        caches.open(CACHE_NAME).then(function(cache) {
+          cache.put(event.request, responseToCache).catch(function(error) {
+            console.error('Errore durante il caching della richiesta:', error);
+          });
         });
-      }).catch(function(error) {
-        console.error('Errore durante il match dalla cache:', error);
-        return new Response('Errore di cache', { status: 500 });
+
+        return networkResponse;
+      }).catch(function() {
+        return caches.match(event.request).then(function(response) {
+          return response || new Response('Errore di rete', { status: 500 });
+        });
       })
     );
   }
