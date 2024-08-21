@@ -145,7 +145,7 @@ async function getOffers(page) {
             'p2p'
           ],
           method: method.startsWith('cash.') ? 'Cash' : method,
-          price: (basePrice * (offer.premium ? offer.premium / 100 + 1 : 1) * 1.02),
+          price: (basePrice * (offer.premium ? offer.premium / 100 + 1 : 1) ),
           amount: offer.amount
         });
       });
