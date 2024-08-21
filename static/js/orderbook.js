@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function () {
     table.style.display = "none";
     pagination.style.display = "none";
     loadingContainer.style.display = 'block';
-    orderbookContainer.innerHTML = ''; // trashbin the table
+    orderbookContainer.innerHTML = ''; // trashbinn the table
 
     try {
       const data = await getOffers(page);
