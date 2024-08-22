@@ -1,0 +1,53 @@
+extends /template.pug
+
+block append vars
+  - const hasTeaser = true
+
+block teaser
+  section#orderbook.main.wrap(style="width: 100%;")
+    #orderbook-container
+      div.top-header
+        h2 Sell offer
+
+        div(style="display: flex; gap: 1rem;")
+          label
+            select(name="order_by" id="orderBySelect") 
+              option(value="lowestPremium")  Lowest Premium
+              option(value="bestReputation")  Best Reputation
+              option(value="highestAmount")  Highest Amount
+              option(value="highestPrice")  Highest Price
+          
+          label
+            select(name="currency" id="currencySelect")
+              // currency options  
+
+      div#loading
+        svg(version="1.1" id="L9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 0 0" xml:space="preserve")
+          path(fill="#d5d5d5" d="M73,50c0-12.7-10.3-23-23-23S27,37.3,27,50 M30.9,50c0-10.5,8.5-19.1,19.1-19.1S69.1,39.5,69.1,50")
+            animateTransform(
+              attributeName="transform" 
+              attributeType="XML" 
+              type="rotate"
+              dur="1s" 
+              from="0 50 50"
+              to="360 50 50" 
+              repeatCount="indefinite"
+            )
+
+      div.table-wrapper
+        table(border="1", id="offerte-table")
+          thead
+            tr
+              th Payment Method
+              th(id="priceTh") Price (EUR/BTC)
+              th Amount (sats)
+          tbody#offerte-tbody
+            //- Righe della tabella verranno inserite qui dinamicamente dopo il caricamento
+      //- Contenitore per il paginatore
+      div.pagination
+        button#beforePageBtn(style="display: none;") &lt;
+        span#currentPage 1
+        button#afterPageBtn(style="display: none;") &gt;
+
+  // Inclusione dello script JavaScript
+  script(type="text/javascript" src='/js/orderbook.js')
