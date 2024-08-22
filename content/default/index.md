@@ -43,10 +43,6 @@ Peach Bitcoin is a **peer-to-peer** mobile app for trading Bitcoin without KYC v
 :::buttons
 [Check our Payment Methods](/how-it-works/#available-payment-methods)
 :::
-:::buttons
-[Check our Order Book](/KYCFREE-orderbook)
-:::
-
 
 ### Welcome to **Peach**, your premier destination for **peer-to-peer Bitcoin transactions**!
 
