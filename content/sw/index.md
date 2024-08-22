@@ -44,6 +44,10 @@ Peach ni programu ya rununu inayowakutanisha wauzaji na wanunuzi wa Bitcoin moja
 [Angalia Njia Zetu za Malipo](/how-it-works/#available-payment-methods)
 :::
 
+:::buttons
+[Angalia Kitabu chako cha Agizo](/kycfree-orderbook)
+:::
+
 Uza kwa **bei yako unayopenda** kwa sababu masoko ya kwa kwa ni masoko halisi.
 
 **Bitcoin bila KYC ni Bitcoin salama zaidi.**

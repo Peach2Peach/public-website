@@ -24,6 +24,10 @@ template: index
 [Κατεβάστε το αρχείο APK](/el/apk/)
 :::
 
+:::buttons
+[Tingnan ang aming Order Book](/kycfree-orderbook)
+:::
+
 </div>
 
 </div>

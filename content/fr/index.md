@@ -44,6 +44,10 @@ Peach est une application mobile qui **met en relation** directe les acheteurs e
 [Découvrez nos modes de paiement](/how-it-works/#available-payment-methods)
 :::
 
+:::buttons
+[Consultez notre carnet de commandes](/kycfree-orderbook)
+:::
+
 Vendez au **prix de votre choix** car les marchés pair-à-pair sont les vrais marchés.
 
 **Le Bitcoin sans KYC est le Bitcoin le plus sûr.**
