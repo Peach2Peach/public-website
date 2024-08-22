@@ -22,7 +22,7 @@ template: index
 
 :::buttons
 [Download APK on Android](/apk/)
-::: 
+:::
 
 </div>
 
