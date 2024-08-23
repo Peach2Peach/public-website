@@ -93,6 +93,13 @@ Si deseas utilizar otro método de pago que no esté en la lista, avísanos comp
 
 **[ESTE FORMULARIO](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
+### Consulta nuestro libro de pedidos
+
+:::buttons
+[Haz clic aquí](/es/kycfree-orderbook)
+:::
+para ver **TODAS LAS OFERTAS EN VIVO!**
+
 <!--[self_custody]-->
 
 ### No tus llaves, no tu dinero

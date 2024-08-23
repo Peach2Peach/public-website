@@ -61,5 +61,13 @@
   "meta.twitterDescription": "Peach Bitcoin - Koop Bitcoin met een cadeaubon, geen verificatie. Wissel peer-to-peer voor anonieme transacties. Leer hoe je Bitcoin privé kunt kopen en verkopen zonder KYC. Beheer je Bitcoin veilig met ons niet-KYC platform.",
   "meta.ogTitle": "Peach Bitcoin Exchange - Koop en Verkoop Bitcoin Anoniem en Zonder KYC",
   "meta.ogDescription": "Peach Bitcoin - Koop Bitcoin met een cadeaubon, geen verificatie. Wissel peer-to-peer voor anonieme transacties. Leer hoe je Bitcoin privé kunt kopen en verkopen zonder KYC. Beheer je Bitcoin veilig met ons niet-KYC platform.",
-  "meta.keywords": "Geen KYC Peer-to-Peer Bitcoin Exchange"
+  "meta.keywords": "Geen KYC Peer-to-Peer Bitcoin Exchange",
+  "orderbook.sellOffer": "Verkoopaanbieding",
+  "orderbook.lowestPremium": "Laagste Premie",
+  "orderbook.bestReputation": "Beste Reputatie",
+  "orderbook.highestAmount": "Hoogste Bedrag",
+  "orderbook.highestPrice": "Hoogste Prijs",
+  "orderbook.paymentMethod": "Betalingsmethode",
+  "orderbook.price": "Prijs",
+  "orderbook.amount": "Bedrag"
 }
