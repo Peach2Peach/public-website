@@ -24,6 +24,10 @@ template: index
 [APK letöltése Androidon](/apk/)
 :::
 
+:::buttons
+[nézze meg rendelési könyvünket](/hu/kycfree-orderbook)
+:::
+
 </div>
 
 </div>

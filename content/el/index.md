@@ -24,6 +24,10 @@ template: index
 [Κατεβάστε το αρχείο APK](/el/apk/)
 :::
 
+:::buttons
+[ελέγξτε το βιβλίο παραγγελιών μας](/el/kycfree-orderbook)
+:::
+
 </div>
 
 </div>

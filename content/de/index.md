@@ -24,6 +24,10 @@ template: index
 [APK für Android herunterladen](/apk/)
 :::
 
+:::buttons
+[Schauen Sie sich unser Bestellbuch an](/de/kycfree-orderbook)
+:::
+
 </div>
 
 </div>

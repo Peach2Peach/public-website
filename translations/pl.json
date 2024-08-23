@@ -61,5 +61,13 @@
   "meta.twitterDescription": "Peach Bitcoin - Kupuj Bitcoin za pomocą kart podarunkowych, bez weryfikacji. Wymieniaj się peer-to-peer dla anonimowych transakcji. Dowiedz się, jak kupować i sprzedawać Bitcoin prywatnie i bez KYC. Zarządzaj swoim Bitcoin bezpiecznie za pomocą naszej platformy bez KYC.",
   "meta.ogTitle": "Peach Bitcoin Exchange - Kupuj i sprzedawaj Bitcoin anonimowo i bez KYC",
   "meta.ogDescription": "Peach Bitcoin - Kupuj Bitcoin za pomocą kart podarunkowych, bez weryfikacji. Wymieniaj się peer-to-peer dla anonimowych transakcji. Dowiedz się, jak kupować i sprzedawać Bitcoin prywatnie i bez KYC. Zarządzaj swoim Bitcoin bezpiecznie za pomocą naszej platformy bez KYC.",
-  "meta.keywords": "Bez KYC Peer to Peer Bitcoin Exchange"
+  "meta.keywords": "Bez KYC Peer to Peer Bitcoin Exchange",
+  "orderbook.sellOffer": "Oferta sprzedaży",
+  "orderbook.lowestPremium": "Najniższa premia",
+  "orderbook.bestReputation": "Najlepsza reputacja",
+  "orderbook.highestAmount": "Najwyższa kwota",
+  "orderbook.highestPrice": "Najwyższa cena",
+  "orderbook.paymentMethod": "Metoda płatności",
+  "orderbook.price": "Cena",
+  "orderbook.amount": "Kwota"
 }

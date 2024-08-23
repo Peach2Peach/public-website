@@ -24,6 +24,10 @@ template: index
 [Pakua APK kwa Android](/apk/)
 :::
 
+:::buttons
+[angalia kitabu chetu cha agizo](/sw/kycfree-orderbook)
+:::
+
 </div>
 
 </div>

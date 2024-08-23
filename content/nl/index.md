@@ -24,6 +24,10 @@ template: index
 [Download APK op Android](/apk/)
 :::
 
+:::buttons
+[bekijk ons ​​orderboek](/nl/kycfree-orderbook)
+:::
+
 </div>
 
 </div>

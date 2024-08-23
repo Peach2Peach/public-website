@@ -61,5 +61,13 @@
   "meta.twitterDescription": "Peach Bitcoin - Köp Bitcoin med presentkort, ingen verifiering. Byt peer-to-peer för anonyma transaktioner. Lär dig hur du köper och säljer Bitcoin privat och utan KYC. Hantera dina Bitcoin säkert med vår plattform utan KYC.",
   "meta.ogTitle": "Peach Bitcoin Exchange - Köp och Sälj Bitcoin Anonymt och Utan KYC",
   "meta.ogDescription": "Peach Bitcoin - Köp Bitcoin med presentkort, ingen verifiering. Byt peer-to-peer för anonyma transaktioner. Lär dig hur du köper och säljer Bitcoin privat och utan KYC. Hantera dina Bitcoin säkert med vår plattform utan KYC.",
-  "meta.keywords": "Ingen KYC Peer-to-Peer Bitcoin Exchange"
+  "meta.keywords": "Ingen KYC Peer-to-Peer Bitcoin Exchange",
+  "orderbook.sellOffer": "Sälj erbjudande",
+  "orderbook.lowestPremium": "Lägsta Premie",
+  "orderbook.bestReputation": "Bästa Rykte",
+  "orderbook.highestAmount": "Högsta Belopp",
+  "orderbook.highestPrice": "Högsta Pris",
+  "orderbook.paymentMethod": "Betalningsmetod",
+  "orderbook.price": "Pris",
+  "orderbook.amount": "Belopp"
 }
