@@ -24,10 +24,6 @@ template: index
 [Download APK op Android](/apk/)
 :::
 
-:::buttons
-[bekijk ons ​​orderboek](/nl/kycfree-orderbook)
-:::
-
 </div>
 
 </div>
@@ -46,6 +42,10 @@ Peach is een mobiele applicatie die Bitcoin kopers en verkopers rechtstreeks met
 
 :::buttons
 [Bekijk onze Betalingsmethoden](/how-it-works/#available-payment-methods)
+:::
+
+:::buttons
+[bekijk ons ​​orderboek](/nl/kycfree-orderbook)
 :::
 
 Verkoop tegen **de prijs van jouw keuze**, omdat peer-to-peer markten de echte markten zijn.

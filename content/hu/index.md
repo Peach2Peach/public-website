@@ -24,10 +24,6 @@ template: index
 [APK letöltése Androidon](/apk/)
 :::
 
-:::buttons
-[nézze meg rendelési könyvünket](/hu/kycfree-orderbook)
-:::
-
 </div>
 
 </div>
@@ -46,6 +42,10 @@ A Peach egy mobilalkalmazás, amely közvetlenül összekapcsolja a Bitcoin vev�
 
 :::buttons
 [Fizetési módszereink megtekintése](/how-it-works/#available-payment-methods)
+:::
+
+:::buttons
+[nézze meg rendelési könyvünket](/hu/kycfree-orderbook)
 :::
 
 Add el a **saját áradon**, mert a peer-to-peer piacok az igazi piacok.

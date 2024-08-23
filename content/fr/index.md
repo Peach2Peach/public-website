@@ -24,10 +24,6 @@ template: index
 [Télécharger l'APK sur Android](/apk/)
 :::
 
-:::buttons
-[consultez notre carnet de commandes](/fr/kycfree-orderbook)
-:::
-
 </div>
 
 </div>
@@ -46,6 +42,10 @@ Peach est une application mobile qui **met en relation** directe les acheteurs e
 
 :::buttons
 [Découvrez nos modes de paiement](/how-it-works/#available-payment-methods)
+:::
+
+:::buttons
+[consultez notre carnet de commandes](/fr/kycfree-orderbook)
 :::
 
 Vendez au **prix de votre choix** car les marchés pair-à-pair sont les vrais marchés.
