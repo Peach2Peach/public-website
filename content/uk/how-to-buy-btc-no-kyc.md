@@ -92,6 +92,13 @@ template: how_it_works
 <br>
 **[ЦЮ ФОРМУ](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
+### Перегляньте нашу книгу замовлень
+
+:::buttons
+[Натисніть тут](/uk/kycfree-orderbook)
+:::
+щоб переглянути **ВСІ АКТИВНІ ПРОПОЗИЦІЇ!**
+
 <!--[self_custody]-->
 
 ### Не ваші ключі, не ваші монети

@@ -92,6 +92,13 @@ Jeśli jest inna metoda płatności, której chciałbyś użyć, ale nie ma jej 
 <br>
 **[TEN FORMULARZ](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
+### Sprawdź naszą księgę zamówień
+
+:::buttons
+[Kliknij tutaj](/pl/kycfree-orderbook)
+:::
+aby zobaczyć **WSZYSTKIE OFERTY NA ŻYWO!**
+
 <!--[self_custody]-->
 
 ### Nie twoje klucze, nie twoje monety

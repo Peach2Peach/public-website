@@ -93,6 +93,11 @@ Ikiwa kuna Njia nyingine ya Malipo unayotaka kutumia lakini haipo kwenye orodha,
 
 **[FOMU HII](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
+:::buttons
+[Bofya hapa](/sw/kycfree-orderbook)
+:::
+kuona **OFERTA ZOTE ZA MOJA KWA MOJA!**
+
 <!--[self_custody]-->
 
 ### Sio funguo zako, sio sarafu zako

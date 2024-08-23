@@ -92,6 +92,13 @@ Als er een andere betaalmethode is die je wilt gebruiken, maar die niet in de li
 <br>
 **[DIT FORMULIER](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
+### Bekijk ons orderboek
+
+:::buttons
+[Klik hier](/nl/kycfree-orderbook)
+:::
+om **ALLE LIVE AANBIEDINGEN te bekijken!**
+
 <!--[self_custody]-->
 
 ### Niet jouw sleutels, niet jouw munten

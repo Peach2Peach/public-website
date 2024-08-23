@@ -93,6 +93,13 @@ Si vous souhaitez utiliser un autre mode de paiement qui n'est pas répertorié,
 
 **[CE FORMULAIRE](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
+### Consultez notre carnet de commandes
+
+:::buttons
+[Cliquez ici](/fr/kycfree-orderbook)
+:::
+pour voir **TOUTES LES OFFRES EN DIRECT!**
+
 <!--[self_custody]-->
 
 ### Pas vos clés, pas vos coins

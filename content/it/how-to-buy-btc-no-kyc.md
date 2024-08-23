@@ -93,6 +93,13 @@ Se desideri utilizzare un altro metodo di pagamento che non è elencato, faccelo
 
 **[QUESTO MODULO](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
+### Consulta il nostro libro degli ordini
+
+:::buttons
+[Clicca qui](/kycfree-orderbook)
+:::
+per vedere **TUTTE LE OFFERTE LIVE!**
+
 <!--[self_custody]-->
 
 ### Non le tue chiavi, non le tue monete

@@ -86,11 +86,18 @@ There are a whole bunch of payment methods you can choose from.<br>
 :::buttons
 [Click here](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
 :::
-to discover **ALL OUR PAYMENT METHODS**!
+to discover **ALL OUR PAYMENT METHODS!**
 
 If there's another Payment Method you'd like to use, but it isn't listed, let us know by filling
 <br>
 **[THIS FORM](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
+
+### Check out our order book
+
+:::buttons
+[Click here](/kycfree-orderbook)
+:::
+to check **ALL THE LIVE OFFERS!**
 
 <!--[self_custody]-->
 

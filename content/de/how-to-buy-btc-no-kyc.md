@@ -93,6 +93,13 @@ Wenn es eine andere Zahlungsmethode gibt, die du nutzen möchtest, aber nicht au
 
 **[DIESES FORMULAR](https://ncxldazr6m4.typeform.com/to/SJljDnae)** ausfüllst!
 
+### Sehen Sie sich unser Orderbuch an
+
+:::buttons
+[Klicken Sie hier](/de/kycfree-orderbook)
+:::
+um **ALLE LIVE-ANGEBOTE zu sehen!**
+
 <!--[self-custody]-->
 
 ### Not your keys, not your coins

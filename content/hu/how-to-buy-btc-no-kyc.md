@@ -94,6 +94,13 @@ Ha van egy másik fizetési mód, amit szeretnél használni, de nem szerepel a 
 
 <!--[self_custody]-->
 
+### Nézze meg a rendelési könyvünket
+
+:::buttons
+[Kattintson ide](/hu/kycfree-orderbook)
+:::
+az ÖSSZES **ÉLŐ AJÁNLAT MEGTEKINTÉSÉHEZ!**
+
 ### Nem a te kulcsaid, nem a te coinjaid
 
 Az alkalmazásban van egy könnyen használható pénztárca, amelyet te irányítasz, vagy használhatsz egy meglévő pénztárcát. Maradj az alapoknál vagy legyél hardcore - mindig te irányítasz.
