@@ -95,3 +95,21 @@
     margin-right: auto;
   }
 }
+
+.btn {
+  cursor: pointer;
+  border: solid rgb(223, 50, 31);
+  font-family: Koulen;
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  padding: 19px 30px;
+  transition: 491ms;
+  width: 350px;
+  box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+  border-radius: 50px;
+  background: linear-gradient(0deg, rgb(223, 50, 31) 0%, rgb(223, 50, 31) 0%);
+  --hover-borderSize: 0px;
+  --hover-bgc: #df321f;
+  --hover-color: #fafafa;
+  --hover-width: 335px;
+  }
