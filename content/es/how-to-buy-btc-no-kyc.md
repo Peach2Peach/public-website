@@ -96,7 +96,7 @@ Si deseas utilizar otro método de pago que no esté en la lista, avísanos comp
 ### Consulta nuestro libro de pedidos
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/kycfree-orderbook'">P2P Bitcoin OrderBook</button>
+<button class="btn" id="customBtn" onclick="window.location.href='/es/kycfree-orderbook'">Libro de Órdenes P2P de Bitcoin</button>
 :::
 
 para ver **TODAS LAS OFERTAS EN VIVO!**

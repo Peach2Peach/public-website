@@ -95,7 +95,7 @@ Als er een andere betaalmethode is die je wilt gebruiken, maar die niet in de li
 ### Bekijk ons orderboek
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/nl/kycfree-orderbook'">P2P Bitcoin OrderBook</button>
+<button class="btn" id="customBtn" onclick="window.location.href='/nl/kycfree-orderbook'">P2P Bitcoin Orderboek</button>
 :::
 om **ALLE LIVE AANBIEDINGEN te bekijken!**
 

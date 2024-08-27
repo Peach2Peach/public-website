@@ -25,7 +25,7 @@ template: index
 :::
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/kycfree-orderbook'">P2P Bitcoin OrderBook</button>
+<button class="btn" id="customBtn" onclick="window.location.href='/fr/kycfree-orderbook'">Carnet d'Ordres P2P de Bitcoin</button>
 :::
 
 </div>

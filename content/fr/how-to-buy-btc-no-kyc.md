@@ -96,7 +96,7 @@ Si vous souhaitez utiliser un autre mode de paiement qui n'est pas répertorié,
 ### Consultez notre carnet de commandes
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/fr/kycfree-orderbook'">P2P Bitcoin OrderBook</button>
+<button class="btn" id="customBtn" onclick="window.location.href='/fr/kycfree-orderbook'">Carnet d'Ordres P2P de Bitcoin</button>
 :::
 pour voir **TOUTES LES OFFRES EN DIRECT!**
 

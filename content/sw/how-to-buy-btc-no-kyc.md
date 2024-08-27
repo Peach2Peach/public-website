@@ -94,7 +94,7 @@ Ikiwa kuna Njia nyingine ya Malipo unayotaka kutumia lakini haipo kwenye orodha,
 **[FOMU HII](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/sw/kycfree-orderbook'">P2P Bitcoin OrderBook</button>
+<button class="btn" id="customBtn" onclick="window.location.href='/sw/kycfree-orderbook'">Kitabu cha Maagizo cha P2P Bitcoin</button>
 :::
 kuona **OFERTA ZOTE ZA MOJA KWA MOJA!**
 

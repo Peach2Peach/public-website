@@ -96,7 +96,7 @@ Wenn es eine andere Zahlungsmethode gibt, die du nutzen möchtest, aber nicht au
 ### Sehen Sie sich unser Orderbuch an
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/de/kycfree-orderbook'">P2P Bitcoin OrderBook</button>
+<button class="btn" id="customBtn" onclick="window.location.href='/de/kycfree-orderbook'">P2P-Bitcoin-Orderbuch</button>
 :::
 um **ALLE LIVE-ANGEBOTE zu sehen!**
 
