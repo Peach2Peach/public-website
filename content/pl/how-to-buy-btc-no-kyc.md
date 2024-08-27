@@ -95,7 +95,7 @@ Jeśli jest inna metoda płatności, której chciałbyś użyć, ale nie ma jej 
 ### Sprawdź naszą księgę zamówień
 
 :::buttons
-[Kliknij tutaj](/pl/kycfree-orderbook)
+<button class="btn" id="customBtn" onclick="window.location.href='/pl/kycfree-orderbook'">Księga Zleceń P2P Bitcoin</button>
 :::
 aby zobaczyć **WSZYSTKIE OFERTY NA ŻYWO!**
 

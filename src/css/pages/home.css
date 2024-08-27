@@ -210,7 +210,7 @@
   --hover-bgc: #df321f;
   --hover-color: #fafafa;
   --hover-width: 335px;
-  font-weight: 900;
+  font-weight: var(--font-weight-normal);
   }
   
   .btn:hover {

@@ -97,7 +97,7 @@ Ha van egy másik fizetési mód, amit szeretnél használni, de nem szerepel a 
 ### Nézze meg a rendelési könyvünket
 
 :::buttons
-[Kattintson ide](/hu/kycfree-orderbook)
+<button class="btn" id="customBtn" onclick="window.location.href='/hu/kycfree-orderbook'">P2P Bitcoin Megrendelési Könyv</button>
 :::
 az ÖSSZES **ÉLŐ AJÁNLAT MEGTEKINTÉSÉHEZ!**
 

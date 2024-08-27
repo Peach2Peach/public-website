@@ -95,7 +95,7 @@ template: how_it_works
 ### Перегляньте нашу книгу замовлень
 
 :::buttons
-[Натисніть тут](/uk/kycfree-orderbook)
+<button class="btn" id="customBtn" onclick="window.location.href='/uk/kycfree-orderbook'">P2P Книга Замовлень Bitcoin</button>
 :::
 щоб переглянути **ВСІ АКТИВНІ ПРОПОЗИЦІЇ!**
 

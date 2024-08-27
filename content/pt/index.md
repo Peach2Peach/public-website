@@ -24,6 +24,10 @@ template: index
 [Download APK no Android](/pt/apk/)
 :::
 
+:::buttons
+<button class="btn" id="customBtn" onclick="window.location.href='/kycfree-orderbook'">Livro de Ordens P2P de Bitcoin</button>
+:::
+
 </div>
 
 </div>

@@ -96,8 +96,9 @@ template: how_it_works
 ### Δείτε το βιβλίο παραγγελιών μας
 
 :::buttons
-[Κάντε κλικ εδώ](/el/kycfree-orderbook)
+<button class="btn" id="customBtn" onclick="window.location.href='/el/kycfree-orderbook'">Βιβλίο Εντολών P2P Bitcoin</button>
 :::
+
 για να δείτε **ΟΛΕΣ ΤΙΣ ΖΩΝΤΑΝΕΣ ΠΡΟΣΦΟΡΕΣ!**
 
 <!--[self_custody]-->

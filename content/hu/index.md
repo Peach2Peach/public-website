@@ -21,6 +21,10 @@ template: index
   </div>
 
 :::buttons
+<button class="btn" id="customBtn" onclick="window.location.href='/hu/kycfree-orderbook'">P2P Bitcoin Megrendelési Könyv</button>
+:::
+
+:::buttons
 [APK letöltése Androidon](/apk/)
 :::
 
@@ -42,10 +46,6 @@ A Peach egy mobilalkalmazás, amely közvetlenül összekapcsolja a Bitcoin vev�
 
 :::buttons
 [Fizetési módszereink megtekintése](/how-it-works/#available-payment-methods)
-:::
-
-:::buttons
-[nézze meg rendelési könyvünket](/hu/kycfree-orderbook)
 :::
 
 Add el a **saját áradon**, mert a peer-to-peer piacok az igazi piacok.

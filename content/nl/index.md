@@ -24,6 +24,10 @@ template: index
 [Download APK op Android](/apk/)
 :::
 
+:::buttons
+<button class="btn" id="customBtn" onclick="window.location.href='/nl/kycfree-orderbook'">P2P Bitcoin Orderboek</button>
+:::
+
 </div>
 
 </div>
