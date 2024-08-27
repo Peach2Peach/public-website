@@ -24,6 +24,10 @@ template: index
 [Pakua APK kwa Android](/apk/)
 :::
 
+:::buttons
+<button class="btn" id="customBtn" onclick="window.location.href='/kycfree-orderbook'">P2P Bitcoin OrderBook</button>
+:::
+
 </div>
 
 </div>
@@ -42,10 +46,6 @@ Peach ni programu ya rununu inayowakutanisha wauzaji na wanunuzi wa Bitcoin moja
 
 :::buttons
 [Angalia Njia Zetu za Malipo](/how-it-works/#available-payment-methods)
-:::
-
-:::buttons
-[angalia kitabu chetu cha agizo](/sw/kycfree-orderbook)
 :::
 
 Uza kwa **bei yako unayopenda** kwa sababu masoko ya kwa kwa ni masoko halisi.

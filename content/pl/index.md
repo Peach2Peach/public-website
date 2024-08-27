@@ -24,6 +24,10 @@ template: index
 [Pobierz APK na Androida](/apk/)
 :::
 
+:::buttons
+<button class="btn" id="customBtn" onclick="window.location.href='/kycfree-orderbook'">P2P Bitcoin OrderBook</button>
+:::
+
 </div>
 
 </div>
@@ -42,10 +46,6 @@ Peach to aplikacja mobilna, która **łączy** bezpośrednio ze sobą kupującyc
 
 :::buttons
 [Sprawdź nasze metody płatności](/how-it-works/#available-payment-methods)
-:::
-
-:::buttons
-[sprawdź naszą książkę zamówień](/pl/kycfree-orderbook)
 :::
 
 Sprzedawaj po **cenie, którą wybierasz**, ponieważ rynki peer-to-peer to prawdziwe rynki.

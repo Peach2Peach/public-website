@@ -24,6 +24,10 @@ template: index
 [Κατεβάστε το αρχείο APK](/el/apk/)
 :::
 
+:::buttons
+<button class="btn" id="customBtn" onclick="window.location.href='/kycfree-orderbook'">P2P Bitcoin OrderBook</button>
+:::
+
 </div>
 
 </div>
@@ -42,10 +46,6 @@ template: index
 
 :::buttons
 [Ελέγξτε τις μεθόδους πληρωμής μας](/el/how-it-works/#available-payment-methods)
-:::
-
-:::buttons
-[ελέγξτε το βιβλίο παραγγελιών μας](/el/kycfree-orderbook)
 :::
 
 Πουλήστε στη **τιμή της επιλογής σας**, επειδή οι αγορές αντιπροσώπευσης προς αντιπροσώπευση είναι οι πραγματικές αγορές.
