@@ -12,12 +12,14 @@ description: |
   Discover how the Peach Bitcoin Order Book works—an innovative tool for buying Bitcoin quickly, securely, and anonymously. Take advantage of the unique setup with sell-only offers to find the perfect deal based on your payment method and preferences.
 ---
 
-## What is an Order Book?
+## What is an Order Book? (KYC-FREE With PeachBitcoin)
+
 The Order Book is a tool that collects all the offers to buy and sell a given asset, in this case Bitcoin, on our platform. It is like a virtual bulletin board that shows in real time the intentions of users to buy or sell BTC, without the need to provide personal information (KYC-Free).
 
 ![](/img/blog/orderbook/orderbook2.jpeg)
 
 # What is the Peach Bitcoin Order Book and how does it work?
+
 If you are new to Bitcoin trading, you have probably heard of a fundamental concept: the Order Book. But what exactly is it and how does it work, especially within our KYC-Free ecosystem on Peach Bitcoin? In this article, we will explore everything you need to know.
 
 ### Sell Offers
