@@ -196,27 +196,17 @@
 
 .btn {
   cursor: pointer;
-  border: solid rgb(223, 50, 31);
   font-family: var(--font-family-base);
   font-size: 19px;
   color: rgb(255, 255, 255);
   padding: 19px 30px;
   transition: 491ms;
-  width: 350px;
+  width: 18rem;
   box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
   border-radius: 50px;
-  background: linear-gradient(0deg, rgb(223, 50, 31) 0%, rgb(223, 50, 31) 0%);
+  background: #65A519;
   --hover-borderSize: 0px;
-  --hover-bgc: #df321f;
   --hover-color: #fafafa;
   --hover-width: 335px;
   font-weight: var(--font-weight-normal);
   }
-  
-  .btn:hover {
-  color: #fafafa; /* Colore del testo al passaggio del mouse */
-  background: linear-gradient(90deg, var(--primary-dark-1) 0%, var(--primary-main) 100%); /* Gradiente per l'hover */
-  border-color: var(--primary-dark-2); /* Bordo più scuro al passaggio del mouse */
-  border-width: 2px;
-  width: 370px; /* Mantiene la larghezza al passaggio del mouse */
-}
