@@ -4,77 +4,76 @@ template: index
 
 <!--[teaser]-->
 
-# Buy Bitcoin Without KYC | Peach Bitcoin Exchange
+# Acheter du Bitcoin Sans KYC | Peach Bitcoin Exchange
 
-## Buy & Sell Bitcoin <span>peer-to-peer</span>
+## Acheter & Vendre du Bitcoin <span>de pair-à-pair</span>
 
-### Made in Switzerland🇨🇭
+### Fabriqué en Suisse🇨🇭
 
 <div class="inner-wrap">
 
-![Mobile app for trading Bitcoin without KYC verification](/img/phones.png)
+![Application mobile pour échanger du Bitcoin sans vérification KYC](/img/phones.png)
 
 <div>
   <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Bitcoin app on the App Store without KYC verification"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Bitcoin app on Google Play store without ID verification"></a>
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Télécharger l'application Bitcoin sur l'App Store sans vérification KYC"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Télécharger l'application Bitcoin sur Google Play sans vérification ID"></a>
   </div>
 
 :::buttons
-[Download APK on Android](/apk/)
+[Télécharger l'APK sur Android](/apk/)
 :::
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/kycfree-orderbook'">P2P Bitcoin OrderBook</button>
+<button class="btn" id="customBtn" onclick="window.location.href='/kycfree-orderbook'">Carnet d'ordres Bitcoin P2P</button>
 :::
 
 </div>
 
 </div>
 
-#### ✔ verifiable source code
+#### ✔ code source vérifiable
 
 <!--[top]-->
 
-## The easiest way to Buy and Sell Bitcoin peer-to-peer
+## Le moyen le plus simple d'Acheter et de Vendre du Bitcoin de pair-à-pair
 
 <br>
 
-## What is Peach?
+## Qu'est-ce que Peach?
 
-Peach Bitcoin is a **peer-to-peer** mobile app for trading Bitcoin without KYC verification. We **connect** buyers and sellers of Bitcoin in a **secure** and **private** way.
+Peach Bitcoin est une application mobile **de pair-à-pair** pour échanger du Bitcoin sans vérification KYC. Nous **connectons** les acheteurs et les vendeurs de Bitcoin de manière **sécurisée** et **privée**.
 
 :::buttons
-[Check our Payment Methods](/how-it-works/#available-payment-methods)
+[Consultez nos Méthodes de Paiement](/how-it-works/#available-payment-methods)
 :::
 
-### Welcome to **Peach**, your premier destination for **peer-to-peer Bitcoin transactions**!
+### Bienvenue sur **Peach**, votre destination privilégiée pour les **transactions Bitcoin de pair-à-pair** !
 
-Embark on a journey of seamless peer-to-peer Bitcoin trading with Peach. Our platform redefines the experience of **buying and selling Bitcoin** by prioritizing privacy and convenience.
+Embarkez dans une expérience de trading Bitcoin de pair-à-pair sans faille avec Peach. Notre plateforme redéfinit l'expérience de **l'achat et de la vente de Bitcoin** en privilégiant la confidentialité et la commodité.
 
-Say goodbye to cumbersome ID verification and KYC processes as Peach offers a secure and private environment for all your transactions.
+Dites adieu aux processus fastidieux de vérification d'identité et KYC, car Peach offre un environnement sécurisé et privé pour toutes vos transactions.
 
-Whether you're looking to **buy Bitcoin with a gift card** or prefer the simplicity of **purchase without ID**, Peach provides a trusted platform for conducting **anonymous transactions** and **peer-to-peer exchanges**.
+Que vous cherchiez à **acheter du Bitcoin avec une carte cadeau** ou que vous préfériez la simplicité de **l'achat sans ID**, Peach vous offre une plateforme de confiance pour effectuer des **transactions anonymes** et des **échanges de pair-à-pair**.
 
-Join our community of like-minded individuals who value privacy and freedom in the Bitcoin ecosystem !
-We're actively seeking sellers who understand the importance of a **non-KYC Bitcoin market** and want to contribute to its growth.
+Rejoignez notre communauté de personnes partageant les mêmes valeurs, qui privilégient la confidentialité et la liberté dans l'écosystème Bitcoin !
+Nous recherchons activement des vendeurs qui comprennent l'importance d'un **marché Bitcoin sans KYC** et qui souhaitent contribuer à sa croissance.
 
-Together, let's make the Bitcoin ecosystem more accessible and private for everyone.
+Ensemble, rendons l'écosystème Bitcoin plus accessible et privé pour tout le monde.
 
-Peach is an SRO member (Self Regulatory Organisation) of Polyreg. Peach is a Swiss **licensed financial service provider** and is fully compliant with Switzerland’s Anti-Money Laundering Act.
-
+Peach est un membre d'une OAR (Organisation d'Autorégulation) de Polyreg. Peach est un **prestataire de services financiers agréé en Suisse** et est pleinement conforme à la Loi sur le blanchiment d'argent en Suisse.
 
 <div class="flex justify-center"><div class="w-1/2">
 
-[![Swiss regulated Bitcoin exchange certified by Polyreg](/img/home/polyreg.png)](https://www.polyreg.ch/)
+[![Échange de Bitcoin réglementé en Suisse certifié par Polyreg](/img/home/polyreg.png)](https://www.polyreg.ch/)
 
 </div></div>
 
-### What do people say about us?
+### Que disent les gens de nous?
 
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
 
-Do you want to earn 500 sats? Leave us a review in Apollo following [this link](https://heyapollo.com/invite-review?prod=peach) and you'll earn a 500 sats reward!
+Vous souhaitez gagner 500 sats ? Laissez-nous un avis sur Apollo en suivant [ce lien](https://heyapollo.com/invite-review?prod=peach) et vous recevrez une récompense de 500 sats !
 
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show="trustpilot" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
