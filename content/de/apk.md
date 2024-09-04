@@ -1,18 +1,30 @@
-# Herunterladen der APK
+# APK herunterladen
+
+## Für Android herunterladen
+
+- [Peach-Signatur]($apkSignaturesUrl$)
+- [SHA256-Prüfsummen]($apkChecksumsUrl$)
+
+<img src="/icons/qrcode_android.png" width="350">
+
+Neueste Version: $apkVersionBuild$
+
+Wir empfehlen, die ARM64-Version ab Android 8.0 und höher herunterzuladen.
 
 :::buttons
-[Lade Universal APK herunter]($apkUniversalUrl$)
-[Lade ARM64-v8 APK herunter]($apkArm64v8Url$)
+[Universal APK herunterladen]($apkUniversalUrl$)
+[ARM64-v8 APK herunterladen]($apkArm64v8Url$)
 :::
 
-- [Peach Signatur]($apkSignaturesUrl$)
-- [SHA256 Checksumme]($apkChecksumsUrl$)
+## Für iOS herunterladen
 
-Letzte Version: $APKVersionBuild$
+<img src="/icons/qrcode_apple.png" width="350">
 
-Wir empfehlen den Download der ARM64-Version ab Android 8.0.
+:::buttons
+[Für iOS herunterladen](https://testflight.apple.com/join/wfSPFEWG)
+:::
 
-## Probleme beim installieren der APK?
+## Kannst du das APK nicht installieren?
 
-Sende eine Email mit deinem Betriebsystem (iOS oder Android) und die Email Adresse welche mit deinem Play/App Store Account verbunden ist.
-[$KontaktEmail$](mailto:$contactEmail$) Und wir werden dich zur Liste hinzufügen.
+Senden Sie eine E-Mail mit Ihrem Betriebssystem (iOS oder Android) und der mit Ihrem Play/App Store-Konto verknüpften E-Mail-Adresse an
+[$contactEmail$](mailto:$contactEmail$) und wir fügen Sie zur Liste hinzu.

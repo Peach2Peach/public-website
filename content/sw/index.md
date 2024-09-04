@@ -21,7 +21,7 @@ template: index
   </div>
 
 :::buttons
-[Pakua APK kwa Android](/apk/)
+[pakua programu](/apk/)
 :::
 
 :::buttons
