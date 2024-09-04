@@ -4,20 +4,20 @@ template: index
 
 <!--[teaser]-->
 
-# Acheter du Bitcoin Sans KYC
+# Peach Bitcoin
 
-## Acheter & Vendre du Bitcoin <span>de pair-à-pair</span>
+## Achetez & Vendez du Bitcoin en <span>pair-à-pair</span>
 
-### Fait en Suisse
+### De Suisse🇨🇭
 
 <div class="inner-wrap">
 
-![Application mobile pour échanger du Bitcoin sans vérification KYC](/img/phones.png)
+![Mobile app for trading Bitcoin without KYC verification](/img/phones.png)
 
 <div>
   <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Télécharger l'application Bitcoin sur l'App Store sans vérification KYC"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Télécharger l'application Bitcoin sur Google Play sans vérification ID"></a>
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Bitcoin app on the App Store without KYC verification"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Bitcoin app on Google Play store without ID verification"></a>
   </div>
 
 :::buttons
@@ -25,7 +25,7 @@ template: index
 :::
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/kycfree-orderbook'">Consulté les offres</button>
+<button class="btn" id="customBtn" onclick="window.location.href='/fr/kycfree-orderbook'">Carnet d'Ordres P2P de Bitcoin</button>
 :::
 
 </div>
@@ -36,44 +36,49 @@ template: index
 
 <!--[top]-->
 
-## Le moyen le plus simple d' acheter et de vendre du Bitcoin de pair-à-pair
+# La manière la plus simple d'acheter et de vendre du Bitcoin en P2P
 
 <br>
 
-## Qu'est-ce que Peach?
+## Qu'est-ce que Peach ?
 
-Peach Bitcoin est une application mobile **de pair-à-pair** pour échanger du Bitcoin sans vérification d'identité personnelle. Nous **connectons** les acheteurs et les vendeurs de Bitcoin de manière **sécuritaire** et **privée**.
+Peach est une application mobile qui **met en relation** directe les acheteurs et les vendeurs de Bitcoin.
 
 :::buttons
-[Consultez Nos Méthodes de Paiement](/how-it-works/#available-payment-methods)
+[Découvrez nos modes de paiement](/how-it-works/#available-payment-methods)
 :::
 
-### Bienvenue sur **Peach**, votre destination privilégiée pour les **transactions Bitcoin de pair-à-pair** !
+Vendez au **prix de votre choix** car les marchés pair-à-pair sont les vrais marchés.
 
-Embarquer dans une expérience de trading Bitcoin de pair-à-pair sans faille avec Peach. Notre plateforme redéfinit l'expérience de **l'achat et de la vente de Bitcoin** en privilégiant la confidentialité et la commodité.
+**Le Bitcoin sans KYC est le Bitcoin le plus sûr.**
 
-Dites adieu aux processus fastidieux de vérification d'identité et KYC, car Peach offre un environnement sécurisé et privé pour toutes vos transactions.
+<!--[mission]-->
 
-Que vous cherchiez à **acheter du Bitcoin avec une carte cadeau** ou que vous préfériez la simplicité de **l'achat sans vérification d'identité**, Peach vous offre une plateforme de confiance pour effectuer des **transactions anonymes** et des **échanges de pair-à-pair**.
+## Rejoignez notre mission
 
-Rejoignez notre communauté partageant les mêmes valeurs, qui privilégient la confidentialité et la liberté dans l'écosystème Bitcoin !
-Nous recherchons activement des vendeurs qui comprennent l'importance d'un **d'un marché Bitcoin sans vérification d'identité** et qui souhaitent contribuer à sa croissance.
+### Nous visons à rendre l'accumulation de sats en pair-à-pair la norme !
 
-Ensemble, rendons l'écosystème Bitcoin plus accessible et privé pour tout le monde.
+<!--[about]-->
 
-Peach est un membre d'une OAR (Organisation d'Autorégulation) de Polyreg. Peach est un **prestataire de services financiers agréé en Suisse** et est pleinement conforme à la Loi sur le blanchiment d'argent en Suisse.
+## À propos de nous
+
+Peach, l'entreprise, est née de personnes qui croient en la monnaie la plus dure qui ait jamais existé et qui veulent la rendre accessible au monde entier sans compromettre les aspects fondamentaux de Bitcoin.
+
+Faites-vous partie de ces personnes ? Consultez notre section [Rejoignez-nous](/join-us/), peut-être que nous pouvons travailler ensemble !
+
+Si vous voulez en savoir plus sur l'entreprise, consultez nos [articles de blog](/blog/) qui parlent de comment tout a commencé et comment nous en sommes arrivés là.
+
+Peach est membre de SRO (Organisation d'autorégulation) de Polyreg. Peach est un prestataire de services financiers agréé en Suisse, en totale conformité avec la Loi suisse sur la lutte contre le blanchiment d'argent.
 
 <div class="flex justify-center"><div class="w-1/2">
 
-[![Échange de Bitcoin réglementé en Suisse certifié par Polyreg](/img/home/polyreg.png)](https://www.polyreg.ch/)
+![Swiss regulated Bitcoin exchange certified by Polyreg](/img/home/polyreg.png)
 
 </div></div>
 
-### Que disent les gens de nous?
+### Qu'est-ce que les gens disent de nous?
 
 <br>
 <div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show ="top" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
 
-Vous souhaitez gagner 500 sats ? Laissez-nous un avis sur Apollo en suivant [ce lien](https://heyapollo.com/invite-review?prod=peach) et vous recevrez une récompense de 500 sats !
-
-<div id="ap-widget-container" class="ap-widget-container" prod_code="peach" show="trustpilot" bg_color="#FFFFFF" review_bg_color = "#FFFFFF" text_color = "#000000"></div>
+Voulez-vous gagner 500 sats ? Laissez-nous un avis sur Apollo en suivant [ce lien](https://heyapollo.com/invite-review?prod=peach) et vous recevrez une récompense de 500 sats !
