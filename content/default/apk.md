@@ -2,11 +2,6 @@
 
 ## Download for Android
 
-:::buttons
-[Download Universal APK]($apkUniversalUrl$)
-[Download ARM64-v8 APK]($apkArm64v8Url$)
-:::
-
 - [Peach signature]($apkSignaturesUrl$)
 - [SHA256 checksums]($apkChecksumsUrl$)
 
@@ -17,11 +12,18 @@ Latest version: $apkVersionBuild$
 
 We recommend downloading the ARM64 version from Android 8.0 and up.
 
+:::buttons
+[Download Universal APK]($apkUniversalUrl$)
+[Download ARM64-v8 APK]($apkArm64v8Url$)
+:::
+
 ## Download for Ios
 
-<img src="/icons/qrcode_apple.png"  width="350"><br>
+<img src="/icons/qrcode_apple.png"  width="350">
 
-<br>
+:::buttons
+[Download for Ios](https://testflight.apple.com/join/wfSPFEWG)
+:::
 
 ## Can't install the APK?
 
