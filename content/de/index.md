@@ -20,7 +20,6 @@ template: index
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Bitcoin app on Google Play store without ID verification"></a>
   </div>
 
-
 :::buttons
 [lade die App herunter](/de/apk/)
 :::
