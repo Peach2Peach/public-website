@@ -12,6 +12,10 @@ Latest version: $apkVersionBuild$
 
 We recommend downloading the ARM64 version from Android 8.0 and up.
 
+# Download for Ios
+
+![](/icons/testflight_qr_code.png)
+
 ## Can't install the APK?
 
 Send an email with your operating system (iOS or Android) and the email address linked to your Play/App Store account to
