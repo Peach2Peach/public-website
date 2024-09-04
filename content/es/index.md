@@ -25,7 +25,7 @@ template: index
 :::
 
 :::buttons
-[Descarga APK para Android](/es/apk/)
+[descarga la aplicación](/es/apk/)
 :::
 
 </div>

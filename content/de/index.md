@@ -22,7 +22,7 @@ template: index
 
 
 :::buttons
-[APK für Android herunterladen](/apk/)
+[lade die App herunter](/de/apk/)
 :::
 
 :::buttons

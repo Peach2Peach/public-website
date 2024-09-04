@@ -25,7 +25,7 @@ template: index
 :::
 
 :::buttons
-[APK letöltése Androidon](/apk/)
+[töltsd le az alkalmazást](/apk/)
 :::
 
 </div>
