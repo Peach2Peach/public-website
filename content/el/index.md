@@ -21,11 +21,11 @@ template: index
   </div>
 
 :::buttons
-[κατέβασε την εφαρμογή](/el/apk/)
+[Λήψη του APK](/el/apk/)
 :::
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/el/kycfree-orderbook'">Βιβλίο Εντολών P2P Bitcoin</button>
+<button class="btn" id="customBtn" onclick="window.location.href='/el/kycfree-orderbook'">Βιβλίο Παραγγελιών PeachBitcoin Peer-To-Peer</button>
 :::
 
 </div>

@@ -21,11 +21,11 @@ template: index
   </div>
 
 :::buttons
-[töltsd le az alkalmazást](/hu/apk/)
+[APK letöltése](/hu/apk/)
 :::
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/hu/kycfree-orderbook'">P2P Bitcoin Megrendelési Könyv</button>
+<button class="btn" id="customBtn" onclick="window.location.href='/hu/kycfree-orderbook'">PeachBitcoin Peer-To-Peer Rendelési Könyv</button>
 :::
 
 </div>

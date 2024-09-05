@@ -21,11 +21,11 @@ template: index
   </div>
 
 :::buttons
-[pakua programu](/apk/)
+[Pakua APK](/apk/)
 :::
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/sw/kycfree-orderbook'">Kitabu cha Maagizo cha P2P Bitcoin</button>
+<button class="btn" id="customBtn" onclick="window.location.href='/sw/kycfree-orderbook'">Kitabu cha Agizo cha PeachBitcoin Peer-To-Peer</button>
 :::
 
 </div>
