@@ -211,8 +211,3 @@
   font-weight: var(--font-weight-normal);
   }
   
-.inner-wrap img {
-  max-width: 100%; 
-  height: auto; 
-}
-
