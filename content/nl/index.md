@@ -25,7 +25,7 @@ template: index
 :::
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/nl/kycfree-orderbook'">P2P Bitcoin Orderboek</button>
+<button class="btn" id="customBtn" alt="Peachbitcoin P2P Orderbook, TOP NOKYC OrderBook, KycFree orderbook, Orderbook NOKYC" onclick="window.location.href='/nl/kycfree-orderbook'">Bekijk live orderboek</button>
 :::
 
 </div>

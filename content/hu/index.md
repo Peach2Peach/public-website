@@ -25,7 +25,7 @@ template: index
 :::
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/hu/kycfree-orderbook'">P2P Bitcoin Megrendelési Könyv</button>
+<button class="btn" id="customBtn" alt="Peachbitcoin P2P Orderbook, TOP NOKYC OrderBook, KycFree orderbook, Orderbook NOKYC" onclick="window.location.href='/hu/kycfree-orderbook'">Élő rendelési könyv megtekintése</button>
 :::
 
 </div>

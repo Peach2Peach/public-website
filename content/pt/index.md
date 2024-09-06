@@ -24,9 +24,7 @@ template: index
 [baixe o aplicativo](/pt/apk/)
 :::
 
-:::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/kycfree-orderbook'">Livro de Ordens P2P de Bitcoin</button>
-:::
+<button class="btn" id="customBtn" alt="Peachbitcoin P2P Orderbook, TOP NOKYC OrderBook, KycFree orderbook, Orderbook NOKYC" onclick="window.location.href='/pt/kycfree-orderbook'">Verifique o livro de ordens ao vivo</button>
 
 </div>
 
@@ -46,10 +44,6 @@ O Peach é um aplicativo móvel que **conecta** diretamente compradores e vended
 
 :::buttons
 [Verifique nossos Métodos de Pagamento](/pt/how-it-works/#available-payment-methods)
-:::
-
-:::buttons
-[consulte a nossa carteira de pedidos](/pt/kycfree-orderbook.md)
 :::
 
 Venda pelo **preço de sua escolha** porque os mercados peer-to-peer são os verdadeiros mercados.
