@@ -21,7 +21,7 @@ template: index
   </div>
 
 :::buttons
-[pakua programu](/apk/)
+[Pakua APK](/apk/)
 :::
 
 :::buttons

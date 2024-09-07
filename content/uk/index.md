@@ -21,7 +21,7 @@ template: index
   </div>
 
 :::buttons
-[завантажте додаток](/uk/apk/)
+[Завантажити APK](/uk/apk/)
 :::
 
 :::buttons

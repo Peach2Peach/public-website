@@ -21,7 +21,7 @@ template: index
   </div>
 
 :::buttons
-[baixe o aplicativo](/pt/apk/)
+[Pobierz APK](/pt/apk/)
 :::
 
 <button class="btn" id="customBtn" alt="Peachbitcoin P2P Orderbook, TOP NOKYC OrderBook, KycFree orderbook, Orderbook NOKYC" onclick="window.location.href='/pt/kycfree-orderbook'">Verifique o livro de ordens ao vivo</button>

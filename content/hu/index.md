@@ -21,7 +21,7 @@ template: index
   </div>
 
 :::buttons
-[töltsd le az alkalmazást](/hu/apk/)
+[Töltsd le az APK-t](/hu/apk/)
 :::
 
 :::buttons

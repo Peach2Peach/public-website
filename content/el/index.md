@@ -21,7 +21,7 @@ template: index
   </div>
 
 :::buttons
-[κατέβασε την εφαρμογή](/el/apk/)
+[Κατεβάστε το APK](/el/apk/)
 :::
 
 :::buttons

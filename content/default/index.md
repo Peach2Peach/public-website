@@ -21,7 +21,7 @@ template: index
   </div>
 
 :::buttons
-[Download the app](/apk/)
+[Download the APK](/apk/)
 :::
 
 :::buttons
