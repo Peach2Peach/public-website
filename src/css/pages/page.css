@@ -126,7 +126,7 @@
       max-width: 90%;
     }
 
-    @media screen and (max-height: 799.99px) {
+    @media screen and (max-height: 600.99px) {
       max-height: 210.5vh !important;
     }
   }

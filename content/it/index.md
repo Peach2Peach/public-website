@@ -21,11 +21,11 @@ template: index
   </div>
 
 :::buttons
-[scarica l'app](/it/apk/)
+[Scarica l'APK](/it/apk/)
 :::
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/it/kycfree-orderbook'">Libro Ordini P2P di Bitcoin</button>
+<button class="btn" id="customBtn" alt="Peachbitcoin P2P Orderbook, TOP NOKYC OrderBook, KycFree orderbook, Orderbook NOKYC" onclick="window.location.href='/it/kycfree-orderbook'">Controlla il libro degli ordini in tempo reale</button>
 :::
 
 </div>
