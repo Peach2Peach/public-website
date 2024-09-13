@@ -12,8 +12,7 @@
 Συνιστούμε τη λήψη της έκδοσης ARM64 για Android 8.0 και νεότερες εκδόσεις.
 
 :::buttons
-[Λήψη Universal APK]($apkUniversalUrl$)
-[Λήψη ARM64-v8 APK]($apkArm64v8Url$)
+[Λήψη APK]($apkUrl$)
 :::
 
 ## Λήψη για iOS

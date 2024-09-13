@@ -12,8 +12,7 @@ Toleo la hivi punde: $apkVersionBuild$
 Tunapendekeza upakue toleo la ARM64 kwa Android 8.0 na za juu.
 
 :::buttons
-[Pakua APK ya Universal]($apkUniversalUrl$)
-[Pakua APK ya ARM64-v8]($apkArm64v8Url$)
+[Pakua APK]($apkUrl$)
 :::
 
 ## Pakua kwa iOS
