@@ -84,7 +84,7 @@ There are a whole bunch of payment methods you can choose from.<br>
 ### Available Payment Methods
 
 :::buttons
-[Click here](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
+[Click here](/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2024-with-PeachBitcoin)
 :::
 to discover **ALL OUR PAYMENT METHODS!**
 
