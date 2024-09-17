@@ -13,7 +13,7 @@ Peach est **facile** à utiliser, c'est plus **confidentiel**, offre **plus de m
 ## Guide 1 : Configuration de l'application
 
 Après avoir installé l'application (via l'[App Store]($iosUrl$), le [Play Store]($androidUrl$) ou [le téléchargement de l'APK](/apk/)), vous avez déjà presque terminé.
-La seule chose dont vous avez besoin maintenant est un code de parrainage, si vous en avez un.
+Si vous avez un code de parrainage, fournissez-le, sinon ignorez-le.
 
 :::figures 4
 ![Tout d'abord, vous serez invité à partager des données avec nous](/img/faq/quickstart/onboarding/usage-data.png)
