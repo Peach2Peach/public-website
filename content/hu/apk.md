@@ -14,7 +14,8 @@ Legújabb verzió: $apkVersionBuild$
 Javasoljuk az ARM64 verzió letöltését Android 8.0 és újabb rendszerekhez.
 
 :::buttons
-[APK letöltése]($apkUrl$)
+[Univerzális APK letöltése]($apkUniversalUrl$)
+[ARM64-v8 APK letöltése]($apkArm64v8Url$)
 :::
 
 ## Letöltés iOS-re

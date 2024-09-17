@@ -14,7 +14,8 @@ Laatste versie: $apkVersionBuild$
 We raden aan om de ARM64-versie te downloaden voor Android 8.0 en hoger.
 
 :::buttons
-[APK downloaden]($apkUrl$)
+[Universele APK downloaden]($apkUniversalUrl$)
+[ARM64-v8 APK downloaden]($apkArm64v8Url$)
 :::
 
 ## Downloaden voor iOS
