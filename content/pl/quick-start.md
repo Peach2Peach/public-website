@@ -13,7 +13,7 @@ Peach jest **łatwe** w użyciu, jest bardziej **prywatne**, ma **więcej metod 
 ## Przewodnik 1: Konfiguracja aplikacji
 
 Po zainstalowaniu aplikacji (przez [App Store]($iosUrl$), [Play Store]($androidUrl$) lub [pobranie APK](/apk/)), jesteś właściwie już gotowy.
-Jedyne, co od ciebie wymagamy w tej chwili, to kod polecający - jeśli go masz.
+Jeśli masz kod polecający, podaj go, w przeciwnym razie pomiń go.
 
 :::figures 4
 ![Na początku zostaniesz zapytany, czy chcesz udostępnić nam niektóre dane](/img/faq/quickstart/onboarding/usage-data.png)

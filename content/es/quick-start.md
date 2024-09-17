@@ -13,7 +13,7 @@ Peach es **fácil** de usar, es más **privado**, tiene **más métodos de pago*
 ## Guía 1: Configuración de la aplicación
 
 Después de haber instalado la aplicación (a través de la [App Store]($iosUrl$), [Play Store]($androidUrl$) o [descarga APK](/es/apk/)), ya estás prácticamente listo.
-Lo único que se requiere de ti ahora es un código de referido, si tienes uno.
+Si tiene un código de referencia, proporciónelo, de lo contrario, sáltelo.
 
 :::figures 4
 ![Primero se te preguntará si quieres compartir algunos datos con nosotros](/img/faq/quickstart/onboarding/usage-data.png)

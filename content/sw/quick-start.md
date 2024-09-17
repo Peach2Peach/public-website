@@ -13,7 +13,7 @@ Peach ni **rahisisha** kutumia, ni zaidi **ya faragha** , ina **njia zaidi za ma
 ## Mwongozo 1: Kuweka Programu
 
 Baada ya kusakinisha programu (kupitia [Duka la Programu]($iosUrl$), [Duka la Kucheza]($androidUrl$) au [Pakua APK](/apk/)), tayari umemaliza karibu.
-Kitu pekee kinachohitajika kutoka kwako kwa sasa ni nambari ya rufaa - ikiwa una moja.
+Ikiwa una nambari ya rufaa inayotoa, vinginevyo ruka.
 
 :::figures 4
 ![Kwanza utaulizwa ikiwa unataka kushiriki data nasi](/img/faq/quickstart/onboarding/usage-data.png)
