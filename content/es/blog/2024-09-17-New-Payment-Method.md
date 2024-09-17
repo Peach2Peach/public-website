@@ -21,7 +21,7 @@ keywords:
   - Blockchain
 
 tags:
-  - Empresa
+  - Producto
 previewImage: /img/home/bitcoin-logo.png
 description: |
   Explora el mundo innovador de Bitcoin, la criptomoneda pionera que permite transacciones seguras y descentralizadas en una red global. Aprende sobre los mejores intercambios de Bitcoin sin KYC, mercados de comercio peer-to-peer y los beneficios de las transacciones anónimas de Bitcoin. Descubre por qué Bitcoin sigue siendo una inversión valiosa en 2024 y cómo mantiene su seguridad frente a la explotación.

@@ -21,7 +21,7 @@ keywords:
   - Blockchain
 
 tags:
-  - Bedrijf
+  - Product
 previewImage: /img/home/bitcoin-logo.png
 description: |
   Ontdek de innovatieve wereld van Bitcoin, de baanbrekende cryptovaluta die veilige, gedecentraliseerde transacties mogelijk maakt via een wereldwijd netwerk. Leer over de beste non-KYC Bitcoin-uitwisselingen, peer-to-peer handelsmarkten en de voordelen van anonieme Bitcoin-transacties. Ontdek waarom Bitcoin in 2024 een waardevolle investering blijft en hoe het zijn veiligheid tegen exploitatie handhaaft.
