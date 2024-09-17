@@ -73,6 +73,8 @@ languages.forEach(language => {
   data.tags = data.tags.concat(tags)
 })
 
+data.posts.sort((a, b) => new Date(b.date) - new Date(a.date))
+
 const json = JSON.stringify(data, null, 2)
 
 writeFileSync(dst, json)
