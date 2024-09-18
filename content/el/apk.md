@@ -14,7 +14,7 @@
 :::buttons
 [Λήψη Universal APK]($apkUniversalUrl$)
 [Λήψη ARM64-v8 APK]($apkArm64v8Url$)
-:::
+::: 
 
 ## Λήψη για iOS
 
