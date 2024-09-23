@@ -61,9 +61,9 @@ You can now make the payment following the contract's instruction.
 
 Peach is NOT connected to your payment method. You have to make the payment on your bank app. Once done, come back to Peach and click on "I made the payment".
 
-Once the seller confirms the reception of the payment, you receive your sats!
+Once the seller confirms receipt of the payment, you will receive your sats!
 
-**IMPORTANT: go to Settings > back up and save your seed phrase!!! If you lose your seed phrase, you lose your bitcoin. #notyourkeysnotyourcoins**
+**IMPORTANT: go to Settings > backup and save your seed phrase!!! If you lose your seed phrase, you lose your bitcoin. #notyourkeysnotyourcoins**
 
 :::figures 3
 ![If the seller matches you back, you'll be notified & shown their payment details. You should go to your payment app and manually make the payment there. After that, you confirm that you did with the slider at the bottom, and you wait for the seller to respond (you can chit-chat in the meantime).](/img/faq/quickstart/buy/BuyStep8.png)
