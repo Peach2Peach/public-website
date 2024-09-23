@@ -13,7 +13,7 @@ Peach is **easy** to use, it's more **private** , has **more payment methods** a
 ## Guide 1: Setting up the app
 
 After you've installed the app (through the [App Store]($iosUrl$), [Play Store]($androidUrl$) or [APK download](/apk/)), you're pretty much already done.
-If you have a referral code provide it, otherwise skip it.
+The only thing required from you right now is a referral code - if you have one.
 
 :::figures 4
 ![First you'll be asked if you want to share some data with us](/img/faq/quickstart/onboarding/usage-data.png)
