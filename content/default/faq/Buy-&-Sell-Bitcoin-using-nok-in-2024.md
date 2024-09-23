@@ -10,7 +10,7 @@ PeachBitcoin is the secure, quick, and easy way to buy and sell Bitcoin using an
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-straksbetaling">Straksbetaling</a> 
+        <a href="/buy-bitcoin-with-national-transfer-norway">Straksbetaling</a> 
         <img src="/img/faq/logoimg/norway.png" width="30px" height="27px" alt="Buy bitcoin with Straksbetaling, Sell bitcoin with Straksbetaling">
     </div>
     <div class="payment-grid-item">

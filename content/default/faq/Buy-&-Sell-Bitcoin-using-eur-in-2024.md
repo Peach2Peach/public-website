@@ -68,7 +68,7 @@ PeachBitcoin is the secure, quick, and easy way to buy and sell Bitcoin using an
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-amazon">Amazon</a> 
+        <a href="/buy-btc-with-amazon">Amazon</a> 
         <img src="/img/faq/logoimg/amazon.png" width="30px" height="27px" alt="Buy bitcoin with Amazon, Sell bitcoin with Amazon">
     </div>
 </div>
@@ -101,7 +101,7 @@ PeachBitcoin is the secure, quick, and easy way to buy and sell Bitcoin using an
         <img src="/img/faq/logoimg/mobilepay.png" width="30px" height="27px" alt="Buy bitcoin with Mobile Pay, Sell bitcoin with Mobile Pay">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-kekspay">Keks Pay</a> 
+        <a href="/buy-bitcoin-with-Keks">Keks Pay</a> 
         <img src="/img/faq/logoimg/keks.png" width="30px" height="27px" alt="Buy bitcoin with Keks Pay, Sell bitcoin with Keks Pay">
     </div>
     <div class="payment-grid-item">
