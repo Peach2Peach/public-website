@@ -1,0 +1,18 @@
+<body class="payment-methods-page">
+
+# Acheter & Vendre du Bitcoin avec n'importe quel mode de paiement 2024 avec PeachBitcoin
+
+PeachBitcoin est le moyen sûr, rapide et facile d'acheter et de vendre du Bitcoin en utilisant n'importe quel mode de paiement, partout dans le monde. Nous priorisons votre vie privée et votre sécurité, en offrant une large gamme d'options de paiement pour répondre à vos besoins. Voici tous nos modes de paiement disponibles pour le Peso Chilien (CLP).
+
+## Modes de Paiement en CLP
+
+### Portefeuilles Électroniques
+
+<div class="payment-grid">
+    <div class="payment-grid-item">
+        <a href="/buy-bitcoin-with-rappipay">RappiPay</a> 
+        <img src="/img/faq/logoimg/rappipay.png" width="30px" height="27px" alt="Acheter du bitcoin avec RappiPay, Vendre du bitcoin avec RappiPay">
+    </div>
+</div>
+
+</body>

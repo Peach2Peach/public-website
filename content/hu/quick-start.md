@@ -13,7 +13,7 @@ A Peach **könnyen** használható, **magánélet-barátabb**, **több fizetési
 ## Útmutató 1: Az alkalmazás beállítása
 
 Miután telepítetted az alkalmazást (az [App Store-ból]($iosUrl$), [Play Áruházból]($androidUrl$) vagy [APK letöltéssel](/apk/)), gyakorlatilag már kész is vagy.
-Ha van hivatkozási kódja, adja meg, különben hagyja ki.
+Egyetlen dolog szükséges most tőled, egy ajánlókód - ha van ilyened.
 
 :::figures 4
 ![Először megkérdezünk, hogy szeretnél-e néhány adatot megosztani velünk](/img/faq/quickstart/onboarding/usage-data.png)

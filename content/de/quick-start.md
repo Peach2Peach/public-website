@@ -13,7 +13,7 @@ Peach ist **einfach** zu verwenden, es ist **privater**, hat **mehr Zahlungsmeth
 ## Anleitung 1: Einrichten der App
 
 Nachdem du die App installiert hast (über den [App Store]($iosUrl$), [Play Store]($androidUrl$) oder [APK-Download](/apk/)), bist du schon so gut wie fertig.
-Wenn Sie einen Empfehlungscode haben, geben Sie ihn an, andernfalls überspringen Sie ihn.
+Das einzige, was du im moment benötigst ist ein Empfehlungscode – sofern du einen hast.
 
 :::figures 4
 ![Zuerst wirst du gefragt, ob du einige Daten mit uns teilen möchtest](/img/faq/quickstart/onboarding/usage-data.png)

@@ -5,120 +5,246 @@ template: how_it_works
 
 <!--[teaser]-->
 
-![Compre e venda Bitcoin entre pares](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
+![Comprar e vender Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
 
-### Acumule satoshis <span>todos os dias</span>!
+### Acumule sats <span>todos os dias</span>!
 
-**Compre e venda até 1000 CHF por dia e 100.000 CHF por ano.**
+**Compre e venda até 1000 CHF por dia e 100'000 CHF por ano.**
 
 <!--[easy_registration]-->
 
 ### Registro fácil
 
-Baixe o aplicativo gratuitamente e compre ou venda Bitcoin imediatamente! Não pediremos que você envie seu ID ou tire uma selfie com sua carteira de motorista ;)
+Baixe o aplicativo gratuitamente e comece a negociar imediatamente! Não pediremos que você faça upload do seu documento de identidade ou que tire uma selfie com sua carteira de motorista.
 
-<div>
+<div class="custom-section_357">
   <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Bitcoin app on the App Store without KYC verification"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Bitcoin app on Google Play store without ID verification"></a>
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Baixe o aplicativo Peach Bitcoin na App Store sem verificação de KYC"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Baixe o aplicativo Peach Bitcoin na Google Play Store sem verificação de identidade"></a>
   </div>
 
 :::buttons
-[Download APK no Android](/pt/apk/)
+[Baixar APK no Android](/pt/apk/)
 :::
 
 </div>
 
 <!--[payment_methods]-->
 
-### Métodos de pagamento aceitos
+### Métodos de pagamento suportados
 
-Existem muitos métodos de pagamento que você pode escolher.
+Existem várias opções de métodos de pagamento para escolher.<br>
 
-#### Moedas Suportadas
+#### Moedas suportadas
 
 ##### Europa
 
-- EUR
-- GBP
-- CHF
-- SEK
-- DKK
-- NOK
-- PLN
-- BGN
-- CZK
-- HUF
-- ISK
-- RON
-- TRY
+<div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-eur-in-2024/">
+            <i class="fas fa-euro-sign"></i>
+            EUR
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-gbp-in-2024/">
+            <i class="fas fa-pound-sign"></i>
+            GBP
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-chf-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            CHF
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-sek-in-2024/">
+            <i class="fas fa-coins"></i>
+            SEK
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-dkk-in-2024/">
+            <i class="fas fa-coins"></i>
+            DKK
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-nok-in-2024/">
+            <i class="fas fa-coins"></i>
+            NOK
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-pln-in-2024/">
+            <i class="fas fa-coins"></i>
+            PLN
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-bgn-in-2024/">
+            <i class="fas fa-coins"></i>
+            BGN
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-czk-in-2024/">
+            <i class="fas fa-coins"></i>
+            CZK
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-huf-in-2024/">
+            <i class="fas fa-coins"></i>
+            HUF
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-isk-in-2024/">
+            <i class="fas fa-coins"></i>
+            ISK
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-ron-in-2024/">
+            <i class="fas fa-coins"></i>
+            RON
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-try-in-2024/">
+            <i class="fas fa-lira-sign"></i>
+            TRY
+        </a>
+    </div>
+</div>
 
 ---
 
 ##### América Latina
 
-- ARS
-- COP
-- PEN
-- MXN
-- CLP
-- CRC
+<div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-ars-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            ARS
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-cop-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            COP
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-pen-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            PEN
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-mxn-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            MXN
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-clp-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            CLP
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-crc-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            CRC
+        </a>
+    </div>
+</div>
 
 ---
 
 ##### África
 
-- CFA (XOF)
-- CDF
-- NGN
+<div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-cfa-xof-in-2024/">
+            <i class="fas fa-coins"></i>
+            CFA (XOF)
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-cdf-in-2024/">
+            <i class="fas fa-coins"></i>
+            CDF
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-ngn-in-2024/">
+            <i class="fas fa-coins"></i>
+            NGN
+        </a>
+    </div>
+</div>
 
 ---
 
 ##### Outros
 
-- LN (trocas)
-- L-USDT
+<div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-ln-swaps-in-2024/">
+            <i class="fas fa-coins"></i>
+            LN (swaps)
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-l-usdt-in-2024/">
+            <i class="fas fa-coins"></i>
+            L-USDT
+        </a>
+    </div>
+</div>
 
 ---
 
 ### Métodos de pagamento disponíveis
 
 :::buttons
-[Clique aqui](https://docs.google.com/spreadsheets/d/1uqotdlQ1woALJnsLOJMwe21J4KvTvv3cnEqERqCUicg/?usp=sharing)
+[Clique aqui](/pt/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2024-with-PeachBitcoin)
 :::
 para descobrir **TODOS OS NOSSOS MÉTODOS DE PAGAMENTO**!
 
-Se houver outro método de pagamento que você gostaria de usar, mas não está listado, nos avise preenchendo
-<br>
-
-**[ESTE FORMULÁRIO](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
+Se existe outro método de pagamento que gostaria de usar, mas não está listado, avise-nos preenchendo<br>
+**[ESTE FORMULÁRIO](https://ncxldazr6m4.typeform.com/to/SJljDnae)**!
 
 ### Confira nosso livro de ordens
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/pt/kycfree-orderbook'">Livro de Ordens P2P de Bitcoin</button>
+<button class="btn" id="customBtn" onclick="window.location.href='/pt/kycfree-orderbook'">Livro de Ordens P2P Bitcoin</button>
 :::
-para ver **TODAS AS OFERTAS AO VIVO!**
+para ver **TODAS AS OFERTAS AO VIVO**!
 
 <!--[self_custody]-->
 
-### Não suas chaves, não seu dinheiro
+### Não são suas chaves, não são suas moedas
 
-O aplicativo possui uma carteira fácil de usar que você controla, ou você pode usar sua carteira existente. Fique simples ou vá hardcore - você está sempre no controle.
+O aplicativo possui uma carteira fácil de usar que você controla, ou você pode usar sua carteira existente. Mantenha o básico ou faça mais avançado - você sempre tem o controle.
 
 <!--[security]-->
 
 ### Super seguro
 
-A Peach usa endereços de Bitcoin de Multi-Assinatura para garantir que a parte certa possa receber os bitcoins se algo der errado durante a troca.
+A Peach utiliza endereços de Bitcoin com múltiplas assinaturas para garantir que a parte correta receba os bitcoins caso algo dê errado durante a transação.
 
 <!--[difference]-->
 
-### O que torna a Peach diferente de outras trocas?
+### O que torna a Peach diferente de outras exchanges?
 
-Com a Peach, você não nos compra nem nos vende.
-Você interage diretamente com outros pares!
-Isso torna a negociação de Bitcoin mais privada e permite que você use qualquer método de pagamento com o qual possa concordar.
+Com a Peach, você não compra nem vende para nós.
+Você interage diretamente com outros usuários!
+Isso torna o comércio de bitcoin mais privado e permite que você use qualquer método de pagamento com o qual possa concordar.
 Nossa missão é tornar isso o mais fácil e seguro possível.
 
 <!--[sounds_cool]-->
@@ -131,5 +257,5 @@ Temos um guia completo para começar bem aqui:
 
 ### Ainda tem perguntas?
 
-Você pode encontrar suas respostas em nossas Perguntas Frequentes.
-Se você não encontrar o que procura, envie-nos uma mensagem!
+Tenho certeza de que você pode encontrar uma resposta em nossas Perguntas Frequentes.
+Se não, envie-nos uma mensagem!

@@ -13,7 +13,7 @@ Peach è **più facile** da usare, è **più privato**, ha **più metodi di paga
 ## Guida 1: Configurazione dell'app
 
 Dopo aver installato l'app (tramite l'[App Store]($iosUrl$), il [Play Store]($androidUrl$) o il [download dell' APK](/it/apk/)), praticamente hai già finito.
-Se hai un codice di riferimento forniscilo, altrimenti saltalo.
+L'unica cosa che ti viene richiesta al momento dell'avvio è un codice di affiliazione, se ne hai uno.
 
 :::figures 4
 ![Innanzitutto, ti verrà chiesto se desideri condividere alcuni dati di utilizzo con noi](/img/faq/quickstart/onboarding/usage-data.png)

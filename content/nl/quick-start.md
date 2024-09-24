@@ -13,7 +13,7 @@ Peach is **eenvoudig** te gebruiken, het is **privé**, heeft **meer betaalmetho
 ## Gids 1: De app instellen
 
 Nadat je de app hebt geïnstalleerd (via de [App Store]($iosUrl$), [Play Store]($androidUrl$) of [APK-download](/apk/)), ben je zo goed als klaar.
-Als je een verwijzingscode hebt, geef deze dan door, anders sla je deze over.
+Het enige wat op dit moment van je wordt gevraagd, is een verwijzingscode - als je die hebt.
 
 :::figures 4
 ![Eerst wordt u gevraagd of u wat gegevens met ons wilt delen](/img/faq/quickstart/onboarding/usage-data.png)
