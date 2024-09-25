@@ -2,43 +2,43 @@
 
 # FAQ
 
-Welcome to our FAQ section! Select one of the categories below to find answers to common questions.
+Bienvenue dans notre section FAQ ! Sélectionnez l'une des catégories ci-dessous pour trouver des réponses aux questions les plus courantes.
 
 <div class="faq-grid">
     <div class="faq-grid-item">
-        <a href="/faq/account">
+        <a href="/fr/faq/account">
             <i class="fa fa-user"></i>
-            <h3>Account</h3>
+            <h3>Compte</h3>
         </a>
     </div>
     <div class="faq-grid-item">
-        <a href="/faq/matches">
+        <a href="/fr/faq/matches">
             <i class="fa fa-users"></i>
             <h3>Matches</h3>
         </a>
     </div>
     <div class="faq-grid-item">
-        <a href="/faq/privacy">
+        <a href="/fr/faq/privacy">
             <i class="fa fa-lock"></i>
-            <h3>Privacy</h3>
+            <h3>Confidentialité</h3>
         </a>
     </div>
     <div class="faq-grid-item">
-        <a href="/faq/trading">
+        <a href="/fr/faq/trading">
             <i class="fa fa-chart-line"></i>
             <h3>Trading</h3>
         </a>
     </div>
     <div class="faq-grid-item">
-        <a href="/faq/tutorials">
+        <a href="/fr/faq/tutorials">
             <i class="fa fa-book-open"></i>
-            <h3>Tutorial</h3>
+            <h3>Tutoriel</h3>
         </a>
     </div>
     <div class="faq-grid-item">
-        <a href="/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2024-with-PeachBitcoin/">
+        <a href="/fr/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2024-with-PeachBitcoin/">
             <i class="fa fa-exchange-alt"></i>
-            <h3>Buy & Sell Btc</h3>
+            <h3>Achat & Vente de Bitcoin</h3>
         </a>
     </div>
 </div>
