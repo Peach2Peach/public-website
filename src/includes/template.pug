@@ -198,7 +198,9 @@ html(lang=lang)
               }
             }
 
-            languageLabel.src = languageMap[currentLang].flag;
-            languageText.textContent = languageMap[currentLang].text;
-          }); // Esegui il codice con un ritardo di 1 secondo
+            if (languageLabel && languageMap[currentLang]) {
+              languageLabel.src = languageMap[currentLang].flag;
+              languageText.textContent = languageMap[currentLang].text;
+            }
+          }, 1000); // Ritardo di 1 secondo
         });
