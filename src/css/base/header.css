@@ -6,8 +6,10 @@
   z-index: 10;
   display: flex;
   align-items: center;
+  justify-content: space-between; /* Ensure brand and nav are spaced correctly */
   height: var(--header-height);
   background: var(--bg-gradient-peachy);
+  padding: 0 15px; /* Add padding for smaller screens */
 
   &::after {
     content: '';
@@ -33,22 +35,15 @@
     --logo-height: 2.5rem;
     --nav-font-size: 1.5rem;
   }
+
   @media (--M_and_up) {
     --logo-height: 3rem;
     --nav-font-size: 1.25rem;
   }
 
-  /* blur effect on home */
-  @nest body.with-teaser > &:not(.topbar) {
-    background-image: radial-gradient(
-      110.76% 117.21% at 100% 0%,
-      rgba(255, 162, 76, var(--alpha-gradient-peachy, 0.5)) 0%,
-      rgba(255, 122, 80, var(--alpha-gradient-peachy, 0.75)) 50.25%,
-      var(--color-peach) 100%
-    );
-    background-repeat: no-repeat;
-    background-size: 100vw 100vh;
-    backdrop-filter: blur(var(--space-xs));
+  @media (max-width: 768px) { /* Mobile adjustments */
+    height: 60px; /* Smaller header height for mobile */
+    padding: 0 10px; /* Reduce padding on smaller screens */
   }
 
   & .wrap {
@@ -68,6 +63,12 @@
     position: relative;
     top: -2px;
   }
+
+  @media (max-width: 768px) { /* Mobile-specific adjustments */
+    & .logo {
+      max-height: 2rem; /* Slightly smaller logo for mobile */
+    }
+  }
 }
 
 /* Language selector */
@@ -82,10 +83,10 @@
 
 .language-label {
   display: flex;
-  align-items: center;  /* Vertical centering */
+  align-items: center;
   justify-content: center;  /* Horizontal centering */
   cursor: pointer;
-  padding: 10px 25px;  /* Adjusted padding for better balance */
+  padding: 10px 20px;  /* Adjusted padding for mobile */
   background-color: #FFF5F0;  /* Light peach background */
   border-radius: 12px;  /* Rounded corners */
   transition: background-color 0.3s ease, box-shadow 0.3s ease;
@@ -101,14 +102,9 @@
 }
 
 .flag-icon {
-  width: 28px;
-  height: 20px;
-  margin-right: 10px;  /* Space between the flag and text */
-  transition: transform 0.3s ease;
-}
-
-.language-label:hover .flag-icon {
-  transform: scale(1.1);  /* Slight zoom on hover */
+  width: 24px;
+  height: 16px; /* Smaller flag size for mobile */
+  margin-right: 8px; /* Adjusted space between flag and text */
 }
 
 .language-dropdown {
@@ -125,7 +121,7 @@
   opacity: 0;
   transform: translateY(-15px);
   transition: opacity 0.3s ease, transform 0.3s ease;
-  z-index: 1000;  /* Ensure it's above other elements */
+  z-index: 1000; /* Ensure it's above other elements */
 }
 
 .checkbox:checked + .language-label + .language-dropdown {
@@ -136,7 +132,7 @@
 
 .language-dropdown li {
   display: flex;
-  align-items: center;  /* Vertical centering */
+  align-items: center; /* Vertical centering */
   padding: 12px 10px;
   border-radius: 8px;
   transition: background-color 0.3s ease, transform 0.3s ease;
@@ -147,25 +143,26 @@
 }
 
 .language-dropdown li:hover {
-  background-color: #FFA24C;  /* Peach accent */
-  transform: translateX(0);  /* Removed any shift effect */
+  background-color: #FFA24C; /* Peach accent */
+  transform: translateX(0); /* Removed any shift effect */
 }
 
 .language-dropdown li img {
-  margin-right: 10px;  /* Space between flag and text */
+  margin-right: 10px; /* Space between flag and text */
   width: 24px;
   height: 16px;
   transition: transform 0.3s ease;
 }
 
 .language-dropdown li:hover img {
-  transform: scale(1.1);  /* Slight zoom on hover */
+  transform: scale(1.1); /* Slight zoom on hover */
 }
 
 .language-dropdown li:last-child {
   margin-bottom: 0;
 }
 
+/* Removed arrow on hover */
 .language-dropdown li::before {
   content: '';
   display: none;
@@ -211,6 +208,7 @@
       }
     }
   }
+
   @media (--M_and_up) {
     gap: var(--space-l);
 
