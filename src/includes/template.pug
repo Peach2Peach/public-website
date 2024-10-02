@@ -173,7 +173,6 @@ html(lang=lang)
             const languageLabel = document.querySelector('.language-label img');
             const languageText = document.querySelector('.language-label span');
 
-            // Usare assetPath() per gestire immagini con hash
             const languageMap = {
               'en': { text: 'English', flag: '#{assetPath("/img/en.png")}' },
               'es': { text: 'Español', flag: '#{assetPath("/img/es.png")}' },
@@ -205,5 +204,5 @@ html(lang=lang)
               languageLabel.src = languageMap[currentLang].flag;
               languageText.textContent = languageMap[currentLang].text;
             }
-          }, 1000); // Ritardo per garantire che la pagina sia completamente caricata
+          }); // Ritardo per garantire che la pagina sia completamente caricata
         };

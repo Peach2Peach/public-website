@@ -1,32 +1,32 @@
-# APK downloaden
+# Scarica l'APK
 
-## Downloaden voor Android
+## Scarica per Android
 
-- [Peach-handtekening]($apkSignaturesUrl$)
-- [SHA256-controlegetallen]($apkChecksumsUrl$)
-- Onze [PGP-sleutel](https://keys.openpgp.org/vks/v1/by-fingerprint/E970EDB410C8E84198F141584AD3CE3043D8CD1B) vingerafdruk:<br>
+- [Firma di Peach]($apkSignaturesUrl$)
+- [Checksum SHA256]($apkChecksumsUrl$)
+- [Chiave PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/E970EDB410C8E84198F141584AD3CE3043D8CD1B) fingerprint:<br>
   `E970 EDB4 10C8 E841 98F1  4158 4AD3 CE30 43D8 CD1B`
 
-<img src="/icons/qrcode_android.png" width="350">
+<img src="/icons/qrcode_android.png"  width="350">
 
-Laatste versie: $apkVersionBuild$
+Ultima versione: $apkVersionBuild$
 
-We raden aan om de ARM64-versie te downloaden voor Android 8.0 en hoger.
-
-:::buttons
-[Universele APK downloaden]($apkUniversalUrl$)
-[ARM64-v8 APK downloaden]($apkArm64v8Url$)
-:::
-
-## Downloaden voor iOS
-
-<img src="/icons/qrcode_apple.png" width="350">
+Ti consigliamo di scaricare la versione ARM64 per Android 8.0 e successivi.
 
 :::buttons
-[Downloaden voor iOS](https://testflight.apple.com/join/wfSPFEWG)
+[Scarica APK Universale]($apkUniversalUrl$)
+[Scarica APK ARM64-v8]($apkArm64v8Url$)
 :::
 
-## Kun je de APK niet installeren?
+## Scarica per iOS
 
-Stuur een e-mail met je besturingssysteem (iOS of Android) en het e-mailadres dat is gekoppeld aan je Play/App Store-account naar
-[$contactEmail$](mailto:$contactEmail$) en we voegen je toe aan de lijst.
+<img src="/icons/qrcode_apple.png"  width="350">
+
+:::buttons
+[Scarica per iOS](https://testflight.apple.com/join/wfSPFEWG)
+:::
+
+## Non riesci a installare l'APK?
+
+Invia un'email con il tuo sistema operativo (iOS o Android) e l'indirizzo email collegato al tuo account Play/App Store a
+[$contactEmail$](mailto:$contactEmail$) e ti aggiungeremo alla lista.
