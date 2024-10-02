@@ -97,29 +97,30 @@ Dans ce cas, lorsque nous sélectionnons <strong>en ligne</strong>, nous verrons
   });
 } else {
   console.log('Service Worker non supportato in questo browser.');
-}</script><script>document.addEventListener('DOMContentLoaded', function() {
+}</script><script>window.onload = function() {
   setTimeout(function() {
     const languageLabel = document.querySelector('.language-label img');
     const languageText = document.querySelector('.language-label span');
 
     const languageMap = {
-      'en': { text: 'English', flag: '/img/en.png' },
-      'es': { text: 'Español', flag: '/img/es.png' },
-      'de': { text: 'Deutsch', flag: '/img/de.png' },
-      'it': { text: 'Italiano', flag: '/img/it.png' },
-      'fr': { text: 'Français', flag: '/img/fr.png' },
-      'el': { text: 'Ελληνικά', flag: '/img/el.png' },
-      'hu': { text: 'Magyar', flag: '/img/hu.png' },
-      'nl': { text: 'Nederlands', flag: '/img/nl.png' },
-      'pl': { text: 'Polski', flag: '/img/pl.png' },
-      'pt': { text: 'Português', flag: '/img/pt.png' },
-      'sw': { text: 'Kiswahili', flag: '/img/sw.png' },
-      'uk': { text: 'Українська', flag: '/img/ua.png' }
+      'en': { text: 'English', flag: '/img/en-872bf10f0d1ed191b502494534bb329a.png' },
+      'es': { text: 'Español', flag: '/img/es-b17fc8846b93c5446b10cd7824434504.png' },
+      'de': { text: 'Deutsch', flag: '/img/de-0da84d0f3850d6e25088debeb3ade32c.png' },
+      'it': { text: 'Italiano', flag: '/img/it-299996a0097e49e1bc4f312e380d3faa.png' },
+      'fr': { text: 'Français', flag: '/img/fr-75a63faa5728ac4175214da6cd3c47f1.png' },
+      'el': { text: 'Ελληνικά', flag: '/img/el-27d234921e954ed945c93bef880a07b6.png' },
+      'hu': { text: 'Magyar', flag: '/img/hu-fc4c517f481932d60d59b56a8f0c322d.png' },
+      'nl': { text: 'Nederlands', flag: '/img/nl-83a65573b2d26cdce16cab98f8c38db1.png' },
+      'pl': { text: 'Polski', flag: '/img/pl-f7c03eb5351f5b2e33c9b29f1e200e38.png' },
+      'pt': { text: 'Português', flag: '/img/pt-997fb3879120a45e1ba507a9e060a662.png' },
+      'sw': { text: 'Kiswahili', flag: '/img/sw-cdf6e2b06778f5ac662fb25f3ca8eac0.png' },
+      'uk': { text: 'Українська', flag: '/img/ua-f7a81ef67d0931a29f7e358bb99ef521.png' }
     };
 
     const currentPath = window.location.pathname;
     let currentLang = 'en';
 
+    // Determinare la lingua corrente dal percorso
     for (const lang in languageMap) {
       if (currentPath.includes('/' + lang)) {
         currentLang = lang;
@@ -127,7 +128,10 @@ Dans ce cas, lorsque nous sélectionnons <strong>en ligne</strong>, nous verrons
       }
     }
 
-    languageLabel.src = languageMap[currentLang].flag;
-    languageText.textContent = languageMap[currentLang].text;
-  }); // Esegui il codice con un ritardo di 1 secondo
-});</script></body></html>
+    // Aggiorna la bandiera e il testo dinamicamente
+    if (languageLabel && languageMap[currentLang]) {
+      languageLabel.src = languageMap[currentLang].flag;
+      languageText.textContent = languageMap[currentLang].text;
+    }
+  }); // Ritardo per garantire che la pagina sia completamente caricata
+};</script></body></html>
