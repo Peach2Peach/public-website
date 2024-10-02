@@ -168,29 +168,30 @@ html(lang=lang)
         }
     block append scripts
       script.
-        document.addEventListener('DOMContentLoaded', function() {
+        window.onload = function() {
           setTimeout(function() {
             const languageLabel = document.querySelector('.language-label img');
             const languageText = document.querySelector('.language-label span');
 
             const languageMap = {
-              'en': { text: 'English', flag: '/img/en.png' },
-              'es': { text: 'Español', flag: '/img/es.png' },
-              'de': { text: 'Deutsch', flag: '/img/de.png' },
-              'it': { text: 'Italiano', flag: '/img/it.png' },
-              'fr': { text: 'Français', flag: '/img/fr.png' },
-              'el': { text: 'Ελληνικά', flag: '/img/el.png' },
-              'hu': { text: 'Magyar', flag: '/img/hu.png' },
-              'nl': { text: 'Nederlands', flag: '/img/nl.png' },
-              'pl': { text: 'Polski', flag: '/img/pl.png' },
-              'pt': { text: 'Português', flag: '/img/pt.png' },
-              'sw': { text: 'Kiswahili', flag: '/img/sw.png' },
-              'uk': { text: 'Українська', flag: '/img/ua.png' }
+              'en': { text: 'English', flag: '#{assetPath("/img/en.png")}' },
+              'es': { text: 'Español', flag: '#{assetPath("/img/es.png")}' },
+              'de': { text: 'Deutsch', flag: '#{assetPath("/img/de.png")}' },
+              'it': { text: 'Italiano', flag: '#{assetPath("/img/it.png")}' },
+              'fr': { text: 'Français', flag: '#{assetPath("/img/fr.png")}' },
+              'el': { text: 'Ελληνικά', flag: '#{assetPath("/img/el.png")}' },
+              'hu': { text: 'Magyar', flag: '#{assetPath("/img/hu.png")}' },
+              'nl': { text: 'Nederlands', flag: '#{assetPath("/img/nl.png")}' },
+              'pl': { text: 'Polski', flag: '#{assetPath("/img/pl.png")}' },
+              'pt': { text: 'Português', flag: '#{assetPath("/img/pt.png")}' },
+              'sw': { text: 'Kiswahili', flag: '#{assetPath("/img/sw.png")}' },
+              'uk': { text: 'Українська', flag: '#{assetPath("/img/ua.png")}' }
             };
 
             const currentPath = window.location.pathname;
             let currentLang = 'en';
 
+            // Determinare la lingua corrente dal percorso
             for (const lang in languageMap) {
               if (currentPath.includes('/' + lang)) {
                 currentLang = lang;
@@ -198,7 +199,10 @@ html(lang=lang)
               }
             }
 
-            languageLabel.src = languageMap[currentLang].flag;
-            languageText.textContent = languageMap[currentLang].text;
-          }); // Esegui il codice con un ritardo di 1 secondo
-        });
+            // Aggiorna la bandiera e il testo dinamicamente
+            if (languageLabel && languageMap[currentLang]) {
+              languageLabel.src = languageMap[currentLang].flag;
+              languageText.textContent = languageMap[currentLang].text;
+            }
+          }); // Ritardo per garantire che la pagina sia completamente caricata
+        };
