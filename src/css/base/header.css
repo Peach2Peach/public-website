@@ -59,14 +59,16 @@
   }
 
   & .logo {
-    max-height: var(--logo-height);
+    max-height: var(--logo-height); /* Usa la variabile per la dimensione del logo */
+    height: 100%; /* Mantieni l'altezza del logo piena */
+    width: auto; /* Impedisci che il logo venga ridimensionato in modo non proporzionale */
     position: relative;
     top: -2px;
   }
 
   @media (max-width: 768px) { /* Mobile-specific adjustments */
     & .logo {
-      max-height: 2rem; /* Slightly smaller logo for mobile */
+      max-height: 3rem; /* Assicurati che il logo non diventi troppo piccolo su mobile */
     }
   }
 }
@@ -74,7 +76,10 @@
 /* Language selector */
 .language-selector {
   position: relative;
-  display: inline-block;
+  display: inline-flex; /* Keep it inline with other elements */
+  align-items: center;
+  padding: 5px 15px;
+  white-space: nowrap; /* Prevent wrapping */
 }
 
 .checkbox {
@@ -172,15 +177,52 @@
 .nav {
   display: flex;
   align-items: center;
+  justify-content: space-between; /* Distribuisce gli elementi lungo la navbar */
+  width: 100%; /* Assicura che la navbar occupi tutta la larghezza disponibile */
+  box-sizing: border-box; /* Include il padding nel calcolo della larghezza */
+  flex-wrap: nowrap; /* Impedisce che gli elementi vadano su una nuova riga */
+}
 
-  & a {
-    font-size: var(--nav-font-size);
-    font-weight: var(--font-weight-semibold);
-    white-space: nowrap;
-    text-decoration: none !important;
-  }
+/* Modifica qui: usa '> a' per selezionare solo i link di primo livello */
+.nav > a {
+  font-size: var(--nav-font-size);
+  font-weight: var(--font-weight-semibold);
+  white-space: nowrap;
+  text-decoration: none !important;
+  padding: 5px 10px; /* Spazio attorno al testo */
+  position: relative; /* Necessario per il posizionamento dell'elemento prima (::before) */
+  transition: background-color 0.3s ease, color 0.3s ease;
+  border-radius: 4px; /* Arrotonda i bordi */
+  color: white; /* Imposta il colore del testo bianco di default */
+  box-sizing: border-box; /* Assicura che padding non influisca sulla larghezza */
+}
 
-  @media (--up_to_M) {
+.nav > a::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 4px; /* Arrotonda i bordi del box */
+  background-color: transparent; /* Inizialmente trasparente */
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  z-index: -1; /* Posizioniamo l'elemento dietro il testo */
+}
+
+.nav > a:hover::before {
+  background-color: #FFCCB3; /* Colore di sfondo al passaggio del mouse */
+  transform: scale(1.05); /* Leggera espansione */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombra per profondità */
+}
+
+.nav > a:hover {
+  color: white; /* Mantiene il colore del testo bianco */
+}
+
+/* Media Queries per la navigazione mobile */
+@media (--up_to_M) {
+  .nav {
     position: fixed;
     z-index: -2;
     top: var(--header-height);
@@ -192,39 +234,39 @@
     background: rgba(var(--color-bg-main-rgb), 0.7);
     transition: left var(--transition-duration-medium) ease-in-out;
     backdrop-filter: blur(var(--space-xs));
-
-    & > a {
-      flex: 0 0 3.5em;
-      width: 100%;
-      border-bottom: 1px solid var(--color-neutral-10);
-      padding: var(--space-l);
-      text-align: center;
-      overflow: hidden;
-      color: var(--color-body-text);
-      background: var(--color-bg-main);
-
-      &:hover {
-        color: var(--color-primary-main);
-      }
-    }
   }
 
-  @media (--M_and_up) {
-    gap: var(--space-l);
+  .nav > a {
+    flex: 0 0 3.5em;
+    width: 100%;
+    border-bottom: 1px solid var(--color-neutral-10);
+    padding: var(--space-l);
+    text-align: center;
+    overflow: hidden;
+    color: var(--color-body-text);
+    background: var(--color-bg-main);
+  }
 
-    & > a {
-      color: var(--color-white);
-      transition: text-shadow var(--transition-duration-fast);
-
-      &:focus,
-      &:hover {
-        text-shadow: var(--box-shadow-strong);
-      }
-    }
+  .nav > a:hover {
+    color: var(--color-primary-main);
   }
 }
 
 @media (--M_and_up) {
+  .nav {
+    gap: var(--space-l);
+  }
+
+  .nav > a {
+    color: var(--color-white);
+    transition: text-shadow var(--transition-duration-fast);
+  }
+
+  .nav > a:focus,
+  .nav > a:hover {
+    text-shadow: var(--box-shadow-strong);
+  }
+
   #nav-toggle {
     display: none !important;
   }
@@ -284,11 +326,13 @@
       stroke-dasharray var(--transition-values),
       stroke-dashoffset var(--transition-values);
   }
+
   & .line--1,
   & .line--3 {
     --total-length: 111.22813415527344;
     --offset: -50.22813415527344;
   }
+
   & .line--2 {
     --total-length: 99;
   }
@@ -300,16 +344,19 @@
     & path {
       transform: translateX(30px);
     }
+
     & .line--1,
     & .line--3 {
       --offset: -16.9705627485;
       --length: 22.627416998;
     }
+
     & .line--2 {
       --offset: -20;
       --length: 0;
     }
   }
+
   @media (--up_to_M) {
     & + .nav {
       left: 0;
