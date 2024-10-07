@@ -5,28 +5,28 @@ block main
     .content-wrap.content-wrap--centered
       != html.intro
 
-      .guides
-        a(href=getUrl("/quick-start/", lang)).button.button--primary
-          span !{i18n('quickStartGuide', lang)}
+      .guides(style="display: flex; justify-content: center; padding-bottom: 20px;")
+        a.faq-grid-item(href=getUrl("/quick-start/", lang) style="min-width: 200px; height: 100px; padding: 10px; text-align: center; display: flex; justify-content: center; align-items: center; flex-direction: column;")
           +sprite("quickstart")
+          h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('quickStartGuide', lang)}
 
       h2 !{i18n('faq', lang)}
-      .faq
-        a(href=getUrl("/faq/trading/", lang)).button.button--primary
-          span !{i18n('trading', lang)}
+      .faq.faq-grid(style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; max-width: 600px; margin: 0 auto; padding: 20px; justify-content: center;")
+        a.faq-grid-item(href=getUrl("/faq/trading/", lang) style="min-width: 200px; height: 100px; padding: 10px; text-align: center; display: flex; justify-content: center; align-items: center; flex-direction: column;")
           +sprite("trading")
-        a(href=getUrl("/faq/matches/", lang)).button.button--primary
-          span !{i18n('matches', lang)}
+          h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('trading', lang)}
+        a.faq-grid-item(href=getUrl("/faq/matches/", lang) style="min-width: 200px; height: 100px; padding: 10px; text-align: center; display: flex; justify-content: center; align-items: center; flex-direction: column;")
           +sprite("matches")
-        a(href=getUrl("/faq/account/", lang)).button.button--primary
-          span !{i18n('myAccount', lang)}
+          h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('matches', lang)}
+        a.faq-grid-item(href=getUrl("/faq/account/", lang) style="min-width: 200px; height: 100px; padding: 10px; text-align: center; display: flex; justify-content: center; align-items: center; flex-direction: column;")
           +sprite("account")
-        a(href=getUrl("/faq/privacy/", lang)).button.button--primary
-          span !{i18n('privacy', lang)}
+          h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('myAccount', lang)}
+        a.faq-grid-item(href=getUrl("/faq/privacy/", lang) style="min-width: 200px; height: 100px; padding: 10px; text-align: center; display: flex; justify-content: center; align-items: center; flex-direction: column;")
           +sprite("privacy")
-        a(href=getUrl("/faq/tutorials/", lang)).button.button--primary
-          span !{i18n('tutorials', lang)}
+          h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('privacy', lang)}
+        a.faq-grid-item(href=getUrl("/faq/tutorials/", lang) style="min-width: 200px; height: 100px; padding: 10px; text-align: center; display: flex; justify-content: center; align-items: center; flex-direction: column; grid-column: span 2; justify-self: center;")
           +sprite("tutorials")
+          h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('tutorials', lang)}
 
       != html.contact
       .contact
