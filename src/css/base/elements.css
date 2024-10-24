@@ -162,10 +162,6 @@ button {
   outline: none;
 }
 
-img {
-  max-width: 100%;
-}
-
 img:-moz-loading {
   visibility: hidden;
 }

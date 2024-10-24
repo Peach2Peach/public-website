@@ -6,28 +6,28 @@ block main
       != html.intro
 
       .guides(style="display: flex; justify-content: center; padding-bottom: 20px;")
-        a.faq-grid-item(href=getUrl("/quick-start/", lang) style="min-width: 200px; height: 100px; padding: 10px; text-align: center; display: flex; justify-content: center; align-items: center; flex-direction: column;")
+        a.faq-grid-item(href=getUrl("/quick-start/", lang), style="flex: 1;")
           +sprite("quickstart")
           h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('quickStartGuide', lang)}
 
       h2 !{i18n('faq', lang)}
-      .faq.faq-grid(style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; max-width: 600px; margin: 0 auto; padding: 20px; justify-content: center;")
-        a.faq-grid-item(href=getUrl("/faq/trading/", lang) style="min-width: 200px; height: 100px; padding: 10px; text-align: center; display: flex; justify-content: center; align-items: center; flex-direction: column;")
+      .faq.faq-grid
+        a.faq-grid-item(href=getUrl("/faq/trading/", lang))
           +sprite("trading")
           h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('trading', lang)}
-        a.faq-grid-item(href=getUrl("/faq/matches/", lang) style="min-width: 200px; height: 100px; padding: 10px; text-align: center; display: flex; justify-content: center; align-items: center; flex-direction: column;")
+        a.faq-grid-item(href=getUrl("/faq/matches/", lang))
           +sprite("matches")
           h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('matches', lang)}
-        a.faq-grid-item(href=getUrl("/faq/account/", lang) style="min-width: 200px; height: 100px; padding: 10px; text-align: center; display: flex; justify-content: center; align-items: center; flex-direction: column;")
+        a.faq-grid-item(href=getUrl("/faq/account/", lang))
           +sprite("account")
           h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('myAccount', lang)}
-        a.faq-grid-item(href=getUrl("/faq/privacy/", lang) style="min-width: 200px; height: 100px; padding: 10px; text-align: center; display: flex; justify-content: center; align-items: center; flex-direction: column;")
+        a.faq-grid-item(href=getUrl("/faq/privacy/", lang))
           +sprite("privacy")
           h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('privacy', lang)}
-        a.faq-grid-item(href=getUrl("/faq/tutorials/", lang) style="min-width: 200px; height: 100px; padding: 10px; text-align: center; display: flex; justify-content: center; align-items: center; flex-direction: column; grid-column: span 2; justify-self: center;")
-          +sprite("tutorials")
+        a.faq-grid-item(href=getUrl("/faq/tutorials/", lang))
+          +sprite("help")
           h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('tutorials', lang)}
-
+          
       != html.contact
       .contact
         a(href=`mailto:${siteData.meta.contactEmail}` title=i18n("email", lang))
