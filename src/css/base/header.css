@@ -62,6 +62,7 @@
     max-height: var(--logo-height);
     height: 100%;
     width: auto;
+    min-width: 95px;
     position: relative;
     top: -2px;
   }
