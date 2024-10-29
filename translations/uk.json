@@ -68,6 +68,8 @@
   "orderbook.highestAmount": "Найбільша Сума",
   "orderbook.highestPrice": "Найвища Ціна",
   "orderbook.paymentMethod": "Спосіб Оплати",
-  "orderbook.price": "Ціна",
-  "orderbook.amount": "Сума"
+  "orderbook.price": "Ціна Біткоїна",
+  "orderbook.amount": "Сума",
+  "orderbook.peachId": "PeachId",
+  "orderbook.rating": "Рейтинг"
 }

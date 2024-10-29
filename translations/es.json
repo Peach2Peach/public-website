@@ -68,6 +68,8 @@
   "orderbook.highestAmount": "Mayor Cantidad",
   "orderbook.highestPrice": "Precio Más Alto",
   "orderbook.paymentMethod": "Método de Pago",
-  "orderbook.price": "Precio",
-  "orderbook.amount": "Cantidad"
+  "orderbook.price": "Precio de Bitcoin",
+  "orderbook.amount": "Cantidad",
+  "orderbook.peachId": "PeachId",
+  "orderbook.rating": "Calificación"
 }

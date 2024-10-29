@@ -38,9 +38,11 @@ block teaser
         table(border="1", id="offerte-table")
           thead
             tr
+              th !{i18n('orderbook.peachId', lang)}
               th !{i18n('orderbook.paymentMethod', lang)}
-              th(id="priceTh") !{i18n('orderbook.price', lang)} (EUR/BTC)
+              th(id="priceTh") !{i18n('orderbook.price', lang)}
               th !{i18n('orderbook.amount', lang)} (sats)
+              th !{i18n('orderbook.rating', lang)}
           tbody#offerte-tbody
             //- Righe della tabella verranno inserite qui dinamicamente dopo il caricamento
       //- Contenitore per il paginatore

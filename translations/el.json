@@ -68,6 +68,8 @@
   "orderbook.highestAmount": "Υψηλότερο Ποσό",
   "orderbook.highestPrice": "Υψηλότερη Τιμή",
   "orderbook.paymentMethod": "Μέθοδος Πληρωμής",
-  "orderbook.price": "Τιμή",
-  "orderbook.amount": "Ποσό"
+  "orderbook.price": "Τιμή Bitcoin",
+  "orderbook.amount": "Ποσό",
+  "orderbook.peachId": "PeachId",
+  "orderbook.rating": "Αξιολόγηση"
 }

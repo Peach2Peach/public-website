@@ -68,6 +68,8 @@
   "orderbook.highestAmount": "Legmagasabb összeg",
   "orderbook.highestPrice": "Legmagasabb ár",
   "orderbook.paymentMethod": "Fizetési mód",
-  "orderbook.price": "Ár",
-  "orderbook.amount": "Összeg"
+  "orderbook.price":"Bitcoin ár",
+  "orderbook.amount": "Összeg",
+  "orderbook.peachId": "PeachId",
+  "orderbook.rating": "Értékelés"
 }

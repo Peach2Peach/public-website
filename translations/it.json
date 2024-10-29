@@ -68,6 +68,8 @@
   "orderbook.highestAmount": "Importo Più Alto",
   "orderbook.highestPrice": "Prezzo Più Alto",
   "orderbook.paymentMethod": "Metodo di Pagamento",
-  "orderbook.price": "Prezzo",
-  "orderbook.amount": "Quantità"
+  "orderbook.price": "Prezzo di Bitcoin",
+  "orderbook.amount": "Quantità",
+  "orderbook.peachId": "PeachId",
+  "orderbook.rating": "Valutazione"
 }

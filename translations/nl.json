@@ -68,6 +68,8 @@
   "orderbook.highestAmount": "Hoogste Bedrag",
   "orderbook.highestPrice": "Hoogste Prijs",
   "orderbook.paymentMethod": "Betalingsmethode",
-  "orderbook.price": "Prijs",
-  "orderbook.amount": "Bedrag"
+  "orderbook.price": "Bitcoin Prijs",
+  "orderbook.amount": "Bedrag",
+  "orderbook.peachId": "PeachId",
+  "orderbook.rating": "Beoordeling"
 }
