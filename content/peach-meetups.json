@@ -634,5 +634,11 @@
     "url": "https://snort.social/npub14l3jy0cex4uy5ljx2thz397se4e3jymynklma6257nx4r2dnd65shkf822",
     "longitude":  13.379722,
     "latitude": 52.507222
+  },
+  {
+    "name": "Bitcoin 42 Meetup",
+    "url": "https://t.me/bitcoin42meetup",
+    "longitude":  4.3872,
+    "latitude": 45.4397
   }
 ]
