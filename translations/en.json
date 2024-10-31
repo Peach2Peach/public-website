@@ -68,6 +68,8 @@
   "orderbook.highestAmount": "Highest Amount",
   "orderbook.highestPrice": "Highest Price",
   "orderbook.paymentMethod": "Payment Method",
-  "orderbook.price": "Price",
-  "orderbook.amount": "Amount"
+  "orderbook.price": "Bitcoin Price",
+  "orderbook.amount": "Amount",
+  "orderbook.peachId": "PeachId",
+  "orderbook.rating": "Rating"
 }

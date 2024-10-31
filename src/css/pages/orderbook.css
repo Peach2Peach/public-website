@@ -79,7 +79,6 @@
 
 /* Table Styles */
 #orderbook-container table {
-    table-layout: fixed;
     border-spacing: 0;
     width: 100%;
     min-width: 600px;

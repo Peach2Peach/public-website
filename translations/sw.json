@@ -68,6 +68,8 @@
   "orderbook.highestAmount": "Högsta Belopp",
   "orderbook.highestPrice": "Högsta Pris",
   "orderbook.paymentMethod": "Betalningsmetod",
-  "orderbook.price": "Pris",
-  "orderbook.amount": "Belopp"
+  "orderbook.price": "Bei ya Bitcoin",
+  "orderbook.amount": "Belopp",
+  "orderbook.peachId": "PeachId",
+  "orderbook.rating": "Kiwango"
 }
