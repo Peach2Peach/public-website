@@ -91,3 +91,8 @@ Das hängt davon ab, um welche Art von Transaktionen es sich handelt. Hier ist e
 - Verwende RBF (Replace-By-Fee) in der Transaktionsansicht deiner Peach-Wallet!
 
 :::
+
+:::details Wie funktioniert das Finanzieren mehrerer Angebote?
+
+Wenn Sie mehrere Angebote gleichzeitig finanzieren möchten, stellt die App eine Zwischenadresse bereit, die aus Ihrer Peach Wallet generiert wird. Sobald die Bitcoins diese Adresse erreichen, wird für jedes Treuhandkonto eine neue Transaktion erstellt. Zum Beispiel, wenn Sie 5 Verkaufsangebote finanzieren möchten, werden 5 Transaktionen an verschiedene Treuhandadressen gesendet.
+:::

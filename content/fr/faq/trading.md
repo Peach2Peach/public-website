@@ -71,3 +71,8 @@ Nous travaillons actuellement sur la prise en charge du xpub, mais pour l'instan
 
 Le prix du bitcoin que nous affichons est une agrégation du prix du bitcoin sur plusieurs plateformes d'échange centralisées.
 :::
+
+:::details Comment fonctionne le financement de plusieurs offres?
+
+Lorsque vous souhaitez financer plusieurs offres en même temps, l'application fournit une adresse intermédiaire générée à partir de votre Peach Wallet. Une fois que les bitcoins atteignent cette adresse, une nouvelle transaction est générée pour chaque dépôt fiduciaire. Par exemple, si vous souhaitez financer 5 offres de vente, 5 transactions seront envoyées à différentes adresses de dépôt fiduciaire.
+:::

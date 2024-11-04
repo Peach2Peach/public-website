@@ -153,3 +153,8 @@ You can also find a step by step tutorial on how to sign a message using Blue Wa
 
 Follow the steps found in this video: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU) to accelerate stuck transactions using CPFP inside the Peach app.
 :::
+
+:::details How does fund multiple offers work?
+
+When you want to fund multiple offers at once, the app provides an intermediate address generated from your Peach Wallet. Once the bitcoins reach this address a new transaction for each escrow is generated. For instance, if you want to fund 5 sell offers, 5 transactions to different escrow addresses will be sent.
+:::

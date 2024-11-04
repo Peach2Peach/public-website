@@ -160,3 +160,8 @@ Egy lépésről lépésre útmutatót is találhatsz a Blue Wallet használatáv
 
 Kövesd a videóban található lépéseket: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU) a megrekedt tranzakciók felgyorsítására a CPFP használatával a Peach alkalmazásban.
 :::
+
+:::details Hogyan működik a több ajánlat finanszírozása?
+
+Amikor egyszerre szeretne több ajánlatot finanszírozni, az alkalmazás egy köztes címet biztosít, amelyet a Peach Wallet-ból generál. Amint a bitcoinok elérik ezt a címet, minden egyes letéti számlához új tranzakció jön létre. Például, ha 5 eladási ajánlatot szeretne finanszírozni, 5 tranzakció kerül elküldésre különböző letéti címekre.
+:::

@@ -90,3 +90,8 @@ Dipende dal tipo di transazione di cui stiamo parlando. Ecco un elenco di tutte 
 
 - RBF (Replace-By-Fee) dal Wallet Peach dai dettagli della tua transazione!
   :::
+
+:::details Come funziona il finanziamento di più offerte?
+
+Quando vuoi finanziare più offerte contemporaneamente, l'app fornisce un indirizzo intermedio generato dal tuo Peach Wallet. Una volta che i bitcoin raggiungono questo indirizzo, viene generata una nuova transazione per ciascun conto di deposito a garanzia. Ad esempio, se vuoi finanziare 5 offerte di vendita, verranno inviate 5 transazioni a indirizzi di deposito a garanzia differenti.
+:::
