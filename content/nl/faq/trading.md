@@ -153,3 +153,8 @@ U vindt ook een stapsgewijze tutorial over hoe u een bericht kunt ondertekenen m
 
 Volg de stappen die u in deze video vindt: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU) om vastzittende transacties te versnellen met behulp van CPFP in de Peach-app.
 :::
+
+:::details Hoe werkt het financieren van meerdere aanbiedingen?
+
+Wanneer je meerdere aanbiedingen tegelijk wilt financieren, biedt de app een tussenadres dat wordt gegenereerd vanuit je Peach Wallet. Zodra de bitcoins dit adres bereiken, wordt er voor elke escrow een nieuwe transactie gegenereerd. Bijvoorbeeld, als je 5 verkoopaanbiedingen wilt financieren, worden 5 transacties naar verschillende escrow-adressen verzonden.
+:::

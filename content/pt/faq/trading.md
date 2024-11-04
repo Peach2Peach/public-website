@@ -81,3 +81,8 @@ Moedas com alta inflação sofrem com alta volatilidade, o que significa que o p
 
 Siga as etapas encontradas neste vídeo: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU) para acelerar transações presas usando o CPFP dentro do aplicativo Peach.
 :::
+
+:::details Como funciona o financiamento de múltiplas ofertas?
+
+Quando você quer financiar várias ofertas de uma vez, o aplicativo fornece um endereço intermediário gerado a partir da sua Peach Wallet. Assim que os bitcoins chegam a esse endereço, uma nova transação é gerada para cada contrato de custódia. Por exemplo, se você quiser financiar 5 ofertas de venda, 5 transações serão enviadas para diferentes endereços de custódia.
+:::

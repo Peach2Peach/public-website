@@ -115,3 +115,8 @@ Kama ilivyotajwa hapo awali, malipo yako yataongezwa kwenye foleni ya kungojea k
 
 Hapana, vikundi vinaweza pia kuzidi idadi ya washiriki. Sio kikomo, bali kizingiti. Hii inamaanisha, mara tu kikomo cha chini kitakapofikiwa, tutachukua tu psbts zote na kuziweka pamoja kufanya shughuli, na kupunguza ada kwa kila mshiriki anayelipa.
 :::
+
+:::details Jinsi gani kufadhili ofa nyingi hufanya kazi?
+
+Unapotaka kufadhili ofa nyingi kwa wakati mmoja, programu hutoa anwani ya kati inayotokana na Peach Wallet yako. Mara tu bitcoins zinapofika kwenye anwani hii, muamala mpya kwa kila akaunti ya escrow hutengenezwa. Kwa mfano, ikiwa unataka kufadhili ofa 5 za kuuza, miamala 5 itatumwa kwa anwani tofauti za escrow.
+:::
