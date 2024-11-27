@@ -46,12 +46,12 @@ html(lang=lang)
     link(rel="stylesheet" href=assetPath("/css/main.css"))
     title= pageTitle
     if !IS_DEV
-      script(src="https://www.googletagmanager.com/gtag/js?id=G-TBTST1GYXK" async)
+      script(src="https://www.googletagmanager.com/gtag/js?id=G-X5R7YQZGJ2" async)
       script.
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-TBTST1GYXK');
+        gtag('config', 'G-X5R7YQZGJ2');
     block pageScripts
   body(id=slugify(permalink) class=(hasTeaser ? 'with-teaser' : null))
     header.header.header-container#header
