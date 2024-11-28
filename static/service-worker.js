@@ -1,5 +1,5 @@
-// Nome della cache
-const CACHE_NAME = 'static-v1';
+// Nome della cache, incrementa la versione per aggiornare la cache
+const CACHE_NAME = 'static-v2';
 
 // File da mettere in cache
 const FILES_TO_CACHE = [
@@ -43,6 +43,7 @@ self.addEventListener('activate', function(event) {
     caches.keys().then(function(keyList) {
       return Promise.all(keyList.map(function(key) {
         if (key !== CACHE_NAME) {
+          console.log('Cache obsoleta eliminata:', key);
           return caches.delete(key);
         }
       }));
@@ -59,24 +60,30 @@ self.addEventListener('fetch', function(event) {
 
   if (event.request.url.startsWith('http')) {
     event.respondWith(
-      fetch(event.request).then(function(networkResponse) {
-        if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
-          return networkResponse;
-        }
+      caches.match(event.request)
+        .then(function(response) {
+          if (response) {
+            return response;
+          }
 
-        let responseToCache = networkResponse.clone();
-        caches.open(CACHE_NAME).then(function(cache) {
-          cache.put(event.request, responseToCache).catch(function(error) {
-            console.error('Errore durante il caching della richiesta:', error);
+          return fetch(event.request).then(function(networkResponse) {
+            if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
+              return networkResponse;
+            }
+
+            let responseToCache = networkResponse.clone();
+            caches.open(CACHE_NAME).then(function(cache) {
+              cache.put(event.request, responseToCache).catch(function(error) {
+                console.error('Errore durante il caching della richiesta:', error);
+              });
+            });
+
+            return networkResponse;
           });
-        });
-
-        return networkResponse;
-      }).catch(function() {
-        return caches.match(event.request).then(function(response) {
-          return response || new Response('Errore di rete', { status: 500 });
-        });
-      })
+        })
+        .catch(function() {
+          return new Response('Errore di rete', { status: 500 });
+        })
     );
   }
 });
