@@ -63,6 +63,7 @@ Together, let's make the Bitcoin ecosystem more accessible and private for every
 
 Peach is an SRO member (Self Regulatory Organisation) of Polyreg. Peach is a Swiss **licensed financial service provider** and is fully compliant with Switzerland’s Anti-Money Laundering Act.
 
+<button class="btn" id="customBtn" style="background-color: #FF7A50; color: white;" alt="Join our FAQ as well" onclick="window.location.href='/faqhome'">Join our FAQ as well</button>
 
 <div class="flex justify-center"><div class="w-1/2">
 

@@ -68,6 +68,8 @@ Te is közéjük tartozol? Nézd meg a [Csatlakozz Hozzánk](/join-us/) szekció
 
 Ha többet szeretnél tudni a cégről, nézd meg [blogbejegyzéseinket](/blog/), amelyek arról szólnak, hogyan kezdődött minden, és hogyan jutottunk idáig.
 
+<button class="btn" id="customBtn" style="background-color: #FF7A50; color: white;" alt="Csatlakozzon a GYIK-unkhoz is" onclick="window.location.href='/faqhome'">Csatlakozzon a GYIK-unkhoz is</button>
+
 <br><br>
 
 A Peach egy SRO tagja (Önszabályozó Szervezet) a Polyreg-nek. A Peach egy svájci engedéllyel rendelkező pénzügyi szolgáltató, amely teljes mértékben megfelel Svájc Pénzmosás Elleni Törvényének.

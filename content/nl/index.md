@@ -72,6 +72,8 @@ Ben jij er een van? Bekijk onze [Word Lid](/join-us/) sectie, misschien kunnen w
 
 Als je meer wilt weten over het bedrijf, bekijk dan onze [blogberichten](/blog/) waarin wordt gesproken over hoe alles begon, en hoe we hier zijn gekomen.
 
+<button class="btn" id="customBtn" style="background-color: #FF7A50; color: white;" alt="Word ook lid van onze FAQ" onclick="window.location.href='/faqhome'">Word ook lid van onze FAQ</button>
+
 <br><br>
 
 Peach is lid van een SRO (Self Regulatory Organisation) van Polyreg. Peach is een Zwitserse gelicentieerde financiële dienstverlener volledig in overeenstemming met de Anti-Witwaswetgeving van Zwitserland.

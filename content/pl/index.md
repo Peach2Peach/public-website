@@ -68,6 +68,8 @@ Jesteś jednym z nich? Sprawdź naszą sekcję [Dołącz do nas](/join-us/), mo�
 
 Jeśli chcesz dowiedzieć się więcej o firmie, sprawdź nasze [wpisy na blogu](/blog/) mówiące o tym, jak wszystko się zaczęło i jak doszliśmy do tego miejsca.
 
+<button class="btn" id="customBtn" style="background-color: #FF7A50; color: white;" alt="Dołącz do naszej FAQ" onclick="window.location.href='/faqhome'">Dołącz do naszej FAQ</button>
+
 <br><br>
 
 Peach jest członkiem SRO (Samoregulująca Organizacja) Polyreg. Peach to szwajcarski dostawca usług finansowych w pełni zgodny z szwajcarską ustawą o zwalczaniu prania pieniędzy.

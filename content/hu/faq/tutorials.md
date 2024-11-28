@@ -1,39 +1,59 @@
-# Útmutató a Bitcoin KYC nélküli vásárlásához és eladásához
+# **PeachBitcoin Útmutatók**  
+### *A biztonságos és privát Bitcoin tranzakciók kapuja*
 
-Üdvözöljük a PeachBitcoin-nál, a peer-to-peer (P2P) piactéren, ahol KYC követelmények nélkül vásárolhat Bitcoin-t. A PeachBitcoin több mint 100 fizetési módot támogat [Kattintson ide az összes fizetési mód megtekintéséhez](https://peachbitcoin.com/Buy-&-Sell-Bitcoin-using-any-payment-method-2024), beleértve a banki átutalásokat, készpénzt, minden bankkártyát és hitelkártyát, online pénztárcákat, mint a PayPal, Skrill és Neteller, valamint ajándékkártyákat, mint az Amazon.
+Üdvözlünk a PeachBitcoin útmutató központjában!  
+Itt lépésről lépésre találhatóak útmutatók, amelyek segítenek eligazodni platformunkon, elsajátítani a haladó Bitcoin technikákat, és élvezni a Bitcoin vásárlásának és eladásának előnyeit **KYC nélkül**.
 
-Mint P2P platform, a PeachBitcoin biztosítja a vevők és eladók biztonságát egy letéti rendszeren keresztül, amely csak akkor szabadítja fel a Bitcoinokat, ha mindkét fél teljesítette a tranzakciós kötelezettségeit. Így akár a PayPal-t, akár más fizetési szolgáltatást használ, a pénze közvetlenül és biztonságosan mozog.
+Több mint **100 fizetési módot** támogatunk — beleértve PayPal-t, banki átutalásokat, hitelkártyákat és ajándékkártyákat — a PeachBitcoin ötvözi a **rugalmasságot, a magánélet védelmét és a biztonságot** másokkal nem összehasonlítható módon.
 
-Azért, hogy segítsünk eligazodni és hatékonyan használni a PeachBitcoin-t, létrehoztunk egy sor útmutatót. Ezek az útmutatók különböző folyamatokon vezetik végig Önt, biztosítva, hogy könnyedén maximalizálhassa a platform lehetőségeit.
+---
 
-## Hogyan csatlakozhat a saját Node-hoz a Peach alkalmazásban
+## Miért válassza a PeachBitcoin-t?
+- **Nincs szükség KYC-ra**: Őrizze meg a magánéletét, miközben biztonságosan tranzaktál.  
+- **Globális fizetési lehetőségek**: Válasszon több mint 100 fizetési mód közül.  
+- **Belső Escrow**: Bonyolítson le tranzakciókat biztonságban a megbízható escrow rendszerünkkel.  
+- **Haladó eszközök**: Használjon olyan funkciókat, mint a CPFP, a személyes Bitcoin csomópontok és az üzenet aláírás.
 
-Ismerje meg, hogyan csatlakozhat a saját Bitcoin node-jához a Peach alkalmazás segítségével. Ez az útmutató lépésről lépésre végigvezeti a biztonságos és privát kapcsolat létrehozásán. A saját node-hoz való csatlakozással növeli a magánéletét és nagyobb ellenőrzést nyer a Bitcoin tranzakciói felett. A videó mindent tartalmaz, a szükséges szoftver letöltésétől a beállítások konfigurálásáig a Peach alkalmazásban.
+---
 
-[![Hogyan csatlakozhat a saját Node-hoz a Peach alkalmazásban](https://img.youtube.com/vi/xtvq2i3mIYg/0.jpg)](https://www.youtube.com/watch?v=xtvq2i3mIYg)
+## Fedezze fel útmutatóinkat
 
-## Hogyan írhat alá egy üzenetet bármelyik pénztárcával
+Akár kezdő, akár tapasztalt Bitcoin rajongó, ezek az útmutatók lépésről lépésre segítenek maximalizálni a PeachBitcoin tapasztalatait.
 
-Fedezze fel az üzenet aláírásának folyamatát bármely másik pénztárcával. Ez a videó segít megérteni az üzenet aláírásának fontosságát és a helyes végrehajtását. Az üzenetek aláírása igazolhatja a Bitcoin címének tulajdonjogát és biztosíthatja tranzakcióit. Kövesse velünk lépésről lépésre a folyamatot, biztosítva, hogy magabiztosan aláírhassa az üzeneteket és javítsa a biztonsági intézkedéseit.
+**[Csatlakoztassa a Bitcoin csomópontot a Peach alkalmazáshoz](../btcnode-to-peachapp)**  
+   *Növelje a magánélet védelmét és szerezzen teljes irányítást Bitcoin tranzakciói felett.*  
+   [▶ Nézze meg a videó útmutatót](https://www.youtube.com/watch?v=xtvq2i3mIYg)
 
-[![Hogyan írhat alá egy üzenetet bármelyik pénztárcával](https://img.youtube.com/vi/xgewSfhLgtY/0.jpg)](https://www.youtube.com/watch?v=xgewSfhLgtY)
+**[Írjon alá egy üzenetet bármilyen pénztárcával](../sign-message)**  
+   *Erősítse meg a tulajdonjogot és biztosítsa tranzakcióit bizalommal.*  
+   [▶ Nézze meg a videó útmutatót](https://www.youtube.com/watch?v=xgewSfhLgtY)
 
-## Hogyan gyorsíthatja fel a Bitcoin tranzakciókat a CPFP használatával
+**[Gyorsítson Bitcoin tranzakciókat CPFP segítségével](../accelerate-using-cfpf)**  
+   *Biztosítson gyorsabb megerősítéseket haladó tranzakciós technikákkal.*  
+   [▶ Nézze meg a videó útmutatót](https://www.youtube.com/watch?v=24OtQkL0CxU)
 
-Gyorsítsa fel a Bitcoin tranzakcióit a Child Pays for Parent (CPFP) módszerrel a Peach segítségével. Ez az útmutató elmagyarázza, hogyan használhatja ki a CPFP előnyeit, hogy a tranzakciói gyorsabban megerősítést nyerjenek. Ismerje meg a CPFP alapelveit, és kövesse részletes utasításainkat ennek a technikának a végrehajtásához, csökkentve a várakozási időket és javítva a PeachBitcoin platformon szerzett tranzakciós élményét.
+**[Vásároljon Bitcoin-t közvetlenül egy külső pénztárcába](../peachbitcoin-wallet)**  
+   *Tartsa biztonságban alapjait Bitcoin átutalással privát pénztárcájába.*  
+   [▶ Nézze meg a videó útmutatót](https://www.youtube.com/watch?v=d3STuVfFWfQ)
 
-[![Hogyan gyorsíthatja fel a Bitcoin tranzakciókat a CPFP használatával a Peach segítségével](https://img.youtube.com/vi/24OtQkL0CxU/0.jpg)](https://www.youtube.com/watch?v=24OtQkL0CxU)
+**[Spanyol nyelvű útmutató: Hogyan használjuk a PeachBitcoin-t](../peachbitcoin-in-spanish)**  
+   *Ismerje meg a PeachBitcoin használatát spanyol nyelven a zökkenőmentes élményért.*  
+   [▶ Nézze meg a videó útmutatót](https://www.youtube.com/watch?v=sVwSzTVIe6s)
 
-## Hogyan vásárolhat Bitcoin-t közvetlenül külső pénztárcába - Aláírás a Blue Wallet-tel
+---
 
-Értse meg, hogyan vásárolhat Bitcoin-t és utalhatja közvetlenül egy külső pénztárcába. Ez az útmutató a Blue Wallet-et használja példaként a biztonságos tranzakciók aláírásának folyamatának bemutatására. A Bitcoin külső pénztárcába történő átvitele biztosítja, hogy a vagyonát ellenőrzés alatt tartsa. Kövesse részletes útmutatónkat a lépések megismeréséhez, a külső pénztárca kiválasztásától a tranzakció biztonságos befejezéséig.
+## **Kezdje el még ma**  
 
-[![Hogyan vásárolhat Bitcoin-t közvetlenül külső pénztárcába. Aláírás a Blue Wallet-tel](https://img.youtube.com/vi/d3STuVfFWfQ/0.jpg)](https://www.youtube.com/watch?v=d3STuVfFWfQ)
+A PeachBitcoin-nal a magánélet és a biztonság találkozik. Használja útmutatóinkat, hogy:  
+- **Vegye át a Bitcoin tranzakciók irányítását** személyes csomópontokkal és pénztárcákkal.  
+- **Javítson tranzakciós élményén** haladó eszközökkel, mint a CPFP.  
+- **Tanuljon és fejlődjön** egy olyan közösségben, amely a szabadságot és a rugalmasságot helyezi előtérbe.
 
-## PeachBitcoin útmutató spanyolul
+**Segítségre van szüksége?** Fedezze fel a [GYIK](https://peachbitcoin.com/faqhome)-ot, vagy lépjen kapcsolatba ügyfélszolgálatunkkal.
 
-Spanyol nyelvű felhasználóink számára kínálunk egy spanyol nyelvű útmutatót, amely elmagyarázza, hogyan használhatja hatékonyan és biztonságosan a PeachBitcoin-t. Ez a videó minden alapvető szempontot lefed, az induló beállítástól a biztonságos tranzakciók végrehajtásáig. Kövesse részletes utasításainkat, hogy a legtöbbet hozhassa ki a PeachBitcoin platformból és biztosítsa a zökkenőmentes élményt.
+---
 
-Fedezze fel ezeket az útmutatókat, hogy a legtöbbet hozhassa ki a PeachBitcoin-ból, és kezdje meg Bitcoin útját ma magabiztosan!
+## **A PeachBitcoin-ról**  
 
-[![Peach útmutató spanyolul](https://img.youtube.com/vi/sVwSzTVIe6s/0.jpg)](https://www.youtube.com/watch?v=sVwSzTVIe6s)
+A PeachBitcoin egy **peer-to-peer piac**, amely világszerte segíti a Bitcoin felhasználókat. Privát, biztonságos és könnyen használható szolgáltatásokkal biztosítjuk a zökkenőmentes kereskedést.  
+**A kulcsok a tiéd, a szabályok a tiéd.**
