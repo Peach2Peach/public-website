@@ -68,6 +68,8 @@ Senti di essere tra questi? Dai un'occhiata alla nostra sezione [Unisciti a noi]
 
 Se desideri saperne di più sull'azienda, leggi i nostri [articoli del blog](/it/blog/) che raccontano come è cominciato tutto e come siamo arrivati fin qui.
 
+<button class="btn" id="customBtn" style="background-color: #FF7A50; color: white;" alt="Unisciti anche alla nostra FAQ" onclick="window.location.href='/faqhome'">Unisciti anche alla nostra FAQ</button>
+
 <br><br>
 
 Peach è membro dell'SRO (Organizzazione di Autorégulation) di Polyreg. Peach è un fornitore di servizi finanziari con licenza svizzera pienamente conforme alla Legge svizzera sulla prevenzione del riciclaggio di denaro.

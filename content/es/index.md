@@ -68,6 +68,8 @@ Peach, la compañía, nace de personas que creen en el dinero más duro que ha e
 
 Si quieres saber más sobre la compañía, echa un vistazo a nuestras [publicaciones en el blog](/es/blog/) donde hablamos sobre cómo todo comenzó y cómo llegamos hasta aquí.
 
+<button class="btn" id="customBtn" style="background-color: #FF7A50; color: white;" alt="Únase también a nuestra FAQ" onclick="window.location.href='/faqhome'">Únase también a nuestra FAQ</button>
+
 Peach es miembro de SRO (Organización de Autorregulación) de Polyreg. Peach es un proveedor de servicios financieros con licencia suiza totalmente conforme con la Ley Suiza Anti-Lavado de Dinero.
 
 <div class="flex justify-center"><div class="w-1/2">
