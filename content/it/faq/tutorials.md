@@ -28,7 +28,7 @@ Che tu sia un principiante o un appassionato esperto di Bitcoin, questi tutorial
    *Verifica la proprietà e proteggi le tue transazioni con fiducia.*  
    [▶ Guarda il tutorial video](https://www.youtube.com/watch?v=xgewSfhLgtY)
 
-**[Accelera le transazioni Bitcoin usando CPFP](../accelerate-using-cfpf)**  
+**[Accelera le transazioni Bitcoin usando CPFP](../accelerate-using-cpfp)**  
    *Assicura conferme più rapide con tecniche avanzate di transazione.*  
    [▶ Guarda il tutorial video](https://www.youtube.com/watch?v=24OtQkL0CxU)
 

@@ -28,7 +28,7 @@ Akár kezdő, akár tapasztalt Bitcoin rajongó, ezek az útmutatók lépésről
    *Erősítse meg a tulajdonjogot és biztosítsa tranzakcióit bizalommal.*  
    [▶ Nézze meg a videó útmutatót](https://www.youtube.com/watch?v=xgewSfhLgtY)
 
-**[Gyorsítson Bitcoin tranzakciókat CPFP segítségével](../accelerate-using-cfpf)**  
+**[Gyorsítson Bitcoin tranzakciókat CPFP segítségével](../accelerate-using-cpfp)**  
    *Biztosítson gyorsabb megerősítéseket haladó tranzakciós technikákkal.*  
    [▶ Nézze meg a videó útmutatót](https://www.youtube.com/watch?v=24OtQkL0CxU)
 
