@@ -1,39 +1,59 @@
-# Tutorial over hoe Bitcoin te kopen en verkopen zonder KYC
+# **PeachBitcoin Handleidingen**  
+### *Jouw toegang tot veilige en privé Bitcoin-transacties*
 
-Welkom bij PeachBitcoin, jouw peer-to-peer (P2P) marktplaats voor het kopen van Bitcoin zonder KYC-vereisten. Bij PeachBitcoin ondersteunen we meer dan 100 betaalmethoden [Klik hier om alle betaalmethoden te bekijken](https://peachbitcoin.com/Buy-&-Sell-Bitcoin-using-any-payment-method-2024), waaronder bankoverschrijvingen, contant geld, alle debet-/creditcards, online wallets zoals PayPal, Skrill en Neteller, en cadeaubonnen zoals Amazon.
+Welkom bij het PeachBitcoin tutorialcentrum!  
+Hier vind je stapsgewijze handleidingen om je te helpen onze platform te navigeren, geavanceerde Bitcoin-technieken onder de knie te krijgen en te profiteren van het kopen en verkopen van Bitcoin **zonder KYC**.
 
-Als P2P-platform zorgt PeachBitcoin voor de veiligheid van zowel kopers als verkopers via een escrow-systeem dat Bitcoins pas vrijgeeft als beide partijen hun transactieverplichtingen hebben nagekomen. Op deze manier worden je fondsen direct en veilig verplaatst, ongeacht of je PayPal of een andere betaalservice gebruikt.
+Met meer dan **100 betaalmethoden** die worden ondersteund — waaronder PayPal, bankoverschrijvingen, creditcards en cadeaubonnen — combineert PeachBitcoin **flexibiliteit, privacy en veiligheid** als geen ander.
 
-Om je te helpen PeachBitcoin effectief te navigeren en gebruiken, hebben we een reeks tutorials gemaakt. Deze handleidingen begeleiden je door verschillende processen, zodat je moeiteloos het potentieel van het platform kunt maximaliseren.
+---
 
-## Hoe je verbinding maakt met je eigen Node in de Peach-app
+## Waarom PeachBitcoin gebruiken?
+- **Geen KYC vereist**: Bewaar je privacy terwijl je veilig transactie uitvoert.  
+- **Wereldwijde betaalopties**: Kies uit meer dan 100 betaalmethoden.  
+- **Ingebouwde Escrow**: Handel met vertrouwen via ons beveiligde escrow-systeem.  
+- **Geavanceerde tools**: Maak gebruik van functies zoals CPFP, persoonlijke Bitcoin-nodes en berichtondertekening.
 
-Leer hoe je verbinding maakt met je eigen Bitcoin-node met de Peach-app. Deze tutorial begeleidt je door de stappen om een veilige en privéverbinding te garanderen. Door verbinding te maken met je eigen node, vergroot je je privacy en krijg je meer controle over je Bitcoin-transacties. De video behandelt alles, van het downloaden van de benodigde software tot het configureren van je instellingen in de Peach-app.
+---
 
-[![Hoe je verbinding maakt met je eigen Node in de Peach-app](https://img.youtube.com/vi/xtvq2i3mIYg/0.jpg)](https://www.youtube.com/watch?v=xtvq2i3mIYg)
+## Ontdek onze handleidingen
 
-## Hoe je een bericht ondertekent met elke Wallet
+Of je nu een beginner of een ervaren Bitcoin-liefhebber bent, deze handleidingen begeleiden je stap voor stap om het meeste uit je PeachBitcoin-ervaring te halen.
 
-Ontdek het proces van het ondertekenen van een bericht met een andere wallet. Deze video helpt je het belang van het ondertekenen van berichten te begrijpen en hoe je dit correct kunt doen. Het ondertekenen van berichten kan eigendom van je Bitcoin-adres verifiëren en je transacties beveiligen. Volg ons terwijl we de stapsgewijze procedure demonstreren, zodat je berichten met vertrouwen kunt ondertekenen en je beveiligingsmaatregelen kunt verbeteren.
+**[Verbind je Bitcoin-node met de Peach-app](../btcnode-to-peachapp)**  
+   *Verbeter je privacy en krijg volledige controle over je Bitcoin-transacties.*  
+   [▶ Bekijk de videotutorial](https://www.youtube.com/watch?v=xtvq2i3mIYg)
 
-[![Hoe je een bericht ondertekent met elke Wallet](https://img.youtube.com/vi/xgewSfhLgtY/0.jpg)](https://www.youtube.com/watch?v=xgewSfhLgtY)
+**[Onderteken een bericht met elke wallet](../sign-message)**  
+   *Verifieer eigendom en beveilig je transacties met vertrouwen.*  
+   [▶ Bekijk de videotutorial](https://www.youtube.com/watch?v=xgewSfhLgtY)
 
-## Hoe je Bitcoin-transacties versnelt met CPFP
+**[Versnel Bitcoin-transacties met CPFP](../accelerate-using-cpfp)**  
+   *Zorg voor snellere bevestigingen met geavanceerde transactie-technieken.*  
+   [▶ Bekijk de videotutorial](https://www.youtube.com/watch?v=24OtQkL0CxU)
 
-Versnel je Bitcoin-transacties met de Child Pays for Parent (CPFP)-methode bij Peach. Deze tutorial legt uit hoe je CPFP kunt gebruiken om ervoor te zorgen dat je transacties sneller worden bevestigd. Leer de onderliggende principes van CPFP en volg onze gedetailleerde instructies om deze techniek toe te passen, wachttijden te verminderen en je algehele transactieservaring op het PeachBitcoin-platform te verbeteren.
+**[Koop Bitcoin direct naar een externe wallet](../peachbitcoin-wallet)**  
+   *Houd je fondsen veilig door Bitcoin over te dragen naar je private wallet.*  
+   [▶ Bekijk de videotutorial](https://www.youtube.com/watch?v=d3STuVfFWfQ)
 
-[![Hoe je Bitcoin-transacties versnelt met CPFP bij Peach](https://img.youtube.com/vi/24OtQkL0CxU/0.jpg)](https://www.youtube.com/watch?v=24OtQkL0CxU)
+**[Spaanse handleiding: Hoe PeachBitcoin te gebruiken](../peachbitcoin-in-spanish)**  
+   *Leer hoe je PeachBitcoin in het Spaans gebruikt voor een naadloze ervaring.*  
+   [▶ Bekijk de videotutorial](https://www.youtube.com/watch?v=sVwSzTVIe6s)
 
-## Hoe je Bitcoin rechtstreeks naar een externe Wallet koopt - Ondertekenen met Blue Wallet
+---
 
-Begrijp hoe je Bitcoin kunt kopen en rechtstreeks naar een externe wallet kunt overmaken. Deze handleiding gebruikt Blue Wallet als voorbeeld om het proces van veilig ondertekenen van transacties te demonstreren. Het overmaken van Bitcoin naar een externe wallet zorgt ervoor dat je de controle over je activa behoudt. Volg onze uitgebreide tutorial om de stappen te leren, van het selecteren van de externe wallet tot het veilig voltooien van de transactie.
+## **Begin vandaag nog**  
 
-[![Hoe je Bitcoin rechtstreeks naar een externe Wallet koopt. Ondertekenen met Blue Wallet](https://img.youtube.com/vi/d3STuVfFWfQ/0.jpg)](https://www.youtube.com/watch?v=d3STuVfFWfQ)
+Met PeachBitcoin komt privacy samen met veiligheid. Gebruik onze handleidingen om:  
+- **Neem de controle over je Bitcoin-transacties** met persoonlijke nodes en wallets.  
+- **Verbeter je transactie-ervaring** door gebruik te maken van geavanceerde tools zoals CPFP.  
+- **Leer en groei** in een gemeenschap die is gebouwd op vrijheid en flexibiliteit.
 
-## PeachBitcoin-tutorial in het Spaans
+**Hulp nodig?** Verken onze [FAQ](https://peachbitcoin.com/faqhome) of neem contact op met ons ondersteuningsteam.
 
-Voor onze Spaanstalige gebruikers bieden we een tutorial in het Spaans aan die uitlegt hoe je PeachBitcoin effectief en veilig kunt gebruiken. Deze video behandelt alle essentiële aspecten, van de eerste installatie tot het uitvoeren van veilige transacties. Volg onze gedetailleerde instructies om het meeste uit het PeachBitcoin-platform te halen en een soepele ervaring te garanderen.
+---
 
-Verken deze tutorials om het meeste uit PeachBitcoin te halen en begin vandaag met vertrouwen aan je Bitcoin-reis!
+## **Over PeachBitcoin**  
 
-[![Peach-tutorial in het Spaans](https://img.youtube.com/vi/sVwSzTVIe6s/0.jpg)](https://www.youtube.com/watch?v=sVwSzTVIe6s)
+PeachBitcoin is een **peer-to-peer markt** die Bitcoin-gebruikers wereldwijd in staat stelt om te handelen. Door privé, veilige en gebruiksvriendelijke diensten aan te bieden, zorgen we voor een naadloze handelservaring.  
+**Jouw sleutels, jouw regels.**

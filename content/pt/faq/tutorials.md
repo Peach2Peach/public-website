@@ -1,39 +1,59 @@
-# Tutorial sobre como comprar e vender Bitcoin sem KYC
+# **Tutoriais PeachBitcoin**  
+### *Sua porta de entrada para transações Bitcoin seguras e privadas*
 
-Bem-vindo ao PeachBitcoin, seu mercado peer-to-peer (P2P) para comprar Bitcoin sem requisitos de KYC. No PeachBitcoin, apoiamos mais de 100 métodos de pagamento [Clique aqui para ver todos os métodos de pagamento](https://peachbitcoin.com/Buy-&-Sell-Bitcoin-using-any-payment-method-2024), incluindo transferências bancárias, dinheiro, todos os cartões de débito/crédito, carteiras online como PayPal, Skrill e Neteller, bem como cartões-presente como Amazon.
+Bem-vindo ao centro de tutoriais do PeachBitcoin!  
+Aqui você encontrará guias passo a passo para ajudá-lo a navegar em nossa plataforma, dominar técnicas avançadas de Bitcoin e aproveitar os benefícios de comprar e vender Bitcoin **sem KYC**.
 
-Como plataforma P2P, o PeachBitcoin garante a segurança de compradores e vendedores através de um sistema de custódia que libera os Bitcoins apenas quando ambas as partes cumpriram suas obrigações de transação. Dessa forma, seja usando PayPal ou qualquer outro serviço de pagamento, seus fundos são movidos de forma direta e segura.
+Com mais de **100 métodos de pagamento** suportados — incluindo PayPal, transferências bancárias, cartões de crédito e cartões-presente — o PeachBitcoin combina **flexibilidade, privacidade e segurança** como nenhum outro.
 
-Para ajudá-lo a navegar e utilizar o PeachBitcoin de forma eficaz, criamos uma série de tutoriais. Esses guias o orientarão através de vários processos, garantindo que você possa maximizar o potencial da plataforma com facilidade.
+---
 
-## Como se conectar ao seu próprio Node no aplicativo Peach
+## Por que usar o PeachBitcoin?
+- **Sem KYC necessário**: Preserve sua privacidade enquanto faz transações com segurança.  
+- **Opções de pagamento globais**: Escolha entre mais de 100 métodos de pagamento.  
+- **Escrow integrado**: Negocie com confiança usando nosso sistema de escrow seguro.  
+- **Ferramentas avançadas**: Use recursos como CPFP, nós Bitcoin pessoais e assinatura de mensagens.
 
-Aprenda como se conectar ao seu próprio node de Bitcoin usando o aplicativo Peach. Este tutorial o guiará pelos passos para garantir uma conexão segura e privada. Ao se conectar ao seu próprio node, você aumenta sua privacidade e ganha maior controle sobre suas transações de Bitcoin. O vídeo cobre tudo, desde o download do software necessário até a configuração de suas configurações no aplicativo Peach.
+---
 
-[![Como se conectar ao seu próprio Node no aplicativo Peach](https://img.youtube.com/vi/xtvq2i3mIYg/0.jpg)](https://www.youtube.com/watch?v=xtvq2i3mIYg)
+## Explore nossos tutoriais
 
-## Como assinar uma mensagem usando qualquer carteira
+Seja você iniciante ou um entusiasta experiente de Bitcoin, esses tutoriais irão guiá-lo passo a passo para maximizar sua experiência com o PeachBitcoin.
 
-Descubra o processo de assinar uma mensagem com qualquer outra carteira. Este vídeo ajudará você a entender a importância da assinatura de mensagens e como realizá-la corretamente. Assinar mensagens pode verificar a propriedade do seu endereço de Bitcoin e garantir suas transações. Siga-nos enquanto demonstramos o procedimento passo a passo, garantindo que você possa assinar mensagens com confiança e melhorar suas medidas de segurança.
+**[Conecte seu nó Bitcoin ao aplicativo Peach](../btcnode-to-peachapp)**  
+   *Aumente a privacidade e tenha controle total sobre suas transações Bitcoin.*  
+   [▶ Assista ao tutorial em vídeo](https://www.youtube.com/watch?v=xtvq2i3mIYg)
 
-[![Como assinar uma mensagem usando qualquer carteira](https://img.youtube.com/vi/xgewSfhLgtY/0.jpg)](https://www.youtube.com/watch?v=xgewSfhLgtY)
+**[Assine uma mensagem com qualquer carteira](../sign-message)**  
+   *Verifique a posse e proteja suas transações com confiança.*  
+   [▶ Assista ao tutorial em vídeo](https://www.youtube.com/watch?v=xgewSfhLgtY)
 
-## Como acelerar transações de Bitcoin usando CPFP
+**[Acelere transações Bitcoin usando CPFP](../accelerate-using-cpfp)**  
+   *Garanta confirmações mais rápidas com técnicas avançadas de transação.*  
+   [▶ Assista ao tutorial em vídeo](https://www.youtube.com/watch?v=24OtQkL0CxU)
 
-Acelere suas transações de Bitcoin usando o método Child Pays for Parent (CPFP) com o Peach. Este tutorial explica como aproveitar o CPFP para garantir que suas transações sejam confirmadas mais rapidamente. Aprenda sobre os princípios subjacentes do CPFP e siga nossas instruções detalhadas para implementar essa técnica, reduzindo os tempos de espera e melhorando sua experiência geral de transação na plataforma PeachBitcoin.
+**[Compre Bitcoin diretamente para uma carteira externa](../peachbitcoin-wallet)**  
+   *Mantenha seus fundos seguros transferindo Bitcoin para sua carteira privada.*  
+   [▶ Assista ao tutorial em vídeo](https://www.youtube.com/watch?v=d3STuVfFWfQ)
 
-[![Como acelerar transações de Bitcoin usando CPFP com o Peach](https://img.youtube.com/vi/24OtQkL0CxU/0.jpg)](https://www.youtube.com/watch?v=24OtQkL0CxU)
+**[Tutorial em Espanhol: Como usar o PeachBitcoin](../peachbitcoin-in-spanish)**  
+   *Aprenda a usar o PeachBitcoin em espanhol para uma experiência mais fluída.*  
+   [▶ Assista ao tutorial em vídeo](https://www.youtube.com/watch?v=sVwSzTVIe6s)
 
-## Como comprar Bitcoin diretamente em uma carteira externa - Assinando com Blue Wallet
+---
 
-Entenda como comprar Bitcoin e transferi-lo diretamente para uma carteira externa. Este guia usa Blue Wallet como exemplo para demonstrar o processo de assinatura segura de transações. Transferir Bitcoin para uma carteira externa garante que você mantenha o controle sobre seus ativos. Siga nosso tutorial abrangente para aprender as etapas envolvidas, desde a seleção da carteira externa até a conclusão segura da transação.
+## **Comece hoje**  
 
-[![Como comprar Bitcoin diretamente em uma carteira externa. Assinando com Blue Wallet](https://img.youtube.com/vi/d3STuVfFWfQ/0.jpg)](https://www.youtube.com/watch?v=d3STuVfFWfQ)
+Com PeachBitcoin, a privacidade encontra a segurança. Use nossos tutoriais para:  
+- **Assumir o controle das suas transações Bitcoin** com nós e carteiras pessoais.  
+- **Melhorar sua experiência de transação** usando ferramentas avançadas como CPFP.  
+- **Aprender e crescer** em uma comunidade construída com liberdade e flexibilidade.
 
-## Tutorial PeachBitcoin em espanhol
+**Precisa de mais ajuda?** Explore nossas [Perguntas Frequentes](https://peachbitcoin.com/faqhome) ou entre em contato com nossa equipe de suporte.
 
-Para nossos usuários de língua espanhola, oferecemos um tutorial em espanhol que explica como usar o PeachBitcoin de forma eficaz e segura. Este vídeo cobre todos os aspectos essenciais, desde a configuração inicial até a execução de transações seguras. Siga nossas instruções detalhadas para aproveitar ao máximo a plataforma PeachBitcoin e garantir uma experiência tranquila.
+---
 
-Explore esses tutoriais para tirar o máximo proveito do PeachBitcoin e comece sua jornada com Bitcoin com confiança hoje!
+## **Sobre o PeachBitcoin**  
 
-[![Tutorial Peach em espanhol](https://img.youtube.com/vi/sVwSzTVIe6s/0.jpg)](https://www.youtube.com/watch?v=sVwSzTVIe6s)
+O PeachBitcoin é um **mercado peer-to-peer** projetado para capacitar usuários de Bitcoin em todo o mundo. Oferecendo serviços privados, seguros e fáceis de usar, garantimos uma experiência de negociação sem interrupções.  
+**Seus chaves, suas regras.**
