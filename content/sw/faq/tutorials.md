@@ -28,7 +28,7 @@ Iwe wewe ni mwanzoni au mpenzi mzoefu wa Bitcoin, mafunzo haya yatakusaidia hatu
    *Thibitisha umiliki na linda miamala yako kwa ujasiri.*  
    [▶ Tazama Mafunzo ya Video](https://www.youtube.com/watch?v=xgewSfhLgtY)
 
-**[Harakisha Miamala ya Bitcoin kwa Kutumia CPFP](../accelerate-using-cfpf)**  
+**[Harakisha Miamala ya Bitcoin kwa Kutumia CPFP](../accelerate-using-cpfp)**  
    *Hakikisha uthibitishaji wa haraka zaidi kwa kutumia mbinu za juu za miamala.*  
    [▶ Tazama Mafunzo ya Video](https://www.youtube.com/watch?v=24OtQkL0CxU)
 

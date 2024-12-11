@@ -28,7 +28,7 @@
    *Επαληθεύστε την ιδιοκτησία και ασφαλίστε τις συναλλαγές σας με σιγουριά.*  
    [▶ Δείτε το βίντεο-οδηγό](https://www.youtube.com/watch?v=xgewSfhLgtY)
 
-**[Αυξήστε τις συναλλαγές Bitcoin με CPFP](../accelerate-using-cfpf)**  
+**[Αυξήστε τις συναλλαγές Bitcoin με CPFP](../accelerate-using-cpfp)**  
    *Εξασφαλίστε ταχύτερες επιβεβαιώσεις με προηγμένες τεχνικές συναλλαγών.*  
    [▶ Δείτε το βίντεο-οδηγό](https://www.youtube.com/watch?v=24OtQkL0CxU)
 

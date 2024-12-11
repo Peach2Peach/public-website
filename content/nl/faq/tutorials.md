@@ -28,7 +28,7 @@ Of je nu een beginner of een ervaren Bitcoin-liefhebber bent, deze handleidingen
    *Verifieer eigendom en beveilig je transacties met vertrouwen.*  
    [▶ Bekijk de videotutorial](https://www.youtube.com/watch?v=xgewSfhLgtY)
 
-**[Versnel Bitcoin-transacties met CPFP](../accelerate-using-cfpf)**  
+**[Versnel Bitcoin-transacties met CPFP](../accelerate-using-cpfp)**  
    *Zorg voor snellere bevestigingen met geavanceerde transactie-technieken.*  
    [▶ Bekijk de videotutorial](https://www.youtube.com/watch?v=24OtQkL0CxU)
 

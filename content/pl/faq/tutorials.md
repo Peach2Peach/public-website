@@ -28,7 +28,7 @@ Bez względu na to, czy jesteś początkującym, czy doświadczonym entuzjastą 
    *Zweryfikuj własność i zabezpiecz swoje transakcje z pewnością.*  
    [▶ Zobacz samouczek wideo](https://www.youtube.com/watch?v=xgewSfhLgtY)
 
-**[Przyspiesz transakcje Bitcoin za pomocą CPFP](../accelerate-using-cfpf)**  
+**[Przyspiesz transakcje Bitcoin za pomocą CPFP](../accelerate-using-cpfp)**  
    *Zyskaj szybsze potwierdzenia dzięki zaawansowanym technikom transakcji.*  
    [▶ Zobacz samouczek wideo](https://www.youtube.com/watch?v=24OtQkL0CxU)
 
