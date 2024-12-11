@@ -68,6 +68,8 @@ Bist du einer von denen? Schau in unserem [Komm zu Uns](/join-us/) Bereich, vill
 
 Wenn du mehr über das Unternehmen Peach wissen willst, schau dir unsere [Blog Beiträge](/blog/) an. Wir reden darüber, wie alles begann und wie wir soweit gekommen sind.
 
+<button class="btn" id="customBtn" style="background-color: #FF7A50; color: white;" alt="Treten Sie auch unserer FAQ bei" onclick="window.location.href='/faqhome'">Treten Sie auch unserer FAQ bei</button>
+
 Peach ist Mitglied der SRO (Selbstregulierungsorganisation) von Polyreg. Peach ist ein in der Schweiz lizenzierter Finanzdienstleister, der vollständig mit dem Anti-Geldwäscherei-Gesetz der Schweiz konform ist.
 
 <div class="flex justify-center"><div class="w-1/2">

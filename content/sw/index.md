@@ -68,6 +68,8 @@ Je, wewe ni mmoja wao? Angalia sehemu yetu ya [Jiunge nasi](/join-us/), labda tu
 
 Ikiwa unataka kujua zaidi kuhusu kampuni, angalia [machapisho yetu ya blogi](/blog/) yanayozungumza jinsi kila kitu kilivyoanza, na jinsi tulivyofika hapa.
 
+<button class="btn" id="customBtn" style="background-color: #FF7A50; color: white;" alt="Jiunge pia na FAQ yetu" onclick="window.location.href='/faqhome'">Jiunge pia na FAQ yetu</button>
+
 <br><br>
 
 Peach ni mwanachama wa SRO (Shirika la Kujisimamia) wa Polyreg. Peach ni mtoa huduma wa kifedha aliyepewa leseni nchini Uswisi ambaye anazingatia kabisa Sheria ya Uswisi ya Kupambana na Utakatishaji wa Fedha.
