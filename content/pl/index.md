@@ -18,6 +18,7 @@ template: index
   <div class="md:flex items-end">
     <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Pobierz z App Store"></a>
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Dostępne w Google Play"></a>
+    <a class="md:ml-4" href="https://zapstore.dev/download/"><img class="h-180px md:h-90px" src="/img/home/Get-it-on-zapstore.svg" alt="Get Bitcoin app on ZapStore store without ID verification"></a>
   </div>
 
 :::buttons
@@ -67,6 +68,8 @@ Peach, firma, powstała z ludzi, którzy wierzą w najtwardszą walutę, jaka ki
 Jesteś jednym z nich? Sprawdź naszą sekcję [Dołącz do nas](/join-us/), może możemy razem pracować!
 
 Jeśli chcesz dowiedzieć się więcej o firmie, sprawdź nasze [wpisy na blogu](/blog/) mówiące o tym, jak wszystko się zaczęło i jak doszliśmy do tego miejsca.
+
+<button class="btn" id="customBtn" style="background-color: #FF7A50; color: white;" alt="Dołącz do naszej FAQ" onclick="window.location.href='/faqhome'">Dołącz do naszej FAQ</button>
 
 <br><br>
 

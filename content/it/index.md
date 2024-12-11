@@ -18,6 +18,7 @@ template: index
   <div class="md:flex items-end">
     <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Bitcoin app on the App Store without KYC verification"></a>
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Bitcoin app on Google Play store without ID verification"></a>
+    <a class="md:ml-4" href="https://zapstore.dev/download/"><img class="h-180px md:h-90px" src="/img/home/Get-it-on-zapstore.svg" alt="Get Bitcoin app on ZapStore store without ID verification"></a>
   </div>
 
 :::buttons
@@ -67,6 +68,8 @@ Peach, l'azienda, nasce da persone che credono nella moneta più solida che sia 
 Senti di essere tra questi? Dai un'occhiata alla nostra sezione [Unisciti a noi](/it/join-us/), forse possiamo lavorare insieme!
 
 Se desideri saperne di più sull'azienda, leggi i nostri [articoli del blog](/it/blog/) che raccontano come è cominciato tutto e come siamo arrivati fin qui.
+
+<button class="btn" id="customBtn" style="background-color: #FF7A50; color: white;" alt="Unisciti anche alla nostra FAQ" onclick="window.location.href='/faqhome'">Unisciti anche alla nostra FAQ</button>
 
 <br><br>
 

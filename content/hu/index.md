@@ -18,6 +18,7 @@ template: index
   <div class="md:flex items-end">
     <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Letöltés az Apple Store-ban"></a>
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Szerezd meg a Google Play-en"></a>
+    <a class="md:ml-4" href="https://zapstore.dev/download/"><img class="h-180px md:h-90px" src="/img/home/Get-it-on-zapstore.svg" alt="Get Bitcoin app on ZapStore store without ID verification"></a>
   </div>
 
 :::buttons
@@ -67,6 +68,8 @@ A Peach, a cég, olyan emberekből született, akik hisznek a valaha létezett l
 Te is közéjük tartozol? Nézd meg a [Csatlakozz Hozzánk](/join-us/) szekciót, talán együtt dolgozhatunk!
 
 Ha többet szeretnél tudni a cégről, nézd meg [blogbejegyzéseinket](/blog/), amelyek arról szólnak, hogyan kezdődött minden, és hogyan jutottunk idáig.
+
+<button class="btn" id="customBtn" style="background-color: #FF7A50; color: white;" alt="Csatlakozzon a GYIK-unkhoz is" onclick="window.location.href='/faqhome'">Csatlakozzon a GYIK-unkhoz is</button>
 
 <br><br>
 

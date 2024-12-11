@@ -18,6 +18,7 @@ template: index
   <div class="md:flex items-end">
     <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Downloaden van de App Store"></a>
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Krijgen op Google Play"></a>
+    <a class="md:ml-4" href="https://zapstore.dev/download/"><img class="h-180px md:h-90px" src="/img/home/Get-it-on-zapstore.svg" alt="Get Bitcoin app on ZapStore store without ID verification"></a>
   </div>
 
 :::buttons
@@ -71,6 +72,8 @@ Peach, het bedrijf, is ontstaan uit mensen die geloven in het hardste geld dat o
 Ben jij er een van? Bekijk onze [Word Lid](/join-us/) sectie, misschien kunnen we samenwerken!
 
 Als je meer wilt weten over het bedrijf, bekijk dan onze [blogberichten](/blog/) waarin wordt gesproken over hoe alles begon, en hoe we hier zijn gekomen.
+
+<button class="btn" id="customBtn" style="background-color: #FF7A50; color: white;" alt="Word ook lid van onze FAQ" onclick="window.location.href='/faqhome'">Word ook lid van onze FAQ</button>
 
 <br><br>
 

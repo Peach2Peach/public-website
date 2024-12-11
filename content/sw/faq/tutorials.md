@@ -1,39 +1,59 @@
-# Mafunzo ya jinsi ya kununua na kuuza Bitcoin bila KYC
+# **Mafunzo ya PeachBitcoin**  
+### *Njia yako ya kufanikisha miamala ya Bitcoin salama na ya faragha*
 
-Karibu PeachBitcoin, soko lako la peer-to-peer (P2P) la kununua Bitcoin bila mahitaji ya KYC. Katika PeachBitcoin, tunaunga mkono zaidi ya njia 100 za malipo [Bofya Hapa Kuona Njia Zote za Malipo](https://peachbitcoin.com/Buy-&-Sell-Bitcoin-using-any-payment-method-2024), ikiwa ni pamoja na uhamisho wa benki, pesa taslimu, kadi zote za debiti/kadi za mkopo, pochi za mtandaoni kama PayPal, Skrill na Neteller, pamoja na kadi za zawadi kama Amazon.
+Karibu kwenye kituo cha mafunzo cha PeachBitcoin!  
+Hapa, utapata mwongozo wa hatua kwa hatua kukusaidia kutumia jukwaa letu, kujifunza mbinu za juu za Bitcoin, na kufurahia faida za kununua na kuuza Bitcoin **bila KYC**.
 
-Kama jukwaa la P2P, PeachBitcoin inahakikisha usalama wa wanunuzi na wauzaji kupitia mfumo wa escrow ambao hutoa Bitcoin tu baada ya pande zote mbili kutimiza majukumu yao ya muamala. Kwa njia hii, iwe unatumia PayPal au huduma nyingine yoyote ya malipo, fedha zako zinahamishwa moja kwa moja na kwa usalama.
+Kwa njia zaidi ya **100 za malipo** zinazosaidiwa — zikiwemo PayPal, uhamisho wa benki, kadi za mkopo, na kadi za zawadi — PeachBitcoin inaunganisha **urahisi, faragha, na usalama** kwa njia ya kipekee.
 
-Ili kukusaidia kuvinjari na kutumia PeachBitcoin kwa ufanisi, tumeunda mfululizo wa mafunzo. Mwongozo huu utakuelekeza kupitia michakato mbalimbali, kuhakikisha unaweza kuongeza uwezo wa jukwaa kwa urahisi.
+---
 
-## Jinsi ya Kuunganisha Node Yako Mwenyewe kwenye Programu ya Peach
+## Kwa nini utumie PeachBitcoin?
+- **Hakuna KYC Inayohitajika**: Linda faragha yako unapofanya miamala kwa usalama.  
+- **Chaguo za Malipo Duniani**: Chagua kutoka njia zaidi ya 100 za malipo.  
+- **Escrow Iliyoundwa Ndani**: Fanya biashara kwa kujiamini kupitia mfumo wetu salama wa escrow.  
+- **Zana za Kisasa**: Tumia vipengele kama CPFP, nodi za kibinafsi za Bitcoin, na kusaini ujumbe.
 
-Jifunze jinsi ya kuunganisha node yako mwenyewe ya Bitcoin kwa kutumia programu ya Peach. Mafunzo haya yatakuongoza kupitia hatua za kuhakikisha muunganisho salama na wa faragha. Kwa kuunganisha node yako mwenyewe, unaongeza faragha yako na kupata udhibiti mkubwa wa miamala yako ya Bitcoin. Video inashughulikia kila kitu, kutoka kupakua programu muhimu hadi kusanidi mipangilio yako kwenye programu ya Peach.
+---
 
-[![Jinsi ya Kuunganisha Node Yako Mwenyewe kwenye Programu ya Peach](https://img.youtube.com/vi/xtvq2i3mIYg/0.jpg)](https://www.youtube.com/watch?v=xtvq2i3mIYg)
+## Gundua Mafunzo Yetu
 
-## Jinsi ya Kusaini Ujumbe kwa Kutumia Pochi Yoyote
+Iwe wewe ni mwanzoni au mpenzi mzoefu wa Bitcoin, mafunzo haya yatakusaidia hatua kwa hatua kufanikisha matumizi ya PeachBitcoin.
 
-Gundua mchakato wa kusaini ujumbe kwa kutumia pochi nyingine yoyote. Video hii itakusaidia kuelewa umuhimu wa kusaini ujumbe na jinsi ya kuufanya kwa usahihi. Kusaini ujumbe kunaweza kuthibitisha umiliki wa anwani yako ya Bitcoin na kuhakikisha miamala yako. Fuata nasi tunapodhihirisha hatua kwa hatua, kuhakikisha unaweza kusaini ujumbe kwa ujasiri na kuboresha hatua zako za usalama.
+**[Unganisha Node Yako ya Bitcoin na Programu ya Peach](../btcnode-to-peachapp)**  
+   *Boresha faragha yako na chukua udhibiti kamili wa miamala yako ya Bitcoin.*  
+   [▶ Tazama Mafunzo ya Video](https://www.youtube.com/watch?v=xtvq2i3mIYg)
 
-[![Jinsi ya Kusaini Ujumbe kwa Kutumia Pochi Yoyote](https://img.youtube.com/vi/xgewSfhLgtY/0.jpg)](https://www.youtube.com/watch?v=xgewSfhLgtY)
+**[Saini Ujumbe kwa Kutumia Pochi Yoyote](../sign-message)**  
+   *Thibitisha umiliki na linda miamala yako kwa ujasiri.*  
+   [▶ Tazama Mafunzo ya Video](https://www.youtube.com/watch?v=xgewSfhLgtY)
 
-## Jinsi ya Kuharakisha Miamala ya Bitcoin kwa Kutumia CPFP
+**[Harakisha Miamala ya Bitcoin kwa Kutumia CPFP](../accelerate-using-cpfp)**  
+   *Hakikisha uthibitishaji wa haraka zaidi kwa kutumia mbinu za juu za miamala.*  
+   [▶ Tazama Mafunzo ya Video](https://www.youtube.com/watch?v=24OtQkL0CxU)
 
-Harakisha miamala yako ya Bitcoin kwa kutumia mbinu ya Child Pays for Parent (CPFP) na Peach. Mafunzo haya yanaeleza jinsi ya kutumia CPFP kuhakikisha miamala yako inathibitishwa haraka. Jifunze kuhusu kanuni za msingi za CPFP na fuata maagizo yetu ya kina kutekeleza mbinu hii, kupunguza muda wa kusubiri na kuboresha uzoefu wako wa jumla wa miamala kwenye jukwaa la PeachBitcoin.
+**[Nunua Bitcoin Moja kwa Moja kwa Pochi ya Nje](../peachbitcoin-wallet)**  
+   *Linda fedha zako kwa kuhamisha Bitcoin kwenda kwenye pochi yako ya kibinafsi.*  
+   [▶ Tazama Mafunzo ya Video](https://www.youtube.com/watch?v=d3STuVfFWfQ)
 
-[![Jinsi ya Kuharakisha Miamala ya Bitcoin kwa Kutumia CPFP na Peach](https://img.youtube.com/vi/24OtQkL0CxU/0.jpg)](https://www.youtube.com/watch?v=24OtQkL0CxU)
+**[Mafunzo kwa Kihispania: Jinsi ya Kutumia PeachBitcoin](../peachbitcoin-in-spanish)**  
+   *Jifunze jinsi ya kutumia PeachBitcoin kwa Kihispania kwa urahisi zaidi.*  
+   [▶ Tazama Mafunzo ya Video](https://www.youtube.com/watch?v=sVwSzTVIe6s)
 
-## Jinsi ya Kununua Bitcoin Moja kwa Moja kwa Pochi ya Nje - Kusaini na Blue Wallet
+---
 
-Elewa jinsi ya kununua Bitcoin na kuhamisha moja kwa moja kwa pochi ya nje. Mwongozo huu unatumia Blue Wallet kama mfano wa kuonyesha mchakato wa kusaini miamala kwa usalama. Kuhamisha Bitcoin kwa pochi ya nje kunahakikisha kwamba unaendelea kudhibiti mali zako. Fuata mafunzo yetu ya kina kujifunza hatua zinazohusika, kutoka kuchagua pochi ya nje hadi kukamilisha muamala kwa usalama.
+## **Anza Leo**  
 
-[![Jinsi ya Kununua Bitcoin Moja kwa Moja kwa Pochi ya Nje. Kusaini na Blue Wallet](https://img.youtube.com/vi/d3STuVfFWfQ/0.jpg)](https://www.youtube.com/watch?v=d3STuVfFWfQ)
+Kwa PeachBitcoin, faragha inakutana na usalama. Tumia mafunzo yetu ili:  
+- **Chukua udhibiti wa miamala yako ya Bitcoin** kwa kutumia nodi na pochi za kibinafsi.  
+- **Boresha uzoefu wako wa miamala** kwa kutumia zana za kisasa kama CPFP.  
+- **Jifunze na ukuaji** katika jamii iliyojengwa kwa uhuru na urahisi.
 
-## Mafunzo ya PeachBitcoin kwa Kihispania
+**Unahitaji msaada zaidi?** Tembelea [Maswali Yanayoulizwa Mara kwa Mara](https://peachbitcoin.com/faqhome) au wasiliana na timu yetu ya usaidizi.
 
-Kwa watumiaji wetu wanaozungumza Kihispania, tunatoa mafunzo kwa Kihispania ambayo yanaelezea jinsi ya kutumia PeachBitcoin kwa ufanisi na usalama. Video hii inashughulikia vipengele vyote muhimu, kutoka usanidi wa awali hadi kutekeleza miamala salama. Fuata maagizo yetu ya kina ili kupata manufaa zaidi kutoka kwa jukwaa la PeachBitcoin na kuhakikisha uzoefu mzuri.
+---
 
-Gundua mafunzo haya ili kupata manufaa zaidi kutoka kwa PeachBitcoin na anza safari yako ya Bitcoin kwa ujasiri leo!
+## **Kuhusu PeachBitcoin**  
 
-[![Mafunzo ya Peach kwa Kihispania](https://img.youtube.com/vi/sVwSzTVIe6s/0.jpg)](https://www.youtube.com/watch?v=sVwSzTVIe6s)
+PeachBitcoin ni **soko la wenzao kwa wenzao** lililoundwa kuwezesha watumiaji wa Bitcoin kote duniani. Kwa kutoa huduma za faragha, salama, na rahisi kutumia, tunahakikisha uzoefu wa biashara ulio salama.  
+**Funguo zako, sheria zako.**

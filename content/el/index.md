@@ -18,6 +18,7 @@ template: index
   <div class="md:flex items-end">
     <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Bitcoin app on the App Store without KYC verification"></a>
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Bitcoin app on Google Play store without ID verification"></a>
+    <a class="md:ml-4" href="https://zapstore.dev/download/"><img class="h-180px md:h-90px" src="/img/home/Get-it-on-zapstore.svg" alt="Get Bitcoin app on ZapStore store without ID verification"></a>
   </div>
 
 :::buttons
@@ -67,6 +68,8 @@ template: index
 Είστε ένας από αυτούς; Ελέγξτε την ενότητα [Join Us](/el/join-us/), ίσως μπορούμε να συνεργαστούμε!
 
 Αν θέλετε να μάθετε περισσότερα για την εταιρεία, ανατρέξτε στις [αναρτήσεις στο ιστολόγιό μας](/el/blog/) που μιλούν για το πώς ξεκίνησαν όλα και πώς φτάσαμε εδώ.
+
+<button class="btn" id="customBtn" style="background-color: #FF7A50; color: white;" alt="Ενταχθείτε επίσης στην FAQ μας" onclick="window.location.href='/faqhome'">Ενταχθείτε επίσης στην FAQ μας</button>
 
 Το Peach είναι μέλος του SRO (Οργανισμός Αυτορύθμισης) του Polyreg. Το Peach είναι ένας ελβετικός αδειοδοτημένος πάροχος χρηματοοικονομικών υπηρεσιών που συμμορφώνεται πλήρως με τον Νόμο κατά της Λαθραίας Μετακίνησης Χρημάτων της Ελβετίας.
 
