@@ -54,7 +54,7 @@ globalRedirects.forEach(([path, redirect]) => {
     <title>Redirecting to ${redirect}</title>
     <link rel="canonical" href="${redirect}">
     <meta name="description" content="You are being redirected to ${redirect}. Click the link if you are not automatically redirected.">
-    <meta name="author" content="YourSiteName">
+    <meta name="author" content="PeachBitcoin - The Best Exchanger to Buy Bitcoin No kyc - Top kyc free exchanger">
     <script>
       // Redirect immediately
       window.location.replace("${redirect}");
