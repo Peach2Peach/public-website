@@ -25,7 +25,6 @@ languageDirs.forEach(lang => {
   globalRedirects = [...globalRedirects, ...localizedRedirects]
 })
 
-
 const dist = resolve(__dirname, '..', 'dist')
 
 const exists = filePath => {
@@ -45,6 +44,27 @@ globalRedirects.forEach(([path, redirect]) => {
   mkdirSync(dirname(target), { recursive: true })
   writeFileSync(
     target,
-    `<!DOCTYPE html><html><title>Redirect</title><link rel="canonical" href="${redirect}"><script>location="${redirect}"</script><meta http-equiv="refresh" content="0;url=${redirect}"><meta name="robots" content="noindex"><a href="${redirect}">Click here if you are not redirected.</a></html>`,
+    `<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Redirecting to ${redirect}</title>
+    <link rel="canonical" href="${redirect}">
+    <meta name="description" content="You are being redirected to ${redirect}. Click the link if you are not automatically redirected.">
+    <meta name="author" content="YourSiteName">
+    <script>
+      // Redirect immediately
+      window.location.replace("${redirect}");
+    </script>
+  </head>
+  <body>
+    <h1>Page Moved</h1>
+    <p>This page has moved to <a href="${redirect}">${redirect}</a>.</p>
+    <p>If you are not redirected automatically, please <a href="${redirect}">click here</a>.</p>
+  </body>
+</html>`
   )
 })
