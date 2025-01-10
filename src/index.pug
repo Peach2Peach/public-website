@@ -11,7 +11,7 @@ block teaser
           h1.new-teaser-title.peach-text !{i18n('home.teaser.title', lang)}
           p.new-teaser-subtitle 
             | !{i18n('home.teaser.subtitle.part1', lang)}
-            img(src="/img/home/bitcoin-logo-text.png" alt="Bitcoin logo") 
+            img(src="/img/home/bitcoin-logo-text.png" alt="Bitcoin logo")
             | !{i18n('home.teaser.subtitle.part2', lang)}
           div.new-teaser-store-buttons
             a(href="https://testflight.apple.com/join/wfSPFEWG" target="_blank")
@@ -83,7 +83,7 @@ block main
 
   section.wrap.download-peach-content
     div.download-peach-image-container
-      img.download-peach-image(src="/img/home/Phones.png" alt="Phones Image")
+      img.download-peach-image(src="/img/home/Phones.png" alt="Phones Image" loading="lazy")
     div.download-peach-text-container
       span.download-peach-text-title.peach-text !{i18n('home.downloadPeach.title', lang)}
       span.download-peach-text-subtitle !{i18n('home.downloadPeach.subtitle1', lang)}
@@ -92,30 +92,30 @@ block main
       div.download-peach-button-group
         div.download-peach-button-group-inner
           a(href="https://testflight.apple.com/join/wfSPFEWG" target="_blank")
-            img(src="/img/home/apple-button.png" alt="Apple Store Button")
+            img(src="/img/home/apple-button.png" alt="Apple Store Button" loading="lazy")
           a(href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet" target="_blank")
-            img(src="/img/home/google-play-button.png" alt="Google Play Store Button")
+            img(src="/img/home/google-play-button.png" alt="Google Play Store Button" loading="lazy")
           a(href="https://zapstore.dev/download/" target="_blank")
-            img(src="/img/home/zap-button.png" alt="Zap Store Button")
+            img(src="/img/home/zap-button.png" alt="Zap Store Button" loading="lazy")
         a.primary-button(href=getUrl(`/apk/`, lang))
-          img(src="/img/home/android.svg" alt="Android Icon")
+          img(src="/img/home/android.svg" alt="Android Icon" loading="lazy")
           span.primary-button-text !{i18n('home.downloadPeach.downloadAPK', lang)}
 
   section.wrap.features-container
     div.features-card
-      img(src="/img/home/code_icon.png" alt="Code Icon")
+      img(src="/img/home/code_icon.png" alt="Code Icon" loading="lazy")
       div.features-card-texts
         span.features-card-title !{i18n('home.features.verifiableSourceCode', lang)}
         a.features-card-text(href="https://github.com/Peach2Peach" target="_blank")
           span(style="color: #F56522;") !{i18n('home.features.seeGithub', lang)}
-          img(src="/img/home/link_icon.svg" alt="Link Icon")
+          img(src="/img/home/link_icon.svg" alt="Link Icon" loading="lazy")
     div.features-card
-      img(src="/img/home/code_icon.png" alt="Code Icon")
+      img(src="/img/home/code_icon.png" alt="Code Icon" loading="lazy")
       div.features-card-texts
         span.features-card-title !{i18n('home.features.secureSolution', lang)}
         p.features-card-text !{i18n('home.features.multisignatureEscrow', lang)}
     div.features-card
-        img(src="/img/home/code_icon.png" alt="Code Icon")
+        img(src="/img/home/code_icon.png" alt="Code Icon" loading="lazy")
         div.features-card-texts
           span.features-card-title !{i18n('home.features.registeredCompany', lang)}
           p.features-card-text !{i18n('home.features.licensedProvider', lang)}
@@ -126,14 +126,15 @@ block main
       p.top-section-container-header-subtitle !{i18n('home.topSection.subtitle', lang)}
     div.cta
       a.primary-button(href=getUrl(`/apk/`, lang))
-        img(src="/img/home/android.svg" alt="Android Icon")
+        img(src="/img/home/android.svg" alt="Android Icon" loading="lazy")
         span.primary-button-text !{i18n('home.topSection.downloadAPK', lang)}
       a.order-book-button(href="/kycfree-orderbook")
-        img(src="/img/home/show_chart.svg" alt="Show Chart Button")
+        img(src="/img/home/show_chart.svg" alt="Show Chart Button" loading="lazy")
         span.order-book-button-text !{i18n('home.topSection.viewOrderBook', lang)}
     div.top-section-video-container
-        div.top-section-video-container-icon
-        div.top-section-video-container-icon-inner
+      video(controls loading="lazy")
+        source(src="/img/home/peach-video.mp4" type="video/mp4")
+        | Your browser does not support the video tag.
 
   section.contact-container
     div.wrap
@@ -147,11 +148,11 @@ block main
 
   section.wrap.section-three-container-wrap
     div.section-three-container
-      div.section-three-images-container
-        img.section-three-image-main(src="/img/home/peach-transaction.png" alt="Main Image" width="273.58" height="230")
-        img.section-three-image-money(src="/img/home/money.png" alt="Rotated Image 1")
-        img.section-three-image-money-bag(src="/img/home/money-bag.png" alt="Rotated Image 2")
       div.section-three-card
+        div.section-three-images-container
+          img.section-three-image-main(src="/img/home/peach-transaction.png" alt="Main Image" loading="lazy")
+          img.section-three-image-money(src="/img/home/money.png" alt="Rotated Image 1" loading="lazy")
+          img.section-three-image-money-bag(src="/img/home/money-bag.png" alt="Rotated Image 2" loading="lazy")
         div.section-three-text-container
           h1.section-three-title !{i18n('home.sectionThree.title', lang)}
           p.section-three-description 
@@ -170,9 +171,9 @@ block main
         h3.carousel-title.peach-text !{i18n('home.carousel.title', lang)}
         .carousel-buttons 
           button.carousel-button#carouselButtonLeft 
-            img(src="/img/home/arrow_back.svg" alt="Arrow Back Icon")
+            img(src="/img/home/arrow_back.svg" alt="Arrow Back Icon" loading="lazy")
           button.carousel-button#carouselButtonRight
-            img(src="/img/home/arrow_forward.svg" alt="Arrow Forward Icon")
+            img(src="/img/home/arrow_forward.svg" alt="Arrow Forward Icon" loading="lazy")
       div.carousel-right 
         div.carousel-card 
           div.carousel-card-number 1
@@ -180,7 +181,7 @@ block main
             span.carousel-card-title !{i18n('home.carousel.step1.title', lang)}
             p.carousel-card-text !{i18n('home.carousel.step1.text', lang)}
           a.carousel-card-button(href=getUrl(`/apk/`, lang))
-            img(src="/img/home/file_download.svg" alt="File Download Icon")
+            img(src="/img/home/file_download.svg" alt="File Download Icon" loading="lazy")
             span !{i18n('home.carousel.step1.button', lang)}
         div.carousel-card 
           div.carousel-card-number 2
@@ -215,24 +216,24 @@ block main
     h3.connect-section-title.peach-text !{i18n('home.connect.title', lang)}
     div.connect-section-content 
       .connect-section-card 
-        img(src="/img/home/X+Nostr.svg" alt="X + Nostr logo")
+        img(src="/img/home/X+Nostr.svg" alt="X + Nostr logo" loading="lazy")
         span.connect-section-card-title !{i18n('home.connect.mainChannels', lang)}
         span.connect-section-card-text !{i18n('home.connect.mainChannelsText', lang)}
       .connect-section-card 
-        img(src="/img/home/Telegram+Discord.svg" alt="telegram discord logo")
+        img(src="/img/home/Telegram+Discord.svg" alt="telegram discord logo" loading="lazy")
         span.connect-section-card-title !{i18n('home.connect.joinCommunities', lang)}
         span.connect-section-card-text !{i18n('home.connect.joinCommunitiesText', lang)}
       .connect-section-card 
-        img(src="/img/home/Instagram.svg" alt="instagram logo")
+        img(src="/img/home/Instagram.svg" alt="instagram logo" loading="lazy")
         span.connect-section-card-title !{i18n('home.connect.followInstagram', lang)}
         span.connect-section-card-text !{i18n('home.connect.followInstagramText', lang)}
       .connect-section-card 
-        img(src="/img/home/Youtube.svg" alt="youtube logo")
+        img(src="/img/home/Youtube.svg" alt="youtube logo" loading="lazy")
         span.connect-section-card-title !{i18n('home.connect.followYoutube', lang)}
         span.connect-section-card-text !{i18n('home.connect.followYoutubeText', lang)}
 
   section.wrap.newsletter-section-container
-    img.airplane(src="/img/home/Airplane.png" alt="airplane image")
+    img.airplane(src="/img/home/Airplane.png" alt="airplane image" loading="lazy")
     div.newsletter-section-content
       div.newsletter
         h3.newsletter-section-title.peach-text !{i18n('home.newsletter.title', lang)}
@@ -254,10 +255,10 @@ block main
       div.wrap.testimonial-section-content
         h3.testimonial-section-title.peach-text !{i18n('home.testimonial.title', lang)}
         div.testimonial-rating
-          img(src="/img/home/apollo-logo.png" alt="Apollo Logo")
+          img(src="/img/home/apollo-logo.png" alt="Apollo Logo" loading="lazy")
           span !{i18n('home.testimonial.rating', lang)}
         div.testimonial-reviews
-          img(src="/img/home/Reviews.png" alt="Reviews Image")
+          img(src="/img/home/Reviews.png" alt="Reviews Image" loading="lazy")
         span.testimonial-texts(style="font-weight: 700;") !{i18n('home.testimonial.reviewTitle', lang)}
         p.testimonial-texts !{i18n('home.testimonial.reviewText', lang)}
     div.wrap.testimonial-cta-section
@@ -270,18 +271,18 @@ block main
 
         a.testimonial-button(href="https://heyapollo.com/product/peach" target="_blank")
           span.testimonial-button-text !{i18n('home.testimonial.reviewButton', lang)}
-          img(src="/img/home/apollo-logo.png" alt="Apollo Logo")
+          img(src="/img/home/apollo-logo.png" alt="Apollo Logo" loading="lazy")
 
   section.get-peach-section 
     div.wrap.get-peach-section-content 
       span.get-peach-section-title.peach-text !{i18n('home.getPeach.title', lang)}
       div.get-peach-section-button-groups
         a(href="https://testflight.apple.com/join/wfSPFEWG" target="_blank")
-          img(src="/img/home/apple-button.png" alt="Apple Store Button")
+          img(src="/img/home/apple-button.png" alt="Apple Store Button" loading="lazy")
         a(href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet" target="_blank")
-          img(src="/img/home/google-play-button.png" alt="Google Play Store Button")
+          img(src="/img/home/google-play-button.png" alt="Google Play Store Button" loading="lazy")
         a(href="https://zapstore.dev/download/" target="_blank")
-          img(src="/img/home/zap-button.png" alt="Zap Store Button")
+          img(src="/img/home/zap-button.png" alt="Zap Store Button" loading="lazy")
       a.primary-button(href=getUrl(`/apk/`, lang))
-        img(src="/img/home/android.svg" alt="Android Icon")
+        img(src="/img/home/android.svg" alt="Android Icon" loading="lazy")
         span.primary-button-text !{i18n('home.getPeach.downloadAPK', lang)}
