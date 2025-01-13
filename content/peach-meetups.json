@@ -640,5 +640,23 @@
     "url": "https://t.me/bitcoin42meetup",
     "longitude":  4.3872,
     "latitude": 45.4397
+  },
+  {
+    "name": "Einundzwanzig Alsfeld",
+    "url": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld?l=de",
+    "longitude": 9.2717,
+    "latitude": 50.7504
+  },
+  {
+    "name": "Metz Bitcoin",
+    "url": "https://x.com/btc_metz",
+    "longitude": 6.1757,
+    "latitude": 49.1193
+  },
+  {
+    "name": "Bitcoin Nottingham",
+    "url": "https://www.bitcoinnottingham.org/",
+    "longitude": -1.1581,
+    "latitude": 52.9548
   }
 ]
