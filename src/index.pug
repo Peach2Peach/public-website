@@ -272,10 +272,10 @@ block main
       div.wrap.testimonial-section-content
         h3.testimonial-section-title.peach-text !{i18n('home.testimonial.title', lang)}
         div.testimonial-rating
-          img(src="/img/home/apollo-logo.png" alt="Apollo Logo" loading="lazy")
+          img(src=assetPath('/img/home/apollo-logo.png') alt="Apollo Logo" loading="lazy")
           span !{i18n('home.testimonial.rating', lang)}
         div.testimonial-reviews
-          img(src="/img/home/Reviews.png" alt="Reviews Image" loading="lazy")
+          img(src=assetPath('/img/home/Reviews.png') alt="Reviews Image" loading="lazy")
         span.testimonial-texts(style="font-weight: 700;") !{i18n('home.testimonial.reviewTitle', lang)}
         p.testimonial-texts !{i18n('home.testimonial.reviewText', lang)}
     div.wrap.testimonial-cta-section
@@ -286,18 +286,18 @@ block main
 
         a.testimonial-button(href="https://heyapollo.com/product/peach" target="_blank")
           span.testimonial-button-text !{i18n('home.testimonial.reviewButtonText', lang)}
-          img(src="/img/home/apollo-logo.png" alt="Apollo Logo" loading="lazy")
+          img(src=assetPath('/img/home/apollo-logo.png') alt="Apollo Logo" loading="lazy")
 
   section.get-peach-section 
     div.wrap.get-peach-section-content 
       span.get-peach-section-title.peach-text !{i18n('home.getPeach.title', lang)}
       div.get-peach-section-button-groups
         a(href="https://testflight.apple.com/join/wfSPFEWG" target="_blank")
-          img(src="/img/home/apple-button.png" alt="Apple Store Button" loading="lazy")
+          img(src=assetPath('/img/home/apple-button.png') alt="Apple Store Button" loading="lazy")
         a(href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet" target="_blank")
-          img(src="/img/home/google-play-button.png" alt="Google Play Store Button" loading="lazy")
+          img(src=assetPath('/img/home/google-play-button.png') alt="Google Play Store Button" loading="lazy")
         a(href="https://zapstore.dev/download/" target="_blank")
-          img(src="/img/home/zap-button.png" alt="Zap Store Button" loading="lazy")
+          img(src=assetPath('/img/home/zap-button.png') alt="Zap Store Button" loading="lazy")
       a.primary-button(href=getUrl(`/apk/`, lang))
         img(src="/img/home/android.svg" alt="Android Icon" loading="lazy")
         span.primary-button-text !{i18n('home.getPeach.downloadAPK', lang)}
