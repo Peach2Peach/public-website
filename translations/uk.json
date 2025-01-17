@@ -126,5 +126,7 @@
   "home.testimonial.ctaText.part2": "Залиште відгук в Apollo, використовуючи це посилання, і ви отримаєте винагороду 500 sats!",
   "home.testimonial.reviewButtonText": "Оцінити нас на",
   "home.getPeach.title": "Завантажте додаток Peach зараз",
-  "home.getPeach.downloadAPK": "Завантажити APK"
+  "home.getPeach.downloadAPK": "Завантажити APK",
+  "sroMember": "Peach є членом SRO (саморегулююча організація) Polyreg",
+  "licensedProvider": "Peach є ліцензованим постачальником фінансових послуг у Швейцарії та повністю відповідає Закону Швейцарії про боротьбу з відмиванням грошей."
 }

@@ -15,11 +15,11 @@ block teaser
             | !{i18n('home.teaser.subtitle.part2', lang)}
           div.new-teaser-store-buttons
             a(href="https://testflight.apple.com/join/wfSPFEWG" target="_blank")
-              img(src="/img/home/apple-button.png" alt="Apple Store Button")
+              img(src="/img/home/apple-button.svg" alt="Apple Store Button")
             a(href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet" target="_blank")
-              img(src="/img/home/google-play-button.png" alt="Google Play Store Button")
+              img(src="/img/home/google-play-button.svg" alt="Google Play Store Button")
             a(href="https://zapstore.dev/download/" target="_blank")
-              img(src="/img/home/zap-button.png" alt="Zap Store Button")
+              img(src="/img/home/zap-button.svg" alt="Zap Store Button")
 
         div.new-teaser-box.desktop
           div.new-teaser-filters
@@ -39,7 +39,7 @@ block teaser
 
           div.new-teaser-order-book
             div.new-teaser-box-title
-              img(src="/img/home/bitcoin_icon.png" alt="Bitcoin Icon")
+              img(src="/img/home/bitcoin_icon.svg" alt="Bitcoin Icon")
               span !{i18n('home.teaser.orderBookTitle', lang)}
             span.new-teaser-price 0
 
@@ -48,7 +48,8 @@ block teaser
             span.order-book-button-text !{i18n('home.teaser.viewOrderBook', lang)}
 
     div.new-teaser-image-container
-      img.new-teaser-image(src="/img/home/HeroImge.png" alt="Hero Image")
+      img.bitcoin-image(src="/img/home/Bitcoin-3d.png" alt="Bitcoin 3d Image")
+      img.iphone-image(src="/img/home/iPhone_mockup.png" alt="Hero Image")
 
     div.new-teaser-box.mobile
       div.new-teaser-filters
@@ -68,7 +69,7 @@ block teaser
 
       div.new-teaser-order-book
         div.new-teaser-box-title
-          img(src="/img/home/bitcoin_icon.png" alt="Bitcoin Icon")
+          img(src="/img/home/bitcoin_icon.svg" alt="Bitcoin Icon")
           span !{i18n('home.teaser.orderBookTitle', lang)}
         span.new-teaser-price 0
 
@@ -118,33 +119,34 @@ block main
       div.download-peach-button-group
         div.download-peach-button-group-inner
           a(href="https://testflight.apple.com/join/wfSPFEWG" target="_blank")
-            img(src="/img/home/apple-button.png" alt="Apple Store Button" loading="lazy")
+            img(src="/img/home/apple-button.svg" alt="Apple Store Button" loading="lazy")
           a(href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet" target="_blank")
-            img(src="/img/home/google-play-button.png" alt="Google Play Store Button" loading="lazy")
+            img(src="/img/home/google-play-button.svg" alt="Google Play Store Button" loading="lazy")
           a(href="https://zapstore.dev/download/" target="_blank")
-            img(src="/img/home/zap-button.png" alt="Zap Store Button" loading="lazy")
+            img(src="/img/home/zap-button.svg" alt="Zap Store Button" loading="lazy")
         a.primary-button(href=getUrl(`/apk/`, lang))
           img(src="/img/home/android.svg" alt="Android Icon" loading="lazy")
           span.primary-button-text !{i18n('home.downloadPeach.downloadAPK', lang)}
 
   section.wrap.features-container
     div.features-card
-      img(src="/img/home/code_icon.png" alt="Code Icon" loading="lazy")
+      img.features-img(src="/img/home/code_icon.svg" alt="Code Icon" loading="lazy")
       div.features-card-texts
         span.features-card-title !{i18n('home.features.verifiableSourceCode', lang)}
         a.features-card-text(href="https://github.com/Peach2Peach" target="_blank")
           span(style="color: #F56522;") !{i18n('home.features.seeGithub', lang)}
           img(src="/img/home/link_icon.svg" alt="Link Icon" loading="lazy")
     div.features-card
-      img(src="/img/home/code_icon.png" alt="Code Icon" loading="lazy")
+      img.features-img(src="/img/home/secure_icon.svg" alt="Secure Icon" loading="lazy")
       div.features-card-texts
         span.features-card-title !{i18n('home.features.secureSolution', lang)}
         p.features-card-text !{i18n('home.features.multisignatureEscrow', lang)}
     div.features-card
-        img(src="/img/home/code_icon.png" alt="Code Icon" loading="lazy")
+        img.features-img(src="/img/home/certificated_icon.svg" alt="Certificated Icon" loading="lazy")
         div.features-card-texts
           span.features-card-title !{i18n('home.features.registeredCompany', lang)}
-          p.features-card-text !{i18n('home.features.licensedProvider', lang)}
+            img(src="/img/flags/switzerland-icon.svg")
+          p.features-card-text !{i18n('home.features.licensedProvider', lang)} 
 
   section.wrap.top-section-container
     div.top-section-container-header
@@ -154,16 +156,6 @@ block main
       video(controls loading="lazy")
         source(src="/img/home/peach-video.mp4" type="video/mp4")
         | Your browser does not support the video tag.
-
-  section.contact-container
-    div.wrap
-      h3.contact-container-title.peach-text !{i18n('home.contact.title', lang)}
-      p.contact-container-subtitle !{i18n('home.contact.subtitle', lang)}
-      div.contact-container-buttons 
-        a.contact-container-button-outline(href=getUrl(`/apk/`, lang))
-          span !{i18n('home.contact.checkFAQ', lang)}
-        a.primary-button(href=getUrl(`/support/`, lang))
-          span.primary-button-text !{i18n('home.contact.contactSupport', lang)}
 
   section.wrap.section-three-container-wrap
     div.section-three-container
@@ -250,8 +242,8 @@ block main
         span.connect-section-card-text !{i18n('home.connect.followYoutubeText', lang)}
 
   section.wrap.newsletter-section-container
-    img.airplane(src="/img/home/Airplane.png" alt="airplane image" loading="lazy")
     div.newsletter-section-content
+      img.airplane(src="/img/home/Airplane.png" alt="airplane image" loading="lazy")
       div.newsletter
         h3.newsletter-section-title.peach-text !{i18n('home.newsletter.title', lang)}
         span.newsletter-section-text !{i18n('home.newsletter.text', lang)}
@@ -272,10 +264,10 @@ block main
       div.wrap.testimonial-section-content
         h3.testimonial-section-title.peach-text !{i18n('home.testimonial.title', lang)}
         div.testimonial-rating
-          img(src=assetPath('/img/home/apollo-logo.png') alt="Apollo Logo" loading="lazy")
+          img(src="/img/home/apollo-logo.svg" alt="Apollo Logo" loading="lazy")
           span !{i18n('home.testimonial.rating', lang)}
         div.testimonial-reviews
-          img(src=assetPath('/img/home/Reviews.png') alt="Reviews Image" loading="lazy")
+          img(src="/img/home/Reviews.svg" alt="Reviews Image" loading="lazy")
         span.testimonial-texts(style="font-weight: 700;") !{i18n('home.testimonial.reviewTitle', lang)}
         p.testimonial-texts !{i18n('home.testimonial.reviewText', lang)}
     div.wrap.testimonial-cta-section
@@ -284,20 +276,34 @@ block main
           span 500 sats?
           |  !{i18n('home.testimonial.ctaText.part2', lang)} 
 
-        a.testimonial-button(href="https://heyapollo.com/product/peach" target="_blank")
-          span.testimonial-button-text !{i18n('home.testimonial.reviewButtonText', lang)}
-          img(src=assetPath('/img/home/apollo-logo.png') alt="Apollo Logo" loading="lazy")
+        div.buttons-container
+          a.testimonial-button(href="https://heyapollo.com/product/peach" target="_blank")
+            span.testimonial-button-text !{i18n('home.testimonial.reviewButtonText', lang)}
+            img(src="/img/home/apollo-logo.svg" alt="Apollo Logo" loading="lazy")
+          a.testimonial-button(href="https://www.trustpilot.com/review/peachbitcoin.com" target="_blank")
+            span.testimonial-button-text !{i18n('home.testimonial.reviewButtonText', lang)}
+            img(src="/img/home/trust-pilot-logo.svg" alt="Trust pilot Logo" loading="lazy")
+
+  section.contact-container
+    div.wrap
+      h3.contact-container-title.peach-text !{i18n('home.contact.title', lang)}
+      p.contact-container-subtitle !{i18n('home.contact.subtitle', lang)}
+      div.contact-container-buttons 
+        a.contact-container-button-outline(href=getUrl(`/apk/`, lang))
+          span !{i18n('home.contact.checkFAQ', lang)}
+        a.primary-button(href=getUrl(`/support/`, lang))
+          span.primary-button-text !{i18n('home.contact.contactSupport', lang)}
 
   section.get-peach-section 
     div.wrap.get-peach-section-content 
       span.get-peach-section-title.peach-text !{i18n('home.getPeach.title', lang)}
       div.get-peach-section-button-groups
         a(href="https://testflight.apple.com/join/wfSPFEWG" target="_blank")
-          img(src=assetPath('/img/home/apple-button.png') alt="Apple Store Button" loading="lazy")
+          img(src="/img/home/apple-button.svg" alt="Apple Store Button" loading="lazy")
         a(href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet" target="_blank")
-          img(src=assetPath('/img/home/google-play-button.png') alt="Google Play Store Button" loading="lazy")
+          img(src="/img/home/google-play-button.svg" alt="Google Play Store Button" loading="lazy")
         a(href="https://zapstore.dev/download/" target="_blank")
-          img(src=assetPath('/img/home/zap-button.png') alt="Zap Store Button" loading="lazy")
+          img(src="/img/home/zap-button.svg" alt="Zap Store Button" loading="lazy")
       a.primary-button(href=getUrl(`/apk/`, lang))
         img(src="/img/home/android.svg" alt="Android Icon" loading="lazy")
         span.primary-button-text !{i18n('home.getPeach.downloadAPK', lang)}

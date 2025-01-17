@@ -57,9 +57,13 @@ function setActivePillow(activePillow) {
 
 function updatePrice() {
     const price = tradePeaks[filters.date][filters.currency].toLocaleString('fr-FR', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-    
     priceElements.forEach(element => {
-        element.innerHTML = price;
+        const currencySymbols = {
+            'EUR': '€',
+            'USD': '$',
+            'CHF': 'CHF'
+        };
+        element.innerHTML = `${currencySymbols[filters.currency] || ''} ${price}`;
     });
 }
 

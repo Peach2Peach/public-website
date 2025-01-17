@@ -126,5 +126,7 @@
   "home.testimonial.ctaText.part2": "Tuachie mapitio kwenye Apollo, ukifuata kiungo hiki, na utashinda zawadi ya 500 sats!",
   "home.testimonial.reviewButtonText": "Tuthamini kwenye",
   "home.getPeach.title": "Pakua Programu ya Peach Sasa",
-  "home.getPeach.downloadAPK": "Pakua APK"
+  "home.getPeach.downloadAPK": "Pakua APK",
+  "sroMember": "Peach ni mwanachama wa SRO (Shirika la Udhibiti wa Kibinafsi) la Polyreg",
+  "licensedProvider": "Peach ni mtoa huduma wa kifedha aliyeidhinishwa nchini Uswisi na anafuata kikamilifu Sheria ya Kupambana na Ufuaji Fedha ya Uswisi."
 }

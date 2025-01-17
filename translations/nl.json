@@ -126,5 +126,7 @@
   "home.testimonial.ctaText.part2": "Laat een beoordeling achter op Apollo via deze link en ontvang een beloning van 500 sats!",
   "home.testimonial.reviewButtonText": "Beoordeel ons op",
   "home.getPeach.title": "Download Nu de Peach-app",
-  "home.getPeach.downloadAPK": "Download APK"
+  "home.getPeach.downloadAPK": "Download APK",
+  "sroMember": "Peach is een SRO-lid (Zelfregulerende Organisatie) van Polyreg",
+  "licensedProvider": "Peach is een erkende financiële dienstverlener in Zwitserland en voldoet volledig aan de Zwitserse Anti-Witwaswet."
 }

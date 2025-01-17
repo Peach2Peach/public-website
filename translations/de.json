@@ -126,5 +126,7 @@
   "home.testimonial.ctaText.part2": "Hinterlassen Sie uns eine Bewertung auf Apollo, indem Sie diesem Link folgen, und Sie erhalten eine Belohnung von 500 Sats!",
   "home.testimonial.reviewButtonText": "Bewerten Sie uns auf",
   "home.getPeach.title": "Holen Sie sich jetzt die Peach-App",
-  "home.getPeach.downloadAPK": "APK herunterladen"
+  "home.getPeach.downloadAPK": "APK herunterladen",
+  "sroMember": "Peach ist ein SRO-Mitglied (Selbstregulierungsorganisation) von Polyreg",
+  "licensedProvider": "Peach ist ein lizenzierter Finanzdienstleister in der Schweiz und vollständig konform mit dem Schweizer Geldwäschereigesetz."
 }

@@ -79,7 +79,7 @@
   --section-padding-bottom: var(--space-xxl);
 
   @media (--up_to_M) {
-    --font-size-base: 16px;
+    --font-size-base: 10px;
     --font-size-l: 1.2rem;
     --font-size-xl: 1.4rem;
     --font-size-xxl: 1.6rem;
@@ -89,7 +89,7 @@
     --section-padding-top: var(--space-xl);
   }
   @media (--M_to_L) {
-    --font-size-base: 18px;
+    --font-size-base: 14px;
     --font-size-l: 1.25rem;
     --font-size-xl: 1.5rem;
     --font-size-xxl: 1.75rem;
@@ -99,7 +99,7 @@
     --section-padding-top: var(--space-xl);
   }
   @media (--L_and_up) {
-    --font-size-base: 20px;
+    --font-size-base: 16px;
     --font-size-l: 1.25rem;
     --font-size-xl: 1.5rem;
     --font-size-xxl: 1.75rem;

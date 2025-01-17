@@ -40,11 +40,6 @@
     --nav-font-size: 1rem;
   }
 
-  @media (--up_to_L) {
-    height: 60px;
-    padding: 0 10px;
-  }
-
   & .wrap {
     width: 100%;
     display: flex;

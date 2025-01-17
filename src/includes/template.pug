@@ -122,12 +122,13 @@ html(lang=lang)
       div.wrap
         div.logo-section
           div.logo
-            img.logo-image(src=assetPath("/img/peach-footer-logo.png") alt="Peach logo")
+            img.logo-image(src=assetPath("/img/peach-footer-logo.svg") alt="Peach logo")
             span Made in Switzerland 
+              img(src=assetPath("/img/flags/switzerland-icon.svg") style="width: 1rem; margin-left .5rem;")
           div.company-info 
             img.polyreg-image(src=assetPath("/img/polyreg.png") alt="Polyreg logo" width="120")
-            p Peach is an SRO member(Self Regulatory Organisation) of Polyreg. 
-            p Peach is a Swiss licensed financial service providerand is fully compliant with Switzerland’s Anti-Money Laundering Act.
+            p !{i18n('sroMember', lang)} 
+            p !{i18n('licensedProvider', lang)} 
         div.content
           div.footer-box
             h6 !{i18n('company', lang)}

@@ -126,5 +126,7 @@
   "home.testimonial.ctaText.part2": "Írj nekünk egy véleményt az Apollo-n, ezen a linken, és egy 500 sats jutalomban részesülsz!",
   "home.testimonial.reviewButtonText": "Értékelj minket itt",
   "home.getPeach.title": "Szerezd Meg a Peach Alkalmazást Most",
-  "home.getPeach.downloadAPK": "APK Letöltése"
+  "home.getPeach.downloadAPK": "APK Letöltése",
+  "sroMember": "A Peach a Polyreg SRO (Önszabályozó Szervezet) tagja",
+  "licensedProvider": "A Peach egy engedéllyel rendelkező pénzügyi szolgáltató Svájcban, és teljes mértékben megfelel a svájci pénzmosás elleni törvénynek."
 }

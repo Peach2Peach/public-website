@@ -121,10 +121,12 @@
   "home.testimonial.title": "What Do People Say About Peach?",
   "home.testimonial.rating": "Rated 4.5/5.0 based on 91 Reviews. Showing our top reviews.",
   "home.testimonial.reviewTitle": "Peach is fantastic!",
-  "home.testimonial.reviewText": "Peach is excellent, I have made two transactions and everything has been correct. It is secure and discreet, without KYC and has a seed phrase for wallet security.",
+  "home.testimonial.reviewText": "Peach is excellent, I have made two transactions and everything has been correct. It is secure and discreet, without KYC and has a seed phrase for wallet security.",
   "home.testimonial.ctaText.part1": "Do you want to earn",
   "home.testimonial.ctaText.part2": "Leave us a review in Apollo, following this link and you'll earn a 500 sats reward!",
   "home.testimonial.reviewButtonText": "Rate us on",
   "home.getPeach.title": "Get The Peach App Now",
-  "home.getPeach.downloadAPK": "Download APK"
+  "home.getPeach.downloadAPK": "Download APK",
+  "sroMember": "Peach is an SRO member (Self Regulatory Organisation) of Polyreg",
+  "licensedProvider": "Peach is a Swiss licensed financial service provider and is fully compliant with Switzerland’s Anti-Money Laundering Act."
 }

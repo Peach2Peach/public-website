@@ -126,5 +126,7 @@
   "home.testimonial.ctaText.part2": "Laissez-nous un avis sur Apollo via ce lien et gagnez une récompense de 500 sats !",
   "home.testimonial.reviewButtonText": "Évaluez-nous sur",
   "home.getPeach.title": "Obtenez l'Application Peach Maintenant",
-  "home.getPeach.downloadAPK": "Télécharger l'APK"
+  "home.getPeach.downloadAPK": "Télécharger l'APK",
+  "sroMember": "Peach est membre de la SRO (Organisation d'Autorégulation) de Polyreg",
+  "licensedProvider": "Peach est un prestataire de services financiers agréé en Suisse et est entièrement conforme à la Loi Suisse sur le Blanchiment d'Argent."
 }
