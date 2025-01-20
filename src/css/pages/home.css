@@ -116,7 +116,7 @@
       gap: var(--space-l);
       padding: var(--space-l);
       background: var(--color-white);
-      box-shadow: var(--box-shadow-light);
+      box-shadow: 0px 35.84672546386719px 21.63164520263672px rgba(43, 25, 17, 0.05);
       border-radius: 1.5rem;
 
       & .new-teaser-filters {
@@ -1120,7 +1120,12 @@
   
     & .newsletter-section-content {
       flex-direction: column !important;
-  
+
+      & .newsletter {
+        max-width: 100% !important;
+        text-align: center !important;
+      }
+      
       & .newsletter-form {
         max-width: 100% !important;
       }
@@ -1158,7 +1163,6 @@
 
   & .newsletter-section-content {
     padding: 0 !important;
-    text-align: center !important;
   }
 
   .testimonial-cta-card {
