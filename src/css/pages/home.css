@@ -3,7 +3,7 @@
     transform: translateY(0);
   }
   50% {
-    transform: translateY(-0.625rem);
+    transform: translateY(-0.5rem);
   }
   100% {
     transform: translateY(0);
@@ -32,10 +32,10 @@
   & .new-teaser {
     width: 100%;
     height: 100%;
-    padding-top: 6rem;
-    padding-bottom: 3rem;
-    border-top-left-radius: 2.426875rem;
-    border-top-right-radius: 2.426875rem;
+    padding-top: 4.8rem;
+    padding-bottom: 2.4rem;
+    border-top-left-radius: 1.9415rem;
+    border-top-right-radius: 1.9415rem;
     justify-content: center;
     align-items: center;
     display: flex;
@@ -53,7 +53,7 @@
         flex: 1 1 0;
         flex-direction: column;
         justify-content: center;
-        gap: 3.25rem;
+        gap: 2.6rem;
         display: inline-flex;
 
         & .new-teaser-item {
@@ -66,9 +66,9 @@
 
           & .new-teaser-title {
             align-self: stretch;
-            font-size: 5.996875rem;
+            font-size: 4.7975rem;
             font-weight: 700;
-            line-height: 5.396875rem;
+            line-height: 4.3175rem;
             word-wrap: break-word;
             margin: 0;
           }
@@ -78,10 +78,10 @@
             flex-wrap: wrap;
             align-self: stretch;
             color: var(--color-body-text);
-            font-size: 2.29375rem;
+            font-size: 1.835rem;
             font-weight: var(--font-weight-normal);
-            line-height: 2.29375rem;
-            margin: -1.25rem 0 0 0;
+            line-height: 1.835rem;
+            margin: -1rem 0 0 0;
             display: flex;
             gap: var(--space-xs);
             align-items: center;
@@ -117,7 +117,7 @@
       padding: var(--space-l);
       background: var(--color-white);
       box-shadow: 0px 35.84672546386719px 21.63164520263672px rgba(43, 25, 17, 0.05);
-      border-radius: 1.5rem;
+      border-radius: 1.2rem;
 
       & .new-teaser-filters {
         display: flex;
@@ -133,23 +133,23 @@
 
           & select {
             color: var(--color-body-text);
-            font-size: 1.25rem;
+            font-size: 1rem;
             font-weight: var(--font-weight-bold);
-            line-height: 1.25rem;
+            line-height: 1rem;
             font-family: var(--font-family-base);
             outline: none;
             cursor: pointer;
           }
 
           & img {
-            width: 2rem;
+            width: 1.6rem;
             border-radius: 0.25rem;
           }
         }
 
         & .new-teaser-filters-pillows {
           flex: 1 1 0;
-          height: 1.5rem;
+          height: 1.2rem;
           justify-content: flex-end;
           align-items: center;
           gap: var(--space-xxs);
@@ -157,7 +157,7 @@
 
           & .new-teaser-filters-pillow {
             padding: var(--space-xs) var(--space-m);
-            border-radius: 2rem;
+            border-radius: 1.6rem;
             overflow: hidden;
             justify-content: center;
             align-items: center;
@@ -170,10 +170,10 @@
             & .new-teaser-filters-pillow-text {
               text-align: center;
               color: var(--color-bg-light);
-              font-size: 0.8125rem;
+              font-size: 0.65rem;
               font-weight: var(--font-weight-semibold);
               text-transform: uppercase;
-              line-height: 0.8125rem;
+              line-height: 0.65rem;
             }
           }
 
@@ -188,28 +188,28 @@
         display: flex;
         align-items: center;
         gap: var(--space-xxs);
-        font-size: 1.25rem;
+        font-size: 1rem;
         font-weight: var(--font-weight-semibold);
-        line-height: 2.1875rem;
+        line-height: 1.75rem;
         letter-spacing: 0.01em;
         margin-bottom: var(--space-xs);
 
         & img {
-          width: 2rem;
+          width: 1.6rem;
           height: auto;
         }
       }
 
       & .new-teaser-price {
-        font-size: 3rem;
+        font-size: 2.4rem;
         font-weight: var(--font-weight-bold);
-        line-height: 3.50125rem;
+        line-height: 2.8rem;
       }
 
       & .order-book-button {
         width: 100%;
-        height: 3rem;
-        min-width: 7.875rem;
+        height: 2.4rem;
+        min-width: 6.3rem;
         padding: var(--space-m) var(--space-l);
         gap: var(--space-xs);
         border-radius: 6.25rem;
@@ -232,19 +232,19 @@
       }
 
       & .bitcoin-image {
-        width: 17rem;
+        width: 13.6rem;
         height: auto;
         position: relative;
-        right: -11.5rem;
-        top: 10rem;
+        right: -9.2rem;
+        top: 8rem;
         animation: float 3s ease-in-out infinite;
       }
     }
   }
 
   & .contact {
-    --icon-size: 3rem;
-    max-width: 20rem;
+    --icon-size: 2.4rem;
+    max-width: 16rem;
 
     @media (--up_to_M) {
       max-width: 16em;
@@ -262,7 +262,7 @@
   padding-top: var(--space-m);
   padding-bottom: var(--space-m);
   background: #65A519;
-  border-radius: 6.25rem;
+  border-radius: 5rem;
   justify-content: center;
   align-items: center;
   gap: var(--space-xs);
@@ -271,15 +271,15 @@
   & .order-book-button-text {
     text-align: center;
     color: var(--color-white);
-    font-size: 1rem;
+    font-size: 0.8rem;
     font-weight: var(--font-weight-semibold);
-    line-height: 1.5rem;
+    line-height: 1.2rem;
     letter-spacing: 0.15px;
     white-space: nowrap;
   }
 
   & img {
-    width: 1.5rem;
+    width: 1.2rem;
     height: auto;
   }
 }
@@ -290,28 +290,28 @@
   justify-content: center;
   gap: var(--space-xs);
   padding: var(--space-m) var(--space-l) !important;
-  border-radius: 6.25rem;
+  border-radius: 5rem;
   background: var(--bg-gradient-peachy);
 
   & .primary-button-text {
     text-align: center;
     color: var(--color-white) !important;
-    font-size: 1rem;
+    font-size: 0.8rem;
     font-weight: var(--font-weight-semibold);
-    line-height: 1.5rem;
+    line-height: 1.2rem;
     letter-spacing: 0.15px;
     word-wrap: break-word;
   }
 
   & img {
-    width: 1.5rem;
+    width: 1.2rem;
     height: auto;
   }
 }
 
 .top-section-container {
   padding-top: var(--space-l);
-  padding-bottom: 3rem;
+  padding-bottom: 2.4rem;
   display: flex;
   flex-direction: column;
   gap: var(--space-l);
@@ -329,9 +329,9 @@
     & .top-section-container-header-title {
       align-self: stretch;
       text-align: center;
-      font-size: 2.290625rem;
+      font-size: 1.8325rem;
       font-weight: var(--font-weight-bold);
-      line-height: 2.290625rem;
+      line-height: 1.8325rem;
       word-wrap: break-word;
       margin: 0 !important;
     }
@@ -340,9 +340,9 @@
       align-self: stretch;
       text-align: center;
       color: var(--color-body-text);
-      font-size: 1.4175rem;
+      font-size: 1.134rem;
       font-weight: var(--font-weight-normal);
-      line-height: 1.4175rem;
+      line-height: 1.134rem;
       word-wrap: break-word;
       margin: 0 !important;
     }
@@ -371,18 +371,18 @@
   gap: var(--space-xl);
   user-select: none;
   scrollbar-width: none; 
-  padding-top: 3rem !important;
-  padding-bottom: 3rem !important;
+  padding-top: 2.4rem !important;
+  padding-bottom: 2.4rem !important;
 
   & .features-card {
     flex: 1;
-    min-width: 18.75rem;
+    min-width: 15rem;
     display: flex;
     align-items: center;
     gap: var(--space-m);
 
     & .features-img {
-      width: 5.5rem;
+      width: 4.4rem;
       height: auto;
     }
 
@@ -395,10 +395,10 @@
       & .features-card-title {
         color: var(--color-body-text);
         font-weight: var(--font-weight-semibold);
-        line-height: 1.4175rem;
+        line-height: 1.134rem;
 
         & img {
-          width: 1rem;
+          width: 0.8rem;
           margin-left: .5rem;
         }
       }
@@ -408,11 +408,11 @@
         align-items: center;
         gap: var(--space-xxs);
         font-weight: var(--font-weight-normal);
-        line-height: 1.4175rem;
+        line-height: 1.134rem;
         margin: 0 !important;
 
         & img {
-          width: 1.5rem;
+          width: 1.2rem;
           height: auto;
         }
       }
@@ -421,24 +421,24 @@
 }
 
 .contact-container {
-  padding-top: 3rem !important;
-  padding-bottom: 3rem !important;
+  padding-top: 2.4rem !important;
+  padding-bottom: 2.4rem !important;
   background: var(--color-bg-main);
   text-align: center;
 
   & .contact-container-title {
-    font-size: 2.290625rem;
+    font-size: 1.8325rem;
     font-weight: 700;
-    line-height: 2.290625rem;
+    line-height: 1.8325rem;
     word-wrap: break-word;
-    margin-bottom: 2.25rem !important;
+    margin-bottom: 1.8rem !important;
   }
 
   & .contact-container-subtitle {
     color: var(--color-body-text);
-    font-size: 1.4175rem;
+    font-size: 1.134rem;
     font-weight: var(--font-weight-normal);
-    line-height: 1.4175rem;
+    line-height: 1.134rem;
     word-wrap: break-word;
     margin-bottom: var(--space-l) !important;
   }
@@ -456,14 +456,14 @@
       gap: var(--space-xs); 
       padding: var(--space-m) var(--space-l) !important; 
       background: var(--color-white); 
-      border-radius: 6.25rem; 
+      border-radius: 5rem; 
       border: 1px var(--color-primary-main) solid; 
 
       & span {
         color: var(--color-primary-main);
-        font-size: 1rem;
+        font-size: 0.8rem;
         font-weight: var(--font-weight-semibold);
-        line-height: 1.5rem;
+        line-height: 1.2rem;
         letter-spacing: 0.15px;
         word-wrap: break-word;
       }
@@ -476,13 +476,13 @@
       gap: var(--space-xs); 
       padding: var(--space-m) var(--space-l) !important; 
       background: var(--bg-gradient-peachy);
-      border-radius: 6.25rem; 
+      border-radius: 5rem; 
 
       & span {
         color: var(--color-white);
-        font-size: 1rem;
+        font-size: 0.8rem;
         font-weight: var(--font-weight-semibold);
-        line-height: 1.5rem;
+        line-height: 1.2rem;
         letter-spacing: 0.15px;
         word-wrap: break-word;
       }
@@ -491,14 +491,14 @@
 }
 
 .download-peach-content {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 2.4rem;
+  padding-bottom: 2.4rem;
   background: white;
-  border-radius: 2.25rem;
+  border-radius: 1.8rem;
   justify-content: center;
   align-items: center;
   display: flex;
-  gap: 1.5rem;
+  gap: 1.2rem;
 
   & .download-peach-image-container {
     width: 50%;
@@ -508,34 +508,34 @@
     & .download-peach-image {
       width: auto;
       height: 100%;
-      max-height: 41.8125rem;
+      max-height: 33.45rem;
     }
   }
 
   & .download-peach-text-container {
     width: 50%;
-    padding: 2.25rem;
+    padding: 1.8rem;
     background: var(--color-bg-main);
     box-shadow: 0px 0.8125rem 1.75rem rgba(255, 122, 80, 0.10);
-    border-radius: 1.5rem;
+    border-radius: 1.2rem;
     flex-direction: column;
-    gap: 2.25rem;
+    gap: 1.8rem;
     display: inline-flex;
 
     & .download-peach-text-title {
       align-self: stretch;
-      font-size: 3.70625rem;
+      font-size: 2.965rem;
       font-weight: 700;
-      line-height: 3.70625rem;
+      line-height: 2.965rem;
       word-wrap: break-word;
     }
 
     & .download-peach-text-subtitle {
       align-self: stretch;
       color: var(--color-body-text);
-      font-size: 1.4175rem;
+      font-size: 1.134rem;
       font-weight: var(--font-weight-normal);
-      line-height: 1.4175rem;
+      line-height: 1.134rem;
       word-wrap: break-word;
     }
   }
@@ -555,7 +555,7 @@
       display: inline-flex;
 
       & img {
-        width: 10.5625rem; 
+        width: 8.45rem; 
         height: auto; 
       }
     }
@@ -563,25 +563,25 @@
 }
 
 & .carousel {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 2.4rem;
+  padding-bottom: 2.4rem;
   background: var(--color-bg-main);
 
   & .carousel-container {
     display: flex;
-    gap: 6rem;
+    gap: 4.8rem;
 
     & .carousel-left {
       flex: 1;
       display: flex;
       flex-direction: column;
       justify-content: center;
-      gap: 6rem;
+      gap: 4.8rem;
 
       & .carousel-title {
-        font-size: 3.70625rem;
+        font-size: 2.965rem;
         font-weight: 700;
-        line-height: 3.70625rem;
+        line-height: 2.965rem;
         margin: 0;
       }
 
@@ -591,8 +591,8 @@
 
         & .carousel-button {
           padding: 0;
-          width: 4.0625rem;
-          height: 4.0625rem;
+          width: 3.25rem;
+          height: 3.25rem;
           display: flex;
           align-items: center;
           justify-content: center;
@@ -616,25 +616,25 @@
       & .carousel-card {
         display: flex;
         flex-direction: column;
-        gap: 2rem;
-        border-radius: 1.5rem;
-        padding: 3rem;
+        gap: 1.6rem;
+        border-radius: 1.2rem;
+        padding: 2.4rem;
         background: #65A519; 
         box-shadow: 0px 0.8125rem 1.75rem rgba(255, 122, 80, 0.10);
-        width: 29.0625rem;
-        min-width: 29.0625rem; 
+        width: 23.25rem;
+        min-width: 23.25rem; 
         scroll-snap-align: start;
 
         & .carousel-card-number {
-          width: 6rem;
-          height: 6rem;
+          width: 4.8rem;
+          height: 4.8rem;
           display: flex;
           align-items: center;  
           justify-content: center;
           border-radius: 9999px;
-          padding: 1.125rem;
+          padding: 0.9rem;
           background: var(--color-white);
-          font-size: 3.926875rem;
+          font-size: 3.1415rem;
           font-weight: 500;
           color: var(--color-primary-main);
         }
@@ -647,16 +647,16 @@
           & .carousel-card-title {
             align-self: stretch; 
             color: white; 
-            font-size: 2.29375rem; 
+            font-size: 1.835rem; 
             font-weight: 400; 
-            line-height: 2.29375rem; 
+            line-height: 1.835rem; 
             word-wrap: break-word;
           }
   
           & .carousel-card-text {
-            font-size: 1.418125rem;
+            font-size: 1.1345rem;
             font-weight: 400;
-            line-height: 1.418125rem;
+            line-height: 1.1345rem;
             color: white; 
           }
         }
@@ -665,18 +665,18 @@
           display: flex;
           align-items: center;
           width: fit-content;
-          padding: 1rem 1.5rem;
+          padding: 0.8rem 1.2rem;
           gap: .5rem;
-          border-radius: 2rem;
+          border-radius: 1.6rem;
           background: white;
           color: #FF7A50;
-          font-size: 1rem;
+          font-size: 0.8rem;
           font-weight: 600;
-          line-height: 1.5rem;
+          line-height: 1.2rem;
           text-align: center;
 
           & img {
-            width: 1.5rem;
+            width: 1.2rem;
             height: auto;
           }
         }
@@ -694,8 +694,8 @@
 }
 
 & .section-three-container-wrap {
-  padding-top: 13.375rem !important;
-  padding-bottom: 4.5rem !important;
+  padding-top: 10.7rem !important;
+  padding-bottom: 3.6rem !important;
   max-width: 90%;
 
   & .section-three-container {
@@ -704,32 +704,32 @@
     align-items: center;
   
     & .section-three-card {
-      padding: 3.25rem 5.625rem;
-      border-radius: 1.5rem;
+      padding: 2.6rem 4.5rem;
+      border-radius: 1.2rem;
       background: #F56522;
       display: inline-flex;
       flex-direction: column;
       justify-content: flex-start;
       align-items: center;
-      gap: 0.625rem;
+      gap: 0.5rem;
       position: relative;
-      max-width: 59.125rem;
+      max-width: 47.3rem;
 
       & .section-three-image-main {
-        width: 17.09875rem;
+        width: 13.679rem;
         height: auto;
         position: absolute;
         left: 50%;
-        top: -11.25rem;
+        top: -9rem;
         transform: translate(-50%, 0);
       }
     
       & .section-three-image-money {
-        width: 13rem;
+        width: 10rem;
         height: auto;
         position: absolute;
-        top: 4rem;
-        right: -5.3125rem;
+        top: 8rem;
+        right: -4.2rem;
         animation: float 3s ease-in-out infinite;
       }
     
@@ -870,7 +870,11 @@
           padding: 0.5rem 1rem;
           border-radius: 2.43rem;
           background: white;
-          width: fit-content !important;
+
+          @media screen and (min-width: 1099.99px) and (max-width: 1300px) {
+            flex-wrap: wrap;
+            justify-content: center;
+          }
   
           & .testimonial-button-text {
             font-size: 0.876875rem;
@@ -945,7 +949,7 @@
 
   & .airplane {
     position: absolute;
-    bottom: 12rem;
+    top: -3rem;
     left: 6.5rem;
     width: 47%;
     height: auto;
@@ -1105,7 +1109,7 @@
 
     & .buttons-container {
       flex-wrap: wrap;
-      justify-content: center;
+      justify-content: center !important;
     }
   }
 

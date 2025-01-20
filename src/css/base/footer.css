@@ -80,7 +80,7 @@
 
       & h6 {
         font-weight: 700;
-        margion: 0 !important;
+        margin: 0 !important;
       }
 
       & h6, a {
@@ -94,7 +94,7 @@
       grid-template-columns: repeat(2, 1fr);
     }
 
-    @media (--up_to_S) {
+    @media screen and (max-width: 528.99px) {
       grid-template-columns: repeat(1, 1fr);
     }
   }
