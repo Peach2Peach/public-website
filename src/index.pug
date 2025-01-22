@@ -148,6 +148,47 @@ block main
             img(src="/img/flags/switzerland-icon.svg")
           p.features-card-text !{i18n('home.features.licensedProvider', lang)} 
 
+  script.
+    const featuresContainer = document.querySelector('.features-container');
+    const cards = document.querySelectorAll('.features-card');
+    let index = 0;
+
+    function slide() {
+      index++;
+
+      if (index >= cards.length) {
+        cloneAndAppendCards();
+        scrollFeaturesContainer();
+        setTimeout(removeOldCards, 300);
+      } else {
+        scrollFeaturesContainer();
+      }
+    }
+
+    function cloneAndAppendCards() {
+      cards.forEach(card => {
+        const clone = card.cloneNode(true);
+        featuresContainer.appendChild(clone);
+      });
+    }
+
+    function scrollFeaturesContainer() {
+      featuresContainer.scrollBy({
+        left: 465,
+        behavior: 'smooth'
+      });
+    }
+
+    function removeOldCards() {
+      const oldCards = document.querySelectorAll('.features-card');
+      oldCards.forEach((card, i) => {
+        if (i < cards.length) card.remove();
+      });
+      index = 0;
+    }
+
+    setInterval(slide, 3000);
+
   section.wrap.top-section-container
     div.top-section-container-header
       h3.top-section-container-header-title.peach-text !{i18n('home.topSection.title', lang)}
@@ -225,19 +266,29 @@ block main
     h3.connect-section-title.peach-text !{i18n('home.connect.title', lang)}
     div.connect-section-content 
       .connect-section-card 
-        img(src="/img/home/X+Nostr.svg" alt="X + Nostr logo" loading="lazy")
+        div(style="display: flex; align-items: center; gap: 0.5rem;")
+          a(href="https://x.com/peachbitcoin/" target="_blank")
+            img(src="/img/home/X.svg" alt="X + Nostr logo" loading="lazy")
+          a(href="" target="_blank")
+            img(src="/img/home/Nostr.svg" alt="X + Nostr logo" loading="lazy")
         span.connect-section-card-title !{i18n('home.connect.mainChannels', lang)}
         span.connect-section-card-text !{i18n('home.connect.mainChannelsText', lang)}
       .connect-section-card 
-        img(src="/img/home/Telegram+Discord.svg" alt="telegram discord logo" loading="lazy")
+        div(style="display: flex; align-items: center; gap: 0.5rem;")
+          a(href="https://t.me/peachtopeach" target="_blank")
+            img(src="/img/home/Telegram.svg" alt="telegram discord logo" loading="lazy")
+          a(href="https://discord.gg/ypeHz3SW54" target="_blank")
+            img(src="/img/home/Discord.svg" alt="telegram discord logo" loading="lazy")
         span.connect-section-card-title !{i18n('home.connect.joinCommunities', lang)}
         span.connect-section-card-text !{i18n('home.connect.joinCommunitiesText', lang)}
       .connect-section-card 
-        img(src="/img/home/Instagram.svg" alt="instagram logo" loading="lazy")
+        a(href="https://instagram.com/peachbitcoin" target="_blank")
+          img(src="/img/home/Instagram.svg" alt="instagram logo" loading="lazy")
         span.connect-section-card-title !{i18n('home.connect.followInstagram', lang)}
         span.connect-section-card-text !{i18n('home.connect.followInstagramText', lang)}
       .connect-section-card 
-        img(src="/img/home/Youtube.svg" alt="youtube logo" loading="lazy")
+        a(href="https://youtube.com/@peachbitcoin" target="_blank")
+          img(src="/img/home/Youtube.svg" alt="youtube logo" loading="lazy")
         span.connect-section-card-title !{i18n('home.connect.followYoutube', lang)}
         span.connect-section-card-text !{i18n('home.connect.followYoutubeText', lang)}
 
@@ -289,7 +340,7 @@ block main
       h3.contact-container-title.peach-text !{i18n('home.contact.title', lang)}
       p.contact-container-subtitle !{i18n('home.contact.subtitle', lang)}
       div.contact-container-buttons 
-        a.contact-container-button-outline(href=getUrl(`/apk/`, lang))
+        a.contact-container-button-outline(href=getUrl(`/faqhome/`, lang))
           span !{i18n('home.contact.checkFAQ', lang)}
         a.primary-button(href=getUrl(`/support/`, lang))
           span.primary-button-text !{i18n('home.contact.contactSupport', lang)}
