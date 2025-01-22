@@ -31,19 +31,13 @@
     }
   }
 
-  @media (--up_to_M) {
+  @media (--up_to_L) {
     --logo-height: 2.5rem;
-    --nav-font-size: 1.5rem;
+    --nav-font-size: 22px;
   }
-
   @media (--M_and_up) {
     --logo-height: 3rem;
-    --nav-font-size: 1.25rem;
-  }
-
-  @media (max-width: 768px) {
-    height: 60px;
-    padding: 0 10px;
+    --nav-font-size: 1rem;
   }
 
   & .wrap {
@@ -67,7 +61,7 @@
     top: -2px;
   }
 
-  @media (max-width: 768px) {
+  @media (--up_to_L) {
     & .logo {
       max-height: 3rem;
     }
@@ -79,7 +73,6 @@
   position: relative;
   display: inline-flex;
   align-items: center;
-  padding: 5px 15px;
   white-space: nowrap;
 }
 
@@ -90,16 +83,11 @@
 .language-label {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   cursor: pointer;
-  padding: 10px 20px;
-  background-color: #FFF5F0;
+  padding: .5rem;
   border-radius: 12px;
   transition: background-color 0.3s ease, box-shadow 0.3s ease;
-  font-family: "Open Sans", sans-serif;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  white-space: nowrap;
-  overflow: hidden;
 }
 
 .language-label:hover {
@@ -108,6 +96,7 @@
 }
 
 .flag-icon {
+  min-width: 24px;
   width: 24px;
   height: 16px;
   margin-right: 8px;
@@ -117,7 +106,7 @@
   display: none;
   position: absolute;
   top: 100%;
-  left: 0;
+  right: 0;
   background-color: white;
   list-style: none;
   padding: 15px;
@@ -128,6 +117,15 @@
   transform: translateY(-15px);
   transition: opacity 0.3s ease, transform 0.3s ease;
   z-index: 1000;
+  max-height: 15rem;
+  overflow-y: auto;
+}
+
+@media (--up_to_L) {
+  .language-dropdown {
+    top: initial;
+    bottom: 100%;
+  }
 }
 
 .checkbox:checked + .language-label + .language-dropdown {
@@ -162,7 +160,7 @@
 .nav {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   width: 100%;
   box-sizing: border-box;
   flex-wrap: nowrap;
@@ -205,7 +203,7 @@
 }
 
 /* Mobile Menu */
-@media (max-width: 768px) {
+@media (--up_to_L) {
   .nav {
     position: fixed;
     top: var(--header-height);
@@ -250,9 +248,9 @@
   }
 }
 
-@media (--M_and_up) {
+@media (--L_and_up) {
   .nav {
-    gap: var(--space-l);
+    gap: var(--space-s);
   }
 
   .nav > a {

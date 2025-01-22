@@ -1,52 +1,101 @@
 .footer {
-  padding-top: var(--space-l);
-  padding-bottom: var(--space-l);
-  background-color: var(--color-bg-dark);
+  padding-top: var(--space-xxl);
+  padding-bottom: var(--space-xxl);
+  background-color: black;
+  color: #FFF9F6 !important;
 
   & .wrap {
+    display: flex;
+    justify-content: space-between;
+    gap: var(--space-xxxl);
+    width: 100%;
+
     @media (--up_to_L) {
-      display: flex;
-      justify-content: center;
+      flex-direction: column-reverse;
     }
   }
 
-  & .inner {
-    display: grid;
-    gap: var(--space-xxl);
-    justify-content: center;
-    margin-left: auto;
-    margin-right: auto;
-
-    @media (max-width: 319.99px) {
-      grid-template-columns: repeat(1, 1fr);
-    }
-    @media (min-width: 320px) and (max-width: 469.99px) {
-      grid-template-columns: repeat(2, 1fr);
-    }
-    @media (min-width: 470px) and (max-width: 959.99px) {
-      grid-template-columns: repeat(3, 1fr);
-    }
-    @media (min-width: 960px) {
-      grid-template-columns: repeat(6, 1fr);
-    }
-  }
-
-  & .box {
+  & .logo-section {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+    gap: 120px;
+    min-width: 181px;
+
+    & .logo {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      
+      & .logo-image {
+        width: 181px;
+        height: auto;
+      }
+
+      & span {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22.68px;
+      }
+    }
+
+
+    & .company-info {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+
+      & .polyreg-image {
+        width: 120px;
+        height: auto;
+      }
+  
+      & p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 14px;
+      }
+
+      @media (--up_to_L) {
+        align-items: center;
+      }
+    }
+
+    @media (--up_to_L) {
+      align-items: center;
+      text-align: center;
+      gap: 16px !important;
+    }
   }
 
-  & h6 {
-    color: var(--color-neutral-65);
-    margin-bottom: var(--space-xs);
-  }
+  & .content {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 48px 96px;
 
-  & a {
-    color: var(--color-neutral-50);
+    & .footer-box {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
 
-    &:hover {
-      color: var(--color-primary-main);
-      text-decoration: none;
+      & h6 {
+        font-weight: 700;
+        margin: 0 !important;
+      }
+
+      & h6, a {
+        font-size: 22.65px;
+        line-height: 22.65px;
+        color: #FFF9F6 !important;
+      }
+    }
+  
+    @media (--S_to_L) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media screen and (max-width: 528.99px) {
+      grid-template-columns: repeat(1, 1fr);
     }
   }
 }

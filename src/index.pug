@@ -4,72 +4,357 @@ block append vars
   - const hasTeaser = true
 
 block teaser
-  section.teaser
-    != html.teaser
-    a.scroll(href="#main"): +sprite("chevron-down")
+  div.new-teaser.wrap
+    div.new-teaser-content
+      div.new-teaser-column
+        div.new-teaser-item
+          h1.new-teaser-title.peach-text !{i18n('home.teaser.title', lang)}
+          p.new-teaser-subtitle 
+            | !{i18n('home.teaser.subtitle.part1', lang)}
+            img(src="/img/home/bitcoin-logo-text.png" alt="Bitcoin logo")
+            | !{i18n('home.teaser.subtitle.part2', lang)}
+          div.new-teaser-store-buttons
+            a(href="https://testflight.apple.com/join/wfSPFEWG" target="_blank")
+              img(src="/img/home/apple-button.svg" alt="Apple Store Button")
+            a(href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet" target="_blank")
+              img(src="/img/home/google-play-button.svg" alt="Google Play Store Button")
+            a(href="https://zapstore.dev/download/" target="_blank")
+              img(src="/img/home/zap-button.svg" alt="Zap Store Button")
 
-    section.teaser-badge
-      img(src='/img/home/bitcoin-logo.png', alt='Bitcoin')
+        div.new-teaser-box.desktop
+          div.new-teaser-filters
+            div.new-teaser-filters-select
+              img#flagIcon(src="/img/flags/europe-icon.svg" alt="Country flag")
+              select#priceCurrencySelect.new-teaser-filters-select
+                option(value="EUR") EUR
+                option(value="CHF") CHF
+                option(value="USD") USD  
+            div.new-teaser-filters-pillows
+              div.new-teaser-filters-pillow(id="24h")
+                span.new-teaser-filters-pillow-text 24H
+              div.new-teaser-filters-pillow(id="7d")
+                span.new-teaser-filters-pillow-text 7-day
+              div.new-teaser-filters-pillow(id="30d")
+                span.new-teaser-filters-pillow-text 30-day
 
-    script.
-      document.addEventListener('DOMContentLoaded', function() {
-        let userLocale = navigator.language || navigator.userLanguage;
-        const supportedLocales = ['es', 'de', 'it', 'fr', 'el', 'hu', 'nl', 'pl', 'pt', 'sw', 'uk',];
-        let pathLocale = userLocale.split('-')[0];
+          div.new-teaser-order-book
+            div.new-teaser-box-title
+              img(src="/img/home/bitcoin_icon.svg" alt="Bitcoin Icon")
+              span !{i18n('home.teaser.orderBookTitle', lang)}
+            span.new-teaser-price 0
 
-        let currentPath = window.location.pathname;
-        let redirected = sessionStorage.getItem('redirected'); // Check if redirected before
+          a.order-book-button(href="/kycfree-orderbook")
+            img(src="/img/home/show_chart.svg" alt="Show Chart Button")
+            span.order-book-button-text !{i18n('home.teaser.viewOrderBook', lang)}
 
-        if (!redirected) { // If not redirected before
-          if (currentPath === '/') {
-            if (pathLocale === 'en') {
-              window.location.pathname = '/index.html'; // routing to english
-            } else if (supportedLocales.includes(pathLocale)) {
-              window.location.pathname = '/' + pathLocale; // Redirect to the right language always if supported
-            }
-            sessionStorage.setItem('redirected', 'true'); // Set redirected in sessionstorage / die at every session
+    div.new-teaser-image-container
+      img.bitcoin-image(src="/img/home/Bitcoin-3d.png" alt="Bitcoin 3d Image")
+      img.iphone-image(src="/img/home/iPhone_mockup.png" alt="Hero Image")
+
+    div.new-teaser-box.mobile
+      div.new-teaser-filters
+        div.new-teaser-filters-select
+          img#flagIcon(src="/img/flags/europe-icon.svg" alt="Country flag")
+          select#priceCurrencySelect.new-teaser-filters-select
+            option(value="EUR") EUR
+            option(value="CHF") CHF
+            option(value="USD") USD  
+        div.new-teaser-filters-pillows
+          div.new-teaser-filters-pillow(id="24h")
+            span.new-teaser-filters-pillow-text 24H
+          div.new-teaser-filters-pillow(id="7d")
+            span.new-teaser-filters-pillow-text 7-day
+          div.new-teaser-filters-pillow(id="30d")
+            span.new-teaser-filters-pillow-text 30-day
+
+      div.new-teaser-order-book
+        div.new-teaser-box-title
+          img(src="/img/home/bitcoin_icon.svg" alt="Bitcoin Icon")
+          span !{i18n('home.teaser.orderBookTitle', lang)}
+        span.new-teaser-price 0
+
+        a.order-book-button(href="/kycfree-orderbook")
+          img(src="/img/home/show_chart.svg" alt="Show Chart Button")
+          span.order-book-button-text !{i18n('home.teaser.viewOrderBook', lang)}
+
+  script(type="text/javascript" src=assetPath("/js/priceData.js"))
+
+  script.
+    document.addEventListener('DOMContentLoaded', function() {
+      let userLocale = navigator.language || navigator.userLanguage;
+      const supportedLocales = ['es', 'de', 'it', 'fr', 'el', 'hu', 'nl', 'pl', 'pt', 'sw', 'uk',];
+      let pathLocale = userLocale.split('-')[0];
+
+      let currentPath = window.location.pathname;
+      let redirected = sessionStorage.getItem('redirected'); // Check if redirected before
+
+      if (!redirected) { // If not redirected before
+        if (currentPath === '/') {
+          if (pathLocale === 'en') {
+            window.location.pathname = '/index.html'; // routing to english
+          } else if (supportedLocales.includes(pathLocale)) {
+            window.location.pathname = '/' + pathLocale; // Redirect to the right language always if supported
           }
+          sessionStorage.setItem('redirected', 'true'); // Set redirected in sessionstorage / die at every session
         }
-      });
+      }
+    });
 
 block main
+  link(rel="stylesheet" href="styles.css")
+  link(rel="stylesheet" href="home.css")
   link(rel="stylesheet" href="https://ap-widget.s3.amazonaws.com/css/glider.min.css")
   link(rel="stylesheet" href="https://ap-widget.s3.amazonaws.com/css/widget.min.css")
-  script(type="text/javascript" src="https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async)
-  script(type="text/javascript" src="https://ap-widget.s3.amazonaws.com/glider.min.js")
-  script(type="text/javascript" src="https://ap-widget.s3.amazonaws.com/widget.min.js" async)
+  script(type="text/javascript" src="https://ap-widget.s3.amazonaws.com/js/glider.min.js")
+  script(type="text/javascript" src="https://ap-widget.s3.amazonaws.com/js/widget.min.js")
 
-  section#top.wrap
-    .content-wrap.content-wrap--centered
-      != html.top
+  section.wrap.download-peach-content
+    div.download-peach-image-container
+      img.download-peach-image(src="/img/home/Phones.png" alt="Phones Image" loading="lazy")
+    div.download-peach-text-container
+      span.download-peach-text-title.peach-text !{i18n('home.downloadPeach.title', lang)}
+      span.download-peach-text-subtitle !{i18n('home.downloadPeach.subtitle1', lang)}
+      span.download-peach-text-subtitle !{i18n('home.downloadPeach.subtitle2', lang)}
 
-  section#trustpilot.wrap(style='padding: 10px; margin: 0 auto;')
-    .content-wrap.content-wrap--centered
-      != html.trustpilot
-      .trustpilot-widget(data-locale='en-US', data-template-id='56278e9abfbbba0bdcd568bc', data-businessunit-id='662fb033a0899ecd633a4b6f', data-style-height='52px', data-style-width='100%')
-        a(href='https://www.trustpilot.com/review/peachbitcoin.com', target='_blank', rel='noopener') Trustpilot
+      div.download-peach-button-group
+        div.download-peach-button-group-inner
+          a(href="https://testflight.apple.com/join/wfSPFEWG" target="_blank")
+            img(src="/img/home/apple-button.svg" alt="Apple Store Button" loading="lazy")
+          a(href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet" target="_blank")
+            img(src="/img/home/google-play-button.svg" alt="Google Play Store Button" loading="lazy")
+          a(href="https://zapstore.dev/download/" target="_blank")
+            img(src="/img/home/zap-button.svg" alt="Zap Store Button" loading="lazy")
+        a.primary-button(href=getUrl(`/apk/`, lang))
+          img(src="/img/home/android.svg" alt="Android Icon" loading="lazy")
+          span.primary-button-text !{i18n('home.downloadPeach.downloadAPK', lang)}
 
-  section#mission.wrap
-    .content-wrap.content-wrap--centered
-      != html.mission
-      .contact
-        include /social-detail.pug
+  section.wrap.features-container
+    div.features-card
+      img.features-img(src="/img/home/code_icon.svg" alt="Code Icon" loading="lazy")
+      div.features-card-texts
+        span.features-card-title !{i18n('home.features.verifiableSourceCode', lang)}
+        a.features-card-text(href="https://github.com/Peach2Peach" target="_blank")
+          span(style="color: #F56522;") !{i18n('home.features.seeGithub', lang)}
+          img(src="/img/home/link_icon.svg" alt="Link Icon" loading="lazy")
+    div.features-card
+      img.features-img(src="/img/home/secure_icon.svg" alt="Secure Icon" loading="lazy")
+      div.features-card-texts
+        span.features-card-title !{i18n('home.features.secureSolution', lang)}
+        p.features-card-text !{i18n('home.features.multisignatureEscrow', lang)}
+    div.features-card
+        img.features-img(src="/img/home/certificated_icon.svg" alt="Certificated Icon" loading="lazy")
+        div.features-card-texts
+          span.features-card-title !{i18n('home.features.registeredCompany', lang)}
+            img(src="/img/flags/switzerland-icon.svg")
+          p.features-card-text !{i18n('home.features.licensedProvider', lang)} 
 
-  section#newsletter.wrap
-    form.newsletter-form(method="POST" action="https://5dcdd79e.sibforms.com/serve/MUIEAGjzL2fItMY1cwWaIXk6UiGKmh6OFwDRRA3wjUptuI7KEG1oWd0-a1M8fGC4apXeJkr9xTZPG-HK-Cyl0Zs8OEyH-qMndMqnE5MgP-0WVFz9ryAKU_te8XOKoOStliGWWB1LTjgioz5XpKeH-rihs5STRci4aD12qb4jAeOqrVXbV8E4wJKLWDVaEgrLzrIY612Qgi2V1KQq")
-      h4: label(for="email") !{i18n('mailing.list.title', lang)}
-      div
-        input#email(type="text" name="EMAIL" autocomplete="off" placeholder="Email" required)
-      div.check
-        input#optin(type="checkbox" value="1" name="OPT_IN")
-        label(for="optin"): small !{i18n('mailing.list.optin', lang)} <a href="/privacyPolicy.html">!{i18n('mailing.list.privacypolicy', lang)}</a>.
-      p
-        small !{i18n('mailing.list.unsubscribe', lang)}
-      button.button.button--white(type="submit") !{i18n('mailing.list.subscribe.button', lang)}
-      input(type="hidden" name="email_address_check" value="")
-      input(type="hidden" name="locale" value="en")
-      input(type="hidden" name="html_type" value="simple")
+  script.
+    const featuresContainer = document.querySelector('.features-container');
+    const cards = document.querySelectorAll('.features-card');
+    let index = 0;
 
-  section#bottom.wrap
-    .content-wrap.content-wrap--centered
-      != html.about
+    function slide() {
+      index++;
+
+      if (index >= cards.length) {
+        cloneAndAppendCards();
+        scrollFeaturesContainer();
+        setTimeout(removeOldCards, 300);
+      } else {
+        scrollFeaturesContainer();
+      }
+    }
+
+    function cloneAndAppendCards() {
+      cards.forEach(card => {
+        const clone = card.cloneNode(true);
+        featuresContainer.appendChild(clone);
+      });
+    }
+
+    function scrollFeaturesContainer() {
+      featuresContainer.scrollBy({
+        left: 465,
+        behavior: 'smooth'
+      });
+    }
+
+    function removeOldCards() {
+      const oldCards = document.querySelectorAll('.features-card');
+      oldCards.forEach((card, i) => {
+        if (i < cards.length) card.remove();
+      });
+      index = 0;
+    }
+
+    setInterval(slide, 3000);
+
+  section.wrap.top-section-container
+    div.top-section-container-header
+      h3.top-section-container-header-title.peach-text !{i18n('home.topSection.title', lang)}
+      p.top-section-container-header-subtitle !{i18n('home.topSection.subtitle', lang)}
+    div.top-section-video-container
+      video(controls loading="lazy")
+        source(src="/img/home/peach-video.mp4" type="video/mp4")
+        | Your browser does not support the video tag.
+
+  section.wrap.section-three-container-wrap
+    div.section-three-container
+      div.section-three-card
+        div.section-three-images-container
+          img.section-three-image-main(src="/img/home/peach-transaction.png" alt="Main Image" loading="lazy")
+          img.section-three-image-money(src="/img/home/money.png" alt="Rotated Image 1" loading="lazy")
+          img.section-three-image-money-bag(src="/img/home/money-bag.png" alt="Rotated Image 2" loading="lazy")
+        div.section-three-text-container
+          h1.section-three-title !{i18n('home.sectionThree.title', lang)}
+          p.section-three-description 
+            | !{i18n('home.sectionThree.description.part1', lang)}
+            br
+            br
+            | !{i18n('home.sectionThree.description.part2', lang)}
+          div.section-three-button-container
+            a.section-three-button(href="/how-it-works/#available-payment-methods") !{i18n('home.sectionThree.viewPaymentMethods', lang)}
+
+  section.carousel
+    div.wrap.carousel-container
+      .carousel-left
+        h3.carousel-title.peach-text !{i18n('home.carousel.title', lang)}
+        .carousel-buttons 
+          button.carousel-button#carouselButtonLeft 
+            img(src="/img/home/arrow_back.svg" alt="Arrow Back Icon" loading="lazy")
+          button.carousel-button#carouselButtonRight
+            img(src="/img/home/arrow_forward.svg" alt="Arrow Forward Icon" loading="lazy")
+      div.carousel-right 
+        div.carousel-card 
+          div.carousel-card-number 1
+          div.carousel-text-container
+            span.carousel-card-title !{i18n('home.carousel.step1.title', lang)}
+            p.carousel-card-text !{i18n('home.carousel.step1.text', lang)}
+          a.carousel-card-button(href=getUrl(`/apk/`, lang))
+            img(src="/img/home/file_download.svg" alt="File Download Icon" loading="lazy")
+            span !{i18n('home.carousel.step1.button', lang)}
+        div.carousel-card 
+          div.carousel-card-number 2
+          div.carousel-text-container
+            span.carousel-card-title !{i18n('home.carousel.step2.title', lang)}
+            p.carousel-card-text !{i18n('home.carousel.step2.text', lang)}
+        div.carousel-card 
+          div.carousel-card-number 3
+          div.carousel-text-container
+            span.carousel-card-title !{i18n('home.carousel.step3.title', lang)}
+            p.carousel-card-text !{i18n('home.carousel.step3.text', lang)}
+
+  script.
+    const carouselContainer = document.querySelector('.carousel-right')
+    const carouselButtons = document.querySelectorAll('.carousel-button')
+
+    carouselButtons.forEach(button => button.addEventListener('click', (e) => {
+      scrollCarousel(button.id === 'carouselButtonLeft' ? 'left' : 'right')
+    }))
+
+    function scrollCarousel(direction) {
+      const scrollAmount = 465
+      const scrollDirection = direction === 'left' ? -scrollAmount : scrollAmount
+
+      carouselContainer.scrollBy({
+        left: scrollDirection,
+        behavior: 'smooth'
+      })
+    }
+
+  section.wrap.connect-section-container
+    h3.connect-section-title.peach-text !{i18n('home.connect.title', lang)}
+    div.connect-section-content 
+      .connect-section-card 
+        div(style="display: flex; align-items: center; gap: 0.5rem;")
+          a(href="https://x.com/peachbitcoin/" target="_blank")
+            img(src="/img/home/X.svg" alt="X + Nostr logo" loading="lazy")
+          a(href="" target="_blank")
+            img(src="/img/home/Nostr.svg" alt="X + Nostr logo" loading="lazy")
+        span.connect-section-card-title !{i18n('home.connect.mainChannels', lang)}
+        span.connect-section-card-text !{i18n('home.connect.mainChannelsText', lang)}
+      .connect-section-card 
+        div(style="display: flex; align-items: center; gap: 0.5rem;")
+          a(href="https://t.me/peachtopeach" target="_blank")
+            img(src="/img/home/Telegram.svg" alt="telegram discord logo" loading="lazy")
+          a(href="https://discord.gg/ypeHz3SW54" target="_blank")
+            img(src="/img/home/Discord.svg" alt="telegram discord logo" loading="lazy")
+        span.connect-section-card-title !{i18n('home.connect.joinCommunities', lang)}
+        span.connect-section-card-text !{i18n('home.connect.joinCommunitiesText', lang)}
+      .connect-section-card 
+        a(href="https://instagram.com/peachbitcoin" target="_blank")
+          img(src="/img/home/Instagram.svg" alt="instagram logo" loading="lazy")
+        span.connect-section-card-title !{i18n('home.connect.followInstagram', lang)}
+        span.connect-section-card-text !{i18n('home.connect.followInstagramText', lang)}
+      .connect-section-card 
+        a(href="https://youtube.com/@peachbitcoin" target="_blank")
+          img(src="/img/home/Youtube.svg" alt="youtube logo" loading="lazy")
+        span.connect-section-card-title !{i18n('home.connect.followYoutube', lang)}
+        span.connect-section-card-text !{i18n('home.connect.followYoutubeText', lang)}
+
+  section.wrap.newsletter-section-container
+    div.newsletter-section-content
+      img.airplane(src="/img/home/Airplane.png" alt="airplane image" loading="lazy")
+      div.newsletter
+        h3.newsletter-section-title.peach-text !{i18n('home.newsletter.title', lang)}
+        span.newsletter-section-text !{i18n('home.newsletter.text', lang)}
+      form.newsletter-form(method="POST" action="https://5dcdd79e.sibforms.com/serve/MUIEAGjzL2fItMY1cwWaIXk6UiGKmh6OFwDRRA3wjUptuI7KEG1oWd0-a1M8fGC4apXeJkr9xTZPG-HK-Cyl0Zs8OEyH-qMndMqnE5MgP-0WVFz9ryAKU_te8XOKoOStliGWWB1LTjgioz5XpKeH-rihs5STRci4aD12qb4jAeOqrVXbV8E4wJKLWDVaEgrLzrIY612Qgi2V1KQq")
+        div
+          input#email(type="text" name="EMAIL" autocomplete="off" placeholder="Email" required)
+        div.check
+          input#optin(type="checkbox" value="1" name="OPT_IN")
+          label(for="optin"): small !{i18n('mailing.list.optin', lang)} <a href="/privacyPolicy.html">!{i18n('mailing.list.privacypolicy', lang)}</a>.
+
+        button.button.button--white(type="submit") !{i18n('mailing.list.subscribe.button', lang)}
+        input(type="hidden" name="email_address_check" value="")
+        input(type="hidden" name="locale" value="en")
+        input(type="hidden" name="html_type" value="simple")
+
+  section.testimonial-section
+    div.testimonial-background
+      div.wrap.testimonial-section-content
+        h3.testimonial-section-title.peach-text !{i18n('home.testimonial.title', lang)}
+        div.testimonial-rating
+          img(src="/img/home/apollo-logo.svg" alt="Apollo Logo" loading="lazy")
+          span !{i18n('home.testimonial.rating', lang)}
+        div.testimonial-reviews
+          img(src="/img/home/Reviews.svg" alt="Reviews Image" loading="lazy")
+        span.testimonial-texts(style="font-weight: 700;") !{i18n('home.testimonial.reviewTitle', lang)}
+        p.testimonial-texts !{i18n('home.testimonial.reviewText', lang)}
+    div.wrap.testimonial-cta-section
+      .testimonial-cta-card
+        p !{i18n('home.testimonial.ctaText.part1', lang)} 
+          span 500 sats?
+          |  !{i18n('home.testimonial.ctaText.part2', lang)} 
+
+        div.buttons-container
+          a.testimonial-button(href="https://heyapollo.com/product/peach" target="_blank")
+            span.testimonial-button-text !{i18n('home.testimonial.reviewButtonText', lang)}
+            img(src="/img/home/apollo-logo.svg" alt="Apollo Logo" loading="lazy")
+          a.testimonial-button(href="https://www.trustpilot.com/review/peachbitcoin.com" target="_blank")
+            span.testimonial-button-text !{i18n('home.testimonial.reviewButtonText', lang)}
+            img(src="/img/home/trust-pilot-logo.svg" alt="Trust pilot Logo" loading="lazy")
+
+  section.contact-container
+    div.wrap
+      h3.contact-container-title.peach-text !{i18n('home.contact.title', lang)}
+      p.contact-container-subtitle !{i18n('home.contact.subtitle', lang)}
+      div.contact-container-buttons 
+        a.contact-container-button-outline(href=getUrl(`/faqhome/`, lang))
+          span !{i18n('home.contact.checkFAQ', lang)}
+        a.primary-button(href=getUrl(`/support/`, lang))
+          span.primary-button-text !{i18n('home.contact.contactSupport', lang)}
+
+  section.get-peach-section 
+    div.wrap.get-peach-section-content 
+      span.get-peach-section-title.peach-text !{i18n('home.getPeach.title', lang)}
+      div.get-peach-section-button-groups
+        a(href="https://testflight.apple.com/join/wfSPFEWG" target="_blank")
+          img(src="/img/home/apple-button.svg" alt="Apple Store Button" loading="lazy")
+        a(href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet" target="_blank")
+          img(src="/img/home/google-play-button.svg" alt="Google Play Store Button" loading="lazy")
+        a(href="https://zapstore.dev/download/" target="_blank")
+          img(src="/img/home/zap-button.svg" alt="Zap Store Button" loading="lazy")
+      a.primary-button(href=getUrl(`/apk/`, lang))
+        img(src="/img/home/android.svg" alt="Android Icon" loading="lazy")
+        span.primary-button-text !{i18n('home.getPeach.downloadAPK', lang)}

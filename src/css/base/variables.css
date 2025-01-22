@@ -79,7 +79,7 @@
   --section-padding-bottom: var(--space-xxl);
 
   @media (--up_to_M) {
-    --font-size-base: 16px;
+    --font-size-base: 14px;
     --font-size-l: 1.2rem;
     --font-size-xl: 1.4rem;
     --font-size-xxl: 1.6rem;
@@ -94,7 +94,7 @@
     --font-size-xl: 1.5rem;
     --font-size-xxl: 1.75rem;
     --font-size-xxxl: 2.4rem;
-    --header-height: 5rem;
+    --header-height: 4rem;
     --wrap-padding-horizontal: var(--space-xl);
     --section-padding-top: var(--space-xl);
   }
@@ -104,7 +104,7 @@
     --font-size-xl: 1.5rem;
     --font-size-xxl: 1.75rem;
     --font-size-xxxl: 2.4rem;
-    --header-height: 5rem;
+    --header-height: 4rem;
     --wrap-padding-horizontal: var(--space-xxl);
     --section-padding-top: var(--space-xxl);
   }
