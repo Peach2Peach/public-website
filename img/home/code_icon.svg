@@ -1,0 +1,13 @@
+<svg width="89" height="90" viewBox="0 0 89 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon 1">
+<circle id="Ellipse 1" cx="44.5" cy="45" r="44.5" fill="#FFF9F6"/>
+<g id="code_blocks">
+<mask id="mask0_1130_37497" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="20" y="20" width="48" height="49">
+<rect id="Bounding box" x="20" y="20.5" width="48" height="48" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_1130_37497)">
+<path id="code_blocks_2" d="M39.2 51.7L42 48.85L37.65 44.5L42 40.15L39.2 37.3L32 44.5L39.2 51.7ZM48.8 51.7L56 44.5L48.8 37.3L46 40.15L50.35 44.5L46 48.85L48.8 51.7ZM30 62.5C28.9 62.5 27.9583 62.1083 27.175 61.325C26.3917 60.5417 26 59.6 26 58.5V30.5C26 29.4 26.3917 28.4583 27.175 27.675C27.9583 26.8917 28.9 26.5 30 26.5H58C59.1 26.5 60.0417 26.8917 60.825 27.675C61.6083 28.4583 62 29.4 62 30.5V58.5C62 59.6 61.6083 60.5417 60.825 61.325C60.0417 62.1083 59.1 62.5 58 62.5H30ZM30 58.5H58V30.5H30V58.5Z" fill="#F56522"/>
+</g>
+</g>
+</g>
+</svg>
