@@ -174,7 +174,7 @@ block main
 
     function scrollFeaturesContainer() {
       featuresContainer.scrollBy({
-        left: 465,
+        left: cards[0].offsetWidth,
         behavior: 'smooth'
       });
     }
@@ -194,9 +194,26 @@ block main
       h3.top-section-container-header-title.peach-text !{i18n('home.topSection.title', lang)}
       p.top-section-container-header-subtitle !{i18n('home.topSection.subtitle', lang)}
     div.top-section-video-container
-      video(controls loading="lazy")
+      video#myVideo(controls loading="lazy")
         source(src="/img/home/peach-video.mp4" type="video/mp4")
         | Your browser does not support the video tag.
+      div.overlay
+
+  script.
+    const video = document.getElementById('myVideo');
+    const overlay = document.querySelector('.overlay');
+
+    video.addEventListener('play', () => {
+      overlay.classList.add('hidden');
+    });
+
+    video.addEventListener('pause', () => {
+      overlay.classList.remove('hidden');
+    });
+
+    video.addEventListener('ended', () => {
+      overlay.classList.remove('hidden');
+    });
 
   section.wrap.section-three-container-wrap
     div.section-three-container
@@ -340,7 +357,7 @@ block main
       h3.contact-container-title.peach-text !{i18n('home.contact.title', lang)}
       p.contact-container-subtitle !{i18n('home.contact.subtitle', lang)}
       div.contact-container-buttons 
-        a.contact-container-button-outline(href=getUrl(`/faqhome/`, lang))
+        a.contact-container-button-outline(href=getUrl(`/apk/`, lang))
           span !{i18n('home.contact.checkFAQ', lang)}
         a.primary-button(href=getUrl(`/support/`, lang))
           span.primary-button-text !{i18n('home.contact.contactSupport', lang)}
