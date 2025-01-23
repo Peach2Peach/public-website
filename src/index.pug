@@ -50,6 +50,7 @@ block teaser
     div.new-teaser-image-container
       img.bitcoin-image(src="/img/home/Bitcoin-3d.png" alt="Bitcoin 3d Image")
       img.iphone-image(src="/img/home/iPhone_mockup.png" alt="Hero Image")
+      div.bg-radial
 
     div.new-teaser-box.mobile
       div.new-teaser-filters
@@ -149,45 +150,55 @@ block main
           p.features-card-text !{i18n('home.features.licensedProvider', lang)} 
 
   script.
-    const featuresContainer = document.querySelector('.features-container');
-    const cards = document.querySelectorAll('.features-card');
-    let index = 0;
+    document.addEventListener('DOMContentLoaded', () => {
+      const featuresContainer = document.querySelector('.features-container');
+      let cards = document.querySelectorAll('.features-card');
+      let index = 0;
 
-    function slide() {
-      index++;
+      function slide() {
+        index++;
 
-      if (index >= cards.length) {
-        cloneAndAppendCards();
-        scrollFeaturesContainer();
-        setTimeout(removeOldCards, 300);
-      } else {
-        scrollFeaturesContainer();
+        if (index >= cards.length) {
+          cloneAndAppendCards();
+          scrollFeaturesContainer();
+          setTimeout(removeOldCards, 300);
+        } else {
+          scrollFeaturesContainer();
+        }
       }
-    }
 
-    function cloneAndAppendCards() {
-      cards.forEach(card => {
-        const clone = card.cloneNode(true);
-        featuresContainer.appendChild(clone);
-      });
-    }
+      function cloneAndAppendCards() {
+        cards.forEach(card => {
+          const clone = card.cloneNode(true);
+          featuresContainer.appendChild(clone);
+        });
+        cards = document.querySelectorAll('.features-card');
+      }
 
-    function scrollFeaturesContainer() {
-      featuresContainer.scrollBy({
-        left: cards[0].offsetWidth,
-        behavior: 'smooth'
-      });
-    }
+      function scrollFeaturesContainer() {
+        if (cards.length > 0) {
+          featuresContainer.scrollBy({
+            left: cards[0].offsetWidth,
+            behavior: 'smooth',
+          });
+        } else {
+          console.error("No cards found!");
+        }
+      }
 
-    function removeOldCards() {
-      const oldCards = document.querySelectorAll('.features-card');
-      oldCards.forEach((card, i) => {
-        if (i < cards.length) card.remove();
-      });
-      index = 0;
-    }
+      function removeOldCards() {
+        const oldCards = document.querySelectorAll('.features-card');
+        oldCards.forEach((card, i) => {
+          if (i < 3) card.remove();
+        });
+        cards = document.querySelectorAll('.features-card');
+        index = 0;
+      }
 
-    setInterval(slide, 3000);
+      if (window.innerWidth <= 739.99) {
+        setInterval(slide, 3000);
+      }
+    });
 
   section.wrap.top-section-container
     div.top-section-container-header
@@ -200,19 +211,21 @@ block main
       div.overlay
 
   script.
-    const video = document.getElementById('myVideo');
-    const overlay = document.querySelector('.overlay');
+    document.addEventListener('DOMContentLoaded', () => {
+      const video = document.getElementById('myVideo');
+      const overlay = document.querySelector('.overlay');
 
-    video.addEventListener('play', () => {
-      overlay.classList.add('hidden');
-    });
+      video.addEventListener('play', () => {
+        overlay.classList.add('hidden');
+      });
 
-    video.addEventListener('pause', () => {
-      overlay.classList.remove('hidden');
-    });
+      video.addEventListener('pause', () => {
+        overlay.classList.remove('hidden');
+      });
 
-    video.addEventListener('ended', () => {
-      overlay.classList.remove('hidden');
+      video.addEventListener('ended', () => {
+        overlay.classList.remove('hidden');
+      });
     });
 
   section.wrap.section-three-container-wrap
@@ -262,22 +275,24 @@ block main
             p.carousel-card-text !{i18n('home.carousel.step3.text', lang)}
 
   script.
-    const carouselContainer = document.querySelector('.carousel-right')
-    const carouselButtons = document.querySelectorAll('.carousel-button')
+    document.addEventListener('DOMContentLoaded', () => {
+      const carouselContainer = document.querySelector('.carousel-right')
+      const carouselButtons = document.querySelectorAll('.carousel-button')
 
-    carouselButtons.forEach(button => button.addEventListener('click', (e) => {
-      scrollCarousel(button.id === 'carouselButtonLeft' ? 'left' : 'right')
-    }))
+      carouselButtons.forEach(button => button.addEventListener('click', (e) => {
+        scrollCarousel(button.id === 'carouselButtonLeft' ? 'left' : 'right')
+      }))
 
-    function scrollCarousel(direction) {
-      const scrollAmount = 465
-      const scrollDirection = direction === 'left' ? -scrollAmount : scrollAmount
+      function scrollCarousel(direction) {
+        const scrollAmount = 465
+        const scrollDirection = direction === 'left' ? -scrollAmount : scrollAmount
 
-      carouselContainer.scrollBy({
-        left: scrollDirection,
-        behavior: 'smooth'
-      })
-    }
+        carouselContainer.scrollBy({
+          left: scrollDirection,
+          behavior: 'smooth'
+        })
+      }
+    });
 
   section.wrap.connect-section-container
     h3.connect-section-title.peach-text !{i18n('home.connect.title', lang)}

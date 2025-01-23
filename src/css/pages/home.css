@@ -218,6 +218,19 @@
       justify-content: flex-end;
       align-items: center;
       position: relative;
+
+      & .bg-radial {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 50%; 
+        aspect-ratio: 1;
+        background: radial-gradient(37.34% 4.60% at 51.80% 2.21%, #FF7A50 7%, #FFA24C 22%, #FF4D42 75%);
+        border-radius: 9999px; 
+        filter: blur(138.97px);
+        z-index: -1;
+      }
       
       & .iphone-image {
         max-width: 75%;
