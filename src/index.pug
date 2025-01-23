@@ -152,20 +152,47 @@ block main
   script.
     document.addEventListener('DOMContentLoaded', () => {
       const featuresContainer = document.querySelector('.features-container');
-      const cards = document.querySelectorAll('.features-card');
+      let cards = document.querySelectorAll('.features-card');
+      let index = 0;
 
       function slide() {
-        const firstCard = featuresContainer.firstElementChild;
+        index++;
 
-        featuresContainer.scrollBy({
-          left: firstCard.offsetWidth,
-          behavior: 'smooth',
+        if (index >= cards.length) {
+          cloneAndAppendCards();
+          scrollFeaturesContainer();
+          setTimeout(removeOldCards, 300);
+        } else {
+          scrollFeaturesContainer();
+        }
+      }
+
+      function cloneAndAppendCards() {
+        cards.forEach(card => {
+          const clone = card.cloneNode(true);
+          featuresContainer.appendChild(clone);
         });
+        cards = document.querySelectorAll('.features-card');
+      }
 
-        setTimeout(() => {
-          featuresContainer.appendChild(firstCard);
-          featuresContainer.scrollLeft = 0;
-        }, 300);
+      function scrollFeaturesContainer() {
+        if (cards.length > 0) {
+          featuresContainer.scrollBy({
+            left: cards[0].offsetWidth,
+            behavior: 'smooth',
+          });
+        } else {
+          console.error("No cards found!");
+        }
+      }
+
+      function removeOldCards() {
+        const oldCards = document.querySelectorAll('.features-card');
+        oldCards.forEach((card, i) => {
+          if (i < 3) card.remove();
+        });
+        cards = document.querySelectorAll('.features-card');
+        index = 0;
       }
 
       if (window.innerWidth <= 739.99) {
@@ -345,21 +372,7 @@ block main
       h3.contact-container-title.peach-text !{i18n('home.contact.title', lang)}
       p.contact-container-subtitle !{i18n('home.contact.subtitle', lang)}
       div.contact-container-buttons 
-        a.contact-container-button-outline(href=getUrl(`/apk/`, lang))
+        a.contact-container-button-outline(href=getUrl(`/faqhome/`, lang))
           span !{i18n('home.contact.checkFAQ', lang)}
         a.primary-button(href=getUrl(`/support/`, lang))
           span.primary-button-text !{i18n('home.contact.contactSupport', lang)}
-
-  section.get-peach-section 
-    div.wrap.get-peach-section-content 
-      span.get-peach-section-title.peach-text !{i18n('home.getPeach.title', lang)}
-      div.get-peach-section-button-groups
-        a(href="https://testflight.apple.com/join/wfSPFEWG" target="_blank")
-          img(src="/img/home/apple-button.svg" alt="Apple Store Button" loading="lazy")
-        a(href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet" target="_blank")
-          img(src="/img/home/google-play-button.svg" alt="Google Play Store Button" loading="lazy")
-        a(href="https://zapstore.dev/download/" target="_blank")
-          img(src="/img/home/zap-button.svg" alt="Zap Store Button" loading="lazy")
-      a.primary-button(href=getUrl(`/apk/`, lang))
-        img(src="/img/home/android.svg" alt="Android Icon" loading="lazy")
-        span.primary-button-text !{i18n('home.getPeach.downloadAPK', lang)}
