@@ -498,7 +498,9 @@
       gap: var(--space-xs); 
       padding: var(--space-m) var(--space-l) !important; 
       background: var(--bg-gradient-peachy);
-      border-radius: 5rem; 
+      border-radius: 5rem;
+      min-width: 100px;
+      flex-shrink: 0; 
 
       & span {
         color: var(--color-white);
