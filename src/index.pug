@@ -152,47 +152,20 @@ block main
   script.
     document.addEventListener('DOMContentLoaded', () => {
       const featuresContainer = document.querySelector('.features-container');
-      let cards = document.querySelectorAll('.features-card');
-      let index = 0;
+      const cards = document.querySelectorAll('.features-card');
 
       function slide() {
-        index++;
+        const firstCard = featuresContainer.firstElementChild;
 
-        if (index >= cards.length) {
-          cloneAndAppendCards();
-          scrollFeaturesContainer();
-          setTimeout(removeOldCards, 300);
-        } else {
-          scrollFeaturesContainer();
-        }
-      }
-
-      function cloneAndAppendCards() {
-        cards.forEach(card => {
-          const clone = card.cloneNode(true);
-          featuresContainer.appendChild(clone);
+        featuresContainer.scrollBy({
+          left: firstCard.offsetWidth,
+          behavior: 'smooth',
         });
-        cards = document.querySelectorAll('.features-card');
-      }
 
-      function scrollFeaturesContainer() {
-        if (cards.length > 0) {
-          featuresContainer.scrollBy({
-            left: cards[0].offsetWidth,
-            behavior: 'smooth',
-          });
-        } else {
-          console.error("No cards found!");
-        }
-      }
-
-      function removeOldCards() {
-        const oldCards = document.querySelectorAll('.features-card');
-        oldCards.forEach((card, i) => {
-          if (i < 3) card.remove();
-        });
-        cards = document.querySelectorAll('.features-card');
-        index = 0;
+        setTimeout(() => {
+          featuresContainer.appendChild(firstCard);
+          featuresContainer.scrollLeft = 0;
+        }, 300);
       }
 
       if (window.innerWidth <= 739.99) {
