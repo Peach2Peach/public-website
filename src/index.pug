@@ -180,8 +180,8 @@ block main
       h3.top-section-container-header-title.peach-text !{i18n('home.topSection.title', lang)}
       p.top-section-container-header-subtitle !{i18n('home.topSection.subtitle', lang)}
     div.top-section-video-container
-      video#myVideo(controls loading="lazy")
-        source(src="/img/home/peach-video.mp4" type="video/mp4" poster="/img/home/video_thumbnail.png")
+      video#myVideo(controls loading="lazy" poster="/img/home/video_thumbnail.png")
+        source(src="/img/home/peach-video.mp4" type="video/mp4")
         | Your browser does not support the video tag.
 
   section.wrap.section-three-container-wrap
