@@ -181,27 +181,8 @@ block main
       p.top-section-container-header-subtitle !{i18n('home.topSection.subtitle', lang)}
     div.top-section-video-container
       video#myVideo(controls loading="lazy")
-        source(src="/img/home/peach-video.mp4" type="video/mp4")
+        source(src="/img/home/peach-video.mp4" type="video/mp4" poster="/img/home/video_thumbnail.png")
         | Your browser does not support the video tag.
-      div.overlay
-
-  script.
-    document.addEventListener('DOMContentLoaded', () => {
-      const video = document.getElementById('myVideo');
-      const overlay = document.querySelector('.overlay');
-
-      video.addEventListener('play', () => {
-        overlay.classList.add('hidden');
-      });
-
-      video.addEventListener('pause', () => {
-        overlay.classList.remove('hidden');
-      });
-
-      video.addEventListener('ended', () => {
-        overlay.classList.remove('hidden');
-      });
-    });
 
   section.wrap.section-three-container-wrap
     div.section-three-container
