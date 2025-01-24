@@ -20,18 +20,19 @@
   }
 
   & .new-teaser {
-    width: 100%;
-    height: 100%;
-    padding-top: 4.8rem;
-    padding-bottom: 2.4rem;
-    border-top-left-radius: 1.9415rem;
-    border-top-right-radius: 1.9415rem;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    gap: var(--space-m);
     background: url('/img/home/HeroBG.png') no-repeat center center;
     background-size: cover;
+
+    & .new-teaser-wrap {
+      width: 100%;
+      height: 100%;
+      padding-top: 4.8rem;
+      padding-bottom: 2.4rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: var(--space-m);
+    }
 
     & .new-teaser-content {
       flex: 1 1 0;
@@ -131,6 +132,10 @@
             font-family: var(--font-family-base);
             outline: none;
             cursor: pointer;
+            appearance: menulist;
+            -moz-appearance: menulist;
+            -webkit-appearance: menulist;
+            background-color: white;
           }
 
           & img {
@@ -218,29 +223,16 @@
       justify-content: flex-end;
       align-items: center;
       position: relative;
-
-      & .bg-radial {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        width: 50%; 
-        aspect-ratio: 1;
-        background: radial-gradient(37.34% 4.60% at 51.80% 2.21%, #FF7A50 7%, #FFA24C 22%, #FF4D42 75%);
-        border-radius: 9999px; 
-        filter: blur(138.97px);
-        z-index: -1;
-      }
       
       & .iphone-image {
-        max-width: 75%;
+        max-width: 80%;
       }
 
       & .bitcoin-image {
         width: 13.6rem;
         height: auto;
         position: relative;
-        right: -9.2rem;
+        right: -10.5rem;
         top: 8rem;
         animation: float 3s ease-in-out infinite;
       }
@@ -1043,41 +1035,8 @@
   }
 }
 
-& .get-peach-section {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background: #FFF9F6;
-
-  & .get-peach-section-content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1.5rem;
-  }
-
-  & .get-peach-section-title {
-    font-size: 2.290625rem;
-    font-weight: 700;
-    line-height: 2.290625rem;
-    text-align: center;
-    background: radial-gradient(110.76% 117.21% at 100% 0%, #FFA24C 0%, #FF7A50 50.25%, #FF4D42 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-
-  & .get-peach-section-button-groups {
-    display: flex;
-    gap: 0.5rem;
-
-    & img {
-      width: 10.5625rem; 
-      height: auto; 
-    }
-  }
-}
-
 @media (--up_to_L) {
-  .new-teaser {
+  .new-teaser-wrap {
     flex-direction: column !important;
 
     & .new-teaser-store-buttons {
@@ -1111,9 +1070,8 @@
     }
   
     & .new-teaser-image-container {
-      & .iphone-image {
-        max-width: 100% !important;
-      }
+      width: 100% !important;
+      justify-content: center !important;
     }
   }
 
@@ -1195,11 +1153,33 @@
   }
 }
 
+@media (--M_to_L) {
+  & .new-teaser-image-container {
+    margin-left: -17.6rem !important;
+
+    & .bitcoin-image {
+      width: 17.6rem !important;
+      right: -15rem !important;
+      top: 11rem !important;
+    }
+  }
+}
+
 @media (--up_to_M) {
   & .new-teaser-box {
     & .order-book-button {
       width: 100%;
       margin-top: .5rem;
+    }
+  }
+
+  & .new-teaser-image-container {
+    margin-left: -13.6rem !important;
+
+    & .bitcoin-image {
+      width: 13.6rem !important;
+      right: -10.5rem !important;
+      top: 8rem !important;
     }
   }
 
@@ -1275,10 +1255,9 @@
   .features-container {
     scroll-snap-type: x mandatory;
     scroll-behavior: smooth;
-    scroll-width: 300vw;
 
     & .features-card {
-      min-width: calc(100vw - Var(--wrap-padding-horizontal) * 2) !important;
+      min-width: calc(100vw - var(--wrap-padding-horizontal) * 2) !important;
       justify-content: center;
 
       & .features-card-texts {

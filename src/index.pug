@@ -4,79 +4,79 @@ block append vars
   - const hasTeaser = true
 
 block teaser
-  div.new-teaser.wrap
-    div.new-teaser-content
-      div.new-teaser-column
-        div.new-teaser-item
-          h1.new-teaser-title.peach-text !{i18n('home.teaser.title', lang)}
-          p.new-teaser-subtitle 
-            | !{i18n('home.teaser.subtitle.part1', lang)}
-            img(src="/img/home/bitcoin-logo-text.png" alt="Bitcoin logo")
-            | !{i18n('home.teaser.subtitle.part2', lang)}
-          div.new-teaser-store-buttons
-            a(href="https://testflight.apple.com/join/wfSPFEWG" target="_blank")
-              img(src="/img/home/apple-button.svg" alt="Apple Store Button")
-            a(href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet" target="_blank")
-              img(src="/img/home/google-play-button.svg" alt="Google Play Store Button")
-            a(href="https://zapstore.dev/download/" target="_blank")
-              img(src="/img/home/zap-button.svg" alt="Zap Store Button")
+  div.new-teaser
+    .new-teaser-wrap.wrap
+      div.new-teaser-content
+        div.new-teaser-column
+          div.new-teaser-item
+            h1.new-teaser-title.peach-text !{i18n('home.teaser.title', lang)}
+            p.new-teaser-subtitle 
+              | !{i18n('home.teaser.subtitle.part1', lang)}
+              img(src="/img/home/bitcoin-logo-text.png" alt="Bitcoin logo")
+              | !{i18n('home.teaser.subtitle.part2', lang)}
+            div.new-teaser-store-buttons
+              a(href="https://testflight.apple.com/join/wfSPFEWG" target="_blank")
+                img(src="/img/home/apple-button.svg" alt="Apple Store Button")
+              a(href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet" target="_blank")
+                img(src="/img/home/google-play-button.svg" alt="Google Play Store Button")
+              a(href="https://zapstore.dev/download/" target="_blank")
+                img(src="/img/home/zap-button.svg" alt="Zap Store Button")
 
-        div.new-teaser-box.desktop
-          div.new-teaser-filters
-            div.new-teaser-filters-select
-              img#flagIcon(src="/img/flags/europe-icon.svg" alt="Country flag")
-              select#priceCurrencySelect.new-teaser-filters-select
-                option(value="EUR") EUR
-                option(value="CHF") CHF
-                option(value="USD") USD  
-            div.new-teaser-filters-pillows
-              div.new-teaser-filters-pillow(id="24h")
-                span.new-teaser-filters-pillow-text 24H
-              div.new-teaser-filters-pillow(id="7d")
-                span.new-teaser-filters-pillow-text 7-day
-              div.new-teaser-filters-pillow(id="30d")
-                span.new-teaser-filters-pillow-text 30-day
+          div.new-teaser-box.desktop
+            div.new-teaser-filters
+              div.new-teaser-filters-select
+                img#flagIcon(src="/img/flags/europe-icon.svg" alt="Country flag")
+                select#priceCurrencySelect.new-teaser-filters-select
+                  option(value="EUR") EUR
+                  option(value="CHF") CHF
+                  option(value="USD") USD  
+              div.new-teaser-filters-pillows
+                div.new-teaser-filters-pillow(id="24h")
+                  span.new-teaser-filters-pillow-text 24H
+                div.new-teaser-filters-pillow(id="7d")
+                  span.new-teaser-filters-pillow-text 7-day
+                div.new-teaser-filters-pillow(id="30d")
+                  span.new-teaser-filters-pillow-text 30-day
 
-          div.new-teaser-order-book
-            div.new-teaser-box-title
-              img(src="/img/home/bitcoin_icon.svg" alt="Bitcoin Icon")
-              span !{i18n('home.teaser.orderBookTitle', lang)}
-            span.new-teaser-price 0
+            div.new-teaser-order-book
+              div.new-teaser-box-title
+                img(src="/img/home/bitcoin_icon.svg" alt="Bitcoin Icon")
+                span !{i18n('home.teaser.orderBookTitle', lang)}
+              span.new-teaser-price 0
+
+            a.order-book-button(href="/kycfree-orderbook")
+              img(src="/img/home/show_chart.svg" alt="Show Chart Button")
+              span.order-book-button-text !{i18n('home.teaser.viewOrderBook', lang)}
+
+      div.new-teaser-image-container
+        img.bitcoin-image(src="/img/home/Bitcoin-3d.png" alt="Bitcoin 3d Image")
+        img.iphone-image(src="/img/home/iPhone_mockup.png" alt="Hero Image")
+
+      div.new-teaser-box.mobile
+        div.new-teaser-filters
+          div.new-teaser-filters-select
+            img#flagIcon(src="/img/flags/europe-icon.svg" alt="Country flag")
+            select#priceCurrencySelect.new-teaser-filters-select
+              option(value="EUR") EUR
+              option(value="CHF") CHF
+              option(value="USD") USD  
+          div.new-teaser-filters-pillows
+            div.new-teaser-filters-pillow(id="24h")
+              span.new-teaser-filters-pillow-text 24H
+            div.new-teaser-filters-pillow(id="7d")
+              span.new-teaser-filters-pillow-text 7-day
+            div.new-teaser-filters-pillow(id="30d")
+              span.new-teaser-filters-pillow-text 30-day
+
+        div.new-teaser-order-book
+          div.new-teaser-box-title
+            img(src="/img/home/bitcoin_icon.svg" alt="Bitcoin Icon")
+            span !{i18n('home.teaser.orderBookTitle', lang)}
+          span.new-teaser-price 0
 
           a.order-book-button(href="/kycfree-orderbook")
             img(src="/img/home/show_chart.svg" alt="Show Chart Button")
             span.order-book-button-text !{i18n('home.teaser.viewOrderBook', lang)}
-
-    div.new-teaser-image-container
-      img.bitcoin-image(src="/img/home/Bitcoin-3d.png" alt="Bitcoin 3d Image")
-      img.iphone-image(src="/img/home/iPhone_mockup.png" alt="Hero Image")
-      div.bg-radial
-
-    div.new-teaser-box.mobile
-      div.new-teaser-filters
-        div.new-teaser-filters-select
-          img#flagIcon(src="/img/flags/europe-icon.svg" alt="Country flag")
-          select#priceCurrencySelect.new-teaser-filters-select
-            option(value="EUR") EUR
-            option(value="CHF") CHF
-            option(value="USD") USD  
-        div.new-teaser-filters-pillows
-          div.new-teaser-filters-pillow(id="24h")
-            span.new-teaser-filters-pillow-text 24H
-          div.new-teaser-filters-pillow(id="7d")
-            span.new-teaser-filters-pillow-text 7-day
-          div.new-teaser-filters-pillow(id="30d")
-            span.new-teaser-filters-pillow-text 30-day
-
-      div.new-teaser-order-book
-        div.new-teaser-box-title
-          img(src="/img/home/bitcoin_icon.svg" alt="Bitcoin Icon")
-          span !{i18n('home.teaser.orderBookTitle', lang)}
-        span.new-teaser-price 0
-
-        a.order-book-button(href="/kycfree-orderbook")
-          img(src="/img/home/show_chart.svg" alt="Show Chart Button")
-          span.order-book-button-text !{i18n('home.teaser.viewOrderBook', lang)}
 
   script(type="text/javascript" src=assetPath("/js/priceData.js"))
 
@@ -152,54 +152,29 @@ block main
   script.
     document.addEventListener('DOMContentLoaded', () => {
       const featuresContainer = document.querySelector('.features-container');
-      let cards = document.querySelectorAll('.features-card');
-      let index = 0;
+      const cards = document.querySelectorAll('.features-card');
 
       function slide() {
-        index++;
-
-        if (index >= cards.length) {
-          cloneAndAppendCards();
-          scrollFeaturesContainer();
-          setTimeout(removeOldCards, 300);
-        } else {
-          scrollFeaturesContainer();
-        }
-      }
-
-      function cloneAndAppendCards() {
-        cards.forEach(card => {
-          const clone = card.cloneNode(true);
-          featuresContainer.appendChild(clone);
-        });
-        cards = document.querySelectorAll('.features-card');
-      }
-
-      function scrollFeaturesContainer() {
-        if (cards.length > 0) {
-          featuresContainer.scrollBy({
-            left: cards[0].offsetWidth,
+        const firstCard = featuresContainer.firstElementChild;
+        
+        if (featuresContainer.scrollLeft + featuresContainer.clientWidth >= featuresContainer.scrollWidth) {
+          featuresContainer.scrollTo({
+            left: 0,
             behavior: 'smooth',
           });
         } else {
-          console.error("No cards found!");
+          featuresContainer.scrollBy({
+            left: firstCard.offsetWidth,
+            behavior: 'smooth',
+          });
         }
       }
 
-      function removeOldCards() {
-        const oldCards = document.querySelectorAll('.features-card');
-        oldCards.forEach((card, i) => {
-          if (i < 3) card.remove();
-        });
-        cards = document.querySelectorAll('.features-card');
-        index = 0;
-      }
-
       if (window.innerWidth <= 739.99) {
-        setInterval(slide, 3000);
+        setInterval(slide, 5000);
       }
     });
-
+    
   section.wrap.top-section-container
     div.top-section-container-header
       h3.top-section-container-header-title.peach-text !{i18n('home.topSection.title', lang)}
