@@ -13,6 +13,10 @@
 #index {
   background: var(--color-white);
 
+  & .main {
+    padding-top: 0 !important;
+  }
+
   & .peach-text {
     background: var(--bg-gradient-peachy);
     -webkit-background-clip: text;
