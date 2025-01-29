@@ -34,15 +34,22 @@ Placing your first buy offer can be done in just a few seconds. You'll just need
 Here's the step by step of your first buy offer:
 
 :::figures 5
-![You'll first select how much you want to buy. This is always a range, and you'll be shown all sell offers available in that range.](/img/faq/quickstart/buy/BuyStep1.png)
+![You'll first select how much you want to buy. This is always a range, and you'll be shown all sell offers available in that range.](/img/faq/quickstart/buy/BuyOffer1.png)
 
-![You'll then need to tell us how you want to pay. If you want to know more about payment methods, you should [read this guide](#guide-4-adding-payment-methods). At the end, you can come right back here.](/img/faq/quickstart/buy/BuyStep2.png)
+![You'll then need to tell us how you want to pay. If you want to know more about payment methods, you should [read this guide](#guide-4-adding-payment-methods). At the end, you can come right back here.](/img/faq/quickstart/buy/BuyOffer2.png)
 
-![Note that you can select as many payment methods as you want, to increase your chances of a match!](/img/faq/quickstart/buy/BuyStep3.png)
+![Note that you can select as many payment methods as you want, to increase your chances of a match!](/img/faq/quickstart/buy/BuyOffer3.png)
 
-![After that, you'll see a quick summary, where you can check all the payment methods you selected and how much you're buying.](/img/faq/quickstart/buy/BuyStep4.png)
+![After that, you'll see a quick summary, where you can check all the payment methods you selected and how much you're buying.](/img/faq/quickstart/buy/BuyOffer4.png)
 
-![Your buy offer is now published! If there are sell offers available, you'll be shown them immediately. If not, you'll need to wait for a while.](/img/faq/quickstart/buy/BuyStep5.png)
+![Your buy offer is now published! If there are sell offers available, you'll be shown them immediately. If not, you'll need to wait for a while.](/img/faq/quickstart/buy/BuyOffer5.png)
+
+![](/img/faq/quickstart/buy/BuyOffer6.png)
+
+![](/img/faq/quickstart/buy/BuyOffer7.png)
+
+![](/img/faq/quickstart/buy/BuyOffer8.png)
+
 :::
 
 ### Matching a seller
@@ -52,17 +59,17 @@ After publishing your buy offer, you'll be shown all the sell offers that fall w
 ![Match Card](/img/faq/quickstart/buy/MatchCardExplainer.png)
 
 :::figures 2
-![When you've selected the currency and payment method you want to use for this trade (if you have more than one in common), you can match the offer.](/img/faq/quickstart/buy/BuyStep6.png)
+![When you've selected the currency and payment method you want to use for this trade (if you have more than one in common), you can match the offer.](/img/faq/quickstart/matchseller/MatchSeller1.png)
 
-![You'll get five seconds to undo if you change your mind. After that, the seller will be notified of their match, and unmatching now is considered a dick move (your Peach Score will be hurt)](/img/faq/quickstart/buy/BuyStep7.png)
+![You'll get five seconds to undo if you change your mind. After that, the seller will be notified of their match, and unmatching now is considered a dick move (your Peach Score will be hurt)](/img/faq/quickstart/matchseller/MatchSeller2.png)
 :::
 
 ### Making the trade
 
 :::figures 2
-![If the seller matches you back, you'll be notified & shown their payment details. You should go to your payment app and manually make the payment there. After that, you confirm that you did with the slider at the bottom, and you wait for the seller to respond (you can chit-chat in the meantime).](/img/faq/quickstart/buy/BuyStep8.png)
+![If the seller matches you back, you'll be notified & shown their payment details. You should go to your payment app and manually make the payment there. After that, you confirm that you did with the slider at the bottom, and you wait for the seller to respond (you can chit-chat in the meantime).](/img/faq/quickstart/matchseller/MatchSeller3.png)
 
-![Once the seller confirms, the deed is done! The bitcoin amount will be sent to your wallet and you can give eachother a rating. (Assuming everything went well, of course.)](/img/faq/quickstart/buy/BuyStep9.png)
+![Once the seller confirms, the deed is done! The bitcoin amount will be sent to your wallet and you can give eachother a rating. (Assuming everything went well, of course.)](/img/faq/quickstart/matchseller/MatchSeller4.png)
 :::
 
 ## Guide 3: Your first sell offer
@@ -87,22 +94,28 @@ Here's the step by step of your first sell offer:
 ![The last step before your sell offer is published is to fund the escrow to secure the trade. You'll send the bitcoin to this address from the wallet that you have it in right now.](/img/faq/quickstart/sell/SellStep06.png)
 
 ![And that's it! After the bitcoin network has confirmed the transaction, your sell offer is published and waiting for a match.](/img/faq/quickstart/sell/SellStep07.png)
+
+![](/img/faq/quickstart/sell/SellStep08.png)
 :::
 
 ### Matching a buyer back
 
 After publishing your sell offer, it will be shown to all the buyers that have at least one currency and payment method in common, and that want to buy the amount you're selling. If someone matches your offer, you'll get a notification, and you can match them back (or wait for more matches):
 
-![Match Card](/img/faq/quickstart/sell/MatchCardExplainer.png)
+![Match Card](/img/faq/quickstart/sell/MatchCardExplainer1.png)
 
 ### Making the trade
 
 :::figures 3
-![After you've selected a match, the trade is officially made. You'll get to see from where the buyer will be making the payment, and for how much. You can also chat with your buyer should you have any questions.](/img/faq/quickstart/sell/SellStep08.png)
+![After you've selected a match, the trade is officially made. You'll get to see from where the buyer will be making the payment, and for how much. You can also chat with your buyer should you have any questions.](/img/faq/quickstart/sell/MakingTheTrade1.png)
 
-![Once the buyer has made the payment, you should check the relevant payment account to see if you received it. If you did, you can confirm it here. Once you've confirmed you received the payment, the bitcoin will be sent to the buyer.](/img/faq/quickstart/sell/SellStep09.png)
+![Once the buyer has made the payment, you should check the relevant payment account to see if you received it. If you did, you can confirm it here. Once you've confirmed you received the payment, the bitcoin will be sent to the buyer.](/img/faq/quickstart/sell/MakingTheTrade2.png)
+:::
 
-![And that's it! The bitcoin amount will be sent to the buyer and you can give eachother a rating. (Assuming everything went well, of course.](/img/faq/quickstart/sell/SellStep10.png)
+:::figures 3
+![And that's it! The bitcoin amount will be sent to the buyer and you can give eachother a rating. Assuming everything went well, of course.](/img/faq/quickstart/sell/MakingTheTrade3.png)
+
+![Once the buyer has made the payment](/img/faq/quickstart/sell/MakingTheTrade4.png)
 :::
 
 ## Guide 4: Adding payment methods
@@ -121,6 +134,3 @@ When you make a buy or sell offer in Peach, you'll need to let your counterparty
 ![All you have to do here is fill in your details. You can also indicate if your wallet can receive any additional currencies.](/img/faq/quickstart/add-payment-method/AddPM05.png)
 
 ![Once done, you press confirm, and…](/img/faq/quickstart/add-payment-method/AddPM06.png)
-
-![presto! You've added your first payment method. Add and select as many as you want to increase your chances of finding a match.](/img/faq/quickstart/add-payment-method/AddPM07.png)
-:::
