@@ -112,11 +112,14 @@ After publishing your sell offer, it will be shown to all the buyers that have a
 ![Once the buyer has made the payment, you should check the relevant payment account to see if you received it. If you did, you can confirm it here. Once you've confirmed you received the payment, the bitcoin will be sent to the buyer.](/img/faq/quickstart/sell/MakingTheTrade2.png)
 :::
 
+<br><br>
+
 :::figures 4
 ![And that's it! The bitcoin amount will be sent to the buyer and you can give eachother a rating. (Assuming everything went well, of course.](/img/faq/quickstart/sell/MakingTheTrade3.png)
 
 ![](/img/faq/quickstart/sell/MakingTheTrade4.png)
 :::
+
 ## Guide 4: Adding payment methods
 
 When you make a buy or sell offer in Peach, you'll need to let your counterparty know how you'll pay, or want to be paid.
