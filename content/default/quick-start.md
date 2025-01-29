@@ -44,6 +44,12 @@ Here's the step by step of your first buy offer:
 
 ![Your buy offer is now published! If there are sell offers available, you'll be shown them immediately. If not, you'll need to wait for a while.](/img/faq/quickstart/buy/BuyOffer5.png)
 
+![](/img/faq/quickstart/buy/BuyOffer6.png)
+
+![](/img/faq/quickstart/buy/BuyOffer7.png)
+
+![](/img/faq/quickstart/buy/BuyOffer8.png)
+
 :::
 
 ### Matching a seller
