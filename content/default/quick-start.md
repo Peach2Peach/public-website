@@ -113,7 +113,7 @@ After publishing your sell offer, it will be shown to all the buyers that have a
 
 ![And that's it! The bitcoin amount will be sent to the buyer and you can give eachother a rating. (Assuming everything went well, of course.](/img/faq/quickstart/sell/MakingTheTrade3.png)
 
-![]((/img/faq/quickstart/sell/MakingTheTrade4.png))
+![](/img/faq/quickstart/sell/MakingTheTrade4.png)
 :::
 
 ## Guide 4: Adding payment methods
