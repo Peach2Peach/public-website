@@ -65,5 +65,11 @@ Pour éviter cette situation, veillez à fixer vos commissions à un niveau suff
 Si vous craignez qu'une transaction soit éliminée, vous pouvez augmenter vos commissions en utilisant RBF ou CPFP selon la situation.
 
 Pour en savoir plus sur la manière d'accélérer les transactions, regardez notre vidéo Youtube pour apprendre à faire un CPFP à partir de Peach : https://www.youtube.com/watch?v=24OtQkL0CxU
+:::
 
+:::Comment fonctionne le système de récompense de parrainage?
+
+Nous vous payons 21% des frais générés par les 5 premières transactions effectuées par votre utilisateur parrainé (notez que nos frais pour la première transaction seront de 0% puis de 2%). Tous les 40 points, vous obtenez 1 sat.  
+Vous devez en faire la demande manuellement via un ticket ou par courrier, car le paiement automatique n'est pas encore mis en place.  
+Nous pouvons payer sur le réseau Lightning ou onchain.
 :::

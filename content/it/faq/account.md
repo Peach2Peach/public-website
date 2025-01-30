@@ -75,5 +75,11 @@ Per evitare questa situazione, assicuratevi di aver impostato le commissioni a u
 Se si teme che una transazione venga eliminata, è possibile aumentare le commissioni utilizzando RBF o CPFP, a seconda della situazione.
 
 Per saperne di più su come accelerare le transazioni, guardate il nostro video su Youtube per imparare a fare un CPFP da Peach: https://www.youtube.com/watch?v=24OtQkL0CxU
+:::
 
+:::Come funziona il sistema di ricompensa per i referral? 
+
+Ti paghiamo il 21% della commissione generata dalle prime 5 operazioni effettuate dall'utente che hai segnalato (tieni presente che la nostra commissione per la prima operazione sarà dello 0% e poi del 2%). Ogni 40 punti ottieni 1 sat.  
+Devi richiederlo manualmente tramite un ticket o per posta, poiché il pagamento automatico non è ancora implementato.  
+Possiamo effettuare pagamenti su lightning network o onchain.
 :::

@@ -76,3 +76,10 @@ Om meer te weten te komen over hoe je transacties kunt versnellen, bekijk onze Y
 
 Peach is een 100% compliant bedrijf. We zijn een gelieerde Zwitserse financiële tussenpersoon en ons nalevingskader staat KYC-loze gelduitwisselingstransacties toe onder bepaalde drempels.
 :::
+
+:::Hoe werkt het referral beloningssysteem?  
+
+We betalen u 21% van de kosten die worden gegenereerd door de eerste 5 transacties die door de door u doorverwezen gebruiker worden gedaan (houd er rekening mee dat onze vergoeding voor de eerste transactie 0% is en vervolgens 2%). Elke 40 punten krijg je 1 sat.  
+Je moet het handmatig aanvragen via een ticket of per mail, aangezien de automatische uitbetaling nog niet is geïmplementeerd.  
+We kunnen uitbetalen op een lightning network of onchain.
+:::

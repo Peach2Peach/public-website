@@ -80,3 +80,10 @@ A Peach egy 100%-ban megfelelőségi követelményeknek megfelelő cég. Egy sv�
 
 akciókat bizonyos küszöbértékek alatt.
 :::
+
+:::Hogyan működik az ajánlási jutalmazási rendszer?
+
+Az Ön által hivatkozott felhasználó által végrehajtott első 5 kereskedés díjának 21%-át fizetjük Önnek (vegye figyelembe, hogy az első kereskedés díja 0%, majd 2% lesz). Minden 40 pontért 1 sat-ot kapsz.  
+Ezt manuálisan kell kérnie jegyen keresztül vagy postai úton, mivel az automatikus kifizetés még nincs megvalósítva.  
+Fizethetünk villámhálózaton vagy onchain-en.
+:::

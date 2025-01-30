@@ -77,3 +77,10 @@ Si teme que una operación sea eliminada, puede aumentar sus comisiones utilizan
 Para saber más sobre cómo acelerar transacciones, eche un vistazo a nuestro vídeo de Youtube para aprender a hacer un CPFP desde Peach: https://www.youtube.com/watch?v=24OtQkL0CxU
 
 :::
+
+
+:::¿Cómo funciona el sistema de recompensas por recomendación?
+
+Le pagamos el 21% de la tarifa generada por las primeras 5 operaciones realizadas por su usuario referido (tenga en cuenta que nuestra tarifa para la primera operación será del 0% y luego del 2%). Cada 40 puntos obtienes 1 sat.  
+Tienes que solicitarlo manualmente a través de un ticket o por correo, ya que el pago automático aún no está implementado. Podemos pagar en la red Lightning o en la cadena.
+:::
