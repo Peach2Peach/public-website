@@ -51,9 +51,13 @@ Lorsque vous créez un compte Peach, vous recevez automatiquement un code de par
 
 - Un code de parrainage personnalisé (100 points)
 - 5 fois de trading sans payer de frais Peach (200 points)
-- Convertir vos points en sats (à partir de 300 points, 25 sats par point)
+- Convertir vos points en sats (à partir de 300 points)
 
-Lorsque quelqu'un utilise votre code de parrainage, cette personne reçoit un cadeau de 100 points Peach !
+si vous choisissez le dernier, nous vous payons 21% des frais générés par les 5 premières transactions effectuées par votre utilisateur parrainé (notez que nos frais pour la première transaction seront de 0% puis de 2%). Tous les 40 points, vous obtenez 1 sat.  
+Vous devez en faire la demande manuellement via un ticket ou par courrier, car le paiement automatique n'est pas encore mis en place.  
+Nous pouvons payer sur le réseau Lightning ou onchain.
+
+Lorsque quelqu'un utilise votre code de parrainage, cette personne reçoit un cadeau de 100 points Peach et un libre-échange!
 :::
 
 :::details Pourquoi ma transaction a-t-elle disparu de mon portefeuille ?
@@ -65,5 +69,4 @@ Pour éviter cette situation, veillez à fixer vos commissions à un niveau suff
 Si vous craignez qu'une transaction soit éliminée, vous pouvez augmenter vos commissions en utilisant RBF ou CPFP selon la situation.
 
 Pour en savoir plus sur la manière d'accélérer les transactions, regardez notre vidéo Youtube pour apprendre à faire un CPFP à partir de Peach : https://www.youtube.com/watch?v=24OtQkL0CxU
-
 :::

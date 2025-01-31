@@ -51,7 +51,11 @@ Wenn du ein Peach-Account erstellst erhälst du automatisch einen Empfehlungscod
 
 - Ein benutzerdefinierter Empfehlungscode (100 Punkte)
 - 5 Gratis Trades (200 Punkte)
-- Wandle deine Punkte in Sats um (ab 300 Punkten, 25 Sats pro Punkt)
+- Wandle deine Punkte in Sats um (ab 300 Punkten)
+
+Wenn Sie sich für die letzte Option entscheiden, wir zahlen Ihnen 21% der Gebühr, die durch die ersten 5 Trades Ihres geworbenen Benutzers generiert wird (beachten Sie, dass unsere Gebühr für den ersten Trade 0% und dann 2% beträgt). Alle 40 Punkte bekommst du 1 Sat.  
+Diese müssen Sie manuell über ein Ticket oder per Mail anfordern, da die automatische Auszahlung noch nicht implementiert ist.  
+Wir können über Lightning Network oder Onchain auszahlen.
 
 Wenn jemand deinen Empfehlungscode verwendet, schenkt diese Person zunächst selbst 100 Peach-Punkte!
 :::
@@ -75,5 +79,4 @@ Um diese Situation zu vermeiden, stelle sicher, dass du deine Gebühren in ausre
 Wenn du befürchtest, dass eine Transaktion gelöscht wird, kannst du die Gebühren je nach Situation durch die Verwendung von RBF oder CPFP anheben.
 
 Wenn du mehr darüber erfahren möchtest, wie du Transaktionen beschleunigen kannst, sehe dir unser Youtube-Video an, in dem Peach erklärt, wie man eine CPFP durchführt: https://www.youtube.com/watch?v=24OtQkL0CxU
-
 :::

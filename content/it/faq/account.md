@@ -51,7 +51,11 @@ Quando crei un account Peach, riceverai automaticamente un codice di affiliazion
 
 - Un codice di affiliazione personalizzato (100 punti)
 - 5 scambi senza pagare commissioni a Peach (200 punti)
-- Convertire i tuoi punti in sats (a partire da 300 punti, 25 sats per punto)
+- Convertire i tuoi punti in sats (a partire da 300 punti)
+
+Se scegli la ultima opzione, ti paghiamo il 21% della commissione generata dalle prime 5 operazioni effettuate dall'utente che hai segnalato (tieni presente che la nostra commissione per la prima operazione sarà dello 0% e poi del 2%). Ogni 40 punti ottieni 1 sat.  
+Devi richiederlo manualmente tramite un ticket o per posta, poiché il pagamento automatico non è ancora implementato.  
+Possiamo effettuare pagamenti su lightning network o onchain.
 
 Quando qualcuno utilizza il tuo codice di affiliazione, quella persona riceve un regalo di 100 punti Peach!
 :::
@@ -75,5 +79,5 @@ Per evitare questa situazione, assicuratevi di aver impostato le commissioni a u
 Se si teme che una transazione venga eliminata, è possibile aumentare le commissioni utilizzando RBF o CPFP, a seconda della situazione.
 
 Per saperne di più su come accelerare le transazioni, guardate il nostro video su Youtube per imparare a fare un CPFP da Peach: https://www.youtube.com/watch?v=24OtQkL0CxU
-
 :::
+
