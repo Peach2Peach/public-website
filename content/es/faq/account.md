@@ -51,9 +51,12 @@ Cuando creas una cuenta de Peach, automáticamente recibirás un código de refe
 
 - Un código de referido personalizado (100 puntos)
 - 5x intercambios sin pagar comisión (200 puntos)
-- ¡Convierte tus puntos en sats! (empezando a partir de 300 puntos, 25 sats por punto)
+- ¡Convierte tus puntos en sats! (empezando a partir de 300 puntos)
 
-Cuando alguien use tu código de referido, esa persona empieza con un regalo de 100 puntos de Peach.
+Si seleciona la ultima opcion, le pagamos el 21% de la tarifa generada por las primeras 5 operaciones realizadas por su usuario referido (tenga en cuenta que nuestra tarifa para la primera operación será del 0% y luego del 2%). Cada 40 puntos obtienes 1 sat.  
+Tienes que solicitarlo manualmente a través de un ticket o por correo, ya que el pago automático aún no está implementado. Podemos pagar en la red Lightning o en la cadena.
+
+Cuando alguien use tu código de referido, esa persona empieza con un regalo de 100 puntos de Peach y una compraventa gratuita.
 :::
 
 :::details ¿Por qué puedo comprar sin KYC (CSC; Conozca Su Cliente) en Peach?
@@ -75,12 +78,4 @@ Para evitar esta situación, asegúrate de fijar tus comisiones a un nivel sufic
 Si teme que una operación sea eliminada, puede aumentar sus comisiones utilizando RBF o CPFP dependiendo de la situación.
 
 Para saber más sobre cómo acelerar transacciones, eche un vistazo a nuestro vídeo de Youtube para aprender a hacer un CPFP desde Peach: https://www.youtube.com/watch?v=24OtQkL0CxU
-
-:::
-
-
-:::¿Cómo funciona el sistema de recompensas por recomendación?
-
-Le pagamos el 21% de la tarifa generada por las primeras 5 operaciones realizadas por su usuario referido (tenga en cuenta que nuestra tarifa para la primera operación será del 0% y luego del 2%). Cada 40 puntos obtienes 1 sat.  
-Tienes que solicitarlo manualmente a través de un ticket o por correo, ya que el pago automático aún no está implementado. Podemos pagar en la red Lightning o en la cadena.
 :::

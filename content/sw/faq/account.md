@@ -51,7 +51,11 @@ Unapounda akaunti ya Peach, utapata moja kwa moja nambari yako ya rufaa. Watu we
 
 - Nambari ya rufaa ya kipekee (alama 100)
 - Biashara 5x bila kulipa ada yoyote ya Peach (alama 200)
-- Badilisha alama zako kuwa Satoshi (kuanzia alama 300, Satoshi 10.5 kwa alama)
+- Badilisha alama zako kuwa Satoshi (kuanzia alama 300)
+
+Ukichagua wa mwisho, tunakulipa 21% ya ada inayotokana na biashara 5 za kwanza zilizofanywa na mtumiaji wako aliyetajwa (kumbuka kuwa ada yetu ya biashara ya kwanza itakuwa 0% na kisha 2%). Kila pointi 40 unapata 1 kukaa.  
+Lazima uombe kwa mikono kupitia tiketi au kwa barua, kwani malipo ya moja kwa moja hayajatekelezwa bado.  
+Tunaweza kulipa kwenye mtandao wa umeme au onchain. 
 
 Mtu anapotumia nambari yako ya rufaa, mtu huyo anaanza na zawadi ya alama 100 za Peach pia!
 :::
@@ -66,9 +70,3 @@ Alama ya Peach ni sifa yako kwenye Peach. Inategemea kiwango cha mtumiaji (kutaz
 Peach ni kampuni ya kuzingatia kanuni kabisa. Sisi ni wakala wa kifedha wa Uswisi na mfumo wetu wa kuzingatia kanuni unaruhusu shughuli za kubadilishana pesa bila KYC chini ya vigezo fulani.
 :::
 
-::: Mfumo wa malipo ya rufaa hufanyaje kazi?  
-
-Tunakulipa 21% ya ada inayotokana na biashara 5 za kwanza zilizofanywa na mtumiaji wako aliyetajwa (kumbuka kuwa ada yetu ya biashara ya kwanza itakuwa 0% na kisha 2%). Kila pointi 40 unapata 1 kukaa.  
-Lazima uombe kwa mikono kupitia tiketi au kwa barua, kwani malipo ya moja kwa moja hayajatekelezwa bado.  
-Tunaweza kulipa kwenye mtandao wa umeme au onchain. 
-:::

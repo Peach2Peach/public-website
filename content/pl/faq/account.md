@@ -51,7 +51,11 @@ Gdy założysz konto Peach, automatycznie otrzymasz kod polecający. Gdy inni go
 
 - Indywidualny kod polecający (100 punktów)
 - 5x handel bez płacenia opłat Peach (200 punktów)
-- Zamień swoje punkty na satoshi (zacznij od 300 punktów, 10,5 satoshi za punkt)
+- Zamień swoje punkty na satoshi (zacznij od 300 punktów)
+
+Jeśli wybierzesz ostatnią z nich, płacimy Ci 21% opłaty wygenerowanej przez pierwsze 5 transakcji dokonanych przez poleconego przez Ciebie użytkownika (pamiętaj, że nasza opłata za pierwszą transakcję wyniesie 0%, a następnie 2%). Za każde 40 punktów otrzymujesz 1 sob.  
+Musisz poprosić o to ręcznie za pomocą biletu lub pocztą, ponieważ automatyczna wypłata nie jest jeszcze zaimplementowana.  
+Możemy wypłacić pieniądze na Lightning Network lub onchain. 
 
 Gdy ktoś użyje Twojego kodu polecającego, ta osoba zaczyna również z bonusem 100 punktów Peach!
 :::
@@ -75,11 +79,4 @@ Aby dowiedzieć się więcej o przyspieszaniu transakcji, zobacz nasz film na Yo
 :::details Dlaczego mogę legalnie kupować bez KYC?
 
 Peach to firma w 100% zgodna z przepisami. Jesteśmy powiązanym szwajcarskim pośrednikiem finansowym, a nasz system zgodności pozwala na transakcje wymiany pieniędzy bez KYC poniżej określonych progów.
-:::
-
-:::Jak działa system nagród za polecenia? 
-
-Płacimy Ci 21% opłaty wygenerowanej przez pierwsze 5 transakcji dokonanych przez poleconego przez Ciebie użytkownika (pamiętaj, że nasza opłata za pierwszą transakcję wyniesie 0%, a następnie 2%). Za każde 40 punktów otrzymujesz 1 sob.  
-Musisz poprosić o to ręcznie za pomocą biletu lub pocztą, ponieważ automatyczna wypłata nie jest jeszcze zaimplementowana.  
-Możemy wypłacić pieniądze na Lightning Network lub onchain. 
 :::

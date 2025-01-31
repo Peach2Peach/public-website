@@ -51,7 +51,11 @@ Quando você cria uma conta Peach, automaticamente recebe um código de indicaç
 
 - Um código de indicação personalizado (100 pontos)
 - 5 negociações sem pagar taxas Peach (200 pontos)
-- Converter seus pontos em sats (a partir de 300 pontos, 10,5 sats por ponto)
+- Converter seus pontos em sats (a partir de 300 pontos)
+
+se escolher a última, pagamos-lhe 21% da taxa gerada pelas primeiras 5 negociações feitas pelo seu utilizador indicado (note que a nossa taxa para a primeira negociação será de 0% e depois de 2%). A cada 40 pontos você ganha 1 sáb.  
+Tem de solicitá-lo manualmente através de um bilhete ou por correio, uma vez que o pagamento automático ainda não está implementado.  
+Podemos pagar na lightning network ou onchain.
 
 Quando alguém usa seu código de indicação, essa pessoa começa com um presente de 100 pontos Peach!
 :::
@@ -73,11 +77,4 @@ Para saber mais sobre como acelerar transações, assista ao nosso vídeo no You
 :::details Por que posso comprar legalmente sem KYC?
 
 A Peach é uma empresa 100% em conformidade. Somos um intermediário financeiro suíço afiliado e nosso sistema de conformidade permite transações de câmbio de dinheiro sem KYC em determinados limites.
-:::
-
-:::Como funciona o sistema de recompensa por referência? 
-
-Pagamos-lhe 21% da taxa gerada pelas primeiras 5 negociações feitas pelo seu utilizador indicado (note que a nossa taxa para a primeira negociação será de 0% e depois de 2%). A cada 40 pontos você ganha 1 sáb.  
-Tem de solicitá-lo manualmente através de um bilhete ou por correio, uma vez que o pagamento automático ainda não está implementado.  
-Podemos pagar na lightning network ou onchain.
 :::
