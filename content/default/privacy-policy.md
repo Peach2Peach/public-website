@@ -4,7 +4,7 @@ template: text
 
 # Privacy Policy
 
-This privacy policy was last updated on **Dec 19th, 2023**
+This privacy policy was last updated on **Feb 3rd, 2025**
 
 ## 0. Summary
 
@@ -12,9 +12,11 @@ This summary is not intended to replace the privacy policy, but merely to summar
 
 We think privacy is very important, and should be the default state for any app. We also want to make privacy accessible for everyone through an easy-to-use app. In some cases though, collecting data about the use of our app is highly valuable, or hard to avoid. Where we collect your data, we strive to clearly inform you and make it opt-in where possible.
 
-**All your sensitive personal data is stored on your phone**, and when making a match only the relevant data for the trade is sent to your counterparty via an end-to-end encrypted channel. As such, we cannot see your payment information. We do check the hash (the encrypted version) of this data, so that we can enforce the 1000CHF trading limit set by Swiss regulation and effectively ban scammers from our platform. But, again, without actually knowing the information itself.
+**All your sensitive personal data is stored on your phone**, and when making a match only the relevant data for the trade is sent to your counterparty via an end-to-end encrypted channel. As such, we cannot see your payment information. We do check the hash (the encrypted version) of this data, so that we can enforce the no-KYC trading limit set by Swiss regulation and effectively ban scammers from our platform. But, again, without actually knowing the information itself.
 
-Having data about how our app is used is very valuable for improving it. Sharing this data is always opt-in. **The analytics data does not contain personally identifiable information** (see section 3.4 for specifics) and is collected via Firebase and Google Analytics (yes, we know...)
+Having data about how our app is used is very valuable for improving it. Sharing this data is always opt-in and is collected via Firebase crashlytics to help fixing bugs. 
+
+For the website we use Google Analytics (yes, we know...) but **The analytics data does not contain personally identifiable information** (see section 3.1 for specifics).
 
 ## 1. Introduction
 
@@ -41,7 +43,7 @@ You must read this Privacy Policy together with any other privacy notice or fair
 
 ## 2. General
 
-If you choose to use our products and services, then you agree to the collection and use of information as described this policy. As we think privacy is very important, we strive to collect as little data about you as we can, though we need to collect some data to make our services work. We will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use our products and services, then you agree to the collection and use of information as described by this policy. As we think privacy is very important, we strive to collect as little data about you as we can, though we need to collect some data to make our services work. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 Some parts of our code are Open Source under the MIT licenses. They include the Peach App frontend (MIT-CC) and GroupHug.
 
@@ -79,32 +81,25 @@ To be able to make use of Peach you will enter information relating to the trade
 - the amount of sats you want to buy or sell
 - the payment method(s) you want to use
 - the currencies you want to use
-- the premium at which you want to sell
+- the premium at which you want to buy or sell
 
 2. #### Information available only to the counterparty (except in case of a dispute, see 4.3)
 
 - the details of your payment methods (e.g. IBAN, email address)
 - chat messages
+- the escrow address where the Seller deposits the bitcoin to be sold
 
 3. #### Information available to Peach
 
-- the bitcoin address you want to receive the bitcoin on
+- the bitcoin address where the Buyer wants to receive the bitcoin on
+- the escrow address where the Seller deposits the bitcoin to be sold
+
 
 ### 3.4 Optionally shared data
 
-#### Usage data
-
-Having data about how our app is used is very useful in improving the user experience; but this is always an **opt-in** feature. The data is collected in Google Firebase & Google Analytics. **You can toggle sharing usage data on/off in Settings > About Peach > Diagnostics**. The following data is shared when you opt-in:
-
-- Technical device stats, like your OS and screen size
-- Demographics information, like your country
-- The version of the app you're using
-- Which screens have been viewed
-- Conversion information like the amounts that are being sold and which currencies and payment methods are being used
-
 #### Crash reports
 
-When the Peach app detects that the app has run into an unexpected issue, a crash report is generated. You will be prompted to decide whether or not you would like to share this crash report to the Peach team. The Peach team can use this crash report to find the root cause and improve the software to avoid this problem occurring in the future. The following information is included in a crash report:
+When the Peach app detects that the app has run into an unexpected issue, a crash report is generated. but this is always an **opt-in** feature. The Peach team can use this crash report to find the root cause and improve the software to avoid this problem occurring in the future. The following information is included in a crash report:
 
 - App logs (these do not contain personal information, but can contain trade IDs)
 - The version of the app you're using
@@ -132,7 +127,7 @@ We share your information with the following parties:
 
 - #### The public
 
-  Some of your information is publically available to anyone with a Peach account while making use of our matchmaking service. See section 3.3 for more information.
+  Some of your information is publically available to anyone with a Peach account while making use of our matchmaking service. See section 3.3.1 for more information.
 
 - #### Your counterparty
 
@@ -140,25 +135,29 @@ We share your information with the following parties:
 
   Peach User data passes through the Peach server encrypted. This includes your payment details and the chat between you and your trading partner.
 
+  See section 3.3.2 for the information shared with the counterparty.
+
 - #### Service providers
 
   We do not sell your information, and never will. We only share your data with third parties to help use, provide and improve our Services. We strictly limit how our partners can use and disclose the data we provide. We share your data with the following parties:
 
-  - **ProtonMail**: For our email communications we use "ProtonMail". We may share your email and nickname with this service.
-  - **Zammad**: For customer support we use "Zammad". We may share your email address with this service.
-  - **Sendinblue**: For marketing emails and registering early access users, we use "Sendinblue". We may share your email address with this service.
+  - **ProtonMail**: For our email communications we use "ProtonMail". We may share your email and nickname with this service. If your email does not support PGP email encryption, the content of the emails will be shared as well.
+  - **Zammad**: For customer support we use "Zammad". We may share your email address with this service and all the private shared content such as Peach id, trade id or offer if.
+  - **Telegram**: We also provide support on Telegram, if you contact us by private message on this channel, your nickname and message content will be share with Telegram, unless you choose to contact us by "Secret chat". 
+  - **Discord**: We also provide support on Discord, if you contact us by private message on this channel, your nickname and message content will be share with Discord. 
+  - **Brevo**: For marketing emails and registering early access users, we use "Brevo". We may share your email address with this service.
   - **Firebase** (opt-in): To monitor for and fix crashes, we give you the option to send a crash report after a crash. In case you choose to send this report, we use the "Firebase" service to collect and analyze the crash logs. You can find what information is collected [here](https://firebase.google.com/support/privacy/#examples-end-user-data-processed-by-firebase); we use Firebase Cloud Messaging and Firebase Crashlytics.
-  - **Firebase & Google Analytics** (opt-in): When you allow Peach to send usage data, we use "Firebase" & "Google Analytics" service to collect the data we use in behavioral statistics. Your IP address may be included in the data provided to Firebase.
   - **Cloudflare**: Our servers connect to cloudflare for DDoS protection and security.
   - **Blockstream**: By default the Peach wallet connects to Blockstream’s public electrum server. The wallet won’t request addresses from their server until the wallet tab is being accessed. This setting can also be changed under _settings > use your own node_.
+    - **Google Analytics**: If you visit our website, we use Google Analytics to collect anonymous visitors statistic and they are not linked to your Peach id.
 
 ### 4.3 Disputes
 
-When a dispute is opened, the party that opened the dispute will share their digital signature with Peach, allowing the mediator to decrypt the communication between the Buyer and the Seller. Peach gains access to your conversation and all other information required, including the payment details for the disputed contract by Peach to resolve the dispute for as long as the Dispute takes.
+When a dispute is opened, the party that opened the dispute will share their digital signature with Peach, allowing the mediator to decrypt the communication between the Buyer and the Seller. Peach gains access to your conversation and all other information required, including the payment details for the disputed contract by Peach to resolve the dispute.
 
 You will also be obliged to provide us with any proof to support your dispute claim such as account statements, payment details, ID etc. relative to the disputed trade. Any information which may be required for dispute resolution will be documented in the dispute.
 
-Once a dispute is logged, a hash of the IP and other data will temporarily be stored for as long as the dispute is open. When an arbitrator regards the behavior of one of both parties as an attempt to defraud the counterparty, or as showing unwanted behavior, the dispute might result in a ban for the offending user. To this end a hash of the device ID and payment method data will be stored, in order to avoid the possibility of the banned user to create another account. This hash is a reference to the data, but not the data itself. It allows the system to flag users using the same data, without knowing the actual data itself.
+Once a dispute is logged, a hash of the IP and other data will be stored. When an arbitrator regards the behavior of one of both parties as an attempt to defraud the counterparty, or as showing unwanted behavior, the dispute might result in a ban for the offending user. To this end a hash of the device ID and payment method data will be stored, in order to avoid the possibility of the banned user to create another account. This hash is a reference to the data, but not the data itself. It allows the system to flag users using the same data, without knowing the actual data itself.
 
 ## 5. Security
 
