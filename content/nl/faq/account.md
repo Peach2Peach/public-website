@@ -53,7 +53,7 @@ Wanneer je een Peach-account maakt, krijg je automatisch een verwijzingscode. Wa
 - 5x handelen zonder Peach-kosten te betalen (200 punten)
 - Converteer je punten naar sats (beginnend bij 300 punten)
 
-Als je voor het laatste kiest, we betalen u 21% van de kosten die worden gegenereerd door de eerste 5 transacties die door de door u doorverwezen gebruiker worden gedaan (houd er rekening mee dat onze vergoeding voor de eerste transactie 0% is en vervolgens 2%). Elke 1 punten krijg je 40 sat.  
+Als je voor het laatste kiest, we betalen u 21% van de kosten die worden gegenereerd door de eerste 5 transacties die door de door u doorverwezen gebruiker worden gedaan (houd er rekening mee dat onze vergoeding voor de eerste transactie 0% is en vervolgens 2%). Elke 1 punten krijg je 42 sat.  
 Je moet het handmatig aanvragen via een ticket of per mail, aangezien de automatische uitbetaling nog niet is geïmplementeerd.  
 We kunnen uitbetalen op een lightning network of onchain.
 

@@ -53,7 +53,7 @@ Cuando creas una cuenta de Peach, automáticamente recibirás un código de refe
 - 5x intercambios sin pagar comisión (200 puntos)
 - ¡Convierte tus puntos en sats! (empezando a partir de 300 puntos)
 
-Si seleciona la ultima opcion, le pagamos el 21% de la tarifa generada por las primeras 5 operaciones realizadas por su usuario referido (tenga en cuenta que nuestra tarifa para la primera operación será del 0% y luego del 2%). Cada punto obtienes 40 sats.  
+Si seleciona la ultima opcion, le pagamos el 21% de la tarifa generada por las primeras 5 operaciones realizadas por su usuario referido (tenga en cuenta que nuestra tarifa para la primera operación será del 0% y luego del 2%). Cada punto obtienes 42 sats.  
 Tienes que solicitarlo manualmente a través de un ticket o por correo, ya que el pago automático aún no está implementado. Podemos pagar en la red Lightning o en la cadena.
 
 Cuando alguien use tu código de referido, esa persona empieza con un regalo de 100 puntos de Peach y una compraventa gratuita.

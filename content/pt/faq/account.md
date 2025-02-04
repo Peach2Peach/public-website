@@ -53,7 +53,7 @@ Quando você cria uma conta Peach, automaticamente recebe um código de indicaç
 - 5 negociações sem pagar taxas Peach (200 pontos)
 - Converter seus pontos em sats (a partir de 300 pontos)
 
-se escolher a última, pagamos-lhe 21% da taxa gerada pelas primeiras 5 negociações feitas pelo seu utilizador indicado (note que a nossa taxa para a primeira negociação será de 0% e depois de 2%). A cada 1 ponto você ganha 40 sáb.  
+se escolher a última, pagamos-lhe 21% da taxa gerada pelas primeiras 5 negociações feitas pelo seu utilizador indicado (note que a nossa taxa para a primeira negociação será de 0% e depois de 2%). A cada 1 ponto você ganha 42 sáb.  
 Tem de solicitá-lo manualmente através de um bilhete ou por correio, uma vez que o pagamento automático ainda não está implementado.  
 Podemos pagar na lightning network ou onchain.
 
