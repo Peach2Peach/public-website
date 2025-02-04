@@ -53,7 +53,7 @@ Gdy założysz konto Peach, automatycznie otrzymasz kod polecający. Gdy inni go
 - 5x handel bez płacenia opłat Peach (200 punktów)
 - Zamień swoje punkty na satoshi (zacznij od 300 punktów)
 
-Jeśli wybierzesz ostatnią z nich, płacimy Ci 21% opłaty wygenerowanej przez pierwsze 5 transakcji dokonanych przez poleconego przez Ciebie użytkownika (pamiętaj, że nasza opłata za pierwszą transakcję wyniesie 0%, a następnie 2%). Za każde 1 punktów otrzymujesz 40 sob.  
+Jeśli wybierzesz ostatnią z nich, płacimy Ci 21% opłaty wygenerowanej przez pierwsze 5 transakcji dokonanych przez poleconego przez Ciebie użytkownika (pamiętaj, że nasza opłata za pierwszą transakcję wyniesie 0%, a następnie 2%). Za każde 1 punktów otrzymujesz 42 sob.  
 Musisz poprosić o to ręcznie za pomocą biletu lub pocztą, ponieważ automatyczna wypłata nie jest jeszcze zaimplementowana.  
 Możemy wypłacić pieniądze na Lightning Network lub onchain. 
 

@@ -55,7 +55,7 @@ Amikor létrehozol egy Peach fiókot, automatikusan kapsz egy ajánlói kódot. 
 - 5x kereskedés Peach díjak nélkül (200 pont)
 - Pontjaid satsokra váltása (300 ponttól kezdve)
 
-Ha az utolsót választja, az Ön által hivatkozott felhasználó által végrehajtott első 5 kereskedés díjának 21%-át fizetjük Önnek (vegye figyelembe, hogy az első kereskedés díja 0%, majd 2% lesz). Minden 1 pontért 40 sat-ot kapsz.  
+Ha az utolsót választja, az Ön által hivatkozott felhasználó által végrehajtott első 5 kereskedés díjának 21%-át fizetjük Önnek (vegye figyelembe, hogy az első kereskedés díja 0%, majd 2% lesz). Minden 1 pontért 42 sat-ot kapsz.  
 Ezt manuálisan kell kérnie jegyen keresztül vagy postai úton, mivel az automatikus kifizetés még nincs megvalósítva.  
 Fizethetünk villámhálózaton vagy onchain-en.
 

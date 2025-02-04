@@ -53,7 +53,7 @@ Lorsque vous créez un compte Peach, vous recevez automatiquement un code de par
 - 5 fois de trading sans payer de frais Peach (200 points)
 - Convertir vos points en sats (à partir de 300 points)
 
-si vous choisissez le dernier, nous vous payons 21% des frais générés par les 5 premières transactions effectuées par votre utilisateur parrainé (notez que nos frais pour la première transaction seront de 0% puis de 2%). Tous le point, vous obtenez 40 sats.  
+si vous choisissez le dernier, nous vous payons 21% des frais générés par les 5 premières transactions effectuées par votre utilisateur parrainé (notez que nos frais pour la première transaction seront de 0% puis de 2%). Tous le point, vous obtenez 42 sats.  
 Vous devez en faire la demande manuellement via un ticket ou par courrier, car le paiement automatique n'est pas encore mis en place.  
 Nous pouvons payer sur le réseau Lightning ou onchain.
 
