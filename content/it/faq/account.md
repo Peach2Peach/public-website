@@ -53,7 +53,7 @@ Quando crei un account Peach, riceverai automaticamente un codice di affiliazion
 - 5 scambi senza pagare commissioni a Peach (200 punti)
 - Convertire i tuoi punti in sats (a partire da 300 punti)
 
-Se scegli la ultima opzione, ti paghiamo il 21% della commissione generata dalle prime 5 operazioni effettuate dall'utente che hai segnalato (tieni presente che la nostra commissione per la prima operazione sarà dello 0% e poi del 2%). Ogni punto ottieni 40 sats.  
+Se scegli la ultima opzione, ti paghiamo il 21% della commissione generata dalle prime 5 operazioni effettuate dall'utente che hai segnalato (tieni presente che la nostra commissione per la prima operazione sarà dello 0% e poi del 2%). Ogni punto ottieni 42 sats.  
 Devi richiederlo manualmente tramite un ticket o per posta, poiché il pagamento automatico non è ancora implementato.  
 Possiamo effettuare pagamenti su lightning network o onchain.
 

@@ -53,7 +53,7 @@ Unapounda akaunti ya Peach, utapata moja kwa moja nambari yako ya rufaa. Watu we
 - Biashara 5x bila kulipa ada yoyote ya Peach (alama 200)
 - Badilisha alama zako kuwa Satoshi (kuanzia alama 300)
 
-Ukichagua wa mwisho, tunakulipa 21% ya ada inayotokana na biashara 5 za kwanza zilizofanywa na mtumiaji wako aliyetajwa (kumbuka kuwa ada yetu ya biashara ya kwanza itakuwa 0% na kisha 2%). Kila pointi 1 unapata 40 kukaa.  
+Ukichagua wa mwisho, tunakulipa 21% ya ada inayotokana na biashara 5 za kwanza zilizofanywa na mtumiaji wako aliyetajwa (kumbuka kuwa ada yetu ya biashara ya kwanza itakuwa 0% na kisha 2%). Kila pointi 1 unapata 42 kukaa.  
 Lazima uombe kwa mikono kupitia tiketi au kwa barua, kwani malipo ya moja kwa moja hayajatekelezwa bado.  
 Tunaweza kulipa kwenye mtandao wa umeme au onchain. 
 
