@@ -7,7 +7,7 @@ keywords:
   - luxury btc point
 tags:
   - Meetups
-previewImage: /img/home/bitcoin-logo.png
+previewImage: /img/blog/tradecashforsat/CASH4SATS.png
 description: |
   hello bitcoin world, We are glad to add your meetup to the Peach Bitcoin app!
 ---
