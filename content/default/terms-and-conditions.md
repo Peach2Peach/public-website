@@ -242,7 +242,7 @@ Third parties used by Peach:
 
 - Cloudflare
 - ProtonMail (only for mailing list subscribers, support and disputes)
-- Brevo (only for mailing list subscribers)
+- Brevo (only for mailing list subscribers, GDPR compliant)
 - Firebase Crashlytics (opt-in)
 - Zammad, Telegram and Discord (only for support requests)
 - Google Analytics (for the website)
