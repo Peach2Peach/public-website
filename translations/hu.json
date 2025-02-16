@@ -128,5 +128,6 @@
   "home.getPeach.title": "Szerezd Meg a Peach Alkalmazást Most",
   "home.getPeach.downloadAPK": "APK Letöltése",
   "sroMember": "A Peach a Polyreg SRO (Önszabályozó Szervezet) tagja",
-  "licensedProvider": "A Peach egy engedéllyel rendelkező pénzügyi szolgáltató Svájcban, és teljes mértékben megfelel a svájci pénzmosás elleni törvénynek."
+  "licensedProvider": "A Peach egy engedéllyel rendelkező pénzügyi szolgáltató Svájcban, és teljes mértékben megfelel a svájci pénzmosás elleni törvénynek.",
+  "manageCookiePreferences": "Cookie-beállítások kezelése"
 }
