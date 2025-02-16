@@ -128,5 +128,6 @@
   "home.getPeach.title": "Obtenez l'Application Peach Maintenant",
   "home.getPeach.downloadAPK": "Télécharger l'APK",
   "sroMember": "Peach est membre de la SRO (Organisation d'Autorégulation) de Polyreg",
-  "licensedProvider": "Peach est un prestataire de services financiers agréé en Suisse et est entièrement conforme à la Loi Suisse sur le Blanchiment d'Argent."
+  "licensedProvider": "Peach est un prestataire de services financiers agréé en Suisse et est entièrement conforme à la Loi Suisse sur le Blanchiment d'Argent.",
+  "manageCookiePreferences": "Gérer les préférences de cookies"
 }
