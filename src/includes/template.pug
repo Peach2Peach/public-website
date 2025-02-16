@@ -172,8 +172,8 @@ html(lang=lang)
           bottom: 0;
           left: 0;
           right: 0;
-          background-color: #2B1911; /* colore di sfondo */
-          color: #F4EEEB;
+          background-color: #222; /* colore di sfondo */
+          color: #fff;
           padding: 15px 0;
           z-index: 9999;
           font-size: 14px;
@@ -199,8 +199,8 @@ html(lang=lang)
         }
         #cookie-banner button {
           padding: 10px 16px;
-          color: #F4EEEB;
-          background-color: #65A519;
+          color: #fff;
+          background-color: #4CAF50;
           border: none;
           cursor: pointer;
           border-radius: 4px;
@@ -208,28 +208,27 @@ html(lang=lang)
           transition: background-color 0.3s ease;
         }
         #cookie-banner button:hover {
-          background-color: #4F910C;
+          background-color: #43a047;
         }
         #cookie-banner button.reject {
-          background-color: #DF321F;
+          background-color: #f44336;
         }
         #cookie-banner button.reject:hover {
-          background-color: #B01807;
+          background-color: #e53935;
         }
         #cookie-banner a.cookie-link {
-          color: #F56522;
+          color: #fff;
           text-decoration: underline;
           font-size: 14px;
           margin-left: 8px;
           cursor: pointer;
         }
         #cookie-banner a.cookie-link:hover {
-          color: #C45104;
           text-decoration: none;
         }
         /* Popup overlay */
         #cookie-popup {
-          display: none; /* nascosto di default */
+          display: none;
           position: fixed;
           top: 0;
           left: 0;
@@ -244,7 +243,7 @@ html(lang=lang)
         /* Contenitore del popup */
         #cookie-popup-content {
           position: relative;
-          background-color: #FFF9F6;
+          background-color: #333;
           color: #2B1911;
           padding: 30px 20px 20px;
           border-radius: 10px;
@@ -259,14 +258,14 @@ html(lang=lang)
           right: 10px;
           background: none;
           border: none;
-          color: #2B1911;
+          color: #fff;
           font-size: 24px;
           line-height: 1;
           cursor: pointer;
           padding: 0 5px;
         }
         #cookie-popup-content .close-btn:hover {
-          color: #7D675E;
+          color: #ccc;
         }
         /* Stile per ciascuna categoria di cookie */
         .cookie-category {
@@ -281,7 +280,7 @@ html(lang=lang)
           font-size: 15px;
         }
         .cookie-category input[type="checkbox"] {
-          accent-color: #65A519;
+          accent-color: #4CAF50;
           margin: 0;
           cursor: pointer;
         }
@@ -289,11 +288,11 @@ html(lang=lang)
           margin: 4px 0 0 28px;
           font-size: 14px;
           line-height: 1.4;
-          color: #9F8C82;
+          color: #ccc;
         }
         /* Bottone "Salva Preferenze" */
         #cookie-popup-content button.save-btn {
-          background-color: #65A519;
+          background-color: #4CAF50;
           border: none;
           padding: 10px 16px;
           color: #fff;
@@ -303,7 +302,7 @@ html(lang=lang)
           transition: background-color 0.3s ease;
         }
         #cookie-popup-content button.save-btn:hover {
-          background-color: #4F910C;
+          background-color: #43a047;
         }
         /* Media query per schermi più piccoli */
         @media (max-width: 768px) {
