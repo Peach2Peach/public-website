@@ -25,13 +25,11 @@ Unlike peer-to-peer markets, where buyers and sellers trade directly, traditiona
 Now I can tell you a little story about Peach ideation process. It started in 2019. I was really bored, mentally under-challenged at my fiat job. And in the meantime that was the peak of my Bitcoin obsession. I attended meetups, conferences, joined Bitcoin twitter, telegram group, I was listening to podcasts, reading stuffs, thinking about a future where Bitcoin fixes the money… so naturally I ended up making the rational choice of aligning my energy with my financial activity. Let’s create something on Bitcoin and leave this boring fiat job. As anyone who wanna start building a company, I asked myself: what problem do I want to solve? The answer came very easily. Number 1 problem, in my opinion, before even custody bitcoin the good way, it’s to buy bitcoin the good way. In 2019, when I started the ideation process, I initially worked on a broker model. Then I realized:
 
 
-- 1. **I would need a bank account to receive people’s fiat money**
-- 2. **I would need to buy bitcoin as a company to be able to serve my clients. No and no. Too much headaches. And dealing with banks… no, thanks.**
+- **I would need a bank account to receive people’s fiat money**
+- **I would need to buy bitcoin as a company to be able to serve my clients. No and no. Too much headaches. And dealing with banks… no, thanks.**
 
 - The solution? Just provide a **peer-to-peer marketplace** where:
-  <br><br>
 - **I wouldn’t need a bank account**
-  <br><br>
 - **I would be custodian of anyone’s fund.**
 
 And Peach was born! Peach the company was created in February 2022 in Switzerland, **without a bank account and in bitcoin!** To this date, we don’t interact with the banking system. Peach received investments in bitcoin, pay its employees in bitcoin, get its revenue in bitcoin. Peer-to-peer business model made it possible to be **one of the first company to fully operate on a bitcoin standard.** What’s not to like about that? LFG 🍑🚀

@@ -23,13 +23,11 @@ Ellentétben a peer-to-peer piacokkal, ahol a vevők és eladók közvetlenül k
 <td style="border: 2px solid #f56522; padding: 15px; width: 60%; vertical-align: top;">
 Most elmondok egy kis történetet a Peach ötlet kidolgozásáról. 2019-ben indult minden. Nagyon unatkoztam, és a fiat munkahelyemen mentálisan nem voltam kihívva. Eközben a Bitcoin iránti megszállottságom csúcspontján voltam. Részt vettem meetupokon, konferenciákon, csatlakoztam a Bitcoin közösséghez a Twitteren és a Telegramon, podcastokat hallgattam, cikkeket olvastam, és azon gondolkodtam, hogy a Bitcoin hogyan javítaná a pénz világát… így természetesen azzal a racionális döntéssel zártam, hogy az energiámat a pénzügyi tevékenységemmel igazítom. Hozzunk létre valamit a Bitcoin körül, és hagyjuk maga mögött ezt az unalmas fiat munkát! Mint bárki, aki céget akar építeni, megkérdeztem magamtól: melyik problémát akarom megoldani? A válasz könnyen jött: szerintem a legnagyobb probléma – még mielőtt megfelelően letétbe helyeznéd a Bitcoint – az, hogy helyesen vásárold meg a Bitcoint. 2019-ben, amikor elindult az ötlet kidolgozása, kezdetben egy bróker modellt próbáltam ki. Aztán ráébredtem:
 
-- 1. **Szükségem lenne egy bankszámlára, hogy fogadhassam az emberek fiat pénzét**
-- 2. **Vállalkozásként kéne Bitcoint vásárolnom, hogy kiszolgálhassam az ügyfeleimet. Nem, nem. Túl sok fejfájás. És bankokkal ügyelem... nem, köszi.**
+- **Szükségem lenne egy bankszámlára, hogy fogadhassam az emberek fiat pénzét**
+- **Vállalkozásként kéne Bitcoint vásárolnom, hogy kiszolgálhassam az ügyfeleimet. Nem, nem. Túl sok fejfájás. És bankokkal ügyelem... nem, köszi.**
 
 - A megoldás? Egyszerűen biztosítsunk egy **peer-to-peer piacteret**, ahol:
-  <br><br>
 - **Nem kellene bankszámlám**
-  <br><br>
 - **Nem én lennék bárki pénzének őrzője.**
 
 Így született meg a Peach! A Peach céget 2022 februárjában alapították Svájcban, **bankszámla nélkül és Bitcoinban!** Eddig nem lépünk kapcsolatba a bankrendszerrel. A Peach Bitcoinnal kapott befektetéseket, Bitcoinnal fizeti az alkalmazottait és Bitcoinnal szerzi a bevételeit. A peer-to-peer üzleti modell lehetővé tette, hogy **az elsők között legyünk, akik teljes egészében a Bitcoin standard szerint működnek.** Miért ne szeretnéd ezt? LFG 🍑🚀
