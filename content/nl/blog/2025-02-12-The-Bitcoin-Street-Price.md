@@ -23,13 +23,11 @@ In tegenstelling tot peer-to-peer markten, waar kopers en verkopers direct hande
 <td style="border: 2px solid #f56522; padding: 15px; width: 60%; vertical-align: top;">
 Laat me je een kort verhaal vertellen over het ontwerpproces van Peach. Het begon in 2019. Ik verveelde me echt en werd mentaal niet uitgedaagd op mijn fiat-baan. Tegelijkertijd bereikte mijn Bitcoin-obsessie haar hoogtepunt. Ik woonde meetups en conferenties bij, trad toe tot de Bitcoin-community op Twitter en Telegram, luisterde naar podcasts, las artikelen en dacht na over een toekomst waarin Bitcoin geld zou hervormen… Dus besloot ik, zoals iedereen die een bedrijf wil beginnen, mijn energie te richten op mijn financiële activiteiten. Ik vroeg mezelf af: welk probleem wil ik oplossen? Het antwoord kwam snel. Het nummer 1 probleem, naar mijn mening, voordat je Bitcoin op de juiste manier opslaat, is het correct kopen van Bitcoin. In 2019, toen ik begon met brainstormen, werkte ik eerst aan een broker-model. Toen realiseerde ik me:
 
-- 1. **Ik zou een bankrekening nodig hebben om het fiat-geld van mensen te ontvangen.**
-- 2. **Ik zou als bedrijf Bitcoin moeten kopen om mijn klanten te kunnen bedienen. Nee, nee. Te veel hoofdpijn. En met banken omgaan… nee, bedankt.**
+- **Ik zou een bankrekening nodig hebben om het fiat-geld van mensen te ontvangen.**
+- **Ik zou als bedrijf Bitcoin moeten kopen om mijn klanten te kunnen bedienen. Nee, nee. Te veel hoofdpijn. En met banken omgaan… nee, bedankt.**
 
 - De oplossing? Simpelweg een **peer-to-peer marktplaats** aanbieden waar:
-  <br><br>
 - **Ik geen bankrekening nodig heb**
-  <br><br>
 - **Ik niet de beheerder van andermans geld ben.**
 
 En zo werd Peach geboren! Peach, het bedrijf, werd opgericht in februari 2022 in Zwitserland, **zonder bankrekening en in Bitcoin!** Tot op heden hebben we geen interactie met het banksysteem. Peach ontving investeringen in Bitcoin, betaalt zijn medewerkers in Bitcoin en genereert zijn inkomsten in Bitcoin. Het peer-to-peer bedrijfsmodel maakte het mogelijk om **een van de eerste bedrijven te zijn die volledig volgens de Bitcoin-standaard opereert.** Wat is er nou niet mooi aan? LFG 🍑🚀
@@ -68,7 +66,7 @@ Om die reden is arbitrage of het verkopen van Bitcoin op Peach zeer logisch. En�
 
 Bekijk ook wat peer-to-peer in de praktijk betekent:
 
-Mensen wisselen Bitcoin super anoniem om, met CONTANT geld, tijdens Bitcoin meetups! Dit is een meetup in Frankrijk, (Bitcoin Metz!)[https://x.com/btc_metz/status/1883220185504727229?s=46]. Groetjes aan hen! Peach maakt de handel makkelijker door escrow en het aanbodplatform te bieden. Bedankt aan BitcoinMetz voor het presenteren van Peach! Een waar genoegen voor ons.
+Mensen wisselen Bitcoin super anoniem om, met CONTANT geld, tijdens Bitcoin meetups! Dit is een meetup in Frankrijk, [Bitcoin Metz!](https://x.com/btc_metz/status/1883220185504727229?s=46). Groetjes aan hen! Peach maakt de handel makkelijker door escrow en het aanbodplatform te bieden. Bedankt aan BitcoinMetz voor het presenteren van Peach! Een waar genoegen voor ons.
 
 ![](/img/blog/tradecashforsat/tradeforsat.png)
 

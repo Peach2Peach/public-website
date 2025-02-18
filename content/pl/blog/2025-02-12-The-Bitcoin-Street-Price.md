@@ -23,13 +23,11 @@ W przeciwieństwie do rynków peer-to-peer, gdzie kupujący i sprzedający handl
 <td style="border: 2px solid #f56522; padding: 15px; width: 60%; vertical-align: top;">
 Pozwól, że opowiem Ci krótką historię o procesie powstawania Peach. Zaczęło się to w 2019 roku. Naprawdę się nudziłem i mój praca w systemie fiat nie dawała mi intelektualnego wyzwania. W międzyczasie byłem w szczytowej fazie mojej obsesji na punkcie Bitcoina. Uczestniczyłem w meetupach, konferencjach, dołączałem do społeczności Bitcoin na Twitterze oraz w grupach na Telegramie, słuchałem podcastów, czytałem artykuły i myślałem o przyszłości, w której Bitcoin naprawi system pieniężny… I tak, jak każdy, kto chce zacząć budować firmę, zapytałem siebie: jaki problem chcę rozwiązać? Odpowiedź przyszła bardzo szybko. Problem numer 1 – moim zdaniem, zanim jeszcze odpowiednio zabezpieczysz Bitcoina – to kupowanie Bitcoina w odpowiedni sposób. W 2019 roku, kiedy rozpocząłem proces ideacji, początkowo pracowałem nad modelem brokera. Potem zrozumiałem:
 
-- 1. **Potrzebowałbym konta bankowego, aby otrzymywać fiat od ludzi**
-- 2. **Musiałbym kupować Bitcoina jako firma, aby móc obsługiwać klientów. Nie, nie. Za dużo problemów. A do tego banki… nie, dzięki.**
+- **Potrzebowałbym konta bankowego, aby otrzymywać fiat od ludzi**
+- **Musiałbym kupować Bitcoina jako firma, aby móc obsługiwać klientów. Nie, nie. Za dużo problemów. A do tego banki… nie, dzięki.**
 
 - Rozwiązanie? Po prostu stworzyć **rynek peer-to-peer**, gdzie:
-  <br><br>
 - **Nie potrzebowałbym konta bankowego**
-  <br><br>
 - **Nie byłbym depozytariuszem cudzych środków.**
 
 I tak narodził się Peach! Firma Peach została założona w lutym 2022 roku w Szwajcarii, **bez konta bankowego i w Bitcoinie!** Do dziś nie korzystamy z systemu bankowego. Peach otrzymał inwestycje w Bitcoinie, wypłaca swoim pracownikom Bitcoiny, a przychody uzyskuje w Bitcoinie. Model biznesowy peer-to-peer umożliwił nam bycie **jedną z pierwszych firm działających całkowicie według standardu Bitcoin.** Co w tym nie jest super? LFG 🍑🚀
@@ -68,7 +66,7 @@ Dlatego arbitraż lub sprzedaż Bitcoina na Peach ma sens. I… **JEST TO BEZPŁ
 
 Spójrz także, co oznacza peer-to-peer w prawdziwym życiu:
 
-Ludzie wymieniają Bitcoina super anonimowo za GOTÓWKĘ, uczestnicząc jednocześnie w meetupach Bitcoin! To jest meetup we Francji, (Bitcoin Metz!)[https://x.com/btc_metz/status/1883220185504727229?s=46]. Pozdrowienia dla nich! Peach ułatwia handel, oferując escrow oraz platformę do znajdowania ofert. Dziękujemy BitcoinMetz za przedstawienie Peach! To dla nas prawdziwy zaszczyt.
+Ludzie wymieniają Bitcoina super anonimowo za GOTÓWKĘ, uczestnicząc jednocześnie w meetupach Bitcoin! To jest meetup we Francji, [Bitcoin Metz!](https://x.com/btc_metz/status/1883220185504727229?s=46). Pozdrowienia dla nich! Peach ułatwia handel, oferując escrow oraz platformę do znajdowania ofert. Dziękujemy BitcoinMetz za przedstawienie Peach! To dla nas prawdziwy zaszczyt.
 
 ![](/img/blog/tradecashforsat/tradeforsat.png)
 
