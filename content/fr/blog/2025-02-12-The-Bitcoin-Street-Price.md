@@ -23,10 +23,10 @@ Contrairement aux marchés peer-to-peer, où acheteurs et vendeurs commercent di
 <td style="border: 2px solid #f56522; padding: 15px; width: 60%; vertical-align: top;">
 Laisse-moi te raconter une petite histoire sur le processus d’idéation de Peach. Tout a commencé en 2019. Je m'ennuyais vraiment, et mon travail en monnaie fiduciaire ne me stimulait pas intellectuellement. Et, à ce moment-là, j'étais à fond dans ma passion pour Bitcoin. J’ai assisté à des meetups, des conférences, j’ai rejoint la communauté Bitcoin sur Twitter et sur Telegram, j’écoutais des podcasts, je lisais divers articles, et je pensais à un futur où Bitcoin révolutionnerait la monnaie… Naturellement, j’ai fini par décider rationnellement d’aligner mon énergie sur mon activité financière. Créons quelque chose autour de Bitcoin et quittons ce travail fiat ennuyeux ! Comme toute personne souhaitant créer une entreprise, je me suis demandé : quel problème ai-je envie de résoudre ? La réponse m'est venue rapidement. Le problème numéro 1, à mon avis, avant même de bien garder Bitcoin, c’est d’acheter Bitcoin correctement. En 2019, quand j’ai commencé le processus d’idéation, je travaillais initialement sur un modèle de courtier. Puis j’ai réalisé :
 
-- **J'aurais besoin d'un compte bancaire pour recevoir l'argent fiat des gens.**
-- **Je devrais acheter du Bitcoin en tant qu'entreprise pour pouvoir servir mes clients. Non, non. Trop de casse-tête. Et traiter avec les banques… non, merci.**
+1. **J'aurais besoin d'un compte bancaire pour recevoir l'argent fiat des gens.**
+2. **Je devrais acheter du Bitcoin en tant qu'entreprise pour pouvoir servir mes clients. Non, non. Trop de casse-tête. Et traiter avec les banques… non, merci.**
 
-- La solution ? Fournir simplement une **place de marché peer-to-peer** où :
+  La solution ? Fournir simplement une **place de marché peer-to-peer** où :
 - **Je n'aurais pas besoin de compte bancaire**
 - **Je ne serais pas le dépositaire des fonds de qui que ce soit.**
 
@@ -58,7 +58,7 @@ Le prix du Bitcoin est **souvent plus élevé** sur le marché peer-to-peer ! Po
 C'est pourquoi arbitrer ou vendre du Bitcoin sur Peach a beaucoup de sens. Et… **C'EST GRATUIT !!** Alors téléchargez l'application et publiez votre offre de vente dès maintenant !
 
 <div style="text-align: center;">
-  <video controls style="max-width: 100%; height: auto;">
+  <video controls style="max-width: 100%; height: auto;" poster="/img/blog/tradecashforsat/Thumbnail.png">
     <source src="/img/blog/P2P-Price-promo.mp4" type="video/mp4">
     Votre navigateur ne supporte pas la balise vidéo.
   </video>

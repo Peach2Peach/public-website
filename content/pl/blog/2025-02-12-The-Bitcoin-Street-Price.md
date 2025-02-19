@@ -23,10 +23,10 @@ W przeciwieństwie do rynków peer-to-peer, gdzie kupujący i sprzedający handl
 <td style="border: 2px solid #f56522; padding: 15px; width: 60%; vertical-align: top;">
 Pozwól, że opowiem Ci krótką historię o procesie powstawania Peach. Zaczęło się to w 2019 roku. Naprawdę się nudziłem i mój praca w systemie fiat nie dawała mi intelektualnego wyzwania. W międzyczasie byłem w szczytowej fazie mojej obsesji na punkcie Bitcoina. Uczestniczyłem w meetupach, konferencjach, dołączałem do społeczności Bitcoin na Twitterze oraz w grupach na Telegramie, słuchałem podcastów, czytałem artykuły i myślałem o przyszłości, w której Bitcoin naprawi system pieniężny… I tak, jak każdy, kto chce zacząć budować firmę, zapytałem siebie: jaki problem chcę rozwiązać? Odpowiedź przyszła bardzo szybko. Problem numer 1 – moim zdaniem, zanim jeszcze odpowiednio zabezpieczysz Bitcoina – to kupowanie Bitcoina w odpowiedni sposób. W 2019 roku, kiedy rozpocząłem proces ideacji, początkowo pracowałem nad modelem brokera. Potem zrozumiałem:
 
-- **Potrzebowałbym konta bankowego, aby otrzymywać fiat od ludzi**
-- **Musiałbym kupować Bitcoina jako firma, aby móc obsługiwać klientów. Nie, nie. Za dużo problemów. A do tego banki… nie, dzięki.**
+1. **Potrzebowałbym konta bankowego, aby otrzymywać fiat od ludzi**
+2. **Musiałbym kupować Bitcoina jako firma, aby móc obsługiwać klientów. Nie, nie. Za dużo problemów. A do tego banki… nie, dzięki.**
 
-- Rozwiązanie? Po prostu stworzyć **rynek peer-to-peer**, gdzie:
+  Rozwiązanie? Po prostu stworzyć **rynek peer-to-peer**, gdzie:
 - **Nie potrzebowałbym konta bankowego**
 - **Nie byłbym depozytariuszem cudzych środków.**
 
@@ -58,9 +58,9 @@ cena Bitcoina jest **często wyższa** na rynku peer-to-peer! Dlaczego? Poniewa�
 Dlatego arbitraż lub sprzedaż Bitcoina na Peach ma sens. I… **JEST TO BEZPŁATNE!!** Pobierz aplikację i wystaw swoją ofertę sprzedaży już teraz!
 
 <div style="text-align: center;">
-  <video controls style="max-width: 100%; height: auto;">
+  <video controls style="max-width: 100%; height: auto;" poster="/img/blog/tradecashforsat/Thumbnail.png">
     <source src="/img/blog/P2P-Price-promo.mp4" type="video/mp4">
-    Twoja przeglądarka nie obsługuje elementu wideo.
+    Your Browser dont support video tag.
   </video>
 </div>
 

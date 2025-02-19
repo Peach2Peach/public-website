@@ -23,10 +23,10 @@ Tofauti na masoko ya peer-to-peer, ambapo wanunuzi na wauzaji hununua na kuuza m
 <td style="border: 2px solid #f56522; padding: 15px; width: 60%; vertical-align: top;">
 Sasa, hebu nikueleze hadithi fupi kuhusu mchakato wa ubunifu wa Peach. Ilianza mwaka wa 2019. Nilikuwa nimechoka sana na kazi yangu ya fiat haikuwa inanitia changamoto za akili. Wakati huo huo, nilikuwa kwenye kilele cha obsessions yangu kwa Bitcoin. Nilihudhuria mikutano, mkusanyiko, nijiunga na jamii ya Bitcoin kwenye Twitter na Telegram, niliisikiliza podcast, niliwasoma makala, na nilifikiria kuhusu mustakabali ambapo Bitcoin itaboresha fedha… Kwa hiyo, bila shaka, nilichukua uamuzi wa busara wa kuoanisha nguvu zangu na shughuli zangu za kifedha. Hebu tuunde kitu kuhusu Bitcoin na tuache kazi hiyo ya fiat inayochosha! Kama mtu yeyote anayetaka kuanzisha kampuni, niliuliza: ni tatizo gani nataka kulitatua? Jibu lilifika haraka. Tatizo la kwanza, kwa maoni yangu, kabla ya hata kuhifadhi Bitcoin kwa njia sahihi, ni kununua Bitcoin kwa njia sahihi. Mwaka wa 2019, nilipoanza mchakato wa ubunifu, mwanzo nilifanya kazi katika mfano wa broker. Kisha niligundua:
 
-- **Ningehitaji akaunti ya benki kupokea fedha ya fiat ya watu.**
-- **Ningelazimika kununua Bitcoin kama kampuni ili kuwatumikia wateja wangu. Hapana, hapana. Ni matatizo mengi sana. Na kushughulikia benki… hapana, asante.**
+1. **Ningehitaji akaunti ya benki kupokea fedha ya fiat ya watu.**
+2. **Ningelazimika kununua Bitcoin kama kampuni ili kuwatumikia wateja wangu. Hapana, hapana. Ni matatizo mengi sana. Na kushughulikia benki… hapana, asante.**
 
-- Suluhisho? Ni kutoa tu **soko la peer-to-peer** ambacho:
+  Suluhisho? Ni kutoa tu **soko la peer-to-peer** ambacho:
 - **Sita hitaji akaunti ya benki**
 - **Sita kuwa msimamizi wa fedha za mtu yeyote.**
 
@@ -58,9 +58,9 @@ bei ya Bitcoin mara nyingi ni **juu zaidi** kwenye soko la peer-to-peer! Kwa nin
 Ndiyo maana kufanya arbitrage au kuuza Bitcoin kwenye Peach ni na mantiki sana. Na… **NI BURE!!** Pakua app na weka moja kwa moja ombi lako la kuuza!
 
 <div style="text-align: center;">
-  <video controls style="max-width: 100%; height: auto;">
+  <video controls style="max-width: 100%; height: auto;" poster="/img/blog/tradecashforsat/Thumbnail.png">
     <source src="/img/blog/P2P-Price-promo.mp4" type="video/mp4">
-    Kivinjari chako hakikubaliani na kipengele cha video.
+    Your Browser dont support video tag.
   </video>
 </div>
 
