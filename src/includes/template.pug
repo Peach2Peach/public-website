@@ -332,44 +332,45 @@ html(lang=lang)
 
     #cookie-banner(style="display: none;")
       .cookie-container
-        p Usiamo i cookie per migliorare la tua esperienza.
+        p
+          = i18n("cookieBanner.useCookies", lang)
           | 
-          a(href="/privacy-policy" style="color: #4CAF50;") Leggi di più
+          a(href="/privacy-policy" style="color: #4CAF50;")= i18n("cookieBanner.readMore", lang)
         .cookie-actions
-          button.cookie-btn(onclick="acceptCookies()") Accetta Cookies & Continua
-          button.cookie-btn.reject(onclick="rejectCookies()") Rifiuta Cookies
-          a.cookie-link(href="#", onclick="showCookiePopup(event)") Gestisci Cookies
+          button.cookie-btn(onclick="acceptCookies()")= i18n("cookieBanner.acceptCookies", lang)
+          button.cookie-btn.reject(onclick="rejectCookies()")= i18n("cookieBanner.rejectCookies", lang)
+          a.cookie-link(href="#", onclick="showCookiePopup(event)")= i18n("cookieBanner.manageCookies", lang)
 
     #cookie-popup
       #cookie-popup-content
         button.close-btn(type="button", onclick="closeCookiePopup()") ×
-        h2 Gestisci preferenze cookie
+        h2= i18n("cookiePopup.managePreferences", lang)
         .cookie-category
           .switch-container
-            span.label-text Cookie necessari
+            span.label-text= i18n("cookiePopup.necessaryCookies", lang)
             label.switch(for="necessary-cookies")
               input(type="checkbox", id="necessary-cookies", checked, disabled)
               span.slider
-          p Questi cookie sono essenziali per il funzionamento del sito.
+          p= i18n("cookiePopup.necessaryCookiesDesc", lang)
 
         .cookie-category
           .switch-container
-            span.label-text Cookie di analisi
+            span.label-text= i18n("cookiePopup.analyticsCookies", lang)
             label.switch(for="analytics-cookies")
               input(type="checkbox", id="analytics-cookies")
               span.slider
-          p I cookie di analisi ci aiutano a capire come gli utenti interagiscono con il sito.
+          p= i18n("cookiePopup.analyticsCookiesDesc", lang)
 
         .cookie-category
           .switch-container
-            span.label-text Cookie di marketing
+            span.label-text= i18n("cookiePopup.marketingCookies", lang)
             label.switch(for="marketing-cookies")
               input(type="checkbox", id="marketing-cookies")
               span.slider
-          p I cookie di marketing vengono usati per tracciare gli utenti e mostrare annunci personalizzati.
+          p= i18n("cookiePopup.marketingCookiesDesc", lang)
 
         div(style="text-align: right; margin-top: 20px;")
-          button.save-btn(type="button", onclick="savePreferences()") Salva Preferenze
+          button.save-btn(type="button", onclick="savePreferences()")= i18n("cookiePopup.savePreferences", lang)
 
     script(src=assetPath("/js/main.js"))
     //- Aggiungiamo il blocco scripts alla fine del body

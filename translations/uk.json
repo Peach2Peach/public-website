@@ -129,5 +129,18 @@
   "home.getPeach.downloadAPK": "Завантажити APK",
   "sroMember": "Peach є членом SRO (саморегулююча організація) Polyreg",
   "licensedProvider": "Peach є ліцензованим постачальником фінансових послуг у Швейцарії та повністю відповідає Закону Швейцарії про боротьбу з відмиванням грошей.",
-  "manageCookiePreferences": "Керувати налаштуваннями cookie"
+  "manageCookiePreferences": "Керувати налаштуваннями cookie",
+  "cookieBanner.useCookies": "Ми використовуємо файли cookie, щоб покращити ваш досвід.",
+  "cookieBanner.readMore": "Дізнатися більше",
+  "cookieBanner.acceptCookies": "Прийняти файли cookie та продовжити",
+  "cookieBanner.rejectCookies": "Відхилити файли cookie",
+  "cookieBanner.manageCookies": "Керування файлами cookie",
+  "cookiePopup.managePreferences": "Керування налаштуваннями файлів cookie",
+  "cookiePopup.necessaryCookies": "Необхідні файли cookie",
+  "cookiePopup.necessaryCookiesDesc": "Ці файли cookie є необхідними для роботи вебсайту.",
+  "cookiePopup.analyticsCookies": "Аналітичні файли cookie",
+  "cookiePopup.analyticsCookiesDesc": "Аналітичні файли cookie допомагають нам зрозуміти, як користувачі взаємодіють із сайтом.",
+  "cookiePopup.marketingCookies": "Маркетингові файли cookie",
+  "cookiePopup.marketingCookiesDesc": "Маркетингові файли cookie використовуються для збирання інформації про користувачів",
+  "cookiePopup.savePreferences": "Зберегти налаштування"
 }
