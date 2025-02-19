@@ -23,10 +23,10 @@ Im Gegensatz zu Peer-to-Peer-Märkten, in denen Käufer und Verkäufer direkt ha
 <td style="border: 2px solid #f56522; padding: 15px; width: 60%; vertical-align: top;">
 Jetzt erzähle ich dir eine kleine Geschichte über den Entstehungsprozess von Peach. Es begann im Jahr 2019. Ich war wirklich gelangweilt und mental unterfordert in meinem Fiat-Job. Gleichzeitig befand sich meine Bitcoin-Begeisterung auf dem Höhepunkt. Ich nahm an Meetups und Konferenzen teil, trat Bitcoin-Communities auf Twitter und Telegram bei, hörte Podcasts, las Artikel und dachte an eine Zukunft, in der Bitcoin das Geld revolutioniert… Also traf ich rational die Entscheidung, meine Energie mit meinen finanziellen Aktivitäten zu verbinden. Lass uns etwas rund um Bitcoin erschaffen und diesen langweiligen Fiat-Job hinter uns lassen! Wie jeder, der ein Unternehmen gründen will, fragte ich mich: Welches Problem will ich lösen? Die Antwort kam schnell. Das Problem Nummer 1 – meiner Meinung nach, noch bevor man Bitcoin richtig verwahrt – ist, Bitcoin richtig zu kaufen. Im Jahr 2019, als ich mit der Ideenfindung begann, arbeitete ich zunächst an einem Broker-Modell. Dann wurde mir klar:
 
-- **Ich würde ein Bankkonto benötigen, um das Fiat-Geld der Leute zu empfangen.**
-- **Ich müsste als Unternehmen Bitcoin kaufen, um meinen Kunden dienen zu können. Nein, nein. Zu viele Kopfschmerzen. Und mit Banken zu tun haben… nein, danke.**
+1. **Ich würde ein Bankkonto benötigen, um das Fiat-Geld der Leute zu empfangen.**
+2. **Ich müsste als Unternehmen Bitcoin kaufen, um meinen Kunden dienen zu können. Nein, nein. Zu viele Kopfschmerzen. Und mit Banken zu tun haben… nein, danke.**
 
-- Die Lösung? Einfach einen **Peer-to-Peer-Marktplatz** bereitstellen, bei dem:
+  Die Lösung? Einfach einen **Peer-to-Peer-Marktplatz** bereitstellen, bei dem:
 - **Ich kein Bankkonto benötige**
 - **Ich nicht als Verwalter der Gelder anderer fungiere.**
 
@@ -58,9 +58,9 @@ Der Bitcoin-Preis ist **oft höher** auf dem Peer-to-Peer-Marktplatz! Warum? Wei
 Aus diesem Grund macht es Sinn, Bitcoin zu arbitragen oder auf Peach zu verkaufen. Und… **ES IST KOSTENLOS!!** Lade also die App herunter und schalte dein Verkaufsangebot ein!
 
 <div style="text-align: center;">
-  <video controls style="max-width: 100%; height: auto;">
+  <video controls style="max-width: 100%; height: auto;" poster="/img/blog/tradecashforsat/Thumbnail.png">
     <source src="/img/blog/P2P-Price-promo.mp4" type="video/mp4">
-    Dein Browser unterstützt das Video-Tag nicht.
+    Il tuo browser non supporta il tag video.
   </video>
 </div>
 

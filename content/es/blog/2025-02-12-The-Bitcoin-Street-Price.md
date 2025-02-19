@@ -23,10 +23,10 @@ A diferencia de los mercados peer-to-peer, donde compradores y vendedores comerc
 <td style="border: 2px solid #f56522; padding: 15px; width: 60%; vertical-align: top;">
 Ahora te contaré una pequeña historia sobre el proceso de ideación de Peach. Comenzó en 2019. Estaba realmente aburrido, mentalmente poco desafiado en mi trabajo con fiat. Y, mientras tanto, fue el apogeo de mi obsesión por Bitcoin. Asistí a meetups, conferencias, me uní a la comunidad de Bitcoin en Twitter y a grupos en Telegram, escuchaba podcasts, leía artículos, y soñaba con un futuro en el que Bitcoin arreglara el dinero… Así que, naturalmente, terminé tomando la decisión racional de alinear mi energía con mi actividad financiera. ¡Creemos algo en torno a Bitcoin y dejemos este trabajo fiat aburrido! Como cualquier emprendedor, me pregunté: ¿qué problema quiero resolver? La respuesta llegó fácilmente. El problema número 1, en mi opinión, antes incluso de custodiar Bitcoin correctamente, es comprar Bitcoin de la forma correcta. En 2019, cuando empecé a idear, inicialmente trabajé en un modelo de broker. Luego me di cuenta:
 
-- **Necesitaría una cuenta bancaria para recibir el dinero fiat de las personas.**
-- **Tendría que comprar Bitcoin como empresa para poder servir a mis clientes. No, no. Demasiados quebraderos de cabeza. Y tratar con los bancos… no, gracias.**
+1. **Necesitaría una cuenta bancaria para recibir el dinero fiat de las personas.**
+2. **Tendría que comprar Bitcoin como empresa para poder servir a mis clientes. No, no. Demasiados quebraderos de cabeza. Y tratar con los bancos… no, gracias.**
 
-- ¿La solución? Proveer simplemente un **mercado peer-to-peer** donde:
+  ¿La solución? Proveer simplemente un **mercado peer-to-peer** donde:
 
 - **No necesitaría una cuenta bancaria**
 - **No sería custodio de los fondos de nadie.**
@@ -59,7 +59,7 @@ El concepto del precio de calle de Bitcoin no es del todo nuevo. En 2017, Clark 
 Por ello, arbitrar o vender Bitcoin en Peach tiene mucho sentido. Y… **¡¡ES GRATIS!!** Así que descarga la app y coloca tu oferta de venta ahora.
 
 <div style="text-align: center;">
-  <video controls style="max-width: 100%; height: auto;">
+  <video controls style="max-width: 100%; height: auto;" poster="/img/blog/tradecashforsat/Thumbnail.png">
     <source src="/img/blog/P2P-Price-promo.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
   </video>

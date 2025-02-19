@@ -23,10 +23,10 @@ Ellentétben a peer-to-peer piacokkal, ahol a vevők és eladók közvetlenül k
 <td style="border: 2px solid #f56522; padding: 15px; width: 60%; vertical-align: top;">
 Most elmondok egy kis történetet a Peach ötlet kidolgozásáról. 2019-ben indult minden. Nagyon unatkoztam, és a fiat munkahelyemen mentálisan nem voltam kihívva. Eközben a Bitcoin iránti megszállottságom csúcspontján voltam. Részt vettem meetupokon, konferenciákon, csatlakoztam a Bitcoin közösséghez a Twitteren és a Telegramon, podcastokat hallgattam, cikkeket olvastam, és azon gondolkodtam, hogy a Bitcoin hogyan javítaná a pénz világát… így természetesen azzal a racionális döntéssel zártam, hogy az energiámat a pénzügyi tevékenységemmel igazítom. Hozzunk létre valamit a Bitcoin körül, és hagyjuk maga mögött ezt az unalmas fiat munkát! Mint bárki, aki céget akar építeni, megkérdeztem magamtól: melyik problémát akarom megoldani? A válasz könnyen jött: szerintem a legnagyobb probléma – még mielőtt megfelelően letétbe helyeznéd a Bitcoint – az, hogy helyesen vásárold meg a Bitcoint. 2019-ben, amikor elindult az ötlet kidolgozása, kezdetben egy bróker modellt próbáltam ki. Aztán ráébredtem:
 
-- **Szükségem lenne egy bankszámlára, hogy fogadhassam az emberek fiat pénzét**
-- **Vállalkozásként kéne Bitcoint vásárolnom, hogy kiszolgálhassam az ügyfeleimet. Nem, nem. Túl sok fejfájás. És bankokkal ügyelem... nem, köszi.**
+1. **Szükségem lenne egy bankszámlára, hogy fogadhassam az emberek fiat pénzét**
+2. **Vállalkozásként kéne Bitcoint vásárolnom, hogy kiszolgálhassam az ügyfeleimet. Nem, nem. Túl sok fejfájás. És bankokkal ügyelem... nem, köszi.**
 
-- A megoldás? Egyszerűen biztosítsunk egy **peer-to-peer piacteret**, ahol:
+  A megoldás? Egyszerűen biztosítsunk egy **peer-to-peer piacteret**, ahol:
 - **Nem kellene bankszámlám**
 - **Nem én lennék bárki pénzének őrzője.**
 
@@ -58,9 +58,9 @@ a Bitcoin ára **gyakran magasabb** a peer-to-peer piactéren! Miért? Mert nyer
 Ezért ésszerű arbitrázsolni vagy Bitcoint eladni a Peach-en. És… **INGYENES!!** Töltsd le az appot és tedd közzé az eladási ajánlatodat most!
 
 <div style="text-align: center;">
-  <video controls style="max-width: 100%; height: auto;">
+  <video controls style="max-width: 100%; height: auto;" poster="/img/blog/tradecashforsat/Thumbnail.png">
     <source src="/img/blog/P2P-Price-promo.mp4" type="video/mp4">
-    A böngésződ nem támogatja a videóelemet.
+    Your Browser dont support video tag.
   </video>
 </div>
 

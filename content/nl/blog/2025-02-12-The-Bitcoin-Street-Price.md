@@ -23,8 +23,8 @@ In tegenstelling tot peer-to-peer markten, waar kopers en verkopers direct hande
 <td style="border: 2px solid #f56522; padding: 15px; width: 60%; vertical-align: top;">
 Laat me je een kort verhaal vertellen over het ontwerpproces van Peach. Het begon in 2019. Ik verveelde me echt en werd mentaal niet uitgedaagd op mijn fiat-baan. Tegelijkertijd bereikte mijn Bitcoin-obsessie haar hoogtepunt. Ik woonde meetups en conferenties bij, trad toe tot de Bitcoin-community op Twitter en Telegram, luisterde naar podcasts, las artikelen en dacht na over een toekomst waarin Bitcoin geld zou hervormen… Dus besloot ik, zoals iedereen die een bedrijf wil beginnen, mijn energie te richten op mijn financiële activiteiten. Ik vroeg mezelf af: welk probleem wil ik oplossen? Het antwoord kwam snel. Het nummer 1 probleem, naar mijn mening, voordat je Bitcoin op de juiste manier opslaat, is het correct kopen van Bitcoin. In 2019, toen ik begon met brainstormen, werkte ik eerst aan een broker-model. Toen realiseerde ik me:
 
-- **Ik zou een bankrekening nodig hebben om het fiat-geld van mensen te ontvangen.**
-- **Ik zou als bedrijf Bitcoin moeten kopen om mijn klanten te kunnen bedienen. Nee, nee. Te veel hoofdpijn. En met banken omgaan… nee, bedankt.**
+1. **Ik zou een bankrekening nodig hebben om het fiat-geld van mensen te ontvangen.**
+2. **Ik zou als bedrijf Bitcoin moeten kopen om mijn klanten te kunnen bedienen. Nee, nee. Te veel hoofdpijn. En met banken omgaan… nee, bedankt.**
 
 - De oplossing? Simpelweg een **peer-to-peer marktplaats** aanbieden waar:
 - **Ik geen bankrekening nodig heb**
@@ -58,9 +58,9 @@ de Bitcoin prijs **vaak hoger** is op de peer-to-peer marktplaats? Waarom? Omdat
 Om die reden is arbitrage of het verkopen van Bitcoin op Peach zeer logisch. En… **HET IS GRATIS!!** Dus download de app en plaats direct je verkoopaanbod!
 
 <div style="text-align: center;">
-  <video controls style="max-width: 100%; height: auto;">
+  <video controls style="max-width: 100%; height: auto;" poster="/img/blog/tradecashforsat/Thumbnail.png">
     <source src="/img/blog/P2P-Price-promo.mp4" type="video/mp4">
-    Je browser ondersteunt het video-element niet.
+    Your Browser dont support video tag.
   </video>
 </div>
 
