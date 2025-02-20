@@ -128,5 +128,19 @@
   "home.getPeach.title": "Szerezd Meg a Peach Alkalmazást Most",
   "home.getPeach.downloadAPK": "APK Letöltése",
   "sroMember": "A Peach a Polyreg SRO (Önszabályozó Szervezet) tagja",
-  "licensedProvider": "A Peach egy engedéllyel rendelkező pénzügyi szolgáltató Svájcban, és teljes mértékben megfelel a svájci pénzmosás elleni törvénynek."
+  "licensedProvider": "A Peach egy engedéllyel rendelkező pénzügyi szolgáltató Svájcban, és teljes mértékben megfelel a svájci pénzmosás elleni törvénynek.",
+  "manageCookiePreferences": "Cookie-beállítások kezelése",
+  "cookieBanner.useCookies": "Sütiket használunk, hogy javítsuk a felhasználói élményét.",
+  "cookieBanner.readMore": "Tudjon meg többet",
+  "cookieBanner.acceptCookies": "Sütik elfogadása és folytatás",
+  "cookieBanner.rejectCookies": "Sütik elutasítása",
+  "cookieBanner.manageCookies": "Sütik kezelése",
+  "cookiePopup.managePreferences": "Süti beállítások kezelése",
+  "cookiePopup.necessaryCookies": "Szükséges sütik",
+  "cookiePopup.necessaryCookiesDesc": "Ezek a sütik elengedhetetlenek a weboldal működéséhez.",
+  "cookiePopup.analyticsCookies": "Analitikai sütik",
+  "cookiePopup.analyticsCookiesDesc": "Az analitikai sütik segítenek megérteni, hogyan lépnek interakcióba a felhasználók a weboldallal.",
+  "cookiePopup.marketingCookies": "Marketing sütik",
+  "cookiePopup.marketingCookiesDesc": "A marketing sütik a felhasználói információk gyűjtésére szolgálnak",
+  "cookiePopup.savePreferences": "Beállítások mentése"
 }

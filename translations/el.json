@@ -128,5 +128,19 @@
   "home.getPeach.title": "Κατεβάστε τώρα την εφαρμογή Peach",
   "home.getPeach.downloadAPK": "Λήψη APK",
   "sroMember": "Η Peach είναι μέλος της SRO (Οργάνωση Αυτορρύθμισης) της Polyreg",
-  "licensedProvider": "Η Peach είναι αδειοδοτημένος πάροχος χρηματοοικονομικών υπηρεσιών στην Ελβετία και συμμορφώνεται πλήρως με τον Ελβετικό Νόμο για την Καταπολέμηση της Νομιμοποίησης Εσόδων από Παράνομες Δραστηριότητες."
+  "licensedProvider": "Η Peach είναι αδειοδοτημένος πάροχος χρηματοοικονομικών υπηρεσιών στην Ελβετία και συμμορφώνεται πλήρως με τον Ελβετικό Νόμο για την Καταπολέμηση της Νομιμοποίησης Εσόδων από Παράνομες Δραστηριότητες.",
+  "manageCookiePreferences": "Διαχείριση προτιμήσεων cookie",
+  "cookieBanner.useCookies": "Χρησιμοποιούμε cookies για να βελτιώσουμε την εμπειρία σας.",
+  "cookieBanner.readMore": "Μάθετε περισσότερα",
+  "cookieBanner.acceptCookies": "Αποδοχή Cookies & Συνέχεια",
+  "cookieBanner.rejectCookies": "Απόρριψη Cookies",
+  "cookieBanner.manageCookies": "Διαχείριση Cookies",
+  "cookiePopup.managePreferences": "Διαχείριση προτιμήσεων cookie",
+  "cookiePopup.necessaryCookies": "Απαραίτητα Cookies",
+  "cookiePopup.necessaryCookiesDesc": "Αυτά τα cookies είναι απαραίτητα για τη λειτουργία του ιστότοπου.",
+  "cookiePopup.analyticsCookies": "Cookies Ανάλυσης",
+  "cookiePopup.analyticsCookiesDesc": "Τα cookies ανάλυσης μας βοηθούν να κατανοήσουμε πώς οι χρήστες αλληλεπιδρούν με τον ιστότοπο.",
+  "cookiePopup.marketingCookies": "Cookies Marketing",
+  "cookiePopup.marketingCookiesDesc": "Τα cookies marketing χρησιμοποιούνται για τη συλλογή πληροφοριών χρηστών",
+  "cookiePopup.savePreferences": "Αποθήκευση Προτιμήσεων"
 }
