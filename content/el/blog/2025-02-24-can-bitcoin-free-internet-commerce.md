@@ -3,7 +3,7 @@ keywords:
   - ecommerce
   - commerce
 tags:
-  - Ecommerce
+  - Rant
 previewImage: /img/blog/commerce.png
 ---
 # Μπορεί το Bitcoin να απελευθερώσει το εμπόριο στο διαδίκτυο;
