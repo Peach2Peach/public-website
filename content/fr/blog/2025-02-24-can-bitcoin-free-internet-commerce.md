@@ -3,7 +3,7 @@ keywords:
   - ecommerce
   - commerce
 tags:
-  - Ecommerce
+  - Rant
 previewImage: /img/blog/commerce.png
 ---
 # Le Bitcoin peut-il libérer le commerce sur Internet ?

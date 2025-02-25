@@ -3,7 +3,7 @@ keywords:
   - ecommerce
   - commerce
 tags:
-  - Ecommerce
+  - Rant
 previewImage: /img/blog/commerce.png
 ---
 # Felszabadíthatja-e a Bitcoin az internetes kereskedelmet?
