@@ -8,7 +8,7 @@ previewImage: /img/blog/commerce.png
 ---
 # Czy Bitcoin może uwolnić handel w Internecie?
 
-*Autor: Thibaud*
+*Autor: [Thibaud](https://x.com/thibm_)*
 
 Bitcoin został wynaleziony jako nowa forma pieniądza dla zwykłych ludzi, bez ingerencji rządu.
 

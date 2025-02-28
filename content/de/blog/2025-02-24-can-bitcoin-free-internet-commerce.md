@@ -8,7 +8,7 @@ previewImage: /img/blog/commerce.png
 ---
 # Kann Bitcoin den Internethandel befreien?
 
-*Von Thibaud*
+*Von [Thibaud](https://x.com/thibm_)*
 
 Bitcoin wurde als eine neue Form von Geld für den normalen Bürger erfunden – frei von staatlichen Eingriffen.
 

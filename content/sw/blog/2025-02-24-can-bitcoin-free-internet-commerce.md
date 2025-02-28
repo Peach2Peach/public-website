@@ -8,7 +8,7 @@ previewImage: /img/blog/commerce.png
 ---
 # Je, Bitcoin inaweza kuuweka huru biashara ya mtandaoni?
 
-*Na Thibaud*
+*Na [Thibaud](https://x.com/thibm_)*
 
 Bitcoin ilibuniwa kama aina mpya ya pesa kwa mtu wa kawaida, bila kuingiliwa na serikali.
 

@@ -8,7 +8,7 @@ previewImage: /img/blog/commerce.png
 ---
 # Can Bitcoin Free Internet Commerce?
 
-*By Thibaud*
+*By [Thibaud](https://x.com/thibm_)*
 
 Bitcoin was invented as a new form of money for the common man, without government interference.
 

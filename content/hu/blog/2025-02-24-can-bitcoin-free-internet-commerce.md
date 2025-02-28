@@ -8,7 +8,7 @@ previewImage: /img/blog/commerce.png
 ---
 # Felszabadíthatja-e a Bitcoin az internetes kereskedelmet?
 
-*Szerző: Thibaud*
+*Szerző: [Thibaud](https://x.com/thibm_)*
 
 A Bitcoint egy új fajta pénzként találták fel a hétköznapi emberek számára, kormányzati beavatkozás nélkül.
 
