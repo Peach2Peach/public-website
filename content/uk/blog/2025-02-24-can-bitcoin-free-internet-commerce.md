@@ -8,7 +8,7 @@ previewImage: /img/blog/commerce.png
 ---
 # Чи може Bitcoin звільнити інтернет-торгівлю?
 
-*Автор: Thibaud*
+*Автор: [Thibaud](https://x.com/thibm_)*
 
 Bitcoin було винайдено як нова форма грошей для звичайних людей, без втручання уряду.
 

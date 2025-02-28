@@ -8,7 +8,7 @@ previewImage: /img/blog/commerce.png
 ---
 # Kan Bitcoin de internet-handel bevrijden?
 
-*Door Thibaud*
+*Door [Thibaud](https://x.com/thibm_)*
 
 Bitcoin is uitgevonden als een nieuwe vorm van geld voor de gewone man, zonder inmenging van de overheid.
 

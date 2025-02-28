@@ -8,7 +8,7 @@ previewImage: /img/blog/commerce.png
 ---
 # Può Bitcoin liberare il commercio su Internet?
 
-*Di Thibaud*
+*Di [Thibaud](https://x.com/thibm_)*
 
 Bitcoin è stato inventato come una nuova forma di denaro per la gente comune, senza l'interferenza del governo.
 
