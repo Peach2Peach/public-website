@@ -128,5 +128,19 @@
   "home.getPeach.title": "Get The Peach App Now",
   "home.getPeach.downloadAPK": "Download APK",
   "sroMember": "Peach is an SRO member (Self Regulatory Organisation) of Polyreg",
-  "licensedProvider": "Peach is a Swiss licensed financial service provider and is fully compliant with Switzerland’s Anti-Money Laundering Act."
+  "licensedProvider": "Peach is a Swiss licensed financial service provider and is fully compliant with Switzerland’s Anti-Money Laundering Act.",
+  "manageCookiePreferences": "Manage Cookie Preferences",
+  "cookieBanner.useCookies": "We use cookies to improve your experience.",
+  "cookieBanner.readMore": "Read more",
+  "cookieBanner.acceptCookies": "Accept Cookies & Continue",
+  "cookieBanner.rejectCookies": "Reject Cookies",
+  "cookieBanner.manageCookies": "Manage Cookies",
+  "cookiePopup.managePreferences": "Manage cookie preferences",
+  "cookiePopup.necessaryCookies": "Necessary Cookies",
+  "cookiePopup.necessaryCookiesDesc": "These cookies are essential for the website's operation.",
+  "cookiePopup.analyticsCookies": "Analytics Cookies",
+  "cookiePopup.analyticsCookiesDesc": "Analytics cookies help us understand how users interact with the site.",
+  "cookiePopup.marketingCookies": "Marketing Cookies",
+  "cookiePopup.marketingCookiesDesc": "Marketing cookies are used to collect users information",
+  "cookiePopup.savePreferences": "Save Preferences"
 }
