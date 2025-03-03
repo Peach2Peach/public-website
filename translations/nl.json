@@ -128,5 +128,19 @@
   "home.getPeach.title": "Download Nu de Peach-app",
   "home.getPeach.downloadAPK": "Download APK",
   "sroMember": "Peach is een SRO-lid (Zelfregulerende Organisatie) van Polyreg",
-  "licensedProvider": "Peach is een erkende financiële dienstverlener in Zwitserland en voldoet volledig aan de Zwitserse Anti-Witwaswet."
+  "licensedProvider": "Peach is een erkende financiële dienstverlener in Zwitserland en voldoet volledig aan de Zwitserse Anti-Witwaswet.",
+  "manageCookiePreferences": "Cookievoorkeuren beheren",
+  "cookieBanner.useCookies": "We gebruiken cookies om uw ervaring te verbeteren.",
+  "cookieBanner.readMore": "Lees meer",
+  "cookieBanner.acceptCookies": "Cookies accepteren & doorgaan",
+  "cookieBanner.rejectCookies": "Cookies weigeren",
+  "cookieBanner.manageCookies": "Cookies beheren",
+  "cookiePopup.managePreferences": "Cookievoorkeuren beheren",
+  "cookiePopup.necessaryCookies": "Noodzakelijke cookies",
+  "cookiePopup.necessaryCookiesDesc": "Deze cookies zijn essentieel voor het functioneren van de website.",
+  "cookiePopup.analyticsCookies": "Analytische cookies",
+  "cookiePopup.analyticsCookiesDesc": "Analytische cookies helpen ons te begrijpen hoe gebruikers met de site omgaan.",
+  "cookiePopup.marketingCookies": "Marketingcookies",
+  "cookiePopup.marketingCookiesDesc": "Marketingcookies worden gebruikt om gebruikersinformatie te verzamelen",
+  "cookiePopup.savePreferences": "Voorkeuren opslaan"
 }

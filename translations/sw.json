@@ -128,5 +128,19 @@
   "home.getPeach.title": "Pakua Programu ya Peach Sasa",
   "home.getPeach.downloadAPK": "Pakua APK",
   "sroMember": "Peach ni mwanachama wa SRO (Shirika la Udhibiti wa Kibinafsi) la Polyreg",
-  "licensedProvider": "Peach ni mtoa huduma wa kifedha aliyeidhinishwa nchini Uswisi na anafuata kikamilifu Sheria ya Kupambana na Ufuaji Fedha ya Uswisi."
+  "licensedProvider": "Peach ni mtoa huduma wa kifedha aliyeidhinishwa nchini Uswisi na anafuata kikamilifu Sheria ya Kupambana na Ufuaji Fedha ya Uswisi.",
+  "manageCookiePreferences": "Simamia mapendeleo ya vidakuzi",
+  "cookieBanner.useCookies": "Tunatumia vidakuzi kuboresha uzoefu wako.",
+  "cookieBanner.readMore": "Soma zaidi",
+  "cookieBanner.acceptCookies": "Kubali Vidakuzi & Endelea",
+  "cookieBanner.rejectCookies": "Kataa Vidakuzi",
+  "cookieBanner.manageCookies": "Dhibiti Vidakuzi",
+  "cookiePopup.managePreferences": "Dhibiti mapendeleo ya vidakuzi",
+  "cookiePopup.necessaryCookies": "Vidakuzi Muhimu",
+  "cookiePopup.necessaryCookiesDesc": "Vidakuzi hivi ni muhimu kwa uendeshaji wa tovuti.",
+  "cookiePopup.analyticsCookies": "Vidakuzi vya Uchambuzi",
+  "cookiePopup.analyticsCookiesDesc": "Vidakuzi vya uchambuzi vinatusaidia kuelewa jinsi watumiaji wanavyoshirikiana na tovuti.",
+  "cookiePopup.marketingCookies": "Vidakuzi vya Masoko",
+  "cookiePopup.marketingCookiesDesc": "Vidakuzi vya masoko hutumika kukusanya taarifa za watumiaji",
+  "cookiePopup.savePreferences": "Hifadhi Mapendeleo"
 }
