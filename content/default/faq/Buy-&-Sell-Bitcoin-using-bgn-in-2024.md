@@ -23,7 +23,7 @@ PeachBitcoin is the secure, quick, and easy way to buy and sell Bitcoin using an
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Buy bitcoin with Revolut, Sell bitcoin with Revolut">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-wise">Wise</a> 
+        <a href="/buy-bitcoin-with-Wise">Wise</a> 
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Buy bitcoin with Wise, Sell bitcoin with Wise">
     </div>
     <div class="payment-grid-item">
