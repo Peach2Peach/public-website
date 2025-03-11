@@ -36,18 +36,31 @@ languages.forEach(language => {
     },
   )
 
-  const posts = globSync(join(dir, 'content', language, 'blog', '*.md')).map(
-    filePath => {
+  const posts = globSync(join(dir, 'content', language, 'blog', '*.md'))
+    .map(filePath => {
       const postData = getMarkdown(filePath)
-      const [, date, name] = filePath.match(/(\d{4}-\d{2}-\d{2})-(.*)\./)
-      postData.date = toDate(date)
+      const match = filePath.match(/(\d{4}-\d{2}-\d{2})-(.*)\./)
+      if (!match) {
+        return null
+      }
+      const [, dateStr, name] = match
+      const parsedDate = new Date(dateStr)
+      if (isNaN(parsedDate.getTime())) {
+        return null
+      }
+
+      if (!postData.title) {
+        return null
+      }
+
+      postData.date = toDate(dateStr)      // if we prefeer an object data we can also use : postData.date = parsedDate
       postData.name = name
       postData.permalink = `blog/${postData.name}`
       if (language !== 'default') postData.lang = language
-      return postData
-    },
-  )
 
+      return postData
+    })
+    .filter(Boolean)
   // blog with tags
   const blogPage = pages.find(p => p.id === 'blog')
   const tags = Object.values(
