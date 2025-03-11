@@ -22,7 +22,7 @@ keywords:
 
 tags:
   - Produto
-previewImage: /img/home/bitcoin-logo.png
+previewImage: /img/blog/peachstrike.png
 description: |
   Explore o mundo inovador do Bitcoin, a criptomoeda pioneira que permite transações seguras e descentralizadas através de uma rede global. Aprenda sobre os principais trocadores de Bitcoin sem KYC, mercados de negociação peer-to-peer e os benefícios das transações anônimas com Bitcoin. Descubra por que o Bitcoin continua sendo um investimento valioso em 2024 e como ele se mantém seguro contra exploração.
 ---
