@@ -24,6 +24,17 @@
   & article + article {
     margin-top: var(--space-xxxl);
   }
+  
+  .apk-button-wrapper {
+    text-align: center; 
+    margin-top: 1.5rem;   /* Spazio sopra il bottone */
+  }
+
+  .apk-button-wrapper .apk-button-image {
+    /* Se vuoi regolare dimensioni o display */
+    max-height: 80px;
+    display: inline-block;
+  }
 
   & .content-wrap--flex {
     align-items: center;
@@ -31,6 +42,7 @@
     & div {
       text-align: center;
     }
+    
 
     @media (--up_to_M) {
       & figure {

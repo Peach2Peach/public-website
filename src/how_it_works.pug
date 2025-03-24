@@ -8,38 +8,59 @@ block teaser
     != html.teaser
     a.scroll(href="#main"): +sprite("chevron-down")
 
+  script(type="text/javascript" src=assetPath("/js/tabs.js"))
+
 block main
-  section.wrap
-    article.content-wrap.content-wrap--flex
-      div!= html.easy_registration
-      figure: img(src=assetPath("/img/how-it-works/easy_registration.png"))
+
+  section.payment-methods-section
+    h2(style="background: var(--bg-gradient-peachy); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 40px;") Supported Payment Methods On Peach
+    p Peach Bitcoin offers a variety of secure and swift payment methods for buying and selling Bitcoin, prioritizing your privacy and security with customized options.
+
+    .payment-frame
+      div.payment-button.active(data-target="europe") Europe
+      div.payment-button(data-target="latin-america") Latin America
+      div.payment-button(data-target="africa") Africa
+      div.payment-button(data-target="others") Others
 
   section.wrap#payment
     article.content-wrap.content-wrap--centered
       != html.payment_methods
 
+  section.contact-container-howto
+    div.wrap
+      h3.payment-container-title.peach-text !{i18n('howto.contact.title', lang)}
+      p.contact-container-subtitle-howto !{i18n('howto.contact.subtitle', lang)}
+      div.contact-container-buttons 
+        a.contact-container-button-outline(href=getUrl(`https://ncxldazr6m4.typeform.com/to/SJljDnae`, lang))
+          span !{i18n('reccomanded.contact', lang)}
+        a.order-book-button(href=getUrl(`/kycfree-orderbook`, lang))
+          img(src="/img/home/show_chart.svg" alt="Show Chart Button")
+          span.order-book-button-text !{i18n('home.teaser.viewOrderBook', lang)}
+
+  section.wrap#payment.self-custody
     article.content-wrap.content-wrap--flex
       div!= html.self_custody
       figure: img(src=assetPath("/img/how-it-works/self_custody.png"))
 
-  section.wrap
-    article#sounds_cool.content-wrap.content-wrap--centered
-      != html.sounds_cool
-      a(href=getUrl("/quick-start/", lang)).button.button--primary
-        span !{i18n('quickStartGuide', lang)}
-        +sprite("quickstart")
+  section#security
+    .wrap
+      article.content-wrap.content-wrap--flex
+        figure: img(src=assetPath("/img/how-it-works/security.png"))
+        div!= html.security
+  
+  section#difference
+    .wrap
+      article.content-wrap.content-wrap--flex
+        div!= html.difference
+        figure: img(src=assetPath("/img/how-it-works/difference.png"))
 
-    article.content-wrap.content-wrap--flex
-      div!= html.security
-      figure: img(src=assetPath("/img/how-it-works/security.png"))
-
-    article.content-wrap.content-wrap--flex
-      div!= html.difference
-      figure: img(src=assetPath("/img/how-it-works/difference.png"))
-
-  section.wrap
-    article#questions.content-wrap.content-wrap--centered
-      != html.questions
-      a(href=getUrl("/support/", lang)).button.button--primary
-        span !{i18n('support', lang)}
-        +sprite("help")
+  #index
+    section.contact-container1
+      div.wrap
+        h3.contact-container-title1.peach-text !{i18n('home.contact.title', lang)}
+        p.contact-container-subtitle1 !{i18n('home.contact.subtitle', lang)}
+        div.contact-container-buttons1
+          a.contact-container-button-outline1(href=getUrl(`/faqhome/`, lang))
+            span !{i18n('home.contact.checkFAQ', lang)}
+          a.primary-button(href=getUrl(`/support/`, lang))
+            span.primary-button-text !{i18n('home.contact.contactSupport', lang)}

@@ -1,0 +1,197 @@
+.payment-methods-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  padding: 24px 200px 32px 200px;
+  background: #FFF;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .payment-methods-section {
+    padding: 24px 16px 32px; /* riduci il padding orizzontale per mobile */
+  }
+  
+  /* Se sposti lo stile del titolo nel CSS, puoi fare così: */
+  .payment-methods-section h2 {
+    font-size: 38px; /* scala la dimensione del font per mobile */
+  }
+}
+
+.payment-frame {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 11.099px 11.1px;
+  border-radius: 62px;
+  background: var(--Primary-Background-Main, #FFF9F6);
+  box-shadow: 
+    0px 63.041px 25.34px 0px rgba(43, 25, 17, 0.01), 
+    0px 17.798px 28.8px 0px rgba(43, 25, 17, 0.04);
+}
+
+.payment-button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 8px 16px; /* regola a piacere */
+  border-radius: 9999px; /* per dare un effetto pillola */
+  font: inherit; /* eredita font dal contenitore, se necessario */
+  transition: all 0.1s ease; /* un po' di transizione per hover/click */
+}
+
+.payment-button:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.payment-button.active {
+  background: var(--bg-gradient-peachy);
+  color: #fff;
+  border-radius: 9999px;
+}
+
+.contact-container-howto {
+  padding-top: 2.4rem !important;
+  padding-bottom: 2.4rem !important;
+  background: #fff;
+  text-align: center;
+
+  & .payment-container-title{
+    font-size: 1.8325rem;
+    font-weight: 700;
+    line-height: 1.8325rem;
+    word-wrap: break-word;
+    margin-bottom: 1.8rem !important;
+  }
+
+  & .contact-container-subtitle-howto  {
+    color: var(--color-body-text);
+    font-size: 1.134rem;
+    font-weight: var(--font-weight-normal);
+    line-height: 1.134rem;
+    word-wrap: break-word;
+    margin-bottom: var(--space-l) !important;
+  }
+
+  & .contact-container-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: var(--space-m);
+
+    & .contact-container-button-outline {
+      display: flex;
+      align-items: center; 
+      justify-content: center; 
+      gap: var(--space-xs); 
+      padding: var(--space-m) var(--space-l) !important; 
+      background: var(--color-white); 
+      border-radius: 5rem; 
+      border: 1px var(--color-primary-main) solid; 
+
+      & span {
+        color: var(--color-primary-main);
+        font-size: 0.8rem;
+        font-weight: var(--font-weight-semibold);
+        line-height: 1.2rem;
+        letter-spacing: 0.15px;
+        word-wrap: break-word;
+      }
+    }
+
+    & .contact-container-button-primary {
+      display: flex;
+      align-items: center; 
+      justify-content: center; 
+      gap: var(--space-xs); 
+      padding: var(--space-m) var(--space-l) !important; 
+      background: var(--bg-gradient-peachy);
+      border-radius: 5rem;
+      min-width: 100px;
+      flex-shrink: 0; 
+
+      & span {
+        color: var(--color-white);
+        font-size: 0.8rem;
+        font-weight: var(--font-weight-semibold);
+        line-height: 1.2rem;
+        letter-spacing: 0.15px;
+        word-wrap: break-word;
+      }
+    }
+  }
+}
+
+.download-peach-content {
+  padding-top: 2.4rem !important;
+  padding-bottom: 2.4rem;
+  background: white;
+  border-radius: 1.8rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  gap: 1.2rem;
+
+  & .download-peach-image-container {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+
+    & .download-peach-image {
+      width: auto;
+      height: 100%;
+      max-height: 33.45rem;
+    }
+  }
+}
+
+#payment.self-custody {
+  background-color: #FFF9F6; /* Peach */
+  border-radius: 24px;
+  padding: 40px 20px; /* Spaziatura interna */
+}
+
+/* Stile del testo (Markdown iniettato) */
+#payment.self-custody h2 {
+  color: #FF694A;    /* Arancione / Peach scuro */
+  font-size: 2rem;
+  margin-bottom: 16px;
+}
+
+#payment.self-custody p {
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Flex alignment: testo centrato verticalmente con l’immagine */
+#payment.self-custody .content-wrap--flex {
+  align-items: center;
+  gap: 2rem;         /* Spazio orizzontale fra testo e immagine */
+}
+
+/* Immagine responsive */
+#payment.self-custody figure img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Responsivo: su schermi stretti diventa colonna */
+@media (max-width: 768px) {
+  #payment.self-custody .content-wrap--flex {
+    flex-direction: column;
+    text-align: center;
+  }
+  #payment.self-custody figure img {
+    max-width: 100%;
+  }
+}
+
+.arrow-icon {
+  width: 32px;
+  height: 32px;
+  fill: currentColor; /* per ereditare il colore dal testo */
+}

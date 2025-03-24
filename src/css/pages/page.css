@@ -46,7 +46,7 @@
 }
 
 .main {
-  padding-top: var(--header-height);
+  /* padding-top: var(--header-height); */
   flex: 1;
 
   & section {
@@ -65,7 +65,7 @@
 
 .teaser {
   color: var(--color-white);
-  background: var(--bg-gradient-peachy);
+  background: url('/img/how-it-works/herocircle.png') no-repeat center center;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -174,6 +174,202 @@
     &:hover {
       color: var(--color-peach);
       text-decoration: none;
+    }
+  }
+}
+
+#security {
+  /* Se vuoi un background color o gradiente specifico */
+  background: var(--bg-gradient-peachy);
+  /* Oppure un colore fisso, es: background-color: #fff; */
+  color: var(--color-white);
+
+  /* Padding personalizzato se necessario */
+  display: flex;
+  padding-top: var(--section-padding-top);
+  padding-bottom: var(--section-padding-bottom);
+}
+
+/* Allinea meglio i contenuti in #security */
+#security .content-wrap--flex {
+  /* Se vuoi centrare verticalmente o cambiare giustificazione */
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Limita l’immagine e aggiusta eventuali margini in #security */
+#security figure img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Titolo “Super secure” e testo di descrizione */
+section#security h3 {
+  letter-spacing: -0.7px;
+  leading-trim: both;
+  background: #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 3.2rem;
+  margin-bottom: var(--space-s);
+}
+
+#security p {
+  font-size: 1.125rem;
+  line-height: 1.5;
+  margin-bottom: var(--space-m);
+}
+
+section.wrap#payment.self-custody h3,
+section.wrap#difference h3 {
+  leading-trim: both;
+  text-edge: cap;
+  background: var(--bg-gradient-peachy);
+  font-size: 59.301px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100%; /* Equivalente a 59.301px */
+  letter-spacing: -0.593px;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+section.wrap#payment.self-custody p,
+section.wrap#difference p {
+  font-size: 1.125rem;
+  line-height: 1.5;
+  margin-bottom: var(--space-m);
+}
+
+@media (max-width: 768px) {
+  section.wrap#payment.self-custody h3,
+  section#difference h3 {
+    margin-bottom: 1.5rem;
+    font-size: 33px; /* o il valore desiderato */
+  }
+  section.wrap#payment.self-custody p,
+  section#difference p {
+    font-size: 1.125rem; /* oppure 18px, 1.2rem, ecc. */
+    line-height: 1.5;    /* facoltativo, se vuoi maggiore leggibilità */
+  }
+}
+
+#difference {
+  background: var(--color-white);
+  display: flex;
+  padding-top: var(--section-padding-top);
+  padding-bottom: var(--section-padding-bottom);
+}
+
+#difference .content-wrap--flex {
+  align-items: center;
+  justify-content: space-between;
+}
+
+#difference figure img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+#difference h3 {
+  leading-trim: both;
+  text-edge: cap;
+  background: var(--bg-gradient-peachy);
+  font-size: 59.301px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100%; /* Equivalente a 59.301px */
+  letter-spacing: -0.593px;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#payment.self-custody h3 {
+  leading-trim: both;
+  text-edge: cap;
+  background: var(--bg-gradient-peachy);
+  font-size: 59.301px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100%; /* Equivalente a 59.301px */
+  letter-spacing: -0.593px;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.contact-container1 {
+  padding-top: 2.4rem !important;
+  padding-bottom: 2.4rem !important;
+  background: var(--color-bg-main);
+  text-align: center;
+
+  & .contact-container-title1 {
+    font-size: 1.8325rem;
+    font-weight: 700;
+    line-height: 1.8325rem;
+    word-wrap: break-word;
+    margin-bottom: 1.8rem !important;
+  }
+
+  & .contact-container-subtitle1 {
+    color: var(--color-body-text);
+    font-size: 1.134rem;
+    font-weight: var(--font-weight-normal);
+    line-height: 1.134rem;
+    word-wrap: break-word;
+    margin-bottom: var(--space-l) !important;
+  }
+
+  & .contact-container-buttons1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: var(--space-m);
+
+    & .contact-container-button-outline1 {
+      display: flex;
+      align-items: center; 
+      justify-content: center; 
+      gap: var(--space-xs); 
+      padding: var(--space-m) var(--space-l) !important; 
+      background: var(--color-white); 
+      border-radius: 5rem; 
+      border: 1px var(--color-primary-main) solid; 
+
+      & span {
+        color: var(--color-primary-main);
+        font-size: 0.8rem;
+        font-weight: var(--font-weight-semibold);
+        line-height: 1.2rem;
+        letter-spacing: 0.15px;
+        word-wrap: break-word;
+      }
+    }
+
+    & .contact-container-button-primary1 {
+      display: flex;
+      align-items: center; 
+      justify-content: center; 
+      gap: var(--space-xs); 
+      padding: var(--space-m) var(--space-l) !important; 
+      background: var(--bg-gradient-peachy);
+      border-radius: 5rem;
+      min-width: 100px;
+      flex-shrink: 0; 
+
+      & span {
+        color: var(--color-white);
+        font-size: 0.8rem;
+        font-weight: var(--font-weight-semibold);
+        line-height: 1.2rem;
+        letter-spacing: 0.15px;
+        word-wrap: break-word;
+      }
     }
   }
 }
