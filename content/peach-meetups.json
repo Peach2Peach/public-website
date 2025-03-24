@@ -658,5 +658,17 @@
     "url": "https://www.bitcoinnottingham.org/",
     "longitude": -1.1581,
     "latitude": 52.9548
+  },
+  {
+    "name": "Bitcoin Gwand",
+    "url": "https://x.com/BitcoinGwada",
+    "longitude": -61.5854,
+    "latitude": 16.2672
+  },
+  {
+    "name": "Normandie Bitcoin",
+    "url": "https://x.com/simontia83",
+    "longitude": -0.3700,
+    "latitude": 49.1829
   }
 ]
