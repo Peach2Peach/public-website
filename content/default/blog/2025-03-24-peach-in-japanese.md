@@ -38,7 +38,7 @@ protected and nurtured people for centuries, Peach Bitcoin empowers users with f
 allowing them to transact securely and independently. It represents a return to the core principles of
 Bitcoin—decentralization, privacy, and economic self-sovereignty.
 
-# Peach Bitcoin Philosophyù
+# Peach Bitcoin Philosophy
 
 By drawing on the deep symbolism of the peach, we can better appreciate Bitcoin’s role in shaping a freer
 financial future. Whether through folklore or finance, the themes of longevity, protection, and prosperity
