@@ -65,7 +65,7 @@
 
 .teaser {
   color: var(--color-white);
-  background: url('/img/how-it-works/herocircle.png') no-repeat center center;
+  background: url('/img/home/herocircle.png') no-repeat center center;
   display: flex;
   flex-direction: column;
   align-items: center;
