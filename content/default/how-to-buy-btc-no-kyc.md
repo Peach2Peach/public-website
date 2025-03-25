@@ -8,7 +8,7 @@ template: how_it_works
 ![Buy and Sell Bitcoin Peer-to-Peer](/img/how-it-works/thisispeer.png)
 
 ### Stack sats <span>every day</span>!
-#### **Buy and Sell up to 1000 CHF per day and 100'000 CHF per year.**
+#### **Buy and Sell up to 1000 CHF worth of Bitcoin per day and 100,000 CHF per year.**
 
 <div class="custom-section_357">
   <div class="md:flex items-end">
@@ -19,7 +19,11 @@ template: how_it_works
 
 <div class="apk-button-wrapper text-center mt-4">
   <a href="/apk/">
-    <img class="mx-auto h-90px md:h-90px" src="/img/how-it-works/Buttons.png" alt="Download Peach Bitcoin APK" />
+    <img 
+      class="mx-auto h-90px md:h-90px apk-button-image" 
+      src="/img/how-it-works/Buttons.png" 
+      alt="Download Peach Bitcoin APK"
+    />
   </a>
 </div>
 

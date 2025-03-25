@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;700&display=swap');
+
 .wrap {
   max-width: 1500px;
   margin-left: auto;
@@ -104,6 +106,7 @@
   }
 
   & h3 {
+    font-family: 'Baloo 2', sans-serif;
     font-size: clamp(1.5rem, 5vw, 2.5rem);
     max-width: 17em;
   }

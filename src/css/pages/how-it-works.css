@@ -157,3 +157,77 @@
     margin-bottom: var(--space-xxl);
   }
 }
+
+@media screen and (max-width: 768px) {
+  .custom-section_357 {
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 2rem;
+    padding: 0 1rem;
+  }
+
+  .custom-section_357 a {
+    display: block;
+    max-width: 220px; /* dimensione più grande */
+    width: 100%;
+    margin: 0.5rem auto;
+  }
+
+  .custom-section_357 a img {
+    width: 100%;
+    height: auto;
+    max-height: 56px;
+  }
+
+  .apk-button-wrapper {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .apk-button-wrapper img {
+    height: 48px !important;
+    width: auto;
+    max-width: 220px;
+  }
+
+  .teaser {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+
+  .teaser h1, .teaser h2, .teaser p {
+    text-align: center;
+    padding: 0 1rem;
+    margin-bottom: 1rem;
+  }
+
+  a.scroll {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
+  a.scroll svg {
+    width: 32px;
+    height: 32px;
+    fill: white;
+    animation: bounce 2s infinite;
+    opacity: 0.8;
+  }
+
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(8px);
+    }
+  }
+}
