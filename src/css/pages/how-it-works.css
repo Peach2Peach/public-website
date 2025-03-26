@@ -231,3 +231,57 @@
     }
   }
 }
+
+@media screen and (max-width: 375px) {
+  .teaser img {
+    max-height: 18vh !important; /* Ridotto ulteriormente */
+    margin-top: 1rem; /* Aggiunto spazio sopra */
+  }
+
+  .teaser h1 {
+    font-size: clamp(1rem, 3.5vw, 1.2rem); /* Ridotto ulteriormente */
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+    text-align: center; /* Centrato */
+  }
+
+  .teaser h2 {
+    font-size: clamp(0.9rem, 3vw, 1rem); /* Ridotto ulteriormente */
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    text-align: center; /* Centrato */
+  }
+
+  .custom-section_357 {
+    gap: 0.75rem; /* Aggiunto spazio tra i pulsanti */
+  }
+
+  .custom-section_357 a {
+    max-width: 140px; /* Ridotto ulteriormente */
+    margin: 0.25rem auto; /* Ridotto spazio verticale */
+  }
+
+  .custom-section_357 a img {
+    max-height: 35px; /* Ridotto ulteriormente */
+  }
+
+  .apk-button-wrapper {
+    margin-top: 1rem; /* Spazio ridotto */
+    margin-bottom: 1rem; /* Spazio ridotto */
+  }
+
+  .apk-button-wrapper img {
+    height: 30px !important; /* Ridotto ulteriormente */
+    max-width: 140px; /* Ridotto ulteriormente */
+  }
+
+  a.scroll {
+    margin-top: 1.5rem; /* Aggiunto spazio sopra */
+    margin-bottom: 1rem; /* Aggiunto spazio sotto */
+  }
+
+  a.scroll svg {
+    width: 18px; /* Ridotto ulteriormente */
+    height: 18px; /* Ridotto ulteriormente */
+  }
+}
