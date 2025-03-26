@@ -48,25 +48,35 @@
 }
 
 @media (--up_to_M) {
-  .content-wrap--flex {
-    flex-direction: column;
-    /* Inverti l'ordine di immagine e testo */
-  }
-
-  .content-wrap--flex > :first-child {
-    order: 2; /* Sposta il testo sotto l'immagine */
-  }
-
-  .content-wrap--flex > :last-child {
-    order: 1; /* Sposta l'immagine sopra il testo */
-  }
-  .content-wrap--flex h3 {
-    text-align: center;
-    width: 100%; /* Assicura che il titolo occupi tutta la larghezza disponibile */
-  }
-  
   /* Se vuoi centrare solo i titoli in Markdown con la classe specifica */
   .self-custody h3 {
+    text-align: center;
+    width: 100%;
+  }
+  .content-wrap--flex {
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  .content-wrap--flex figure {
+    width: 100%;
+    order: 2; /* Posiziona le immagini dopo il testo */
+  }
+
+  .content-wrap--flex img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 233.18 / 173.24;
+    object-fit: contain;
+  }
+
+  .content-wrap--flex > div {
+    order: 1; /* Posiziona il contenuto prima delle immagini */
+    text-align: center;
+  }
+
+  /* Allinea tutti gli h3 */
+  .section h3 {
     text-align: center;
     width: 100%;
   }
@@ -100,6 +110,7 @@
   padding: calc(var(--section-padding-top) + var(--header-height))
     var(--wrap-padding-horizontal) var(--section-padding-bottom);
   text-align: center;
+  border-radius: 0px 0px 23.999px 24px;
 
   /* gradually try to set better but less supported values and units */
   min-height: 100vh;

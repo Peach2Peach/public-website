@@ -199,5 +199,5 @@
 
 .apk-button-wrapper img {
   max-height: none !important;
-  height: auto !important;
+  height: 100px auto !important;
 }

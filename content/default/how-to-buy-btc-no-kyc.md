@@ -21,7 +21,7 @@ template: how_it_works
   <a href="/apk/">
     <img 
       class="mx-auto h-90px md:h-90px apk-button-image" 
-      src="/img/home/Buttons.png" 
+      src="/img/home/Buttons.svg" 
       alt="Download Peach Bitcoin APK"
     />
   </a>
