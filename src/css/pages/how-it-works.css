@@ -235,7 +235,6 @@
 @media screen and (max-width: 375px) {
   .teaser img {
     max-height: 18vh !important; /* Ridotto ulteriormente */
-    margin-top: 1rem; /* Aggiunto spazio sopra */
   }
 
   .teaser h1 {
