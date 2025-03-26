@@ -1,4 +1,5 @@
 .payment-methods-section {
+  margin-top: calc(-1 * var(--header-height));
   display: flex;
   flex-direction: column;
   align-items: center;

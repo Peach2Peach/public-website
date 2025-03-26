@@ -184,7 +184,7 @@ Peach uses Multi-Signature bitcoin addresses to make sure that the correct party
 
 <!--[difference]-->
 
-### What makes Peach different from other exchanges?
+### What makes Peach different?
 
 
 With Peach, you don't buy from or sell to us.

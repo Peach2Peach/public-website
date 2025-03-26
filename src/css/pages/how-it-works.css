@@ -232,7 +232,7 @@
   }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (min-width: 375px) and (max-width: 767.99px) {
   .teaser img {
     max-height: 18vh !important; /* Ridotto ulteriormente */
   }

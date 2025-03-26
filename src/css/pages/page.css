@@ -47,8 +47,33 @@
   }
 }
 
+@media (--up_to_M) {
+  .content-wrap--flex {
+    flex-direction: column;
+    /* Inverti l'ordine di immagine e testo */
+  }
+
+  .content-wrap--flex > :first-child {
+    order: 2; /* Sposta il testo sotto l'immagine */
+  }
+
+  .content-wrap--flex > :last-child {
+    order: 1; /* Sposta l'immagine sopra il testo */
+  }
+  .content-wrap--flex h3 {
+    text-align: center;
+    width: 100%; /* Assicura che il titolo occupi tutta la larghezza disponibile */
+  }
+  
+  /* Se vuoi centrare solo i titoli in Markdown con la classe specifica */
+  .self-custody h3 {
+    text-align: center;
+    width: 100%;
+  }
+}
+
 .main {
-  /* padding-top: var(--header-height); */
+  padding-top: var(--header-height);
   flex: 1;
 
   & section {
