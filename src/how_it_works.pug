@@ -6,8 +6,24 @@ block append vars
 block teaser
   section.teaser
     != html.teaser
-    a.scroll(href="#main"): +sprite("chevron-down")
+    .custom-section_357
+      div(class="md:flex items-end")
+        a(href="https://testflight.apple.com/join/wfSPFEWG")
+          img(class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Peach Bitcoin app on the App Store without KYC verification")
+        a(class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet")
+          img(class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Peach Bitcoin app on Google Play store without ID verification")
+        a(class="md:ml-4" href="https://zapstore.dev/download/")
+          img(class="h-180px md:h-90px" src="/img/home/zap-button.svg" alt="Get Peach Bitcoin app on zap store without ID verification")
 
+    .apk-button-wrapper.text-center.mt-4
+      a(href="/apk/")
+        img(
+          class="mx-auto h-90px md:h-90px apk-button-image"
+          src="/img/home/Buttons.svg"
+          alt="Download Peach Bitcoin APK"
+        )
+
+    a.scroll(href="#main"): +sprite("chevron-down")
   script(type="text/javascript" src=assetPath("/js/tabs.js"))
 
 block main

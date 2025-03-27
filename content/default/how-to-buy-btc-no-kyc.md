@@ -10,23 +10,6 @@ template: how_it_works
 ### Stack sats <span>every day</span>!
 #### **Buy and Sell up to 1000 CHF worth of Bitcoin per day and 100,000 CHF per year.**
 
-<div class="custom-section_357">
-  <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Peach Bitcoin app on the App Store without KYC verification"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Peach Bitcoin app on Google Play store without ID verification"></a>
-    <a class="md:ml-4" href="https://zapstore.dev/download/"><img class="h-180px md:h-90px" src="/img/home/zap-button.svg" alt="Get Peach Bitcoin app on zap store without ID verification"></a>
-  </div>
-
-<div class="apk-button-wrapper text-center mt-4">
-  <a href="/apk/">
-    <img 
-      class="mx-auto h-90px md:h-90px apk-button-image" 
-      src="/img/home/Buttons.svg" 
-      alt="Download Peach Bitcoin APK"
-    />
-  </a>
-</div>
-
 
 <!--[payment_methods]-->
 
