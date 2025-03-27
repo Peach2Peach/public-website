@@ -188,6 +188,12 @@ Once a dispute is logged, a hash of the IP and other data will temporarily be st
 
 This process for resolving disputes is incorporated in all contracts between buyers and sellers arranged through Peach.
 
+The following rules are enforced by professional dispute mediators with fairness in mind (please review this section frequently, as it will be update everytime a new real case comes up to the mediatos attention):
+
+- The default time-frame for the user to provide the evidences requested by the dispute mediator is 24 hours. This window can be extended if asked in the chat (eg: waiting that the bank provides the bank statement). But this must be asked within the 24 hours otherwise the dispute will be resolved for unresponsiveness.
+
+- In case of partial payments or payments with the wrong payment method (eg: regular SEPA instead of SEPA instant), the seller can get the bitcoins back from the escrow after an evidence of the payment refunds is provided. If the refund involves a fee, the seller can deduct it from the wrong payment. The seller can not keep the wrong payment and the sats.
+
 ## 11. Peach fees
 
 Any contract successfully finished through the Peach platform will be subject to a fee; 2% of the total amount sent out of the escrow will be sent to a bitcoin address controlled by Peach. The remaining funds will be sent to the address indicated by the Buyer, minus any bitcoin transaction fees.
