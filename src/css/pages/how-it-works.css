@@ -232,54 +232,71 @@
 }
 
 @media screen and (min-width: 375px) and (max-width: 767.99px) {
+  /* Immagine teaser più proporzionata */
   .teaser img {
-    max-height: 18vh !important; /* Ridotto ulteriormente */
+    max-height: 16vh !important;
+    width: auto;
+    margin: 0 auto;
   }
 
+  /* Miglior leggibilità e centratura testo teaser */
   .teaser h1 {
-    font-size: clamp(1rem, 3.5vw, 1.2rem); /* Ridotto ulteriormente */
-    line-height: 1.2;
-    margin-bottom: 0.5rem;
-    text-align: center; /* Centrato */
+    font-size: clamp(1rem, 4vw, 1.2rem);
+    line-height: 1.3;
+    margin-bottom: 0.6rem;
+    text-align: center;
   }
 
   .teaser h2 {
-    font-size: clamp(0.9rem, 3vw, 1rem); /* Ridotto ulteriormente */
-    line-height: 1.2;
+    font-size: clamp(0.9rem, 3.5vw, 1rem);
+    line-height: 1.3;
     margin-bottom: 1rem;
-    text-align: center; /* Centrato */
+    text-align: center;
   }
 
+  /* Gestione pulsanti download più pulita */
   .custom-section_357 {
-    gap: 0.75rem; /* Aggiunto spazio tra i pulsanti */
+    gap: 0.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
   }
 
   .custom-section_357 a {
-    max-width: 140px; /* Ridotto ulteriormente */
-    margin: 0.25rem auto; /* Ridotto spazio verticale */
+    max-width: 130px;
+    margin: 0.3rem;
+  }
+
+  .custom-section_357 .md\:flex {
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem; /* Spazio tra i bottoni */
+    margin-top: 65px;
   }
 
   .custom-section_357 a img {
-    max-height: 35px; /* Ridotto ulteriormente */
+    max-height: 40px;
+    width: auto;
+    height: auto;
   }
 
+  /* Pulsante APK più armonico */
   .apk-button-wrapper {
-    margin-top: 1rem; /* Spazio ridotto */
-    margin-bottom: 1rem; /* Spazio ridotto */
+    margin: 1rem auto;
   }
 
-  .apk-button-wrapper img {
-    height: 30px !important; /* Ridotto ulteriormente */
-    max-width: 140px; /* Ridotto ulteriormente */
+  .apk-button-wrapper img.apk-button-image {
+    height: 55px !important;
+    max-width: 130px;
   }
 
+  /* Scroll link migliorato */
   a.scroll {
-    margin-top: 1.5rem; /* Aggiunto spazio sopra */
-    margin-bottom: 1rem; /* Aggiunto spazio sotto */
+    display: block;
+    margin: 1.2rem auto;
   }
 
   a.scroll svg {
-    width: 18px; /* Ridotto ulteriormente */
-    height: 18px; /* Ridotto ulteriormente */
+    width: 16px;
+    height: 16px;
   }
 }

@@ -515,32 +515,3 @@ blockquote cite {
 }
 
 /* Responsive spacing per schermi più piccoli */
-@media (max-width: 768px) {
-  .custom-section_357 {
-    margin-top: 1rem;
-    padding-top: 0.5rem;
-  }
-  .custom-section_357 .md\:flex {
-    flex-direction: column; /* Torna orizzontale su schermi più grandi */
-  }
-  .custom-section_357 a {
-    display: block;
-    width: 100%; /* Larghezza piena su mobile */
-    max-width: 250px; /* Larghezza massima */
-    margin-bottom: 1rem; /* Spazio tra i bottoni */
-  }
-}
-
-/* Stili aggiuntivi per allineamento e spaziatura dei bottoni */
-.custom-section_357 .md\:flex {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.5rem; /* Spazio tra i bottoni */
-  margin-top: 65px;
-}
-
-.custom-section_357 a {
-  display: inline-block;
-  margin-bottom: 0.5rem; /* Spazio sotto i bottoni per mobile */
-}

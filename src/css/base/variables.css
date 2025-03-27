@@ -109,3 +109,21 @@
     --section-padding-top: var(--space-xxl);
   }
 }
+
+@media screen and (max-width: 459.99px) and (-webkit-device-pixel-ratio: 3) {
+  :root {
+    --font-size-base: 15px;
+    --font-size-l: 1.3rem;
+    --font-size-xl: 1.5rem;
+    --font-size-xxl: 1.7rem;
+    --font-size-xxxl: 2.5rem;
+    --header-height: 4.5rem;
+    --wrap-padding-horizontal: var(--space-l);
+    --section-padding-top: var(--space-xl);
+  }
+  .teaser img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+}
