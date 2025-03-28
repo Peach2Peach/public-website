@@ -142,5 +142,8 @@
   "cookiePopup.analyticsCookiesDesc": "Analytics cookies help us understand how users interact with the site.",
   "cookiePopup.marketingCookies": "Marketing Cookies",
   "cookiePopup.marketingCookiesDesc": "Marketing cookies are used to collect users information",
-  "cookiePopup.savePreferences": "Save Preferences"
+  "cookiePopup.savePreferences": "Save Preferences",
+  "howto.contact.title": "Want More Payment Options?",
+  "howto.contact.subtitle": "If there's another Payment Method you'd like to use, but it isn't listed, let us know by clicking the link and filling the form. You can also check out the order book to see all the live orders for your preferred payment method.",
+  "reccomanded.contact": "Recommend Payment Method"
 }
