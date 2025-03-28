@@ -27,11 +27,10 @@
   
   .apk-button-wrapper {
     text-align: center; 
-    margin-top: 1.5rem;   /* Spazio sopra il bottone */
+    margin-top: 1.5rem;
   }
 
   .apk-button-wrapper .apk-button-image {
-    /* Se vuoi regolare dimensioni o display */
     max-height: 80px;
     display: inline-block;
   }
@@ -158,7 +157,37 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 300px) and (max-width: 767.99px) {
+  .teaser {
+    padding: calc(var(--section-padding-top) + var(--header-height)) var(--wrap-padding-horizontal) 3rem;
+  }
+
+  .teaser img {
+    max-height: 16vh !important;
+    width: auto;
+    margin: 0 auto;
+  }
+
+  .teaser h1 {
+    font-size: clamp(1rem, 4vw, 1.2rem);
+    line-height: 1.3;
+    margin-bottom: 0.6rem;
+    text-align: center;
+  }
+
+  .teaser h2 {
+    font-size: clamp(0.9rem, 3.5vw, 1rem);
+    line-height: 1.3;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+  .teaser p {
+    text-align: center;
+    padding: 0 1rem;
+    margin-bottom: 1rem;
+  }
+
   .custom-section_357 {
     max-width: 100%;
     display: flex;
@@ -172,11 +201,18 @@
 
   .custom-section_357 a {
     display: block;
-    max-width: 220px; /* dimensione più grande */
+    max-width: 220px;  /* button width */
     width: 100%;
     margin: 0.5rem auto;
   }
 
+  .custom-section_357 .md\:flex {
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem; /* space beetwen the three button */
+    margin-top: 65px;
+  }
+  
   .custom-section_357 a img {
     width: 100%;
     height: auto;
@@ -189,20 +225,10 @@
     margin-bottom: 2rem;
   }
 
-  .apk-button-wrapper img {
-    height: 48px !important;
+  .apk-button-wrapper img.apk-button-image {
+    height: 65px !important;
     width: auto;
     max-width: 220px;
-  }
-
-  .teaser {
-    padding-bottom: 3rem;
-  }
-
-  .teaser h1, .teaser h2, .teaser p {
-    text-align: center;
-    padding: 0 1rem;
-    margin-bottom: 1rem;
   }
 
   a.scroll {
@@ -228,75 +254,5 @@
     50% {
       transform: translateY(8px);
     }
-  }
-}
-
-@media screen and (min-width: 375px) and (max-width: 767.99px) {
-  /* Immagine teaser più proporzionata */
-  .teaser img {
-    max-height: 16vh !important;
-    width: auto;
-    margin: 0 auto;
-  }
-
-  /* Miglior leggibilità e centratura testo teaser */
-  .teaser h1 {
-    font-size: clamp(1rem, 4vw, 1.2rem);
-    line-height: 1.3;
-    margin-bottom: 0.6rem;
-    text-align: center;
-  }
-
-  .teaser h2 {
-    font-size: clamp(0.9rem, 3.5vw, 1rem);
-    line-height: 1.3;
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-
-  /* Gestione pulsanti download più pulita */
-  .custom-section_357 {
-    gap: 0.5rem;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-
-  .custom-section_357 a {
-    max-width: 130px;
-    margin: 0.3rem;
-  }
-
-  .custom-section_357 .md\:flex {
-    align-items: center;
-    justify-content: center;
-    gap: 1.5rem; /* Spazio tra i bottoni */
-    margin-top: 65px;
-  }
-
-  .custom-section_357 a img {
-    max-height: 40px;
-    width: auto;
-    height: auto;
-  }
-
-  /* Pulsante APK più armonico */
-  .apk-button-wrapper {
-    margin: 1rem auto;
-  }
-
-  .apk-button-wrapper img.apk-button-image {
-    height: 55px !important;
-    max-width: 130px;
-  }
-
-  /* Scroll link migliorato */
-  a.scroll {
-    display: block;
-    margin: 1.2rem auto;
-  }
-
-  a.scroll svg {
-    width: 16px;
-    height: 16px;
   }
 }

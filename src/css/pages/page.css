@@ -48,7 +48,6 @@
 }
 
 @media (--up_to_M) {
-  /* Se vuoi centrare solo i titoli in Markdown con la classe specifica */
   .self-custody h3 {
     text-align: center;
     width: 100%;
@@ -60,7 +59,7 @@
 
   .content-wrap--flex figure {
     width: 100%;
-    order: 2; /* Posiziona le immagini dopo il testo */
+    order: 2;
   }
 
   .content-wrap--flex img {
@@ -71,11 +70,10 @@
   }
 
   .content-wrap--flex > div {
-    order: 1; /* Posiziona il contenuto prima delle immagini */
+    order: 1;
     text-align: center;
   }
 
-  /* Allinea tutti gli h3 */
   .section h3 {
     text-align: center;
     width: 100%;
@@ -218,32 +216,24 @@
 }
 
 #security {
-  /* Se vuoi un background color o gradiente specifico */
   background: var(--bg-gradient-peachy);
-  /* Oppure un colore fisso, es: background-color: #fff; */
   color: var(--color-white);
-
-  /* Padding personalizzato se necessario */
   display: flex;
   padding-top: var(--section-padding-top);
   padding-bottom: var(--section-padding-bottom);
 }
 
-/* Allinea meglio i contenuti in #security */
 #security .content-wrap--flex {
-  /* Se vuoi centrare verticalmente o cambiare giustificazione */
   align-items: center;
   justify-content: space-between;
 }
 
-/* Limita l’immagine e aggiusta eventuali margini in #security */
 #security figure img {
   max-width: 100%;
   height: auto;
   display: block;
 }
 
-/* Titolo “Super secure” e testo di descrizione */
 section#security h3 {
   letter-spacing: -0.7px;
   leading-trim: both;
@@ -268,7 +258,7 @@ section.wrap#difference h3 {
   font-size: 59.301px;
   font-style: normal;
   font-weight: 700;
-  line-height: 100%; /* Equivalente a 59.301px */
+  line-height: 100%; /* 59.301px */
   letter-spacing: -0.593px;
   background-clip: text;
   -webkit-background-clip: text;
@@ -286,12 +276,12 @@ section.wrap#difference p {
   section.wrap#payment.self-custody h3,
   section#difference h3 {
     margin-bottom: 1.5rem;
-    font-size: 33px; /* o il valore desiderato */
+    font-size: 33px;
   }
   section.wrap#payment.self-custody p,
   section#difference p {
-    font-size: 1.125rem; /* oppure 18px, 1.2rem, ecc. */
-    line-height: 1.5;    /* facoltativo, se vuoi maggiore leggibilità */
+    font-size: 1.125rem;
+    line-height: 1.5;
   }
 }
 
@@ -320,7 +310,7 @@ section.wrap#difference p {
   font-size: 59.301px;
   font-style: normal;
   font-weight: 700;
-  line-height: 100%; /* Equivalente a 59.301px */
+  line-height: 100%; /* 59.301px */
   letter-spacing: -0.593px;
   background-clip: text;
   -webkit-background-clip: text;
@@ -334,7 +324,7 @@ section.wrap#difference p {
   font-size: 59.301px;
   font-style: normal;
   font-weight: 700;
-  line-height: 100%; /* Equivalente a 59.301px */
+  line-height: 100%; /*  59.301px */
   letter-spacing: -0.593px;
   background-clip: text;
   -webkit-background-clip: text;

@@ -110,7 +110,7 @@
   }
 }
 
-@media screen and (max-width: 459.99px) and (-webkit-device-pixel-ratio: 3) {
+@media screen and (max-width: 459.99px) {
   :root {
     --font-size-base: 15px;
     --font-size-l: 1.3rem;

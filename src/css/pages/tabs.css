@@ -11,12 +11,11 @@
 
 @media (max-width: 768px) {
   .payment-methods-section {
-    padding: 24px 16px 32px; /* riduci il padding orizzontale per mobile */
+    padding: 24px 16px 32px;
   }
   
-  /* Se sposti lo stile del titolo nel CSS, puoi fare così: */
   .payment-methods-section h2 {
-    font-size: 38px; /* scala la dimensione del font per mobile */
+    font-size: 38px;
   }
 }
 
@@ -37,10 +36,10 @@
   background: transparent;
   border: none;
   cursor: pointer;
-  padding: 8px 16px; /* regola a piacere */
-  border-radius: 9999px; /* per dare un effetto pillola */
-  font: inherit; /* eredita font dal contenitore, se necessario */
-  transition: all 0.1s ease; /* un po' di transizione per hover/click */
+  padding: 8px 16px;
+  border-radius: 9999px;
+  font: inherit;
+  transition: all 0.1s ease;
 }
 
 .payment-button:hover {
@@ -149,14 +148,13 @@
 }
 
 #payment.self-custody {
-  background-color: #FFF9F6; /* Peach */
+  background-color: #FFF9F6;
   border-radius: 24px;
-  padding: 40px 20px; /* Spaziatura interna */
+  padding: 40px 20px;
 }
 
-/* Stile del testo (Markdown iniettato) */
 #payment.self-custody h2 {
-  color: #FF694A;    /* Arancione / Peach scuro */
+  color: #FF694A;
   font-size: 2rem;
   margin-bottom: 16px;
 }
@@ -167,20 +165,17 @@
   margin: 0;
 }
 
-/* Flex alignment: testo centrato verticalmente con l’immagine */
 #payment.self-custody .content-wrap--flex {
   align-items: center;
-  gap: 2rem;         /* Spazio orizzontale fra testo e immagine */
+  gap: 2rem;
 }
 
-/* Immagine responsive */
 #payment.self-custody figure img {
   max-width: 100%;
   height: auto;
   display: block;
 }
 
-/* Responsivo: su schermi stretti diventa colonna */
 @media (max-width: 768px) {
   #payment.self-custody .content-wrap--flex {
     flex-direction: column;
@@ -194,7 +189,7 @@
 .arrow-icon {
   width: 32px;
   height: 32px;
-  fill: currentColor; /* per ereditare il colore dal testo */
+  fill: currentColor;
 }
 
 .apk-button-wrapper img {
