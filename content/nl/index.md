@@ -35,8 +35,6 @@ template: index
 
 #### ✔ controleerbare broncode
 
-<!--[top]-->
-
 # De makkelijkste manier om Bitcoin peer-to-peer te kopen en verkopen
 
 <br>
@@ -84,6 +82,8 @@ Peach is lid van een SRO (Self Regulatory Organisation) van Polyreg. Peach is ee
 ![](/img/home/polyreg.png)
 
 </div></div>
+
+<!--[top]-->
 
 ### Wat zeggen mensen over ons?
 

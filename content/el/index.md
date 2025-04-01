@@ -35,8 +35,6 @@ template: index
 
 #### ✔ επαληθέσιμος πηγαίος κώδικας
 
-<!--[top]-->
-
 # Ο πιο εύκολος τρόπος για να αγοράσετε και να πουλήσετε Bitcoin P2P
 
 <br>
@@ -78,6 +76,8 @@ template: index
 ![Swiss regulated Bitcoin exchange certified by Polyreg](/img/home/polyreg.png)
 
 </div></div>
+
+<!--[top]-->
 
 ### Τι λέει ο κόσμος για εμάς;
 

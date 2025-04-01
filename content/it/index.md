@@ -35,8 +35,6 @@ template: index
 
 #### ✔ codice sorgente verificabile
 
-<!--[top]-->
-
 # Il modo più semplice per comprare e vendere Bitcoin P2P
 
 <br>
@@ -80,6 +78,8 @@ Peach è membro dell'SRO (Organizzazione di Autorégulation) di Polyreg. Peach �
 ![Swiss regulated Bitcoin exchange certified by Polyreg](/img/home/polyreg.png)
 
 </div></div>
+
+<!--[top]-->
 
 ### Cosa dicono di noi?
 
