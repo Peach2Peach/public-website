@@ -35,8 +35,6 @@ template: index
 
 #### ✔ kod źródłowy możliwy do weryfikacji
 
-<!--[top]-->
-
 # Najłatwiejszy sposób na kupno i sprzedaż Bitcoinów P2P
 
 <br>
@@ -80,6 +78,8 @@ Peach jest członkiem SRO (Samoregulująca Organizacja) Polyreg. Peach to szwajc
 ![](/img/home/polyreg.png)
 
 </div></div>
+
+<!--[top]-->
 
 ### Co ludzie mówią o nas?
 

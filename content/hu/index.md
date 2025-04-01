@@ -35,8 +35,6 @@ template: index
 
 #### ✔ ellenőrizhető forráskód
 
-<!--[top]-->
-
 # A legegyszerűbb módja a Bitcoin Vásárlásnak és Eladásnak P2P
 
 <br>
@@ -80,6 +78,8 @@ A Peach egy SRO tagja (Önszabályozó Szervezet) a Polyreg-nek. A Peach egy sv�
 ![](/img/home/polyreg.png)
 
 </div></div>
+
+<!--[top]-->
 
 ### Mit mondanak rólunk az emberek?
 

@@ -35,8 +35,6 @@ template: index
 
 #### ✔ msimbo wa chanzo unaothibitishwa
 
-<!--[top]-->
-
 # Njia rahisi zaidi ya Kununua na Kuuza Bitcoin P2P
 
 <br>
@@ -80,6 +78,8 @@ Peach ni mwanachama wa SRO (Shirika la Kujisimamia) wa Polyreg. Peach ni mtoa hu
 ![Swiss regulated Bitcoin exchange certified by Polyreg](/img/home/polyreg.png)
 
 </div></div>
+
+<!--[top]-->
 
 ### Watu wanasemaje kuhusu sisi?
 
