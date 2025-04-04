@@ -661,14 +661,26 @@
   },
   {
     "name": "Bitcoin Gwand",
-    "url": "https://x.com/BitcoinGwada",
+    "url": "https://linktr.ee/BitcoinGwada",
     "longitude": -61.5854,
     "latitude": 16.2672
   },
   {
     "name": "Normandie Bitcoin",
-    "url": "https://x.com/simontia83",
+    "url": "https://x.com/CaenMeetup",
     "longitude": -0.3700,
     "latitude": 49.1829
+  },
+  {
+    "name": "Northants Bitcoin Network",
+    "url": "https://northantsbitcoin.com/",
+    "longitude": -0.902656,
+    "latitude": 52.240477
+  },
+  {
+    "name": "Northants Bitcoin Walk",
+    "url": "https://northants-bitcoin-walk.npub.pro/",
+    "longitude": -0.902656,
+    "latitude": 52.240477
   }
 ]
