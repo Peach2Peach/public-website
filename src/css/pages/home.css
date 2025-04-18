@@ -1255,3 +1255,10 @@
     }
   }
 }
+
+.top-section-container-header-subtitle {
+  .highlight {
+    color: #FF7A50;
+    font-weight: 700;
+  }
+}
