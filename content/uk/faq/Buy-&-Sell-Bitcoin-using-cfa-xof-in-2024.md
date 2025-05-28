@@ -10,19 +10,19 @@ PeachBitcoin — це безпечний, швидкий та простий с�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">Moov</a> 
+        <p>Moov</p>
         <img src="/img/faq/logoimg/moov.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Moov, Продавайте біткоїн за допомогою Moov">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">MTN</a> 
+        <p>MTN</p> 
         <img src="/img/faq/logoimg/mtn.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою MTN, Продавайте біткоїн за допомогою MTN">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">Orange Money</a> 
+        <p>Orange Money</p> 
         <img src="/img/faq/logoimg/orangemoney.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Orange Money, Продавайте біткоїн за допомогою Orange Money">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">Wave</a> 
+        <p>Wave</p> 
         <img src="/img/faq/logoimg/wave.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Wave, Продавайте біткоїн за допомогою Wave">
     </div>
 </div>

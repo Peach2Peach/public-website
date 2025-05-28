@@ -10,7 +10,7 @@ PeachBitcoin es la forma segura, rápida y fácil de comprar y vender Bitcoin ut
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-nigeria">Transferencia Nacional Nigeria</a> 
+        <p>Transferencia Nacional Nigeria</p> 
         <img src="/img/faq/logoimg/nigeriaflag.png" width="30px" height="27px" alt="Comprar bitcoin con Transferencia Nacional Nigeria, Vender bitcoin con Transferencia Nacional Nigeria">
     </div>
 </div>
@@ -19,27 +19,27 @@ PeachBitcoin es la forma segura, rápida y fácil de comprar y vender Bitcoin ut
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-accrue">Accrue</a> 
+        <p>Accrue</p> 
         <img src="/img/faq/logoimg/nigeriaflag.png" width="30px" height="27px" alt="Comprar bitcoin con Accrue, Vender bitcoin con Accrue">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-chippercash">Chippercash</a> 
+        <p>Chippercash</p> 
         <img src="/img/faq/logoimg/chippercash.png" width="30px" height="27px" alt="Comprar bitcoin con Chippercash, Vender bitcoin con Chippercash">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-eversend">Eversend</a> 
+        <p>Eversend</p> 
         <img src="/img/faq/logoimg/eversend.png" width="30px" height="27px" alt="Comprar bitcoin con Eversend, Vender bitcoin con Eversend">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-klasha">Klasha</a> 
+        <p>Klasha</p> 
         <img src="/img/faq/logoimg/klasha.png" width="30px" height="27px" alt="Comprar bitcoin con Klasha, Vender bitcoin con Klasha">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-payday">Payday</a> 
+        <p>Payday</p> 
         <img src="/img/faq/logoimg/payday.png" width="30px" height="27px" alt="Comprar bitcoin con Payday, Vender bitcoin con Payday">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-wirepay">Wirepay</a> 
+        <p>Wirepay</p> 
         <img src="/img/faq/logoimg/wirepay.png" width="30px" height="27px" alt="Comprar bitcoin con Wirepay, Vender bitcoin con Wirepay">
     </div>
 </div>

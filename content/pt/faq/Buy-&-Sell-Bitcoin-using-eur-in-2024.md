@@ -10,11 +10,11 @@ PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usan
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sepa-no-id">SEPA</a> 
+        <p>SEPA</p> 
         <img src="/img/faq/logoimg/sepa.png" width="30px" height="27px" alt="Comprar bitcoin com SEPA, Vender bitcoin com SEPA">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sepa-instant">SEPA Instantâneo</a> 
+        <p>SEPA Instantâneo</p> 
         <img src="/img/faq/logoimg/sepa.png" width="30px" height="27px" alt="Comprar bitcoin com SEPA Instantâneo, Vender bitcoin com SEPA Instantâneo">
     </div>
 </div>
@@ -23,43 +23,43 @@ PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usan
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-advcash">ADV Cash</a> 
+        <p>ADV Cash</p> 
         <img src="/img/faq/logoimg/advcash.png" width="30px" height="27px" alt="Comprar bitcoin com ADV Cash, Vender bitcoin com ADV Cash">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-mobilepay">MobilePay</a> 
+        <p>MobilePay</p> 
         <img src="/img/faq/logoimg/mobilepay.png" width="30px" height="27px" alt="Comprar bitcoin com MobilePay, Vender bitcoin com MobilePay">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-N26">N26</a> 
+        <p>N26</p> 
         <img src="/img/faq/logoimg/n26.png" width="30px" height="27px" alt="Comprar bitcoin com N26, Vender bitcoin com N26">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-neteller">Neteller</a> 
+        <p>Neteller</p> 
         <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Comprar bitcoin com Neteller, Vender bitcoin com Neteller">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paypal">PayPal</a> 
+        <p>PayPal</p>
         <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Comprar bitcoin com PayPal, Vender bitcoin com PayPal">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paysera">PaySera</a> 
+        <p>PaySera</p> 
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Comprar bitcoin com PaySera, Vender bitcoin com PaySera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-revolut">Revolut</a> 
+        <p>Revolut</p> 
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Comprar bitcoin com Revolut, Vender bitcoin com Revolut">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-skrill">Skrill</a> 
+        <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Comprar bitcoin com Skrill, Vender bitcoin com Skrill">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-strike">Strike</a> 
+        <p>Strike</p> 
         <img src="/img/faq/logoimg/strike.png" width="30px" height="27px" alt="Comprar bitcoin com Strike, Vender bitcoin com Strike">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-wise">Wise</a> 
+        <p>Wise</p>
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Comprar bitcoin com Wise, Vender bitcoin com Wise">
     </div>
 </div>
@@ -68,7 +68,7 @@ PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usan
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-btc-with-amazon">Amazon</a> 
+        <p>Amazon</p> 
         <img src="/img/faq/logoimg/amazon.png" width="30px" height="27px" alt="Comprar bitcoin com Amazon, Vender bitcoin com Amazon">
     </div>
 </div>
@@ -77,39 +77,39 @@ PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usan
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-SatisPay">Satispay</a> 
+        <p>Satispay</p> 
         <img src="/img/faq/logoimg/satispay.png" width="30px" height="27px" alt="Comprar bitcoin com Satispay, Vender bitcoin com Satispay">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-postepay">PostePay</a> 
+        <p>PostePay</p> 
         <img src="/img/faq/logoimg/postepay.png" width="30px" height="27px" alt="Comprar bitcoin com PostePay, Vender bitcoin com PostePay">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-mbway">MbWay</a> 
+        <p>MbWay</p> 
         <img src="/img/faq/logoimg/mbway.png" width="30px" height="27px" alt="Comprar bitcoin com MbWay, Vender bitcoin com MbWay">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bizum">Bizum</a> 
+        <p>Bizum</p> 
         <img src="/img/faq/logoimg/Bizium.png" width="30px" height="27px" alt="Comprar bitcoin com Bizum, Vender bitcoin com Bizum">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-rebellion">Rebellion</a> 
+        <p>Rebellion</p> 
         <img src="/img/faq/logoimg/rebellion.png" width="30px" height="27px" alt="Comprar bitcoin com Rebellion, Vender bitcoin com Rebellion">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-mobilepay">Mobile Pay</a> 
+        <p>Mobile Pay</p> 
         <img src="/img/faq/logoimg/mobilepay.png" width="30px" height="27px" alt="Comprar bitcoin com Mobile Pay, Vender bitcoin com Mobile Pay">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-Keks">Keks Pay</a> 
+        <p>Keks Pay</p> 
         <img src="/img/faq/logoimg/keks.png" width="30px" height="27px" alt="Comprar bitcoin com Keks Pay, Vender bitcoin com Keks Pay">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paylib">Paylib</a> 
+        <p>Paylib</p> 
         <img src="/img/faq/logoimg/paylib.png" width="30px" height="27px" alt="Comprar bitcoin com Paylib, Vender bitcoin com Paylib">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-lydia">Lydia</a> 
+        <p>Lydia</p> 
         <img src="/img/faq/logoimg/lydia.png" width="30px" height="27px" alt="Comprar bitcoin com Lydia, Vender bitcoin com Lydia">
     </div>
 </div>

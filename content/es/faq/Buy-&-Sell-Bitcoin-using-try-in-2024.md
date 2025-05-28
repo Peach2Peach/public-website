@@ -10,7 +10,7 @@ PeachBitcoin es la forma segura, rápida y fácil de comprar y vender Bitcoin ut
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-turkey">Transferencia Nacional Turquía</a> 
+        <p>Transferencia Nacional Turquía</p> 
         <img src="/img/faq/logoimg/nationaltransfer.png" width="30px" height="27px" alt="Comprar bitcoin con Transferencia Nacional Turquía, Vender bitcoin con Transferencia Nacional Turquía">
     </div>
 </div>
@@ -19,11 +19,11 @@ PeachBitcoin es la forma segura, rápida y fácil de comprar y vender Bitcoin ut
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bankera">Bankera</a> 
+        <p>Bankera</p> 
         <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Comprar bitcoin con Bankera, Vender bitcoin con Bankera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-papara">Papara</a> 
+        <p>Papara</p> 
         <img src="/img/faq/logoimg/papara.png" width="30px" height="27px" alt="Comprar bitcoin con Papara, Vender bitcoin con Papara">
     </div>
 </div>

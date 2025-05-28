@@ -10,7 +10,7 @@ PeachBitcoin ist der sichere, schnelle und einfache Weg, Bitcoin mit jeder Zahlu
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-lnurl-btc">LNURL BTC</a> 
+        <p>LNURL BTC</p> 
         <img src="/img/faq/logoimg/bitcoin2.png" width="30px" height="27px" alt="Bitcoin kaufen mit LNURL BTC, Bitcoin verkaufen mit LNURL BTC">
     </div>
 </div>

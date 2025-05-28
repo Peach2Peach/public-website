@@ -10,7 +10,7 @@ A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sinpe">Sinpe</a> 
+        <p>Sinpe</p> 
         <img src="/img/faq/logoimg/sinpe.png" width="30px" height="27px" alt="Bitcoint vásárolj Sinpe-val, Bitcoint adj el Sinpe-val">
     </div>
 </div>
@@ -19,7 +19,7 @@ A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sinpe-movil">SINPE Móvil</a> 
+        <p>SINPE Móvil</p> 
         <img src="/img/faq/logoimg/sinpemovil.png" width="30px" height="27px" alt="Bitcoint vásárolj SINPE Móvil-lal, Bitcoint adj el SINPE Móvil-lal">
     </div>
 </div>

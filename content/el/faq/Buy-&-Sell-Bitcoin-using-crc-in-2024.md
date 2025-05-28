@@ -10,7 +10,7 @@
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sinpe">Sinpe</a> 
+        <p>Sinpe</p> 
         <img src="/img/faq/logoimg/sinpe.png" width="30px" height="27px" alt="Αγοράστε bitcoin με Sinpe, Πωλήστε bitcoin με Sinpe">
     </div>
 </div>
@@ -19,7 +19,7 @@
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sinpe-movil">SINPE Móvil</a> 
+        <p>SINPE Móvil</p> 
         <img src="/img/faq/logoimg/sinpemovil.png" width="30px" height="27px" alt="Αγοράστε bitcoin με SINPE Móvil, Πωλήστε bitcoin με SINPE Móvil">
     </div>
 </div>

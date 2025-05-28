@@ -10,7 +10,7 @@ PeachBitcoin is the secure, quick, and easy way to buy and sell Bitcoin using an
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-rappipay">RappiPay</a> 
+        <p>RappiPay</p> 
         <img src="/img/faq/logoimg/rappipay.png" width="30px" height="27px" alt="Buy bitcoin with RappiPay, Sell bitcoin with RappiPay">
     </div>
 </div>

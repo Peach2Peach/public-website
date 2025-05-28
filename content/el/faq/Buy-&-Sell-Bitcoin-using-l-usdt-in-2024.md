@@ -10,7 +10,7 @@
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-lnurl-btc">LNURL BTC</a> 
+        <p>LNURL BTC</p> 
         <img src="/img/faq/logoimg/bitcoin2.png" width="30px" height="27px" alt="Αγοράστε bitcoin με LNURL BTC, Πωλήστε bitcoin με LNURL BTC">
     </div>
 </div>

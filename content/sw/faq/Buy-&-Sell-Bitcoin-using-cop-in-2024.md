@@ -10,7 +10,7 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bancolombia">Bancolombia</a> 
+        <p>Bancolombia</p> 
         <img src="/img/faq/logoimg/bancolombia.png" width="30px" height="27px" alt="Nunua bitcoin na Bancolombia, Uza bitcoin na Bancolombia">
     </div>
 </div>
@@ -19,11 +19,11 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-nequi">Nequi</a> 
+        <p>Nequi</p> 
         <img src="/img/faq/logoimg/nequi.png" width="30px" height="27px" alt="Nunua bitcoin na Nequi, Uza bitcoin na Nequi">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-rappipay">RappiPay</a> 
+        <p>RappiPay</p> 
         <img src="/img/faq/logoimg/rappipay.png" width="30px" height="27px" alt="Nunua bitcoin na RappiPay, Uza bitcoin na RappiPay">
     </div>
 </div>

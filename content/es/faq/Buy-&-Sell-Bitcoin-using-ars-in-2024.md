@@ -10,15 +10,15 @@ PeachBitcoin es la manera segura, rápida y fácil de comprar y vender Bitcoin u
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-ars">Alias</a> 
+        <p>Alias</p> 
         <img src="/img/faq/logoimg/argentine.png" width="30px" height="27px" alt="Comprar bitcoin con Alias, Vender bitcoin con Alias">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-ars">CBU</a> 
+        <p>CBU</p> 
         <img src="/img/faq/logoimg/argentine.png" width="30px" height="27px" alt="Comprar bitcoin con CBU, Vender bitcoin con CBU">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-ars">CVU</a> 
+        <p>CVU</p> 
         <img src="/img/faq/logoimg/argentine.png" width="30px" height="27px" alt="Comprar bitcoin con CVU, Vender bitcoin con CVU">
     </div>
 </div>
@@ -27,7 +27,7 @@ PeachBitcoin es la manera segura, rápida y fácil de comprar y vender Bitcoin u
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-mercado-pago">Mercado Pago</a> 
+        <p>Mercado Pago</p> 
         <img src="/img/faq/logoimg/mercadopago.png" width="30px" height="27px" alt="Comprar bitcoin con Mercado Pago, Vender bitcoin con Mercado Pago">
     </div>
 </div>

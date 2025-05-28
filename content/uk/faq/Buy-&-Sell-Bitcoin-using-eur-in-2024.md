@@ -10,11 +10,11 @@ PeachBitcoin — це безпечний, швидкий та простий с�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sepa-no-id">SEPA</a> 
+        <p>SEPA</p> 
         <img src="/img/faq/logoimg/sepa.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою SEPA, Продавайте біткоїн за допомогою SEPA">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sepa-instant">SEPA Миттєвий</a> 
+        <p>SEPA Миттєвий</p> 
         <img src="/img/faq/logoimg/sepa.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою SEPA Миттєвий, Продавайте біткоїн за допомогою SEPA Миттєвий">
     </div>
 </div>
@@ -23,43 +23,43 @@ PeachBitcoin — це безпечний, швидкий та простий с�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-advcash">ADV Cash</a> 
+        <p>ADV Cash</p> 
         <img src="/img/faq/logoimg/advcash.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою ADV Cash, Продавайте біткоїн за допомогою ADV Cash">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-mobilepay">MobilePay</a> 
+        <p>MobilePay</p> 
         <img src="/img/faq/logoimg/mobilepay.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою MobilePay, Продавайте біткоїн за допомогою MobilePay">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-N26">N26</a> 
+        <p>N26</p> 
         <img src="/img/faq/logoimg/n26.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою N26, Продавайте біткоїн за допомогою N26">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-neteller">Neteller</a> 
+        <p>Neteller</p> 
         <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Neteller, Продавайте біткоїн за допомогою Neteller">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paypal">PayPal</a> 
+        <p>PayPal</p>
         <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою PayPal, Продавайте біткоїн за допомогою PayPal">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paysera">PaySera</a> 
+        <p>PaySera</p> 
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою PaySera, Продавайте біткоїн за допомогою PaySera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-revolut">Revolut</a> 
+        <p>Revolut</p> 
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Revolut, Продавайте біткоїн за допомогою Revolut">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-skrill">Skrill</a> 
+        <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Skrill, Продавайте біткоїн за допомогою Skrill">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-strike">Strike</a> 
+        <p>Strike</p> 
         <img src="/img/faq/logoimg/strike.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Strike, Продавайте біткоїн за допомогою Strike">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-wise">Wise</a> 
+        <p>Wise</p>
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Wise, Продавайте біткоїн за допомогою Wise">
     </div>
 </div>
@@ -68,7 +68,7 @@ PeachBitcoin — це безпечний, швидкий та простий с�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-btc-with-amazon">Amazon</a> 
+        <p>Amazon</p> 
         <img src="/img/faq/logoimg/amazon.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Amazon, Продавайте біткоїн за допомогою Amazon">
     </div>
 </div>
@@ -77,39 +77,39 @@ PeachBitcoin — це безпечний, швидкий та простий с�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-SatisPay">Satispay</a> 
+        <p>Satispay</p> 
         <img src="/img/faq/logoimg/satispay.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Satispay, Продавайте біткоїн за допомогою Satispay">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-postepay">PostePay</a> 
+        <p>PostePay</p> 
         <img src="/img/faq/logoimg/postepay.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою PostePay, Продавайте біткоїн за допомогою PostePay">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-mbway">MbWay</a> 
+        <p>MbWay</p> 
         <img src="/img/faq/logoimg/mbway.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою MbWay, Продавайте біткоїн за допомогою MbWay">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bizum">Bizum</a> 
+        <p>Bizum</p> 
         <img src="/img/faq/logoimg/Bizium.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Bizum, Продавайте біткоїн за допомогою Bizum">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-rebellion">Rebellion</a> 
+        <p>Rebellion</p> 
         <img src="/img/faq/logoimg/rebellion.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Rebellion, Продавайте біткоїн за допомогою Rebellion">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-mobilepay">Mobile Pay</a> 
+        <p>Mobile Pay</p> 
         <img src="/img/faq/logoimg/mobilepay.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Mobile Pay, Продавайте біткоїн за допомогою Mobile Pay">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-Keks">Keks Pay</a> 
+        <p>Keks Pay</p> 
         <img src="/img/faq/logoimg/keks.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Keks Pay, Продавайте біткоїн за допомогою Keks Pay">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paylib">Paylib</a> 
+        <p>Paylib</p> 
         <img src="/img/faq/logoimg/paylib.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Paylib, Продавайте біткоїн за допомогою Paylib">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-lydia">Lydia</a> 
+        <p>Lydia</p> 
         <img src="/img/faq/logoimg/lydia.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Lydia, Продавайте біткоїн за допомогою Lydia">
     </div>
 </div>

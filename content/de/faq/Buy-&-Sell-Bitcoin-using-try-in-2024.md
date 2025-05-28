@@ -10,7 +10,7 @@ PeachBitcoin ist der sichere, schnelle und einfache Weg, Bitcoin mit jeder Zahlu
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-turkey">Nationale Überweisung Türkei</a> 
+        <p>Nationale Überweisung Türkei</p> 
         <img src="/img/faq/logoimg/nationaltransfer.png" width="30px" height="27px" alt="Bitcoin kaufen mit Nationaler Überweisung Türkei, Bitcoin verkaufen mit Nationaler Überweisung Türkei">
     </div>
 </div>
@@ -19,11 +19,11 @@ PeachBitcoin ist der sichere, schnelle und einfache Weg, Bitcoin mit jeder Zahlu
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bankera">Bankera</a> 
+        <p>Bankera</p> 
         <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Bitcoin kaufen mit Bankera, Bitcoin verkaufen mit Bankera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-papara">Papara</a> 
+        <p>Papara</p> 
         <img src="/img/faq/logoimg/papara.png" width="30px" height="27px" alt="Bitcoin kaufen mit Papara, Bitcoin verkaufen mit Papara">
     </div>
 </div>

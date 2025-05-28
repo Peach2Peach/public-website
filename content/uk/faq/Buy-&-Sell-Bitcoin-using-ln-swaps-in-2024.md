@@ -10,7 +10,7 @@ PeachBitcoin — це безпечний, швидкий та простий с�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-liquid">Liquid</a> 
+        <p>Liquid</p> 
         <img src="/img/faq/logoimg/bitcoin.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Liquid, Продавайте біткоїн за допомогою Liquid">
     </div>
 </div>

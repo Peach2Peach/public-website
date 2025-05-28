@@ -10,7 +10,7 @@ A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-nigeria">Nemzeti Átutalás Nigéria</a> 
+        <p>Nemzeti Átutalás Nigéria</p> 
         <img src="/img/faq/logoimg/nigeriaflag.png" width="30px" height="27px" alt="Bitcoint vásárolj Nemzeti Átutalással Nigériában, Bitcoint adj el Nemzeti Átutalással Nigériában">
     </div>
 </div>
@@ -19,27 +19,27 @@ A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-accrue">Accrue</a> 
+        <p>Accrue</p> 
         <img src="/img/faq/logoimg/nigeriaflag.png" width="30px" height="27px" alt="Bitcoint vásárolj Accrue-val, Bitcoint adj el Accrue-val">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-chippercash">Chippercash</a> 
+        <p>Chippercash</p> 
         <img src="/img/faq/logoimg/chippercash.png" width="30px" height="27px" alt="Bitcoint vásárolj Chippercash-sel, Bitcoint adj el Chippercash-sel">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-eversend">Eversend</a> 
+        <p>Eversend</p> 
         <img src="/img/faq/logoimg/eversend.png" width="30px" height="27px" alt="Bitcoint vásárolj Eversend-del, Bitcoint adj el Eversend-del">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-klasha">Klasha</a> 
+        <p>Klasha</p> 
         <img src="/img/faq/logoimg/klasha.png" width="30px" height="27px" alt="Bitcoint vásárolj Klasha-val, Bitcoint adj el Klasha-val">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-payday">Payday</a> 
+        <p>Payday</p> 
         <img src="/img/faq/logoimg/payday.png" width="30px" height="27px" alt="Bitcoint vásárolj Payday-jel, Bitcoint adj el Payday-jel">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-wirepay">Wirepay</a> 
+        <p>Wirepay</p> 
         <img src="/img/faq/logoimg/wirepay.png" width="30px" height="27px" alt="Bitcoint vásárolj Wirepay-jel, Bitcoint adj el Wirepay-jel">
     </div>
 </div>

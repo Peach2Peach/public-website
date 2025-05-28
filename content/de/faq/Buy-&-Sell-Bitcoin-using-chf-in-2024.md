@@ -8,7 +8,7 @@ PeachBitcoin ist die sichere, schnelle und einfache Möglichkeit, Bitcoin mit je
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-switzerland-no-id">Nationale Überweisung Schweiz</a> 
+        <p>Nationale Überweisung Schweiz</p> 
         <img src="/img/faq/logoimg/nationalswitzer.png" width="30px" height="27px" alt="Bitcoin mit Nationaler Überweisung Schweiz kaufen, Bitcoin mit Nationaler Überweisung Schweiz verkaufen">
     </div>
 </div>
@@ -17,31 +17,31 @@ PeachBitcoin ist die sichere, schnelle und einfache Möglichkeit, Bitcoin mit je
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paypal">PayPal</a> 
+        <p>PayPal</p> 
         <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Bitcoin mit PayPal kaufen, Bitcoin mit PayPal verkaufen">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-Neteller">Neteller</a> 
+        <p>Neteller</p> 
         <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Bitcoin mit Neteller kaufen, Bitcoin mit Neteller verkaufen">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-Paysera">PaySera</a> 
+        <p>PaySera</p> 
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Bitcoin mit PaySera kaufen, Bitcoin mit PaySera verkaufen">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-Revolut">Revolut</a> 
+        <p>Revolut</p> 
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Bitcoin mit Revolut kaufen, Bitcoin mit Revolut verkaufen">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-Skrill">Skrill</a> 
+        <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Bitcoin mit Skrill kaufen, Bitcoin mit Skrill verkaufen">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-Wise">Wise</a> 
+        <p>Wise</p> 
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Bitcoin mit Wise kaufen, Bitcoin mit Wise verkaufen">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-Twint">Twint</a> 
+        <p>Twint</p> 
         <img src="/img/faq/logoimg/twint.png" width="30px" height="27px" alt="Bitcoin mit Twint kaufen, Bitcoin mit Twint verkaufen">
     </div>
 </div>

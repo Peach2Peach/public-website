@@ -10,15 +10,15 @@ PeachBitcoin — це безпечний, швидкий і простий сп�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-ars">Alias</a> 
+        <p>Alias</p> 
         <img src="/img/faq/logoimg/argentine.png" width="30px" height="27px" alt="Купити біткоїн за допомогою Alias, Продати біткоїн за допомогою Alias">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-ars">CBU</a> 
+        <p>CBU</p> 
         <img src="/img/faq/logoimg/argentine.png" width="30px" height="27px" alt="Купити біткоїн за допомогою CBU, Продати біткоїн за допомогою CBU">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-ars">CVU</a> 
+        <p>CVU</p> 
         <img src="/img/faq/logoimg/argentine.png" width="30px" height="27px" alt="Купити біткоїн за допомогою CVU, Продати біткоїн за допомогою CVU">
     </div>
 </div>
@@ -27,7 +27,7 @@ PeachBitcoin — це безпечний, швидкий і простий сп�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-mercado-pago">Mercado Pago</a> 
+        <p>Mercado Pago</p> 
         <img src="/img/faq/logoimg/mercadopago.png" width="30px" height="27px" alt="Купити біткоїн за допомогою Mercado Pago, Продати біткоїн за допомогою Mercado Pago">
     </div>
 </div>

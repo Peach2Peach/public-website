@@ -10,7 +10,7 @@ PeachBitcoin es la forma segura, rápida y sencilla de comprar y vender Bitcoin 
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-czech-republic">Transferencia Nacional República Checa</a> 
+        <p>Transferencia Nacional República Checa</p> 
         <img src="/img/faq/logoimg/czech.png" width="30px" height="27px" alt="Compra bitcoin con Transferencia Nacional República Checa, Vende bitcoin con Transferencia Nacional República Checa">
     </div>
 </div>
@@ -19,23 +19,23 @@ PeachBitcoin es la forma segura, rápida y sencilla de comprar y vender Bitcoin 
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paypal">PayPal</a> 
+        <p>PayPal</p>
         <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Compra bitcoin con PayPal, Vende bitcoin con PayPal">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-revolut">Revolut</a> 
+        <p>Revolut</p> 
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Compra bitcoin con Revolut, Vende bitcoin con Revolut">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-wise">Wise</a> 
+        <p>Wise</p>
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Compra bitcoin con Wise, Vende bitcoin con Wise">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-skrill">Skrill</a> 
+        <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Compra bitcoin con Skrill, Vende bitcoin con Skrill">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paysera">PaySera</a> 
+        <p>PaySera</p> 
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Compra bitcoin con PaySera, Vende bitcoin con PaySera">
     </div>
 </div>

@@ -10,7 +10,7 @@ PeachBitcoin is de veilige, snelle en eenvoudige manier om Bitcoin te kopen en t
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sinpe">Sinpe</a> 
+        <p>Sinpe</p> 
         <img src="/img/faq/logoimg/sinpe.png" width="30px" height="27px" alt="Bitcoin kopen met Sinpe, Bitcoin verkopen met Sinpe">
     </div>
 </div>
@@ -19,7 +19,7 @@ PeachBitcoin is de veilige, snelle en eenvoudige manier om Bitcoin te kopen en t
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sinpe-movil">SINPE Móvil</a> 
+        <p>SINPE Móvil</p> 
         <img src="/img/faq/logoimg/sinpemovil.png" width="30px" height="27px" alt="Bitcoin kopen met SINPE Móvil, Bitcoin verkopen met SINPE Móvil">
     </div>
 </div>

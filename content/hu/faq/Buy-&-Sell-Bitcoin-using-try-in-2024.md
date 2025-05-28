@@ -10,7 +10,7 @@ A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-turkey">Nemzeti Átutalás Törökország</a> 
+        <p>Nemzeti Átutalás Törökország</p> 
         <img src="/img/faq/logoimg/nationaltransfer.png" width="30px" height="27px" alt="Bitcoint vásárolj Nemzeti Átutalással Törökországban, Bitcoint adj el Nemzeti Átutalással Törökországban">
     </div>
 </div>
@@ -19,11 +19,11 @@ A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bankera">Bankera</a> 
+        <p>Bankera</p> 
         <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Bitcoint vásárolj Bankera-val, Bitcoint adj el Bankera-val">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-papara">Papara</a> 
+        <p>Papara</p> 
         <img src="/img/faq/logoimg/papara.png" width="30px" height="27px" alt="Bitcoint vásárolj Papara-val, Bitcoint adj el Papara-val">
     </div>
 </div>

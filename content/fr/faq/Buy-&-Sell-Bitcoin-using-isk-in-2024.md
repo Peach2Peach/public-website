@@ -10,7 +10,7 @@ PeachBitcoin est le moyen sûr, rapide et facile d'acheter et de vendre du Bitco
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-iceland">Transfert National Islande</a> 
+        <p>Transfert National Islande</p> 
         <img src="/img/faq/logoimg/icelandflag.png" width="30px" height="27px" alt="Acheter du bitcoin avec Transfert National Islande, Vendre du bitcoin avec Transfert National Islande">
     </div>
 </div>
@@ -19,15 +19,15 @@ PeachBitcoin est le moyen sûr, rapide et facile d'acheter et de vendre du Bitco
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-skrill">Skrill</a> 
+        <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Acheter du bitcoin avec Skrill, Vendre du bitcoin avec Skrill">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paysera">PaySera</a> 
+        <p>PaySera</p> 
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Acheter du bitcoin avec PaySera, Vendre du bitcoin avec PaySera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-revolut">Revolut</a> 
+        <p>Revolut</p> 
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Acheter du bitcoin avec Revolut, Vendre du bitcoin avec Revolut">
     </div>
 </div>

@@ -10,7 +10,7 @@ A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bancolombia">Bancolombia</a> 
+        <p>Bancolombia</p> 
         <img src="/img/faq/logoimg/bancolombia.png" width="30px" height="27px" alt="Bitcoint vásárolj Bancolombiával, Bitcoint adj el Bancolombiával">
     </div>
 </div>
@@ -19,11 +19,11 @@ A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-nequi">Nequi</a> 
+        <p>Nequi</p> 
         <img src="/img/faq/logoimg/nequi.png" width="30px" height="27px" alt="Bitcoint vásárolj Nequi-val, Bitcoint adj el Nequi-val">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-rappipay">RappiPay</a> 
+        <p>RappiPay</p> 
         <img src="/img/faq/logoimg/rappipay.png" width="30px" height="27px" alt="Bitcoint vásárolj RappiPay-val, Bitcoint adj el RappiPay-val">
     </div>
 </div>

@@ -10,7 +10,7 @@ PeachBitcoin es la forma segura, rápida y fácil de comprar y vender Bitcoin ut
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-romania">Transferencia Nacional Rumania</a> 
+        <p>Transferencia Nacional Rumania</p> 
         <img src="/img/faq/logoimg/romaniaflag.png" width="30px" height="27px" alt="Comprar bitcoin con Transferencia Nacional Rumania, Vender bitcoin con Transferencia Nacional Rumania">
     </div>
 </div>
@@ -19,23 +19,23 @@ PeachBitcoin es la forma segura, rápida y fácil de comprar y vender Bitcoin ut
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-revolut">Revolut</a> 
+        <p>Revolut</p> 
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Comprar bitcoin con Revolut, Vender bitcoin con Revolut">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-neteller">Neteller</a> 
+        <p>Neteller</p> 
         <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Comprar bitcoin con Neteller, Vender bitcoin con Neteller">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paysera">PaySera</a> 
+        <p>PaySera</p> 
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Comprar bitcoin con PaySera, Vender bitcoin con PaySera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-wise">Wise</a> 
+        <p>Wise</p>
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Comprar bitcoin con Wise, Vender bitcoin con Wise">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-skrill">Skrill</a> 
+        <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Comprar bitcoin con Skrill, Vender bitcoin con Skrill">
     </div>
 </div>

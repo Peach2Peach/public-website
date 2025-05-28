@@ -10,7 +10,7 @@ PeachBitcoin è il modo sicuro, rapido e semplice per comprare e vendere Bitcoin
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sinpe">Sinpe</a> 
+        <p>Sinpe</p> 
         <img src="/img/faq/logoimg/sinpe.png" width="30px" height="27px" alt="Compra bitcoin con Sinpe, Vendi bitcoin con Sinpe">
     </div>
 </div>
@@ -19,7 +19,7 @@ PeachBitcoin è il modo sicuro, rapido e semplice per comprare e vendere Bitcoin
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sinpe-movil">SINPE Móvil</a> 
+        <p>SINPE Móvil</p> 
         <img src="/img/faq/logoimg/sinpemovil.png" width="30px" height="27px" alt="Compra bitcoin con SINPE Móvil, Vendi bitcoin con SINPE Móvil">
     </div>
 </div>

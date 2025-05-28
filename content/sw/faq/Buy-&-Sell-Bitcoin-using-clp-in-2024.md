@@ -10,7 +10,7 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-rappipay">RappiPay</a> 
+        <p>RappiPay</p> 
         <img src="/img/faq/logoimg/rappipay.png" width="30px" height="27px" alt="Nunua bitcoin na RappiPay, Uza bitcoin na RappiPay">
     </div>
 </div>

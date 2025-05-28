@@ -10,7 +10,7 @@ PeachBitcoin — це безпечний, швидкий та простий с�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-iceland">Національний переказ Ісландія</a> 
+        <p>Національний переказ Ісландія</p> 
         <img src="/img/faq/logoimg/icelandflag.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Національного переказу Ісландія, Продавайте біткоїн за допомогою Національного переказу Ісландія">
     </div>
 </div>
@@ -19,15 +19,15 @@ PeachBitcoin — це безпечний, швидкий та простий с�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-skrill">Skrill</a> 
+        <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Skrill, Продавайте біткоїн за допомогою Skrill">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paysera">PaySera</a> 
+        <p>PaySera</p> 
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою PaySera, Продавайте біткоїн за допомогою PaySera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-revolut">Revolut</a> 
+        <p>Revolut</p> 
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Revolut, Продавайте біткоїн за допомогою Revolut">
     </div>
 </div>

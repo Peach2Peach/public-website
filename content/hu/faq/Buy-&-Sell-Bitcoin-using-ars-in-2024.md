@@ -10,15 +10,15 @@ A PeachBitcoin egy biztonságos, gyors és egyszerű módja a Bitcoin vásárlá
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-ars">Alias</a> 
+        <p>Alias</p> 
         <img src="/img/faq/logoimg/argentine.png" width="30px" height="27px" alt="Bitcoin vásárlása Alias-szal, Bitcoin eladása Alias-szal">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-ars">CBU</a> 
+        <p>CBU</p> 
         <img src="/img/faq/logoimg/argentine.png" width="30px" height="27px" alt="Bitcoin vásárlása CBU-val, Bitcoin eladása CBU-val">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-ars">CVU</a> 
+        <p>CVU</p> 
         <img src="/img/faq/logoimg/argentine.png" width="30px" height="27px" alt="Bitcoin vásárlása CVU-val, Bitcoin eladása CVU-val">
     </div>
 </div>
@@ -27,7 +27,7 @@ A PeachBitcoin egy biztonságos, gyors és egyszerű módja a Bitcoin vásárlá
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-mercado-pago">Mercado Pago</a> 
+        <p>Mercado Pago</p> 
         <img src="/img/faq/logoimg/mercadopago.png" width="30px" height="27px" alt="Bitcoin vásárlása Mercado Pago-val, Bitcoin eladása Mercado Pago-val">
     </div>
 </div>

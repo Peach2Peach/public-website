@@ -10,7 +10,7 @@
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-liquid">Liquid</a> 
+        <p>Liquid</p> 
         <img src="/img/faq/logoimg/bitcoin.png" width="30px" height="27px" alt="Αγοράστε bitcoin με Liquid, Πωλήστε bitcoin με Liquid">
     </div>
 </div>

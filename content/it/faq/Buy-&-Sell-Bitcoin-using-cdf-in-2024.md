@@ -10,15 +10,15 @@ PeachBitcoin è il modo sicuro, rapido e semplice per comprare e vendere Bitcoin
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-airtel-money">Airtel Money</a> 
+        <p>Airtel Money</p> 
         <img src="/img/faq/logoimg/airtelmoney.png" width="30px" height="27px" alt="Compra bitcoin con Airtel Money, Vendi bitcoin con Airtel Money">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-mpesa">M-Pesa</a> 
+        <p>M-Pesa</p>
         <img src="/img/faq/logoimg/mpesa.png" width="30px" height="27px" alt="Compra bitcoin con M-Pesa, Vendi bitcoin con M-Pesa">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-orange-money">Orange Money</a> 
+        <p>Orange Money</p> 
         <img src="/img/faq/logoimg/orangemoney.png" width="30px" height="27px" alt="Compra bitcoin con Orange Money, Vendi bitcoin con Orange Money">
     </div>
 </div>

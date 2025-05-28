@@ -10,7 +10,7 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sinpe">Sinpe</a> 
+        <p>Sinpe</p> 
         <img src="/img/faq/logoimg/sinpe.png" width="30px" height="27px" alt="Nunua bitcoin na Sinpe, Uza bitcoin na Sinpe">
     </div>
 </div>
@@ -19,7 +19,7 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sinpe-movil">SINPE Móvil</a> 
+        <p>SINPE Móvil</p> 
         <img src="/img/faq/logoimg/sinpemovil.png" width="30px" height="27px" alt="Nunua bitcoin na SINPE Móvil, Uza bitcoin na SINPE Móvil">
     </div>
 </div>

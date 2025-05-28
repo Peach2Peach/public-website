@@ -10,7 +10,7 @@
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bancolombia">Bancolombia</a> 
+        <p>Bancolombia</p> 
         <img src="/img/faq/logoimg/bancolombia.png" width="30px" height="27px" alt="Αγοράστε bitcoin με Bancolombia, Πωλήστε bitcoin με Bancolombia">
     </div>
 </div>
@@ -19,11 +19,11 @@
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-nequi">Nequi</a> 
+        <p>Nequi</p> 
         <img src="/img/faq/logoimg/nequi.png" width="30px" height="27px" alt="Αγοράστε bitcoin με Nequi, Πωλήστε bitcoin με Nequi">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-rappipay">RappiPay</a> 
+        <p>RappiPay</p> 
         <img src="/img/faq/logoimg/rappipay.png" width="30px" height="27px" alt="Αγοράστε bitcoin με RappiPay, Πωλήστε bitcoin με RappiPay">
     </div>
 </div>
