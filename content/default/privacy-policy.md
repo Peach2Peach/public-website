@@ -72,6 +72,10 @@ Your email address is collected if you decide to sign up for our newsletter.
 
 If you contact us directly, we may receive additional information about you such as your name, email , the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
 
+In addition to this, when you open a support ticket from the app, the following info will be attached:
+- Your Peach ID
+- your app log
+
 ### 3.3 When you create an offer
 
 To be able to make use of Peach you will enter information relating to the trades you would like to do in the form of an offer. The information you will provide is divided in three groups (see also 4.2):
