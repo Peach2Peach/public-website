@@ -10,15 +10,15 @@ PeachBitcoin ni njia salama, ya haraka, na rahisi ya kununua na kuuza Bitcoin kw
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-ars">Alias</a> 
+        <p>Alias</p> 
         <img src="/img/faq/logoimg/argentine.png" width="30px" height="27px" alt="Nunua bitcoin kwa Alias, Uza bitcoin kwa Alias">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-ars">CBU</a> 
+        <p>CBU</p> 
         <img src="/img/faq/logoimg/argentine.png" width="30px" height="27px" alt="Nunua bitcoin kwa CBU, Uza bitcoin kwa CBU">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-ars">CVU</a> 
+        <p>CVU</p> 
         <img src="/img/faq/logoimg/argentine.png" width="30px" height="27px" alt="Nunua bitcoin kwa CVU, Uza bitcoin kwa CVU">
     </div>
 </div>
@@ -27,7 +27,7 @@ PeachBitcoin ni njia salama, ya haraka, na rahisi ya kununua na kuuza Bitcoin kw
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-mercado-pago">Mercado Pago</a> 
+        <p>Mercado Pago</p> 
         <img src="/img/faq/logoimg/mercadopago.png" width="30px" height="27px" alt="Nunua bitcoin kwa Mercado Pago, Uza bitcoin kwa Mercado Pago">
     </div>
 </div>

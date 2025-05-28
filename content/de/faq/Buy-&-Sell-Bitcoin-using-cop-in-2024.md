@@ -10,7 +10,7 @@ PeachBitcoin ist die sichere, schnelle und einfache Möglichkeit, Bitcoin mit je
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bancolombia">Bancolombia</a> 
+        <p>Bancolombia</p> 
         <img src="/img/faq/logoimg/bancolombia.png" width="30px" height="27px" alt="Bitcoin mit Bancolombia kaufen, Bitcoin mit Bancolombia verkaufen">
     </div>
 </div>
@@ -19,11 +19,11 @@ PeachBitcoin ist die sichere, schnelle und einfache Möglichkeit, Bitcoin mit je
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-nequi">Nequi</a> 
+        <p>Nequi</p> 
         <img src="/img/faq/logoimg/nequi.png" width="30px" height="27px" alt="Bitcoin mit Nequi kaufen, Bitcoin mit Nequi verkaufen">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-rappipay">RappiPay</a> 
+        <p>RappiPay</p> 
         <img src="/img/faq/logoimg/rappipay.png" width="30px" height="27px" alt="Bitcoin mit RappiPay kaufen, Bitcoin mit RappiPay verkaufen">
     </div>
 </div>

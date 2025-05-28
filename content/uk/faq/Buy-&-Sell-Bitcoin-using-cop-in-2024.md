@@ -10,7 +10,7 @@ PeachBitcoin — це безпечний, швидкий та простий с�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bancolombia">Bancolombia</a> 
+        <p>Bancolombia</p> 
         <img src="/img/faq/logoimg/bancolombia.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Bancolombia, Продавайте біткоїн за допомогою Bancolombia">
     </div>
 </div>
@@ -19,11 +19,11 @@ PeachBitcoin — це безпечний, швидкий та простий с�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-nequi">Nequi</a> 
+        <p>Nequi</p> 
         <img src="/img/faq/logoimg/nequi.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Nequi, Продавайте біткоїн за допомогою Nequi">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-rappipay">RappiPay</a> 
+        <p>RappiPay</p> 
         <img src="/img/faq/logoimg/rappipay.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою RappiPay, Продавайте біткоїн за допомогою RappiPay">
     </div>
 </div>

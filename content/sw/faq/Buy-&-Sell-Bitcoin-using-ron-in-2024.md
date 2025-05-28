@@ -10,7 +10,7 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-romania">Uhamisho wa Kitaifa Romania</a> 
+        <p>Uhamisho wa Kitaifa Romania</p> 
         <img src="/img/faq/logoimg/romaniaflag.png" width="30px" height="27px" alt="Nunua bitcoin kwa Uhamisho wa Kitaifa Romania, Uza bitcoin kwa Uhamisho wa Kitaifa Romania">
     </div>
 </div>
@@ -19,23 +19,23 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-revolut">Revolut</a> 
+        <p>Revolut</p> 
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Nunua bitcoin kwa Revolut, Uza bitcoin kwa Revolut">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-neteller">Neteller</a> 
+        <p>Neteller</p> 
         <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Nunua bitcoin kwa Neteller, Uza bitcoin kwa Neteller">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paysera">PaySera</a> 
+        <p>PaySera</p> 
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Nunua bitcoin kwa PaySera, Uza bitcoin kwa PaySera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-wise">Wise</a> 
+        <p>Wise</p>
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Nunua bitcoin kwa Wise, Uza bitcoin kwa Wise">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-skrill">Skrill</a> 
+        <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Nunua bitcoin kwa Skrill, Uza bitcoin kwa Skrill">
     </div>
 </div>

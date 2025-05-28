@@ -10,11 +10,11 @@ PeachBitcoin es la forma segura, rápida y fácil de comprar y vender Bitcoin ut
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-norway">Straksbetaling</a> 
+        <p>Straksbetaling</p> 
         <img src="/img/faq/logoimg/norway.png" width="30px" height="27px" alt="Comprar bitcoin con Straksbetaling, Vender bitcoin con Straksbetaling">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-norway">Transferencia Nacional Noruega</a> 
+        <p>Transferencia Nacional Noruega</p> 
         <img src="/img/faq/logoimg/norway.png" width="30px" height="27px" alt="Comprar bitcoin con Transferencia Nacional Noruega, Vender bitcoin con Transferencia Nacional Noruega">
     </div>
 </div>
@@ -23,31 +23,31 @@ PeachBitcoin es la forma segura, rápida y fácil de comprar y vender Bitcoin ut
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-neteller">Neteller</a> 
+        <p>Neteller</p> 
         <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Comprar bitcoin con Neteller, Vender bitcoin con Neteller">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paypal">PayPal</a> 
+        <p>PayPal</p>
         <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Comprar bitcoin con PayPal, Vender bitcoin con PayPal">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paysera">PaySera</a> 
+        <p>PaySera</p> 
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Comprar bitcoin con PaySera, Vender bitcoin con PaySera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-revolut">Revolut</a> 
+        <p>Revolut</p> 
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Comprar bitcoin con Revolut, Vender bitcoin con Revolut">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-skrill">Skrill</a> 
+        <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Comprar bitcoin con Skrill, Vender bitcoin con Skrill">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-vipps">Vipps</a> 
+        <p>Vipps</p> 
         <img src="/img/faq/logoimg/vipps.png" width="30px" height="27px" alt="Comprar bitcoin con Vipps, Vender bitcoin con Vipps">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-wise">Wise</a> 
+        <p>Wise</p>
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Comprar bitcoin con Wise, Vender bitcoin con Wise">
     </div>
 </div>

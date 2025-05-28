@@ -10,19 +10,19 @@ A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">Moov</a> 
+        <p>Moov</p>
         <img src="/img/faq/logoimg/moov.png" width="30px" height="27px" alt="Bitcoint vásárolj Moov-val, Bitcoint adj el Moov-val">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">MTN</a> 
+        <p>MTN</p> 
         <img src="/img/faq/logoimg/mtn.png" width="30px" height="27px" alt="Bitcoint vásárolj MTN-nel, Bitcoint adj el MTN-nel">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">Orange Money</a> 
+        <p>Orange Money</p> 
         <img src="/img/faq/logoimg/orangemoney.png" width="30px" height="27px" alt="Bitcoint vásárolj Orange Money-val, Bitcoint adj el Orange Money-val">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">Wave</a> 
+        <p>Wave</p> 
         <img src="/img/faq/logoimg/wave.png" width="30px" height="27px" alt="Bitcoint vásárolj Wave-vel, Bitcoint adj el Wave-vel">
     </div>
 </div>

@@ -10,7 +10,7 @@ PeachBitcoin — це безпечний, швидкий та простий с�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sinpe">Sinpe</a> 
+        <p>Sinpe</p> 
         <img src="/img/faq/logoimg/sinpe.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Sinpe, Продавайте біткоїн за допомогою Sinpe">
     </div>
 </div>
@@ -19,7 +19,7 @@ PeachBitcoin — це безпечний, швидкий та простий с�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-sinpe-movil">SINPE Móvil</a> 
+        <p>SINPE Móvil</p> 
         <img src="/img/faq/logoimg/sinpemovil.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою SINPE Móvil, Продавайте біткоїн за допомогою SINPE Móvil">
     </div>
 </div>

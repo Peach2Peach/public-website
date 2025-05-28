@@ -10,7 +10,7 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-iceland">Uhamisho wa Kitaifa Islandia</a> 
+        <p>Uhamisho wa Kitaifa Islandia</p> 
         <img src="/img/faq/logoimg/icelandflag.png" width="30px" height="27px" alt="Nunua bitcoin kwa Uhamisho wa Kitaifa Islandia, Uza bitcoin kwa Uhamisho wa Kitaifa Islandia">
     </div>
 </div>
@@ -19,15 +19,15 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-skrill">Skrill</a> 
+        <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Nunua bitcoin kwa Skrill, Uza bitcoin kwa Skrill">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paysera">PaySera</a> 
+        <p>PaySera</p> 
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Nunua bitcoin kwa PaySera, Uza bitcoin kwa PaySera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-revolut">Revolut</a> 
+        <p>Revolut</p> 
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Nunua bitcoin kwa Revolut, Uza bitcoin kwa Revolut">
     </div>
 </div>

@@ -10,7 +10,7 @@
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-romania">Εθνική Μεταφορά Ρουμανία</a> 
+        <p>Εθνική Μεταφορά Ρουμανία</p> 
         <img src="/img/faq/logoimg/romaniaflag.png" width="30px" height="27px" alt="Αγοράστε bitcoin με Εθνική Μεταφορά Ρουμανία, Πωλήστε bitcoin με Εθνική Μεταφορά Ρουμανία">
     </div>
 </div>
@@ -19,23 +19,23 @@
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-revolut">Revolut</a> 
+        <p>Revolut</p> 
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Αγοράστε bitcoin με Revolut, Πωλήστε bitcoin με Revolut">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-neteller">Neteller</a> 
+        <p>Neteller</p> 
         <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Αγοράστε bitcoin με Neteller, Πωλήστε bitcoin με Neteller">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paysera">PaySera</a> 
+        <p>PaySera</p> 
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Αγοράστε bitcoin με PaySera, Πωλήστε bitcoin με PaySera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-wise">Wise</a> 
+        <p>Wise</p>
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Αγοράστε bitcoin με Wise, Πωλήστε bitcoin με Wise">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-skrill">Skrill</a> 
+        <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Αγοράστε bitcoin με Skrill, Πωλήστε bitcoin με Skrill">
     </div>
 </div>

@@ -10,7 +10,7 @@ PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usan
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-liquid">Liquid</a> 
+        <p>Liquid</p> 
         <img src="/img/faq/logoimg/bitcoin.png" width="30px" height="27px" alt="Comprar bitcoin com Liquid, Vender bitcoin com Liquid">
     </div>
 </div>

@@ -10,7 +10,7 @@ PeachBitcoin ist der sichere, schnelle und einfache Weg, Bitcoin mit jeder Zahlu
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-iceland">Nationale Überweisung Island</a> 
+        <p>Nationale Überweisung Island</p> 
         <img src="/img/faq/logoimg/icelandflag.png" width="30px" height="27px" alt="Bitcoin kaufen mit Nationaler Überweisung Island, Bitcoin verkaufen mit Nationaler Überweisung Island">
     </div>
 </div>
@@ -19,15 +19,15 @@ PeachBitcoin ist der sichere, schnelle und einfache Weg, Bitcoin mit jeder Zahlu
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-skrill">Skrill</a> 
+        <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Bitcoin kaufen mit Skrill, Bitcoin verkaufen mit Skrill">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paysera">PaySera</a> 
+        <p>PaySera</p> 
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Bitcoin kaufen mit PaySera, Bitcoin verkaufen mit PaySera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-revolut">Revolut</a> 
+        <p>Revolut</p> 
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Bitcoin kaufen mit Revolut, Bitcoin verkaufen mit Revolut">
     </div>
 </div>

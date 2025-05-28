@@ -10,7 +10,7 @@ PeachBitcoin — це безпечний, швидкий та простий с�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-turkey">Національний переказ Туреччина</a> 
+        <p>Національний переказ Туреччина</p> 
         <img src="/img/faq/logoimg/nationaltransfer.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Національного переказу Туреччина, Продавайте біткоїн за допомогою Національного переказу Туреччина">
     </div>
 </div>
@@ -19,11 +19,11 @@ PeachBitcoin — це безпечний, швидкий та простий с�
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bankera">Bankera</a> 
+        <p>Bankera</p> 
         <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Bankera, Продавайте біткоїн за допомогою Bankera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-papara">Papara</a> 
+        <p>Papara</p> 
         <img src="/img/faq/logoimg/papara.png" width="30px" height="27px" alt="Купуйте біткоїн за допомогою Papara, Продавайте біткоїн за допомогою Papara">
     </div>
 </div>

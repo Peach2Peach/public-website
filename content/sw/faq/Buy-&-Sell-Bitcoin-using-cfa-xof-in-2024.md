@@ -10,19 +10,19 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">Moov</a> 
+        <p>Moov</p>
         <img src="/img/faq/logoimg/moov.png" width="30px" height="27px" alt="Nunua bitcoin na Moov, Uza bitcoin na Moov">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">MTN</a> 
+        <p>MTN</p> 
         <img src="/img/faq/logoimg/mtn.png" width="30px" height="27px" alt="Nunua bitcoin na MTN, Uza bitcoin na MTN">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">Orange Money</a> 
+        <p>Orange Money</p> 
         <img src="/img/faq/logoimg/orangemoney.png" width="30px" height="27px" alt="Nunua bitcoin na Orange Money, Uza bitcoin na Orange Money">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">Wave</a> 
+        <p>Wave</p> 
         <img src="/img/faq/logoimg/wave.png" width="30px" height="27px" alt="Nunua bitcoin na Wave, Uza bitcoin na Wave">
     </div>
 </div>

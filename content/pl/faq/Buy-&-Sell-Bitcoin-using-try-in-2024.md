@@ -10,7 +10,7 @@ PeachBitcoin to bezpieczny, szybki i łatwy sposób na zakup i sprzedaż Bitcoin
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-turkey">Krajowy Przelew Turcja</a> 
+        <p>Krajowy Przelew Turcja</p> 
         <img src="/img/faq/logoimg/nationaltransfer.png" width="30px" height="27px" alt="Kup bitcoin z Krajowego Przelewu Turcja, Sprzedaj bitcoin z Krajowego Przelewu Turcja">
     </div>
 </div>
@@ -19,11 +19,11 @@ PeachBitcoin to bezpieczny, szybki i łatwy sposób na zakup i sprzedaż Bitcoin
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bankera">Bankera</a> 
+        <p>Bankera</p> 
         <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Kup bitcoin z Bankera, Sprzedaj bitcoin z Bankera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-papara">Papara</a> 
+        <p>Papara</p> 
         <img src="/img/faq/logoimg/papara.png" width="30px" height="27px" alt="Kup bitcoin z Papara, Sprzedaj bitcoin z Papara">
     </div>
 </div>

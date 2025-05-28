@@ -19,11 +19,11 @@ PeachBitcoin is de veilige, snelle en eenvoudige manier om Bitcoin te kopen en t
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bankera">Bankera</a> 
+        <p>Bankera</p> 
         <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Bitcoin kopen met Bankera, Bitcoin verkopen met Bankera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-papara">Papara</a> 
+        <p>Papara</p> 
         <img src="/img/faq/logoimg/papara.png" width="30px" height="27px" alt="Bitcoin kopen met Papara, Bitcoin verkopen met Papara">
     </div>
 </div>

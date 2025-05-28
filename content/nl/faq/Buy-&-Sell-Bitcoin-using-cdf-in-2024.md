@@ -10,15 +10,15 @@ PeachBitcoin is de veilige, snelle en eenvoudige manier om Bitcoin te kopen en t
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-airtel-money">Airtel Money</a> 
+        <p>Airtel Money</p> 
         <img src="/img/faq/logoimg/airtelmoney.png" width="30px" height="27px" alt="Bitcoin kopen met Airtel Money, Bitcoin verkopen met Airtel Money">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-mpesa">M-Pesa</a> 
+        <p>M-Pesa</p>
         <img src="/img/faq/logoimg/mpesa.png" width="30px" height="27px" alt="Bitcoin kopen met M-Pesa, Bitcoin verkopen met M-Pesa">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-orange-money">Orange Money</a> 
+        <p>Orange Money</p> 
         <img src="/img/faq/logoimg/orangemoney.png" width="30px" height="27px" alt="Bitcoin kopen met Orange Money, Bitcoin verkopen met Orange Money">
     </div>
 </div>

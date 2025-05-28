@@ -10,7 +10,7 @@ A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-bulgaria">Nemzeti Átutalás Bulgária</a> 
+        <p>Nemzeti Átutalás Bulgária</p> 
         <img src="/img/faq/logoimg/bulgariaflag.png" width="30px" height="27px" alt="Bitcoint vásárolj Nemzeti Átutalás Bulgária-val, Bitcoint adj el Nemzeti Átutalás Bulgária-val">
     </div>
 </div>
@@ -19,23 +19,23 @@ A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-revolut">Revolut</a> 
+        <p>Revolut</p> 
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Bitcoint vásárolj Revolut-tal, Bitcoint adj el Revolut-tal">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-wise">Wise</a> 
+        <p>Wise</p>
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Bitcoint vásárolj Wise-al, Bitcoint adj el Wise-al">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-skrill">Skrill</a> 
+        <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Bitcoint vásárolj Skrill-el, Bitcoint adj el Skrill-el">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-neteller">Neteller</a> 
+        <p>Neteller</p> 
         <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Bitcoint vásárolj Neteller-rel, Bitcoint adj el Neteller-rel">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paysera">PaySera</a> 
+        <p>PaySera</p> 
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Bitcoint vásárolj PaySera-val, Bitcoint adj el PaySera-val">
     </div>
 </div>

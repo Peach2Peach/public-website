@@ -10,19 +10,19 @@ PeachBitcoin ist die sichere, schnelle und einfache Möglichkeit, Bitcoin mit je
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">Moov</a> 
+        <p>Moov</p> 
         <img src="/img/faq/logoimg/moov.png" width="30px" height="27px" alt="Bitcoin mit Moov kaufen, Bitcoin mit Moov verkaufen">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">MTN</a> 
+        <p>MTN</p> 
         <img src="/img/faq/logoimg/mtn.png" width="30px" height="27px" alt="Bitcoin mit MTN kaufen, Bitcoin mit MTN verkaufen">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">Orange Money</a> 
+        <p>Orange Money</p> 
         <img src="/img/faq/logoimg/orangemoney.png" width="30px" height="27px" alt="Bitcoin mit Orange Money kaufen, Bitcoin mit Orange Money verkaufen">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-moov">Wave</a> 
+        <p>Wave</p> 
         <img src="/img/faq/logoimg/wave.png" width="30px" height="27px" alt="Bitcoin mit Wave kaufen, Bitcoin mit Wave verkaufen">
     </div>
 </div>

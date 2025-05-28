@@ -10,7 +10,7 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-turkey">Uhamisho wa Kitaifa Uturuki</a> 
+        <p>Uhamisho wa Kitaifa Uturuki</p> 
         <img src="/img/faq/logoimg/nationaltransfer.png" width="30px" height="27px" alt="Nunua bitcoin kwa Uhamisho wa Kitaifa Uturuki, Uza bitcoin kwa Uhamisho wa Kitaifa Uturuki">
     </div>
 </div>
@@ -19,11 +19,11 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bankera">Bankera</a> 
+        <p>Bankera</p> 
         <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Nunua bitcoin kwa Bankera, Uza bitcoin kwa Bankera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-papara">Papara</a> 
+        <p>Papara</p> 
         <img src="/img/faq/logoimg/papara.png" width="30px" height="27px" alt="Nunua bitcoin kwa Papara, Uza bitcoin kwa Papara">
     </div>
 </div>

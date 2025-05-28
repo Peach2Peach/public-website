@@ -10,7 +10,7 @@ PeachBitcoin ist die sichere, schnelle und einfache Möglichkeit, Bitcoin mit je
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-czech-republic">Nationale Überweisung Tschechische Republik</a> 
+        <p>Nationale Überweisung Tschechische Republik</p> 
         <img src="/img/faq/logoimg/czech.png" width="30px" height="27px" alt="Bitcoin mit Nationaler Überweisung Tschechische Republik kaufen, Bitcoin mit Nationaler Überweisung Tschechische Republik verkaufen">
     </div>
 </div>
@@ -19,23 +19,23 @@ PeachBitcoin ist die sichere, schnelle und einfache Möglichkeit, Bitcoin mit je
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paypal">PayPal</a> 
+        <p>PayPal</p> 
         <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Bitcoin mit PayPal kaufen, Bitcoin mit PayPal verkaufen">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-revolut">Revolut</a> 
+        <p>Revolut</p> 
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Bitcoin mit Revolut kaufen, Bitcoin mit Revolut verkaufen">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-wise">Wise</a> 
+        <p>Wise</p> 
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Bitcoin mit Wise kaufen, Bitcoin mit Wise verkaufen">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-skrill">Skrill</a> 
+        <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Bitcoin mit Skrill kaufen, Bitcoin mit Skrill verkaufen">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paysera">PaySera</a> 
+        <p>PaySera</p> 
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Bitcoin mit PaySera kaufen, Bitcoin mit PaySera verkaufen">
     </div>
 </div>

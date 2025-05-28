@@ -10,15 +10,15 @@ PeachBitcoin is de veilige, snelle en gemakkelijke manier om Bitcoin te kopen en
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-ars">Alias</a> 
+        <p>Alias</p> 
         <img src="/img/faq/logoimg/argentine.png" width="30px" height="27px" alt="Bitcoin kopen met Alias, Bitcoin verkopen met Alias">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-ars">CBU</a> 
+        <p>CBU</p> 
         <img src="/img/faq/logoimg/argentine.png" width="30px" height="27px" alt="Bitcoin kopen met CBU, Bitcoin verkopen met CBU">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-ars">CVU</a> 
+        <p>CVU</p> 
         <img src="/img/faq/logoimg/argentine.png" width="30px" height="27px" alt="Bitcoin kopen met CVU, Bitcoin verkopen met CVU">
     </div>
 </div>
@@ -27,7 +27,7 @@ PeachBitcoin is de veilige, snelle en gemakkelijke manier om Bitcoin te kopen en
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-mercado-pago">Mercado Pago</a> 
+        <p>Mercado Pago</p> 
         <img src="/img/faq/logoimg/mercadopago.png" width="30px" height="27px" alt="Bitcoin kopen met Mercado Pago, Bitcoin verkopen met Mercado Pago">
     </div>
 </div>

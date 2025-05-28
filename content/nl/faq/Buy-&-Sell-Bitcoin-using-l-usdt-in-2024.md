@@ -10,7 +10,7 @@ PeachBitcoin is de veilige, snelle en eenvoudige manier om Bitcoin te kopen en t
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-lnurl-btc">LNURL BTC</a> 
+        <p>LNURL BTC</p> 
         <img src="/img/faq/logoimg/bitcoin2.png" width="30px" height="27px" alt="Bitcoin kopen met LNURL BTC, Bitcoin verkopen met LNURL BTC">
     </div>
 </div>

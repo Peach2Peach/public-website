@@ -8,7 +8,7 @@ A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-switzerland-no-id">Nemzeti Átutalás Svájc</a> 
+        <p>Nemzeti Átutalás Svájc</p> 
         <img src="/img/faq/logoimg/nationalswitzer.png" width="30px" height="27px" alt="Bitcoint vásárolj Nemzeti Átutalás Svájccal, Bitcoint adj el Nemzeti Átutalás Svájccal">
     </div>
 </div>
@@ -17,31 +17,31 @@ A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-paypal">PayPal</a> 
+        <p>PayPal</p>
         <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Bitcoint vásárolj PayPallal, Bitcoint adj el PayPallal">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-Neteller">Neteller</a> 
+        <p>Neteller</p> 
         <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Bitcoint vásárolj Netellerrel, Bitcoint adj el Netellerrel">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-Paysera">PaySera</a> 
+        <p>PaySera</p> 
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Bitcoint vásárolj PaySerával, Bitcoint adj el PaySerával">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-Revolut">Revolut</a> 
+        <p>Revolut</p> 
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Bitcoint vásárolj Revoluttal, Bitcoint adj el Revoluttal">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-Skrill">Skrill</a> 
+        <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Bitcoint vásárolj Skrillel, Bitcoint adj el Skrillel">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-Wise">Wise</a> 
+        <p>Wise</p>
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Bitcoint vásárolj Wise-al, Bitcoint adj el Wise-al">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-Twint">Twint</a> 
+       <p>Twint</p> 
         <img src="/img/faq/logoimg/twint.png" width="30px" height="27px" alt="Bitcoint vásárolj Twint-tel, Bitcoint adj el Twint-tel">
     </div>
 </div>

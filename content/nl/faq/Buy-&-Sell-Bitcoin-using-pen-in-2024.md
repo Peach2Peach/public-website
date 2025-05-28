@@ -10,7 +10,7 @@ PeachBitcoin is de veilige, snelle en eenvoudige manier om Bitcoin te kopen en t
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bancolombia">Bancolombia</a> 
+        <p>Bancolombia</p> 
         <img src="/img/faq/logoimg/bancolombia.png" width="30px" height="27px" alt="Bitcoin kopen met Bancolombia, Bitcoin verkopen met Bancolombia">
     </div>
 </div>
@@ -19,7 +19,7 @@ PeachBitcoin is de veilige, snelle en eenvoudige manier om Bitcoin te kopen en t
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-rappipay">RappiPay</a> 
+        <p>RappiPay</p> 
         <img src="/img/faq/logoimg/rappipay.png" width="30px" height="27px" alt="Bitcoin kopen met RappiPay, Bitcoin verkopen met RappiPay">
     </div>
 </div>

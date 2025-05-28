@@ -10,7 +10,7 @@
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-turkey">Εθνική Μεταφορά Τουρκία</a> 
+        <p>Εθνική Μεταφορά Τουρκία</p> 
         <img src="/img/faq/logoimg/nationaltransfer.png" width="30px" height="27px" alt="Αγοράστε bitcoin με Εθνική Μεταφορά Τουρκία, Πωλήστε bitcoin με Εθνική Μεταφορά Τουρκία">
     </div>
 </div>
@@ -19,11 +19,11 @@
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-bankera">Bankera</a> 
+        <p>Bankera</p> 
         <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Αγοράστε bitcoin με Bankera, Πωλήστε bitcoin με Bankera">
     </div>
     <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-papara">Papara</a> 
+        <p>Papara</p> 
         <img src="/img/faq/logoimg/papara.png" width="30px" height="27px" alt="Αγοράστε bitcoin με Papara, Πωλήστε bitcoin με Papara">
     </div>
 </div>
