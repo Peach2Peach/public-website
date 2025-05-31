@@ -508,3 +508,10 @@ blockquote p {
 blockquote cite {
   display: inline-block;
 }
+
+.custom-section_357 {
+  margin-top: 2rem; /* Aggiunge spazio sopra la sezione */
+  padding-top: 1rem; /* Ulteriore spaziatura interna se desiderato */
+}
+
+/* Responsive spacing per schermi più piccoli */
