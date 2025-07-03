@@ -50,7 +50,7 @@ O backup de arquivo pode recuperar toda a sua conta Peach, para que você não p
 Quando você cria uma conta Peach, automaticamente recebe um código de indicação. Quando outras pessoas o usam, você ganha um ponto Peach para cada 10.000 sats que seus indicados negociam na Peach. Pontos Peach podem ser trocados por recompensas legais, que mudam ao longo do tempo. Atualmente, você pode obter:
 
 - Um código de indicação personalizado (100 pontos)
-- 5 negociações sem pagar taxas Peach (200 pontos)
+- 2 negociações sem pagar taxas Peach (200 pontos)
 - Converter seus pontos em sats (a partir de 300 pontos)
 
 se escolher a última, pagamos-lhe 21% da taxa gerada pelas primeiras 5 negociações feitas pelo seu utilizador indicado (note que a nossa taxa para a primeira negociação será de 0% e depois de 2%). A cada 1 ponto você ganha 42 sáb.  

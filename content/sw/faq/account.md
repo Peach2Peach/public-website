@@ -50,7 +50,7 @@ Nakala rudufu ya faili inaweza kurejesha akaunti yako yote ya Peach, ili usihita
 Unapounda akaunti ya Peach, utapata moja kwa moja nambari yako ya rufaa. Watu wengine wakitumia nambari hii, utapata alama moja ya Peach kwa kila Satoshi 10,000 ambayo marejeo wako wanafanya biashara kwenye Peach. Alama za Peach zinaweza kubadilishwa kwa tuzo nzuri, ambazo zinabadilika kwa wakati. Sasa hivi, unaweza kupata:
 
 - Nambari ya rufaa ya kipekee (alama 100)
-- Biashara 5x bila kulipa ada yoyote ya Peach (alama 200)
+- Biashara 2x bila kulipa ada yoyote ya Peach (alama 200)
 - Badilisha alama zako kuwa Satoshi (kuanzia alama 300)
 
 Ukichagua wa mwisho, tunakulipa 21% ya ada inayotokana na biashara 5 za kwanza zilizofanywa na mtumiaji wako aliyetajwa (kumbuka kuwa ada yetu ya biashara ya kwanza itakuwa 0% na kisha 2%). Kila pointi 1 unapata 42 kukaa.  

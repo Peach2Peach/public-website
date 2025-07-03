@@ -50,7 +50,7 @@ La sauvegarde du fichier peut récupérer l'intégralité de votre compte Peach,
 Lorsque vous créez un compte Peach, vous recevez automatiquement un code de parrainage. Lorsque d'autres personnes l'utilisent, vous obtenez un point Peach pour chaque tranche de 10 000 sats que vos filleuls échangent sur Peach. Les points Peach peuvent être échangés contre des récompenses intéressantes, qui changent avec le temps. En ce moment, vous pouvez obtenir :
 
 - Un code de parrainage personnalisé (100 points)
-- 5 fois de trading sans payer de frais Peach (200 points)
+- 2 fois de trading sans payer de frais Peach (200 points)
 - Convertir vos points en sats (à partir de 300 points)
 
 si vous choisissez le dernier, nous vous payons 21% des frais générés par les 5 premières transactions effectuées par votre utilisateur parrainé (notez que nos frais pour la première transaction seront de 0% puis de 2%). Tous le point, vous obtenez 42 sats.  

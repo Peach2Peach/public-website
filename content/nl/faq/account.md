@@ -50,7 +50,7 @@ De bestandsback-up kan je hele Peach-account herstellen, zodat je niet opnieuw a
 Wanneer je een Peach-account maakt, krijg je automatisch een verwijzingscode. Wanneer anderen deze gebruiken, krijg je één Peach-punt voor elke 10 000 sats die je verwijzingen verhandelen op Peach. Peach-punten kunnen worden ingewisseld voor coole beloningen die in de loop van de tijd veranderen. Op dit moment kun je krijgen:
 
 - Een aangepaste verwijzingscode (100 punten)
-- 5x handelen zonder Peach-kosten te betalen (200 punten)
+- 2x handelen zonder Peach-kosten te betalen (200 punten)
 - Converteer je punten naar sats (beginnend bij 300 punten)
 
 Als je voor het laatste kiest, we betalen u 21% van de kosten die worden gegenereerd door de eerste 5 transacties die door de door u doorverwezen gebruiker worden gedaan (houd er rekening mee dat onze vergoeding voor de eerste transactie 0% is en vervolgens 2%). Elke 1 punten krijg je 42 sat.  

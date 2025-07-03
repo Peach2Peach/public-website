@@ -52,7 +52,7 @@ A fájl biztonsági mentése visszaállíthatja a teljes Peach fiókodat, így n
 Amikor létrehozol egy Peach fiókot, automatikusan kapsz egy ajánlói kódot. Amikor mások ezt használják, minden 10 000 satoshi után, amit az ajánlottak a Peach-en kereskednek, egy Peach pontot kapsz. A Peach pontokat menő jutalmakra lehet beváltani, amelyek idővel változnak. Jelenleg kaphatsz:
 
 - Egyéni ajánlói kód (100 pont)
-- 5x kereskedés Peach díjak nélkül (200 pont)
+- 2x kereskedés Peach díjak nélkül (200 pont)
 - Pontjaid satsokra váltása (300 ponttól kezdve)
 
 Ha az utolsót választja, az Ön által hivatkozott felhasználó által végrehajtott első 5 kereskedés díjának 21%-át fizetjük Önnek (vegye figyelembe, hogy az első kereskedés díja 0%, majd 2% lesz). Minden 1 pontért 42 sat-ot kapsz.  
