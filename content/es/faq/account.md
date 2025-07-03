@@ -50,7 +50,7 @@ La copia de seguridad de archivo puede recuperar toda tu cuenta de Peach, para q
 Cuando creas una cuenta de Peach, automáticamente recibirás un código de referido. Cuando otros usuarios usen este código, tu recibirás un punto de Peach por cada 10 000 sats que tus referidos hayan intercambiado en Peach. Los puntos de Peach se pueden intercambiar por recompensas que irán cambiando al largo del tiempo. Ahora mismo puedes recibir:
 
 - Un código de referido personalizado (100 puntos)
-- 5x intercambios sin pagar comisión (200 puntos)
+- 2x intercambios sin pagar comisión (200 puntos)
 - ¡Convierte tus puntos en sats! (empezando a partir de 300 puntos)
 
 Si seleciona la ultima opcion, le pagamos el 21% de la tarifa generada por las primeras 5 operaciones realizadas por su usuario referido (tenga en cuenta que nuestra tarifa para la primera operación será del 0% y luego del 2%). Cada punto obtienes 42 sats.  

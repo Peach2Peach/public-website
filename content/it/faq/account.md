@@ -50,7 +50,7 @@ Il backup del file può ripristinare l'intero account Peach, in modo da non dove
 Quando crei un account Peach, riceverai automaticamente un codice di affiliazione. Quando altri lo usano, otterrai un punto Peach per ogni 10.000 sats che i tuoi affiliati scambiano su Peach. I punti Peach possono essere scambiati con ricompense interessanti, che cambiano nel tempo. Al momento, puoi ottenere:
 
 - Un codice di affiliazione personalizzato (100 punti)
-- 5 scambi senza pagare commissioni a Peach (200 punti)
+- 2 scambi senza pagare commissioni a Peach (200 punti)
 - Convertire i tuoi punti in sats (a partire da 300 punti)
 
 Se scegli la ultima opzione, ti paghiamo il 21% della commissione generata dalle prime 5 operazioni effettuate dall'utente che hai segnalato (tieni presente che la nostra commissione per la prima operazione sarà dello 0% e poi del 2%). Ogni punto ottieni 42 sats.  

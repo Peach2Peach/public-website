@@ -50,7 +50,7 @@ Das Backup stellt deinen gesamten Peach-Account wieder her, sodass du nicht alle
 Wenn du ein Peach-Account erstellst erhälst du automatisch einen Empfehlungscode. Wenn andere diesen nutzen, erhälst einen Peach-Punkt für alle 10.000 Sats welche deine Empfehlungen auf Peach handeln. Peachpunkte können gegen coole Belohnungen eingetauscht werden welche sich im laufe der Zeit ändern. Im Moment kannst du folgendes erhalten:
 
 - Ein benutzerdefinierter Empfehlungscode (100 Punkte)
-- 5 Gratis Trades (200 Punkte)
+- 2 Gratis Trades (200 Punkte)
 - Wandle deine Punkte in Sats um (ab 300 Punkten)
 
 Wenn Sie sich für die letzte Option entscheiden, wir zahlen Ihnen 21% der Gebühr, die durch die ersten 5 Trades Ihres geworbenen Benutzers generiert wird (beachten Sie, dass unsere Gebühr für den ersten Trade 0% und dann 2% beträgt). Alle 1 Punkte bekommst du 42 Sat.  
