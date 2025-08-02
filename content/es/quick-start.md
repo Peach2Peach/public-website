@@ -4,11 +4,11 @@
 
 ## Intro: ¿Por qué Peach?
 
-En una exchange "normal", compras bitcoin directamente de ellos. Eso a menudo lo hace bastante fácil, pero debes subir tus documentos de identidad, lo que podría filtrarse cuando su sitio web sea hackeado, y en general es malo para la privacidad.
+En una plataforma de intercambio "normal", compras bitcoin directamente de ellos. Eso a menudo lo hace bastante fácil, pero debes subir tus documentos de identidad, lo que podría filtrarse cuando su sitio web sea hackeado, y en general es malo para la privacidad.
 
-Por otro lado, hay exchanges peer to peer. En estas puedes comprar a otras personas, lo que es mejor para tu privacidad en muchos aspectos. Pero, pueden ser bastante complicados de usar ... ¡hasta ahora!
+Por otro lado, hay plataformas de intercambio peer to peer. En estas puedes comprar a otras personas, lo que es mejor para tu privacidad en muchos aspectos. Pero, pueden ser bastante complicados de usar... ¡hasta ahora!
 
-Peach es **fácil** de usar, es más **privado**, tiene **más métodos de pago** y estás comprando **bitcoin** _**real**_, no alguna nota de intercambio que puedan o no pagar. Así es como funciona:
+Peach es **fácil** de usar, es más **privado**, tiene **más métodos de pago** y estás comprando **bitcoin** _**real**_, no algún pagaré que puedan o no pagar. Así es como funciona:
 
 ## Guía 1: Configuración de la aplicación
 
