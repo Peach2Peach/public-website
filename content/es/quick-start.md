@@ -34,15 +34,22 @@ Publicar tu primera oferta de compra puede hacerse en solo unos segundos. Solo t
 Aquí está el paso a paso de tu primera oferta de compra:
 
 :::figures 5
-![Primero seleccionarás cuánto quieres comprar. Esto siempre es un rango, y se te mostrarán todas las ofertas de venta disponibles en ese rango.](/img/faq/quickstart/buy/BuyStep1.png)
+![Primero seleccionarás cuánto quieres comprar. Esto siempre es un rango, y se te mostrarán todas las ofertas de venta disponibles en ese rango.](/img/faq/quickstart/buy/BuyOffer1.png)
 
-![Luego tendrás que decirnos cómo quieres pagar. Si quieres saber más sobre los métodos de pago, deberías [leer esta guía](#guía-4-agregar-métodos-de-pago). Al final, puedes volver [aquí.](/img/faq/quickstart/buy/BuyStep2.png)
+![Luego tendrás que decirnos cómo quieres pagar. Si quieres saber más sobre los métodos de pago, deberías [leer esta guía](#guía-4-agregar-métodos-de-pago). Al final, puedes volver [aquí.](/img/faq/quickstart/buy/BuyOffer2.png)
 
-![Ten en cuenta que puedes seleccionar tantos métodos de pago como desees para aumentar tus posibilidades de encontrar un match.](/img/faq/quickstart/buy/BuyStep3.png)
+![Ten en cuenta que puedes seleccionar tantos métodos de pago como desees para aumentar tus posibilidades de encontrar un match.](/img/faq/quickstart/buy/BuyOffer3.png)
 
-![Después de eso, verás un resumen rápido, donde puedes verificar todos los métodos de pago que seleccionaste y cuánto estás comprando.](/img/faq/quickstart/buy/BuyStep4.png)
+![Después de eso, verás un resumen rápido, donde puedes verificar todos los métodos de pago que seleccionaste y cuánto estás comprando.](/img/faq/quickstart/buy/BuyOffer4.png)
 
-![¡Tu oferta de compra está ahora publicada! Si hay ofertas de venta disponibles, las verás immediatamente. Si no, deberás esperar un poco a que alguien publique una.](/img/faq/quickstart/buy/BuyStep5.png)
+![¡Tu oferta de compra está ahora publicada! Si hay ofertas de venta disponibles, las verás immediatamente. Si no, deberás esperar un poco a que alguien publique una.](/img/faq/quickstart/buy/BuyOffer5.png)
+
+![](/img/faq/quickstart/buy/BuyOffer6.png)
+
+![](/img/faq/quickstart/buy/BuyOffer7.png)
+
+![](/img/faq/quickstart/buy/BuyOffer8.png)
+
 :::
 
 ### Haciendo match con un vendedor
