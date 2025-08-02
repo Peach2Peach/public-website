@@ -230,7 +230,7 @@ para ver **TODAS LAS OFERTAS EN VIVO**!
 
 ### No tus llaves, no tus monedas
 
-La aplicación tiene una billetera fácil de usar que tú controlas incorporada, o puedes usar tu billetera existente. Mantén lo básico o hazlo más complicado: siempre tienes el control.
+La aplicación tiene una billetera fácil de usar que tú controlas incorporada, o puedes usar tu billetera existente. Mantenlo básico o hazlo más complicado: siempre tienes el control.
 
 <!--[security]-->
 
