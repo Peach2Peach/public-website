@@ -1,4 +1,4 @@
-# Quick Start
+# Guía de Inicio Rápido
 
 @[toc]
 
