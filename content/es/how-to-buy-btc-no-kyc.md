@@ -15,7 +15,7 @@ template: how_it_works
 
 ### Registro fácil
 
-Descarga la aplicación gratis y comienza a operar de inmediato. No te pediremos subir tu identificación ni hacerte una selfie con tu licencia de conducir.
+¡Descarga la aplicación de forma gratuita y comienza a comerciar de inmediato! No te pediremos que subas tu DNI/NIE ni que te hagas una selfie con tu licencia de conducir.
 
 <div class="custom-section_357">
   <div class="md:flex items-end">
@@ -443,9 +443,9 @@ para ver **TODAS LAS OFERTAS EN VIVO!**
 
 <!--[self_custody]-->
 
-### Si no son tus llaves, no son tus monedas
+### No tus llaves, no tus monedas
 
-La aplicación incluye una billetera fácil de usar que controlas tú, o puedes usar tu billetera existente. Stick to the basics or make it hardcore - you're always in control.
+La aplicación tiene una billetera fácil de usar que tú controlas incorporada, o puedes usar tu billetera existente. Mantenlo básico o hazlo más complicado: siempre tienes el control.
 
 <!--[security]-->
 
@@ -455,7 +455,7 @@ Peach utiliza direcciones Bitcoin multifirma to make sure that the correct party
 
 <!--[difference]-->
 
-### ¿Qué hace diferente a Peach de otros exchanges?
+### ¿Qué hace a Peach diferente de otras plataformas de intercambio?
 
 Con Peach, no compras ni vendes a nosotros.
 Interactúas directamente con otros usuarios!
