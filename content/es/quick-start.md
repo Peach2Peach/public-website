@@ -36,7 +36,7 @@ Aquí está el paso a paso de tu primera oferta de compra:
 :::figures 5
 ![Primero seleccionarás cuánto quieres comprar. Esto siempre es un rango, y se te mostrarán todas las ofertas de venta disponibles en ese rango.](/img/faq/quickstart/buy/BuyOffer1.png)
 
-![Luego tendrás que decirnos cómo quieres pagar. Si quieres saber más sobre los métodos de pago, deberías [leer esta guía](#guía-4-agregar-métodos-de-pago). Al final, puedes volver [aquí.](/img/faq/quickstart/buy/BuyOffer2.png)
+![Luego tendrás que decirnos cómo quieres pagar. Si quieres saber más sobre los métodos de pago, deberías [leer esta guía](#guía-4-agregar-métodos-de-pago). Al final, puedes volver aquí.](/img/faq/quickstart/buy/BuyOffer2.png)
 
 ![Ten en cuenta que puedes seleccionar tantos métodos de pago como desees para aumentar tus posibilidades de encontrar un match.](/img/faq/quickstart/buy/BuyOffer3.png)
 
