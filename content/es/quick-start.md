@@ -33,7 +33,7 @@ Publicar tu primera oferta de compra puede hacerse en solo unos segundos. Solo t
 
 Aquí está el paso a paso de tu primera oferta de compra:
 
-:::figures 5
+:::figures 8
 ![Primero seleccionarás cuánto quieres comprar. Esto siempre es un rango, y se te mostrarán todas las ofertas de venta disponibles en ese rango.](/img/faq/quickstart/buy/BuyOffer1.png)
 
 ![Luego tendrás que decirnos cómo quieres pagar. Si quieres saber más sobre los métodos de pago, deberías [leer esta guía](#guía-4-agregar-métodos-de-pago). Al final, puedes volver aquí.](/img/faq/quickstart/buy/BuyOffer2.png)
@@ -59,17 +59,17 @@ Después de publicar tu oferta de compra, se te mostrarán todas las ofertas de 
 ![Tarjeta de match](/img/faq/quickstart/buy/MatchCardExplainer.png)
 
 :::figures 2
-![Cuando hayas seleccionado la moneda y el método de pago que deseas utilizar para este intercambio (si tienes más de uno en común), puedes hacer match con las ofertas disponibles.](/img/faq/quickstart/buy/BuyStep6.png)
+![Cuando hayas seleccionado la moneda y el método de pago que deseas utilizar para este intercambio (si tienes más de uno en común), puedes hacer match con las ofertas disponibles.](/img/faq/quickstart/matchseller/MatchSeller1.png)
 
-![Tendrás cinco segundos para deshacerlo si cambias de opinión. Después de eso, se notificará al vendedor sobre tu match, y deshacerla ahora se considera una mala acción (afectará tu Puntuación Peach)](/img/faq/quickstart/buy/BuyStep7.png)
+![Tendrás cinco segundos para deshacerlo si cambias de opinión. Después de eso, se notificará al vendedor sobre tu match, y deshacerla ahora se considera una mala acción (afectará tu Puntuación Peach)](/img/faq/quickstart/matchseller/MatchSeller2.png)
 :::
 
 ### Realizando el intercambio
 
 :::figures 2
-![Si el vendedor te hace match de vuelta, se te notificará y se te mostrarán sus detalles de pago. Deberás ir a tu aplicación de pago y hacer el pago manualmente allí. Después de eso, confirmas que lo hiciste con el control deslizante en la parte inferior y esperas a que el vendedor responda (pueden charlar mientras tanto).](/img/faq/quickstart/buy/BuyStep8.png)
+![Si el vendedor te hace match de vuelta, se te notificará y se te mostrarán sus detalles de pago. Deberás ir a tu aplicación de pago y hacer el pago manualmente allí. Después de eso, confirmas que lo hiciste con el control deslizante en la parte inferior y esperas a que el vendedor responda (pueden charlar mientras tanto).](/img/faq/quickstart/matchseller/MatchSeller3.png)
 
-![Una vez que el vendedor confirme, ¡el trato está hecho! La cantidad de Bitcoin se enviará a tu billetera y pueden darse una buena calificación mutuamente. (Suponiendo que todo salió bien, por supuesto).](/img/faq/quickstart/buy/BuyStep9.png)
+![Una vez que el vendedor confirme, ¡el trato está hecho! La cantidad de Bitcoin se enviará a tu billetera y pueden darse una buena calificación mutuamente. (Suponiendo que todo salió bien, por supuesto).](/img/faq/quickstart/matchseller/MatchSeller4.png)
 :::
 
 ## Guía 3: Tu primera oferta de venta
@@ -80,7 +80,7 @@ Aquí tienes los pasos para tu primera oferta de venta:
 
 ### Creando una oferta de venta
 
-:::figures 7
+:::figures 8
 ![Primero, seleccionarás cuánto quieres vender. Puedes seleccionar cualquier cantidad, pero hay un máximo para evitar que tu oferta supere el límite diario y se vuelva no disponible.](/img/faq/quickstart/sell/SellStep01.png)
 
 ![Luego, seleccionarás si quieres ofrecer al comprador un descuento o pedir un poco más que el precio de mercado.](/img/faq/quickstart/sell/SellStep02.png)
@@ -94,29 +94,33 @@ Aquí tienes los pasos para tu primera oferta de venta:
 ![El último paso antes de que se publique tu oferta de venta es depositar tus fondos en la dirección multifirma para asegurar el intercambio. Debes enviar bitcoin a esta dirección desde tu wallet.](/img/faq/quickstart/sell/SellStep06.png)
 
 ![Y ya está! Una vez la red de Bitcoin ha confirmado la transacción, tu oferta de venta está publicada y esperando a un match.](/img/faq/quickstart/sell/SellStep07.png)
+
+![](/img/faq/quickstart/sell/SellStep08.png)
 :::
 
 ### Haciendo match con un comprador
 
 Después de publicar tu oferta de venta, se te mostrarán todos los compradores que tienen por lo menos una divisa y un método de pago en común contigo, y que quieran comprar tu cantidad (hayan hecho match contigo). Cuando alguno te haya hecho match, recibirás una notificación y puedes devolverles el match para realizar el intercambio con ellos, o esperar a otros compradores:
 
-![Tarjeta de match](/img/faq/quickstart/sell/MatchCardExplainer.png)
+![Tarjeta de match](/img/faq/quickstart/sell/MatchCardExplainer1.png)
 
 ### Realizando la transacción
 
-:::figures 3
-![Después de seleccionar un match, la transacción se realiza oficialmente. Verás desde dónde el comprador realizará el pago y por cuánto. También puedes chatear con tu comprador en caso de que tengas preguntas.](/img/faq/quickstart/sell/SellStep08.png)
+:::figures 4
+![Después de seleccionar un match, la transacción se realiza oficialmente. Verás desde dónde el comprador realizará el pago y por cuánto. También puedes chatear con tu comprador en caso de que tengas preguntas.](/img/faq/quickstart/sell/MakingTheTrade1.png)
 
-![Una vez que el comprador haya realizado el pago, deberás comprobar la cuenta de pago relevante para ver si lo recibiste. Si lo recibiste, puedes confirmarlo aquí. Una vez que hayas confirmado que recibiste el pago, los bitcoins se enviarán al comprador.](/img/faq/quickstart/sell/SellStep09.png)
+![Una vez que el comprador haya realizado el pago, deberás comprobar la cuenta de pago relevante para ver si lo recibiste. Si lo recibiste, puedes confirmarlo aquí. Una vez que hayas confirmado que recibiste el pago, los bitcoins se enviarán al comprador.](/img/faq/quickstart/sell/MakingTheTrade2.png)
 
-![¡Y eso es todo! La cantidad de bitcoins se enviará al comprador y pueden darse una calificación positiva mutua. (Suponiendo que todo haya ido bien, por supuesto).](/img/faq/quickstart/sell/SellStep10.png)
+![](/img/faq/quickstart/sell/MakingTheTrade3.png)
+
+![¡Y eso es todo! La cantidad de bitcoins se enviará al comprador y pueden darse una calificación positiva mutua. (Suponiendo que todo haya ido bien, por supuesto).](/img/faq/quickstart/sell/MakingTheTrade4.png)
 :::
 
 ## Guía 4: Agregando métodos de pago
 
 Cuando haces una oferta de compra o venta en Peach, necesitarás informarle a tu contraparte cómo quieres que te paguen o cómo quieres pagar.
 
-:::figures 7
+:::figures 6
 ![En primer lugar, puedes elegir entre dos categorías: **remoto** (por ejemplo, transferencia bancaria, PayPal) o en un **meetup** (con efectivo).](/img/faq/quickstart/add-payment-method/AddPM01.png)
 
 ![Luego seleccionarás la moneda que deseas utilizar para este método de pago.](/img/faq/quickstart/add-payment-method/AddPM02.png)
@@ -128,6 +132,4 @@ Cuando haces una oferta de compra o venta en Peach, necesitarás informarle a tu
 ![Todo lo que tienes que hacer aquí es completar tus datos. También puedes indicar si tu billetera puede recibir otras monedas.](/img/faq/quickstart/add-payment-method/AddPM05.png)
 
 ![Una vez que hayas terminado, presiona confirmar, y…](/img/faq/quickstart/add-payment-method/AddPM06.png)
-
-![¡Listo! Has agregado tu primer método de pago. Agrega y selecciona tantos como quieras para aumentar tus posibilidades de encontrar un match.](/img/faq/quickstart/add-payment-method/AddPM07.png)
 :::
