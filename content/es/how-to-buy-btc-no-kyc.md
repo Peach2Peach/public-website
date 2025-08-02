@@ -15,7 +15,7 @@ template: how_it_works
 
 ### Registro fácil
 
-¡Descarga la aplicación de forma gratuita y comienza a comerciar de inmediato! No te pediremos que subas tu identificación ni que te hagas una selfie con tu licencia de conducir.
+¡Descarga la aplicación de forma gratuita y comienza a comerciar de inmediato! No te pediremos que subas tu DNI/NIE ni que te hagas una selfie con tu licencia de conducir.
 
 <div class="custom-section_357">
   <div class="md:flex items-end">
