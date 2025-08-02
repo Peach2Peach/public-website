@@ -240,7 +240,7 @@ Peach utiliza direcciones de Bitcoin con firmas múltiples para asegurarse de qu
 
 <!--[difference]-->
 
-### ¿Qué hace a Peach diferente de otros intercambios?
+### ¿Qué hace a Peach diferente de otras plataformas de intercambio?
 
 Con Peach, no compras ni vendes con nosotros.
 ¡Interactúas directamente con otros usuarios!
