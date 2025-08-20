@@ -16,7 +16,7 @@ Nagyszerű hír mindenkinek! Mától kezdve, amikor Bitcoin eladási ajánlatot 
 
 Ahogy talán tudod, a Nostr egyfajta decentralizált közösségi platform, ahol a felhasználók létrehoznak egy privát/nyilvános kulcspárt, és azonnal részt vesznek, posztolva gondolataikat, képeiket vagy bármit, amit akarnak! Mivel decentralizált, ellenáll a kontrollnak és a cenzúrának.  
 De mi lenne, ha többet is posztolhatnál, mint a gondolataidat?  
-Ezzel a fejlesztéssel ( https://nips.nostr.com/69 ) a Nostr mostantól támogatja a Peer-to-Peer megbízások megosztását. Látja ezt egy átlagos felhasználó? Nem azonnal, mert ezek speciális Nostr események (38383 típus), amelyeket kifejezetten azért hoztak létre, hogy ezt a tartalmat elkülönítsék a „normál” dolgoktól. Azonban azok, akik figyelik a 38383-as eseményeket, tudni fogják, hogy egy új Bitcoin eladási ajánlat jelent meg a Peachen. Nézd meg a https://p2p.band/ oldalt, és görgess a Peach ajánlatokhoz!
+Ezzel a [fejlesztéssel](https://nips.nostr.com/69) a Nostr mostantól támogatja a Peer-to-Peer megbízások megosztását. Látja ezt egy átlagos felhasználó? Nem azonnal, mert ezek speciális Nostr események (38383 típus), amelyeket kifejezetten azért hoztak létre, hogy ezt a tartalmat elkülönítsék a „normál” dolgoktól. Azonban azok, akik figyelik a 38383-as eseményeket, tudni fogják, hogy egy új Bitcoin eladási ajánlat jelent meg a Peachen. Nézd meg a [p2p.band](https://p2p.band/) oldalt, és görgess a Peach ajánlatokhoz!
 
 ## Mi benne a menő?
 
