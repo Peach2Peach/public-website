@@ -14,9 +14,9 @@ previewImage: /img/blog/nostr/nostr.png
 
 ## Espera, ¿por qué publicarlo en Nostr?
 
-Como quizás sepas, Nostr es una especie de red social descentralizada, donde los usuarios generan un par de claves privada/pública y participan inmediatamente, publicando sus pensamientos, fotos o lo que quieran. Al ser descentralizado, es inmune al control y a la censura.  
+Como quizás sepas, Nostr es una de red social descentralizada, donde los usuarios generan un par de claves privada/pública y participan inmediatamente, publicando sus pensamientos, fotos o lo que quieran. Al ser descentralizado, es inmune al control y a la censura.  
 ¿Pero qué pasa si puedes publicar algo más que pensamientos?  
-Con esta mejora ( https://nips.nostr.com/69 ), Nostr ahora admite compartir órdenes Peer-to-Peer. ¿Lo ves como usuario normal? No de inmediato, porque son eventos Nostr específicos (tipo de evento 38383), creados para mantener este contenido separado de lo “normal”. Sin embargo, quienes escuchan los eventos 38383 sabrán que se creó una nueva oferta de venta de Bitcoin en Peach. ¡Mira https://p2p.band/ y desplázate hasta las ofertas de Peach!
+Con esta [mejora](https://nips.nostr.com/69), Nostr ahora admite compartir órdenes Peer-to-Peer. ¿Lo ves como usuario normal? No de inmediato, porque son eventos Nostr específicos (tipo de evento 38383), creados para mantener este contenido separado de lo “normal”. Sin embargo, quienes escuchan los eventos 38383 sabrán que se creó una nueva oferta de venta de Bitcoin en Peach. ¡Mira [p2p.band](https://p2p.band/) y desplázate hasta las ofertas de Peach!
 
 ## ¿Qué tiene de genial esto?
 

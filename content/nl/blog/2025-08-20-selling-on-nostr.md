@@ -16,7 +16,7 @@ Geweldig nieuws voor iedereen! Vanaf vandaag wordt elke keer dat je een Bitcoin-
 
 Zoals je misschien weet, is Nostr een soort gedecentraliseerd sociaal netwerk, waar gebruikers een privé/openbaar sleutelpaar genereren en direct deelnemen door hun gedachten, foto’s of wat ze maar willen te posten! Omdat het gedecentraliseerd is, is het immuun voor controle en censuur.  
 Maar wat als je meer kunt posten dan alleen gedachten?  
-Met deze verbetering ( https://nips.nostr.com/69 ) ondersteunt Nostr nu het delen van Peer-to-Peer orders. Zie je dit als gewone gebruiker? Niet direct, want het zijn specifieke Nostr-events (eventtype 38383), die speciaal zijn gemaakt om dit soort inhoud te scheiden van het “normale”. Maar degenen die luisteren naar 38383-events, weten dat er een nieuw Bitcoin-verkoopaanbod op Peach is aangemaakt. Bekijk https://p2p.band/ en scroll naar de Peach-aanbiedingen!
+Met deze [verbetering](https://nips.nostr.com/69) ondersteunt Nostr nu het delen van Peer-to-Peer orders. Zie je dit als gewone gebruiker? Niet direct, want het zijn specifieke Nostr-events (eventtype 38383), die speciaal zijn gemaakt om dit soort inhoud te scheiden van het “normale”. Maar degenen die luisteren naar 38383-events, weten dat er een nieuw Bitcoin-verkoopaanbod op Peach is aangemaakt. Bekijk [p2p.band](https://p2p.band/) en scroll naar de Peach-aanbiedingen!
 
 ## Wat is hier zo gaaf aan?
 

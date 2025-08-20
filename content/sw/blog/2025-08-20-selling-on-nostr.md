@@ -16,7 +16,7 @@ Habari njema kwa wote! Kuanzia leo, kila unapochapisha ofa ya kuuza Bitcoin kwen
 
 Kama unavyojua, Nostr ni aina ya mtandao wa kijamii uliogatuliwa, ambapo watumiaji huunda jozi ya funguo za binafsi/za umma na kushiriki mara moja, wakichapisha mawazo yao, picha au chochote wanachotaka! Kwa kuwa imegatuliwa, haina udhibiti wala sensa.  
 Lakini je, nini ikiwa unaweza kuchapisha zaidi ya mawazo yako?  
-Kwa uboreshaji huu ( https://nips.nostr.com/69 ), Nostr sasa inasaidia kushiriki maagizo ya Peer-to-Peer. Je, mtumiaji wa kawaida anaona hili? Si mara moja, kwa sababu haya ni matukio maalum ya Nostr (aina ya tukio 38383), yaliyoundwa mahsusi kuweka maudhui haya tofauti na yale ya “kawaida”. Hata hivyo, wale wanaofuatilia matukio ya 38383 watajua kuwa ofa mpya ya kuuza Bitcoin imeundwa kwenye Peach. Angalia https://p2p.band/ na utafute ofa za Peach!
+Kwa [uboreshaji huu](https://nips.nostr.com/69), Nostr sasa inasaidia kushiriki maagizo ya Peer-to-Peer. Je, mtumiaji wa kawaida anaona hili? Si mara moja, kwa sababu haya ni matukio maalum ya Nostr (aina ya tukio 38383), yaliyoundwa mahsusi kuweka maudhui haya tofauti na yale ya “kawaida”. Hata hivyo, wale wanaofuatilia matukio ya 38383 watajua kuwa ofa mpya ya kuuza Bitcoin imeundwa kwenye Peach. Angalia [p2p.band](https://p2p.band/) na utafute ofa za Peach!
 
 ## Kuna nini cha kuvutia hapa?
 

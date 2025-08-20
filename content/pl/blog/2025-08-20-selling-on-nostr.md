@@ -16,7 +16,7 @@ previewImage: /img/blog/nostr/nostr.png
 
 Jak być może wiesz, Nostr to swego rodzaju zdecentralizowana platforma społecznościowa, na której użytkownicy generują parę kluczy prywatny/publiczny i od razu uczestniczą, publikując swoje myśli, zdjęcia czy cokolwiek chcą! Ponieważ jest zdecentralizowana, jest odporna na kontrolę i cenzurę.  
 Ale co jeśli możesz publikować coś więcej niż tylko swoje myśli?  
-Dzięki tej poprawce ( https://nips.nostr.com/69 ) Nostr obsługuje teraz udostępnianie zamówień Peer-to-Peer. Widzisz to jako zwykły użytkownik? Nie od razu, ponieważ są to specjalne wydarzenia Nostr (typ wydarzenia 38383), stworzone specjalnie, aby oddzielić tę treść od „normalnej”. Jednak ci, którzy śledzą wydarzenia 38383, będą wiedzieć, że powstała nowa oferta sprzedaży Bitcoina na Peach. Sprawdź https://p2p.band/ i przewiń do ofert Peach!
+Dzięki tej [poprawce](https://nips.nostr.com/69) Nostr obsługuje teraz udostępnianie zamówień Peer-to-Peer. Widzisz to jako zwykły użytkownik? Nie od razu, ponieważ są to specjalne wydarzenia Nostr (typ wydarzenia 38383), stworzone specjalnie, aby oddzielić tę treść od „normalnej”. Jednak ci, którzy śledzą wydarzenia 38383, będą wiedzieć, że powstała nowa oferta sprzedaży Bitcoina na Peach. Sprawdź [p2p.band](https://p2p.band/) i przewiń do ofert Peach!
 
 ## Co w tym takiego fajnego?
 
