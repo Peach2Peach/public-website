@@ -94,7 +94,7 @@ To be able to make use of Peach you will enter information relating to the trade
 
 4. #### "Instant trade" offer
 
-- in case you select the instant trade option in your sell offer, the payment details are shared with peach to match the buyer instantly. 
+- in case you select the instant trade option in your sell or buy offer, the payment details are shared with peach to match the buyer instantly. 
 
 ### 3.4 Optionally shared data
 
