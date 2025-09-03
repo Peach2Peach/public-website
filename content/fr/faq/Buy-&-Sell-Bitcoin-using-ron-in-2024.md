@@ -4,7 +4,7 @@
 
 PeachBitcoin est la manière sûre, rapide et simple d’acheter et de vendre du Bitcoin avec n’importe quelle méthode de paiement, partout dans le monde. Nous donnons la priorité à ta vie privée et à ta sécurité, en offrant une large gamme d’options de paiement adaptées à tes besoins. Voici toutes nos méthodes de paiement que nous proposons pour Romanian Leu (RON).
 
-## RON Payment Methods
+## Méthodes de paiement en RON
 
 ### Virement bancaire
 
