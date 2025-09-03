@@ -1,17 +1,17 @@
 <body class="payment-methods-page">
 
-# Αγορά & Πώληση Bitcoin με οποιαδήποτε μέθοδο πληρωμής 2024 με το PeachBitcoin
+# Αγορά & Πώληση Bitcoin με οποιαδήποτε μέθοδο πληρωμής 2025 με το PeachBitcoin
 
-Το PeachBitcoin είναι ο ασφαλής, γρήγορος και εύκολος τρόπος να αγοράσετε και να πουλήσετε Bitcoin χρησιμοποιώντας οποιαδήποτε μέθοδο πληρωμής, οπουδήποτε στον κόσμο. Δίνουμε προτεραιότητα στην ιδιωτικότητα και την ασφάλειά σας, προσφέροντας μια ευρεία γκάμα επιλογών πληρωμής για να καλύψουμε τις ανάγκες σας. Εδώ είναι όλες οι μέθοδοι πληρωμής που προσφέρουμε για το Βουλγαρικό Λεβ (BGN).
+Το PeachBitcoin είναι ο ασφαλής, γρήγορος και εύκολος τρόπος να αγοράζεις και να πουλάς Bitcoin με οποιαδήποτε μέθοδο πληρωμής, οπουδήποτε στον κόσμο. Δίνουμε προτεραιότητα στο απόρρητο και την ασφάλειά σου, προσφέροντας μια μεγάλη γκάμα επιλογών πληρωμής που ταιριάζουν στις ανάγκες σου. Εδώ θα βρεις όλες τις μεθόδους πληρωμής που προσφέρουμε για Λεβ Βουλγαρίας (BGN).
 
-## Μέθοδοι Πληρωμής σε BGN
+## Μέθοδοι Πληρωμής BGN
 
 ### Τραπεζική Μεταφορά
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>Εθνική Μεταφορά Βουλγαρίας</p> 
-        <img src="/img/faq/logoimg/bulgariaflag.png" width="30px" height="27px" alt="Αγοράστε bitcoin με Εθνική Μεταφορά Βουλγαρίας, Πωλήστε bitcoin με Εθνική Μεταφορά Βουλγαρίας">
+        <p>National Transfer Bulgaria</p> 
+        <img src="/img/faq/logoimg/bulgariaflag.png" width="30px" height="27px" alt="Αγορά bitcoin με National Transfer Bulgaria, Πώληση bitcoin με National Transfer Bulgaria">
     </div>
 </div>
 
@@ -20,23 +20,31 @@
 <div class="payment-grid">
     <div class="payment-grid-item">
         <p>Revolut</p> 
-        <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Αγοράστε bitcoin με το Revolut, Πωλήστε bitcoin με το Revolut">
+        <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Αγορά bitcoin με Revolut, Πώληση bitcoin με Revolut">
     </div>
     <div class="payment-grid-item">
-        <p>Wise</p>
-        <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Αγοράστε bitcoin με το Wise, Πωλήστε bitcoin με το Wise">
+        <p>Wise</p> 
+        <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Αγορά bitcoin με Wise, Πώληση bitcoin με Wise">
     </div>
     <div class="payment-grid-item">
         <p>Skrill</p> 
-        <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Αγοράστε bitcoin με το Skrill, Πωλήστε bitcoin με το Skrill">
+        <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Αγορά bitcoin με Skrill, Πώληση bitcoin με Skrill">
     </div>
     <div class="payment-grid-item">
         <p>Neteller</p> 
-        <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Αγοράστε bitcoin με το Neteller, Πωλήστε bitcoin με το Neteller">
+        <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Αγορά bitcoin με Neteller, Πώληση bitcoin με Neteller">
     </div>
     <div class="payment-grid-item">
         <p>PaySera</p> 
-        <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Αγοράστε bitcoin με το PaySera, Πωλήστε bitcoin με το PaySera">
+        <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Αγορά bitcoin με PaySera, Πώληση bitcoin με PaySera">
+    </div>
+    <div class="payment-grid-item">
+        <p>PayPal</p> 
+        <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Αγορά bitcoin με PayPal, Πώληση bitcoin με PayPal">
+    </div>
+    <div class="payment-grid-item">
+        <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Αγορά bitcoin με Western Union, Πώληση bitcoin με Western Union">
     </div>
 </div>
 

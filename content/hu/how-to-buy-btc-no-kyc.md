@@ -1,30 +1,30 @@
 ---
-title: How it works
+title: Hogyan működik
 template: how_it_works
 ---
 
 <!--[teaser]-->
 
-![Bitcoin vásárlása és eladása Peer-to-Peer módon](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
+![Buy and Sell Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
 
-### Halmozz sats-okat <span>minden nap</span>!
+### Halmozz satsokat <span>minden nap</span>!
 
-**Naponta akár 1000 CHF-ig és évente 100'000 CHF-ig vásárolhatsz és adhatsz el.**
+**Vegyél és adj el akár 1 000 CHF-ért naponta és 100 000 CHF-ért évente.**
 
 <!--[easy_registration]-->
 
 ### Egyszerű regisztráció
 
-Töltsd le az alkalmazást ingyen és azonnal kezdj el kereskedni! Nem fogunk kérni, hogy töltsd fel a személyi igazolványodat vagy készíts magadról szelfit a jogosítványoddal
+Töltsd le az alkalmazást ingyen, és azonnal kezdd el a kereskedést! Nem kérjük, hogy töltsd fel a személyidet vagy készíts szelfit a jogosítványoddal.
 
-<div>
+<div class="custom-section_357">
   <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Letöltés az Apple Store-ból"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Szerezd meg a Google Playen"></a>
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Peach Bitcoin app on the App Store without KYC verification"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Peach Bitcoin app on Google Play store without ID verification"></a>
   </div>
 
 :::buttons
-[APK letöltése Androidra](/hu/apk/)
+[Download APK on Android](/apk/)
 :::
 
 </div>
@@ -33,11 +33,11 @@ Töltsd le az alkalmazást ingyen és azonnal kezdj el kereskedni! Nem fogunk k�
 
 ### Támogatott fizetési módok
 
-Számos fizetési mód közül választhatsz.<br>
+Rengeteg fizetési mód közül választhatsz.<br>
 
 #### Támogatott valuták
 
-##### Európa
+##### Európe
 
 <div class="payment-grid_894">
     <div class="payment-grid-item_523">
@@ -132,6 +132,18 @@ Számos fizetési mód közül választhatsz.<br>
         </a>
     </div>
     <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-bob-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            BOB
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-brl-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            BRL
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
         <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-cop-in-2024/">
             <i class="fas fa-dollar-sign"></i>
             COP
@@ -161,6 +173,48 @@ Számos fizetési mód közül választhatsz.<br>
             CRC
         </a>
     </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-dop-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            DOP
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-gtq-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            GTQ
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-hnl-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            HNL
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-pab-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            PAB
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-pyg-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            PYG
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-uyu-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            UYU
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-ves-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            VES
+        </a>
+    </div>
 </div>
 
 ---
@@ -168,6 +222,24 @@ Számos fizetési mód közül választhatsz.<br>
 ##### Afrika
 
 <div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-mad-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            MAD
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-zar-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            ZAR
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-zts-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            ZTS
+        </a>
+    </div>
     <div class="payment-grid-item_523">
         <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-cfa-xof-in-2024/">
             <i class="fas fa-coins"></i>
@@ -190,9 +262,151 @@ Számos fizetési mód közül választhatsz.<br>
 
 ---
 
-##### Egyéb
+##### Ázsia
 
 <div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-cny-in-2024/">
+            <i class="fas fa-coins"></i>
+            CNY
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-inr-in-2024/">
+            <i class="fas fa-coins"></i>
+            INR
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-idr-in-2024/">
+            <i class="fas fa-coins"></i>
+            IDR
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-jpy-in-2024/">
+            <i class="fas fa-coins"></i>
+            JPY
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-kzt-in-2024/">
+            <i class="fas fa-coins"></i>
+            KZT
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-myr-in-2024/">
+            <i class="fas fa-coins"></i>
+            MYR
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-pkr-in-2024/">
+            <i class="fas fa-coins"></i>
+            PKR
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-php-in-2024/">
+            <i class="fas fa-coins"></i>
+            PHP
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-sgd-in-2024/">
+            <i class="fas fa-coins"></i>
+            SGD
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-try-in-2024/">
+            <i class="fas fa-coins"></i>
+            TRY
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-vnd-in-2024/">
+            <i class="fas fa-coins"></i>
+            VND
+        </a>
+    </div>
+</div>
+
+---
+
+##### Közel-Kelet
+
+<div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-egp-in-2024/">
+            <i class="fas fa-coins"></i>
+            EGP
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-ils-in-2024/">
+            <i class="fas fa-coins"></i>
+            ILS
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-sar-in-2024/">
+            <i class="fas fa-coins"></i>
+            SAR
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-aed-in-2024/">
+            <i class="fas fa-coins"></i>
+            AED
+        </a>
+    </div>
+</div>
+
+---
+
+##### Észak-Amerika
+
+<div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-cad-in-2024/">
+            <i class="fas fa-coins"></i>
+            CAD
+        </a>
+    </div>
+</div>
+
+---
+
+##### Óceánia
+
+<div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-aud-in-2024/">
+            <i class="fas fa-coins"></i>
+            AUD
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-nzd-in-2024/">
+            <i class="fas fa-coins"></i>
+            NZD
+        </a>
+    </div>
+</div>
+
+---
+
+##### Global
+
+<div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-usd-in-2024/">
+            <i class="fas fa-coins"></i>
+            USD
+        </a>
+    </div>
     <div class="payment-grid-item_523">
         <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-ln-swaps-in-2024/">
             <i class="fas fa-coins"></i>
@@ -209,56 +423,54 @@ Számos fizetési mód közül választhatsz.<br>
 
 ---
 
-### Elérhető Fizetési Módszerek
+### Elérhető fizetési módok
 
 :::buttons
-[Kattints ide](/hu/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2024-with-PeachBitcoin)
+[Click here](/hu/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2025-with-PeachBitcoin)
 :::
-hogy felfedezd **AZ ÖSSZES FIZETÉSI MÓDUNKAT**!
+hogy felfedezd **AZ ÖSSZES FIZETÉSI MÓDUNKAT!**
 
-Ha van egy másik fizetési mód, amit szeretnél használni, de nem szerepel a listán, tudasd velünk
+If there's another Payment Method you'd like to use, but it isn't listed, let us know by filling
 <br>
-**[EZEN AZ ŰRLAPON](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
+**[THIS FORM](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
+
+### Nézd meg a megbízási könyvünket
+
+:::buttons
+<button class="btn" id="customBtn" onclick="window.location.href='/kycfree-orderbook'">P2P Bitcoin megbízási könyv</button>
+:::
+hogy megnézd **AZ ÖSSZES AKTÍV AJÁNLATOT!**
 
 <!--[self_custody]-->
 
-### Nézze meg a rendelési könyvünket
-
-:::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/hu/kycfree-orderbook'">P2P Bitcoin Megrendelési Könyv</button>
-:::
-az ÖSSZES **ÉLŐ AJÁNLAT MEGTEKINTÉSÉHEZ!**
-
 ### Nem a te kulcsaid, nem a te coinjaid
 
-Az alkalmazásban van egy könnyen használható pénztárca, amelyet te irányítasz, vagy használhatsz egy meglévő pénztárcát. Maradj az alapoknál vagy legyél hardcore - mindig te irányítasz.
+The app has an easy to use wallet that you control built in, or you can use your existing wallet. Stick to the basics or make it hardcore - you're always in control.
 
 <!--[security]-->
 
 ### Szuper biztonságos
 
-A Peach több aláírásos bitcoin címeket használ annak biztosítására, hogy a megfelelő fél kapja meg a bitcoint, ha valami rosszul sül el a kereskedés során.
+Peach uses Multi-Signature bitcoin addresses to make sure that the correct party can get the bitcoin if something goes wrong during the trade.
 
 <!--[difference]-->
 
-### Mi teszi a Peach-et különbözővé más tőzsdéktől?
+### Mi különbözteti meg a Peachet más tőzsdéktől?
 
-A Peach-nél nem tőlünk vásárolsz vagy eladsz.
-Közvetlenül más felhasználókkal lépsz interakcióba!
-Ez a bitcoin kereskedést privátebbá teszi és lehetővé teszi, hogy bármilyen fizetési módot használj, amiben meg tudtok egyezni.
-Küldetésünk, hogy ezt a lehető legegyszerűbbé és legbiztonság
-
-osabbá tegyük.
+A Peachen nem tőlünk vásárolsz és nem nekünk adsz el.
+Közvetlenül más felhasználókkal lépsz kapcsolatba!
+Ez a bitcoin kereskedést privátabbá teszi, és lehetővé teszi bármely fizetési mód használatát, amelyben megegyeztek.
+Küldetésünk, hogy ezt a lehető legegyszerűbbé és legbiztonságosabbá tegyük.
 
 <!--[sounds_cool]-->
 
 ### Jól hangzik, de hogyan működik?
 
-Itt van egy teljes útmutató az elinduláshoz:
+Itt van egy teljes kezdő útmutatónk:
 
 <!--[questions]-->
 
 ### Még mindig vannak kérdéseid?
 
-Biztos vagyok benne, hogy választ találsz a GYIK-ünkben.
+Biztos vagyok benne, hogy megtalálod a választ a GYIK-ben.
 Ha nem, küldj nekünk üzenetet!

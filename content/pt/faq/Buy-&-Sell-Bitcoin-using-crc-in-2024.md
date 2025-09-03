@@ -1,12 +1,12 @@
 <body class="payment-methods-page">
 
-# Comprar & Vender Bitcoin usando qualquer método de pagamento 2024 com a PeachBitcoin
+# Comprar & Vender Bitcoin com qualquer método de pagamento 2025 com o PeachBitcoin
 
-PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usando qualquer método de pagamento, em qualquer lugar do mundo. Priorizamos a sua privacidade e segurança, oferecendo uma ampla gama de opções de pagamento para atender às suas necessidades. Aqui estão todos os métodos de pagamento que oferecemos para o Colón Costarriquense (CRC).
+O PeachBitcoin é a maneira segura, rápida e fácil de comprar e vender Bitcoin com qualquer método de pagamento, em qualquer lugar do mundo. Priorizamos a sua privacidade e segurança, oferecendo uma ampla gama de opções de pagamento para atender às suas necessidades. Aqui estão todos os nossos métodos de pagamento que oferecemos para Colón costa-riquenho (CRC).
 
-## Métodos de Pagamento em CRC
+## Métodos de Pagamento CRC
 
-### Transferência Bancária
+### Transferência bancária
 
 <div class="payment-grid">
     <div class="payment-grid-item">
@@ -15,12 +15,28 @@ PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usan
     </div>
 </div>
 
-### Carteiras Online
+### Carteiras online
 
 <div class="payment-grid">
     <div class="payment-grid-item">
         <p>SINPE Móvil</p> 
         <img src="/img/faq/logoimg/sinpemovil.png" width="30px" height="27px" alt="Comprar bitcoin com SINPE Móvil, Vender bitcoin com SINPE Móvil">
+    </div>
+    <div class="payment-grid-item">
+        <p>Mercado Pago</p> 
+        <img src="/img/faq/logoimg/mercadopago.png" width="30px" height="27px" alt="Comprar bitcoin com Mercado Pago, Vender bitcoin com Mercado Pago">
+    </div>
+    <div class="payment-grid-item">
+        <p>RappiPay</p> 
+        <img src="/img/faq/logoimg/rappipay.png" width="30px" height="27px" alt="Comprar bitcoin com RappiPay, Vender bitcoin com RappiPay">
+    </div>
+    <div class="payment-grid-item">
+        <p>Wise</p> 
+        <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Comprar bitcoin com Wise, Vender bitcoin com Wise">
+    </div>
+    <div class="payment-grid-item">
+        <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Comprar bitcoin com Western Union, Vender bitcoin com Western Union">
     </div>
 </div>
 

@@ -1,26 +1,42 @@
 <body class="payment-methods-page">
 
-# Vásárolj & Adj el Bitcoint bármilyen fizetési móddal 2024-ben a PeachBitcoin-nal
+# Bitcoin vásárlása és eladása bármely fizetési móddal 2025 a PeachBitcoin segítségével
 
-A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint vásárolj és adj el bármilyen fizetési móddal, bárhol a világon. Elsődleges szempontunk az adatvédelem és a biztonság, és széles körű fizetési lehetőségeket kínálunk, hogy megfeleljünk az igényeidnek. Itt találhatók az összes fizetési módszer, amelyet kínálunk a Costa Rican Colón (CRC) esetében.
+A PeachBitcoin a biztonságos, gyors és egyszerű módja a Bitcoin vásárlásának és eladásának bármely fizetési móddal, a világ bármely pontján. Előnyben részesítjük a magánéletedet és a biztonságodat, és széles választékot kínálunk a fizetési lehetőségek közül, hogy megfeleljünk az igényeidnek. Íme az összes fizetési módszer, amelyet kínálunk Costa Rica-i colón (CRC) esetében.
 
-## CRC Fizetési Módszerek
+## CRC Payment Methods
 
-### Banki Átutalás
+### Banki átutalás
 
 <div class="payment-grid">
     <div class="payment-grid-item">
         <p>Sinpe</p> 
-        <img src="/img/faq/logoimg/sinpe.png" width="30px" height="27px" alt="Bitcoint vásárolj Sinpe-val, Bitcoint adj el Sinpe-val">
+        <img src="/img/faq/logoimg/sinpe.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: Sinpe, Bitcoin eladása ezzel: Sinpe">
     </div>
 </div>
 
-### Online Pénztárcák
+### Online pénztárcák
 
 <div class="payment-grid">
     <div class="payment-grid-item">
         <p>SINPE Móvil</p> 
-        <img src="/img/faq/logoimg/sinpemovil.png" width="30px" height="27px" alt="Bitcoint vásárolj SINPE Móvil-lal, Bitcoint adj el SINPE Móvil-lal">
+        <img src="/img/faq/logoimg/sinpemovil.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: SINPE Móvil, Bitcoin eladása ezzel: SINPE Móvil">
+    </div>
+    <div class="payment-grid-item">
+        <p>Mercado Pago</p> 
+        <img src="/img/faq/logoimg/mercadopago.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: Mercado Pago, Bitcoin eladása ezzel: Mercado Pago">
+    </div>
+    <div class="payment-grid-item">
+        <p>RappiPay</p> 
+        <img src="/img/faq/logoimg/rappipay.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: RappiPay, Bitcoin eladása ezzel: RappiPay">
+    </div>
+    <div class="payment-grid-item">
+        <p>Wise</p> 
+        <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: Wise, Bitcoin eladása ezzel: Wise">
+    </div>
+    <div class="payment-grid-item">
+        <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: Western Union, Bitcoin eladása ezzel: Western Union">
     </div>
 </div>
 

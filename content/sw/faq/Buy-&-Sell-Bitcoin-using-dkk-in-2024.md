@@ -1,50 +1,54 @@
 <body class="payment-methods-page">
 
-# Nunua & Uza Bitcoin kwa kutumia njia yoyote ya malipo 2024 na PeachBitcoin
+# Nunua & Uza Bitcoin kwa kutumia njia yoyote ya malipo 2025 na PeachBitcoin
 
-PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa kutumia njia yoyote ya malipo, popote duniani. Tunazingatia faragha yako na usalama, tukitoa chaguzi mbalimbali za malipo ili kukidhi mahitaji yako. Hizi ndizo njia zote za malipo tunazotoa kwa Krone ya Denmark (DKK).
+PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa kutumia njia yoyote ya malipo, popote duniani. Tunatanguliza faragha na usalama wako, tukitoa chaguo nyingi za malipo zinazokidhi mahitaji yako. Hapa kuna njia zote za malipo tunazotoa kwa Krone ya Kidenmaki (DKK).
 
-## Njia za Malipo za DKK
+## DKK Payment Methods
 
-### Uhamisho wa Benki
+### Uhamisho wa benki
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>Uhamisho wa Kitaifa Denmark</p> 
-        <img src="/img/faq/logoimg/dkkdenmark.png" width="30px" height="27px" alt="Nunua bitcoin na Uhamisho wa Kitaifa Denmark, Uza bitcoin na Uhamisho wa Kitaifa Denmark">
+        <p>National Transfer Denmark</p> 
+        <img src="/img/faq/logoimg/dkkdenmark.png" width="30px" height="27px" alt="Nunua bitcoin kwa National Transfer Denmark, Uza bitcoin kwa National Transfer Denmark">
     </div>
 </div>
 
-### Pochi za Kielektroniki
+### Pochi za mtandaoni
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>PayPal</p>
-        <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Nunua bitcoin na PayPal, Uza bitcoin na PayPal">
+        <p>PayPal</p> 
+        <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Nunua bitcoin kwa PayPal, Uza bitcoin kwa PayPal">
     </div>
     <div class="payment-grid-item">
         <p>MobilePay</p> 
-        <img src="/img/faq/logoimg/mobilepay.png" width="30px" height="27px" alt="Nunua bitcoin na MobilePay, Uza bitcoin na MobilePay">
+        <img src="/img/faq/logoimg/mobilepay.png" width="30px" height="27px" alt="Nunua bitcoin kwa MobilePay, Uza bitcoin kwa MobilePay">
     </div>
     <div class="payment-grid-item">
         <p>Neteller</p> 
-        <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Nunua bitcoin na Neteller, Uza bitcoin na Neteller">
+        <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Nunua bitcoin kwa Neteller, Uza bitcoin kwa Neteller">
     </div>
     <div class="payment-grid-item">
         <p>PaySera</p> 
-        <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Nunua bitcoin na PaySera, Uza bitcoin na PaySera">
+        <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Nunua bitcoin kwa PaySera, Uza bitcoin kwa PaySera">
     </div>
     <div class="payment-grid-item">
         <p>Revolut</p> 
-        <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Nunua bitcoin na Revolut, Uza bitcoin na Revolut">
+        <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Nunua bitcoin kwa Revolut, Uza bitcoin kwa Revolut">
     </div>
     <div class="payment-grid-item">
-        <p>Wise</p>
-        <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Nunua bitcoin na Wise, Uza bitcoin na Wise">
+        <p>Wise</p> 
+        <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Nunua bitcoin kwa Wise, Uza bitcoin kwa Wise">
     </div>
     <div class="payment-grid-item">
         <p>Skrill</p> 
-        <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Nunua bitcoin na Skrill, Uza bitcoin na Skrill">
+        <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Nunua bitcoin kwa Skrill, Uza bitcoin kwa Skrill">
+    </div>
+    <div class="payment-grid-item">
+        <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Nunua bitcoin kwa Western Union, Uza bitcoin kwa Western Union">
     </div>
 </div>
 

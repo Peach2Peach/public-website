@@ -1,6 +1,6 @@
 <body class="payment-methods-page">
 
-# Buy & Sell Bitcoin using any payment method 2024 with PeachBitcoin
+# Buy & Sell Bitcoin using any payment method 2025 with PeachBitcoin
 
 PeachBitcoin is the secure, quick, and easy way to buy and sell Bitcoin using any payment method, anywhere in the world. We prioritize your privacy and security, offering a wide range of payment options to suit your needs. Here’s all our payment methods we offer for Peruvian Sol (PEN).
 
@@ -13,6 +13,10 @@ PeachBitcoin is the secure, quick, and easy way to buy and sell Bitcoin using an
         <p>Bancolombia</p> 
         <img src="/img/faq/logoimg/bancolombia.png" width="30px" height="27px" alt="Buy bitcoin with Bancolombia, Sell bitcoin with Bancolombia">
     </div>
+    <div class="payment-grid-item">
+        <p>Bank Deposit</p> 
+        <img src="/img/faq/logoimg/blank.png" width="30px" height="27px" alt="Buy bitcoin with Bank Depsoit, Sell bitcoin with BaBank Depositncolombia">
+    </div>
 </div>
 
 ### Online Wallets
@@ -21,6 +25,10 @@ PeachBitcoin is the secure, quick, and easy way to buy and sell Bitcoin using an
     <div class="payment-grid-item">
         <p>RappiPay</p> 
         <img src="/img/faq/logoimg/rappipay.png" width="30px" height="27px" alt="Buy bitcoin with RappiPay, Sell bitcoin with RappiPay">
+    </div>
+    <div class="payment-grid-item">
+        <p>Mercado Pago</p> 
+        <img src="/img/faq/logoimg/mercadopago.png" width="30px" height="27px" alt="Buy bitcoin with Mercado Pago, Sell bitcoin with Mercado Pago">
     </div>
 </div>
 

@@ -1,23 +1,23 @@
 <body class="payment-methods-page">
 
-# Comprar & Vender Bitcoin usando qualquer método de pagamento 2024 com a PeachBitcoin
+# Comprar & Vender Bitcoin com qualquer método de pagamento 2025 com o PeachBitcoin
 
-PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usando qualquer método de pagamento, em qualquer lugar do mundo. Priorizamos a sua privacidade e segurança, oferecendo uma ampla gama de opções de pagamento para atender às suas necessidades. Aqui estão todos os métodos de pagamento que oferecemos.
+O PeachBitcoin é a maneira segura, rápida e fácil de comprar e vender Bitcoin com qualquer método de pagamento, em qualquer lugar do mundo. Priorizamos a sua privacidade e segurança, oferecendo uma ampla gama de opções de pagamento para atender às suas necessidades. Aqui estão todos os nossos métodos de pagamento.
 
-## Transferência Bancária
+## Bank Transfer
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>Transferência Nacional Suíça</p> 
-        <img src="/img/faq/logoimg/nationalswitzer.png" width="30px" height="27px" alt="Comprar bitcoin com Transferência Nacional Suíça, Vender bitcoin com Transferência Nacional Suíça">
+        <p>National transfer Switzerland</p> 
+        <img src="/img/faq/logoimg/nationalswitzer.png" width="30px" height="27px" alt="Comprar bitcoin com National transfer Switzerland, Vender bitcoin com National transfer Switzerland">
     </div>
 </div>
 
-## Carteiras Online
+## Online Wallets
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>PayPal</p>
+        <p>PayPal</p> 
         <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Comprar bitcoin com PayPal, Vender bitcoin com PayPal">
     </div>
     <div class="payment-grid-item">
@@ -37,13 +37,20 @@ PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usan
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Comprar bitcoin com Skrill, Vender bitcoin com Skrill">
     </div>
     <div class="payment-grid-item">
-        <p>Wise</p>
+        <p>Wise</p> 
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Comprar bitcoin com Wise, Vender bitcoin com Wise">
     </div>
     <div class="payment-grid-item">
-       <p>Twint</p> 
-        <img src="/img/faq/logoimg/twint.png" width="30px" height="27px" alt="Comprar Bitcoin com Twint, Vender Bitcoin com Twint">
+        <p>Twint</p> 
+        <img src="/img/faq/logoimg/twint.png" width="30px" height="27px" alt="Buy Bitcoin with Twint, Sell Bitcoin with Twint">
+    </div>
+    <div class="payment-grid-item">
+        <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Comprar bitcoin com Western Union, Vender bitcoin com Western Union">
+    </div>
+    <div class="payment-grid-item">
+        <p>Bankera</p> 
+        <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Comprar bitcoin com Bankera, Vender bitcoin com Bankera">
     </div>
 </div>
-
 </body>

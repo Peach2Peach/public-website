@@ -5,26 +5,26 @@ template: how_it_works
 
 <!--[teaser]-->
 
-![Купуйте та продавайте Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
+![Buy and Sell Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
 
-### Накопичуйте сатоші <span>щодня</span>!
+### Накопичуйте сати <span>щодня</span>!
 
-**Купуйте та продавайте до 1000 CHF на день та 100'000 CHF на рік.**
+**Купуйте та продавайте до 1 000 CHF на день і 100 000 CHF на рік.**
 
 <!--[easy_registration]-->
 
 ### Легка реєстрація
 
-Завантажте додаток безкоштовно і починайте торгувати відразу! Ми не будемо просити вас завантажувати ваше посвідчення особи або робити селфі з вашим водійським посвідченням.
+Завантажте додаток безкоштовно та почніть торгувати одразу! Ми не будемо просити вас завантажити ваше посвідчення особи чи зробити селфі з водійським посвідченням.
 
 <div class="custom-section_357">
   <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Завантажте додаток Peach Bitcoin у App Store без KYC перевірки"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Завантажте додаток Peach Bitcoin у Google Play Store без перевірки посвідчення особи"></a>
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Peach Bitcoin app on the App Store without KYC verification"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Peach Bitcoin app on Google Play store without ID verification"></a>
   </div>
 
 :::buttons
-[Завантажити APK на Android](/uk/apk/)
+[Download APK on Android](/apk/)
 :::
 
 </div>
@@ -33,11 +33,11 @@ template: how_it_works
 
 ### Підтримувані методи оплати
 
-Існує багато способів оплати, з яких ви можете вибрати.<br>
+Є безліч способів оплати, з яких ви можете обирати.<br>
 
 #### Підтримувані валюти
 
-##### Європа
+##### Євроpe
 
 <div class="payment-grid_894">
     <div class="payment-grid-item_523">
@@ -132,6 +132,18 @@ template: how_it_works
         </a>
     </div>
     <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-bob-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            BOB
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-brl-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            BRL
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
         <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-cop-in-2024/">
             <i class="fas fa-dollar-sign"></i>
             COP
@@ -161,6 +173,48 @@ template: how_it_works
             CRC
         </a>
     </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-dop-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            DOP
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-gtq-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            GTQ
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-hnl-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            HNL
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-pab-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            PAB
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-pyg-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            PYG
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-uyu-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            UYU
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-ves-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            VES
+        </a>
+    </div>
 </div>
 
 ---
@@ -168,6 +222,24 @@ template: how_it_works
 ##### Африка
 
 <div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-mad-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            MAD
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-zar-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            ZAR
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-zts-in-2024/">
+            <i class="fas fa-dollar-sign"></i>
+            ZTS
+        </a>
+    </div>
     <div class="payment-grid-item_523">
         <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-cfa-xof-in-2024/">
             <i class="fas fa-coins"></i>
@@ -190,9 +262,151 @@ template: how_it_works
 
 ---
 
-##### Інше
+##### Азія
 
 <div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-cny-in-2024/">
+            <i class="fas fa-coins"></i>
+            CNY
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-inr-in-2024/">
+            <i class="fas fa-coins"></i>
+            INR
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-idr-in-2024/">
+            <i class="fas fa-coins"></i>
+            IDR
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-jpy-in-2024/">
+            <i class="fas fa-coins"></i>
+            JPY
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-kzt-in-2024/">
+            <i class="fas fa-coins"></i>
+            KZT
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-myr-in-2024/">
+            <i class="fas fa-coins"></i>
+            MYR
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-pkr-in-2024/">
+            <i class="fas fa-coins"></i>
+            PKR
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-php-in-2024/">
+            <i class="fas fa-coins"></i>
+            PHP
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-sgd-in-2024/">
+            <i class="fas fa-coins"></i>
+            SGD
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-try-in-2024/">
+            <i class="fas fa-coins"></i>
+            TRY
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-vnd-in-2024/">
+            <i class="fas fa-coins"></i>
+            VND
+        </a>
+    </div>
+</div>
+
+---
+
+##### Близький Схід
+
+<div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-egp-in-2024/">
+            <i class="fas fa-coins"></i>
+            EGP
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-ils-in-2024/">
+            <i class="fas fa-coins"></i>
+            ILS
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-sar-in-2024/">
+            <i class="fas fa-coins"></i>
+            SAR
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-aed-in-2024/">
+            <i class="fas fa-coins"></i>
+            AED
+        </a>
+    </div>
+</div>
+
+---
+
+##### Північна Америка
+
+<div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-cad-in-2024/">
+            <i class="fas fa-coins"></i>
+            CAD
+        </a>
+    </div>
+</div>
+
+---
+
+##### Океанія
+
+<div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-aud-in-2024/">
+            <i class="fas fa-coins"></i>
+            AUD
+        </a>
+    </div>
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-nzd-in-2024/">
+            <i class="fas fa-coins"></i>
+            NZD
+        </a>
+    </div>
+</div>
+
+---
+
+##### Global
+
+<div class="payment-grid_894">
+    <div class="payment-grid-item_523">
+        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-usd-in-2024/">
+            <i class="fas fa-coins"></i>
+            USD
+        </a>
+    </div>
     <div class="payment-grid-item_523">
         <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-ln-swaps-in-2024/">
             <i class="fas fa-coins"></i>
@@ -212,50 +426,51 @@ template: how_it_works
 ### Доступні методи оплати
 
 :::buttons
-[Натисніть тут](/uk/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2024-with-PeachBitcoin)
+[Click here](/uk/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2025-with-PeachBitcoin)
 :::
-щоб дізнатися про **УСІ НАШІ МЕТОДИ ОПЛАТИ**!
+щоб відкрити для себе **УСІ НАШІ МЕТОДИ ОПЛАТИ!**
 
-Якщо є інший метод оплати, яким ви хочете скористатися, але його немає в списку, повідомте нас, заповнивши<br>
-**[ЦЮ ФОРМУ](https://ncxldazr6m4.typeform.com/to/SJljDnae)**!
+If there's another Payment Method you'd like to use, but it isn't listed, let us know by filling
+<br>
+**[THIS FORM](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
 
-### Перегляньте нашу книгу замовлень
+### Перегляньте нашу книгу ордерів
 
 :::buttons
-<button class="btn" id="customBtn" onclick="window.location.href='/uk/kycfree-orderbook'">P2P Bitcoin OrderBook</button>
+<button class="btn" id="customBtn" onclick="window.location.href='/kycfree-orderbook'">Книга ордерів P2P Bitcoin</button>
 :::
-щоб побачити **УСІ АКТИВНІ ПРОПОЗИЦІЇ**!
+щоб перевірити **УСІ АКТУАЛЬНІ ПРОПОЗИЦІЇ!**
 
 <!--[self_custody]-->
 
 ### Не твої ключі, не твої монети
 
-Додаток має легкий у використанні гаманець, яким ви керуєте, або ви можете використовувати свій існуючий гаманець. Залишайтесь на основах або йдіть далі — ви завжди контролюєте.
+The app has an easy to use wallet that you control built in, or you can use your existing wallet. Stick to the basics or make it hardcore - you're always in control.
 
 <!--[security]-->
 
-### Надзвичайно безпечно
+### Дуже безпечно
 
-Peach використовує багатопідписні адреси Bitcoin, щоб переконатися, що правильна сторона отримає біткоїн, якщо щось піде не так під час угоди.
+Peach uses Multi-Signature bitcoin addresses to make sure that the correct party can get the bitcoin if something goes wrong during the trade.
 
 <!--[difference]-->
 
-### Що робить Peach іншою від інших бірж?
+### Що робить Peach відмінним від інших бірж?
 
-З Peach ви не купуєте і не продаєте у нас.
+З Peach ви не купуєте у нас і не продаєте нам.
 Ви взаємодієте безпосередньо з іншими користувачами!
-Це робить торгівлю біткоїном більш приватною та дозволяє вам використовувати будь-який метод оплати, про який ви зможете домовитися.
-Наша місія — зробити це якомога простішим і безпечнішим.
+Це робить торгівлю біткоїном більш приватною і дозволяє використовувати будь-який спосіб оплати, про який ви домовитеся.
+Наша місія — зробити це максимально простим і безпечним.
 
 <!--[sounds_cool]-->
 
-### Звучить круто, але як це працює?
+### Звучить чудово, але як це працює?
 
-У нас є повний посібник із початку роботи тут:
+Ми маємо повний посібник для початківців тут:
 
 <!--[questions]-->
 
-### Є ще запитання?
+### Маєте ще запитання?
 
-Я впевнений, що ви зможете знайти відповідь у наших FAQ.
+Я впевнений, що ви знайдете відповідь у нашому FAQ.
 Якщо ні, надішліть нам повідомлення!
