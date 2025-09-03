@@ -1,0 +1,43 @@
+<body class="payment-methods-page">
+
+# Bitcoin kopen & verkopen met elke betaalmethode 2025 met PeachBitcoin
+
+PeachBitcoin is de veilige, snelle en eenvoudige manier om Bitcoin te kopen en verkopen met elke betaalmethode, overal ter wereld. Wij geven prioriteit aan jouw privacy en veiligheid en bieden een breed scala aan betaalopties die aansluiten bij jouw behoeften. Hier zijn al onze betaalmethoden die we aanbieden voor Pakistaanse roepie (PKR).
+
+## PKR Payment Methods
+
+### Overschrijving
+
+<div class="payment-grid">
+    <div class="payment-grid-item">
+        <p>National Transfer</p> 
+        <img src="/img/faq/logoimg/blank.png" width="30px" height="27px" alt="Koop bitcoin met national transfer, Verkoop bitcoin met national transfer">
+    </div>
+    <div class="payment-grid-item">
+        <p>Easypaisa</p> 
+        <img src="/img/faq/logoimg/easypaisa.png" width="30px" height="27px" alt="Koop bitcoin met Easypaisa, Verkoop bitcoin met Easypaisa">
+    </div>
+    <div class="payment-grid-item">
+        <p>NayaPay</p> 
+        <img src="/img/faq/logoimg/nayapay.png" width="30px" height="27px" alt="Koop bitcoin met NayaPay, Verkoop bitcoin met NayaPay">
+    </div>
+    <div class="payment-grid-item">
+        <p>SadaPay</p> 
+        <img src="/img/faq/logoimg/sadapay.png" width="30px" height="27px" alt="Koop bitcoin met SadaPay, Verkoop bitcoin met SadaPay">
+    </div>
+</div>
+
+### Online portemonnees
+
+<div class="payment-grid">
+    <div class="payment-grid-item">
+        <p>Wise</p> 
+        <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Koop bitcoin met Wise, Verkoop bitcoin met Wise">
+    </div>
+    <div class="payment-grid-item">
+        <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Koop bitcoin met Western Union, Verkoop bitcoin met Western Union">
+    </div>
+</div>
+
+</body>

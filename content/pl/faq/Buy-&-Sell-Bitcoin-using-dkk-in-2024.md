@@ -1,50 +1,54 @@
 <body class="payment-methods-page">
 
-# Kupuj & Sprzedawaj Bitcoin używając dowolnej metody płatności 2024 z PeachBitcoin
+# Kupuj i Sprzedawaj Bitcoina dowolną metodą płatności 2025 z PeachBitcoin
 
-PeachBitcoin to bezpieczny, szybki i łatwy sposób na zakup i sprzedaż Bitcoin, używając dowolnej metody płatności, w dowolnym miejscu na świecie. Priorytetem jest twoja prywatność i bezpieczeństwo, oferujemy szeroki wybór opcji płatności, aby sprostać twoim potrzebom. Oto wszystkie metody płatności, które oferujemy dla Duńskiej Korony (DKK).
+PeachBitcoin to bezpieczny, szybki i łatwy sposób na kupowanie i sprzedawanie Bitcoina za pomocą dowolnej metody płatności, w dowolnym miejscu na świecie. Priorytetowo traktujemy Twoją prywatność i bezpieczeństwo, oferując szeroki wachlarz opcji płatności dostosowanych do Twoich potrzeb. Oto wszystkie nasze metody płatności, które oferujemy dla Korona duńska (DKK).
 
-## Metody Płatności w DKK
+## DKK Payment Methods
 
-### Przelew Bankowy
+### Przelew bankowy
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>Krajowy Przelew Dania</p> 
-        <img src="/img/faq/logoimg/dkkdenmark.png" width="30px" height="27px" alt="Kup bitcoin z Krajowym Przelewem Dania, Sprzedaj bitcoin z Krajowym Przelewem Dania">
+        <p>National Transfer Denmark</p> 
+        <img src="/img/faq/logoimg/dkkdenmark.png" width="30px" height="27px" alt="Kup bitcoina za pomocą National Transfer Denmark, Sprzedaj bitcoina za pomocą National Transfer Denmark">
     </div>
 </div>
 
-### Portfele Internetowe
+### Portfele online
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>PayPal</p>
-        <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Kup bitcoin z PayPal, Sprzedaj bitcoin z PayPal">
+        <p>PayPal</p> 
+        <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Kup bitcoina za pomocą PayPal, Sprzedaj bitcoina za pomocą PayPal">
     </div>
     <div class="payment-grid-item">
         <p>MobilePay</p> 
-        <img src="/img/faq/logoimg/mobilepay.png" width="30px" height="27px" alt="Kup bitcoin z MobilePay, Sprzedaj bitcoin z MobilePay">
+        <img src="/img/faq/logoimg/mobilepay.png" width="30px" height="27px" alt="Kup bitcoina za pomocą MobilePay, Sprzedaj bitcoina za pomocą MobilePay">
     </div>
     <div class="payment-grid-item">
         <p>Neteller</p> 
-        <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Kup bitcoin z Neteller, Sprzedaj bitcoin z Neteller">
+        <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Kup bitcoina za pomocą Neteller, Sprzedaj bitcoina za pomocą Neteller">
     </div>
     <div class="payment-grid-item">
         <p>PaySera</p> 
-        <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Kup bitcoin z PaySera, Sprzedaj bitcoin z PaySera">
+        <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Kup bitcoina za pomocą PaySera, Sprzedaj bitcoina za pomocą PaySera">
     </div>
     <div class="payment-grid-item">
         <p>Revolut</p> 
-        <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Kup bitcoin z Revolut, Sprzedaj bitcoin z Revolut">
+        <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Kup bitcoina za pomocą Revolut, Sprzedaj bitcoina za pomocą Revolut">
     </div>
     <div class="payment-grid-item">
-        <p>Wise</p>
-        <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Kup bitcoin z Wise, Sprzedaj bitcoin z Wise">
+        <p>Wise</p> 
+        <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Kup bitcoina za pomocą Wise, Sprzedaj bitcoina za pomocą Wise">
     </div>
     <div class="payment-grid-item">
         <p>Skrill</p> 
-        <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Kup bitcoin z Skrill, Sprzedaj bitcoin z Skrill">
+        <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Kup bitcoina za pomocą Skrill, Sprzedaj bitcoina za pomocą Skrill">
+    </div>
+    <div class="payment-grid-item">
+        <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Kup bitcoina za pomocą Western Union, Sprzedaj bitcoina za pomocą Western Union">
     </div>
 </div>
 

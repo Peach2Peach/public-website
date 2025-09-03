@@ -1,21 +1,21 @@
 <body class="payment-methods-page">
 
-# Comprar & Vender Bitcoin usando qualquer método de pagamento 2024 com a PeachBitcoin
+# Comprar & Vender Bitcoin com qualquer método de pagamento 2025 com o PeachBitcoin
 
-PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usando qualquer método de pagamento, em qualquer lugar do mundo. Priorizamos a sua privacidade e segurança, oferecendo uma ampla gama de opções de pagamento para atender às suas necessidades. Aqui estão todos os métodos de pagamento que oferecemos.
+O PeachBitcoin é a maneira segura, rápida e fácil de comprar e vender Bitcoin com qualquer método de pagamento, em qualquer lugar do mundo. Priorizamos a sua privacidade e segurança, oferecendo uma ampla gama de opções de pagamento para atender às suas necessidades. Aqui estão todos os nossos métodos de pagamento.
 
-## Métodos de Pagamento em GBP
+## GBP Payment Methods
 
-### Transferência Bancária
+### Transferência bancária
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>Pagamentos Rápidos</p> 
-        <img src="/img/faq/logoimg/fasterpayment.png" width="30px" height="27px" alt="Comprar bitcoin com Pagamentos Rápidos, Vender bitcoin com Pagamentos Rápidos">
+        <p>Faster Payments</p> 
+        <img src="/img/faq/logoimg/fasterpayment.png" width="30px" height="27px" alt="Comprar bitcoin com Faster Payments, Vender bitcoin com Faster Payments">
     </div>
 </div>
 
-### Carteiras Online
+### Carteiras online
 
 <div class="payment-grid">
     <div class="payment-grid-item">
@@ -27,7 +27,7 @@ PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usan
         <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Comprar bitcoin com Neteller, Vender bitcoin com Neteller">
     </div>
     <div class="payment-grid-item">
-        <p>PayPal</p>
+        <p>PayPal</p> 
         <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Comprar bitcoin com PayPal, Vender bitcoin com PayPal">
     </div>
     <div class="payment-grid-item">
@@ -47,12 +47,16 @@ PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usan
         <img src="/img/faq/logoimg/strike.png" width="30px" height="27px" alt="Comprar bitcoin com Strike, Vender bitcoin com Strike">
     </div>
     <div class="payment-grid-item">
-        <p>Wise</p>
+        <p>Wise</p> 
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Comprar bitcoin com Wise, Vender bitcoin com Wise">
+    </div>
+    <div class="payment-grid-item">
+        <p>Bankera</p> 
+        <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Comprar bitcoin com Bankera, Vender bitcoin com Bankera">
     </div>
 </div>
 
-### Cartão Presente Online
+### Online Giftcards
 
 <div class="payment-grid">
     <div class="payment-grid-item">

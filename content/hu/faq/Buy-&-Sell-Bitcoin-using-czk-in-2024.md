@@ -1,42 +1,54 @@
 <body class="payment-methods-page">
 
-# Vásárolj & Adj el Bitcoint bármilyen fizetési móddal 2024-ben a PeachBitcoin-nal
+# Bitcoin vásárlása és eladása bármely fizetési móddal 2025 a PeachBitcoin segítségével
 
-A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint vásárolj és adj el bármilyen fizetési móddal, bárhol a világon. Elsődleges szempontunk az adatvédelem és a biztonság, és széles körű fizetési lehetőségeket kínálunk, hogy megfeleljünk az igényeidnek. Itt találhatók az összes fizetési módszer, amelyet kínálunk a Cseh Köztársaság (CZK) esetében.
+A PeachBitcoin a biztonságos, gyors és egyszerű módja a Bitcoin vásárlásának és eladásának bármely fizetési móddal, a világ bármely pontján. Előnyben részesítjük a magánéletedet és a biztonságodat, és széles választékot kínálunk a fizetési lehetőségek közül, hogy megfeleljünk az igényeidnek. Íme az összes fizetési módszer, amelyet kínálunk Csehország (CZK) esetében.
 
-## CZK Fizetési Módszerek
+## CZK Payment Methods
 
-### Banki Átutalás
+### Banki átutalás
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>Nemzeti Átutalás Cseh Köztársaság</p> 
-        <img src="/img/faq/logoimg/czech.png" width="30px" height="27px" alt="Bitcoint vásárolj Nemzeti Átutalással Cseh Köztársaságban, Bitcoint adj el Nemzeti Átutalással Cseh Köztársaságban">
+        <p>National Transfer Csehország</p> 
+        <img src="/img/faq/logoimg/czech.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: National Transfer Csehország, Bitcoin eladása ezzel: National Transfer Csehország">
     </div>
 </div>
 
-### Online Pénztárcák
+### Online pénztárcák
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>PayPal</p>
-        <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Bitcoint vásárolj PayPallal, Bitcoint adj el PayPallal">
+        <p>Bankera</p> 
+        <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: Bankera, Bitcoin eladása ezzel: Bankera">
+    </div>
+    <div class="payment-grid-item">
+        <p>Friends 24</p> 
+        <img src="/img/faq/logoimg/blank.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: Friends 24, Bitcoin eladása ezzel: Friends 24">
+    </div>
+    <div class="payment-grid-item">
+        <p>PayPal</p> 
+        <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: PayPal, Bitcoin eladása ezzel: PayPal">
     </div>
     <div class="payment-grid-item">
         <p>Revolut</p> 
-        <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Bitcoint vásárolj Revoluttal, Bitcoint adj el Revoluttal">
+        <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: Revolut, Bitcoin eladása ezzel: Revolut">
     </div>
     <div class="payment-grid-item">
-        <p>Wise</p>
-        <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Bitcoint vásárolj Wise-al, Bitcoint adj el Wise-al">
+        <p>Wise</p> 
+        <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: Wise, Bitcoin eladása ezzel: Wise">
     </div>
     <div class="payment-grid-item">
         <p>Skrill</p> 
-        <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Bitcoint vásárolj Skrillel, Bitcoint adj el Skrillel">
+        <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: Skrill, Bitcoin eladása ezzel: Skrill">
     </div>
     <div class="payment-grid-item">
         <p>PaySera</p> 
-        <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Bitcoint vásárolj PaySerával, Bitcoint adj el PaySerával">
+        <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: PaySera, Bitcoin eladása ezzel: PaySera">
+    </div>
+    <div class="payment-grid-item">
+        <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: Western Union, Bitcoin eladása ezzel: Western Union">
     </div>
 </div>
 

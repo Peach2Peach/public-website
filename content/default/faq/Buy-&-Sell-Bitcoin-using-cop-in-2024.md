@@ -1,6 +1,6 @@
 <body class="payment-methods-page">
 
-# Buy & Sell Bitcoin using any payment method 2024 with PeachBitcoin
+# Buy & Sell Bitcoin using any payment method 2025 with PeachBitcoin
 
 PeachBitcoin is the secure, quick, and easy way to buy and sell Bitcoin using any payment method, anywhere in the world. We prioritize your privacy and security, offering a wide range of payment options to suit your needs. Here’s all our payment methods we offer for Colombian Peso (COP).
 
@@ -19,12 +19,32 @@ PeachBitcoin is the secure, quick, and easy way to buy and sell Bitcoin using an
 
 <div class="payment-grid">
     <div class="payment-grid-item">
+        <p>DaviPlata</p> 
+        <img src="/img/faq/logoimg/daviplata.png" width="30px" height="27px" alt="Buy bitcoin with DaviPlata, Sell bitcoin with DaviPlata">
+    </div>
+    <div class="payment-grid-item">
+        <p>Mercado Pago</p> 
+        <img src="/img/faq/logoimg/mercadopago.png" width="30px" height="27px" alt="Buy bitcoin with Mercado Pago, Sell bitcoin with Mercado Pago">
+    </div>
+    <div class="payment-grid-item">
         <p>Nequi</p> 
         <img src="/img/faq/logoimg/nequi.png" width="30px" height="27px" alt="Buy bitcoin with Nequi, Sell bitcoin with Nequi">
     </div>
     <div class="payment-grid-item">
         <p>RappiPay</p> 
         <img src="/img/faq/logoimg/rappipay.png" width="30px" height="27px" alt="Buy bitcoin with RappiPay, Sell bitcoin with RappiPay">
+    </div>
+    <div class="payment-grid-item">
+        <p>Revolut</p> 
+        <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Buy bitcoin with Revolut, Sell bitcoin with Revolut">
+    </div>
+    <div class="payment-grid-item">
+        <p>Wise</p> 
+        <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Buy bitcoin with Wise, Sell bitcoin with Wise">
+    </div>
+    <div class="payment-grid-item">
+        <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Buy bitcoin with Western Union, Sell bitcoin with Western Union">
     </div>
 </div>
 

@@ -1,25 +1,25 @@
 <body class="payment-methods-page">
 
-# Nunua & Uza Bitcoin kwa kutumia njia yoyote ya malipo 2024 na PeachBitcoin
+# Nunua & Uza Bitcoin kwa kutumia njia yoyote ya malipo 2025 na PeachBitcoin
 
-PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa kutumia njia yoyote ya malipo, popote duniani. Tunazingatia faragha yako na usalama, tukitoa chaguzi mbalimbali za malipo ili kukidhi mahitaji yako. Hizi ndizo njia zote za malipo tunazotoa kwa Koroona ya Uswidi (SEK).
+PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa kutumia njia yoyote ya malipo, popote duniani. Tunatanguliza faragha na usalama wako, tukitoa chaguo nyingi za malipo zinazokidhi mahitaji yako. Hapa kuna njia zote za malipo tunazotoa kwa Swedish Krona (SEK).
 
-## Njia za Malipo za SEK
+## SEK Payment Methods
 
-### Uhamisho wa Benki
+### Uhamisho wa benki
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>Uhamisho wa Kitaifa Uswidi</p> 
-        <img src="/img/faq/logoimg/swedenflag.png" width="30px" height="27px" alt="Nunua bitcoin kwa Uhamisho wa Kitaifa Uswidi, Uza bitcoin kwa Uhamisho wa Kitaifa Uswidi">
+        <a href="/buy-bitcoin-with-national-transfer-sweden">National Transfer Sweden</a> 
+        <img src="/img/faq/logoimg/swedenflag.png" width="30px" height="27px" alt="Nunua bitcoin kwa National Transfer Sweden, Uza bitcoin kwa National Transfer Sweden">
     </div>
 </div>
 
-### Pochi za Kielektroniki
+### Pochi za mtandaoni
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>PayPal</p>
+        <p>PayPal</p> 
         <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Nunua bitcoin kwa PayPal, Uza bitcoin kwa PayPal">
     </div>
     <div class="payment-grid-item">
@@ -35,7 +35,7 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Nunua bitcoin kwa Revolut, Uza bitcoin kwa Revolut">
     </div>
     <div class="payment-grid-item">
-        <p>Wise</p>
+        <p>Wise</p> 
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Nunua bitcoin kwa Wise, Uza bitcoin kwa Wise">
     </div>
     <div class="payment-grid-item">
@@ -43,17 +43,21 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Nunua bitcoin kwa Skrill, Uza bitcoin kwa Skrill">
     </div>
     <div class="payment-grid-item">
-        <p>Swish</p>
+        <p>Swish</p> 
         <img src="/img/faq/logoimg/swishlogo.png" width="30px" height="27px" alt="Nunua bitcoin kwa Swish, Uza bitcoin kwa Swish">
+    </div>
+    <div class="payment-grid-item">
+        <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Nunua bitcoin kwa Western Union, Uza bitcoin kwa Western Union">
     </div>
 </div>
 
-### Kadi ya Zawadi
+### Kadi ya zawadi
 
 <div class="payment-grid">
     <div class="payment-grid-item">
         <p>Amazon</p> 
-        <img src="/img/faq/logoimg/amazon.png" width="30px" height="27px" alt="Nunua bitcoin kwa kadi ya zawadi ya Amazon, Uza bitcoin kwa kadi ya zawadi ya Amazon">
+        <img src="/img/faq/logoimg/amazon.png" width="30px" height="27px" alt="Nunua bitcoin kwa Amazon gift card, Uza bitcoin kwa Amazon gift card">
     </div>
 </div>
 

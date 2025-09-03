@@ -1,21 +1,21 @@
 <body class="payment-methods-page">
 
-# Nunua & Uza Bitcoin kwa kutumia njia yoyote ya malipo 2024 na PeachBitcoin
+# Nunua & Uza Bitcoin kwa kutumia njia yoyote ya malipo 2025 na PeachBitcoin
 
-PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa kutumia njia yoyote ya malipo, popote duniani. Tunazingatia faragha yako na usalama, tukitoa chaguzi mbalimbali za malipo ili kukidhi mahitaji yako. Hizi ndizo njia zote za malipo tunazotoa.
+PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa kutumia njia yoyote ya malipo, popote duniani. Tunatanguliza faragha na usalama wako, tukitoa chaguo nyingi za malipo zinazokidhi mahitaji yako. Hapa kuna njia zote za malipo zetu.
 
-## Njia za Malipo za GBP
+## GBP Payment Methods
 
-### Uhamisho wa Benki
+### Uhamisho wa benki
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>Malipo ya Haraka</p> 
-        <img src="/img/faq/logoimg/fasterpayment.png" width="30px" height="27px" alt="Nunua bitcoin kwa Malipo ya Haraka, Uza bitcoin kwa Malipo ya Haraka">
+        <p>Faster Payments</p> 
+        <img src="/img/faq/logoimg/fasterpayment.png" width="30px" height="27px" alt="Nunua bitcoin kwa Faster Payments, Uza bitcoin kwa Faster Payments">
     </div>
 </div>
 
-### Pochi za Kielektroniki
+### Pochi za mtandaoni
 
 <div class="payment-grid">
     <div class="payment-grid-item">
@@ -27,7 +27,7 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
         <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Nunua bitcoin kwa Neteller, Uza bitcoin kwa Neteller">
     </div>
     <div class="payment-grid-item">
-        <p>PayPal</p>
+        <p>PayPal</p> 
         <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Nunua bitcoin kwa PayPal, Uza bitcoin kwa PayPal">
     </div>
     <div class="payment-grid-item">
@@ -47,12 +47,16 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
         <img src="/img/faq/logoimg/strike.png" width="30px" height="27px" alt="Nunua bitcoin kwa Strike, Uza bitcoin kwa Strike">
     </div>
     <div class="payment-grid-item">
-        <p>Wise</p>
+        <p>Wise</p> 
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Nunua bitcoin kwa Wise, Uza bitcoin kwa Wise">
+    </div>
+    <div class="payment-grid-item">
+        <p>Bankera</p> 
+        <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Nunua bitcoin kwa Bankera, Uza bitcoin kwa Bankera">
     </div>
 </div>
 
-### Kadi ya Zawadi ya Mtandaoni
+### Online Giftcards
 
 <div class="payment-grid">
     <div class="payment-grid-item">

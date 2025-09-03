@@ -1,42 +1,54 @@
 <body class="payment-methods-page">
 
-# Compra y Vende Bitcoin usando cualquier método de pago 2024 con PeachBitcoin
+# Comprar y Vender Bitcoin con cualquier método de pago 2025 con PeachBitcoin
 
-PeachBitcoin es la forma segura, rápida y sencilla de comprar y vender Bitcoin usando cualquier método de pago, en cualquier parte del mundo. Priorizamos tu privacidad y seguridad, ofreciendo una amplia gama de opciones de pago para satisfacer tus necesidades. Aquí están todos nuestros métodos de pago que ofrecemos para la República Checa (CZK).
+PeachBitcoin es la forma segura, rápida y sencilla de comprar y vender Bitcoin con cualquier método de pago, en cualquier lugar del mundo. Priorizamos tu privacidad y seguridad y ofrecemos una amplia gama de opciones de pago para adaptarnos a tus necesidades. Aquí encontrarás todos nuestros métodos de pago que ofrecemos para República Checa (CZK).
 
-## Métodos de Pago en CZK
+## Métodos de Pago CZK
 
 ### Transferencia Bancaria
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>Transferencia Nacional República Checa</p> 
-        <img src="/img/faq/logoimg/czech.png" width="30px" height="27px" alt="Compra bitcoin con Transferencia Nacional República Checa, Vende bitcoin con Transferencia Nacional República Checa">
+        <p>National Transfer República Checa</p> 
+        <img src="/img/faq/logoimg/czech.png" width="30px" height="27px" alt="Comprar bitcoin con National Transfer República Checa, Vender bitcoin con National Transfer República Checa">
     </div>
 </div>
 
-### Monederos Electrónicos
+### Billeteras Electrónicas
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>PayPal</p>
-        <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Compra bitcoin con PayPal, Vende bitcoin con PayPal">
+        <p>Bankera</p> 
+        <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Comprar bitcoin con Bankera, Vender bitcoin con Bankera">
+    </div>
+    <div class="payment-grid-item">
+        <p>Friends 24</p> 
+        <img src="/img/faq/logoimg/blank.png" width="30px" height="27px" alt="Comprar bitcoin con Friends 24, Vender bitcoin con Friends 24">
+    </div>
+    <div class="payment-grid-item">
+        <p>PayPal</p> 
+        <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Comprar bitcoin con PayPal, Vender bitcoin con PayPal">
     </div>
     <div class="payment-grid-item">
         <p>Revolut</p> 
-        <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Compra bitcoin con Revolut, Vende bitcoin con Revolut">
+        <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Comprar bitcoin con Revolut, Vender bitcoin con Revolut">
     </div>
     <div class="payment-grid-item">
-        <p>Wise</p>
-        <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Compra bitcoin con Wise, Vende bitcoin con Wise">
+        <p>Wise</p> 
+        <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Comprar bitcoin con Wise, Vender bitcoin con Wise">
     </div>
     <div class="payment-grid-item">
         <p>Skrill</p> 
-        <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Compra bitcoin con Skrill, Vende bitcoin con Skrill">
+        <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Comprar bitcoin con Skrill, Vender bitcoin con Skrill">
     </div>
     <div class="payment-grid-item">
         <p>PaySera</p> 
-        <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Compra bitcoin con PaySera, Vende bitcoin con PaySera">
+        <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Comprar bitcoin con PaySera, Vender bitcoin con PaySera">
+    </div>
+    <div class="payment-grid-item">
+        <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Comprar bitcoin con Western Union, Vender bitcoin con Western Union">
     </div>
 </div>
 

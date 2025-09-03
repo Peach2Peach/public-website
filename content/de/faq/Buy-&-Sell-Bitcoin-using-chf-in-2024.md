@@ -1,19 +1,19 @@
 <body class="payment-methods-page">
 
-# Bitcoin kaufen & verkaufen mit jeder Zahlungsmethode 2024 bei PeachBitcoin
+# Bitcoin kaufen & verkaufen mit jeder Zahlungsmethode 2025 mit PeachBitcoin
 
-PeachBitcoin ist die sichere, schnelle und einfache Möglichkeit, Bitcoin mit jeder Zahlungsmethode überall auf der Welt zu kaufen und zu verkaufen. Wir legen großen Wert auf deine Privatsphäre und Sicherheit und bieten eine Vielzahl von Zahlungsmöglichkeiten, die deinen Bedürfnissen entsprechen. Hier sind alle Zahlungsmethoden, die wir anbieten.
+PeachBitcoin ist die sichere, schnelle und einfache Möglichkeit, Bitcoin mit jeder Zahlungsmethode überall auf der Welt zu kaufen und zu verkaufen. Wir stellen deine Privatsphäre und Sicherheit an erste Stelle und bieten eine große Auswahl an Zahlungsoptionen, die zu deinen Bedürfnissen passen. Here’s all our payment methods we offer.
 
-## Banküberweisung
+## Bank Transfer
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>Nationale Überweisung Schweiz</p> 
-        <img src="/img/faq/logoimg/nationalswitzer.png" width="30px" height="27px" alt="Bitcoin mit Nationaler Überweisung Schweiz kaufen, Bitcoin mit Nationaler Überweisung Schweiz verkaufen">
+        <p>National transfer Switzerland</p> 
+        <img src="/img/faq/logoimg/nationalswitzer.png" width="30px" height="27px" alt="Bitcoin mit National transfer Switzerland kaufen, Bitcoin mit National transfer Switzerland verkaufen">
     </div>
 </div>
 
-## Online-Wallets
+## Online Wallets
 
 <div class="payment-grid">
     <div class="payment-grid-item">
@@ -42,8 +42,15 @@ PeachBitcoin ist die sichere, schnelle und einfache Möglichkeit, Bitcoin mit je
     </div>
     <div class="payment-grid-item">
         <p>Twint</p> 
-        <img src="/img/faq/logoimg/twint.png" width="30px" height="27px" alt="Bitcoin mit Twint kaufen, Bitcoin mit Twint verkaufen">
+        <img src="/img/faq/logoimg/twint.png" width="30px" height="27px" alt="Buy Bitcoin with Twint, Sell Bitcoin with Twint">
+    </div>
+    <div class="payment-grid-item">
+        <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Bitcoin mit Western Union kaufen, Bitcoin mit Western Union verkaufen">
+    </div>
+    <div class="payment-grid-item">
+        <p>Bankera</p> 
+        <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Bitcoin mit Bankera kaufen, Bitcoin mit Bankera verkaufen">
     </div>
 </div>
-
 </body>

@@ -1,21 +1,21 @@
 <body class="payment-methods-page">
 
-# Nunua & Uza Bitcoin kwa kutumia njia yoyote ya malipo 2024 na PeachBitcoin
+# Nunua & Uza Bitcoin kwa kutumia njia yoyote ya malipo 2025 na PeachBitcoin
 
-PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa kutumia njia yoyote ya malipo, popote duniani. Tunazingatia faragha yako na usalama, tukitoa chaguzi mbalimbali za malipo ili kukidhi mahitaji yako. Hizi ndizo njia zote za malipo tunazotoa kwa Zloty ya Poland (PLN).
+PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa kutumia njia yoyote ya malipo, popote duniani. Tunatanguliza faragha na usalama wako, tukitoa chaguo nyingi za malipo zinazokidhi mahitaji yako. Hapa kuna njia zote za malipo tunazotoa kwa Polish Zloty (PLN).
 
-## Njia za Malipo za PLN
+## PLN Payment Methods
 
-### Uhamisho wa Benki
+### Uhamisho wa benki
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>Uhamisho wa Kitaifa Poland</p> 
-        <img src="/img/faq/logoimg/poland.png" width="30px" height="27px" alt="Nunua bitcoin kwa Uhamisho wa Kitaifa Poland, Uza bitcoin kwa Uhamisho wa Kitaifa Poland">
+        <p>National Transfer Poland</p> 
+        <img src="/img/faq/logoimg/poland.png" width="30px" height="27px" alt="Nunua bitcoin kwa National Transfer Poland, Uza bitcoin kwa National Transfer Poland">
     </div>
 </div>
 
-### Pochi za Kielektroniki
+### Pochi za mtandaoni
 
 <div class="payment-grid">
     <div class="payment-grid-item">
@@ -35,7 +35,7 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
         <img src="/img/faq/logoimg/revolut.png" width="30px" height="27px" alt="Nunua bitcoin kwa Revolut, Uza bitcoin kwa Revolut">
     </div>
     <div class="payment-grid-item">
-        <p>Wise</p>
+        <p>Wise</p> 
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Nunua bitcoin kwa Wise, Uza bitcoin kwa Wise">
     </div>
     <div class="payment-grid-item">
@@ -43,8 +43,12 @@ PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Nunua bitcoin kwa Skrill, Uza bitcoin kwa Skrill">
     </div>
     <div class="payment-grid-item">
-        <p>PayPal</p>
+        <p>PayPal</p> 
         <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Nunua bitcoin kwa PayPal, Uza bitcoin kwa PayPal">
+    </div>
+    <div class="payment-grid-item">
+    <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Nunua bitcoin kwa Western Union, Uza bitcoin kwa Western Union">
     </div>
 </div>
 

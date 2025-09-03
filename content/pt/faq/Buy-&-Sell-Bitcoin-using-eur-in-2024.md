@@ -1,12 +1,12 @@
 <body class="payment-methods-page">
 
-# Comprar & Vender Bitcoin usando qualquer método de pagamento 2024 com a PeachBitcoin
+# Comprar & Vender Bitcoin com qualquer método de pagamento 2025 com o PeachBitcoin
 
-PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usando qualquer método de pagamento, em qualquer lugar do mundo. Priorizamos a sua privacidade e segurança, oferecendo uma ampla gama de opções de pagamento para atender às suas necessidades. Aqui estão todos os métodos de pagamento que oferecemos.
+O PeachBitcoin é a maneira segura, rápida e fácil de comprar e vender Bitcoin com qualquer método de pagamento, em qualquer lugar do mundo. Priorizamos a sua privacidade e segurança, oferecendo uma ampla gama de opções de pagamento para atender às suas necessidades. Aqui estão todos os nossos métodos de pagamento.
 
-## Métodos de Pagamento em EUR
+## EUR Payment Methods
 
-### Transferência Bancária
+### Transferência bancária
 
 <div class="payment-grid">
     <div class="payment-grid-item">
@@ -14,12 +14,12 @@ PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usan
         <img src="/img/faq/logoimg/sepa.png" width="30px" height="27px" alt="Comprar bitcoin com SEPA, Vender bitcoin com SEPA">
     </div>
     <div class="payment-grid-item">
-        <p>SEPA Instantâneo</p> 
-        <img src="/img/faq/logoimg/sepa.png" width="30px" height="27px" alt="Comprar bitcoin com SEPA Instantâneo, Vender bitcoin com SEPA Instantâneo">
+        <p>SEPA Instant</p> 
+        <img src="/img/faq/logoimg/sepa.png" width="30px" height="27px" alt="Comprar bitcoin com SEPA Instant, Vender bitcoin com SEPA Instant">
     </div>
 </div>
 
-### Carteiras Online
+### Carteiras online
 
 <div class="payment-grid">
     <div class="payment-grid-item">
@@ -39,7 +39,7 @@ PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usan
         <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Comprar bitcoin com Neteller, Vender bitcoin com Neteller">
     </div>
     <div class="payment-grid-item">
-        <p>PayPal</p>
+        <p>PayPal</p> 
         <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Comprar bitcoin com PayPal, Vender bitcoin com PayPal">
     </div>
     <div class="payment-grid-item">
@@ -59,21 +59,37 @@ PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usan
         <img src="/img/faq/logoimg/strike.png" width="30px" height="27px" alt="Comprar bitcoin com Strike, Vender bitcoin com Strike">
     </div>
     <div class="payment-grid-item">
-        <p>Wise</p>
+        <p>Wise</p> 
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Comprar bitcoin com Wise, Vender bitcoin com Wise">
+    </div>
+    <div class="payment-grid-item">
+        <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Comprar bitcoin com Western Union, Vender bitcoin com Western Union">
+    </div>
+    <div class="payment-grid-item">
+        <p>Perfect Money</p> 
+        <img src="/img/faq/logoimg/perfectmoney.png" width="30px" height="27px" alt="Comprar bitcoin com Perfect Money, Vender bitcoin com Perfect Money">
+    </div>
+    <div class="payment-grid-item">
+        <p>Payeer</p> 
+        <img src="/img/faq/logoimg/payeer.png" width="30px" height="27px" alt="Comprar bitcoin com Payeer, Vender bitcoin com Payeer">
     </div>
 </div>
 
-### Cartão Presente Online
+### Online Gift Card
 
 <div class="payment-grid">
     <div class="payment-grid-item">
         <p>Amazon</p> 
         <img src="/img/faq/logoimg/amazon.png" width="30px" height="27px" alt="Comprar bitcoin com Amazon, Vender bitcoin com Amazon">
     </div>
+    <div class="payment-grid-item">
+        <p>Steam</p> 
+        <img src="/img/faq/logoimg/steam.jpg" width="30px" height="27px" alt="Comprar bitcoin com Steam, Vender bitcoin com Steam">
+    </div>
 </div>
 
-### Opções Nacionais
+### National Options
 
 <div class="payment-grid">
     <div class="payment-grid-item">

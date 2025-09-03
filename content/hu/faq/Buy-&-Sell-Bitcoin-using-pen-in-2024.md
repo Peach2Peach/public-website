@@ -1,26 +1,34 @@
 <body class="payment-methods-page">
 
-# Vásárolj & Adj el Bitcoint bármilyen fizetési móddal 2024-ben a PeachBitcoin-nal
+# Bitcoin vásárlása és eladása bármely fizetési móddal 2025 a PeachBitcoin segítségével
 
-A PeachBitcoin egy biztonságos, gyors és egyszerű módja annak, hogy Bitcoint vásárolj és adj el bármilyen fizetési móddal, bárhol a világon. Elsődleges szempontunk az adatvédelem és a biztonság, és széles körű fizetési lehetőségeket kínálunk, hogy megfeleljünk az igényeidnek. Itt találhatók az összes fizetési módszer, amelyet kínálunk a Perui Solért (PEN).
+A PeachBitcoin a biztonságos, gyors és egyszerű módja a Bitcoin vásárlásának és eladásának bármely fizetési móddal, a világ bármely pontján. Előnyben részesítjük a magánéletedet és a biztonságodat, és széles választékot kínálunk a fizetési lehetőségek közül, hogy megfeleljünk az igényeidnek. Íme az összes fizetési módszer, amelyet kínálunk Peruvian Sol (PEN) esetében.
 
-## PEN Fizetési Módszerek
+## PEN Payment Methods
 
-### Banki Átutalás
+### Banki átutalás
 
 <div class="payment-grid">
     <div class="payment-grid-item">
         <p>Bancolombia</p> 
-        <img src="/img/faq/logoimg/bancolombia.png" width="30px" height="27px" alt="Bitcoint vásárolj Bancolombia-val, Bitcoint adj el Bancolombia-val">
+        <img src="/img/faq/logoimg/bancolombia.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: Bancolombia, Bitcoin eladása ezzel: Bancolombia">
+    </div>
+    <div class="payment-grid-item">
+        <p>Bank Deposit</p> 
+        <img src="/img/faq/logoimg/blank.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: Bank Depsoit, Bitcoin eladása ezzel: BaBank Depositncolombia">
     </div>
 </div>
 
-### Online Pénztárcák
+### Online pénztárcák
 
 <div class="payment-grid">
     <div class="payment-grid-item">
         <p>RappiPay</p> 
-        <img src="/img/faq/logoimg/rappipay.png" width="30px" height="27px" alt="Bitcoint vásárolj RappiPay-jel, Bitcoint adj el RappiPay-jel">
+        <img src="/img/faq/logoimg/rappipay.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: RappiPay, Bitcoin eladása ezzel: RappiPay">
+    </div>
+    <div class="payment-grid-item">
+        <p>Mercado Pago</p> 
+        <img src="/img/faq/logoimg/mercadopago.png" width="30px" height="27px" alt="Bitcoin vásárlása ezzel: Mercado Pago, Bitcoin eladása ezzel: Mercado Pago">
     </div>
 </div>
 
