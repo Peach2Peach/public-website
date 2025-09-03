@@ -4,7 +4,7 @@
 
 O PeachBitcoin é a maneira segura, rápida e fácil de comprar e vender Bitcoin com qualquer método de pagamento, em qualquer lugar do mundo. Priorizamos a sua privacidade e segurança, oferecendo uma ampla gama de opções de pagamento para atender às suas necessidades. Aqui estão todos os nossos métodos de pagamento que oferecemos para República Tcheca (CZK).
 
-## CZK Payment Methods
+## Métodos de Pagamento CZK
 
 ### Transferência bancária
 
