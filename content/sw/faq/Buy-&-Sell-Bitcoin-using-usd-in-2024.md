@@ -2,9 +2,9 @@
 
 # Nunua & Uza Bitcoin kwa kutumia njia yoyote ya malipo 2025 na PeachBitcoin
 
-PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa kutumia njia yoyote ya malipo, popote duniani. Tunatanguliza faragha na usalama wako, tukitoa chaguo nyingi za malipo zinazokidhi mahitaji yako. Hapa kuna njia zote za malipo tunazotoa kwa New Zeland Dollar (NZD).
+PeachBitcoin ni njia salama, ya haraka na rahisi ya kununua na kuuza Bitcoin kwa kutumia njia yoyote ya malipo, popote duniani. Tunatanguliza faragha na usalama wako, tukitoa chaguo nyingi za malipo zinazokidhi mahitaji yako. Hapa kuna njia zote za malipo tunazotoa kwa US Dollar (USD).
 
-## NZD Payment Methods
+## USD Payment Methods
 
 ### Pochi za mtandaoni
 

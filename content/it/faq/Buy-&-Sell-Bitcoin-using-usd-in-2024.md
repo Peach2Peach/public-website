@@ -2,9 +2,9 @@
 
 # Compra e Vendi Bitcoin con qualsiasi metodo di pagamento 2025 con PeachBitcoin
 
-PeachBitcoin è il modo sicuro, veloce e semplice per comprare e vendere Bitcoin con qualsiasi metodo di pagamento, ovunque nel mondo. Diamo priorità alla tua privacy e sicurezza, offrendo un’ampia gamma di opzioni di pagamento per soddisfare le tue esigenze. Ecco tutti i nostri metodi di pagamento che offriamo per New Zeland Dollar (NZD).
+PeachBitcoin è il modo sicuro, veloce e semplice per comprare e vendere Bitcoin con qualsiasi metodo di pagamento, ovunque nel mondo. Diamo priorità alla tua privacy e sicurezza, offrendo un’ampia gamma di opzioni di pagamento per soddisfare le tue esigenze. Ecco tutti i nostri metodi di pagamento che offriamo per USD Dollar (USD).
 
-## NZD Payment Methods
+## USD Payment Methods
 
 ### Portafogli online
 

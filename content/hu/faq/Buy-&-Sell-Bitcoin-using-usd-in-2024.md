@@ -2,9 +2,9 @@
 
 # Bitcoin vásárlása és eladása bármely fizetési móddal 2025 a PeachBitcoin segítségével
 
-A PeachBitcoin a biztonságos, gyors és egyszerű módja a Bitcoin vásárlásának és eladásának bármely fizetési móddal, a világ bármely pontján. Előnyben részesítjük a magánéletedet és a biztonságodat, és széles választékot kínálunk a fizetési lehetőségek közül, hogy megfeleljünk az igényeidnek. Íme az összes fizetési módszer, amelyet kínálunk New Zeland Dollar (NZD) esetében.
+A PeachBitcoin a biztonságos, gyors és egyszerű módja a Bitcoin vásárlásának és eladásának bármely fizetési móddal, a világ bármely pontján. Előnyben részesítjük a magánéletedet és a biztonságodat, és széles választékot kínálunk a fizetési lehetőségek közül, hogy megfeleljünk az igényeidnek. Íme az összes fizetési módszer, amelyet kínálunk US Dollar (USD) esetében.
 
-## NZD Payment Methods
+## USD Payment Methods
 
 ### Online pénztárcák
 
