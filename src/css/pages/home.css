@@ -10,6 +10,36 @@
   }
 }
 
+/* Top promo banner */
+.site-banner {
+  display: block;
+  margin-top: 80px;   /* equal to navbar height */
+  padding-top: var(--space-m);
+  padding-bottom: var(--space-m);
+}
+
+.site-banner-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1.25rem rgba(43, 25, 17, 0.08);
+  aspect-ratio: 1050 / 250;
+  object-fit: cover;
+  background: #fff;
+}
+
+/* tighten spacing on small screens */
+@media (--up_to_M) {
+  .site-banner {
+    padding-top: var(--space-s);
+    padding-bottom: var(--space-s);
+  }
+  .site-banner-img {
+    border-radius: 0.8rem;
+  }
+}
+
 #index {
   background: var(--color-white);
 
