@@ -4,7 +4,7 @@ block append vars
   - const hasTeaser = true
 
 block teaser
-  div.site-banner.wrap(href="/kycfree-orderbook" aria-label="Peach v69 – Symmetry Unlocked")
+  a.site-banner.wrap(href="#download-buttons" aria-label="Peach v69 – Symmetry Unlocked")
     picture
       // If you’ll later add a smaller mobile asset, uncomment and point it here:
       // source(media="(max-width: 739.99px)" srcset="/img/home/peach-v69-banner-mobile.png")
@@ -127,7 +127,7 @@ block main
       span.download-peach-text-subtitle !{i18n('home.downloadPeach.subtitle1', lang)}
       span.download-peach-text-subtitle !{i18n('home.downloadPeach.subtitle2', lang)}
 
-      div.download-peach-button-group
+      div#download-buttons.download-peach-button-group
         div.download-peach-button-group-inner
           a(href="https://testflight.apple.com/join/wfSPFEWG" target="_blank")
             img(src="/img/home/apple-button.svg" alt="Apple Store Button" loading="lazy")

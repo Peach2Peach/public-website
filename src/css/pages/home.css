@@ -10,6 +10,8 @@
   }
 }
 
+#download-buttons { scroll-margin-top: 80px; }
+
 /* Top promo banner */
 .site-banner {
   display: block;
