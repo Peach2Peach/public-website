@@ -4,7 +4,13 @@ template: text
 
 # Terms & Conditions
 
-These Service Terms were last updated on **Feb 3rd, 2025**
+These Service Terms were last updated on **Sep 22nd, 2025**
+
+## Legal Highlights
+
+-   Peach Bitcoin is a non-custodial peer-to-peer marketplace operated by Peach SARL, a regulated Swiss company under AMLA/FINMA.
+-   The app is not available in the United States, China, or OFAC/EU-sanctioned regions. Access is restricted via App Store settings, IP blocking, and mandatory in-app disclaimers.
+-   Peach does not use any third-party exchange APIs; all services are operated directly by Peach SARL.  
 
 ## 1. Introduction
 
