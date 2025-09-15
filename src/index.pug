@@ -44,7 +44,7 @@ block teaser
                 span !{i18n('home.teaser.orderBookTitle', lang)}
               span.new-teaser-price 0
 
-            a.order-book-button(href="/kycfree-orderbook")
+            a.order-book-button(href=getUrl(`/kycfree-orderbook/`, lang))
               img(src="/img/home/show_chart.svg" alt="Show Chart Button")
               span.order-book-button-text !{i18n('home.teaser.viewOrderBook', lang)}
 
@@ -74,7 +74,7 @@ block teaser
             span !{i18n('home.teaser.orderBookTitle', lang)}
           span.new-teaser-price 0
 
-          a.order-book-button(href="/kycfree-orderbook")
+          a.order-book-button(href=getUrl(`/kycfree-orderbook/`, lang))
             img(src="/img/home/show_chart.svg" alt="Show Chart Button")
             span.order-book-button-text !{i18n('home.teaser.viewOrderBook', lang)}
 
