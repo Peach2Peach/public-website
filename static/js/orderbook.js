@@ -9,6 +9,12 @@ const state = {
 
 let methodOfPayment = {}; // currency => [methodIds...]
 
+// ---- Helper: safely coerce sats to an integer (handles strings like "1.234,56" or "1,234.56") ----
+function parseSatsInteger(x) {
+  const digits = String(x ?? '').replace(/[^\d]/g, ''); // keep only 0–9
+  return digits ? parseInt(digits, 10) : 0;
+}
+
 // Bootstrapping
 document.addEventListener('DOMContentLoaded', async () => {
   const el = getDOMElements();
@@ -192,8 +198,8 @@ function populateOrderbookTable(offers, container) {
       method: offer.method,
       // price with 2 decimals
       price: offer.price.toLocaleString('fr-FR', { minimumFractionDigits: 2, maximumFractionDigits: 2 }),
-      // sats amount with NO decimals (same pattern used in the original sell table)
-      amount: offer.amount.toLocaleString('fr-FR'),
+      // sats amount as integer (we format with 0 fraction digits below)
+      amount: offer.amount,
       rating: offer.rating
     };
 
@@ -207,6 +213,8 @@ function populateOrderbookTable(offers, container) {
       if (key === 'rating') {
         const div = renderRating(value); // star rating visuals
         aTag.appendChild(div);
+      } else if (key === 'amount') {
+        aTag.textContent = Number(value).toLocaleString('fr-FR', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
       } else {
         aTag.textContent = String(value);
       }
@@ -361,7 +369,8 @@ function formatOfferData(side, { offers, total }, basePrice) {
         method: method.startsWith('cash.') ? 'Cash' : method,
         // numeric price; we format later
         price: basePrice * ((offer.premium ? offer.premium / 100 : 0) + 1) * 1.02,
-        amount: offer.amount, // numeric; we format as locale string in the table
+        // force sats to integer (handles localized strings too)
+        amount: parseSatsInteger(offer.amount),
         rating: ((offer.user.rating + 1) * 2.5),
         peachId: `Peach${offer.user.id.slice(4, 8)}`.toUpperCase()
       }))
