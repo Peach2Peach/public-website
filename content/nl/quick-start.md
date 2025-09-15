@@ -1,128 +1,172 @@
-# Snelle start
+# Snelstart
 
 @[toc]
 
-## Inleiding: Waarom Peach?
+## Intro: Waarom Peach?
 
-Bij een normale uitwisseling koop je rechtstreeks bitcoin van hen. Dat maakt het vaak vrij eenvoudig, maar je moet wel je identiteitsdocumenten uploaden, die kunnen worden gelekt als de uitwisseling wordt gehackt, en dat is over het algemeen slecht voor de privacy.
+Op een normale beurs koop je bitcoin rechtstreeks van hen. Dat is vaak eenvoudig, maar je moet je identiteitsdocumenten uploaden, die kunnen uitlekken als de beurs wordt gehackt — slecht voor je privacy.
 
-Aan de andere kant zijn er peer-to-peer-uitwisselingen. Hier kun je van andere mensen kopen, wat op veel manieren beter is voor je privacy. Maar, ze kunnen behoorlijk ingewikkeld zijn om te gebruiken... tot nu toe!
+Daartegenover staan peer-to-peer-marktplaatsen. Daar koop je van andere mensen, wat je privacy op veel manieren ten goede komt. Maar ze kunnen lastig zijn om te gebruiken… tot nu!
 
-Peach is **eenvoudig** te gebruiken, het is **privé**, heeft **meer betaalmethoden** en je koopt _**echte**_ **bitcoin**, geen uitwisselingsbiljet waarvan ze misschien wel of niet uitbetalen. Zo werkt het:
+Peach is **makkelijk** te gebruiken, **privacyvriendelijker**, heeft **meer betaalmethoden** en je koopt _**echte**_ **bitcoin**, geen beurs-IOU die misschien nooit wordt uitbetaald. Zo werkt het:
 
 ## Gids 1: De app instellen
 
-Nadat je de app hebt geïnstalleerd (via de [App Store]($iosUrl$), [Play Store]($androidUrl$) of [APK-download](/apk/)), ben je zo goed als klaar.
-Het enige wat op dit moment van je wordt gevraagd, is een verwijzingscode - als je die hebt.
+Na installatie van de app (via de [App Store]($iosUrl$), [Play Store]($androidUrl$) of [APK-download](/apk/)) of de [Zap Store](https://zapstore.dev/), ben je vrijwel klaar.
+Het enige dat nu eventueel nodig is, is een verwijzingscode — als je die hebt.
 
 :::figures 4
-![Eerst wordt u gevraagd of u wat gegevens met ons wilt delen](/img/faq/quickstart/onboarding/usage-data.png)
+![Eerst vragen we of je bepaalde gebruiksgegevens met ons wilt delen.](/img/faq/quickstart/onboarding/usage-data.png)
 
-![Daarna word je begroet met een korte uitleg in drie stappen over hoe Peach werkt.](/img/faq/quickstart/onboarding/1.png)
+![Daarna krijg je een korte uitleg in drie stappen over hoe Peach werkt.](/img/faq/quickstart/onboarding/1.png)
 
-![Daarna wordt u gevraagd of u een verwijzingscode heeft. Zo niet, maak je geen zorgen 😉](/img/faq/quickstart/onboarding/new.png)
+![Vervolgens vragen we of je een referralcode hebt. Zo niet — geen probleem 😉](/img/faq/quickstart/onboarding/new.png)
 
-![Dat is het! Je bent klaar om te gaan!](/img/faq/quickstart/onboarding/created.png)
+![Dat was het! Je kunt aan de slag!](/img/faq/quickstart/onboarding/created.png)
 :::
 
-Dit snelle installatieproces betekent wel dat **je nog niet bent geback-upt**. Je wordt gevraagd om [een back-up en een wachtwoord aan te maken](/faq/account/#how-should-i-store-my-backup) nadat je je eerste transactie hebt voltooid.
+Door deze snelle setup heb je **nog geen back-up**. Na je eerste trade vragen we je om [een back-up en wachtwoord aan te maken](/faq/account/#how-should-i-store-my-backup).
 
-## Gids 2: Uw eerste koopaanbod
+## Gids 2: Kopen uit bestaande aanbiedingen
 
-Uw eerste koopaanbod plaatsen kan in slechts een paar seconden. U hoeft ons alleen maar te vertellen hoeveel u wilt kopen en hoe u uw verkoper wilt betalen.
+Stap voor stap je eerste aankoop uit bestaande aanbiedingen:
 
-Hier is stap voor stap uw eerste koopaanbod:
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Tik op de groene knop „Kopen” om bestaande verkoopaanbiedingen te bekijken.
 
-:::figures 5
-![U selecteert eerst hoeveel u wilt kopen. Dit is altijd een bereik en u krijgt alle verkoopaanbiedingen te zien die beschikbaar zijn in dat bereik.](/img/faq/quickstart/buy/BuyStep1.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/02-browse.png)
+Blader door de beschikbare verkoopaanbiedingen.
 
-![Vervolgens moet u ons vertellen hoe u wilt betalen. Als u meer wilt weten over betaalmethoden, moet u [deze handleiding lezen](#guide-4-adding-payment-methods). U kunt hier terugkomen als u klaar bent.](/img/faq/quickstart/buy/BuyStep2.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/03-filter.png)
+Je kunt filteren op valuta en betaalmethode.
 
-![Let op dat u zoveel betaalmethoden kunt selecteren als u wilt om uw kansen op een match te vergroten!](/img/faq/quickstart/buy/BuyStep3.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/04-request-trade.png)
+Tik op een aanbod, vraag een trade aan en wacht op acceptatie. Je kunt meerdere aanvragen doen.
 
-![Daarna ziet u een korte samenvatting, waarin u alle geselecteerde betaalmethoden en het bedrag dat u koopt, kunt controleren.](/img/faq/quickstart/buy/BuyStep4.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/05-confirm-payment.png)
+Doe de betaling via je bank-/wallet-app en schuif de „Ik heb betaald”-schakelaar.
 
-![Uw koopaanbod is nu gepubliceerd! Als er verkoopaanbiedingen beschikbaar zijn, worden ze onmiddellijk aan u getoond. Zo niet, dan moet u even wachten.](/img/faq/quickstart/buy/BuyStep5.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/06-wait-payout.png)
+Wacht tot de verkoper de betaling bevestigt en de uitbetaling is verwerkt (max. 24 uur).
 :::
 
-### Een verkoper vinden
+## Gids 3: Kopen door je eigen aanbod te publiceren
 
-Nadat u uw koopaanbod heeft gepubliceerd, krijgt u alle verkoopaanbiedingen te zien die binnen het door u geselecteerde bereik vallen en die ten minste één betaalmethode gemeen hebben:
+Je eerste koopaanbod publiceer je in enkele seconden. Geef aan hoeveel je wilt kopen en hoe je de verkoper betaalt.
 
-![Matchkaart](/img/faq/quickstart/buy/MatchCardExplainer.png)
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Tik op „Koopaanbod maken” om je aanbod te maken.
 
-:::figures 2
-![Wanneer u de valuta en betaalmethode selecteert die u voor deze transactie wilt gebruiken (als u er meer dan één gemeenschappelijk heeft), kunt u het aanbod matchen.](/img/faq/quickstart/buy/BuyStep6.png)
+![](/img/faq/quickstart/069-screenshots/buy-offer/01-create-offer.png)
+Voeg een betaalmethode toe zoals in Gids 6 en stel de details van het aanbod in.
 
-![U krijgt vijf seconden de tijd om te annuleren als u van gedachten verandert. Daarna wordt de verkoper op de hoogte gebracht van hun match, en nu ontmatchen wordt beschouwd als een onaardige zet (uw Peach-score zal eronder lijden)](/img/faq/quickstart/buy/BuyStep7.png)
+![](/img/faq/quickstart/069-screenshots/buy-offer/03-accept-trade-request.png)
+Zodra een verkoper matcht met je aanbod, kun je de trade accepteren.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/04-confirm-trade-request.png)
+Bevestig vervolgens dat je de trade accepteert.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/05-wait-escrow.png)
+Wacht even tot de verkoper de sats in escrow stort.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/06-confirm-payment.png)
+Na bevestiging van de escrow-transactie verschijnen de betaalgegevens. Betaal via je bank/wallet en bevestig in de Peach-app door „Ik heb betaald” te schuiven.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/07-wait-payout.png)
+Wacht nu tot de verkoper ontvangst bevestigt en de vrijgave uit escrow is verwerkt (binnen 24 uur).
 :::
 
-### De transactie uitvoeren
+## Gids 4: Verkopen aan bestaande aanbiedingen
 
-:::figures 2
-![Als de verkoper u terugmatcht, krijgt u een melding en worden hun betalingsgegevens getoond. U moet naar uw betaal-app gaan en daar handmatig de betaling doen. Daarna bevestigt u dat u dat hebt gedaan met de schuifregelaar onderaan, en wacht u op een reactie van de verkoper (u kunt intussen met elkaar praten).](/img/faq/quickstart/buy/BuyStep8.png)
+Stap voor stap je eerste verkoop aan bestaande koopaanbiedingen:
 
-![Zodra de verkoper bevestigt, is de deal gesloten! Het bedrag aan bitcoin wordt naar uw portemonnee gestuurd en u kunt elkaar een beoordeling geven. (Natuurlijk, als alles goed is gegaan.)](/img/faq/quickstart/buy/BuyStep9.png)
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Tik op de oranje knop „Verkopen” om te matchen met bestaande koopaanbiedingen.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/01-browse-offers.png)
+Blader door de beschikbare koopaanbiedingen.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/02-filter-offers.png)
+Je kunt ook filteren op valuta en betaalmethode.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/03-request-trade.png)
+Vraag een trade aan met één of meerdere kopers.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/04-chat-trade.png)
+Chat met de koper of wacht gewoon op acceptatie.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/05-create-escrow.png)
+Als een koper accepteert, vragen we je de te verkopen sats in escrow te storten.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/06-create-escrow.png)
+Stort vanuit je Peach Wallet of een externe wallet.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/07-confirm-payment.png)
+Wanneer je de betaling op je bank/wallet hebt ontvangen, bevestig dit door „Ik heb de betaling ontvangen” te schuiven.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/08-rate-user.png)
+Beoordeel nu de koper.
 :::
 
-## Gids 3: Uw eerste verkoopaanbod
+## Gids 5: Verkopen door je eigen aanbod te publiceren
 
-Uw eerste verkoopaanbod plaatsen kan in slechts een paar minuten. U hoeft ons alleen maar te vertellen hoeveel u wilt verkopen en hoe u wilt dat uw koper u betaalt.
+Je eerste verkoopaanbod maak je in een paar minuten. Geef aan hoeveel je wilt verkopen en hoe de koper jou betaalt.
 
-Hier is stap voor stap uw eerste verkoopaanbod:
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Tik op „Verkoopaanbod maken” om je aanbod te maken.
 
-### Een verkoopaanbod maken
+![](/img/faq/quickstart/069-screenshots/sell-offer/02-set-offer-details.png)
+Voeg betaalgegevens toe zoals in Gids 6 en stel de details in.
 
-:::figures 7
-![Eerst selecteert u hoeveel u wilt verkopen. U kunt elk bedrag selecteren, maar er is een maximum om te voorkomen dat uw aanbod het dagelijkse limiet overschrijdt en niet meer beschikbaar is.](/img/faq/quickstart/sell/SellStep01.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/03-fund-from-peach.png)
+Voorzie het escrow van saldo vanuit je Peach Wallet.
 
-![U selecteert vervolgens of
+![](/img/faq/quickstart/069-screenshots/sell-offer/04-fund-from-external.png)
+Of vanaf een externe wallet.
 
- u de koper een korting wilt aanbieden of een beetje meer dan de marktprijs wilt vragen.](/img/faq/quickstart/sell/SellStep02.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/05-confirm-escrow-tx.png)
+Wacht tot de storting is bevestigd.
 
-![U moet dan aangeven hoe u betaald wilt worden. U kunt hier terugkomen als u klaar bent.](/img/faq/quickstart/sell/SellStep03.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/06-offer-published.png)
+Na bevestiging wordt je aanbod gepubliceerd.
 
-![Let op dat u zoveel betaalmethoden kunt selecteren als u wilt om uw kansen op een match te vergroten!](/img/faq/quickstart/sell/SellStep04.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/07-accept-trade-request.png)
+Als een koper matcht, accepteer het trade-verzoek.
 
-![Daarna ziet u een korte samenvatting, waarin u alle geselecteerde betaalmethoden en het bedrag dat u verkoopt, kunt controleren.](/img/faq/quickstart/sell/SellStep05.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/08-accept-trade-request.png)
+Bevestig de acceptatie of chat met de koper.
 
-![De laatste stap voordat uw verkoopaanbod wordt gepubliceerd, is om het escrow te financieren om de transactie te beveiligen. U stuurt de bitcoin naar dit adres vanuit de portemonnee waarin u het nu heeft staan.](/img/faq/quickstart/sell/SellStep06.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/09-confirm-received-payment.png)
+Wanneer je bevestigt dat je de betaling hebt ontvangen, wordt het escrow vrijgegeven.
 
-![En dat is het! Nadat het bitcoin-netwerk de transactie heeft bevestigd, wordt uw verkoopaanbod gepubliceerd en wacht het op een match.](/img/faq/quickstart/sell/SellStep07.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/10-rate-user.png)
+Beoordeel de koper.
 :::
 
-### Een koper terugmatchen
+## Gids 6: Betaalmethoden toevoegen
 
-Nadat u uw verkoopaanbod heeft gepubliceerd, wordt het aan alle kopers getoond die ten minste één valuta en betaalmethode gemeen hebben, en die het bedrag willen kopen dat u verkoopt. Als iemand uw aanbod matcht, krijgt u een melding en kunt u hen terugmatchen (of wachten op meer matches):
+Wanneer je een koop- of verkoopaanbod maakt in Peach, laat je je tegenpartij weten hoe je betaalt of betaald wilt worden.
 
-![Matchkaart](/img/faq/quickstart/sell/MatchCardExplainer.png)
+:::quickstarts 7
+![](/img/faq/quickstart/add-payment-method/AddPM01.png)
+Kies eerst een categorie: op afstand (bijv. bankoverschrijving, PayPal) of via ontmoeting (contant).
 
-### De transactie uitvoeren
+![](/img/faq/quickstart/add-payment-method/AddPM02.png)
+Selecteer vervolgens de valuta voor deze betaalmethode.
 
-:::figures 3
-![Nadat u een match heeft geselecteerd, is de transactie officieel gemaakt. U ziet van waar de koper de betaling zal doen en voor hoeveel. U kunt ook chatten met uw koper als u vragen heeft.](/img/faq/quickstart/sell/SellStep08.png)
+![](/img/faq/quickstart/add-payment-method/AddPM03.png)
+Je ziet de categorieën betaalmethoden die voor die valuta beschikbaar zijn. In dit voorbeeld kiezen we een online wallet.
 
-![Zodra de koper heeft betaald, moet u de relevante betaalrekening controleren om te zien of u het heeft ontvangen. Als dat zo is, kunt u het hier bevestigen. Nadat u hebt bevestigd dat u de betaling hebt ontvangen, wordt de bitcoin naar de koper gestuurd.](/img/faq/quickstart/sell/SellStep09.png)
+![](/img/faq/quickstart/add-payment-method/AddPM04.png)
+Er opent een paneel waarin je de online wallet kunt kiezen. Laten we PayPal selecteren.
 
-![En dat is het! Het bedrag aan bitcoin wordt naar de koper gestuurd en u kunt elkaar een beoordeling geven. (Natuurlijk, als alles goed is gegaan.)](/img/faq/quickstart/sell/SellStep10.png)
-:::
+![](/img/faq/quickstart/add-payment-method/AddPM05.png)
+Vul hier je gegevens in. Je kunt ook aangeven of je wallet extra valuta’s kan ontvangen.
 
-## Gids 4: Betaalmethoden toevoegen
-
-Wanneer u een koop- of verkoopaanbod doet in Peach, moet u uw tegenpartij laten weten hoe u wilt betalen of betaald wilt worden.
-
-:::figures 7
-![Eerst kunt u kiezen tussen twee categorieën: **op afstand** (bijv. bankoverschrijving, PayPal) of op een **ontmoeting** (met contant geld).](/img/faq/quickstart/add-payment-method/AddPM01.png)
-
-![U selecteert vervolgens welke valuta u wilt gebruiken voor deze betaalmethode.](/img/faq/quickstart/add-payment-method/AddPM02.png)
-
-![U ziet dan de categorieën betaalmethoden die beschikbaar zijn voor deze valuta. We gaan hier voor een online portemonnee als voorbeeld.](/img/faq/quickstart/add-payment-method/AddPM03.png)
-
-![Er wordt een lade geopend waarin u kunt selecteren welke online portemonnee u wilt toevoegen. Laten we PayPal selecteren.](/img/faq/quickstart/add-payment-method/AddPM04.png)
-
-![Het enige wat u hier hoeft te doen is uw gegevens invullen. U kunt ook aangeven of uw portemonnee extra valuta kan ontvangen.](/img/faq/quickstart/add-payment-method/AddPM05.png)
-
-![Als u klaar bent, drukt u op bevestigen, en...](/img/faq/quickstart/add-payment-method/AddPM06.png)
-
-![voilà! U heeft uw eerste betaalmethode toegevoegd. Voeg er zoveel toe als u wilt om uw kansen op een match te vergroten.](/img/faq/quickstart/add-payment-method/AddPM07.png)
+![](/img/faq/quickstart/add-payment-method/AddPM06.png)
+Klaar? Tik dan op „Bevestigen” en …
 :::

@@ -1,124 +1,172 @@
-# Guida Rapida
+# Guida rapida
 
 @[toc]
 
 ## Introduzione: Perché Peach?
 
-Su un normale exchange, acquisti bitcoin direttamente da loro delegandogli anche la custodia dei tuoi fondi. Questo rende le cose abbastanza semplici, ma devi caricare i tuoi documenti di identità, che potrebbero essere divulgati in caso di violazione dell'exchange, e in generale è dannoso per la tua privacy, per la tua sicurezza e per i tuoi fondi.
+Su un exchange tradizionale compri bitcoin direttamente da loro. Spesso è semplice, ma devi caricare i tuoi documenti d’identità, che potrebbero trapelare se l’exchange viene violato — pessimo per la privacy.
 
-D'altra parte, ci sono gli exchange peer to peer. Qui puoi acquistare da altre persone, il che è migliore per la tua privacy in molti modi. Ma questi possono essere piuttosto complicati da usare... almeno fino ad ora!
+Dall’altra parte ci sono gli scambi peer-to-peer (P2P). Qui compri da altre persone, il che è meglio per la privacy in molti modi. Però possono essere complicati da usare… fino ad ora!
 
-Peach è **più facile** da usare, è **più privato**, ha **più metodi di pagamento** e stai acquistando _**bitcoin autentici**_, senza dover temere truffe o raggiri. Ecco come funziona:
+Peach è **facile** da usare, più **riservato**, ha **più metodi di pagamento** e compri _**bitcoin veri**_, non una nota dell’exchange che forse non verrà mai pagata. Ecco come funziona:
 
-## Guida 1: Configurazione dell'app
+## Guida 1: Configurare l’app
 
-Dopo aver installato l'app (tramite l'[App Store]($iosUrl$), il [Play Store]($androidUrl$) o il [download dell' APK](/it/apk/)), praticamente hai già finito.
-L'unica cosa che ti viene richiesta al momento dell'avvio è un codice di affiliazione, se ne hai uno.
+Dopo aver installato l’app (da [App Store]($iosUrl$), [Play Store]($androidUrl$) o [download APK](/apk/)) oppure dal [Zap Store](https://zapstore.dev/), hai praticamente finito.
+L’unica cosa eventualmente richiesta ora è un codice referral — se ne hai uno.
 
 :::figures 4
-![Innanzitutto, ti verrà chiesto se desideri condividere alcuni dati di utilizzo con noi](/img/faq/quickstart/onboarding/usage-data.png)
+![Per prima cosa ti chiediamo se vuoi condividere alcuni dati di utilizzo con noi.](/img/faq/quickstart/onboarding/usage-data.png)
 
-![Successivamente, ti verrà presentato in tre brevi passaggi il funzionamento di Peach](/img/faq/quickstart/onboarding/1.png)
+![Poi trovi una breve spiegazione in tre passaggi su come funziona Peach.](/img/faq/quickstart/onboarding/1.png)
 
-![In seguito, ti verrà chiesto se disponi di un codice di affiliazione. Se non ne hai uno, non preoccuparti 😉](/img/faq/quickstart/onboarding/new.png)
+![Successivamente ti chiediamo se hai un codice referral. Se non ce l’hai — nessun problema 😉](/img/faq/quickstart/onboarding/new.png)
 
-![Ecco fatto! Sei pronto per iniziare!](/img/faq/quickstart/onboarding/created.png)
+![È fatta! Sei pronto/a per iniziare!](/img/faq/quickstart/onboarding/created.png)
 :::
 
-Questo rapido processo di configurazione significa che **non hai ancora effettuato un backup**. Ti verrà chiesto di [creare un backup e una password](/it/faq/account/#come-dovrei-conservare-il-mio-backup) dopo aver completato il tuo primo scambio.
+Questa configurazione rapida significa che **non hai ancora un backup**. Ti chiederemo di [creare un backup e una password](/faq/account/#how-should-i-store-my-backup) dopo aver completato il primo trade.
 
-## Guida 2: La tua prima offerta di acquisto
+## Guida 2: Acquistare da offerte esistenti
 
-Piazzare la tua prima offerta di acquisto richiede solo pochi secondi. Dovrai solo scegliere l'importo che vuoi comprare e come desideri pagare il venditore.
+Ecco passo per passo il tuo primo acquisto da offerte esistenti:
 
-Ecco un esempio passo dopo passo per la tua prima offerta di acquisto:
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Tocca il pulsante verde «Compra» per sfogliare le offerte di vendita esistenti.
 
-:::figures 5
-![Inizialmente dovrai selezionare quanto vuoi acquistare. Questo è sempre un intervallo e ti verranno mostrate tutte le offerte di vendita disponibili in quell'intervallo.](/img/faq/quickstart/buy/BuyStep1.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/02-browse.png)
+Esplora le offerte di vendita disponibili.
 
-![Dovrai poi dirci come desideri pagare. Se desideri saperne di più sui metodi di pagamento, puoi [leggere guida 4](#guida-4-aggiunta-metodi-di-pagamento). Alla fine, puoi tornare qui.](/img/faq/quickstart/buy/BuyStep2.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/03-filter.png)
+Puoi filtrare per valuta e metodo di pagamento.
 
-![Nota che puoi selezionare quanti metodi di pagamento desideri, per aumentare le tue possibilità di ottenere un match!](/img/faq/quickstart/buy/BuyStep3.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/04-request-trade.png)
+Tocca un’offerta, richiedi il trade e attendi l’accettazione. Puoi richiedere più offerte.
 
-![Successivamente, vedrai un breve riepilogo in cui potrai controllare tutti i metodi di pagamento selezionati e l'importo che stai comprando.](/img/faq/quickstart/buy/BuyStep4.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/05-confirm-payment.png)
+Invia il pagamento dalla tua app bancaria/wallet e scorri il cursore «Ho effettuato il pagamento».
 
-![La tua offerta di acquisto ora è stata pubblicata! Se ci sono offerte di vendita disponibili, te le mostreremo immediatamente. Se non ci sono, dovrai aspettare un po'.](/img/faq/quickstart/buy/BuyStep5.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/06-wait-payout.png)
+Attendi che il venditore confermi il pagamento e che venga elaborata la liquidazione (fino a 24 ore).
 :::
 
-### Trovare un venditore
+## Guida 3: Acquistare pubblicando la tua offerta
 
-Dopo aver pubblicato la tua offerta di acquisto, ti verranno mostrate tutte le offerte di vendita che rientrano nell'intervallo che hai selezionato e che hanno almeno un metodo di pagamento in comune:
+Pubblicare la tua prima offerta di acquisto richiede pochi secondi. Indica solo quanto vuoi comprare e come pagherai il venditore.
 
-![Schermata Match](/img/faq/quickstart/buy/MatchCardExplainer.png)
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Tocca «Crea offerta di acquisto» per creare la tua offerta.
 
-:::figures 2
-![Quando hai selezionato la valuta e il metodo di pagamento che desideri utilizzare per questo scambio (se ne hai più di uno in comune), puoi confermare il match dell'offerta.](/img/faq/quickstart/buy/BuyStep6.png)
+![](/img/faq/quickstart/069-screenshots/buy-offer/01-create-offer.png)
+Aggiungi un metodo di pagamento come descritto nella Guida 6 e imposta i dettagli dell’offerta.
 
-![Avrai cinque secondi per annullare se cambi idea. Dopo di che, il venditore sarà informato del match, e annullare da questo momento viene considerato un comportamento scorretto (la tua reputazione su Peach ne risentirà)](/img/faq/quickstart/buy/BuyStep7.png)
+![](/img/faq/quickstart/069-screenshots/buy-offer/03-accept-trade-request.png)
+Quando un venditore abbina la tua offerta, puoi accettare il trade.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/04-confirm-trade-request.png)
+E conferma di accettare il trade.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/05-wait-escrow.png)
+A questo punto attendi che il venditore depositi i sats in escrow.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/06-confirm-payment.png)
+Quando la transazione di escrow è confermata, ti mostriamo i dettagli di pagamento. Effettua il pagamento dalla banca/wallet e confermalo in Peach scorrendo «Ho effettuato il pagamento».
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/07-wait-payout.png)
+Ora attendi che il venditore confermi l’incasso e che venga processata la liberazione dell’escrow (entro 24 ore).
 :::
 
-### Effettuare lo scambio
+## Guida 4: Vendere a offerte esistenti
 
-![Se il venditore ti risponde, riceverai una notifica e ti verranno mostrati i dettagli di pagamento. Dovrai andare nella tua app di pagamento e effettuare manualmente il pagamento. Successivamente, conferma di averlo fatto utilizzando lo slider in basso e attendi la risposta del venditore (nel frattempo potete chattare).](/img/faq/quickstart/buy/BuyStep8.png)
+Ecco il passo-passo della tua prima vendita verso offerte di acquisto esistenti:
 
-![Una volta che il venditore conferma, l'operazione è conclusa! La quantità di bitcoin verrà inviata al tuo wallet e potrete darvi un punteggio reciproco. (Assumendo che tutto sia andato bene, ovviamente.)](/img/faq/quickstart/buy/BuyStep9.png)
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Tocca il pulsante arancione «Vendi» per abbinarti alle offerte di acquisto esistenti.
 
-## Guida 3: La tua prima offerta di vendita
+![](/img/faq/quickstart/069-screenshots/sell-accept/01-browse-offers.png)
+Sfoglia le offerte di acquisto disponibili.
 
-Piazzare la tua prima offerta di vendita richiede pochi minuti. Dovrai solo scegliere l'importo che vuoi vendere e come vuoi essere pagato dal compratore.
+![](/img/faq/quickstart/069-screenshots/sell-accept/02-filter-offers.png)
+Puoi filtrare anche per valuta e metodo di pagamento.
 
-Ecco un esempio passo dopo passo per la tua prima offerta di vendita:
+![](/img/faq/quickstart/069-screenshots/sell-accept/03-request-trade.png)
+Richiedi un trade con uno o più acquirenti.
 
-### Creazione di un'offerta di vendita
+![](/img/faq/quickstart/069-screenshots/sell-accept/04-chat-trade.png)
+Puoi chattare con l’acquirente o semplicemente attendere l’accettazione.
 
-:::figures 7
-![Innanzitutto, seleziona quanto vuoi vendere. Puoi selezionare qualsiasi importo, ma c'è un limite massimo per evitare che la tua offerta superi il limite giornaliero e diventi indisponibile.](/img/faq/quickstart/sell/SellStep01.png)
+![](/img/faq/quickstart/069-screenshots/sell-accept/05-create-escrow.png)
+Quando un acquirente accetta, ti chiediamo di depositare in escrow i sats da vendere.
 
-![Successivamente, seleziona se vuoi offrire al compratore uno sconto o se chiedere un premio sul prezzo a mercato di bitcoin.](/img/faq/quickstart/sell/SellStep02.png)
+![](/img/faq/quickstart/069-screenshots/sell-accept/06-create-escrow.png)
+Puoi depositare dal Peach Wallet o da un wallet esterno.
 
-![Dovrai quindi specificare come vuoi essere pagato. Alla fine, puoi tornare qui.](/img/faq/quickstart/sell/SellStep03.png)
+![](/img/faq/quickstart/069-screenshots/sell-accept/07-confirm-payment.png)
+Quando ricevi il pagamento sul tuo conto/wallet, confermalo scorrendo «Ho ricevuto il pagamento».
 
-![Nota che puoi selezionare quante modalità di pagamento desideri, per aumentare le possibilità di trovare un match!](/img/faq/quickstart/sell/SellStep04.png)
-
-![Successivamente, vedrai un breve riepilogo, in cui puoi verificare tutte le modalità di pagamento che hai selezionato e l'importo che stai vendendo.](/img/faq/quickstart/sell/SellStep05.png)
-
-![L'ultimo passo prima che la tua offerta di vendita venga pubblicata è finanziare il deposito per garantire lo scambio. Dovrai inviare i bitcoin a questo indirizzo dal wallet in cui li hai attualmente.](/img/faq/quickstart/sell/SellStep06.png)
-
-![Ecco fatto! Dopo che la rete Bitcoin ha confermato la transazione, la tua offerta di vendita sarà pubblicata e in attesa di un match.](/img/faq/quickstart/sell/SellStep07.png)
+![](/img/faq/quickstart/069-screenshots/sell-accept/08-rate-user.png)
+Ora puoi valutare l’acquirente.
 :::
 
-### Match con un compratore
+## Guida 5: Vendere pubblicando la tua offerta
 
-Dopo aver pubblicato la tua offerta di vendita, verrà mostrata a tutti i compratori che hanno almeno una valuta e un metodo di pagamento in comune e che desiderano comprare l'importo che stai vendendo. Se qualcuno fa match alla tua offerta, riceverai una notifica e potrai fare match con loro (o attendere altri match):
+La tua prima offerta di vendita si crea in pochi minuti. Indica quanto vuoi vendere e come vuoi essere pagato.
 
-![Schermata Match](/img/faq/quickstart/sell/MatchCardExplainer.png)
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Tocca «Crea offerta di vendita» per creare la tua offerta.
 
-### Effettuare lo scambio
+![](/img/faq/quickstart/069-screenshots/sell-offer/02-set-offer-details.png)
+Aggiungi i dati di pagamento come descritto nella Guida 6 e imposta i dettagli.
 
-:::figures 3
-![Dopo aver accettato un match, lo scambio è ufficialmente iniziato. Potrai vedere come il compratore effettuerà il pagamento e di quanto sarà l'importo. Potrai anche chattare con il compratore se hai domande.](/img/faq/quickstart/sell/SellStep08.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/03-fund-from-peach.png)
+Finanzia l’escrow dal tuo Peach Wallet.
 
-![Una volta che il compratore ha effettuato il pagamento, dovrai verificare sul metodo di pagamento pertinente per vedere se lo hai ricevuto. Se si, puoi confermarlo da qui. Una volta confermato il pagamento ricevuto, i bitcoin saranno inviati al compratore.](/img/faq/quickstart/sell/SellStep09.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/04-fund-from-external.png)
+Oppure finanzialo da un wallet esterno.
 
-![Ecco fatto! L'importo dei bitcoin sarà inviato al compratore e potrete darvi un punteggio reciproco. (Assumendo che tutto sia andato bene, ovviamente.)](/img/faq/quickstart/sell/SellStep10.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/05-confirm-escrow-tx.png)
+Attendi la conferma del deposito.
+
+![](/img/faq/quickstart/069-screenshots/sell-offer/06-offer-published.png)
+Una volta confermato, la tua offerta viene pubblicata.
+
+![](/img/faq/quickstart/069-screenshots/sell-offer/07-accept-trade-request.png)
+Quando un acquirente abbina la tua offerta, accetta la richiesta di trade.
+
+![](/img/faq/quickstart/069-screenshots/sell-offer/08-accept-trade-request.png)
+Conferma l’accettazione o chatta con l’acquirente.
+
+![](/img/faq/quickstart/069-screenshots/sell-offer/09-confirm-received-payment.png)
+Quando confermi di aver ricevuto il pagamento, l’escrow viene rilasciato.
+
+![](/img/faq/quickstart/069-screenshots/sell-offer/10-rate-user.png)
+Valuta l’acquirente.
 :::
 
-## Guida 4: Aggiunta metodi di pagamento
+## Guida 6: Aggiungere metodi di pagamento
 
-Quando effettui un'offerta di acquisto o vendita su Peach, dovrai informare la controparte su come pagherai o desideri essere pagato.
+Quando crei un’offerta di acquisto o vendita su Peach, devi indicare alla controparte come pagherai o come vuoi essere pagato.
 
-:::figures 7
-![Innanzitutto, puoi scegliere tra due categorie: **a distanza** (ad esempio, bonifico bancario, PayPal) o in un **meetup** (con contanti).](/img/faq/quickstart/add-payment-method/AddPM01.png)
+:::quickstarts 7
+![](/img/faq/quickstart/add-payment-method/AddPM01.png)
+Per prima cosa scegli tra due categorie: a distanza (es. bonifico, PayPal) o incontro di persona (contanti).
 
-![Successivamente, seleziona la valuta che desideri utilizzare per questo metodo di pagamento.](/img/faq/quickstart/add-payment-method/AddPM02.png)
+![](/img/faq/quickstart/add-payment-method/AddPM02.png)
+Poi seleziona la valuta da usare per questo metodo.
 
-![Vedrai quindi le categorie di metodi di pagamento disponibili per questa valuta. In questo esempio, sceglieremo un conto online.](/img/faq/quickstart/add-payment-method/AddPM03.png)
+![](/img/faq/quickstart/add-payment-method/AddPM03.png)
+Vedrai le categorie di metodi disponibili per quella valuta. In questo esempio scegliamo un wallet online.
 
-![Si aprirà una finestra in cui puoi selezionare quale conto online desideri aggiungere. Selezioniamo PayPal.](/img/faq/quickstart/add-payment-method/AddPM04.png)
+![](/img/faq/quickstart/add-payment-method/AddPM04.png)
+Si apre un pannello in cui selezionare il wallet online da aggiungere. Scegliamo PayPal.
 
-![Qui devi solo compilare i tuoi dati. Puoi indicare anche se il tuo conto può ricevere ulteriori valute.](/img/faq/quickstart/add-payment-method/AddPM05.png)
+![](/img/faq/quickstart/add-payment-method/AddPM05.png)
+Inserisci i tuoi dati. Puoi indicare se il wallet riceve anche altre valute.
 
-![Una volta fatto, premi conferma e...](/img/faq/quickstart/add-payment-method/AddPM06.png)
-
-![Ecco fatto! Hai aggiunto il tuo primo metodo di pagamento. Aggiungi e seleziona quanti ne desideri per aumentare le possibilità di trovare un match.](/img/faq/quickstart/add-payment-method/AddPM07.png)
+![](/img/faq/quickstart/add-payment-method/AddPM06.png)
+Quando hai finito, premi «Conferma» e …
 :::

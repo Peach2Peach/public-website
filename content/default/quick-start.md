@@ -112,9 +112,6 @@ Once you have received the payment in your bank/wallet, confirm it by slifing th
 You can now rate the buyer
 :::
 
-
-
-
 ## Guide 5: Sell publishing your offer
 
 Placing your first sell offer can be done in just a few minutes. You'll just need to tell us how much you want to sell, and how you want your buyer to pay you.

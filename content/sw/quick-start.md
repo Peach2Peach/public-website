@@ -1,126 +1,172 @@
-# Mwanzo wa Haraka
+# Mwongozo wa Haraka
 
 @[toc]
 
-## Utangulizi: Kwa Nini Peach?
+## Utangulizi: Kwa nini Peach?
 
-Kwenye kubadilishana kawaida, unanunua bitcoin kutoka kwao moja kwa moja. Hii mara nyingi inafanya iwe rahisi, lakini unahitaji kupakia nyaraka za kitambulisho chako, ambazo zinaweza kuvuja wakati ubadilishaji unapoingiliwa, na kwa ujumla sio nzuri kwa faragha.
+Kwenye soko la kawaida (exchange) unanunua bitcoin moja kwa moja kutoka kwao. Mara nyingi ni rahisi, lakini lazima upakie hati zako za utambulisho ambazo zinaweza kuvuja endapo soko litadukuliwa — si vizuri kwa faragha yako.
 
-Kwa upande mwingine, kuna ubadilishaji kati ya watu. Hapa unaweza kununua kutoka kwa watu wengine, ambayo ni bora kwa faragha yako kwa njia nyingi. Lakini wanaweza kuwa ngumu kutumia... mpaka sasa!
+Upande mwingine kuna masoko ya mtu-kwa-mtu (P2P). Hapa unanunua kutoka kwa watu wengine, jambo linalolinda faragha yako kwa njia nyingi. Hata hivyo, yanaweza kuwa magumu kutumia… mpaka sasa!
 
-Peach ni **rahisisha** kutumia, ni zaidi **ya faragha** , ina **njia zaidi za malipo** , na unanunua _**bitcoin halisi**_ , sio baadhi ya ubadilishaji ambao wanaweza au wasipate. Hivi ndivyo inavyofanya kazi:
+Peach ni **rahisi** kutumia, lina **faragha** zaidi, lina **njia nyingi za malipo**, na unanunua _**bitcoin halisi**_, si ahadi ya soko ambayo huenda isilipwe. Hivi ndivyo inavyofanya kazi:
 
-## Mwongozo 1: Kuweka Programu
+## Mwongozo 1: Kuseti app
 
-Baada ya kusakinisha programu (kupitia [Duka la Programu]($iosUrl$), [Duka la Kucheza]($androidUrl$) au [Pakua APK](/apk/)), tayari umemaliza karibu.
-Kitu pekee kinachohitajika kutoka kwako kwa sasa ni nambari ya rufaa - ikiwa una moja.
+Baada ya kusakinisha app (kupitia [App Store]($iosUrl$), [Play Store]($androidUrl$) au [kupakua APK](/apk/)) au [Zap Store](https://zapstore.dev/), umemaliza karibu kila kitu.
+Kinachoweza kuhitajika sasa ni msimbo wa rufaa — kama unayo.
 
 :::figures 4
-![Kwanza utaulizwa ikiwa unataka kushiriki data nasi](/img/faq/quickstart/onboarding/usage-data.png)
+![Kwanza utaulizwa kama ungependa kushiriki baadhi ya data ya matumizi nasi.](/img/faq/quickstart/onboarding/usage-data.png)
 
-![Kisha utakutana na maelezo mafupi ya hatua tatu juu ya jinsi Peach inavyofanya kazi.](/img/faq/quickstart/onboarding/1.png)
+![Kisha utaona maelezo mafupi ya hatua tatu kuhusu jinsi Peach inavyofanya kazi.](/img/faq/quickstart/onboarding/1.png)
 
-![Baada ya hayo, utaulizwa ikiwa una nambari ya rufaa. Ikiwa huna - usijali 😉](/img/faq/quickstart/onboarding/new.png)
+![Baadaye utaulizwa kama una msimbo wa rufaa. Kama hauna — usijali 😉](/img/faq/quickstart/onboarding/new.png)
 
-![Hiyo ndiyo! Umeenda!](/img/faq/quickstart/onboarding/created.png)
+![Basi! Uko tayari kuanza!](/img/faq/quickstart/onboarding/created.png)
 :::
 
-Hii inamaanisha kuwa mchakato huu wa haraka **bado haujathibitishwa**. Utaulizwa [kuunda nakala rudufu na nywila](/faq/account/#how-should-i-store-my-backup) baada ya kumaliza biashara yako ya kwanza.
+Mchakato huu wa haraka unamaanisha **bado hujaweka chelezo**. Baada ya kukamilisha biashara yako ya kwanza, utaombwa [kutengeneza chelezo na nenosiri](/faq/account/#how-should-i-store-my-backup).
 
-## Mwongozo 2: Kutoa Ununuzi Wako wa Kwanza
+## Mwongozo 2: Kununua kutoka kwa ofa zilizopo
 
-Kuweka ununuzi wako wa kwanza unaweza kufanywa kwa sekunde chache tu. Itabidi utuambie tu ni kiasi gani unataka kununua, na jinsi unavyotaka kumlipa muuzaji wako.
+Hatua kwa hatua kwa ununuzi wako wa kwanza kutoka kwa ofa zilizopo:
 
-Hapa kuna hatua kwa hatua ya ununuzi wako wa kwanza:
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Gusa kitufe cha kijani «Nunua» ili kuangalia ofa za uuzaji zilizopo.
 
-:::figures 5
-![Kwanza utachagua ni kiasi gani unataka kununua. Mara zote ni kipimo, na utaonyeshwa matoleo ya kuuza yaliyopo katika kipimo hicho.](/img/faq/quickstart/buy/BuyStep1.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/02-browse.png)
+Vinjari ofa za uuzaji.
 
-![Kisha utahitaji kutuambia jinsi unavyotaka kulipa. Ikiwa unataka kujua zaidi juu ya njia za malipo, unapaswa [soma mwongozo huu](#mwongozo-4-kuongeza-njia-za-malipo). Mwishowe, unaweza kurudi hapa.](/img/faq/quickstart/buy/BuyStep2.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/03-filter.png)
+Unaweza kuchuja kwa sarafu na mbinu ya malipo.
 
-![Kumbuka unaweza kuchagua njia za malipo kadhaa unazotaka, kuongeza nafasi yako ya kupata mechi!](/img/faq/quickstart/buy/BuyStep3.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/04-request-trade.png)
+Chagua ofa, omba biashara na subiri ikubaliwe. Unaweza kuomba ofa nyingi.
 
-![Baada ya hapo, utaona muhtasari mfupi, ambapo unaweza kuangalia njia zote za malipo ulizochagua na ni kiasi gani unanunua.](/img/faq/quickstart/buy/BuyStep4.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/05-confirm-payment.png)
+Fanya malipo kupitia benki/pochi yako na usukume kitelezi «Nimefanya malipo».
 
-![Ununuzi wako sasa umetangazwa! Ikiwa kuna ofa za kuuza zinapatikana, utaonyeshwa mara moja. Ikiwa hakuna, utahitaji kusubiri kidogo.](/img/faq/quickstart/buy/BuyStep5.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/06-wait-payout.png)
+Subiri muuzaji athibitishe malipo na utoaji ushughulikiwe (hadi saa 24).
 :::
 
-### Kupata Mfungaji
+## Mwongozo 3: Kununua kwa kuchapisha ofa yako
 
-Baada ya kuchapisha ununuzi wako, utaonyeshwa ofa zote za kuuza zilizo ndani ya kipimo ulichochagua, na inayo njia moja au zaidi ya malipo inayofanana:
+Kuweka ofa yako ya kwanza ya kununua huchukua sekunde chache. Tuambie kiasi unachotaka kununua na jinsi utakavyomlipa muuzaji.
 
-![Kadi ya Mechi](/img/faq/quickstart/buy/MatchCardExplainer.png)
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Gusa «Unda ofa ya kununua» ili kuunda ofa yako.
 
-:::figures 2
-![Ukiwa umeteua sarafu na njia ya malipo unayotaka kutumia kwa biashara hii (ikiwa una zaidi ya moja inayofanana), unaweza kufanana na ofa.](/img/faq/quickstart/buy/BuyStep6.png)
+![](/img/faq/quickstart/069-screenshots/buy-offer/01-create-offer.png)
+Ongeza mbinu ya malipo kama ilivyoelezwa kwenye Mwongozo 6 na weka maelezo ya ofa.
 
-![Utapata sekunde tano kuondoa ikiwa utabadilisha mawazo yako. Baada ya hapo, muuzaji atapata taarifa ya mechi yake, na kutofautisha sasa kunachukuliwa kama kitendo kisichofaa (Peach Score yako itaathirika)](/img/faq/quickstart/buy/BuyStep7.png)
+![](/img/faq/quickstart/069-screenshots/buy-offer/03-accept-trade-request.png)
+Muuzaji akilingana na ofa yako, unaweza kukubali biashara.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/04-confirm-trade-request.png)
+Kisha thibitisha kwamba unakubali biashara.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/05-wait-escrow.png)
+Subiri kidogo muuzaji aweke sats kwenye escrow.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/06-confirm-payment.png)
+Baada ya muamala wa escrow kuthibitishwa, maelezo ya malipo yanaonekana. Lipa kupitia benki/pochi yako na uthibitishe kwenye app ya Peach kwa kusukuma «Nimefanya malipo».
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/07-wait-payout.png)
+Sasa subiri muuzaji athibitishe upokeaji na kuachiliwa kwa escrow kushughulikiwe (ndani ya saa 24).
 :::
 
-### Kufanya Biashara
+## Mwongozo 4: Kuuza kwa ofa zilizopo
 
-:::figures 2
-![Ikiwa muuzaji anakufanana nawe, utapata taarifa na utaonyeshwa maelezo yake ya malipo. Unapaswa kwenda kwenye programu yako ya malipo na kufanya malipo kwa mkono hapo. Baada ya hapo, unathibitisha kwamba umefanya hivyo na kusubiri muuzaji kujibu (unaweza kuchati wakati huo).](/img/faq/quickstart/buy/BuyStep8.png)
+Hatua kwa hatua kwa uuzaji wako wa kwanza kwa ofa za kununua zilizopo:
 
-![Baada ya muuzaji kuthibitisha, jambo limekamilika! Kiasi cha bitcoin kitatumwa kwa mkoba wako na unaweza kutoana cheo. (Kukadiria kila mmoja ikiwa kila kitu kilikwenda vizuri, bila shaka.)](/img/faq/quickstart/buy/BuyStep9.png)
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Gusa kitufe cha machungwa «Uza» ili kulinganisha na ofa za kununua zilizopo.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/01-browse-offers.png)
+Vinjari ofa za kununua.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/02-filter-offers.png)
+Pia unaweza kuchuja kwa sarafu na mbinu ya malipo.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/03-request-trade.png)
+Omba biashara na mnunuzi mmoja au wengi.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/04-chat-trade.png)
+Unaweza kuzungumza na mnunuzi au usubiri tu ukubalike.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/05-create-escrow.png)
+Mnunuzi akiaprubu, utaombwa uweke sats unazouza kwenye escrow.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/06-create-escrow.png)
+Weka kutoka Peach Wallet au kutoka pochi ya nje.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/07-confirm-payment.png)
+Ukishapokea malipo kwenye benki/pochi yako, thibitisha kwa kusukuma «Nimepokea malipo».
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/08-rate-user.png)
+Sasa mpe mnunuzi alama.
 :::
 
-## Mwongozo 3: Kutoa Ofa Yako ya Kwanza ya Kuuza
+## Mwongozo 5: Kuuza kwa kuchapisha ofa yako
 
-Kuweka ofa yako ya kuuza ya kwanza inaweza kufanywa kwa dakika chache tu. Itabidi utuambie tu ni kiasi gani unataka kuuza, na jinsi unavyotaka mnunuzi wako akulipe.
+OFA yako ya kwanza ya kuuza huundwa ndani ya dakika chache. Eleza kiasi unachouza na jinsi unavyotaka kulipwa.
 
-Hapa kuna hatua kwa hatua ya ofa yako ya kuuza ya kwanza:
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Gusa «Unda ofa ya kuuza» ili kuunda ofa yako.
 
-### Kuunda ofa ya kuuza
+![](/img/faq/quickstart/069-screenshots/sell-offer/02-set-offer-details.png)
+Ongeza maelezo ya malipo kama kwenye Mwongozo 6 na weka maelezo.
 
-:::figures 7
-![Kwanza, utachagua ni kiasi gani unataka kuuza. Unaweza kuchagua kiasi chochote, lakini kuna kiwango cha juu cha kuzuia ofa yako isizidi kikomo cha kila siku na kuwa haipatikani.](/img/faq/quickstart/sell/SellStep01.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/03-fund-from-peach.png)
+Fadhili escrow kutoka kwenye Peach Wallet yako.
 
-![Kisha utachagua ikiwa unataka kutoa mnunuzi punguzo, au kuuliza zaidi ya bei ya soko.](/img/faq/quickstart/sell/SellStep02.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/04-fund-from-external.png)
+Au fadhili kutoka pochi ya nje.
 
-![Kisha utahitaji kusema jinsi unavyotaka kulipwa. Mwishowe, unaweza kurudi hapa.](/img/faq/quickstart/sell/SellStep03.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/05-confirm-escrow-tx.png)
+Subiri uthibitisho wa muamala wa amana.
 
-![Kumbuka unaweza kuchagua njia za malipo kadhaa unazotaka, kuongeza nafasi yako ya kupata mechi!](/img/faq/quickstart/sell/SellStep04.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/06-offer-published.png)
+Baada ya kuthibitishwa, ofa yako inachapishwa.
 
-![Baada ya hapo, utaona muhtasari mfupi, ambapo unaweza kuangalia njia zote za malipo ulizochagua na ni kiasi gani unauza.](/img/faq/quickstart/sell/SellStep05.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/07-accept-trade-request.png)
+Mnunuzi akilingana na ofa yako, kubali ombi la biashara.
 
-![Hatua ya mwisho kabla ya ofa yako ya kuuza haijachapishwa ni kufadhili amana ili kuhakikisha biashara. Utatuma bitcoin kwa anwani hii kutoka kwa mkoba unaonayo sasa.](/img/faq/quickstart/sell/SellStep06.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/08-accept-trade-request.png)
+Thibitisha kukubali au zungumza na mnunuzi.
 
-![Na hiyo ndiyo! Baada ya mtandao wa bitcoin kuthibitisha ununuzi, ofa yako ya kuuza inachapishwa na kusubiri kwa mechi.](/img/faq/quickstart/sell/SellStep07.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/09-confirm-received-payment.png)
+Ukipothibitisha kuwa umepokea malipo, escrow itaachiliwa.
+
+![](/img/faq/quickstart/069-screenshots/sell-offer/10-rate-user.png)
+Mpe mnunuzi tathmini.
 :::
 
-### Kupata Mnunuzi
+## Mwongozo 6: Kuongeza njia za malipo
 
-Baada ya kuchapisha ofa yako ya kuuza, itaonyeshwa kwa wanunuzi wote ambao wana angalau sarafu na njia moja ya malipo inayofanana, na wanataka kununua kiasi unachouza. Ikiwa mtu anafanana na ofa yako, utapokea taarifa, na unaweza kufanana naye (au kusubiri mechi zaidi):
+Unapotengeneza ofa ya kununua au kuuza kwenye Peach, unahitaji kumjulisha mwenzako jinsi utalipa au ungependa kulipwa.
 
-![Kadi ya Mechi](/img/faq/quickstart/sell/MatchCardExplainer.png)
+:::quickstarts 7
+![](/img/faq/quickstart/add-payment-method/AddPM01.png)
+Kwanza chagua kati ya makundi mawili: mbali (mf. uhamisho wa benki, PayPal) au mkutano ana kwa ana (pesa taslimu).
 
-### Kufanya Biashara
+![](/img/faq/quickstart/add-payment-method/AddPM02.png)
+Kisha chagua sarafu ya kutumia kwa njia hiyo ya malipo.
 
-:::figures 3
-![Baada ya kuchagua mechi, biashara imethibitishwa rasmi. Utaweza kuona kutoka wapi mnunuzi atafanya malipo, na kwa kiasi gani. Pia unaweza kuchat na mnunuzi wako ikiwa una maswali yoyote.](/img/faq/quickstart/sell/SellStep08.png)
+![](/img/faq/quickstart/add-payment-method/AddPM03.png)
+Utaona makundi ya njia za malipo zinazopatikana kwa sarafu hiyo. Kwa mfano huu, tuchague pochi ya mtandaoni.
 
-![Baada ya mnunuzi kufanya malipo, unapaswa kuangalia akaunti ya malipo husika kuona ikiwa umepokea. Ikiwa umepokea, unaweza kuthibitisha hapa. Mara baada ya kuthibitisha kuwa umepokea malipo, bitcoin itatumwa kwa mnunuzi.](/img/faq/quickstart/sell/SellStep09.png)
+![](/img/faq/quickstart/add-payment-method/AddPM04.png)
+Dirisha litafunguka ili uchague ni pochi gani ya mtandaoni uongeze. Tuchague PayPal.
 
-![Na hiyo ndiyo! Kiasi cha bitcoin kitatumwa kwa mnunuzi na unaweza kutoana cheo. (Kukadiria kila mmoja ikiwa kila kitu kilikwenda vizuri, bila shaka.)](/img/faq/quickstart/sell/SellStep10.png)
-:::
+![](/img/faq/quickstart/add-payment-method/AddPM05.png)
+Jaza maelezo yako. Unaweza pia kuonyesha kama pochi yako inapokea sarafu nyingine.
 
-## Mwongozo 4: Kuongeza Njia za Malipo
-
-Unapotengeneza ununuzi au ofa ya kuuza kwenye Peach, utahitaji kuwaambia wenzako jinsi utakavyolipa, au unataka kulipwa.
-
-:::figures 7
-![Kwanza, unaweza kuchagua kati ya vikundi viwili: **kutoka mbali** (kwa mfano, uhamisho wa benki, PayPal) au kwa **mkutano** (na pesa taslimu).](/img/faq/quickstart/add-payment-method/AddPM01.png)
-
-![Kisha utachagua sarafu unayotaka kutumia kwa njia hii ya malipo.](/img/faq/quickstart/add-payment-method/AddPM02.png)
-
-![Kisha utaona vikundi vya njia za malipo zinazopatikana kwa sarafu hii. Tutakwenda na mkoba wa mtandaoni kwa mfano huu.](/img/faq/quickstart/add-payment-method/AddPM03.png)
-
-![Drawa itafunguliwa ambapo unaweza kuchagua mkoba wa mtandaoni unayotaka kuongeza. Hebu tuchague PayPal.](/img/faq/quickstart/add-payment-method/AddPM04.png)
-
-![Kila unachohitajika kufanya hapa ni kujaza maelezo yako. Unaweza pia kuelezea ikiwa mkoba wako unaweza kupokea sarafu nyingine yoyote.](/img/faq/quickstart/add-payment-method/AddPM05.png)
-
-![Baada ya kumaliza, bonyeza kuthibitisha, na…](/img/faq/quickstart/add-payment-method/AddPM06.png)
-
-![Presto! Umeongeza njia yako ya malipo ya kwanza. Ongeza na chagua kadri unavyotaka kuongeza nafasi yako ya kupata mechi.](/img/faq/quickstart/add-payment-method/AddPM07.png)
+![](/img/faq/quickstart/add-payment-method/AddPM06.png)
+Ukiwa umemaliza, bonyeza «Thibitisha» na …
 :::

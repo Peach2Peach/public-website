@@ -1,130 +1,172 @@
-# Szybki Start
+# Szybki start
 
 @[toc]
 
-## Wprowadzenie: Dlaczego Peach?
+## Wstęp: Dlaczego Peach?
 
-Na zwykłej giełdzie kupujesz bitcoiny bezpośrednio od niej. To często ułatwia sprawę, ale musisz przesłać swoje dokumenty tożsamości, które mogą zostać wyciekłe, gdy giełda zostanie zhakowana, co generalnie jest złe dla prywatności.
+Na zwykłej giełdzie kupujesz bitcoina bezpośrednio od niej. To bywa proste, ale musisz przesłać dokumenty tożsamości, które mogą wyciec w razie ataku — co szkodzi prywatności.
 
-Z drugiej strony, są giełdy peer-to-peer. Tutaj możesz kupować od innych osób, co w wielu przypadkach jest lepsze dla twojej prywatności. Ale mogą być dość skomplikowane w użyciu… do teraz!
+Z kolei na giełdach peer-to-peer (P2P) kupujesz od innych osób, co jest lepsze dla prywatności na wiele sposobów. Mogą być jednak dość skomplikowane… aż do teraz!
 
-Peach jest **łatwe** w użyciu, jest bardziej **prywatne**, ma **więcej metod płatności** i kupujesz _**prawdziwe**_ **bitcoiny**, a nie jakiś zapis giełdy, który mogą, albo nie mogą wypłacić. Oto jak to działa:
+Peach jest **łatwy** w użyciu, bardziej **prywatny**, ma **więcej metod płatności** i kupujesz _**prawdziwego**_ **bitcoina**, a nie jakiś żeton z giełdy, którego może nikt nie wykupi. Oto jak to działa:
 
-## Przewodnik 1: Konfiguracja aplikacji
+## Poradnik 1: Konfiguracja aplikacji
 
-Po zainstalowaniu aplikacji (przez [App Store]($iosUrl$), [Play Store]($androidUrl$) lub [pobranie APK](/apk/)), jesteś właściwie już gotowy.
-Jedyne, co od ciebie wymagamy w tej chwili, to kod polecający - jeśli go masz.
+Po zainstalowaniu aplikacji (z [App Store]($iosUrl$), [Play Store]($androidUrl$) lub [pobrania APK](/apk/)) albo z [Zap Store](https://zapstore.dev/) masz praktycznie wszystko gotowe.
+Jedyne, co może być potrzebne teraz, to kod polecający — jeśli go masz.
 
 :::figures 4
-![Na początku zostaniesz zapytany, czy chcesz udostępnić nam niektóre dane](/img/faq/quickstart/onboarding/usage-data.png)
+![Najpierw zapytamy, czy chcesz udostępnić nam niektóre dane użytkowe.](/img/faq/quickstart/onboarding/usage-data.png)
 
-![Następnie zobaczysz krótkie wyjaśnienie w trzech krokach, jak działa Peach.](/img/faq/quickstart/onboarding/1.png)
+![Następnie zobaczysz krótki, trzyetapowy opis działania Peach.](/img/faq/quickstart/onboarding/1.png)
 
-![Po tym zostaniesz zapytany, czy masz kod polecający. Jeśli nie masz - nie martw się tym 😉](/img/faq/quickstart/onboarding/new.png)
+![Potem zapytamy, czy masz kod polecający. Jeśli nie — bez stresu 😉](/img/faq/quickstart/onboarding/new.png)
 
-![To wszystko! Jesteś gotowy do działania!](/img/faq/quickstart/onboarding/created.png)
+![Gotowe! Możesz zaczynać!](/img/faq/quickstart/onboarding/created.png)
 :::
 
-Ten szybki proces konfiguracji oznacza, że **jeszcze nie masz wykonanej kopii zapasowej**. Zostaniesz poproszony o [utworzenie kopii zapasowej i hasła](/faq/account/#how-should-i-store-my-backup) po zakończeniu pierwszej transakcji.
+Ta szybka konfiguracja oznacza, że **nie masz jeszcze kopii zapasowej**. Poprosimy cię o [utworzenie kopii zapasowej i hasła](/faq/account/#how-should-i-store-my-backup) po zakończeniu pierwszej transakcji.
 
-## Przewodnik 2: Twoja pierwsza oferta kupna
+## Poradnik 2: Zakup z istniejących ofert
 
-Złożenie pierwszej oferty kupna może zająć tylko kilka sekund. Wystarczy, że poinformujesz nas, ile chcesz kupić i w jaki sposób chcesz zapłacić sprzedawcy.
+Krok po kroku pierwszy zakup z istniejących ofert:
 
-Oto krok po kroku twojej pierwszej oferty kupna:
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Dotknij zielonego przycisku „Kup”, aby przeglądać dostępne oferty sprzedaży.
 
-:::figures 5
-![Najpierw wybierasz, ile chcesz kupić. To zawsze jest przedział, i zostaną ci pokazane wszystkie dostępne oferty sprzedaży w tym przedziale.](/img/faq/quickstart/buy/BuyStep1.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/02-browse.png)
+Przeglądaj dostępne oferty sprzedaży.
 
-![Następnie musisz nam powiedzieć, w jaki sposób chcesz zapłacić. Jeśli chcesz dowiedzieć się więcej o metodach płatności, powinieneś [przeczytać ten przewodnik](#przewodnik-4-dodawanie-metod-płatności). Na końcu możesz wrócić tutaj.](/img/faq/quickstart/buy/BuyStep2.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/03-filter.png)
+Możesz filtrować po walucie i metodzie płatności.
 
-![Zauważ, że możesz wybrać tyle metod płatności, ile chcesz, aby zwiększyć swoje szanse na dopasowanie!](/img/faq/quickstart/buy/BuyStep3.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/04-request-trade.png)
+Wybierz ofertę, poproś o transakcję i poczekaj na akceptację. Możesz poprosić o kilka ofert naraz.
 
-![Po tym zobaczysz krótkie podsumowanie, gdzie możesz sprawdzić wszystkie wybrane metody płatności i ile kupujesz.](/img/faq/quickstart/buy/BuyStep4.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/05-confirm-payment.png)
+Wyślij płatność z aplikacji bankowej/portfela i przesuń suwak „Dokonałem płatności”.
 
-![Twoja oferta kupna jest teraz opublikowana! Jeśli są dostępne oferty sprzedaży, zostaną ci od razu pokazane.
-
- Jeśli nie, będziesz musiał poczekać przez jakiś czas.](/img/faq/quickstart/buy/BuyStep5.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/06-wait-payout.png)
+Poczekaj, aż sprzedawca potwierdzi płatność i nastąpi wypłata (do 24 godzin).
 :::
 
-### Dopasowanie sprzedawcy
+## Poradnik 3: Zakup przez opublikowanie własnej oferty
 
-Po opublikowaniu twojej oferty kupna, zostaną ci pokazane wszystkie oferty sprzedaży, które mieszczą się w wybranym przez ciebie zakresie i mają co najmniej jedną wspólną metodę płatności:
+Pierwszą ofertę kupna opublikujesz w kilka sekund. Wystarczy podać, ile chcesz kupić i jak zapłacisz sprzedawcy.
 
-![Karta Dopasowania](/img/faq/quickstart/buy/MatchCardExplainer.png)
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Dotknij „Utwórz ofertę kupna”, aby ją dodać.
 
-:::figures 2
-![Gdy wybierzesz walutę i metodę płatności, której chcesz użyć do tej transakcji (jeśli masz więcej niż jedną wspólną), możesz dopasować ofertę.](/img/faq/quickstart/buy/BuyStep6.png)
+![](/img/faq/quickstart/069-screenshots/buy-offer/01-create-offer.png)
+Dodaj metodę płatności zgodnie z poradnikiem 6 i ustaw parametry oferty.
 
-![Masz pięć sekund na cofnięcie, jeśli zmienisz zdanie. Po tym sprzedawca zostanie powiadomiony o dopasowaniu, a cofnięcie teraz jest uznawane za niegrzeczne (twoja ocena Peach zostanie zraniona)](/img/faq/quickstart/buy/BuyStep7.png)
+![](/img/faq/quickstart/069-screenshots/buy-offer/03-accept-trade-request.png)
+Gdy sprzedawca dopasuje się do twojej oferty, możesz zaakceptować transakcję.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/04-confirm-trade-request.png)
+Następnie potwierdź akceptację.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/05-wait-escrow.png)
+Odczekaj chwilę, aż sprzedawca zdeponuje satsy w escrow.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/06-confirm-payment.png)
+Po potwierdzeniu transakcji escrow wyświetlą się dane płatności. Zapłać w banku/portfelu i potwierdź w aplikacji Peach, przesuwając „Dokonałem płatności”.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/07-wait-payout.png)
+Teraz poczekaj, aż sprzedawca potwierdzi otrzymanie i zostanie przetworzona wypłata z escrow (w ciągu 24 godzin).
 :::
 
-### Realizacja transakcji
+## Poradnik 4: Sprzedaż do istniejących ofert
 
-:::figures 2
-![Jeśli sprzedawca również cię dopasuje, zostaniesz powiadomiony i pokazane zostaną ci jego dane płatności. Powinieneś przejść do swojej aplikacji płatności i ręcznie dokonać płatności tam. Po tym potwierdzasz, że to zrobiłeś za pomocą suwaka na dole, i czekasz na odpowiedź sprzedawcy (możesz w międzyczasie pogadać).](/img/faq/quickstart/buy/BuyStep8.png)
+Krok po kroku pierwsza sprzedaż do istniejących ofert kupna:
 
-![Gdy sprzedawca potwierdzi, transakcja zostaje zakończona! Kwota bitcoin zostanie wysłana do twojego portfela i możecie ocenić siebie nawzajem. (Zakładając, że wszystko poszło dobrze, oczywiście.)](/img/faq/quickstart/buy/BuyStep9.png)
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Dotknij pomarańczowego „Sprzedaj”, aby dopasować się do istniejących ofert kupna.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/01-browse-offers.png)
+Przeglądaj dostępne oferty kupna.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/02-filter-offers.png)
+Możesz też filtrować po walucie i metodzie płatności.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/03-request-trade.png)
+Poproś o transakcję z jednym lub kilkoma kupującymi.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/04-chat-trade.png)
+Możesz czatować z kupującym lub po prostu czekać na akceptację.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/05-create-escrow.png)
+Gdy kupujący zaakceptuje, poprosimy cię o wpłatę satsów do escrow.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/06-create-escrow.png)
+Wpłać z Peach Wallet lub z zewnętrznego portfela.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/07-confirm-payment.png)
+Gdy otrzymasz płatność na konto/portfel, potwierdź to, przesuwając „Otrzymałem płatność”.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/08-rate-user.png)
+Oceń kupującego.
 :::
 
-## Przewodnik 3: Twoja pierwsza oferta sprzedaży
+## Poradnik 5: Sprzedaż przez opublikowanie własnej oferty
 
-Złożenie pierwszej oferty sprzedaży może zająć tylko kilka minut. Wystarczy, że poinformujesz nas, ile chcesz sprzedać i w jaki sposób chcesz, aby kupujący ci zapłacił.
+Pierwszą ofertę sprzedaży dodasz w kilka minut. Podaj, ile chcesz sprzedać i jak chcesz otrzymać płatność.
 
-Oto krok po kroku twojej pierwszej oferty sprzedaży:
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Dotknij „Utwórz ofertę sprzedaży”, aby dodać ofertę.
 
-### Tworzenie oferty sprzedaży
+![](/img/faq/quickstart/069-screenshots/sell-offer/02-set-offer-details.png)
+Dodaj dane płatności jak w poradniku 6 i ustaw szczegóły.
 
-:::figures 7
-![Najpierw wybierasz, ile chcesz sprzedać. Możesz wybrać dowolną kwotę, ale istnieje maksymalna, aby zapobiec twojej ofercie przed przekroczeniem dziennego limitu i staniem się niedostępną.](/img/faq/quickstart/sell/SellStep01.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/03-fund-from-peach.png)
+Zasil escrow z Peach Wallet.
 
-![Następnie wybierasz, czy chcesz zaoferować kupującemu zniżkę, czy też poprosić trochę więcej niż cena rynkowa.](/img/faq/quickstart/sell/SellStep02.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/04-fund-from-external.png)
+Albo zasil z portfela zewnętrznego.
 
-![Następnie musisz określić, w jaki sposób chcesz otrzymać płatność. Na końcu możesz wrócić tutaj.](/img/faq/quickstart/sell/SellStep03.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/05-confirm-escrow-tx.png)
+Poczekaj na potwierdzenie wpłaty.
 
-![Zauważ, że możesz wybrać tyle metod płatności, ile chcesz, aby zwiększyć swoje szanse na dopasowanie!](/img/faq/quickstart/sell/SellStep04.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/06-offer-published.png)
+Po potwierdzeniu oferta zostaje opublikowana.
 
-![Po tym zobaczysz krótkie podsumowanie, gdzie możesz sprawdzić wszystkie wybrane metody płatności i ile sprzedajesz.](/img/faq/quickstart/sell/SellStep05.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/07-accept-trade-request.png)
+Gdy kupujący dopasuje się do oferty, zaakceptuj prośbę o transakcję.
 
-![Ostatnim krokiem przed opublikowaniem twojej oferty sprzedaży jest zasilenie depozytu, aby zabezpieczyć transakcję. Wyślesz bitcoiny na ten adres z portfela, w którym je obec
+![](/img/faq/quickstart/069-screenshots/sell-offer/08-accept-trade-request.png)
+Potwierdź akceptację lub czatuj z kupującym.
 
-nie masz.](/img/faq/quickstart/sell/SellStep06.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/09-confirm-received-payment.png)
+Kiedy potwierdzisz otrzymanie płatności, escrow zostanie zwolnione.
 
-![I to wszystko! Po potwierdzeniu transakcji przez sieć bitcoin, twoja oferta sprzedaży jest opublikowana i czeka na dopasowanie.](/img/faq/quickstart/sell/SellStep07.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/10-rate-user.png)
+Oceń kupującego.
 :::
 
-### Dopasowanie kupującego
+## Poradnik 6: Dodawanie metod płatności
 
-Po opublikowaniu twojej oferty sprzedaży, zostanie ona pokazana wszystkim kupującym, którzy mają co najmniej jedną wspólną walutę i metodę płatności oraz chcą kupić ilość, którą sprzedajesz. Jeśli ktoś dopasuje twoją ofertę, otrzymasz powiadomienie i możesz ich dopasować z powrotem (lub poczekać na więcej dopasowań):
+Tworząc ofertę kupna/sprzedaży w Peach, musisz poinformować kontrahenta, jak zapłacisz lub jak chcesz otrzymać płatność.
 
-![Karta Dopasowania](/img/faq/quickstart/sell/MatchCardExplainer.png)
+:::quickstarts 7
+![](/img/faq/quickstart/add-payment-method/AddPM01.png)
+Najpierw wybierz kategorię: zdalnie (np. przelew, PayPal) lub spotkanie (gotówka).
 
-### Realizacja transakcji
+![](/img/faq/quickstart/add-payment-method/AddPM02.png)
+Następnie wybierz walutę dla tej metody płatności.
 
-:::figures 3
-![Po wybraniu dopasowania, transakcja jest oficjalnie dokonana. Zobaczysz, skąd kupujący będzie dokonywał płatności, i za ile. Możesz również porozmawiać ze swoim kupującym, jeśli masz jakieś pytania.](/img/faq/quickstart/sell/SellStep08.png)
+![](/img/faq/quickstart/add-payment-method/AddPM03.png)
+Zobaczysz dostępne kategorie metod dla tej waluty. W przykładzie wybieramy portfel online.
 
-![Gdy kupujący dokona płatności, powinieneś sprawdzić odpowiednie konto płatnicze, czy otrzymałeś ją. Jeśli tak, możesz to potwierdzić tutaj. Po potwierdzeniu otrzymania płatności, bitcoin zostanie wysłany do kupującego.](/img/faq/quickstart/sell/SellStep09.png)
+![](/img/faq/quickstart/add-payment-method/AddPM04.png)
+Otworzy się panel wyboru portfela online do dodania. Wybierzmy PayPal.
 
-![I to wszystko! Kwota bitcoin zostanie wysłana do kupującego i możecie ocenić siebie nawzajem. (Zakładając, że wszystko poszło dobrze, oczywiście.](/img/faq/quickstart/sell/SellStep10.png)
-:::
+![](/img/faq/quickstart/add-payment-method/AddPM05.png)
+Wpisz swoje dane. Możesz też zaznaczyć, czy portfel przyjmuje dodatkowe waluty.
 
-## Przewodnik 4: Dodawanie metod płatności
-
-Gdy składasz ofertę kupna lub sprzedaży w Peach, musisz poinformować swojego kontrahenta, w jaki sposób zapłacisz lub chcesz być zapłacony.
-
-:::figures 7
-![Najpierw możesz wybrać między dwoma kategoriami: **zdalnie** (np. przelew bankowy, PayPal) lub **na spotkaniu** (gotówką).](/img/faq/quickstart/add-payment-method/AddPM01.png)
-
-![Następnie wybierasz, którą walutę chcesz użyć dla tej metody płatności.](/img/faq/quickstart/add-payment-method/AddPM02.png)
-
-![Zobaczysz kategorie metod płatności dostępnych dla tej waluty. Wybierzmy portfel online jako przykład.](/img/faq/quickstart/add-payment-method/AddPM03.png)
-
-![Otwiera się szuflada, w której możesz wybrać, który portfel online chcesz dodać. Wybierzmy PayPal.](/img/faq/quickstart/add-payment-method/AddPM04.png)
-
-![Wszystko, co musisz zrobić, to wpisać swoje dane. Możesz także wskazać, czy twój portfel może otrzymywać dodatkowe waluty.](/img/faq/quickstart/add-payment-method/AddPM05.png)
-
-![Gdy skończysz, naciśnij potwierdź, i…](/img/faq/quickstart/add-payment-method/AddPM06.png)
-
-![presto! Dodałeś swoją pierwszą metodę płatności. Dodaj i wybierz tyle, ile chcesz, aby zwiększyć swoje szanse na znalezienie dopasowania.](/img/faq/quickstart/add-payment-method/AddPM07.png)
+![](/img/faq/quickstart/add-payment-method/AddPM06.png)
+Gdy skończysz, naciśnij „Potwierdź” i …
 :::
