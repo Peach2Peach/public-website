@@ -94,8 +94,6 @@ When you confirm that you have received the payment in your bank/wallet, the esc
 Rate the buyer
 :::
 
-
-
 ## Guide 6: Adding payment methods
 
 When you make a buy or sell offer in Peach, you'll need to let your counterparty know how you'll pay, or want to be paid.
