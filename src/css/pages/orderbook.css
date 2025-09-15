@@ -1,166 +1,214 @@
 /* Container Styles */
 #orderbook-container {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-    background-color: #fff5f0; /* Light peach background color */
-    border-radius: 16px;
-    border: 1px solid #f6c5a7; /* Soft peach border */
-    box-shadow: 0 6px 20px rgba(255, 138, 102, 0.2); /* Peachy shadow */
-    padding: 2rem;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: #fff5f0; /* Light peach background color */
+  border-radius: 16px;
+  border: 1px solid #f6c5a7; /* Soft peach border */
+  box-shadow: 0 6px 20px rgba(255, 138, 102, 0.2); /* Peachy shadow */
+  padding: 2rem;
+}
+
+/* Tabs */
+#orderbook-container .tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1rem 0 1.25rem;
+  border-bottom: 1px solid #f6c5a7;
+  padding-bottom: 0.25rem;
+}
+
+#orderbook-container .tab-button {
+  background: #ffe5d4;
+  border: 1px solid #f6c5a7;
+  padding: 0.5rem 0.875rem;
+  border-radius: 10px 10px 0 0;
+  cursor: pointer;
+  font-weight: 600;
+  color: #5a3e36;
+  transition: background-color 0.2s ease, transform 0.15s ease;
+}
+
+#orderbook-container .tab-button:hover {
+  background: #ffd2b5;
+  transform: translateY(-1px);
+}
+
+#orderbook-container .tab-button.active,
+#orderbook-container .tab-button[aria-selected="true"] {
+  background: #ffffff;
+  border-bottom-color: #ffffff;
+}
+
+/* Panels */
+#orderbook-container .tab-panel.hidden {
+  display: none;
 }
 
 /* Dropdown Styles */
 #orderbook-container select {
-    border: 1px solid #f6c5a7;
-    padding: 0.5rem 1rem;
-    border-radius: 12px;
-    background-color: #ffe5d4; /* Soft peach background for dropdown */
-    transition: border-color 0.3s ease, box-shadow 0.3s ease;
-    font-size: 1rem;
-    color: #5a3e36; /* Warm brown text color */
-    appearance: none;
-    background-image: url('data:image/svg+xml;base64,...'); /* Custom arrow icon */
-    background-repeat: no-repeat;
-    background-position: right 12px center;
-    background-size: 14px;
-    cursor: pointer;
-    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
-    font-weight: 500;
+  border: 1px solid #f6c5a7;
+  padding: 0.5rem 1rem;
+  border-radius: 12px;
+  background-color: #ffe5d4; /* Soft peach background for dropdown */
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  font-size: 1rem;
+  color: #5a3e36; /* Warm brown text color */
+  appearance: none;
+  background-image: url('data:image/svg+xml;base64,...'); /* Custom arrow icon */
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 14px;
+  cursor: pointer;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+  font-weight: 500;
 }
 
 /* Enhanced Focus and Hover Styles */
 #orderbook-container select:focus, 
 #orderbook-container select:hover {
-    border-color: #ff8a66; /* Bright peach color on hover/focus */
-    box-shadow: 0 0 0 4px rgba(255, 138, 102, 0.3);
+  border-color: #ff8a66; /* Bright peach color on hover/focus */
+  box-shadow: 0 0 0 4px rgba(255, 138, 102, 0.3);
 }
 
 /* Dropdown Label Styles */
 #orderbook-container label {
-    font-size: 1rem;
-    color: #5a3e36;
-    font-weight: 600;
-    margin-bottom: 0.5rem;
-    display: block;
-    cursor: pointer;
+  font-size: 1rem;
+  color: #5a3e36;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  display: block;
+  cursor: pointer;
 }
 
 /* Container Styles for Select and Label */
 #orderbook-container .select-container {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
 }
 
 /* Header Styles */
 #orderbook-container .top-header {
-    margin-bottom: 1.5rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
 }
 
 #orderbook-container .top-header h2 {
-    margin: 0;
-    font-size: 2rem;
-    font-weight: 700;
-    color: #5a3e36; /* Warm brown color for header */
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #5a3e36; /* Warm brown color for header */
 }
 
 /* Table Wrapper */
 .table-wrapper {
-    overflow-x: auto;
-    border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(255, 138, 102, 0.1); /* Peachy shadow */
+  overflow-x: auto;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(255, 138, 102, 0.1); /* Peachy shadow */
 }
 
 /* Table Styles */
 #orderbook-container table {
-    border-spacing: 0;
-    width: 100%;
-    min-width: 600px;
-    border-collapse: collapse;
-    background-color: #ffffff; /* White background for table */
+  border-spacing: 0;
+  width: 100%;
+  min-width: 600px;
+  border-collapse: collapse;
+  background-color: #ffffff; /* White background for table */
 }
 
 #orderbook-container thead {
-    text-align: left;
-    font-size: 14px;
-    background-color: #ffe5d4; /* Light peach background for table header */
-    color: #5a3e36;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
+  text-align: left;
+  font-size: 14px;
+  background-color: #ffe5d4; /* Light peach background for table header */
+  color: #5a3e36;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 
-#orderbook-container th, #orderbook-container td {
-    padding: 1rem 1.5rem;
-    text-align: left;
-    border-bottom: 1px solid #f6c5a7;
+#orderbook-container th, 
+#orderbook-container td {
+  padding: 1rem 1.5rem;
+  text-align: left;
+  border-bottom: 1px solid #f6c5a7;
 }
 
 #orderbook-container th {
-    font-weight: 700;
+  font-weight: 700;
 }
 
 #orderbook-container tbody tr:nth-child(even) {
-    background-color: #fff0e6; /* Light peach background for even rows */
+  background-color: #fff0e6; /* Light peach background for even rows */
 }
 
 #orderbook-container tbody tr:hover {
-    background-color: #ffd2b5; /* Slightly darker peach on hover */
-    cursor: pointer;
+  background-color: #ffd2b5; /* Slightly darker peach on hover */
+  cursor: pointer;
 }
 
 /* Row Hover Effects */
 #orderbook-container tbody tr {
-    transition: background-color .3s ease, transform 0.2s ease;
+  transition: background-color .3s ease, transform 0.2s ease;
 }
 
 #orderbook-container tbody tr:hover {
-    transform: scale(1.01);
+  transform: scale(1.01);
 }
 
 /* Pagination Styles */
 #orderbook-container .pagination {
-    margin: 20px 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  margin: 20px 0 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #orderbook-container .pagination button {
-    background-color: #ff8a66; /* Bright peach for pagination buttons */
-    color: white;
-    border: none;
-    padding: 10px 15px;
-    cursor: pointer;
-    margin: 0 5px;
-    border-radius: 6px;
-    transition: background-color 0.3s ease, transform 0.2s ease;
+  background-color: #ff8a66; /* Bright peach for pagination buttons */
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  margin: 0 5px;
+  border-radius: 6px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
 #orderbook-container .pagination button:hover {
-    background-color: #ff6b47; /* Darker peach on hover */
-    transform: translateY(-2px);
+  background-color: #ff6b47; /* Darker peach on hover */
+  transform: translateY(-2px);
 }
 
 #orderbook-container .pagination span {
-    margin: 0 10px;
-    font-size: 18px;
-    color: #5a3e36;
+  margin: 0 10px;
+  font-size: 18px;
+  color: #5a3e36;
 }
 
-/* Loading Spinner */
-#orderbook-container #loading {
-    width: 100%;
-    text-align: center;
+/* Loading Spinners */
+#orderbook-container #loading,
+#orderbook-container #loading-bids {
+  width: 100%;
+  text-align: center;
 }
 
 #orderbook-container svg {
-    width: 100px;
-    height: 100px;
-    display: inline-block;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+
+/* Small screens */
+@media (max-width: 640px) {
+  #orderbook-container .top-header h2 {
+    font-size: 1.5rem;
+  }
+  #orderbook-container table {
+    min-width: 520px;
+  }
 }

@@ -63,6 +63,7 @@
   "meta.ogDescription": "Peach Bitcoin - Αγοράστε Bitcoin με κάρτα δώρου, χωρίς επαλήθευση. Ανταλλαγή peer-to-peer για ανώνυμες συναλλαγές. Μάθετε πώς να αγοράζετε και να πουλάτε Bitcoin ιδιωτικά και χωρίς KYC. Διαχειριστείτε το Bitcoin σας με ασφάλεια μέσω της πλατφόρμας μας χωρίς KYC.",
   "meta.keywords": "Ανταλλαγή Bitcoin peer-to-peer χωρίς KYC",
   "orderbook.sellOffer": "Προσφορά Πώλησης",
+  "orderbook.buyOffer": "Προσφορές αγοράς",
   "orderbook.lowestPremium": "Χαμηλότερο Επίδομα",
   "orderbook.bestReputation": "Καλύτερη Φήμη",
   "orderbook.highestAmount": "Υψηλότερο Ποσό",
