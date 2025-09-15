@@ -62,6 +62,7 @@
   "meta.ogTitle": "Peach Bitcoin Csere - Bitcoin vásárlása és eladása névtelenül és KYC nélkül",
   "meta.ogDescription": "Peach Bitcoin - Vásároljon Bitcoint ajándékkártyával, nincs verifikáció. Cseréljen emberközött anonim tranzakciókhoz. Ismerje meg, hogyan vásárolhat és adhat el Bitcoint magán- és KYC nélkül. Biztonságosan kezelje Bitcoint nem KYC-követelményeket igénylő platformunkon.",
   "meta.keywords": "Nem KYC Emberközötti Bitcoin Csere",
+  "orderbook.title": "Valós idejű ajánlati könyv",
   "orderbook.sellOffer": "Eladási ajánlat",
   "orderbook.buyOffer": "Vételi ajánlatok",
   "orderbook.lowestPremium": "Legalacsonyabb felár",

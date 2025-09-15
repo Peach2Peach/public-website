@@ -62,6 +62,7 @@
   "meta.ogTitle": "Peach Bitcoin Exchange - Kupuj i sprzedawaj Bitcoin anonimowo i bez KYC",
   "meta.ogDescription": "Peach Bitcoin - Kupuj Bitcoin za pomocą kart podarunkowych, bez weryfikacji. Wymieniaj się peer-to-peer dla anonimowych transakcji. Dowiedz się, jak kupować i sprzedawać Bitcoin prywatnie i bez KYC. Zarządzaj swoim Bitcoin bezpiecznie za pomocą naszej platformy bez KYC.",
   "meta.keywords": "Bez KYC Peer to Peer Bitcoin Exchange",
+  "orderbook.title": "Księga zleceń w czasie rzeczywistym",
   "orderbook.sellOffer": "Oferta sprzedaży",
   "orderbook.buyOffer": "Oferty kupna",
   "orderbook.lowestPremium": "Najniższa premia",
