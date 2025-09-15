@@ -98,15 +98,22 @@ Rate the buyer
 
 When you make a buy or sell offer in Peach, you'll need to let your counterparty know how you'll pay, or want to be paid.
 
-:::figures 7
-![First, you can choose between two categories: **remote** (e.g. bank transfer, paypal) or on a **meetup** (with cash).](/img/faq/quickstart/add-payment-method/AddPM01.png)
+:::quickstarts 7
+![](/img/faq/quickstart/add-payment-method/AddPM01.png)
+First, you can choose between two categories: remote (e.g. bank transfer, paypal) or on a meetup (with cash).
 
-![You'll then select which currency you want to use for this payment method.](/img/faq/quickstart/add-payment-method/AddPM02.png)
+![](/img/faq/quickstart/add-payment-method/AddPM02.png)
+You'll then select which currency you want to use for this payment method.
 
-![You'll then see the categories of payment method available for this currency. We'll go with an online wallet for this example.](/img/faq/quickstart/add-payment-method/AddPM03.png)
+![](/img/faq/quickstart/add-payment-method/AddPM03.png)
+You'll then see the categories of payment method available for this currency. We'll go with an online wallet for this example
 
-![A drawer opens where you can select which online wallet you want to add. Let's select PayPal.](/img/faq/quickstart/add-payment-method/AddPM04.png)
+![](/img/faq/quickstart/add-payment-method/AddPM04.png)
+A drawer opens where you can select which online wallet you want to add. Let's select PayPal
 
-![All you have to do here is fill in your details. You can also indicate if your wallet can receive any additional currencies.](/img/faq/quickstart/add-payment-method/AddPM05.png)
+![](/img/faq/quickstart/add-payment-method/AddPM05.png)
+All you have to do here is fill in your details. You can also indicate if your wallet can receive any additional currencies.
 
-![Once done, you press confirm, and…](/img/faq/quickstart/add-payment-method/AddPM06.png)
+![](/img/faq/quickstart/add-payment-method/AddPM06.png)
+Once done, you press confirm, and…
+:::
