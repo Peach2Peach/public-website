@@ -64,6 +64,7 @@
   "meta.keywords": "Troca de Bitcoin peer-to-peer sem KYC",
   "orderbook.sellOffer": "Oferta de Venda",
   "orderbook.lowestPremium": "Menor Prêmio",
+  "orderbook.buyOffer": "Ofertas de compra",
   "orderbook.bestReputation": "Melhor Reputação",
   "orderbook.highestAmount": "Maior Quantidade",
   "orderbook.highestPrice": "Maior Preço",

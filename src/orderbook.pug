@@ -6,9 +6,9 @@ block append vars
 block teaser
   section#orderbook.main.wrap(style="width: 100%;")
     #orderbook-container
-      div.top-header
+      // Top controls (shared)
+      .top-header
         h2 !{i18n('orderbook.sellOffer', lang)}
-
         div(style="display: flex; gap: 1rem;")
           label
             select(name="order_by" id="orderBySelect") 
@@ -16,41 +16,87 @@ block teaser
               option(value="bestReputation") !{i18n('orderbook.bestReputation', lang)}
               option(value="highestAmount") !{i18n('orderbook.highestAmount', lang)}
               option(value="highestPrice") !{i18n('orderbook.highestPrice', lang)}
-          
           label
             select(name="currency" id="currencySelect")
-              // currency options  
+              // currency options injected by JS
 
-      div#loading
-        svg(version="1.1" id="L9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 0 0" xml:space="preserve")
-          path(fill="#d5d5d5" d="M73,50c0-12.7-10.3-23-23-23S27,37.3,27,50 M30.9,50c0-10.5,8.5-19.1,19.1-19.1S69.1,39.5,69.1,50")
-            animateTransform(
-              attributeName="transform" 
-              attributeType="XML" 
-              type="rotate"
-              dur="1s" 
-              from="0 50 50"
-              to="360 50 50" 
-              repeatCount="indefinite"
-            )
+      // Tabs header
+      .tabs
+        button#tabSellBtn.tab-button(aria-selected="true", aria-controls="panel-ask", role="tab")
+          | !{i18n('orderbook.sellOffer', lang)}
+        button#tabBuyBtn.tab-button(aria-selected="false", aria-controls="panel-bid", role="tab")
+          | !{i18n('orderbook.buyOffer', lang)}
 
-      div.table-wrapper
-        table(border="1", id="offerte-table")
-          thead
-            tr
-              th !{i18n('orderbook.peachId', lang)}
-              th !{i18n('orderbook.paymentMethod', lang)}
-              th(id="priceTh") !{i18n('orderbook.price', lang)}
-              th !{i18n('orderbook.amount', lang)} (sats)
-              th !{i18n('orderbook.rating', lang)}
-          tbody#offerte-tbody
-            //- Righe della tabella verranno inserite qui dinamicamente dopo il caricamento
-      //- Contenitore per il paginatore
-      div.pagination
-        button#beforePageBtn(style="display: none;") &lt;
-        span#currentPage 1
-        button#afterPageBtn(style="display: none;") &gt;
+      // --- SELL (ask) PANEL ---
+      .tab-panel#panel-ask(role="tabpanel" aria-labelledby="tabSellBtn")
+        // Loading spinner for SELL
+        #loading
+          svg(version="1.1" id="L9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 0 0" xml:space="preserve")
+            path(fill="#d5d5d5" d="M73,50c0-12.7-10.3-23-23-23S27,37.3,27,50 M30.9,50c0-10.5,8.5-19.1,19.1-19.1S69.1,39.5,69.1,50")
+              animateTransform(
+                attributeName="transform" 
+                attributeType="XML" 
+                type="rotate"
+                dur="1s" 
+                from="0 50 50"
+                to="360 50 50" 
+                repeatCount="indefinite"
+              )
 
-  // Inclusione dello script JavaScript
+        // SELL table
+        .table-wrapper
+          table(border="1", id="offerte-table")
+            thead
+              tr
+                th !{i18n('orderbook.peachId', lang)}
+                th !{i18n('orderbook.paymentMethod', lang)}
+                th(id="priceTh") !{i18n('orderbook.price', lang)}
+                th !{i18n('orderbook.amount', lang)} (sats)
+                th !{i18n('orderbook.rating', lang)}
+            tbody#offerte-tbody
+              //- Rows will be injected by JS
+
+        // SELL paginator
+        .pagination
+          button#beforePageBtn(style="display: none;") &lt;
+          span#currentPage 1
+          button#afterPageBtn(style="display: none;") &gt;
+
+      // --- BUY (bid) PANEL ---
+      .tab-panel#panel-bid.hidden(role="tabpanel" aria-labelledby="tabBuyBtn")
+        // Loading spinner for BUY
+        #loading-bids
+          svg(version="1.1" id="L9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 0 0" xml:space="preserve")
+            path(fill="#d5d5d5" d="M73,50c0-12.7-10.3-23-23-23S27,37.3,27,50 M30.9,50c0-10.5,8.5-19.1,19.1-19.1S69.1,39.5,69.1,50")
+              animateTransform(
+                attributeName="transform" 
+                attributeType="XML" 
+                type="rotate"
+                dur="1s" 
+                from="0 50 50"
+                to="360 50 50" 
+                repeatCount="indefinite"
+              )
+
+        // BUY table
+        .table-wrapper
+          table(border="1", id="offerte-table-bids")
+            thead
+              tr
+                th !{i18n('orderbook.peachId', lang)}
+                th !{i18n('orderbook.paymentMethod', lang)}
+                th(id="priceThBid") !{i18n('orderbook.price', lang)}
+                th !{i18n('orderbook.amount', lang)} (sats)
+                th !{i18n('orderbook.rating', lang)}
+            tbody#offerte-tbody-bids
+              //- Rows will be injected by JS
+
+        // BUY paginator
+        .pagination
+          button#beforePageBtnBid(style="display: none;") &lt;
+          span#currentPageBid 1
+          button#afterPageBtnBid(style="display: none;") &gt;
+
+  // Include the JavaScript
   block main
   script(type="text/javascript" src=assetPath("/js/orderbook.js"))
