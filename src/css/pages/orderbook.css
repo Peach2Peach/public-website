@@ -41,9 +41,15 @@
   border-bottom-color: #ffffff;
 }
 
-/* Panels */
+/* Panels
+   NOTE: keep hidden panels off-screen (not display:none) so inline SVGs/gradients render correctly when shown */
 #orderbook-container .tab-panel.hidden {
-  display: none;
+  visibility: hidden;
+  position: absolute;
+  left: -99999px;
+  top: 0;
+  height: 0;
+  overflow: hidden;
 }
 
 /* Dropdown Styles */
@@ -201,6 +207,20 @@
   width: 100px;
   height: 100px;
   display: inline-block;
+}
+
+/* Peach icon before the Peach ID link in BOTH tables */
+#offerte-table td:first-child a::before,
+#offerte-table-bids td:first-child a::before {
+  content: "";
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 6px;
+  background-image: url("/img/icons/peach.svg"); /* adjust path if different */
+  background-size: contain;
+  background-repeat: no-repeat;
+  vertical-align: -2px;
 }
 
 /* Small screens */

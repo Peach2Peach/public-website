@@ -15,9 +15,9 @@ document.addEventListener('DOMContentLoaded', async () => {
   await initializePaymentMethods(el.currencySelect);
   initializeEventListeners(el);
 
-  // Initial load: fetch SELL first (visible tab), defer BUY until tab is clicked or after SELL finishes
+  // Initial load (show Sell first)
   await fetchOrderBook('ask');
-  // Preload the other side in the background for snappier UX
+  // Preload Buy for snappier tab switch
   fetchOrderBook('bid').catch(err => console.error('Preloading bid failed:', err));
 });
 
@@ -97,26 +97,19 @@ function setActiveTab(side) {
   const el = getDOMElements();
   state.currentTab = side;
 
-  // Toggle active class and ARIA
   const isAsk = side === 'ask';
   el.tabSellBtn.classList.toggle('active', isAsk);
   el.tabBuyBtn.classList.toggle('active', !isAsk);
   el.tabSellBtn.setAttribute('aria-selected', isAsk ? 'true' : 'false');
   el.tabBuyBtn.setAttribute('aria-selected', !isAsk ? 'true' : 'false');
 
-  // Show/hide panels
   el.panelAsk.classList.toggle('hidden', !isAsk);
   el.panelBid.classList.toggle('hidden', isAsk);
 
-  // Lazy-load the side if not loaded yet
+  // Lazy-load if needed
   if (!state[side].loaded) {
     fetchOrderBook(side).catch(err => console.error(`Error loading ${side}:`, err));
   }
-
-  // Keep header title in sync with the visible tab (optional)
-  // If you want the H2 to change text, uncomment below:
-  // const h2 = document.querySelector('#orderbook-container .top-header h2');
-  // h2.textContent = isAsk ? i18n('orderbook.sellOffer', lang) : i18n('orderbook.buyOffer', lang);
 }
 
 // Update sorting and refresh both tables (reset pagination)
@@ -124,7 +117,6 @@ function updateSorting() {
   state.currentSort = document.getElementById('orderBySelect').value;
   state.ask.currentPage = 0;
   state.bid.currentPage = 0;
-  // reload both sides (faster UX if both are cached by browser)
   fetchOrderBook('ask');
   fetchOrderBook('bid');
 }
@@ -198,7 +190,9 @@ function populateOrderbookTable(offers, container) {
     const cols = {
       peachId: offer.peachId,
       method: offer.method,
+      // price with 2 decimals
       price: offer.price.toLocaleString('fr-FR', { minimumFractionDigits: 2, maximumFractionDigits: 2 }),
+      // sats amount with NO decimals (same pattern used in the original sell table)
       amount: offer.amount.toLocaleString('fr-FR'),
       rating: offer.rating
     };
@@ -214,7 +208,7 @@ function populateOrderbookTable(offers, container) {
         const div = renderRating(value); // star rating visuals
         aTag.appendChild(div);
       } else {
-        aTag.innerHTML = value;
+        aTag.textContent = String(value);
       }
 
       td.appendChild(aTag);
@@ -227,11 +221,14 @@ function populateOrderbookTable(offers, container) {
 
 // Build star rating + numeric value
 function renderRating(value) {
+  // Guard against bad inputs
+  const v = Number.isFinite(value) ? value : 0;
+
   const starsDiv = document.createElement('div');
   starsDiv.style.display = 'flex';
 
-  const stars = Math.floor(value);
-  const halfStar = value % 1 >= 0.5;
+  const stars = Math.floor(v);
+  const halfStar = v % 1 >= 0.5;
 
   for (let index = 0; index < 5; index++) {
     const starContainer = document.createElement('div');
@@ -249,7 +246,7 @@ function renderRating(value) {
   }
 
   const divRating = document.createElement('div');
-  divRating.textContent = value.toFixed(1);
+  divRating.textContent = v.toFixed(1);
   divRating.style.margin = '-2px 0 0 0.25rem';
   starsDiv.appendChild(divRating);
 
@@ -354,7 +351,7 @@ async function fetchOfferData(side, page) {
   return await response.json();
 }
 
-// Normalize offer rows for UI
+// Normalize offer rows for UI (keep numeric values here; format in populateOrderbookTable)
 function formatOfferData(side, { offers, total }, basePrice) {
   const data = offers
     .map(offer =>
@@ -362,9 +359,9 @@ function formatOfferData(side, { offers, total }, basePrice) {
         service: 'Peach Bitcoin',
         url: 'https://peachbitcoin.com',
         method: method.startsWith('cash.') ? 'Cash' : method,
-        // Display price: base * (1 + premium) * 1.02
+        // numeric price; we format later
         price: basePrice * ((offer.premium ? offer.premium / 100 : 0) + 1) * 1.02,
-        amount: offer.amount,
+        amount: offer.amount, // numeric; we format as locale string in the table
         rating: ((offer.user.rating + 1) * 2.5),
         peachId: `Peach${offer.user.id.slice(4, 8)}`.toUpperCase()
       }))
