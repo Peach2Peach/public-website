@@ -56,7 +56,64 @@ Wait that the seller confirms the payment and the payout is processed (up to 24 
 
 Placing your first buy offer can be done in just a few seconds. You'll just need to tell us how much you want to buy, and how you want to pay your seller.
 
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Tap the "Create buy offer" button to create your buy offer
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/01-create-offer.png)
+Add a payment method as described in Guide 6 and set the offer specifications
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/03-accept-trade-request.png)
+Once a seller match your offer, you can accept the trade
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/04-confirm-trade-request.png)
+And confirm you accept the trade
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/05-wait-escrow.png)
+At this point you wait a bit that the seller deposits the sats in escrow
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/06-confirm-payment.png)
+Once the escrow transaction is confirmed, the payment details are shown to you. You make the payment from your bank/wallet and yhou confirm the payment made on the Peach app sliding the "I made the payment" button.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/07-wait-payout.png)
+You now just wait that the seller confirms the payment received and the escrow release transaction is processed (within 24 hours)
+:::
+
 ## Guide 4: Sell to existing offers
+
+Here's the step by step of your first sale from existing offers:
+
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Tap the orange "Sell" button to match existing buy offer
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/01-browse-offers.png)
+Browse the available buy offers
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/02-filter-offers.png)
+You can also filter the offers by currency and payment method
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/03-request-trade.png)
+You can request a trade with one or multiple buyer
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/04-chat-trade.png)
+You can now start chatting with the buyer or just wait that you get accepted
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/05-create-escrow.png)
+Once a buyer accept your request, you are asked to deposit the sats to sell in escrow
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/06-create-escrow.png)
+You can deposit from your Peach Wallet of from an external one 
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/07-confirm-payment.png)
+Once you have received the payment in your bank/wallet, confirm it by slifing the "I received the payment" button
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/08-rate-user.png)
+You can now rate the buyer
+:::
+
+
+
 
 ## Guide 5: Sell publishing your offer
 
