@@ -4,7 +4,7 @@ template: text
 
 # Privacy Policy
 
-This privacy policy was last updated on **Feb 3rd, 2025**
+This privacy policy was last updated on **Sep 22nd, 2025**
 
 ## 0. Summary
 
