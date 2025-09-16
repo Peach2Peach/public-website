@@ -17,6 +17,8 @@ c/o LEAX Avocats Sàrl<br>
 2000 Neuchâtel<br>
 SWITZERLAND
 
+Peach Bitcoin complies with the Swiss Anti-Money Laundering Act (AMLA) and FINMA regulations.
+
 By "Buyer", we mean the party creating an offer on the platform to receive bitcoin from another user in exchange for a transfer of their currency of choice.
 
 By "Seller", we mean the party creating an offer on the platform to send bitcoin to another user in exchange for a transfer of their currency of choice.
@@ -55,7 +57,7 @@ It is not allowed to create more than one Peach account. In order to ensure that
 
 You must be at least 18 years old to sign up for a Peach account. By signing up for an account, you confirm that you are at least 18 years old.
 
-You are not a citizen, a permanent resident, tax resident or located at the United States of America (including its states and the District of Columbia), the Virgin Islands of the United States, or any other possessions of the United States of America, Cuba, North Korea, Iraq, Iran, Puerto Rico, Somalia, Syria, Sudan, or any state, country, territory or other jurisdiction that is embargoed by the United Nations;
+You are not a citizen, a permanent resident, tax resident or located at the United States of America (including its states and the District of Columbia), the Virgin Islands of the United States, or any other possessions of the United States of America, Cuba, North Korea, Iraq, Iran, Puerto Rico, Somalia, Syria, Sudan, China or any state, country, territory or other jurisdiction that is embargoed by the United Nations or OFAC/EU-sanctioned countries. Restrictions are enforced by app distribution limits, IP blocking, and user disclaimers.
 
 ## 3. Generating Peach Keys
 
@@ -234,7 +236,9 @@ To the maximum extent permitted by law, we make no guarantees to the safety, rel
 
 ## 17. Third party integrations
 
-The Peach may incorporate, reference or provide access to third-party services. Peach is not the owner, operator or licensor of these third-party services, and Peach shall not be responsible for any consequences stemming from the use of a third-party service.
+Peach Bitcoin app does not integrate or rely on any third-party exchange APIs. All services are operated exclusively by Peach SARL.
+
+The Peach may incorporate, reference or provide access to third-party services in some specific cases like support or disputes. Peach is not the owner, operator or licensor of these third-party services, and Peach shall not be responsible for any consequences stemming from the use of a third-party service.
 
 The use of any third-party service is subject to separate terms and conditions issued by the respective third-party service provider. It is each users' responsibility to review the terms and policies of a third-party service provider before deciding to use such a service.
 
