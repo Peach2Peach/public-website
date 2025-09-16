@@ -2,7 +2,7 @@
 
 :::details How can I be sure I get the bitcoin / the money?
 
-When making a sell offer, the seller sends the bitcoin to an address that is controlled by him and Peach: the bitcoin can only be moved from here, if he and Peach both sign off on it. This makes sure that:
+When making a sell offer or when matching a buy offer, the seller sends the bitcoin to an address that is controlled by him and Peach: the bitcoin can only be moved from here, if he and Peach both sign off on it. This makes sure that:
 
 - The seller cannot move the bitcoin (back) on his own
 - Peach cannot steal the bitcoin
@@ -28,7 +28,8 @@ All your payment details are stored on your phone, so we cannot see them. What w
 
 :::details Is there any way I can buy/sell more than the trading limit?
 
-If you're a high volume buyer or seller, send us an email at [$contactEmail$](mailto:$contactEmail$)!
+If you're a high volume seller, send us an email at [$contactEmail$](mailto:$contactEmail$)!
+You will be asked to follow a KYC process and your limits will be removed.
 :::
 
 :::details What are the fees for trading on Peach?
@@ -80,7 +81,7 @@ Currencies under high inflation suffer from high volatility, hence the price you
 :::details How to bump a transaction that is stuck because of low mining fees?
 It depends what type of transactions we are talking about. Here is a list of all transactions that can happen in Peach and their solutions to bump fees:
 
-1. Transaction for funding the escrow to publish a sell offer
+1. Transaction for funding the escrow to publish a sell offer or to match a buy offer
 
 - If you funded the escrow from the Peach wallet, you can RBF (Replace-By-Fee) the transaction and pump the fees
 - If you funded the escrow from an external wallet, you need to check if the wallet supports RBF (Replace-By-Fee) to increase the network fees.
@@ -154,7 +155,7 @@ You can also find a step by step tutorial on how to sign a message using Blue Wa
 Follow the steps found in this video: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU) to accelerate stuck transactions using CPFP inside the Peach app.
 :::
 
-:::details How does fund multiple offers work?
+:::details How does fund multiple sell offers from extenral wallet work?
 
-When you want to fund multiple offers at once, the app provides an intermediate address generated from your Peach Wallet. Once the bitcoins reach this address a new transaction for each escrow is generated. For instance, if you want to fund 5 sell offers, 5 transactions to different escrow addresses will be sent.
+When you want to fund multiple sell offers at once, the app provides an intermediate address generated from your Peach Wallet. Once the bitcoins reach this address a new transaction for each escrow is generated. For instance, if you want to fund 5 sell offers, 5 transactions to different escrow addresses will be sent.
 :::

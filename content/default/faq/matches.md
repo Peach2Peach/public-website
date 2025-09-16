@@ -10,7 +10,8 @@ We sort the matches by [reputation score](/faq/account/#what-does-the-peach-scor
 :::details How is a trade created?
 
 A Buyer can match as many sell offers as he wants.
-The first Seller to accept the Buyer's offer (Double Match) gets the trade!
+A seller can match as many buy offers as he wants.
+The first counterparty to accept the match gets the trade and will automatically close all the others matches.
 :::
 
 :::details Can I un-match an offer?
@@ -21,8 +22,7 @@ Watch out, your [reputation score](/faq/account/#what-does-the-peach-score-mean)
 
 :::details Can I cancel a Double Match (a trade)?
 
-A trade is created as soon as the Seller accepts a Buyer's offer.
-The Buyer automatically receives the Seller's payment details\*.
+A trade is created as soon as the Seller accepts a Buyer's offer or the Buyer accepts a Sell offer.
 The Buyer can cancel the trade at anytime.
 The Seller can only cancel a trade by asking rst to the Buyer if he is okay to cancel.
 Watch out, cancelling a trade impacts your [reputation score](/faq/account/#what-does-the-peach-score-mean)!
@@ -30,11 +30,12 @@ Watch out, cancelling a trade impacts your [reputation score](/faq/account/#what
 
 :::details When is the price of the trade set?
 
-When the buyer matches an offer.
-The seller may accept this match or not.
+When the buyer or the seller matches an offer.
+The seller or the buyer may accept this match or not.
 :::
 
-:::details As a buyer, can I match multiple sellers?
+:::details Can I match multiple offers?
 
-Yes! You can match as many sellers as you want. Matching a seller doesn't guarantee that they'll match you back, so it's often smart to match as many as possible. You will make the trade with the first seller that matches you back, while the other ones will need to look for new buyers.
+Yes! A buyer can match as many sellers as wanted and a seller can match as many buyers as wanted.
+It's not guaranteed that the offer publisher with accept the match and the first publisher accepting a match will close all the other ones.
 :::
