@@ -1,40 +1,41 @@
-# Mérkőzések GYIK
+# GYIK a Match-ekről
 
-:::details Hogyan működik a Peach Párosítás?
+:::details Hogyan működik a Peach párosítás?
 
-A Peach összeköt téged egy másik Bitcoin Vevővel vagy Eladóval a pénznemek és fizetési módszerek preferenciái alapján.
-Ez alapján a Peach értesít, amikor megfelelő ajánlatokat kapsz.
-A mérkőzéseket [hírnévpontszám](/faq/account/#what-does-the-peach-score-mean) és az ajánlat ára szerint rendezzük.
+A Peach összeköt téged egy másik Bitcoin vevővel vagy eladóval a pénznemekre és fizetési módokra vonatkozó preferenciáid alapján.  
+Ez alapján a Peach értesít, amikor megfelelő ajánlatokat kapsz.  
+A találatokat a [hírnév pontszám](/faq/account/#what-does-the-peach-score-mean) és az ajánlat ára szerint rendezzük.
 :::
 
-:::details Hogyan jön létre egy kereskedelem?
+:::details Hogyan jön létre egy kereskedés?
 
-Egy Vevő annyi eladási ajánlatot illeszthet, amennyit csak akar.
-Az első Eladó, aki elfogadja a Vevő ajánlatát (Dupla Illesztés), kapja meg a kereskedelmet!
+A vevő annyi eladási ajánlattal párosíthat, amennyivel akar.  
+Az eladó annyi vételi ajánlattal párosíthat, amennyivel akar.  
+Az első fél, aki elfogadja a párosítást, megkapja a kereskedést, és automatikusan bezárja az összes többit.
 :::
 
-:::details Lehet-e megszüntetni egy ajánlat illesztését?
+:::details Fel tudok bontani egy párosítást?
 
-Bármikor!
-Vigyázz, a [hírnévpontszámod](/faq/account/#what-does-the-peach-score-mean) enyhén érintett lesz az ajánlat illesztésének megszüntetésével.
+Bármikor!  
+Figyelj, a [hírnév pontszámod](/faq/account/#what-does-the-peach-score-mean) kissé csökken, ha megszakítasz egy párosítást.
 :::
 
-:::details Lehet-e megszakítani egy Dupla Illesztést (kereskedelmet)?
+:::details Törölhetek egy dupla párosítást (kereskedést)?
 
-A kereskedelem abban a pillanatban jön létre, amint az Eladó elfogadja a Vevő ajánlatát.
-A Vevő automatikusan megkapja az Eladó fizetési adatait\*.
-A Vevő bármikor megszakíthatja a kereskedelmet.
-Az Eladó csak úgy szakíthatja meg a kereskedelmet, ha először megkérdezi a Vevőt, hogy ő beleegyezik-e a megszakításba.
-Vigyázz, a kereskedés megszakítása befolyásolja a [hírnévpontszámod](/faq/account/#what-does-the-peach-score-mean)!
+Egy kereskedés akkor jön létre, amikor az Eladó elfogadja a Vevő ajánlatát, vagy a Vevő az Eladó ajánlatát.  
+A Vevő bármikor törölheti a kereskedést.  
+Az Eladó csak úgy törölhet, ha előbb megkérdezi a Vevőt, hogy beleegyezik-e.  
+Figyelem: egy kereskedés törlése befolyásolja a [hírnév pontszámod](/faq/account/#what-does-the-peach-score-mean)!
 :::
 
-:::details Mikor van meghatározva a kereskedés ára?
+:::details Mikor rögzül a kereskedés ára?
 
-Amikor a vevő illeszti az ajánlatot.
-Az eladó elfogadhatja vagy nem fogadhatja el ezt az illesztést.
+Amikor a vevő vagy az eladó párosít egy ajánlatot.  
+Az eladó vagy a vevő elfogadhatja vagy elutasíthatja ezt a párosítást.
 :::
 
-:::details Mint vevő, illeszthetek több eladót is?
+:::details Párosíthatok több ajánlatot?
 
-Igen! Annyi eladót illeszthetsz, amennyit csak szeretnél. Egy eladó illesztése nem garantálja, hogy ők is visszaillesztenek téged, ezért gyakran okos dolog minél többet illeszteni. A kereskedelmet az első eladóval fogod megkötni, aki visszailleszt téged, míg a többieknek új vevőket kell keresniük.
+Igen! A vevő annyi eladóval párosíthat, amennyivel akar, és az eladó annyi vevővel, amennyivel akar.  
+Nem garantált, hogy az ajánlat közzétevője elfogadja a párosítást, és az első, aki elfogadja, lezárja az összes többit.
 :::

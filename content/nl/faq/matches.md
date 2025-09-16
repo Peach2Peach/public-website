@@ -2,39 +2,40 @@
 
 :::details Hoe werkt Peach Matchmaking?
 
-Peach verbindt u met een andere Bitcoin-koper of -verkoper volgens uw voorkeuren voor valuta's en betaalmethoden.
-Op basis hiervan meldt Peach u wanneer u overeenkomende aanbiedingen ontvangt.
-We sorteren de matches op basis van de [reputatiescore](/faq/account/#what-does-the-peach-score-mean) en de prijs van het aanbod.
+Peach verbindt je met een andere Bitcoin-koper of -verkoper op basis van jouw voorkeuren voor valuta en betaalmethoden.  
+Op basis hiervan laat Peach je weten wanneer er overeenkomende aanbiedingen zijn.  
+We sorteren de matches op [reputatiescore](/faq/account/#what-does-the-peach-score-mean) en prijs van het aanbod.
 :::
 
-:::details Hoe wordt een transactie gemaakt?
+:::details Hoe wordt een trade aangemaakt?
 
-Een koper kan zoveel verkoopaanbiedingen matchen als hij wil.
-De eerste verkoper die het aanbod van de koper accepteert (dubbele match) krijgt de transactie!
+Een koper kan zoveel verkoopaanbiedingen matchen als hij wil.  
+Een verkoper kan zoveel koopaanbiedingen matchen als hij wil.  
+De eerste tegenpartij die de match accepteert, krijgt de trade en sluit automatisch alle andere matches.
 :::
 
-:::details Kan ik een aanbieding ontkoppelen?
+:::details Kan ik een match ongedaan maken?
 
-Altijd!
-Let op, uw [reputatiescore](/faq/account/#what-does-the-peach-score-mean) zal iets worden beïnvloed door het ontkoppelen van een aanbieding.
+Altijd!  
+Let op: je [reputatiescore](/faq/account/#what-does-the-peach-score-mean) wordt licht beïnvloed als je een match ongedaan maakt.
 :::
 
-:::details Kan ik een dubbele match (een transactie) annuleren?
+:::details Kan ik een Double Match (een trade) annuleren?
 
-Een transactie wordt gemaakt zodra de verkoper het aanbod van de koper accepteert.
-De koper ontvangt automatisch de betalingsgegevens van de verkoper\*.
-De koper kan de transactie op elk moment annuleren.
-De verkoper kan alleen een transactie annuleren door eerst aan de koper te vragen of hij akkoord gaat met annuleren.
-Let op, het annuleren van een transactie heeft invloed op uw [reputatiescore](/faq/account/#what-does-the-peach-score-mean)!
+Een trade wordt aangemaakt zodra de Verkoper een koopaanbod accepteert of de Koper een verkoopaanbod accepteert.  
+De Koper kan de trade op elk moment annuleren.  
+De Verkoper kan een trade alleen annuleren door eerst de Koper te vragen of hij akkoord gaat.  
+Let op: het annuleren van een trade beïnvloedt je [reputatiescore](/faq/account/#what-does-the-peach-score-mean)!
 :::
 
-:::details Wanneer wordt de prijs van de transactie bepaald?
+:::details Wanneer wordt de prijs van de trade vastgelegd?
 
-Wanneer de koper een aanbieding matcht.
-De verkoper kan deze match accepteren of niet.
+Wanneer de koper of verkoper een aanbod matcht.  
+De verkoper of koper kan deze match accepteren of weigeren.
 :::
 
-:::details Als koper kan ik meerdere verkopers matchen?
+:::details Kan ik meerdere aanbiedingen matchen?
 
-Ja! U kunt zoveel verkopers matchen als u wilt. Het matchen met een verkoper garandeert niet dat ze u ook matchen, dus het is vaak slim om zoveel mogelijk te matchen. U zult de transactie maken met de eerste verkoper die u terugmatcht, terwijl de andere verkopers op zoek moeten naar nieuwe kopers.
+Ja! Een koper kan met zoveel verkopers matchen als gewenst en een verkoper met zoveel kopers.  
+Het is niet gegarandeerd dat de aanbieder van het aanbod het match accepteert, en de eerste die accepteert sluit alle andere.
 :::

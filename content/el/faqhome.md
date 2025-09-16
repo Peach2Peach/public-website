@@ -35,10 +35,4 @@
             <h3>Οδηγός</h3>
         </a>
     </div>
-    <div class="faq-grid-item">
-        <a href="/el/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2024-with-PeachBitcoin/">
-            <i class="fa fa-exchange-alt"></i>
-            <h3>Αγορά & Πώληση Bitcoin</h3>
-        </a>
-    </div>
 </div>

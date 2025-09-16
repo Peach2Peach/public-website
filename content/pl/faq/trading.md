@@ -1,161 +1,160 @@
-# FAQ o Handlu
+# FAQ dotyczące Handlu
 
-:::details Jak mogę być pewien, że otrzymam bitcoiny / pieniądze?
+:::details Skąd mogę mieć pewność, że otrzymam bitcoiny / pieniądze?
 
-Przy tworzeniu oferty sprzedaży, sprzedawca wysyła bitcoiny na adres, który jest kontrolowany zarówno przez niego, jak i Peach: bitcoiny mogą być stąd przeniesione tylko wtedy, gdy on i Peach obaj na to się zgodzą. To zapewnia, że:
+Tworząc ofertę sprzedaży lub akceptując ofertę kupna, sprzedawca wysyła bitcoiny na adres kontrolowany przez niego i Peach: bitcoiny mogą zostać przesunięte tylko wtedy, gdy zarówno on, jak i Peach podpiszą transakcję. To zapewnia, że:
 
-- Sprzedawca nie może samodzielnie przenieść bitcoinów (z powrotem)
-- Peach nie może ukraść bitcoinów
-- Kupujący nie otrzyma bitcoinów, dopóki nie dokona płatności
-- Sprzedawca może odzyskać bitcoiny, jeśli kupujący nie odpowie
+- Sprzedawca nie może samodzielnie (z powrotem) przesunąć bitcoinów  
+- Peach nie może ukraść bitcoinów  
+- Kupujący nie otrzyma bitcoinów, dopóki nie zostanie dokonana płatność  
+- Sprzedawca może odzyskać bitcoiny, jeśli kupujący nie odpowiada  
 
-Jeśli transakcja nie zostanie rozwiązana normalnie, ten adres automatycznie przechodzi pod pełną kontrolę Peach po około 30 dniach (dokładniej: kiedy wydobytych zostanie 4320 bloków bitcoin). To zapewnia, że:
+Jeśli transakcja nie zostanie rozliczona normalnie, ten adres automatycznie przechodzi pod pełną kontrolę Peach po około 30 dniach (dokładnie: gdy zostanie wydobytych 4320 bloków bitcoin). To zapewnia, że:
 
-- Kupujący może otrzymać bitcoiny, jeśli może udowodnić, że dokonał płatności, a sprzedawca nie odpowiada
-- Bitcoiny nie zostają zablokowane, jeśli coś się stanie ze sprzedawcą
+- Kupujący otrzyma bitcoiny, jeśli udowodni, że dokonał płatności, a sprzedawca nie odpowiada  
+- Bitcoiny nie zostaną zablokowane, jeśli coś stanie się sprzedawcy  
 
-To jest najważniejsza część zabezpieczania twojej transakcji. Oprócz tego jest też nasz skomplikowany system reputacji, który pomaga ci zidentyfikować ludzi, którzy korzystali z Peach niezawodnie przez długi czas.
+To najważniejsza część zabezpieczenia Twojej transakcji. Oprócz tego mamy również rozbudowany system reputacji, który pomaga identyfikować osoby od dawna korzystające z Peach w sposób niezawodny.
 :::
 
-:::details Dlaczego istnieje limit handlu?
+:::details Dlaczego istnieje limit handlowy?
 
-Szwajcarskie przepisy stanowią, że osoba może kupić tylko do 1000 CHF bitcoinów dziennie, bez podawania swoich danych identyfikacyjnych sprzedającemu. Ponieważ wolimy unikać więzienia, wprowadzamy ten limit w aplikacji.
+Szwajcarskie przepisy stanowią, że osoba może kupić maksymalnie 1000 CHF bitcoinów dziennie bez ujawniania swojej tożsamości sprzedawcy. Ponieważ nie chcemy trafić do więzienia, egzekwujemy ten limit w aplikacji.
 
-Wszystkie twoje dane płatnicze są przechowywane na twoim telefonie, więc nie możemy ich zobaczyć. Co możemy zobaczyć, to hash* identyfikatora twojego telefonu oraz twoje dane płatnicze. To pozwala nam blokować wszelkie transakcje, które przekraczają osobisty limit.
+Wszystkie dane dotyczące płatności są przechowywane na Twoim telefonie, więc nie możemy ich zobaczyć. To, co widzimy, to hash\* identyfikatora Twojego telefonu i danych płatności. Dzięki temu możemy blokować transakcje przekraczające limit osobisty.
 
-* Hash to dane, które zostały zrobione nierozpoznawalne, podobnie do szyfrowania. Te same dane zawsze prowadzą do tego samego hasha. Oznacza to, że nie wiemy, jakie są dane, ale będziemy w stanie zauważyć, jeśli te same dane zostaną użyte dwukrotnie.
+\* Hash to dane przekształcone w sposób uniemożliwiający ich rozpoznanie, podobnie jak szyfrowanie. Te same dane zawsze prowadzą do tego samego hash. Oznacza to, że nie wiemy, jakie to dane, ale możemy wykryć, czy zostały użyte dwukrotnie.
 :::
 
-:::details Czy jest jakiś sposób, abym mógł kupić/sprzedać więcej niż limit transakcji?
+:::details Czy jest możliwość kupna/sprzedaży powyżej limitu?
 
-Jeśli jesteś kupującym lub sprzedającym dużej ilości, wyślij do nas e-mail na adres [$contactEmail$](mailto:$contactEmail$)!
+Jeśli jesteś sprzedawcą o dużym wolumenie, wyślij nam e-mail na adres [$contactEmail$](mailto:$contactEmail$)!  
+Zostaniesz poproszony o przejście procesu KYC i limity zostaną zniesione.
 :::
 
 :::details Jakie są opłaty za handel na Peach?
 
-Peach pobiera 2% wartości transakcji w opłatach od kupującego. Przy dokonywaniu transakcji na Peach, wykonujesz transakcje na łańcuchu bloków Bitcoin, co skutkuje opłatami transakcyjnymi. Zawsze możesz zobaczyć pełną strukturę opłat na końcu twojej transakcji, która może wyglądać mniej więcej tak:
+Peach pobiera od kupującego 2% wartości transakcji jako opłatę. Handlując na Peach, dokonujesz transakcji w sieci blockchain Bitcoin, co wiąże się z opłatami sieciowymi. Pełną strukturę opłat możesz zawsze zobaczyć na końcu transakcji, która może wyglądać np. tak:
 
-![Podział Transakcji](/img/faq/trading/TradeBreakdowns.png)
+![Rozliczenie Transakcji](/img/faq/trading/TradeBreakdowns.png)
 :::
 
 :::details Jak mogę anulować ofertę lub transakcję?
 
-Możesz anulować swoje oferty i transakcje, klikając czerwone X na górze ekranu, kiedykolwiek jest dostępne:
+Możesz anulować swoje oferty i transakcje, klikając czerwony X u góry ekranu, gdy tylko jest dostępny:
 
 ![Anuluj Transakcję](/img/faq/trading/cancel.png)
 
-Mimo to, często ma to konsekwencje. Zanim dopasujesz kogokolwiek, możesz anulować w dowolnym momencie. Po dopasowaniu jednak twoja reputacja zostanie negatywnie dotknięta . Oprócz tego, jako sprzedawca, musisz poprosić kupującego o zgodę na anulowanie transakcji. Mogli już dokonać płatności!
+Należy jednak pamiętać, że często ma to konsekwencje. Przed sparowaniem z kimś możesz anulować w dowolnym momencie. Po sparowaniu Twoja reputacja zostanie jednak negatywnie oceniona. Dodatkowo, jako sprzedawca, musisz poprosić kupującego o zgodę na anulowanie transakcji. Może się zdarzyć, że już dokonał płatności!
 :::
 
-:::details Dlaczego otrzymałem mniej satoshi, niż myślałem, że kupuję?
+:::details Dlaczego otrzymałem mniej satów, niż się spodziewałem?
 
-Peach pobiera 2% opłat transakcyjnych od kupującego, co oznacza, że otrzymasz mniej satoshi niż kwota transakcji. Oprócz tego, musisz zapłacić opłaty sieci bitcoin. Twoja transakcja może wyglądać na przykład tak:
+Peach pobiera od kupującego 2% opłaty handlowej, co oznacza, że otrzymasz mniej satów, niż wynosiła wartość transakcji. Dodatkowo musisz zapłacić opłaty sieci Bitcoin. Twoja transakcja może wyglądać na przykład tak:
 
-![Podział Zakupu](/img/faq/trading/TradeBreakdownBuy.png)
+![Rozliczenie Zakupu](/img/faq/trading/TradeBreakdownBuy.png)
 :::
 
 :::details Co jeśli nie chcę używać portfela Peach do wypłaty / zwrotu?
 
-Oczywiście, możesz używać własnego portfela, jeśli chcesz. Nadal jednak zdecydowanie polecamy korzystanie z portfela Peach, jako że to zdecydowanie najłatwiejszy sposób na dokonanie transakcji. Następnie możesz przesłać środki do dowolnego innego portfela.
+Oczywiście możesz użyć własnego portfela, jeśli chcesz. Nadal jednak zdecydowanie zalecamy korzystanie z portfela Peach, ponieważ jest to zdecydowanie najprostszy sposób na przeprowadzenie transakcji. Następnie możesz przesłać środki do dowolnego innego portfela.
 
-Jeśli chcesz dodać własny portfel, możesz wyłączyć "wypłata do portfela Peach" i następnie ustawić własny adres wypłaty:
+Jeśli chcesz dodać swój własny portfel, możesz wyłączyć „wypłatę do portfela Peach” i ustawić własny adres wypłaty:
 
 ![Wyłącz Portfel](/img/faq/trading/disablewallet.png)
 
-Przy dokonywaniu transakcji będziesz musiał podpisać wiadomość, że masz kontrolę nad tym portfelem, zgodnie z przepisami szwajcarskimi.
+Podczas zawierania transakcji musisz podpisać wiadomość potwierdzającą, że kontrolujesz ten portfel, zgodnie z przepisami szwajcarskimi.
 
-Będziemy pracować nad wsparciem xpub bardzo wkrótce, ale na razie będziesz musiał ręcznie zmienić ten adres, jeśli nie chcesz go ponownie używać.
+Wkrótce dodamy obsługę xpub, ale na razie musisz ręcznie zmienić ten adres, jeśli nie chcesz go ponownie używać.
 :::
 
-:::details Jak jest obliczana cena Bitcoina na Peach?
+:::details Jak obliczana jest cena Bitcoina na Peach?
 
-Cena BTC, którą pokazujemy na Peach, jest agregatem ceny BTC na scentralizowanych giełdach.
+Cena BTC, którą pokazujemy na Peach, to średnia cen BTC z giełd scentralizowanych.
 :::
 
-:::details Co dzieje się z ceną walut w przypadku wysokiej inflacji, takich jak Argentyna, Wenezuela itp.?
+:::details Co dzieje się z walutami w wysokiej inflacji, takimi jak Argentyna, Wenezuela itp.?
 
-Waluty podlegające wysokiej inflacji cierpią na wysoką zmienność, stąd cena, którą znajdziesz na różnych giełdach, może się różnić. Peach podaje cenę zgodnie z agregatem ceny BTC z różnych źródeł.
+Waluty objęte wysoką inflacją charakteryzują się dużą zmiennością, dlatego ceny na różnych giełdach mogą się różnić. Peach pokazuje cenę według średniej z różnych źródeł BTC.
 :::
 
-:::details Jak przyspieszyć transakcję, która utknęła z powodu niskich opłat za wydobycie?
-To zależy, o jakim typie transakcji mówimy. Oto lista wszystkich transakcji, które mogą wystąpić w Peach i ich rozwiązania na zwiększenie opłat:
+:::details Jak przyspieszyć transakcję, która utknęła z powodu niskich opłat górniczych?
 
-1. Transakcja finansowania depozytu na opublikowanie oferty sprzedaży
+To zależy od rodzaju transakcji. Oto lista transakcji, które mogą wystąpić na Peach, oraz rozwiązania pozwalające zwiększyć opłaty:
 
-- Jeśli finansowałeś depozyt z portfela Peach, możesz użyć RBF (Replace-By-Fee) do transakcji i zwiększyć opłaty
-- Jeśli finansowałeś depozyt z zewnętrznego portfela, musisz sprawdzić, czy portfel obsługuje RBF (Replace-By-Fee) do zwiększenia opłat sieciowych.
+1. Transakcja finansowania escrow w celu opublikowania oferty sprzedaży lub zaakceptowania oferty kupna  
 
-2. Transakcja zwolnienia z depozytu (kupowanie Bitcoina)
+- Jeśli sfinansowałeś escrow z portfela Peach, możesz użyć RBF (Replace-By-Fee), aby ponownie wysłać transakcję z wyższą opłatą  
+- Jeśli sfinansowałeś escrow z portfela zewnętrznego, sprawdź, czy portfel obsługuje RBF  
 
-- Jeśli twój adres odbiorczy pochodzi z portfela Peach, wtedy możesz wypłacić całkowitą kwotę do zewnętrznego portfela z wyższymi opłatami (Ustawienia > Opłaty sieciowe) - technika CPFP
-- Jeśli twój adres odbiorczy pochodzi z zewnętrznego portfela, również możesz użyć techniki CPFP, jeśli jest ona obsługiwana przez twój portfel
+2. Transakcja zwolnienia z escrow (kupno Bitcoina)  
 
-3. Transakcja wysyłania z portfela Peach do innego portfela
+- Jeśli Twój adres odbiorczy pochodzi z portfela Peach, możesz wypłacić całość do własnego portfela zewnętrznego z wyższą opłatą (Ustawienia > Opłaty Sieciowe) – technika CPFP  
+- Jeśli Twój adres odbiorczy pochodzi z portfela zewnętrznego, możesz również użyć techniki CPFP, jeśli Twój portfel to obsługuje  
 
-- RBF (Replace-By-Fee) z portfela Peach w szczegółach twojej transakcji!
+3. Transakcja wysyłki z portfela Peach do innego portfela  
+
+- RBF (Replace-By-Fee) z portfela Peach w szczegółach transakcji!
+  :::
+
+:::details Czym jest GroupHug?
+GroupHug to po prostu termin, który nadaliśmy procesowi łączenia transakcji różnych użytkowników, aby uniknąć płacenia indywidualnych opłat. Bardziej szczegółowe wyjaśnienie znajdziesz w naszym [poście na blogu](https://peachbitcoin.com/blog/group-hug).
 :::
 
-:::details Co to jest GroupHug?
-GroupHug to po prostu termin, który nadaliśmy akcji grupowania transakcji od różnych użytkowników, aby uniknąć opłat dla każdego z nich. Aby uzyskać bardziej szczegółowe wyjaśnienie, sprawdź nasz [wpis na blogu](https://peachbitcoin.com/pl/blog/group-hug).
-:::
+:::details Jeśli mam tylko jedną ofertę kupna w toku, czy zostanie ona natychmiast zrealizowana?
 
-:::details Czy jeśli mam jedną ofertę kupna, zostanie ona natychmiast zrealizowana?
-
-Nie, twoja wypłata zostanie dodana do kolejki, czekając na wypłatę. Wypłata zostanie dokonana, gdy wystarczająca liczba użytkowników weźmie udział w grupowaniu. Liczbę potrzebnych uczestników można zobaczyć w informacjach o oczekującej wypłacie. Możesz uzyskać dostęp do tego widoku przez szczegóły transakcji.
-Tam możesz zobaczyć, ile miejsc w bieżącej partii jest zajętych. W informacjach możesz również zobaczyć ETA, który powie ci maksymalny czas oczekiwania, jeśli miejsca nie zostaną wypełnione wcześniej.
+Nie, Twoja wypłata zostanie dodana do kolejki. Wypłata zostanie dokonana, gdy wystarczająca liczba użytkowników weźmie udział w batchu. Liczbę wymaganych uczestników można zobaczyć w informacjach o oczekującej wypłacie. Tam też możesz zobaczyć, ile miejsc w bieżącym batchu jest zajętych oraz ETA pokazującą maksymalny czas oczekiwania.
 :::
 
 :::details Jak to działa, jeśli mam wiele ofert kupna w toku?
 
-Tak jak wspomniano wcześniej, twoje wypłaty zostaną dodane do kolejki, czekając na grupowanie z innymi uczestnikami.
+Jak wspomniano wcześniej, Twoje wypłaty zostaną dodane do kolejki, aby połączyć je z innymi uczestnikami.
 :::
 
-:::details Czy istnieje limit uczestników, którzy mogą wziąć udział w grupowaniu?
+:::details Czy istnieje limit liczby uczestników batchu?
 
-Nie, partia może również przekroczyć maksymalną liczbę uczestników. Nie jest to limit, ale próg. Oznacza to, że jak tylko osiągnięty zostanie minimalny limit, po prostu bierzemy wszystkie psbty i grupujemy je razem, aby dokonać transakcji i zmniejszyć opłaty, które każdy uczestnik płaci.
+Nie, batch może obejmować także więcej uczestników niż minimalna wymagana liczba. To nie jest limit, ale próg. Gdy tylko osiągnięte zostanie minimum, bierzemy wszystkie psbt i łączymy je, aby wykonać transakcję i zmniejszyć opłaty dla każdego uczestnika.
 :::
 
 :::details Jak podpisać zewnętrzny adres?
-Postępuj zgodnie z tymi krokami, aby podpisać adres odbiorczy, gdy kupujesz Bitcoiny do zewnętrznego portfela:
+Postępuj zgodnie z tymi krokami, aby podpisać adres odbiorczy podczas zakupu Bitcoina na portfel zewnętrzny:
 
-_Uwaga: Pierwsze 2 kroki są przydatne, jeśli **zawsze** chcesz otrzymywać swoje środki na zewnętrzne adresy. Jeśli chcesz to zrobić tylko raz, lub czasami chcesz używać portfela Peach, zacznij od kroku 3._
+_Uwaga: Pierwsze 2 kroki są przydatne, jeśli chcesz **zawsze** otrzymywać środki na zewnętrzne adresy. Jeśli chcesz zrobić to tylko raz lub czasami korzystać z portfela Peach, zacznij od kroku 3._
 
-1. Przejdź do ustawień
+1. Przejdź do ustawień  
 
-- wyłącz portfel Peach
-- przejdź do adresu wypłaty
+- wyłącz portfel Peach  
+- przejdź do adresu wypłaty  
 
-2. Wklej nowy adres odbiorczy
+2. Wklej nowy adres odbiorczy  
 
-3. Przejdź przez proces publikacji oferty kupna i przed jej opublikowaniem, upewnij się, że wybierasz otrzymanie środków na swój zewnętrzny adres portfela (kliknij na małą ikonę portfela w prawym górnym rogu na ekranie podsumowania oferty).
+3. Przejdź przez proces publikacji oferty kupna i przed jej publikacją upewnij się, że wybrałeś adres zewnętrzny (kliknij w małą ikonę portfela w prawym górnym rogu ekranu podsumowania oferty).  
 
-4. Po potwierdzeniu oferty kupna, pojawi się wiadomość do podpisania adresu. Skopiuj ją i wróć do swojego portfela.
+4. Po potwierdzeniu oferty pojawi się wiadomość do podpisania. Skopiuj ją i wróć do swojego portfela.  
 
-5. Znajdź opcję "podpisz/weryfikuj"\* i wklej:
+5. Wyszukaj opcję „sign/verify”\* i wklej:  
 
-- swój adres odbiorczy
-- wiadomość od Peach
+- swój adres odbiorczy  
+- wiadomość Peach  
 
-6. Kliknij na podpisz, a pojawi się podpis. Skopiuj go.
+6. Kliknij podpisz i pojawi się podpis. Skopiuj go.  
 
-7. Wklej podpis do portfela Peach i kliknij na potwierdź.
+7. Wklej podpis w portfelu Peach i potwierdź.  
 
-8. Twoja oferta jest opublikowana.
+8. Twoja oferta została opublikowana.  
 
-_\*Uwaga: nie wszystkie portfele obsługują opcję podpisania/weryfikacji adresu._
-Peach poleca używanie Blue Wallet, Sparrow lub Samourai Wallet. Inne opcje to Ledger i Trezor (portfele sprzętowe), Bitcoin Core i portfel Electrum.
+_\* Zastrzeżenie: nie wszystkie portfele obsługują opcję sign/verify._  
+Peach zaleca korzystanie z Blue Wallet, Sparrow lub Samourai Wallet. Inne opcje to Ledger i Trezor (portfele sprzętowe), Bitcoin Core i Electrum.  
 
-Możesz również znaleźć krok po kroku samouczek, jak podpisać wiadomość za pomocą Blue Wallet na naszym koncie na Youtube: [https://youtu.be/d3STuVfFWfQ](https://youtu.be/d3STuVfFWfQ)
-
+Znajdziesz również samouczek krok po kroku dotyczący podpisywania wiadomości w Blue Wallet na naszym kanale Youtube: [https://youtu.be/d3STuVfFWfQ](https://youtu.be/d3STuVfFWfQ)
 :::
 
-:::details Jak użyć CPFP do przyspieszenia zawieszonych transakcji?
+:::details Jak użyć CPFP, aby przyspieszyć zablokowane transakcje?
 
-Postępuj zgodnie z krokami znalezionymi w tym filmie: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU), aby przyspieszyć zawieszone transakcje przy użyciu CPFP w aplikacji Peach.
+Postępuj zgodnie z krokami przedstawionymi w tym filmie: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU), aby przyspieszyć zablokowane transakcje przy użyciu CPFP w aplikacji Peach.
 :::
 
-:::details 
-Jak działa finansowanie wielu ofert?
+:::details Jak działa finansowanie wielu ofert sprzedaży z portfela zewnętrznego?
 
-Kiedy chcesz sfinansować wiele ofert jednocześnie, aplikacja udostępnia adres pośredni wygenerowany z Twojego portfela Peach Wallet. Gdy bitcoiny dotrą na ten adres, dla każdej umowy escrow tworzona jest nowa transakcja. Na przykład, jeśli chcesz sfinansować 5 ofert sprzedaży, zostanie wysłanych 5 transakcji na różne adresy escrow.
+Kiedy chcesz sfinansować wiele ofert sprzedaży naraz, aplikacja generuje adres pośredni z Twojego portfela Peach. Gdy tylko bitcoiny dotrą na ten adres, generowana jest nowa transakcja dla każdego escrow. Na przykład, jeśli chcesz sfinansować 5 ofert sprzedaży, zostanie wysłanych 5 transakcji na różne adresy escrow.
 :::

@@ -1,40 +1,41 @@
-# FAQ o Meczach
+# FAQ dotyczące Matches
 
-:::details Jak działa dopasowywanie w Peach?
+:::details Jak działa Matchmaking Peach?
 
-Peach łączy Cię z innym Kupującym lub Sprzedającym Bitcoiny zgodnie z Twoimi preferencjami dotyczącymi walut i metod płatności.
-Na tej podstawie Peach powiadamia Cię, gdy otrzymasz pasujące oferty.
-Sortujemy mecze według [wyniku reputacji](/faq/account/#what-does-the-peach-score-mean) i ceny oferty.
+Peach łączy cię z innym kupującym lub sprzedającym Bitcoina zgodnie z twoimi preferencjami dotyczącymi walut i metod płatności.  
+Na tej podstawie Peach powiadamia cię, gdy otrzymasz pasujące oferty.  
+Sortujemy matches według [wyniku reputacji](/faq/account/#what-does-the-peach-score-mean) i ceny oferty.
 :::
 
-:::details Jak jest tworzona transakcja?
+:::details Jak tworzona jest transakcja?
 
-Kupujący może dopasować tyle ofert sprzedaży, ile chce.
-Pierwszy Sprzedawca, który zaakceptuje ofertę Kupującego (Podwójne Dopasowanie), otrzymuje transakcję!
+Kupujący może dopasować dowolną liczbę ofert sprzedaży.  
+Sprzedający może dopasować dowolną liczbę ofert kupna.  
+Pierwsza strona, która zaakceptuje dopasowanie, otrzymuje transakcję i automatycznie zamyka wszystkie inne matches.
 :::
 
-:::details Czy mogę cofnąć dopasowanie oferty?
+:::details Czy mogę cofnąć dopasowanie?
 
-W każdej chwili!
-Uważaj, Twoja [reputacja](/faq/account/#what-does-the-peach-score-mean) będzie nieco dotknięta przez cofnięcie dopasowania oferty.
+W każdej chwili!  
+Uważaj: twój [wynik reputacji](/faq/account/#what-does-the-peach-score-mean) zostanie nieznacznie obniżony, jeśli cofniesz dopasowanie.
 :::
 
-:::details Czy mogę anulować Podwójne Dopasowanie (transakcję)?
+:::details Czy mogę anulować Double Match (transakcję)?
 
-Transakcja jest tworzona, jak tylko Sprzedawca zaakceptuje ofertę Kupującego.
-Kupujący automatycznie otrzymuje dane płatnicze Sprzedającego*.
-Kupujący może anulować transakcję w dowolnym momencie.
-Sprzedawca może anulować transakcję tylko pytając najpierw Kupującego, czy zgadza się na anulowanie.
-Uważaj, anulowanie transakcji wpływa na Twoją [reputację](/faq/account/#what-does-the-peach-score-mean)!
+Transakcja powstaje, gdy tylko Sprzedający zaakceptuje ofertę Kupującego lub Kupujący zaakceptuje ofertę Sprzedającego.  
+Kupujący może anulować transakcję w dowolnym momencie.  
+Sprzedający może ją anulować tylko pytając najpierw Kupującego, czy się zgadza.  
+Uważaj: anulowanie transakcji wpływa na twój [wynik reputacji](/faq/account/#what-does-the-peach-score-mean)!
 :::
 
 :::details Kiedy ustalana jest cena transakcji?
 
-Gdy kupujący dopasowuje ofertę.
-Sprzedawca może zaakceptować to dopasowanie lub nie.
+Gdy kupujący lub sprzedający dopasuje ofertę.  
+Sprzedający lub kupujący może zaakceptować lub odrzucić to dopasowanie.
 :::
 
-:::details Jako kupujący, czy mogę dopasować wielu sprzedawców?
+:::details Czy mogę dopasować wiele ofert?
 
-Tak! Możesz dopasować tylu sprzedawców, ile chcesz. Dopasowanie sprzedawcy nie gwarantuje, że on również Cię dopasuje, więc często mądre jest dopasowanie jak największej liczby. Transakcję przeprowadzisz z pierwszym sprzedawcą, który Cię dopasuje, podczas gdy inni będą musieli szukać nowych kupujących.
+Tak! Kupujący może dopasować się z tyloma sprzedającymi, ile chce, a sprzedający z tyloma kupującymi, ile chce.  
+Nie ma gwarancji, że wystawca oferty zaakceptuje dopasowanie, a pierwszy, który to zrobi, zamknie wszystkie inne.
 :::

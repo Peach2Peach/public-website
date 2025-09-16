@@ -1,122 +1,160 @@
-# Maswali Yanayoulizwa Mara kwa Mara kuhusu Biashara
+# Maswali ya Mara kwa Mara Kuhusu Biashara
 
-:::details How can I be sure I get the bitcoin / the money?
+:::details Ninawezaje kuwa na uhakika nitapata bitcoin / pesa?
 
-Unapofanya ofa ya kuuza, muuzaji huyu anatuma bitcoin kwa anwani inayodhibitiwa na yeye na Peach: bitcoin inaweza kuhamishwa kutoka hapa tu, ikiwa yeye na Peach wamesaini. Hii inahakikisha kwamba:
+Unapounda ofa ya kuuza au unapokubaliana na ofa ya kununua, muuzaji hutuma bitcoin kwenye anuani inayodhibitiwa naye na Peach: bitcoin zinaweza kuhamishwa tu ikiwa wote wawili watasaini. Hii inahakikisha kwamba:
 
-- Muuzaji hawezi kuhamisha bitcoin (nyuma) pekee
-- Peach hawezi kuiba bitcoin
-- Mnunuzi hapatwi na bitcoin hadi malipo yanafanyika
-- Muuzaji anaweza kurudisha bitcoin ikiwa mnunuzi hajajibu
+- Muuzaji hawezi kuhamisha bitcoin (kurudi) peke yake  
+- Peach hawezi kuiba bitcoin  
+- Mnunuzi hatapokea bitcoin hadi malipo yafanywe  
+- Muuzaji anaweza kurudishiwa bitcoin ikiwa mnunuzi hataki kujibu  
 
-Ikiwa biashara haikukamilika kawaida, anwani hii inakuja chini ya udhibiti kamili wa Peach baada ya takriban siku 30 (kuwa sahihi: baada ya kuchimbwa kwa kizuizi cha bitcoin 4320). Hii inahakikisha kwamba:
+Ikiwa biashara haimaliziki kawaida, anuani hii huingia moja kwa moja chini ya udhibiti kamili wa Peach baada ya takribani siku 30 (hasa: baada ya vitalu 4320 vya bitcoin kuchimbwa). Hii inahakikisha kwamba:
 
-- Mnunuzi anaweza kupata bitcoin ikiwa anaweza kuthibitisha alifanya malipo lakini muuzaji hajajibu
-- Bitcoin haijafungwa ikiwa kitu kitatokea kwa muuzaji
+- Mnunuzi anaweza kupata bitcoin ikiwa ataweza kuthibitisha kuwa amelipa lakini muuzaji hajibu  
+- Bitcoin hazitakwama ikiwa kitu kimempata muuzaji  
 
-Hii ndio sehemu muhimu zaidi ya kuhakikisha biashara yako inakuwa salama. Mbali na hayo, kuna mfumo wetu wa sifa uliojikita, ambao husaidia kutambua watu ambao wamekuwa wakitumia Peach kwa uaminifu kwa muda mrefu.
+Hii ndiyo sehemu muhimu zaidi ya kulinda biashara yako. Zaidi ya hapo, tuna mfumo wetu wa hadhi unaokusaidia kutambua watu waliotumia Peach kwa uaminifu kwa muda mrefu.
 :::
 
-:::details Why is there a trading limit?
+:::details Kwa nini kuna kikomo cha biashara?
 
-Sheria za Uswisi zinasema kwamba mtu anaweza kununua bitcoin hadi CHF 1000 kwa siku, bila kutoa utambulisho wake kwa muuzaji. Kwa kuwa tunapendelea kubaki nje ya gerezani, tunatekeleza kikomo hiki kwenye programu.
+Kanuni za Uswisi zinasema kuwa mtu anaweza kununua hadi CHF 1000 za bitcoin kwa siku bila kutoa kitambulisho chake kwa muuzaji. Kwa kuwa hatutaki kuishia gerezani, tunatekeleza kikomo hiki kwenye programu.
 
-Maelezo yote ya malipo yamehifadhiwa kwenye simu yako, kwa hivyo hatuwezi kuyaona. Tunaweza kuona hash\* ya Kitambulisho cha simu yako na maelezo yako ya malipo. Hii inaruhusu kuzuia biashara yoyote inayovuka kikomo cha kibinafsi.
+Maelezo yako yote ya malipo yanahifadhiwa kwenye simu yako, kwa hivyo hatuwezi kuyaona. Tunachoweza kuona ni hash\* ya kitambulisho cha simu yako na maelezo ya malipo yako. Hii inatuwezesha kuzuia biashara zinazozidi kikomo cha kibinafsi.
 
-\* Hash ni data iliyofanywa isiyojulikana, kama vile kuirarua. Data ile ile itaongoza daima kwa hash ile ile. Hii inamaanisha hatujui ni data gani, lakini tutaweza kuona ikiwa data ile ile inatumika mara mbili.
+\* Hash ni data iliyofanywa isiweze kutambulika, sawa na usimbaji fiche. Data ile ile daima itatoa hash ile ile. Hii inamaanisha hatujui ni data gani, lakini tunaweza kugundua ikiwa imetumika mara mbili.
 :::
 
-:::details Is there any way I can buy/sell more than the trading limit?
+:::details Je, kuna njia ya kununua/kuuza zaidi ya kikomo?
 
-Ikiwa wewe ni mnunuzi au muuzaji wa kiasi kikubwa, tuma barua pepe kwetu kwa [$contactEmail$](mailto:$contactEmail$)!
+Ikiwa wewe ni muuzaji mwenye kiasi kikubwa, tutumie barua pepe kwa [$contactEmail$](mailto:$contactEmail$)!  
+Utaombwa kufuata mchakato wa KYC na viwango vyako vitaondolewa.
 :::
 
-:::details What are the fees for trading on Peach?
+:::details Ada za biashara kwenye Peach ni zipi?
 
-Peach inatoza ada ya 2% ya kiasi cha biashara kwa mnunuzi. Unapofanya biashara kwenye Peach, unafanya shughuli kwenye blockchain ya Bitcoin, ambayo itasababisha ada za manunuzi. Unaweza kuona kabisa muundo kamili wa ada mwishoni mwa biashara yako, ambayo inaweza kuonekana kama hii:
+Peach hutoza 2% ya kiasi cha biashara kwa mnunuzi kama ada. Unapofanya biashara kwenye Peach, unafanya miamala kwenye blockchain ya Bitcoin, jambo linalosababisha ada za mtandao. Daima unaweza kuona muundo kamili wa ada mwishoni mwa biashara yako, ambayo inaweza kuonekana hivi:
 
-![Uchambuzi wa Biashara](/img/faq/trading/TradeBreakdowns.png)
+![Ufafanuzi wa Biashara](/img/faq/trading/TradeBreakdowns.png)
 :::
 
-:::details How can I cancel an offer or a trade?
+:::details Ninawezaje kughairi ofa au biashara?
 
-Unaweza kufuta ofa na biashara zako kwa kubonyeza X nyekundu juu ya skrini, wakati wowote inapopatikana:
+Unaweza kughairi ofa zako na biashara kwa kubofya alama nyekundu ya X juu ya skrini, pale inapopatikana:
 
-![Futa Biashara](/img/faq/trading/cancel.png)
+![Ghairi Biashara](/img/faq/trading/cancel.png)
 
-Hata hivyo, hii mara nyingi inaweza kuwa na athari. Kabla ya kufanana na mtu yeyote, unaweza kufuta wakati wowote. Baada ya kufanana, hata hivyo, sifa yako itaathiriwa vibaya. Mbali na hayo, kama muuzaji, utahitaji kuomba idhini ya mnunuzi ili kufuta biashara. Wanaweza tayari kufanya malipo!
+Hata hivyo, mara nyingi hili huwa na madhara. Kabla ya kufanana na mtu, unaweza kughairi wakati wowote. Lakini baada ya kufanana, hadhi yako itaharibika. Aidha, kama muuzaji, utalazimika kumwomba mnunuzi ruhusa ya kughairi biashara. Huenda tayari amefanya malipo!
 :::
 
-:::details Why did I receive less sats than I thought I was buying?
+:::details Kwa nini nilipokea sats chache kuliko nilivyotarajia?
 
-Peach inatoza ada ya 2% kwa mnunuzi, ambayo inamaanisha kuwa utapata sats chache kuliko kiasi cha biashara. Mbali na hayo, utalazimika kulipa ada za mtandao wa Bitcoin. Biashara yako inaweza kuonekana kama hii, kwa mfano:
+Peach hutoza ada ya biashara ya 2% kwa mnunuzi, jambo linalomaanisha utapokea sats chache kuliko kiasi cha biashara. Zaidi ya hapo, utahitaji kulipa ada za mtandao wa Bitcoin. Biashara yako inaweza kuonekana, kwa mfano, hivi:
 
-![Uchambuzi wa Ununuzi](/img/faq/trading/TradeBreakdownBuy.png)
+![Ufafanuzi wa Kununua](/img/faq/trading/TradeBreakdownBuy.png)
 :::
 
-:::details What if I don't want to use the Peach wallet for the payout / refund?
+:::details Itakuwaje nisipotaka kutumia pochi ya Peach kwa malipo / kurejeshewa?
 
-Kwa kweli, una uhuru wa kutumia mkoba wako mwenyewe ikiwa unataka. Bado tunapendekeza sana kutumia mkoba wa Peach, kwani ni njia rahisi zaidi ya kufanya biashara. Kisha unaweza kutuma pesa kwa mkoba mwingine wowote.
+Bila shaka, unaweza kutumia pochi yako mwenyewe ikiwa unataka. Hata hivyo, tunapendekeza sana kutumia pochi ya Peach, kwa sababu ndiyo njia rahisi zaidi ya kufanya biashara. Baadaye unaweza kuhamisha fedha zako kwenye pochi nyingine yoyote.
 
-Ikiwa unataka kuongeza mkoba wako mwenyewe, unaweza kulemaza "malipo kwa mkoba wa Peach" na kisha kuweka anwani ya malipo ya desturi:
+Ikiwa unataka kuongeza pochi yako mwenyewe, unaweza kuzima “malipo kwa pochi ya Peach” na kisha kuweka anuani ya malipo ya kawaida:
 
-![Lemaza Mkoba](/img/faq/trading/disablewallet.png)
+![Zima Pochi](/img/faq/trading/disablewallet.png)
 
-Unapofanya biashara, utahitaji kusaini ujumbe kwamba uko kudhibiti wa mkoba huu, kulingana na kanuni za Uswisi.
+Unapofanya biashara, utalazimika kusaini ujumbe kuthibitisha kuwa unadhibiti pochi hiyo, kulingana na kanuni za Uswisi.
 
-Tutafanya kazi kwenye msaada wa xpub hivi karibuni, lakini kwa sasa, utalazimika kubadilisha anwani hii kwa mikono ikiwa hautaki kuitumia tena.
+Tutakuwa tukifanya kazi ya kuunga mkono xpub hivi karibuni, lakini kwa sasa, utalazimika kubadilisha anuani hii kwa mikono ikiwa hutaki kuitumia tena.
 :::
 
-:::details How is the Bitcoin price calculated on Peach?
+:::details Bei ya Bitcoin kwenye Peach inakokotolewaje?
 
-Bei ya BTC tunayoonyesha kwenye Peach ni pamoja na bei ya BTC kwenye kubadilishaji wa kati.
+Bei ya BTC tunayoonyesha kwenye Peach ni wastani kutoka kwa bei ya BTC kwenye masoko yaliyosentralishwa.
 :::
 
-:::details What happens with the price of currencies under high inflation such as Argentina, Venezuela, etc. ?
+:::details Nini hufanyika kwa sarafu chini ya mfumuko wa bei mkubwa kama vile Argentina, Venezuela, n.k.?
 
-Sarafu zenye mfumuko wa bei mkubwa hukumbwa na utulivu mkubwa, kwa hivyo bei unayoipata kwenye kubadilishaji tofauti inaweza kutofautiana. Peach inatoa bei kulingana na kusanyiko la bei ya BTC kutoka kwa vyanzo tofauti.
+Sarafu zilizo chini ya mfumuko wa bei mkubwa zinakumbwa na mabadiliko makubwa ya thamani, hivyo bei unazopata kwenye masoko tofauti zinaweza kutofautiana. Peach hutoa bei kulingana na wastani kutoka vyanzo mbalimbali vya BTC.
 :::
 
-:::details How to bump a transaction that is stuck because of low mining fees?
-Inategemea aina gani ya shughuli tunazungumza. Hapa kuna orodha ya shughuli zote zinazoweza kutokea kwa Peach na suluhisho lao kuboresha ada:
+:::details Nifanyeje kuongeza ada ya muamala uliokwama kutokana na ada ndogo za uchimbaji?
 
-1. Shughuli ya kuweka dhamana ili kuchapisha ofa ya kuuza
+Inategemea aina ya muamala. Hapa kuna orodha ya miamala inayoweza kutokea kwenye Peach na suluhu za kuongeza ada:
 
-- Ikiwa ulifadhili dhamana kutoka kwa mkoba wa Peach, unaweza kubadilisha ada kwenye shughuli na kuongeza ada ya mtandao
-- Ikiwa ulifadhili dhamana kutoka kwa mkoba wa nje, unahitaji kuangalia ikiwa mkoba unasaidia RBF (Badilisha kwa Kibali) kuongeza ada ya mtandao.
+1. Muamala wa kufadhili escrow kwa ajili ya kuchapisha ofa ya kuuza au kukubaliana na ofa ya kununua  
 
-2. Shughuli ya kutolewa kutoka kwa dhamana (ununuzi wa Bitcoin)
+- Ikiwa ulifadhili escrow kutoka kwenye pochi ya Peach, unaweza kutumia RBF (Replace-By-Fee) kuongeza ada  
+- Ikiwa ulifadhili escrow kutoka kwenye pochi ya nje, unapaswa kuangalia kama pochi hiyo inasaidia RBF  
 
-- Ikiwa anwani yako ya kupokea ni kutoka kwa mkoba wa Peach, basi unaweza kutoa kiasi kamili kwa mkoba wako wa nje na ada kubwa (Mipangilio > Ada ya Mtandao) - Mbinu ya CPFP
-- Ikiwa anwani yako ya kupokea ni kutoka kwa mkoba wa nje, unaweza pia kutumia mbinu ya CPFP ikiwa inasaidiwa na mkoba wako
+2. Muamala wa kutoa kutoka kwenye escrow (kununua Bitcoin)  
 
-3. Shughuli ya kutuma kutoka kwa mkoba wa Peach kwenda kwa mkoba mwingine
+- Ikiwa anuani yako ya kupokea ni ya pochi ya Peach, unaweza kutoa jumla kwa pochi yako ya nje kwa ada kubwa zaidi (Mipangilio > Ada za Mtandao) – mbinu ya CPFP  
+- Ikiwa anuani yako ya kupokea ni ya pochi ya nje, unaweza pia kutumia mbinu ya CPFP ikiwa pochi yako inaunga mkono  
 
-- RBF (Badilisha kwa Kibali) kutoka kwa Mkoba wa Peach kwenye maelezo yako ya shughuli!
+3. Muamala wa kutuma kutoka kwenye pochi ya Peach kwenda kwenye pochi nyingine  
+
+- RBF (Replace-By-Fee) kutoka kwenye pochi ya Peach kwenye maelezo ya muamala!
   :::
 
-:::details What is GroupHug?
-GroupHug ni jina tu ambalo tumetoa kwa hatua ya kuweka pamoja shughuli kutoka kwa watumiaji tofauti ili kuepuka ada kwa kila mmoja wao. Kwa maelezo zaidi, angalia [chapisho letu la blogi](https://peachbitcoin.com/sw/blog/group-hug).
+:::details Nini maana ya GroupHug?
+GroupHug ni neno tulilotoa kwa tendo la kuunganisha miamala kutoka kwa watumiaji mbalimbali ili kuepuka ada kwa kila mmoja wao. Kwa maelezo zaidi, angalia [blogu yetu](https://peachbitcoin.com/blog/group-hug).
 :::
 
-:::details If I have a single buy offer running it will be released immediately?
+:::details Ikiwa nina ofa moja tu ya kununua inayoendelea, je, italipwa mara moja?
 
-Hapana, malipo yako yataongezwa kwenye foleni, yakisubiri malipo. Malipo yatafanywa wakati wa kutosha waendeshaji wanashiriki kwenye kundi. Unaweza kufikia maoni haya kupitia maelezo ya biashara.
-Huko unaweza kuona ni nafasi ngapi za kundi la sasa zilizochukuliwa
-Katika habari unaweza pia kuona ETA ambayo itakuambia muda wa kungojea wa kiwango cha juu ikiwa nafasi hazijazidi kabla.
+Hapana, malipo yako yataongezwa kwenye foleni, yakisubiri malipo. Malipo yatafanyika pale watumiaji wa kutosha watakaposhiriki kwenye batch. Idadi ya washiriki wanaohitajika inaonekana kwenye taarifa ya malipo yanayosubiri. Hapo unaweza pia kuona ni nafasi ngapi zimejazwa na makadirio ya muda wa kusubiri.
 :::
 
-:::details How does it work, If I have multiple buying offers ongoing?
+:::details Itakuwaje ikiwa nina ofa nyingi za kununua kwa wakati mmoja?
 
-Kama ilivyotajwa hapo awali, malipo yako yataongezwa kwenye foleni ya kungojea kuunganishwa na washiriki wengine.
+Kama ilivyotajwa, malipo yako yataongezwa kwenye foleni ili yaunganishwe na yale ya washiriki wengine.
 :::
 
-:::details Is there a limit of participants who can participate in the batching?
+:::details Kuna kikomo cha idadi ya washiriki wa batch?
 
-Hapana, vikundi vinaweza pia kuzidi idadi ya washiriki. Sio kikomo, bali kizingiti. Hii inamaanisha, mara tu kikomo cha chini kitakapofikiwa, tutachukua tu psbts zote na kuziweka pamoja kufanya shughuli, na kupunguza ada kwa kila mshiriki anayelipa.
+Hapana, batch zinaweza pia kuwa na washiriki zaidi ya kiwango cha chini kinachohitajika. Sio kikomo cha kukata, bali ni kizingiti. Mara tu kiwango cha chini kinapofikiwa, tunachukua psbt zote na kuziunganisha pamoja kufanya muamala, na kupunguza ada kila mshiriki analipa.
 :::
 
-:::details Jinsi gani kufadhili ofa nyingi hufanya kazi?
+:::details Jinsi ya kusaini anuani ya nje?
+Fuata hatua hizi ili kusaini anuani ya kupokea unaponunua Bitcoin kwa pochi ya nje:
 
-Unapotaka kufadhili ofa nyingi kwa wakati mmoja, programu hutoa anwani ya kati inayotokana na Peach Wallet yako. Mara tu bitcoins zinapofika kwenye anwani hii, muamala mpya kwa kila akaunti ya escrow hutengenezwa. Kwa mfano, ikiwa unataka kufadhili ofa 5 za kuuza, miamala 5 itatumwa kwa anwani tofauti za escrow.
+_Kumbuka: Hatua mbili za kwanza ni muhimu ikiwa unataka **kila wakati** kupokea fedha zako kwenye anuani za nje. Ikiwa unataka kufanya hivyo mara moja tu, au wakati mwingine kutumia pochi ya Peach, anza kutoka hatua ya 3._
+
+1. Nenda kwenye mipangilio  
+
+- zima pochi ya Peach  
+- nenda kwenye anuani ya malipo  
+
+2. Bandika anuani mpya ya kupokea  
+
+3. Pitia mchakato wa kuchapisha ofa yako ya kununua, na kabla ya kuchapisha, hakikisha umechagua kupokea kwenye anuani ya nje (bofya alama ndogo ya pochi juu kulia kwenye skrini ya muhtasari wa ofa).  
+
+4. Baada ya kuthibitisha ofa yako ya kununua, ujumbe wa kusaini anuani yako utaonekana. Nakili na urudi kwenye pochi yako.  
+
+5. Tafuta chaguo la "sign/verify"\* na bandika:  
+
+- anuani yako ya kupokea  
+- ujumbe wa Peach  
+
+6. Bofya saini na sahihi itaonekana. Nakili.  
+
+7. Bandika sahihi hiyo kwenye pochi ya Peach na ubofye thibitisha.  
+
+8. Ofa yako imechapishwa.  
+
+_\* Angalizo: si pochi zote zinazosaidia chaguo la kusaini/kuthibitisha._  
+Peach inapendekeza Blue Wallet, Sparrow au Samourai Wallet. Chaguo zingine ni pamoja na Ledger na Trezor (Pochi za vifaa), Bitcoin Core na Electrum.  
+
+Unaweza pia kupata mafunzo ya hatua kwa hatua ya jinsi ya kusaini ujumbe ukitumia Blue Wallet kwenye akaunti yetu ya Youtube: [https://youtu.be/d3STuVfFWfQ](https://youtu.be/d3STuVfFWfQ)
+:::
+
+:::details Jinsi ya kutumia CPFP kuharakisha miamala iliyokwama?
+
+Fuata hatua zilizoko kwenye video hii: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU) ili kuharakisha miamala iliyokwama kwa kutumia CPFP ndani ya app ya Peach.
+:::
+
+:::details Inakuwaje kufadhili ofa nyingi za kuuza kutoka kwenye pochi ya nje?
+
+Unapotaka kufadhili ofa nyingi za kuuza kwa wakati mmoja, programu hutengeneza anuani ya kati kutoka kwenye pochi yako ya Peach. Mara tu bitcoin zinapofika kwenye anuani hii, muamala mpya unatengenezwa kwa kila escrow. Kwa mfano, ikiwa unataka kufadhili ofa 5 za kuuza, miamala 5 tofauti inatumwa kwenye anuani za escrow tofauti.
 :::

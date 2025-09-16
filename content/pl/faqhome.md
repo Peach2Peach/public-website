@@ -35,10 +35,4 @@ Witamy w naszej sekcji FAQ! Wybierz jedną z poniższych kategorii, aby znaleź�
             <h3>Samouczek</h3>
         </a>
     </div>
-    <div class="faq-grid-item">
-        <a href="/pl/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2024-with-PeachBitcoin/">
-            <i class="fa fa-exchange-alt"></i>
-            <h3>Kupno & Sprzedaż Bitcoina</h3>
-        </a>
-    </div>
 </div>

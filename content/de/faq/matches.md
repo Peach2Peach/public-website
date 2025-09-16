@@ -1,40 +1,41 @@
-# Matches FAQ
+# FAQ zu Matches
 
-:::details Wie funktioniert dass Peach Matchmaking?
+:::details Wie funktioniert Peach Matchmaking?
 
-Peach verbindet dich mit einem anderen Bitcoin-Käufer oder -Verkäufer entsprechend deinen Präferenzen in Bezug auf Währungen und Zahlungsmethoden.
-Auf dieser Grundlage benachrichtigt dich Peach, wenn du passende Angebote erhälst.
-Wir sortieren die Übereinstimmungen nach [reputationsbewertung](/de/faq/account/#was-bedeutet-der-peach-score) und Preis des Angebots.
+Peach verbindet dich mit einem anderen Bitcoin-Käufer oder -Verkäufer entsprechend deiner Präferenzen bei Währungen und Zahlungsmethoden.  
+Basierend darauf benachrichtigt dich Peach, wenn du passende Angebote erhältst.  
+Wir sortieren die Matches nach [Reputationsscore](/faq/account/#what-does-the-peach-score-mean) und Preis des Angebots.
 :::
 
-:::details Wie entsteht ein Trade?
+:::details Wie entsteht ein Handel?
 
-Ein Käufer kann so viele Verkaufsangebote matchen wie er möchte.
-Der erste Verkäufer der das Angebot des Käufers annimmt (zurückmatched), erhält den Trade!
+Ein Käufer kann so viele Verkaufsangebote matchen, wie er möchte.  
+Ein Verkäufer kann so viele Kaufangebote matchen, wie er möchte.  
+Die erste Gegenpartei, die das Match akzeptiert, erhält den Handel und alle anderen Matches werden automatisch geschlossen.
 :::
 
-:::details Kann ich den match eines Angebots zurückziehen?
+:::details Kann ich ein Match wieder aufheben?
 
-Jederzeit!
-Sei vorsichtig dein [reputationsbewertung](/de/faq/account/#was-bedeutet-der-peach-score) wird leicht negativ beeinflusst wenn du den match zurückziehst.
+Jederzeit!  
+Achtung: Dein [Reputationsscore](/faq/account/#what-does-the-peach-score-mean) wird leicht beeinträchtigt, wenn du ein Match aufhebst.
 :::
 
-:::details Kann ich ein Double Match (einen Trade) stornieren?
+:::details Kann ich ein Double Match (einen Handel) stornieren?
 
-Ein Trade kommt zustande, sobald der Verkäufer das Angebot eines Käufers zurückmatched.
-Der Käufer erhält automatisch die Zahlungsdaten des Verkäufers.
-Der Käufer kann den Trade jederzeit stornieren.
-Der Verkäufer kann einen Trade nur stornieren indem er den Käufer zunächst fragt, ob er mit der stornierung einverstanden ist.
-Sei vorsichtig, die Stornierung eines Handels wirkt sich auf deinen [reputationsbewertung](/de/faq/account/#was-bedeutet-der-peach-score) aus!
+Ein Handel wird erstellt, sobald der Verkäufer ein Kaufangebot akzeptiert oder der Käufer ein Verkaufsangebot akzeptiert.  
+Der Käufer kann den Handel jederzeit stornieren.  
+Der Verkäufer kann einen Handel nur stornieren, indem er zuerst den Käufer um Zustimmung bittet.  
+Achtung: Das Stornieren eines Handels wirkt sich auf deinen [Reputationsscore](/faq/account/#what-does-the-peach-score-mean) aus!
 :::
 
 :::details Wann wird der Preis des Handels festgelegt?
 
-Wenn der Käufer ein Angebot matched.
-Der Verkäufer kann diesen Match akzeptieren oder nicht.
+Wenn der Käufer oder Verkäufer ein Angebot matched.  
+Der Verkäufer oder Käufer kann dieses Match akzeptieren oder ablehnen.
 :::
 
-:::details Kann ich als Käufer mehrere Verkäufer matchen?
+:::details Kann ich mehrere Angebote matchen?
 
-Ja! du kannst so viele Verkäufer matchen wie du möchtest. Das Matchen eines Verkäufers garantiert nicht, dass er dich auch zurückmatched daher ist es klug so viele wie möglich zu matchen. Du schliesst den Trade mit dem ersten Verkäufer ab welcher dich zurückmatched während die anderen auf neue Käufer warten müssen.
+Ja! Ein Käufer kann beliebig viele Verkäufer matchen, und ein Verkäufer kann beliebig viele Käufer matchen.  
+Es ist nicht garantiert, dass der Anbieter des Angebots das Match akzeptiert, und der erste Anbieter, der ein Match annimmt, schließt alle anderen.
 :::

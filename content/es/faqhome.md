@@ -35,10 +35,4 @@
             <h3>Tutorial</h3>
         </a>
     </div>
-    <div class="faq-grid-item">
-        <a href="/es/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2024-with-PeachBitcoin/">
-            <i class="fa fa-exchange-alt"></i>
-            <h3>Compra & Venta de Bitcoin</h3>
-        </a>
-    </div>
 </div>

@@ -35,10 +35,4 @@ Welkom bij onze FAQ-sectie! Selecteer een van de onderstaande categorieën om an
             <h3>Handleiding</h3>
         </a>
     </div>
-    <div class="faq-grid-item">
-        <a href="/nl/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2024-with-PeachBitcoin/">
-            <i class="fa fa-exchange-alt"></i>
-            <h3>Bitcoin kopen & verkopen</h3>
-        </a>
-    </div>
 </div>

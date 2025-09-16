@@ -1,160 +1,160 @@
 # Handels-FAQ
 
-:::details Hoe kan ik er zeker van zijn dat ik de bitcoin / het geld krijg?
+:::details Hoe kan ik er zeker van zijn dat ik de bitcoin / het geld ontvang?
 
-Bij het doen van een verkoopaanbieding, stuurt de verkoper de bitcoin naar een adres dat door hem en Peach wordt gecontroleerd: de bitcoin kan alleen vanaf hier worden verplaatst als hij en Peach er allebei akkoord mee gaan. Dit zorgt ervoor dat:
+Wanneer je een verkoopaanbod maakt of een koopaanbod accepteert, stuurt de verkoper de bitcoin naar een adres dat wordt gecontroleerd door hem en Peach: de bitcoin kan alleen worden verplaatst als zowel hij als Peach ondertekenen. Dit zorgt ervoor dat:
 
-- De verkoper de bitcoin niet (terug) alleen kan verplaatsen
-- Peach de bitcoin niet kan stelen
-- De koper de bitcoin niet krijgt totdat de betaling is gedaan
-- De verkoper de bitcoin terug kan krijgen als de koper niet reageert
+- De verkoper de bitcoin niet zelfstandig (terug) kan verplaatsen  
+- Peach de bitcoin niet kan stelen  
+- De koper de bitcoin pas ontvangt nadat de betaling is gedaan  
+- De verkoper de bitcoin kan terugkrijgen als de koper niet reageert  
 
-Als de handel niet normaal wordt afgehandeld, komt dit adres automatisch volledig onder de controle van Peach na ongeveer 30 dagen (om precies te zijn: wanneer 4320 bitcoin-blokken zijn gedolven). Dit zorgt ervoor dat:
+Als de handel niet normaal wordt afgerond, komt dit adres automatisch volledig onder controle van Peach na ongeveer 30 dagen (precies: wanneer 4320 bitcoinblokken zijn gedolven). Dit zorgt ervoor dat:
 
-- De koper de bitcoin kan krijgen als hij kan bewijzen dat hij de betaling heeft gedaan maar de verkoper niet reageert
-- De bitcoin niet vastloopt als er iets met de verkoper gebeurt
+- De koper de bitcoin kan krijgen als hij kan bewijzen dat hij heeft betaald maar de verkoper niet reageert  
+- De bitcoin niet vast komt te zitten als er iets met de verkoper gebeurt  
 
-Dit is het belangrijkste onderdeel van het beveiligen van uw handel. Daarnaast is er ook ons ingewikkelde reputatiesysteem, dat u helpt mensen te identificeren die Peach al lange tijd betrouwbaar gebruiken.
+Dit is het belangrijkste onderdeel van de beveiliging van je handel. Daarnaast is er ook ons uitgebreide reputatiesysteem dat je helpt mensen te identificeren die Peach al lange tijd betrouwbaar gebruiken.
 :::
 
 :::details Waarom is er een handelslimiet?
 
-Zwitserse regelgeving bepaalt dat een persoon slechts tot 1000 CHF aan bitcoin per dag kan kopen, zonder zijn identificatie aan de verkoper te verstrekken. Aangezien we liever uit de gevangenis blijven, handhaven we deze limiet in de app.
+Volgens de Zwitserse regelgeving mag een persoon slechts tot 1000 CHF aan bitcoin per dag kopen zonder zijn identiteit aan de verkoper bekend te maken. Aangezien we liever niet in de gevangenis belanden, handhaven we deze limiet in de app.
 
-Al uw betalingsgegevens worden op uw telefoon opgeslagen, zodat we ze niet kunnen zien. Wat we wel kunnen zien, is een hash* van de ID van uw telefoon en uw betalingsgegevens. Dit stelt ons in staat om alle transacties te blokkeren die de persoonlijke limiet overschrijden.
+Al je betaalgegevens worden op je telefoon opgeslagen, dus wij kunnen ze niet zien. Wat we wél kunnen zien is een hash\* van het ID van je telefoon en je betaalgegevens. Hierdoor kunnen we transacties blokkeren die boven de persoonlijke limiet uitkomen.
 
-\* Een hash is wat gegevens die onherkenbaar zijn gemaakt, vergelijkbaar met het versleutelen ervan. Dezelfde gegevens leiden altijd tot dezelfde hash. Dit betekent dat we niet weten wat de gegevens zijn, maar we zullen kunnen zien of dezelfde gegevens twee keer worden gebruikt.
+\* Een hash zijn gegevens die onherkenbaar zijn gemaakt, vergelijkbaar met encryptie. Dezelfde gegevens leiden altijd tot dezelfde hash. Dit betekent dat wij niet weten wat de gegevens zijn, maar we kunnen herkennen of dezelfde gegevens twee keer worden gebruikt.
 :::
 
-:::details Is er een manier waarop ik meer dan de handelslimiet kan kopen / verkopen?
+:::details Is er een manier om meer te kopen/verkopen dan de limiet?
 
-Als u een koper of verkoper met een hoog volume bent, stuur ons dan een e-mail naar [$contactEmail$](mailto:$contactEmail$)!
+Als je een verkoper met hoog volume bent, stuur ons een e-mail naar [$contactEmail$](mailto:$contactEmail$)!  
+Je wordt gevraagd een KYC-proces te doorlopen en je limieten worden verwijderd.
 :::
 
 :::details Wat zijn de kosten voor handelen op Peach?
 
-Peach brengt 2% van het handelsvolume aan kosten in rekening aan de koper. Bij het doen van een transactie op Peach, voert u transacties uit op de Bitcoin-blockchain, wat resulteert in transactiekosten. U kunt altijd de volledige vergoedingenstructuur aan het einde van uw transactie zien, die er als volgt uit kan zien:
+Peach rekent 2% van het handelsvolume als kosten aan de koper. Wanneer je handelt op Peach, voer je transacties uit op de Bitcoin-blockchain, wat netwerkfees met zich meebrengt. Je kunt altijd de volledige kostenstructuur zien aan het einde van je handel, die er bijvoorbeeld zo uit kan zien:
 
-![Handelsafsplitsingen](/img/faq/trading/TradeBreakdowns.png)
+![Transactieoverzicht](/img/faq/trading/TradeBreakdowns.png)
 :::
 
-:::details Hoe kan ik een aanbieding of een transactie annuleren?
+:::details Hoe kan ik een aanbod of een handel annuleren?
 
-U kunt uw aanbiedingen en transacties annuleren door op de rode X bovenaan het scherm te klikken, wanneer deze beschikbaar is:
+Je kunt je aanbiedingen en transacties annuleren door bovenaan het scherm op de rode X te klikken, wanneer deze beschikbaar is:
 
 ![Handel annuleren](/img/faq/trading/cancel.png)
 
-Dat gezegd hebbende, heeft dit vaak wel gevolgen. Voordat u met iemand matcht, kunt u op elk moment annuleren. Nadat u gematcht bent, wordt uw reputatie echter negatief beïnvloed. Daarnaast moet u als verkoper toestemming vragen aan de koper om de transactie te annuleren. Ze hebben mogelijk al de betaling gedaan!
+Dat gezegd hebbende, dit heeft vaak gevolgen. Voor je iemand matcht, kun je op elk moment annuleren. Na een match wordt je reputatie echter negatief beïnvloed. Daarnaast moet je als verkoper toestemming vragen aan de koper om de transactie te annuleren. Het kan zijn dat hij al betaald heeft!
 :::
 
-:::details Waarom heb ik minder sats ontvangen dan ik dacht te kopen?
+:::details Waarom heb ik minder sats ontvangen dan ik dacht?
 
-Peach brengt 2% handelskosten in rekening aan de koper, wat betekent dat u minder sats krijgt dan het bedrag waar de transactie voor is. Daarnaast moet u bitcoin-netwerkkosten betalen. Uw transactie zou er bijvoorbeeld zo uit kunnen zien:
+Peach rekent 2% handelskosten aan de koper, wat betekent dat je minder sats ontvangt dan het bedrag van de transactie. Daarnaast moet je bitcoin-netwerkkosten betalen. Je handel kan er bijvoorbeeld zo uitzien:
 
-![Koopafsplitsing](/img/faq/trading/TradeBreakdownBuy.png)
+![Koopoverzicht](/img/faq/trading/TradeBreakdownBuy.png)
 :::
 
-:::details Wat als ik de Peach-portemonnee niet wil gebruiken voor de uitbetaling / terugbetaling?
+:::details Wat als ik de Peach-wallet niet wil gebruiken voor uitbetaling / terugbetaling?
 
-Natuurlijk bent u vrij om uw eigen portemonnee te gebruiken als u dat wilt. We raden echter ten zeerste aan om de Peach-portemonnee te gebruiken, omdat dit verreweg de gemakkelijkste manier is om een transactie te doen. U kunt dan de fondsen naar elke andere portemonnee sturen.
+Natuurlijk ben je vrij om je eigen wallet te gebruiken als je dat wilt. We raden echter sterk aan de Peach-wallet te gebruiken, omdat dit verreweg de makkelijkste manier is om te handelen. Daarna kun je de fondsen naar elke andere wallet sturen.
 
-Als u uw eigen portemonnee wilt toevoegen, kunt u "uitbetaling naar Peach-portemonnee" uitschakelen en vervolgens een aangepast uitbetalingsadres instellen:
+Als je je eigen wallet wilt toevoegen, kun je “uitbetaling naar Peach-wallet” uitschakelen en vervolgens een aangepast uitbetalingsadres instellen:
 
-![Portemonnee uitschakelen](/img/faq/trading/disablewallet.png)
+![Wallet uitschakelen](/img/faq/trading/disablewallet.png)
 
-Bij het doen van een transactie moet u een bericht ondertekenen dat u controle hebt over deze portemonnee, volgens de Zwitserse regelgeving.
+Bij het uitvoeren van een transactie moet je een bericht ondertekenen dat je deze wallet beheert, volgens de Zwitserse regelgeving.
 
-We werken binnenkort aan xpub-ondersteuning, maar voor nu moet u dit adres handmatig wijzigen als u het niet opnieuw wilt gebruiken.
+We zullen binnenkort ondersteuning voor xpub toevoegen, maar voorlopig moet je dit adres handmatig wijzigen als je het niet opnieuw wilt gebruiken.
 :::
 
 :::details Hoe wordt de Bitcoin-prijs berekend op Peach?
 
-De BTC-prijs die we op Peach tonen, is een samenstelling van de BTC-prijs op gecentraliseerde beurzen.
+De BTC-prijs die we op Peach tonen is een gemiddelde van de BTC-prijzen op gecentraliseerde beurzen.
 :::
 
-:::details Wat gebeurt er met de prijs van valuta's onder hoge inflatie, zoals Argentinië, Venezuela, enz.?
+:::details Wat gebeurt er met valuta’s onder hoge inflatie zoals Argentinië, Venezuela, enz.?
 
-Valuta's onder hoge inflatie lijden onder hoge volatiliteit, vandaar dat de prijs die u vindt in verschillende beurzen kan verschillen. Peach geeft de prijs volgens een samenstelling van de BTC-prijs uit verschillende bronnen.
+Valuta’s onder hoge inflatie hebben veel volatiliteit, waardoor de prijzen die je op verschillende beurzen vindt kunnen verschillen. Peach geeft de prijs weer op basis van een gemiddelde van verschillende BTC-prijsbronnen.
 :::
 
-:::details Hoe kunt u een transactie versnellen die vastzit vanwege lage mijnkosten?
-Het hangt af van het type transacties waarover we praten. Hier is een lijst van alle transacties die in Peach kunnen plaatsvinden en hun oplossingen om kosten te verhogen:
+:::details Hoe een transactie versnellen die vastzit door lage miningkosten?
 
-1. Transactie voor het financieren van het escrow om een verkoopaanbieding te publiceren
+Dat hangt af van het type transactie. Hier is een lijst van alle transacties die op Peach kunnen voorkomen en de oplossingen om de kosten te verhogen:
 
-- Als u het escrow hebt gefinancierd vanuit de Peach-portemonnee, kunt u de transactie RBF (Replace-By-Fee) en de kosten verhogen
-- Als u het escrow hebt gefinancierd vanuit een externe portemonnee, moet u controleren of de portemonnee RBF (Replace-By-Fee) ondersteunt om de netwerkkosten te verhogen.
+1. Transactie voor het financieren van de escrow om een verkoopaanbod te publiceren of een koopaanbod te accepteren  
 
-2. Vrijgave transactie uit het escrow (Bitcoin kopen)
+- Als je de escrow vanuit de Peach-wallet hebt gefinancierd, kun je de transactie met RBF (Replace-By-Fee) opnieuw versturen met hogere kosten  
+- Als je de escrow vanuit een externe wallet hebt gefinancierd, moet je controleren of die wallet RBF ondersteunt  
 
-- Als uw ontvangstadres van de Peach-portemonnee is, kunt u het totale bedrag terugtrekken naar een externe portemonnee van u met hogere kosten (Instellingen > Netwerkkosten) - CPFP-techniek
-- Als uw ontvangstadres afkomstig is van een externe portemonnee, kunt u ook de CPFP-techniek gebruiken als deze wordt ondersteund door uw portemonnee
+2. Vrijgave-transactie uit de escrow (Bitcoin kopen)  
 
-3. Verzend transactie vanuit de Peach-portemonnee naar een andere portemonnee
+- Als je ontvangstadres van de Peach-wallet komt, kun je het volledige bedrag opnemen naar een externe wallet met hogere kosten (Instellingen > Netwerkkosten) – CPFP-techniek  
+- Als je ontvangstadres van een externe wallet komt, kun je ook de CPFP-techniek gebruiken als je wallet dit ondersteunt  
 
-- RBF (Replace-By-Fee) vanuit de Peach-portemonnee in uw transactiegegevens!
+3. Verzendtransactie van de Peach-wallet naar een andere wallet  
+
+- RBF (Replace-By-Fee) vanuit de Peach-wallet in je transactiegegevens!
   :::
 
 :::details Wat is GroupHug?
-GroupHug is eenvoudigweg de term die we hebben gegeven aan de actie van het batchen van transacties van verschillende gebruikers om kosten voor elk van hen te vermijden. Voor een meer gedetailleerde uitleg, bekijk onze [blogpost](https://peachbitcoin.com/nl/blog/group-hug).
+GroupHug is simpelweg de term die we hebben gegeven aan het batchen van transacties van verschillende gebruikers, zodat ze geen individuele kosten hoeven te betalen. Voor een meer gedetailleerde uitleg, bekijk onze [blogpost](https://peachbitcoin.com/blog/group-hug).
 :::
 
-:::details Als ik een enkel koopaanbod heb lopen, wordt dit dan onmiddellijk vrijgegeven?
+:::details Als ik één enkele koopaanbieding heb lopen, wordt die onmiddellijk uitbetaald?
 
-Nee, uw uitbetaling wordt toegevoegd aan een wachtrij, wachtend op uitbetaling. De uitbetaling wordt gedaan wanneer voldoende gebruikers deelnemen aan de batch. Het aantal benodigde deelnemers is te zien in de informatie over uitbetalingen in behandeling. U kunt deze weergave openen via de handelsgegevens.
-Daar kunt u zien hoeveel slots van de huidige batch zijn ingenomen. In de informatie kunt u ook een geschatte tijd zien die u vertelt wat de maximale wachttijd is als de slots niet vóór die tijd worden gevuld.
+Nee, je uitbetaling wordt toegevoegd aan een wachtrij. De uitbetaling wordt uitgevoerd zodra er genoeg gebruikers deelnemen aan de batch. Het aantal benodigde deelnemers zie je in de informatie over de lopende uitbetaling. Daar zie je ook hoeveel plaatsen van de huidige batch bezet zijn en een ETA die de maximale wachttijd aangeeft.
 :::
 
-:::details Hoe werkt het als ik meerdere lopende koopaanbiedingen heb?
+:::details Hoe werkt het als ik meerdere koopaanbiedingen tegelijk heb?
 
-Net zoals eerder vermeld, worden uw uitbetalingen toegevoegd aan de wachtrij om te worden gebundeld met andere deelnemers.
+Zoals eerder vermeld, worden je uitbetalingen toegevoegd aan de wachtrij om samen met andere deelnemers te worden gebundeld.
 :::
 
-:::details Is er een limiet aan het aantal deelnemers dat kan deelnemen aan het batchen?
+:::details Is er een limiet aan het aantal deelnemers in een batch?
 
-Nee, batches kunnen ook over het maximale aantal deelnemers gaan. Het is geen afsnijding, maar een drempel. Dit betekent dat zodra het minimum is bereikt, we gewoon alle psbts nemen en ze samen bundelen om de transactie uit te voeren, en verminderen we de kosten die elke deelnemer betaalt.
+Nee, batches kunnen ook meer deelnemers hebben dan het vereiste minimum. Het is geen strikte limiet, maar een drempel. Zodra het minimum is bereikt, nemen we alle psbts en bundelen we ze samen om de transactie te doen, en verminderen we de kosten voor elke deelnemer.
 :::
 
-:::details Hoe onderteken ik een extern adres?
-Volg deze stappen om het ontvangende adres te ondertekenen bij het kopen van Bitcoin naar een externe portemonnee:
+:::details Hoe een extern adres ondertekenen?
+Volg deze stappen om het ontvangstadres te ondertekenen bij het kopen van Bitcoin naar een externe wallet:
 
-_Opmerking: De eerste 2 stappen zijn handig als u **altijd** uw fondsen wilt ontvangen op externe adressen. Als u het slechts één keer wilt doen, of als u soms de Peach-portemonnee wilt gebruiken, begin dan vanaf stap 3._
+_Opmerking: De eerste 2 stappen zijn nuttig als je **altijd** je fondsen naar externe adressen wilt ontvangen. Als je dit slechts één keer wilt doen, of soms de Peach-wallet wilt gebruiken, begin bij stap 3._
 
-1. Ga naar instellingen
+1. Ga naar instellingen  
 
-- schakel Peach-portemonnee uit
-- ga naar uitbetalingsadres
+- schakel Peach-wallet uit  
+- ga naar uitbetalingsadres  
 
-2. Plak het nieuwe ontvangstadres
+2. Plak het nieuwe ontvangstadres  
 
-3. Doorloop het proces om uw koopaanbieding te publiceren en voordat u deze publiceert, zorg ervoor dat u ervoor kiest om naar uw externe portemonnee-adres te ontvangen (klik op het kleine portemonnee-icoon rechtsboven op het scherm met de samenvatting van het aanbod).
+3. Doorloop het proces om je koopaanbod te publiceren en zorg ervoor dat je vóór publicatie het externe adres kiest (klik rechtsboven op het kleine wallet-icoon in het overzichtsscherm van het aanbod).  
 
-4. Zodra u uw koopaanbieding bevestigt, verschijnt het bericht om uw adres te ondertekenen. Kopieer het en ga terug naar uw portemonnee.
+4. Zodra je je koopaanbod bevestigt, verschijnt het bericht om je adres te ondertekenen. Kopieer het en ga terug naar je wallet.  
 
-5. Zoek naar de optie "ondertekenen/verifiëren"\* en plak:
+5. Zoek naar de optie "sign/verify"\* en plak:  
 
-- uw ontvangstadres
-- het Peach-bericht
+- je ontvangstadres  
+- het Peach-bericht  
 
-6. Klik op ondertekenen en de handtekening verschijnt. Kopieer het.
+6. Klik op ondertekenen en de handtekening verschijnt. Kopieer deze.  
 
-7. Plak de handtekening op de Peach-portemonnee en klik op bevestigen.
+7. Plak de handtekening in de Peach-wallet en bevestig.  
 
-8. Uw aanbieding is gepubliceerd.
+8. Je aanbod is gepubliceerd.  
 
-_\*Disclaimer: niet alle portefeuilles ondersteunen de optie om uw adres te ondertekenen/verifiëren._
-Peach raadt aan Blue Wallet, Sparrow of Samourai Wallet te gebruiken. Andere opties zijn onder meer Ledger en Trezor (Hardware Wallets), Bitcoin Core en Electrum wallet.
+_\* Disclaimer: niet alle wallets ondersteunen de optie sign/verify._  
+Peach raadt Blue Wallet, Sparrow of Samourai Wallet aan. Andere opties zijn Ledger en Trezor (hardware wallets), Bitcoin Core en Electrum.  
 
-U vindt ook een stapsgewijze tutorial over hoe u een bericht kunt ondertekenen met Blue Wallet op ons YouTube-account: [https://youtu.be/d3STuVfFWfQ](https://youtu.be/d3STuVfFWfQ)
-
+Je kunt ook een stapsgewijze tutorial vinden over hoe je een bericht ondertekent met Blue Wallet op ons Youtube-kanaal: [https://youtu.be/d3STuVfFWfQ](https://youtu.be/d3STuVfFWfQ)
 :::
 
-:::details Hoe CPFP te gebruiken om vastzittende transacties te versnellen?
+:::details Hoe CPFP gebruiken om vastgelopen transacties te versnellen?
 
-Volg de stappen die u in deze video vindt: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU) om vastzittende transacties te versnellen met behulp van CPFP in de Peach-app.
+Volg de stappen in deze video: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU) om vastgelopen transacties te versnellen met CPFP in de Peach-app.
 :::
 
-:::details Hoe werkt het financieren van meerdere aanbiedingen?
+:::details Hoe werkt het financieren van meerdere verkoopaanbiedingen vanuit een externe wallet?
 
-Wanneer je meerdere aanbiedingen tegelijk wilt financieren, biedt de app een tussenadres dat wordt gegenereerd vanuit je Peach Wallet. Zodra de bitcoins dit adres bereiken, wordt er voor elke escrow een nieuwe transactie gegenereerd. Bijvoorbeeld, als je 5 verkoopaanbiedingen wilt financieren, worden 5 transacties naar verschillende escrow-adressen verzonden.
+Wanneer je meerdere verkoopaanbiedingen tegelijk wilt financieren, genereert de app een tussenadres vanuit je Peach-wallet. Zodra de bitcoins dit adres bereiken, wordt er een nieuwe transactie voor elke escrow gegenereerd. Als je bijvoorbeeld 5 verkoopaanbiedingen wilt financieren, worden er 5 transacties naar verschillende escrow-adressen gestuurd.
 :::

@@ -1,167 +1,160 @@
 # Kereskedési GYIK
 
-:::details Hogyan lehetek biztos abban, hogy megkapom a bitcoint / a pénzt?
+:::details Hogyan lehetek biztos benne, hogy megkapom a bitcoint / a pénzt?
 
-Eladási ajánlat esetén az eladó a bitcoint egy olyan címre küldi, amelyet ő és a Peach egyaránt ellenőriz: a bitcoint csak akkor lehet onnan elmozdítani, ha ő és a Peach is aláírja. Ez biztosítja, hogy:
+Amikor eladási ajánlatot hozol létre vagy elfogadsz egy vételi ajánlatot, az eladó a bitcoint egy olyan címre küldi, amelyet ő és a Peach közösen ellenőriznek: a bitcoin csak akkor mozdítható el innen, ha mind az eladó, mind a Peach aláírja. Ez biztosítja, hogy:
 
-- Az eladó nem tudja saját maga visszahelyezni a bitcoint
-- A Peach nem tudja ellopni a bitcoint
-- A vevő addig nem kapja meg a bitcoint, amíg a fizetés meg nem történik
-- Az eladó visszakaphatja a bitcoint, ha a vevő nem válaszol
+- Az eladó nem tudja egyedül (vissza)mozgatni a bitcoint  
+- A Peach nem tudja ellopni a bitcoint  
+- A vevő csak akkor kapja meg a bitcoint, ha a fizetés megtörtént  
+- Az eladó visszakaphatja a bitcoint, ha a vevő nem válaszol  
 
-Ha a kereskedés nem normálisan zárul le, ez a cím automatikusan teljesen a Peach ellenőrzése alá kerül körülbelül 30 nap után (pontosabban: amikor 4320 bitcoin blokkot bányásztak). Ez biztosítja, hogy:
+Ha az ügylet nem rendeződik normálisan, ez a cím körülbelül 30 nap után automatikusan teljes mértékben a Peach ellenőrzése alá kerül (pontosabban: amikor 4320 bitcoin blokkot kibányásztak). Ez biztosítja, hogy:
 
-- A vevő megkaphatja a bitcoint, ha be tudja bizonyítani, hogy megtette a fizetést, de az eladó nem válaszol
-- A bitcoin nem ragad be, ha az eladóval valami történik
+- A vevő megkapja a bitcoint, ha be tudja bizonyítani, hogy fizetett, de az eladó nem válaszol  
+- A bitcoin nem ragad be, ha valami történik az eladóval  
 
-Ez a kereskedésed biztonságának legfontosabb része. Ezenkívül van még a részletes hírnévrendszerünk is, amely segít azonosítani azokat az embereket, akik hosszú ideje megbízhatóan használják a Peach-t.
+Ez a legfontosabb része a kereskedésed biztonságának. Ezen felül van egy bonyolult hírnévrendszerünk is, amely segít azonosítani azokat a felhasználókat, akik már régóta megbízhatóan használják a Peach-et.
 :::
 
-:::details Miért van kereskedelmi limit?
+:::details Miért van kereskedési limit?
 
-A svájci szabályozások kimondják, hogy egy személy naponta legfeljebb 1000 CHF értékű bitcoint vásárolhat anélkül, hogy azonosítania kellene magát az eladónak. Mivel inkább nem kerülnénk börtönbe, ezért az alkalmazásban érvényesítjük ezt a limitet.
+A svájci szabályozás kimondja, hogy egy személy naponta legfeljebb 1000 CHF értékű bitcoint vásárolhat anélkül, hogy igazolná kilétét az eladó számára. Mivel nem szeretnénk börtönbe kerülni, ezt a limitet érvényesítjük az alkalmazásban.
 
-Az összes fizetési adatod a telefonodon van tárolva, így mi nem láthatjuk őket. Amit láthatunk, az a telefonod azonosítójának és a fizetési adataidnak a hash-e\*. Ez lehetővé teszi számunkra, hogy blokkoljuk azokat a kereskedéseket, amelyek túllépik a személyes limitet.
+Minden fizetési adatod a telefonodon van tárolva, így mi nem látjuk őket. Amit látunk, az a telefonod azonosítójának és fizetési adatainak egy hash-je\*. Ez lehetővé teszi számunkra, hogy blokkoljunk minden ügyletet, amely túllépi a személyes limitet.
 
-\* A hash olyan adat, amely felismerhetetlenné vált, hasonlóan a titkosításhoz. Ugyanazok az adatok mindig ugyanahhoz a hash-hez vezetnek. Ez azt jelenti, hogy nem tudjuk, mik az adatok, de képesek leszünk észrevenni, ha ugyanazokat az adatokat kétszer használják.
+\* A hash olyan adat, amelyet felismerhetetlenné tettek, hasonlóan a titkosításhoz. Ugyanazok az adatok mindig ugyanazt a hash-t adják. Ez azt jelenti, hogy nem tudjuk, mik az adatok, de észre tudjuk venni, ha ugyanazt kétszer használják.
 :::
 
-:::details Van-e mód arra, hogy többet vásároljak/eladjak a kereskedelmi limitnél?
+:::details Van lehetőség a limit feletti vásárlásra / eladásra?
 
-Ha nagy mennyiségű vevő vagy eladó vagy, küldj nekünk emailt a [$contactEmail$](mailto:$contactEmail$) címre!
+Ha nagy volumenű eladó vagy, küldj nekünk emailt a [$contactEmail$](mailto:$contactEmail$) címre!  
+Kérni fogjuk, hogy végezz el egy KYC folyamatot, és a limitjeid el lesznek törölve.
 :::
 
-:::details Milyen díjakat számít fel a Peach a kereskedésért?
+:::details Milyen díjak vannak a Peach-en való kereskedésért?
 
-A Peach a kereskedési volumen 2%-át számítja fel díjként a vevőnek. Amikor kereskedést hajtasz végre a Peach-en, az Bitcoin blokkláncon végzett tranzakciókat eredményez, ami tranzakciós díjakat von maga után. Mindig láthatod a teljes díjstruktúrát a kereskedésed végén, ami így nézhet ki:
+A Peach 2% díjat számít fel a kereskedési volumenből a vevőnek. Amikor a Peach-en kereskedsz, tranzakciókat hajtasz végre a Bitcoin blokkláncon, ami tranzakciós díjakkal jár. A tranzakció végén mindig láthatod a teljes díjstruktúrát, amely például így nézhet ki:
 
-![Kereskedési lebontások](/img/faq/trading/TradeBreakdowns.png)
+![Tranzakciós bontás](/img/faq/trading/TradeBreakdowns.png)
 :::
 
-:::details Hog
+:::details Hogyan tudok törölni egy ajánlatot vagy ügyletet?
 
-yan mondhatom le az ajánlatot vagy a kereskedést?
+Az ajánlataidat és ügyleteidet a képernyő tetején lévő piros X-re kattintva törölheted, amikor az elérhető:
 
-Le tudod mondani az ajánlataidat és kereskedéseidet a képernyő tetején lévő piros X-re kattintva, amikor ez elérhető:
+![Ügylet törlése](/img/faq/trading/cancel.png)
 
-![Kereskedés lemondása](/img/faq/trading/cancel.png)
-
-Ennek ellenére, ez gyakran következményekkel jár. Miután bárkivel összepárosítottál, bármikor lemondhatsz. Miután már összepárosítottál, azonban a hírneved negatívan érintett lesz. Ezenkívül, mint eladó, engedélyt kell kérned a vevőtől a kereskedés lemondásához. Lehet, hogy ő már megtette a fizetést!
+Ennek azonban gyakran következményei vannak. Mielőtt bárkivel párosodnál, bármikor törölheted. Azonban párosítás után a hírneved negatívan fog változni. Emellett eladóként engedélyt kell kérned a vevőtől az ügylet törléséhez. Lehet, hogy már fizetett is!
 :::
 
-:::details Miért kaptam kevesebb satoshit, mint amennyit vásárolni hittem?
+:::details Miért kaptam kevesebb satot, mint amennyire számítottam?
 
-A Peach 2% kereskedési díjat számít fel a vevőnek, ami azt jelenti, hogy kevesebb satoshit kapsz, mint amennyiért a kereskedés történt. Ezenkívül fizetned kell a Bitcoin hálózati díjakat is. Például a kereskedésed így nézhet ki:
+A Peach 2% díjat számít fel a vevőnek, ami azt jelenti, hogy kevesebb satot kapsz, mint amennyit az ügylet tartalmaz. Emellett fizetned kell a Bitcoin hálózati díjakat is. Az ügylet például így nézhet ki:
 
-![Vásárlási lebontás](/img/faq/trading/TradeBreakdownBuy.png)
+![Vásárlás bontása](/img/faq/trading/TradeBreakdownBuy.png)
 :::
 
-:::details Mi van, ha nem akarom a Peach tárcát használni a kifizetéshez / visszatérítéshez?
+:::details Mi van akkor, ha nem akarom a Peach pénztárcát használni a kifizetéshez / visszatérítéshez?
 
-Természetesen szabadon használhatsz saját tárcát, ha szeretnéd. Mégis, erősen ajánljuk a Peach tárcának használatát, mivel ez messze a legkönnyebb módja a kereskedésnek. Ezután átküldheted a pénzeszközöket bármely másik tárcára.
+Természetesen használhatod a saját pénztárcádat, ha szeretnéd. Mi azonban erősen ajánljuk a Peach pénztárcát, mivel messze ez a legegyszerűbb módja a kereskedésnek. Ezután bármely más pénztárcába küldheted a pénzt.
 
-Ha saját tárcát szeretnél hozzáadni, letilthatod a "kifizetés a Peach tárcára" opciót, majd beállíthatsz egy egyéni kifizetési címet:
+Ha hozzá akarod adni a saját pénztárcádat, kikapcsolhatod a „kifizetés a Peach pénztárcába” lehetőséget, és beállíthatsz egy egyéni kifizetési címet:
 
-![Tárca letiltása](/img/faq/trading/disablewallet.png)
+![Pénztárca kikapcsolása](/img/faq/trading/disablewallet.png)
 
-Kereskedés során alá kell írnod egy üzenetet, amely igazolja, hogy irányításod alatt áll ez a tárca, a svájci szabályozások szerint.
+Ügyletkötéskor alá kell írnod egy üzenetet, amely igazolja, hogy te irányítod ezt a pénztárcát, a svájci szabályozások szerint.
 
-Hamarosan dolgozni fogunk az xpub támogatáson, de egyelőre manuálisan kell megváltoztatnod ezt a címet, ha nem szeretnéd újrahasználni.
+Hamarosan hozzáadjuk az xpub támogatást, de egyelőre manuálisan kell módosítanod ezt a címet, ha nem akarod újra felhasználni.
 :::
 
-:::details Hogyan számítódik ki a Bitcoin ára a Peach-en?
+:::details Hogyan számítják ki a Bitcoin árát a Peach-en?
 
-A BTC árát, amit a Peach-en mutatunk, a centralizált tőzsdéken található BTC árak aggregátumából számítjuk ki.
+A Peach-en megjelenő BTC ár a centralizált tőzsdék árainak átlaga.
 :::
 
-:::details Mi történik a valuták árával magas infláció esetén, mint például Argentínában, Venezuelában, stb.?
+:::details Mi történik a magas inflációjú valutákkal, mint például Argentína, Venezuela stb.?
 
-A magas infláció alatt álló valuták magas volatilitást szenvednek el, ezért az ár, amit különböző tőzsdéken találsz, eltérő lehet. A Peach az árat különböző forrásokból származó BTC árak aggregátumával adja meg.
+A magas inflációjú valuták nagy volatilitással rendelkeznek, ezért az árak különböző tőzsdéken eltérhetnek. A Peach a BTC árát több forrás átlagaként mutatja.
 :::
 
-:::details Hogyan lehet felgyorsítani egy alacsony bányászati díjak miatt megrekedt tranzakciót?
+:::details Hogyan lehet felgyorsítani egy elakadt tranzakciót az alacsony bányászati díjak miatt?
 
-Attól függ, hogy milyen típusú tranzakcióról beszélünk. Íme egy lista minden tranzakcióról, ami a Peach-ben történhet, és a díjak felgyorsításának megoldásai:
+Ez attól függ, milyen tranzakcióról van szó. Íme a Peach-en előforduló tranzakciók és megoldásaik a díjak növelésére:
 
-1. Tranzakció az escrow finanszírozására, hogy kö
+1. Tranzakció az escrow finanszírozására egy eladási ajánlat közzétételéhez vagy egy vételi ajánlat elfogadásához  
 
-zzétegyünk egy eladási ajánlatot
+- Ha a Peach pénztárcából finanszíroztad az escrow-t, RBF-fel (Replace-By-Fee) újraküldheted magasabb díjjal  
+- Ha külső pénztárcából finanszíroztad, ellenőrizd, hogy támogatja-e az RBF-et  
 
-- Ha a Peach tárcából finanszírozod az escrow-t, RBF (Replace-By-Fee) módszerrel megemelheted a díjakat
-- Ha külső tárcából finanszírozod az escrow-t, ellenőrizned kell, hogy a tárca támogatja-e az RBF (Replace-By-Fee) módszert a hálózati díjak növelésére.
+2. Felszabadítási tranzakció az escrow-ból (Bitcoin vásárlása)  
 
-2. Kiadási tranzakció az escrow-ból (Bitcoin vásárlása)
+- Ha a fogadó címed Peach pénztárcából származik, kiutalhatod a teljes összeget egy külső pénztárcádba magasabb díjjal (Beállítások > Hálózati díjak) – CPFP technika  
+- Ha a fogadó címed külső pénztárca, szintén használhatod a CPFP technikát, ha a pénztárcád támogatja  
 
-- Ha a fogadó címed a Peach tárcából származik, akkor az összes összeget egy magasabb díjjal rendelkező külső tárcádba vonhatod vissza (Beállítások > Hálózati díjak) - CPFP technika
-- Ha a fogadó címed külső tárcából származik, akkor szintén alkalmazhatod a CPFP technikát, ha a tárcád támogatja
+3. Küldési tranzakció a Peach pénztárcából egy másik pénztárcába  
 
-3. Tranzakció a Peach tárcából egy másik tárcába
-
-- RBF (Replace-By-Fee) a Peach Tárcában a tranzakció részleteinél!
+- RBF (Replace-By-Fee) a Peach pénztárcából a tranzakció részleteiben!
   :::
 
 :::details Mi az a GroupHug?
-A GroupHug egyszerűen csak az a kifejezés, amit a tranzakciók különböző felhasználók közötti csoportosításának cselekvésére adtunk, hogy elkerüljük a mindegyikükre vonatkozó díjakat. A részletes magyarázatért nézd meg a [blogbejegyzésünket](https://peachbitcoin.com/blog/group-hug).
+A GroupHug egyszerűen az a kifejezés, amelyet arra használunk, hogy több felhasználó tranzakcióit összevonjuk, így elkerülhetik az egyedi díjakat. Részletesebb magyarázatért nézd meg a [blogbejegyzésünket](https://peachbitcoin.com/blog/group-hug).
 :::
 
-:::details Ha egyetlen vételi ajánlatom van, az azonnal felszabadul?
+:::details Ha egyetlen vételi ajánlatom van futásban, azonnal kifizetésre kerül?
 
-Nem, a kifizetésed egy várakozási sorba kerül, várva a kifizetésre. A kifizetés akkor történik meg, amikor elegendő felhasználó vesz részt a kötegben. Az aktuális kötegben foglalt helyek számát a függőben lévő kifizetési információban láthatod. Ezt a nézetet a kereskedés részletein keresztül érheted el.
-Ott láthatod, hány hely van foglalva az aktuális kötegben. Az információban látható egy ETA is, ami megmondja a maximális várakozási időt, ha a helyek nem telnek be előtte.
+Nem, a kifizetésed egy várólistára kerül. A kifizetés akkor történik meg, amikor elegendő felhasználó vesz részt a batch-ben. A szükséges résztvevők száma látható a függőben lévő kifizetés információjában. Ott láthatod azt is, hány hely van betöltve az aktuális batch-ben, és egy ETA-t, amely mutatja a maximális várakozási időt.
 :::
 
-:::details Hogyan működik, ha több vételi ajánlatom van folyamatban?
+:::details Hogyan működik, ha több vételi ajánlatom van egyszerre?
 
-Ahogy korábban említettük, a kifizetéseid a sorba kerülnek, várva arra, hogy más résztvevőkkel együtt kötegbe rendeződjenek.
+Ahogy már említettük, a kifizetéseid a várólistára kerülnek, hogy más résztvevőkkel együtt összevonják őket.
 :::
 
-:::details Van-e résztvevők számára limit, akik részt vehetnek a kötegelésben?
+:::details Van-e korlát a batch résztvevőinek számára?
 
-Nem, a kötegek átléphetik a résztvevők maximális számát. Ez nem egy határpont, hanem egy küszöb. Ez azt jelenti, hogy amint elérjük a minimális számot, egyszerűen összevesszük az összes psbt-t és együtt hajtjuk végre a tranzakciót, csökkentve minden résztvevő által fizetendő díjat.
+Nincs, a batch-ek a minimumnál több résztvevőt is tartalmazhatnak. Ez nem vágási határ, hanem küszöb. Amint elérjük a minimumot, egyszerűen összegyűjtjük az összes psbt-t és összevonjuk őket, hogy létrejöjjön a tranzakció, és csökkentsük a díjakat minden résztvevő számára.
 :::
 
-:::details Hogyan írhatok alá egy külső címet?
-Kövesd ezeket a lépéseket, hogy aláírd a fogadó címet, amikor Bitcoin-t vásárolsz egy külső tárcába:
+:::details Hogyan írjak alá egy külső címet?
+Kövesd ezeket a lépéseket, hogy aláírd a fogadó címet, amikor Bitcoint vásárolsz egy külső pénztárcába:
 
-_Megjegyzés: Az első 2 lépés akkor hasznos, ha **mindig** külső címekre szeretn
+_Megjegyzés: Az első 2 lépés hasznos, ha **mindig** külső címekre akarod fogadni a pénzed. Ha csak egyszer akarod megtenni, vagy néha a Peach pénztárcát használod, kezdd a 3. lépéstől._
 
-éd kapni a pénzeszközeidet. Ha csak egyszer szeretnéd ezt megtenni, vagy néha használni szeretnéd a peach tárcát, kezdd a 3. lépéssel._
+1. Menj a beállításokhoz  
 
-1. Menj a beállításokhoz
+- kapcsold ki a Peach pénztárcát  
+- menj a kifizetési címhez  
 
-- tiltsd le a peach tárcát
-- menj a kifizetési címhez
+2. Illeszd be az új fogadó címet  
 
-2. Illeszd be az új fogadó címet
+3. Menj végig a folyamaton, hogy közzétegyél egy vételi ajánlatot, és a közzététel előtt válaszd ki az externális címet (kattints a jobb felső sarokban lévő kis pénztárca ikonra az ajánlat összefoglaló képernyőjén).  
 
-3. Menj végig a vételi ajánlat közzétételének folyamatán, és mielőtt közzétennéd, győződj meg róla, hogy a külső tárcacímre szeretnéd kapni (kattints a jobb felső sarokban lévő kis tárcára az ajánlat összefoglaló képernyőjén).
+4. Miután megerősítetted az ajánlatot, megjelenik az üzenet, amelyet alá kell írnod. Másold ki, és menj vissza a pénztárcádhoz.  
 
-4. Miután megerősítetted a vételi ajánlatodat, megjelenik az üzenet a címed aláírásához. Másold ki és menj vissza a tárcádba.
+5. Keresd meg az „aláírás/ellenőrzés” opciót\* és illeszd be:  
 
-5. Keresd meg a "sign/verify" opciót\* és illeszd be:
+- a fogadó címed  
+- a Peach üzenetet  
 
-- a fogadó címed
-- a peach üzenetet
+6. Kattints az aláírásra, és megjelenik az aláírás. Másold ki.  
 
-6. Kattints az aláírásra és megjelenik az aláírás. Másold ki.
+7. Illeszd be az aláírást a Peach pénztárcába, és erősítsd meg.  
 
-7. Illeszd be az aláírást a peach tárcába és kattints a megerősítésre.
+8. Az ajánlatod közzétéve.  
 
-8. Az ajánlatod közzétételre került.
+_\* Figyelmeztetés: nem minden pénztárca támogatja az aláírás/ellenőrzés opciót._  
+A Peach a Blue Wallet, Sparrow vagy Samourai Wallet használatát javasolja. Más opciók közé tartozik a Ledger és Trezor (hardveres pénztárcák), Bitcoin Core és Electrum.  
 
-_\*Megjegyzés: nem minden tárca támogatja a cím aláírás/ellenőrzés opcióját._
-A Peach a Blue Wallet, Sparrow vagy Samourai Wallet használatát ajánlja. Egyéb opciók közé tartozik a Ledger és Trezor (Hardver Tárcák), Bitcoin Core és Electrum tárca.
-
-Egy lépésről lépésre útmutatót is találhatsz a Blue Wallet használatával történő üzenet aláírásához a Youtube csatornánkon: [https://youtu.be/d3STuVfFWfQ](https://youtu.be/d3STuVfFWfQ)
-
+Találsz egy lépésről-lépésre útmutatót is a Blue Wallet üzenetaláírás funkciójáról Youtube csatornánkon: [https://youtu.be/d3STuVfFWfQ](https://youtu.be/d3STuVfFWfQ)
 :::
 
-:::details Hogyan használhatom a CPFP-t a megrekedt tranzakciók felgyorsítására?
+:::details Hogyan lehet CPFP-vel felgyorsítani az elakadt tranzakciókat?
 
-Kövesd a videóban található lépéseket: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU) a megrekedt tranzakciók felgyorsítására a CPFP használatával a Peach alkalmazásban.
+Kövesd a lépéseket ebben a videóban: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU), hogy CPFP-vel felgyorsítsd az elakadt tranzakciókat a Peach alkalmazásban.
 :::
 
-:::details Hogyan működik a több ajánlat finanszírozása?
+:::details Hogyan működik több eladási ajánlat finanszírozása külső pénztárcából?
 
-Amikor egyszerre szeretne több ajánlatot finanszírozni, az alkalmazás egy köztes címet biztosít, amelyet a Peach Wallet-ból generál. Amint a bitcoinok elérik ezt a címet, minden egyes letéti számlához új tranzakció jön létre. Például, ha 5 eladási ajánlatot szeretne finanszírozni, 5 tranzakció kerül elküldésre különböző letéti címekre.
+Amikor több eladási ajánlatot akarsz egyszerre finanszírozni, az alkalmazás létrehoz egy köztes címet a Peach pénztárcádból. Amint a bitcoinok elérik ezt a címet, minden escrow-hoz létrejön egy új tranzakció. Például, ha 5 eladási ajánlatot akarsz finanszírozni, 5 tranzakció kerül elküldésre különböző escrow címekre.
 :::

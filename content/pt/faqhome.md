@@ -35,10 +35,4 @@ Bem-vindo à nossa seção de FAQ! Selecione uma das categorias abaixo para enco
             <h3>Tutorial</h3>
         </a>
     </div>
-    <div class="faq-grid-item">
-        <a href="/pt/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2024-with-PeachBitcoin/">
-            <i class="fa fa-exchange-alt"></i>
-            <h3>Compra & Venda de Bitcoin</h3>
-        </a>
-    </div>
 </div>

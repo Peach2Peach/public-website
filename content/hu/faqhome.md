@@ -35,10 +35,4 @@
             <h3>Útmutató</h3>
         </a>
     </div>
-    <div class="faq-grid-item">
-        <a href="/hu/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2024-with-PeachBitcoin/">
-            <i class="fa fa-exchange-alt"></i>
-            <h3>Bitcoin vásárlás és eladás</h3>
-        </a>
-    </div>
 </div>

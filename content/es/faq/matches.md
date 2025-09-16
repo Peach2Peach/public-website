@@ -1,31 +1,41 @@
-# Preguntas frecuentes de matches
+# Preguntas frecuentes sobre Matches
 
-:::details ¿Cómo funciona la búsqueda de matches de Peach?
+:::details ¿Cómo funciona el Matchmaking de Peach?
 
-Peach te conecta con otro comprador o vendedor de Bitcoin de acuerdo a tus preferencias de divisas y métodos de pago. En base a esto, Peach te notifica cuando recibes un match. Ordenamos los matches por [puntuación de reputación](/es/faq/account/#what-does-the-peach-score-mean) y precio de la oferta.
+Peach te conecta con otro comprador o vendedor de Bitcoin según tus preferencias de monedas y métodos de pago.  
+Con base en esto, Peach te notifica cuando recibes ofertas que coinciden.  
+Ordenamos los matches por [puntuación de reputación](/faq/account/#what-does-the-peach-score-mean) y precio de la oferta.
 :::
 
-:::details ¿Cómo se crea un intercambio?
+:::details ¿Cómo se crea una operación?
 
-Un comprador puede hacer match con tantas ofertas de venta como desee. ¡El primer vendedor en aceptar la oferta del comprador (doble match) obtiene el intercambio!
+Un comprador puede hacer match con tantas ofertas de venta como quiera.  
+Un vendedor puede hacer match con tantas ofertas de compra como quiera.  
+La primera contraparte que acepte el match obtiene la operación y automáticamente se cierran las demás coincidencias.
 :::
 
 :::details ¿Puedo deshacer un match?
 
-¡En cualquier momento! Ten cuidado, tu [puntuación de reputación](/es/faq/account/#what-does-the-peach-score-mean) se verá ligeramente afectada por deshacer un match.
+¡En cualquier momento!  
+Ten cuidado: tu [puntuación de reputación](/faq/account/#what-does-the-peach-score-mean) se verá ligeramente afectada al deshacer un match.
 :::
 
-:::details ¿Puedo cancelar un doble match (un intercambio)?
+:::details ¿Puedo cancelar un Doble Match (una operación)?
 
-Un intercambio se crea tan pronto como el vendedor acepta la oferta del comprador. El comprador recibe automáticamente los detalles de pago del vendedor\*. El comprador puede cancelar el intercambio en cualquier momento. El vendedor solo puede cancelar un intercambio si pregunta primero al comprador si está de acuerdo en cancelar. ¡Ten cuidado, cancelar un intercambio afecta tu [puntuación de reputación](/es/faq/account/#que-significa-la-puntuacion-peach)!
+Una operación se crea tan pronto como el Vendedor acepta la oferta de un Comprador o el Comprador acepta la de un Vendedor.  
+El Comprador puede cancelar la operación en cualquier momento.  
+El Vendedor solo puede cancelarla pidiendo primero al Comprador si está de acuerdo.  
+¡Ojo! Cancelar una operación afecta tu [puntuación de reputación](/faq/account/#what-does-the-peach-score-mean).
 :::
 
-:::details ¿Cuándo se establece el precio del intercambio?
+:::details ¿Cuándo se fija el precio de la operación?
 
-Cuando el comprador hace match con una oferta. El vendedor puede aceptar este match o no.
+Cuando el comprador o el vendedor hacen match con una oferta.  
+El vendedor o el comprador pueden aceptar o no ese match.
 :::
 
-:::details Como comprador, ¿puedo emparejar con varios vendedores?
+:::details ¿Puedo hacer match con varias ofertas?
 
-¡Sí! Puedes emparejar con tantos vendedores como desees. El hecho de emparejarte con un vendedor no garantiza que ellos te emparejen de vuelta, por lo que a menudo es inteligente emparejarse con tantos como sea posible. Realizarás el comercio con el primer vendedor que te empareje de vuelta, mientras que los otros deberán buscar nuevos compradores.
+¡Sí! Un comprador puede hacer match con tantos vendedores como desee y un vendedor con tantos compradores como quiera.  
+No está garantizado que el publicador de la oferta acepte el match, y el primero que lo acepte cerrará todos los demás.
 :::

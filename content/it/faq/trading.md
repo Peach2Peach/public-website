@@ -1,97 +1,160 @@
-# FAQ Scambi
+# FAQ sul Commercio
 
 :::details Come posso essere sicuro di ricevere i bitcoin / i soldi?
 
-Quando si effettua un'offerta di vendita, il venditore invia i bitcoin a un indirizzo controllato da lui e da Peach chiamato (deposito). I bitcoin possono essere spostati da qui solo se entrambi firmano l'operazione. Ciò garantisce che:
+Quando crei un’offerta di vendita o accetti un’offerta di acquisto, il venditore invia i bitcoin a un indirizzo controllato sia da lui che da Peach: i bitcoin possono essere spostati solo se entrambi firmano. Questo garantisce che:
 
-- Il venditore non può spostare i bitcoin da solo
-- Peach non può rubare i bitcoin
-- Il compratore non riceve i bitcoin fino a pagamento effettuato
-- Il venditore può riavere i bitcoin indietro se il compratore non risponde
+- Il venditore non possa spostare i bitcoin (indietro) da solo  
+- Peach non possa rubare i bitcoin  
+- L’acquirente non riceva i bitcoin fino a quando non viene effettuato il pagamento  
+- Il venditore possa riavere i bitcoin se l’acquirente non risponde  
 
-Se lo scambio non si conclude normalmente, questo indirizzo passa automaticamente sotto il completo controllo di Peach dopo circa 30 giorni (per essere precisi: quando sono stati estratti 4320 blocchi di bitcoin). Ciò garantisce che:
+Se lo scambio non si risolve normalmente, questo indirizzo passa automaticamente sotto il pieno controllo di Peach dopo circa 30 giorni (più precisamente: quando sono stati minati 4320 blocchi di bitcoin). Questo garantisce che:
 
-- L'acquirente può ottenere i bitcoin se può dimostrare di aver effettuato il pagamento ma il venditore non risponde
-- I bitcoin non rimangano bloccati se accade qualcosa al venditore
+- L’acquirente possa ricevere i bitcoin se può dimostrare di aver pagato ma il venditore non risponde  
+- I bitcoin non rimangano bloccati se succede qualcosa al venditore  
 
-Questo è il punto più importante per garantire la sicurezza del tuo scambio. Oltre a ciò, abbiamo anche un elaborato sistema di reputazione che ti aiuta a identificare le persone che hanno utilizzato Peach in modo affidabile e per molto tempo.
+Questa è la parte più importante per mettere al sicuro il tuo scambio. In aggiunta, abbiamo anche il nostro sofisticato sistema di reputazione che ti aiuta a identificare utenti che utilizzano Peach in modo affidabile da tempo.
 :::
 
-:::details Perché c'è un limite di scambio?
+:::details Perché esiste un limite di trading?
 
-Le normative svizzere stabiliscono che una persona può acquistare fino a 1000CHF di bitcoin al giorno senza fornire la propria identificazione al venditore. Poiché preferiamo evitare di finire in prigione, applichiamo questo limite nell'app.
+Le normative svizzere stabiliscono che una persona può acquistare fino a 1000 CHF di bitcoin al giorno senza fornire la propria identità al venditore. Poiché preferiamo non finire in prigione, applichiamo questo limite nell’app.
 
-Tutti i tuoi dati di pagamento vengono memorizzati sul tuo telefono, quindi non possiamo vederli. Quello che possiamo vedere è l'hash\* dell'ID del tuo telefono e dei tuoi dati di pagamento. Questo ci consente di bloccare qualsiasi transazione che superi il limite personale.
+Tutti i tuoi dati di pagamento sono memorizzati sul tuo telefono, quindi non possiamo vederli. Quello che possiamo vedere è un hash\* dell’ID del tuo telefono e dei tuoi dati di pagamento. Questo ci permette di bloccare ogni scambio che superi il limite personale.
 
-\* Un hash è un dato reso irriconoscibile, simile alla crittografia. Gli stessi dati porteranno sempre allo stesso hash. Ciò significa che non sappiamo quali sono i dati, ma saremo in grado di individuare se gli stessi dati vengono utilizzati due volte.
+\* Un hash è un dato reso irriconoscibile, simile a una crittografia. Gli stessi dati generano sempre lo stesso hash. Questo significa che non sappiamo quali siano i dati, ma possiamo rilevare se vengono usati due volte.
 :::
 
-:::details C'è un modo per acquistare/vendere più del limite di scambio?
+:::details C’è un modo per comprare/vendere oltre il limite?
 
-Se sei un compratore o un venditore con un alto volume di scambi, inviaci una email a [$contactEmail$](mailto:$contactEmail$)!
+Se sei un venditore ad alto volume, inviaci una mail a [$contactEmail$](mailto:$contactEmail$)!  
+Ti verrà richiesto di seguire una procedura KYC e i tuoi limiti verranno rimossi.
 :::
 
-:::details Quali sono le commissioni per scambiare su Peach?
+:::details Quali sono le commissioni per fare trading su Peach?
 
-Peach addebita al compratore una commissione pari al 2% dell'importo totale scambiato. Quando effettui uno scambio su Peach, stai effettuando transazioni sulla blockchain di Bitcoin, il che comporta commissioni di transazione. Alla fine della tuo scambio puoi sempre visualizzare i dettagli completi delle commissioni, che potrebbe figurare come segue:
+Peach addebita all’acquirente il 2% del volume della transazione. Quando fai trading su Peach, effettui transazioni sulla blockchain di Bitcoin, il che comporta delle commissioni di rete. Alla fine della transazione puoi sempre vedere la struttura completa delle commissioni, che può apparire così:
 
-![Dettagli dello scambio](/img/faq/trading/TradeBreakdowns.png)
+![Dettaglio Operazione](/img/faq/trading/TradeBreakdowns.png)
 :::
 
-:::details Come posso annullare un'offerta o uno scambio?
+:::details Come posso annullare un’offerta o una transazione?
 
-Puoi annullare le tue offerte e scambi facendo clic sulla X rossa in alto sullo schermo, quando è disponibile:
+Puoi annullare le tue offerte e transazioni cliccando sulla X rossa in alto nello schermo, quando disponibile:
 
-![Annulla scambio](/img/faq/trading/cancel.png)
+![Annulla Operazione](/img/faq/trading/cancel.png)
 
-Detto ciò, questo spesso comporta delle conseguenze. Prima di fare match a qualcuno, puoi annullare le offerte in qualsiasi momento. Dopo il match però, la tua reputazione sarà influenzata negativamente. Inoltre, come venditore, dovrai chiedere il permesso al compratore per annullare la transazione in quanto potrebbe già aver effettuato il pagamento!
+Detto ciò, spesso questo ha conseguenze. Prima di abbinarti con qualcuno, puoi annullare in qualsiasi momento. Dopo l’abbinamento, invece, la tua reputazione sarà influenzata negativamente. Inoltre, come venditore, dovrai chiedere il permesso all’acquirente per annullare la transazione. Potrebbe aver già effettuato il pagamento!
 :::
 
-:::details Perché ho ricevuto meno sats di quanti pensavo di acquistare?
+:::details Perché ho ricevuto meno sats di quelli che pensavo di acquistare?
 
-Peach addebita una commissione del 2% al compratore, il che significa che riceverai meno sats rispetto all'importo dello scambio. Inoltre, dovrai pagare le commissioni di rete Bitcoin. La tua transazione potrebbe apparire come segue:
+Peach addebita una commissione del 2% all’acquirente, il che significa che riceverai meno sats rispetto alla quantità concordata. Inoltre, dovrai pagare le commissioni di rete di Bitcoin. Ad esempio, la tua operazione potrebbe essere così:
 
-![Dettagli dell'acquisto](/img/faq/trading/TradeBreakdownBuy.png)
+![Dettaglio Acquisto](/img/faq/trading/TradeBreakdownBuy.png)
 :::
 
-:::details Cosa succede se non voglio usare il wallet Peach per il pagamento / rimborso?
+:::details E se non voglio usare il wallet Peach per il pagamento / rimborso?
 
-Naturalmente, sei libero di utilizzare il tuo wallet esterno se lo desideri. Tuttavia, consigliamo vivamente di utilizzare il wallet Peach, in quanto è il modo più semplice per effettuare una transazione. Puoi sempre inviare i fondi a qualsiasi altro wallet esterno.
+Ovviamente sei libero di usare il tuo wallet se preferisci. Consigliamo comunque vivamente il wallet Peach, in quanto è il modo più semplice per effettuare una transazione. Puoi poi trasferire i fondi su qualsiasi altro wallet.
 
-Se desideri aggiungere il tuo wallet esterno, puoi disabilitare "pagamento al wallet Peach" e impostare un indirizzo di pagamento personalizzato:
+Se vuoi aggiungere il tuo wallet, puoi disattivare “pagamento su wallet Peach” e impostare un indirizzo di pagamento personalizzato:
 
-![Disabilita wallet](/img/faq/trading/disablewallet.png)
+![Disattiva Wallet](/img/faq/trading/disablewallet.png)
 
-Quando effettui uno scambio, dovrai firmare un messaggio per dimostrare di essere il proprietario di questo wallet, come richiesto dalla normativa svizzera.
+Quando effettui una transazione, dovrai firmare un messaggio per confermare che controlli quel wallet, come richiesto dalle normative svizzere.
 
-Stiamo lavorando al supporto xpub, molto presto sarà disponibile, ma per ora dovrai modificare manualmente questo indirizzo se non desideri riutilizzarlo.
-
+A breve introdurremo il supporto xpub, ma per ora dovrai modificare manualmente l’indirizzo se non vuoi riutilizzarlo.
 :::
 
-:::details Come viene calcolato il prezzo del Bitcoin su Peach?
+:::details Come viene calcolato il prezzo di Bitcoin su Peach?
 
-Il prezzo di BTC che mostriamo su Peach è una media del prezzo di BTC su exchange centralizzati.
+Il prezzo BTC che mostriamo su Peach è una media dei prezzi BTC provenienti da exchange centralizzati.
 :::
 
-:::details Come sbloccare una transazione ferma a causa delle basse commissioni di rete?
-Dipende dal tipo di transazione di cui stiamo parlando. Ecco un elenco di tutte le transazioni che possono avvenire su Peach e le soluzioni per aumentarne le commissioni:
+:::details Cosa succede con le valute in forte inflazione come Argentina, Venezuela, ecc.?
 
-1. Transazione per finanziare il deposito al fine di pubblicare un'offerta di vendita:
+Le valute ad alta inflazione subiscono una forte volatilità, quindi i prezzi che trovi nei vari exchange possono differire. Peach mostra il prezzo secondo una media dei prezzi BTC da diverse fonti.
+:::
 
-- Se hai finanziato il deposito dal Wallet Peach, puoi effettuare RBF (Replace-By-Fee) per incrementare le commissioni di rete.
-- Se hai finanziato il deposito da un wallet esterno, verifica se supporta RBF (Replace-By-Fee) per aumentare le commissioni di rete.
+:::details Come accelerare una transazione bloccata a causa di basse commissioni di mining?
 
-2. Transazione di rilascio del deposito (acquisto di Bitcoin):
+Dipende dal tipo di transazione. Ecco un elenco delle transazioni possibili su Peach e le relative soluzioni per aumentare le commissioni:
 
-- Se il tuo indirizzo di ricezione appartiene al Wallet Peach, puoi ritirare l'importo totale su un tuo wallet esterno usando CPFP (Child Pay For Parent) impostando commissioni più elevate da Impostazioni → Commissioni di rete.
-- Se il tuo indirizzo di ricezione è di un wallet esterno, puoi utilizzare CPFP se supportato dal tuo wallet.
+1. Transazione per finanziare l’escrow per pubblicare un’offerta di vendita o accettare un’offerta di acquisto  
 
-3. Invio di una transazione dal Wallet Peach a un altro wallet:
+- Se hai finanziato l’escrow dal wallet Peach, puoi usare RBF (Replace-By-Fee) per aumentare le commissioni  
+- Se hai finanziato l’escrow da un wallet esterno, verifica se supporta RBF  
 
-- RBF (Replace-By-Fee) dal Wallet Peach dai dettagli della tua transazione!
+2. Transazione di rilascio dall’escrow (acquisto di Bitcoin)  
+
+- Se il tuo indirizzo di ricezione è dal wallet Peach, puoi prelevare l’importo totale su un tuo wallet esterno con commissioni più alte (Impostazioni > Commissioni di rete) – tecnica CPFP  
+- Se il tuo indirizzo di ricezione è da un wallet esterno, puoi usare la tecnica CPFP se supportata  
+
+3. Transazione di invio dal wallet Peach a un altro wallet  
+
+- RBF (Replace-By-Fee) dal wallet Peach nei dettagli della transazione!
   :::
 
-:::details Come funziona il finanziamento di più offerte?
+:::details Cos’è GroupHug?
+GroupHug è semplicemente il termine che abbiamo dato all’operazione di raggruppare le transazioni di diversi utenti, così da evitare che ciascuno paghi commissioni singole. Per una spiegazione più dettagliata, consulta il nostro [post sul blog](https://peachbitcoin.com/blog/group-hug).
+:::
 
-Quando vuoi finanziare più offerte contemporaneamente, l'app fornisce un indirizzo intermedio generato dal tuo Peach Wallet. Una volta che i bitcoin raggiungono questo indirizzo, viene generata una nuova transazione per ciascun conto di deposito a garanzia. Ad esempio, se vuoi finanziare 5 offerte di vendita, verranno inviate 5 transazioni a indirizzi di deposito a garanzia differenti.
+:::details Se ho una sola offerta di acquisto attiva verrà eseguita immediatamente?
+
+No, il tuo pagamento sarà inserito in una coda. Il pagamento verrà effettuato quando abbastanza utenti partecipano al batch. Il numero di partecipanti richiesti è visibile nelle informazioni sul pagamento in sospeso. Lì puoi anche vedere quante posizioni del batch attuale sono occupate e un ETA che indica il tempo massimo di attesa.
+:::
+
+:::details Come funziona se ho più offerte di acquisto in corso?
+
+Come già menzionato, i tuoi pagamenti saranno messi in coda per essere raggruppati con altri partecipanti.
+:::
+
+:::details Esiste un limite al numero di partecipanti al batch?
+
+No, i batch possono includere anche più partecipanti oltre al minimo richiesto. Non è un limite rigido, ma una soglia. Appena si raggiunge il minimo, raccogliamo tutti i psbt e li raggruppiamo per eseguire la transazione, riducendo le commissioni per ogni partecipante.
+:::
+
+:::details Come firmare un indirizzo esterno?
+Segui questi passaggi per firmare l’indirizzo di ricezione quando acquisti Bitcoin su un wallet esterno:
+
+_Nota: I primi 2 passaggi sono utili se vuoi **sempre** ricevere i tuoi fondi su indirizzi esterni. Se vuoi farlo solo una volta, o a volte usare il wallet Peach, inizia dal passaggio 3._
+
+1. Vai nelle impostazioni  
+
+- disattiva il wallet Peach  
+- vai all’indirizzo di pagamento  
+
+2. Incolla il nuovo indirizzo di ricezione  
+
+3. Segui il processo per pubblicare la tua offerta di acquisto e prima di pubblicarla assicurati di scegliere l’indirizzo esterno (clicca sulla piccola icona del wallet in alto a destra nella schermata di riepilogo dell’offerta).  
+
+4. Una volta confermata l’offerta, apparirà il messaggio da firmare. Copialo e torna al tuo wallet.  
+
+5. Cerca l’opzione “firma/verifica”\* e incolla:  
+
+- il tuo indirizzo di ricezione  
+- il messaggio Peach  
+
+6. Clicca su firma e apparirà la firma. Copiala.  
+
+7. Incolla la firma nel wallet Peach e conferma.  
+
+8. La tua offerta è pubblicata.  
+
+_\* Avvertenza: non tutti i wallet supportano la funzione firma/verifica._  
+Peach consiglia Blue Wallet, Sparrow o Samourai Wallet. Altre opzioni includono Ledger e Trezor (Hardware Wallets), Bitcoin Core ed Electrum.  
+
+Puoi anche trovare un tutorial passo passo su come firmare un messaggio con Blue Wallet sul nostro canale Youtube: [https://youtu.be/d3STuVfFWfQ](https://youtu.be/d3STuVfFWfQ)
+:::
+
+:::details Come usare CPFP per accelerare transazioni bloccate?
+
+Segui i passaggi in questo video: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU) per accelerare le transazioni bloccate usando CPFP nell’app Peach.
+:::
+
+:::details Come funziona finanziare più offerte di vendita da un wallet esterno?
+
+Quando vuoi finanziare più offerte di vendita contemporaneamente, l’app genera un indirizzo intermedio dal tuo wallet Peach. Una volta che i bitcoin arrivano a questo indirizzo, viene creata una nuova transazione per ogni escrow. Ad esempio, se vuoi finanziare 5 offerte di vendita, verranno inviate 5 transazioni a diversi indirizzi escrow.
 :::

@@ -35,10 +35,4 @@
             <h3>Посібник</h3>
         </a>
     </div>
-    <div class="faq-grid-item">
-        <a href="/uk/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2024-with-PeachBitcoin/">
-            <i class="fa fa-exchange-alt"></i>
-            <h3>Купівля & Продаж Bitcoin</h3>
-        </a>
-    </div>
 </div>

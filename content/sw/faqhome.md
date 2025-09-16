@@ -35,10 +35,4 @@ Karibu kwenye sehemu yetu ya Maswali Yanayoulizwa Mara kwa Mara! Chagua moja ya 
             <h3>Maelekezo</h3>
         </a>
     </div>
-    <div class="faq-grid-item">
-        <a href="/sw/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2024-with-PeachBitcoin/">
-            <i class="fa fa-exchange-alt"></i>
-            <h3>Kununua & Kuuza Bitcoin</h3>
-        </a>
-    </div>
 </div>
