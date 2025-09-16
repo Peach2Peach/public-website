@@ -72,6 +72,10 @@ Your email address is collected if you decide to sign up for our newsletter.
 
 If you contact us directly, we may receive additional information about you such as your name, email , the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
 
+In addition to this, when you open a support ticket from the app, the following info will be attached:
+- Your Peach ID
+- your app log
+
 ### 3.3 When you create an offer
 
 To be able to make use of Peach you will enter information relating to the trades you would like to do in the form of an offer. The information you will provide is divided in three groups (see also 4.2):
@@ -145,7 +149,7 @@ We share your information with the following parties:
   - **Zammad**: For customer support we use "Zammad". We may share your email address with this service and all the private shared content such as Peach id, trade id or offer if.
   - **Telegram**: We also provide support on Telegram, if you contact us by private message on this channel, your nickname and message content will be share with Telegram, unless you choose to contact us by "Secret chat". 
   - **Discord**: We also provide support on Discord, if you contact us by private message on this channel, your nickname and message content will be share with Discord. 
-  - **Brevo**: For marketing emails and registering early access users, we use "Brevo". We may share your email address with this service.
+  - **Brevo**: For marketing emails and registering early access users, we use "Brevo". We may share your email address with this service. GDPR compliant.
   - **Firebase** (opt-in): To monitor for and fix crashes, we give you the option to send a crash report after a crash. In case you choose to send this report, we use the "Firebase" service to collect and analyze the crash logs. You can find what information is collected [here](https://firebase.google.com/support/privacy/#examples-end-user-data-processed-by-firebase); we use Firebase Cloud Messaging and Firebase Crashlytics.
   - **Cloudflare**: Our servers connect to cloudflare for DDoS protection and security.
   - **Blockstream**: By default the Peach wallet connects to Blockstream’s public electrum server. The wallet won’t request addresses from their server until the wallet tab is being accessed. This setting can also be changed under _settings > use your own node_.
