@@ -92,6 +92,10 @@ To be able to make use of Peach you will enter information relating to the trade
 
 - the bitcoin address you want to receive the bitcoin on
 
+4. #### "Instant trade" offer
+
+- in case you select the instant trade option in your sell or buy offer, the payment details are shared with peach to match the buyer instantly. 
+
 ### 3.4 Optionally shared data
 
 #### Usage data
@@ -153,6 +157,7 @@ We share your information with the following parties:
   - **Firebase & Google Analytics** (opt-in): When you allow Peach to send usage data, we use "Firebase" & "Google Analytics" service to collect the data we use in behavioral statistics. Your IP address may be included in the data provided to Firebase.
   - **Cloudflare**: Our servers connect to cloudflare for DDoS protection and security.
   - **Blockstream**: By default the Peach wallet connects to Blockstream’s public electrum server. The wallet won’t request addresses from their server until the wallet tab is being accessed. This setting can also be changed under _settings > use your own node_.
+  - **Third party tools**: During dipsutes investigation, your evidence may be shared with third party tools to assist the mediator such as an online transaltor".
 
 ### 4.3 Disputes
 
