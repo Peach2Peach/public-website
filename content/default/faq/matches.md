@@ -11,7 +11,6 @@ We sort the matches by [reputation score](/faq/account/#what-does-the-peach-scor
 
 A Buyer can match as many sell offers as he wants.
 A seller can match as many buy offers as he wants.
-The first counterparty to accept the match gets the trade and will automatically close all the others matches.
 :::
 
 :::details Can I un-match an offer?
@@ -37,5 +36,5 @@ The seller or the buyer may accept this match or not.
 :::details Can I match multiple offers?
 
 Yes! A buyer can match as many sellers as wanted and a seller can match as many buyers as wanted.
-It's not guaranteed that the offer publisher with accept the match and the first publisher accepting a match will close all the other ones.
+It's not guaranteed that the offer publisher with accept the match.
 :::

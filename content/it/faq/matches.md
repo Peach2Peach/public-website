@@ -1,41 +1,40 @@
-# FAQ sui Match
+# FAQ sui Matches
 
-:::details Come funziona il Matchmaking di Peach?
+:::details Come funziona il Peach Matchmaking?
 
-Peach ti mette in contatto con un altro acquirente o venditore di Bitcoin in base alle tue preferenze di valute e metodi di pagamento.  
-In base a ciò, Peach ti notifica quando ricevi offerte corrispondenti.  
+Peach ti collega con un altro Acquirente o Venditore di Bitcoin secondo le tue preferenze di valute e metodi di pagamento.
+In base a questo, Peach ti avvisa quando ricevi offerte compatibili.
 Ordiniamo i match in base al [punteggio di reputazione](/faq/account/#what-does-the-peach-score-mean) e al prezzo dell’offerta.
 :::
 
-:::details Come si crea uno scambio?
+:::details Come viene creato un trade?
 
-Un acquirente può fare match con quante offerte di vendita vuole.  
-Un venditore può fare match con quante offerte di acquisto vuole.  
-La prima controparte che accetta il match ottiene lo scambio e chiude automaticamente tutti gli altri match.
+Un Acquirente può fare match con tutte le offerte di vendita che desidera.
+Un Venditore può fare match con tutte le offerte di acquisto che desidera.
 :::
 
 :::details Posso annullare un match?
 
-In qualsiasi momento!  
-Attenzione: il tuo [punteggio di reputazione](/faq/account/#what-does-the-peach-score-mean) verrà leggermente influenzato se annulli un match.
+In qualsiasi momento!
+Attenzione: il tuo [punteggio di reputazione](/faq/account/#what-does-the-peach-score-mean) sarà leggermente influenzato dall’annullamento di un match.
 :::
 
-:::details Posso cancellare un Double Match (uno scambio)?
+:::details Posso annullare un Double Match (un trade)?
 
-Uno scambio viene creato non appena il Venditore accetta l’offerta di un Acquirente o l’Acquirente accetta quella di un Venditore.  
-L’Acquirente può cancellare lo scambio in qualsiasi momento.  
-Il Venditore può cancellarlo solo chiedendo prima all’Acquirente se è d’accordo.  
-Attenzione: cancellare uno scambio influisce sul tuo [punteggio di reputazione](/faq/account/#what-does-the-peach-score-mean)!
+Un trade viene creato non appena il Venditore accetta l’offerta di un Acquirente o l’Acquirente accetta l’offerta di un Venditore.
+L’Acquirente può annullare il trade in qualsiasi momento.
+Il Venditore può annullarlo solo chiedendo prima il consenso dell’Acquirente.
+Attenzione: annullare un trade influisce sul tuo [punteggio di reputazione](/faq/account/#what-does-the-peach-score-mean)!
 :::
 
-:::details Quando viene fissato il prezzo dello scambio?
+:::details Quando viene fissato il prezzo del trade?
 
-Quando l’acquirente o il venditore fa match con un’offerta.  
-Il venditore o l’acquirente possono accettare o meno questo match.
+Quando l’acquirente o il venditore fanno match con un’offerta.
+Il venditore o l’acquirente possono accettare o rifiutare il match.
 :::
 
 :::details Posso fare match con più offerte?
 
-Sì! Un acquirente può fare match con quanti venditori vuole e un venditore con quanti acquirenti vuole.  
-Non è garantito che il creatore dell’offerta accetti il match, e il primo che lo accetta chiude tutti gli altri.
+Sì! Un acquirente può fare match con quanti venditori vuole e un venditore con quanti acquirenti vuole.
+Non è garantito che chi ha pubblicato l’offerta accetti il match.
 :::

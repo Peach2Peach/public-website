@@ -1,41 +1,40 @@
 # FAQ dotyczące Matches
 
-:::details Jak działa Matchmaking Peach?
+:::details Jak działa Peach Matchmaking?
 
-Peach łączy cię z innym kupującym lub sprzedającym Bitcoina zgodnie z twoimi preferencjami dotyczącymi walut i metod płatności.  
-Na tej podstawie Peach powiadamia cię, gdy otrzymasz pasujące oferty.  
-Sortujemy matches według [wyniku reputacji](/faq/account/#what-does-the-peach-score-mean) i ceny oferty.
+Peach łączy Cię z innym Kupującym lub Sprzedającym Bitcoin zgodnie z Twoimi preferencjami dotyczącymi walut i metod płatności.
+Na tej podstawie Peach powiadamia Cię, gdy otrzymasz pasujące oferty.
+Sortujemy dopasowania według [wyniku reputacji](/faq/account/#what-does-the-peach-score-mean) i ceny oferty.
 :::
 
-:::details Jak tworzona jest transakcja?
+:::details Jak tworzony jest trade?
 
-Kupujący może dopasować dowolną liczbę ofert sprzedaży.  
-Sprzedający może dopasować dowolną liczbę ofert kupna.  
-Pierwsza strona, która zaakceptuje dopasowanie, otrzymuje transakcję i automatycznie zamyka wszystkie inne matches.
+Kupujący może dopasować tyle ofert sprzedaży, ile chce.
+Sprzedający może dopasować tyle ofert kupna, ile chce.
 :::
 
-:::details Czy mogę cofnąć dopasowanie?
+:::details Czy mogę odłączyć ofertę?
 
-W każdej chwili!  
-Uważaj: twój [wynik reputacji](/faq/account/#what-does-the-peach-score-mean) zostanie nieznacznie obniżony, jeśli cofniesz dopasowanie.
+W każdej chwili!
+Uwaga: Twój [wynik reputacji](/faq/account/#what-does-the-peach-score-mean) zostanie lekko obniżony, jeśli odłączysz ofertę.
 :::
 
-:::details Czy mogę anulować Double Match (transakcję)?
+:::details Czy mogę anulować Double Match (trade)?
 
-Transakcja powstaje, gdy tylko Sprzedający zaakceptuje ofertę Kupującego lub Kupujący zaakceptuje ofertę Sprzedającego.  
-Kupujący może anulować transakcję w dowolnym momencie.  
-Sprzedający może ją anulować tylko pytając najpierw Kupującego, czy się zgadza.  
-Uważaj: anulowanie transakcji wpływa na twój [wynik reputacji](/faq/account/#what-does-the-peach-score-mean)!
+Trade powstaje, gdy tylko Sprzedający zaakceptuje ofertę Kupującego lub Kupujący zaakceptuje ofertę Sprzedającego.
+Kupujący może anulować trade w dowolnym momencie.
+Sprzedający może go anulować tylko prosząc najpierw Kupującego o zgodę.
+Uwaga: anulowanie trade’u wpływa na Twój [wynik reputacji](/faq/account/#what-does-the-peach-score-mean)!
 :::
 
-:::details Kiedy ustalana jest cena transakcji?
+:::details Kiedy ustalana jest cena trade’u?
 
-Gdy kupujący lub sprzedający dopasuje ofertę.  
-Sprzedający lub kupujący może zaakceptować lub odrzucić to dopasowanie.
+Gdy kupujący lub sprzedający dopasuje ofertę.
+Sprzedający lub kupujący może zaakceptować lub odrzucić dopasowanie.
 :::
 
 :::details Czy mogę dopasować wiele ofert?
 
-Tak! Kupujący może dopasować się z tyloma sprzedającymi, ile chce, a sprzedający z tyloma kupującymi, ile chce.  
-Nie ma gwarancji, że wystawca oferty zaakceptuje dopasowanie, a pierwszy, który to zrobi, zamknie wszystkie inne.
+Tak! Kupujący może dopasować tylu sprzedających, ilu chce, a sprzedający tylu kupujących, ilu chce.
+Nie ma gwarancji, że publikujący ofertę zaakceptuje dopasowanie.
 :::

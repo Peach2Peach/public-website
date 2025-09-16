@@ -1,41 +1,40 @@
-# Preguntas frecuentes sobre Matches
+# Preguntas Frecuentes sobre Matches
 
 :::details ¿Cómo funciona el Matchmaking de Peach?
 
-Peach te conecta con otro comprador o vendedor de Bitcoin según tus preferencias de monedas y métodos de pago.  
-Con base en esto, Peach te notifica cuando recibes ofertas que coinciden.  
+Peach te conecta con otro Comprador o Vendedor de Bitcoin según tus preferencias de divisas y métodos de pago.
+Con base en esto, Peach te notifica cuando recibes ofertas que coinciden.
 Ordenamos los matches por [puntuación de reputación](/faq/account/#what-does-the-peach-score-mean) y precio de la oferta.
 :::
 
-:::details ¿Cómo se crea una operación?
+:::details ¿Cómo se crea un trade?
 
-Un comprador puede hacer match con tantas ofertas de venta como quiera.  
-Un vendedor puede hacer match con tantas ofertas de compra como quiera.  
-La primera contraparte que acepte el match obtiene la operación y automáticamente se cierran las demás coincidencias.
+Un comprador puede hacer match con tantas ofertas de venta como quiera.
+Un vendedor puede hacer match con tantas ofertas de compra como quiera.
 :::
 
 :::details ¿Puedo deshacer un match?
 
-¡En cualquier momento!  
-Ten cuidado: tu [puntuación de reputación](/faq/account/#what-does-the-peach-score-mean) se verá ligeramente afectada al deshacer un match.
+¡En cualquier momento!
+Ojo, tu [puntuación de reputación](/faq/account/#what-does-the-peach-score-mean) se verá ligeramente afectada por deshacer un match.
 :::
 
-:::details ¿Puedo cancelar un Doble Match (una operación)?
+:::details ¿Puedo cancelar un Doble Match (un trade)?
 
-Una operación se crea tan pronto como el Vendedor acepta la oferta de un Comprador o el Comprador acepta la de un Vendedor.  
-El Comprador puede cancelar la operación en cualquier momento.  
-El Vendedor solo puede cancelarla pidiendo primero al Comprador si está de acuerdo.  
-¡Ojo! Cancelar una operación afecta tu [puntuación de reputación](/faq/account/#what-does-the-peach-score-mean).
+Un trade se crea en cuanto el Vendedor acepta la oferta de un Comprador o el Comprador acepta la oferta de un Vendedor.
+El Comprador puede cancelar el trade en cualquier momento.
+El Vendedor solo puede cancelarlo pidiendo primero al Comprador su aprobación.
+¡Ojo! Cancelar un trade afecta tu [puntuación de reputación](/faq/account/#what-does-the-peach-score-mean).
 :::
 
-:::details ¿Cuándo se fija el precio de la operación?
+:::details ¿Cuándo se fija el precio del trade?
 
-Cuando el comprador o el vendedor hacen match con una oferta.  
-El vendedor o el comprador pueden aceptar o no ese match.
+Cuando el comprador o el vendedor hace match con una oferta.
+El vendedor o el comprador puede aceptar o no este match.
 :::
 
-:::details ¿Puedo hacer match con varias ofertas?
+:::details ¿Puedo hacer match con múltiples ofertas?
 
-¡Sí! Un comprador puede hacer match con tantos vendedores como desee y un vendedor con tantos compradores como quiera.  
-No está garantizado que el publicador de la oferta acepte el match, y el primero que lo acepte cerrará todos los demás.
+¡Sí! Un comprador puede hacer match con tantos vendedores como quiera y un vendedor con tantos compradores como quiera.
+No está garantizado que el publicador de la oferta acepte el match.
 :::

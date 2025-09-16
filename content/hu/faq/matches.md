@@ -1,41 +1,40 @@
-# GYIK a Match-ekről
+# GYIK a Matchekről
 
-:::details Hogyan működik a Peach párosítás?
+:::details Hogyan működik a Peach Matchmaking?
 
-A Peach összeköt téged egy másik Bitcoin vevővel vagy eladóval a pénznemekre és fizetési módokra vonatkozó preferenciáid alapján.  
-Ez alapján a Peach értesít, amikor megfelelő ajánlatokat kapsz.  
-A találatokat a [hírnév pontszám](/faq/account/#what-does-the-peach-score-mean) és az ajánlat ára szerint rendezzük.
+A Peach összeköt téged egy másik Bitcoin Vevővel vagy Eladóval a preferált pénznemek és fizetési módok alapján.
+Ez alapján a Peach értesít, amikor kapsz megfelelő ajánlatokat.
+A matcheket a [hírnév pontszám](/faq/account/#what-does-the-peach-score-mean) és az ajánlat ára alapján rendezzük.
 :::
 
-:::details Hogyan jön létre egy kereskedés?
+:::details Hogyan jön létre egy trade?
 
-A vevő annyi eladási ajánlattal párosíthat, amennyivel akar.  
-Az eladó annyi vételi ajánlattal párosíthat, amennyivel akar.  
-Az első fél, aki elfogadja a párosítást, megkapja a kereskedést, és automatikusan bezárja az összes többit.
+Egy Vevő annyi eladási ajánlatot match-elhet, amennyit akar.
+Egy Eladó annyi vételi ajánlatot match-elhet, amennyit akar.
 :::
 
-:::details Fel tudok bontani egy párosítást?
+:::details Visszavonhatok egy match-et?
 
-Bármikor!  
-Figyelj, a [hírnév pontszámod](/faq/account/#what-does-the-peach-score-mean) kissé csökken, ha megszakítasz egy párosítást.
+Bármikor!
+Figyelj, a [hírnév pontszámod](/faq/account/#what-does-the-peach-score-mean) kissé csökkenni fog, ha visszavonsz egy match-et.
 :::
 
-:::details Törölhetek egy dupla párosítást (kereskedést)?
+:::details Visszavonhatok egy Dupla Match-et (trade-et)?
 
-Egy kereskedés akkor jön létre, amikor az Eladó elfogadja a Vevő ajánlatát, vagy a Vevő az Eladó ajánlatát.  
-A Vevő bármikor törölheti a kereskedést.  
-Az Eladó csak úgy törölhet, ha előbb megkérdezi a Vevőt, hogy beleegyezik-e.  
-Figyelem: egy kereskedés törlése befolyásolja a [hírnév pontszámod](/faq/account/#what-does-the-peach-score-mean)!
+Egy trade akkor jön létre, amikor az Eladó elfogadja a Vevő ajánlatát, vagy a Vevő elfogadja az Eladó ajánlatát.
+A Vevő bármikor törölheti a trade-et.
+Az Eladó csak úgy törölhet, ha először megkérdezi a Vevőt, hogy beleegyezik-e.
+Figyelem: egy trade törlése befolyásolja a [hírnév pontszámod](/faq/account/#what-does-the-peach-score-mean)!
 :::
 
-:::details Mikor rögzül a kereskedés ára?
+:::details Mikor áll be a trade ára?
 
-Amikor a vevő vagy az eladó párosít egy ajánlatot.  
-Az eladó vagy a vevő elfogadhatja vagy elutasíthatja ezt a párosítást.
+Amikor a vevő vagy az eladó match-el egy ajánlatot.
+Az eladó vagy vevő elfogadhatja vagy elutasíthatja a match-et.
 :::
 
-:::details Párosíthatok több ajánlatot?
+:::details Több ajánlatot is match-elhetek?
 
-Igen! A vevő annyi eladóval párosíthat, amennyivel akar, és az eladó annyi vevővel, amennyivel akar.  
-Nem garantált, hogy az ajánlat közzétevője elfogadja a párosítást, és az első, aki elfogadja, lezárja az összes többit.
+Igen! Egy vevő annyi eladóval match-elhet, amennyivel akar, és egy eladó annyi vevővel, amennyivel akar.
+Nem garantált, hogy az ajánlat közzétevője elfogadja a match-et.
 :::
