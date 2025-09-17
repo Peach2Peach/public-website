@@ -1,6 +1,21 @@
 extends /template.pug
 
+block append vars
+  - const homePath = (lang === 'en' ? '/index.html' : '/' + lang)
+
 block main
+  a.site-banner.wrap(
+    href=`${homePath}?scroll=download-buttons`
+    aria-label="Peach v69 – Symmetry Unlocked"
+  )
+    picture
+      img.site-banner-img(
+        src="/img/home/banner69.png"
+        alt="Symmetry Unlocked – a two-sided Bitcoin marketplace. Peach v.69 coming soon."
+        width="1050" height="250"
+        decoding="async" loading="eager"
+      )
+
   section.wrap
     .content-wrap.content-wrap--centered
       != html.intro

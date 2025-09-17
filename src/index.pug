@@ -14,7 +14,26 @@ block teaser
         width="1050" height="250"
         decoding="async" loading="eager"
       )
-      
+
+  script.
+    document.addEventListener('DOMContentLoaded', function () {
+      try {
+        var params = new URLSearchParams(window.location.search);
+        if (params.get('scroll') === 'download-buttons') {
+          // Remove the param so future navs don't re-trigger
+          if (window.history && window.history.replaceState) {
+            var url = window.location.pathname + window.location.hash;
+            window.history.replaceState({}, '', url);
+          }
+          // Scroll after layout is ready
+          var target = document.getElementById('download-buttons');
+          if (!target) return;
+          // A tiny delay helps if images/fonts shift layout
+          setTimeout(function () { target.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 50);
+        }
+      } catch (e) {}
+    });
+
   div.new-teaser
     .new-teaser-wrap.wrap
       div.new-teaser-content
