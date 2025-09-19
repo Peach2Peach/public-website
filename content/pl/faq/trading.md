@@ -154,8 +154,8 @@ Możesz również znaleźć krok po kroku samouczek, jak podpisać wiadomość z
 Postępuj zgodnie z krokami znalezionymi w tym filmie: [https://www.youtube.com/watch?v=24OtQkL0CxU](https://www.youtube.com/watch?v=24OtQkL0CxU), aby przyspieszyć zawieszone transakcje przy użyciu CPFP w aplikacji Peach.
 :::
 
-:::details 
-Jak działa finansowanie wielu ofert?
+:::details Jak działa finansowanie wielu ofert?
 
-Kiedy chcesz sfinansować wiele ofert jednocześnie, aplikacja udostępnia adres pośredni wygenerowany z Twojego portfela Peach Wallet. Gdy bitcoiny dotrą na ten adres, dla każdej umowy escrow tworzona jest nowa transakcja. Na przykład, jeśli chcesz sfinansować 5 ofert sprzedaży, zostanie wysłanych 5 transakcji na różne adresy escrow.
+Gdy chcesz sfinansować wiele ofert jednocześnie, aplikacja udostępnia listę adresów escrow (po jednym dla każdej oferty), na które możesz wpłacić w jednej transakcji z wieloma wyjściami, aby zaoszczędzić na opłatach sieciowych.
 :::
+

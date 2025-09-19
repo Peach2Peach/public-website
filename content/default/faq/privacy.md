@@ -106,5 +106,10 @@ In any case, we advice you to move your funds to cold storage (a hardware wallet
 Peach wallet support coin control or coin management. The goal of coin control is to keep your coins separated if you wish so, for privacy management.
 
 Watch our video explaining coin control in detail: [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
+:::
 
+:::details What are the privacy implications of a instant-trade offer?
+
+By default, payment details are end to end PGP encrypted between you and your counterparty.
+In the case of an instant-trade offer, the info are shared also with Peach, to allow us to post them to the counterparty as soon as the trade request is sent.
 :::

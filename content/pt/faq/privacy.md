@@ -94,3 +94,10 @@ A carteira Peach suporta o controle de moedas ou a gestão de moedas. O objetivo
 Assista ao nosso vídeo explicando o controle de moedas em detalhes: [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
 
 :::
+
+:::details Quais são as implicações de privacidade de uma oferta de negociação instantânea?
+
+Por padrão, os detalhes de pagamento são criptografados de ponta a ponta com PGP entre você e sua contraparte.  
+No caso de uma oferta de negociação instantânea, as informações também são compartilhadas com a Peach, para que possamos enviá-las à contraparte assim que o pedido de negociação for feito.
+:::
+

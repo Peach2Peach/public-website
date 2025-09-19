@@ -97,7 +97,7 @@ Depende del tipo de transacciones de las que estemos hablando. Aquí hay una lis
 - Puede usar RBF (Replace-By-Fee) desde su Peach Wallet en los detalles de su transacción!
   :::
 
-:::details ¿Cómo funciona la financiación de múltiples ofertas?
+:::details ¿Cómo funciona financiar múltiples ofertas?
 
-Cuando quieres financiar múltiples ofertas al mismo tiempo, la aplicación proporciona una dirección intermedia generada desde tu Peach Wallet. Una vez que los bitcoins llegan a esta dirección, se genera una nueva transacción para cada cuenta de depósito en garantía. Por ejemplo, si quieres financiar 5 ofertas de venta, se enviarán 5 transacciones a diferentes direcciones de depósito en garantía.
+Cuando quieres financiar varias ofertas a la vez, la aplicación te proporciona una lista de direcciones de escrow (una para cada oferta), donde puedes depositar en una sola transacción con múltiples salidas para ahorrar en comisiones de red.
 :::

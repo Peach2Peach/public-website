@@ -1,40 +1,22 @@
-# Mérkőzések GYIK
+# Piactér GYIK
 
-:::details Hogyan működik a Peach Párosítás?
+:::details Hogyan jön létre egy kereskedés?
 
-A Peach összeköt téged egy másik Bitcoin Vevővel vagy Eladóval a pénznemek és fizetési módszerek preferenciái alapján.
-Ez alapján a Peach értesít, amikor megfelelő ajánlatokat kapsz.
-A mérkőzéseket [hírnévpontszám](/faq/account/#what-does-the-peach-score-mean) és az ajánlat ára szerint rendezzük.
+Többféle módja van a kereskedés indításának:  
+A vevő létrehoz egy vételi ajánlatot, és eladók kérvényeit kapja: a kereskedés akkor indul el, amikor a vevő elfogadja valamelyiket.  
+És fordítva…  
+Az eladó létrehoz egy eladási ajánlatot, és vevők kérvényeit kapja: a kereskedés akkor indul el, amikor az eladó elfogadja valamelyiket.  
+Megjegyzés: Ha a kereskedés „azonnali kereskedésként” jön létre, akkor az azonnal indul, amikor az elfogadó elhúzza az „azonnali kereskedés” csúszkát. 
 :::
 
-:::details Hogyan jön létre egy kereskedelem?
+:::details Megszakíthatom a kereskedést?
 
-Egy Vevő annyi eladási ajánlatot illeszthet, amennyit csak akar.
-Az első Eladó, aki elfogadja a Vevő ajánlatát (Dupla Illesztés), kapja meg a kereskedelmet!
+A vevő megszakíthatja a kereskedést, mielőtt megerősíti, hogy a fizetés megtörtént. Ellenkező esetben vitát kell nyitni a kereskedési csevegésben, és egy közvetítő megszakítja a kereskedést.  
+Figyelem, a kereskedés megszakítása befolyásolja a [hírnév pontszámát](/hu/faq/account/#what-does-the-peach-score-mean)!  
+A megszakítás a képernyő jobb felső sarkában található szürke ikonnal lehetséges.  
 :::
 
-:::details Lehet-e megszüntetni egy ajánlat illesztését?
+:::details Mikor kerül rögzítésre a kereskedés ára?
 
-Bármikor!
-Vigyázz, a [hírnévpontszámod](/faq/account/#what-does-the-peach-score-mean) enyhén érintett lesz az ajánlat illesztésének megszüntetésével.
-:::
-
-:::details Lehet-e megszakítani egy Dupla Illesztést (kereskedelmet)?
-
-A kereskedelem abban a pillanatban jön létre, amint az Eladó elfogadja a Vevő ajánlatát.
-A Vevő automatikusan megkapja az Eladó fizetési adatait\*.
-A Vevő bármikor megszakíthatja a kereskedelmet.
-Az Eladó csak úgy szakíthatja meg a kereskedelmet, ha először megkérdezi a Vevőt, hogy ő beleegyezik-e a megszakításba.
-Vigyázz, a kereskedés megszakítása befolyásolja a [hírnévpontszámod](/faq/account/#what-does-the-peach-score-mean)!
-:::
-
-:::details Mikor van meghatározva a kereskedés ára?
-
-Amikor a vevő illeszti az ajánlatot.
-Az eladó elfogadhatja vagy nem fogadhatja el ezt az illesztést.
-:::
-
-:::details Mint vevő, illeszthetek több eladót is?
-
-Igen! Annyi eladót illeszthetsz, amennyit csak szeretnél. Egy eladó illesztése nem garantálja, hogy ők is visszaillesztenek téged, ezért gyakran okos dolog minél többet illeszteni. A kereskedelmet az első eladóval fogod megkötni, aki visszailleszt téged, míg a többieknek új vevőket kell keresniük.
+Amikor a vevő vagy az eladó elküldi a kereskedési kérelmet. A másik fél elfogadhatja vagy elutasíthatja azt.  
 :::
