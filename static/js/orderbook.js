@@ -370,7 +370,7 @@ function formatOfferData(side, { offers, total }, basePrice) {
         // numeric price; we format later
         price: basePrice * ((offer.premium ? offer.premium / 100 : 0) + 1) * 1.02,
         // force sats to integer (handles localized strings too)
-        amount: parseSatsInteger(offer.amount),
+        amount: offer.amount,
         rating: ((offer.user.rating + 1) * 2.5),
         peachId: `Peach${offer.user.id.slice(4, 8)}`.toUpperCase()
       }))
