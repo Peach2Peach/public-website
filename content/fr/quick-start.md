@@ -1,172 +1,212 @@
-# Démarrage rapide
+# Démarrage Rapide
 
 @[toc]
 
-## Intro : Pourquoi Peach ?
+## Introduction : Pourquoi Peach et pourquoi le pair-à-pair ?
 
-Sur une plateforme classique, tu achètes des bitcoins directement auprès d’elle. C’est souvent simple, mais tu dois télécharger des documents d’identité, qui peuvent fuiter si la plateforme se fait pirater — mauvais pour ta vie privée.
+Sur les échanges « classiques » centralisés, tu achètes du bitcoin directement auprès de l’entreprise. C’est souvent assez simple, mais tu dois envoyer tes documents d’identité qui risquent d’être divulgués si la plateforme est piratée, ce qui est mauvais pour ta vie privée. L’entreprise devient aussi un « honeypot »… elle garde tous tes documents personnels, sait combien de bitcoin tu as acheté/vendu… et tu dois lui faire confiance pour ne jamais te dénoncer à une « autorité ». Enfin, sur les échanges centralisés tu ne possèdes pas vraiment tes bitcoins : tu n’as qu’un compte chez l’entreprise. Tu sais peut-être que l’or a été massivement confisqué avec le [décret exécutif 6102](https://river.com/learn/terms/e/executive-order-6102/), et tu ne veux pas que cela arrive à tes précieux bitcoins.  
 
-À l’inverse, il existe des places de marché pair à pair (P2P). Tu y achètes à d’autres personnes, ce qui améliore la confidentialité sous bien des aspects. Mais elles peuvent être compliquées à utiliser… jusqu’à maintenant !
+À l’opposé des échanges centralisés, **il existe les échanges pair-à-pair**. Ici tu peux acheter et vendre directement avec d’autres personnes, ce qui est bien meilleur pour ta confidentialité. Mais ces plateformes peuvent être assez compliquées à utiliser… **jusqu’à maintenant !**
 
-Peach est **facile** à utiliser, plus **privé**, propose **davantage de moyens de paiement** et tu achètes du _**bitcoin réel**_, pas un bon d’échange qui ne sera peut-être jamais réglé. Voici comment ça marche :
+Peach est très **accessible**, facile à utiliser… **même pour ta grand-mère**, plus **privé**, avec **plus de moyens de paiement** et tu achètes du **vrai bitcoin directement dans un portefeuille que TU contrôles**, pas un bon d’échange qu’on ne te paiera peut-être jamais. Voici comment cela fonctionne :
 
-## Guide 1 : Configurer l’app
+## Guide 1 : Configuration de l’application
 
-Après avoir installé l’app (via l’[App Store]($iosUrl$), le [Play Store]($androidUrl$) ou le [téléchargement APK](/apk/)) ou le [Zap Store](https://zapstore.dev/), tu as pratiquement terminé.
-La seule chose éventuellement requise maintenant est un code de parrainage — si tu en as un.
+Après avoir installé l’application (via [App Store]($iosUrl$), [Play Store]($androidUrl$) ou [téléchargement APK](/apk/)) ou le [Zap Store](https://zapstore.dev/), tu as pratiquement terminé.  
+La seule chose demandée est un code de parrainage – si tu en as un.
 
-:::figures 4
-![D’abord, on te demandera si tu souhaites partager certaines données d’usage.](/img/faq/quickstart/onboarding/usage-data.png)
+:::quickstarts 7
+![](/img/faq/quickstart/onboarding/created.png)
+Tu verras une courte explication en trois étapes sur le fonctionnement de Peach.
 
-![Ensuite, un bref tutoriel en trois étapes t’explique le fonctionnement de Peach.](/img/faq/quickstart/onboarding/1.png)
+![](/img/faq/quickstart/onboarding/1.png)
+On te demandera si tu veux partager certaines données avec nous
 
-![Puis on te demande si tu as un code de parrainage. Sinon — pas de souci 😉](/img/faq/quickstart/onboarding/new.png)
+![](/img/faq/quickstart/onboarding/new.png)
+Puis on te demandera si tu as un code de parrainage. Si non – pas de souci
 
-![C’est tout ! Tu es prêt·e à démarrer !](/img/faq/quickstart/onboarding/created.png)
+![](/img/faq/quickstart/onboarding/usage-data.png)
+Et voilà ! Tu es prêt(e) à commencer !
 :::
 
-Cette configuration rapide implique que **tu n’as pas encore de sauvegarde**. Il te sera demandé de [créer une sauvegarde et un mot de passe](/faq/account/#how-should-i-store-my-backup) après ta première transaction.
+Cette configuration rapide signifie que **tu n’as pas encore de sauvegarde**. Après ta première transaction, il te sera demandé de [créer une sauvegarde et un mot de passe](/faq/account/#how-should-i-store-my-backup).
 
-## Guide 2 : Acheter à partir des offres existantes
+## Guide 2 : Acheter du Bitcoin à partir d’offres existantes
 
-Étapes de ta première acquisition à partir des offres existantes :
+Voici étape par étape ton premier achat à partir d’offres disponibles :
 
 :::quickstarts 7
 ![](/img/faq/quickstart/069-screenshots/00-homepage.png)
-Appuie sur le bouton vert « Acheter » pour parcourir les offres de vente disponibles.
+Appuie sur le bouton vert « Acheter » pour parcourir les offres de vente
 
 ![](/img/faq/quickstart/069-screenshots/buy-accept/02-browse.png)
-Parcours les offres de vente existantes.
+Parcours les offres de vente existantes
 
 ![](/img/faq/quickstart/069-screenshots/buy-accept/03-filter.png)
-Tu peux filtrer par devise et moyen de paiement.
+Tu peux filtrer les offres par devise et méthode de paiement
 
 ![](/img/faq/quickstart/069-screenshots/buy-accept/04-request-trade.png)
-Sélectionne une offre, demande une transaction et attends son acceptation. Tu peux en demander plusieurs.
+Appuie sur une offre et demande une transaction avec le bouton « Demander une transaction », puis attends qu’elle soit acceptée. Tu peux combiner plusieurs offres. Vérifie le **score de réputation et l’historique** de l’utilisateur en appuyant sur son identifiant.
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/04a-chat.png)
+NOUVEAU : tu peux discuter avec la contrepartie avant qu’elle n’accepte ta transaction pour être sûr que vous êtes d’accord sur les termes. Appuie sur « chat » pour ouvrir
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/04b-notification.png)
+Tu reçois une notification push quand un vendeur accepte ta demande !
 
 ![](/img/faq/quickstart/069-screenshots/buy-accept/05-confirm-payment.png)
-Effectue le paiement depuis ton appli bancaire/portefeuille et fais glisser le curseur « J’ai payé ».
+Envoie le paiement depuis ton compte bancaire ou portefeuille en ligne et, **UNIQUEMENT APRÈS AVOIR PAYÉ**, fais glisser « J’ai payé ». CONSEIL : plus tu payes vite, meilleure est ta réputation. 
 
 ![](/img/faq/quickstart/069-screenshots/buy-accept/06-wait-payout.png)
-Attends que le vendeur confirme le paiement et que le versement soit traité (jusqu’à 24 h).
+Attends que le vendeur confirme avoir reçu ton paiement. À ce moment, l’escrow est libéré ! Le paiement est traité toutes les 24 h si tu as activé « Regroupement des transactions » pour économiser les frais de réseau. Tu peux le désactiver et recevoir tes sats immédiatement dans Paramètres > Regroupement. 
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/07-rate.png)
+Tu peux maintenant noter le vendeur
 :::
 
-## Guide 3 : Acheter en publiant ton offre
+## Guide 3 : Créer ta propre OFFRE D’ACHAT
 
-Publier ta première offre d’achat prend quelques secondes. Indique simplement combien tu veux acheter et comment tu paieras le vendeur.
+Créer ta première offre d’achat prend seulement quelques secondes. Tu dois définir : combien acheter, quelles devises et méthodes de paiement accepter, à quel prix et ton portefeuille de réception. 
 
 :::quickstarts 7
 ![](/img/faq/quickstart/069-screenshots/00-homepage.png)
-Appuie sur « Créer une offre d’achat » pour créer ton offre.
+Appuie sur « Créer une offre d’achat »
 
 ![](/img/faq/quickstart/069-screenshots/buy-offer/01-create-offer.png)
-Ajoute un moyen de paiement (voir Guide 6) et définis les paramètres de l’offre.
+Ajoute une méthode de paiement (voir Guide 6) et configure tes préférences
 
-![](/img/faq/quickstart/069-screenshots/buy-offer/03-accept-trade-request.png)
-Lorsqu’un vendeur correspond à ton offre, tu peux accepter la transaction.
+![](/img/faq/quickstart/069-screenshots/buy-offer/01a-published.png)
+Ton offre est publiée sur le marché P2P de Peach et les vendeurs peuvent la voir ! Tu seras notifié lorsqu’un vendeur veut l’accepter.  
 
 ![](/img/faq/quickstart/069-screenshots/buy-offer/04-confirm-trade-request.png)
-Puis confirme que tu acceptes la transaction.
+Quand un vendeur envoie une demande, tu peux la confirmer et entrer en contrat. NOUVEAU : rejette si tu n’es pas d’accord avec les conditions ou la réputation. NOUVEAU : tu peux discuter avant de t’engager.
 
 ![](/img/faq/quickstart/069-screenshots/buy-offer/05-wait-escrow.png)
-Attends un peu que le vendeur dépose les sats en escrow.
+Attends que le vendeur dépose les sats dans l’**escrow multifirme 2-2** entre lui et Peach. Il a 12 h pour financer. 
 
 ![](/img/faq/quickstart/069-screenshots/buy-offer/06-confirm-payment.png)
-Une fois la transaction d’escrow confirmée, les informations de paiement s’affichent. Paie via ta banque/ton portefeuille et confirme dans l’app Peach en faisant glisser « J’ai payé ».
+Quand la transaction est confirmée, tu vois les détails du paiement. Envoie le paiement et, **UNE FOIS EFFECTUÉ**, fais glisser « J’ai payé ». CONSEIL : un paiement rapide améliore ta réputation. 
 
 ![](/img/faq/quickstart/069-screenshots/buy-offer/07-wait-payout.png)
-Attends ensuite que le vendeur confirme la réception et que la libération de l’escrow soit traitée (sous 24 h).
+Attends la confirmation du vendeur. Ensuite, l’escrow est libéré ! Les paiements sont traités toutes les 24 h si le **regroupement** est activé. Tu peux le désactiver pour recevoir immédiatement tes sats. 
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/07-rate.png)
+Note le vendeur
 :::
 
-## Guide 4 : Vendre aux offres existantes
+## Guide 4 : Vendre du Bitcoin aux offres d’achat existantes
 
-Étapes de ta première vente à des offres d’achat existantes :
+Étape par étape pour ta première vente :
 
 :::quickstarts 7
 ![](/img/faq/quickstart/069-screenshots/00-homepage.png)
-Appuie sur le bouton orange « Vendre » pour faire correspondre des offres d’achat existantes.
+Appuie sur le bouton orange « Vendre » pour apparier une offre d’achat
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/01-browse-offers.png)
-Parcours les offres d’achat disponibles.
+Parcours les offres d’achat disponibles
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/02-filter-offers.png)
-Tu peux aussi filtrer par devise et moyen de paiement.
+Filtre par devise et méthode, vérifie **réputation et historique**
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/03-request-trade.png)
-Demande une transaction avec un ou plusieurs acheteurs.
+Appuie sur une offre et demande une transaction. Attends l’acceptation de l’acheteur.
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/04-chat-trade.png)
-Discute avec l’acheteur ou attends simplement l’acceptation.
+NOUVEAU : tu peux discuter avant d’accepter, ou attendre que l’acheteur le fasse.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/04a-notification.png)
+Notification push quand un acheteur accepte
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/05-create-escrow.png)
-Lorsqu’un acheteur accepte, on te demandera de déposer les sats à vendre en escrow.
+Tu dois déposer les sats dans l’escrow multifirme 2-2 entre toi et Peach
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/06-create-escrow.png)
-Tu peux déposer depuis ton Peach Wallet ou un portefeuille externe.
+Depuis ton **Peach Wallet** ou un **portefeuille externe**
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/06a-funded.png)
+Une fois confirmé, l’acheteur voit tes infos et a 12 h pour payer
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/07-confirm-payment.png)
-Quand tu as reçu le paiement sur ton compte/portefeuille, confirme-le en faisant glisser « J’ai reçu le paiement ».
+**CONFIRME UNIQUEMENT** quand tu as reçu le paiement. **ATTENTION : confirmer libère les sats à l’acheteur et c’est irréversible.** 
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/08-rate-user.png)
-Tu peux maintenant noter l’acheteur.
+Note l’acheteur
 :::
 
-## Guide 5 : Vendre en publiant ton offre
+## Guide 5 : Créer ta propre OFFRE DE VENTE
 
-Ta première offre de vente se publie en quelques minutes. Indique combien tu vends et comment tu souhaites être payé.
+Créer une offre de vente est aussi rapide. Définis : combien vendre, devises et moyens acceptés, prix et portefeuille de remboursement en cas d’annulation. 
 
 :::quickstarts 7
 ![](/img/faq/quickstart/069-screenshots/00-homepage.png)
-Appuie sur « Créer une offre de vente » pour créer ton offre.
+Appuie sur « Créer une offre de vente »
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/02-set-offer-details.png)
-Ajoute les informations de paiement (voir Guide 6) et définis les détails.
+Ajoute les détails de paiement (voir Guide 6) et configure l’offre
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/03-fund-from-peach.png)
-Alimente l’escrow depuis ton Peach Wallet.
+Alimente l’escrow 2-2 depuis ton Peach Wallet
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/04-fund-from-external.png)
-Ou alimente-le depuis un portefeuille externe.
+Ou dépose depuis un portefeuille externe à l’adresse fournie
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/05-confirm-escrow-tx.png)
-Attends la confirmation du dépôt.
+Attends la confirmation
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/06-offer-published.png)
-Une fois confirmé, ton offre est publiée.
+Une fois confirmée, l’offre est publiée
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/07-accept-trade-request.png)
-Quand un acheteur correspond, accepte la demande de transaction.
+Quand un acheteur l’apparie, accepte la demande
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/08-accept-trade-request.png)
-Confirme l’acceptation ou discute avec l’acheteur.
+Confirme et entre en contrat. NOUVEAU : rejette si nécessaire. NOUVEAU : discute avant.
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/09-confirm-received-payment.png)
-Lorsque tu confirmes avoir reçu le paiement, l’escrow est libéré.
+**CONFIRME UNIQUEMENT** après avoir reçu le paiement. **ATTENTION : irréversible.**
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/10-rate-user.png)
-Note l’acheteur.
+Note l’acheteur
 :::
 
 ## Guide 6 : Ajouter des moyens de paiement
 
-Quand tu crées une offre d’achat ou de vente sur Peach, tu dois indiquer à ta contrepartie comment tu paieras ou comment tu souhaites être payé.
+En créant une offre dans Peach, tu dois montrer à l’autre partie comment tu paieras ou comment tu veux être payé.
 
 :::quickstarts 7
 ![](/img/faq/quickstart/add-payment-method/AddPM01.png)
-Commence par choisir une catégorie : à distance (ex. virement, PayPal) ou en rendez-vous (espèces).
+Choisis entre deux catégories : à distance (virement, PayPal) ou en personne (espèces).
 
 ![](/img/faq/quickstart/add-payment-method/AddPM02.png)
-Sélectionne ensuite la devise pour cette méthode.
+Sélectionne la devise pour ce moyen de paiement.
 
 ![](/img/faq/quickstart/add-payment-method/AddPM03.png)
-Tu vois alors les catégories de méthodes disponibles pour cette devise. Ici, on choisit un portefeuille en ligne.
+Tu verras les catégories disponibles. Exemple : portefeuille en ligne
 
 ![](/img/faq/quickstart/add-payment-method/AddPM04.png)
-Un panneau s’ouvre pour choisir le portefeuille en ligne à ajouter. Prenons PayPal.
+Choisis le portefeuille en ligne à ajouter. Exemple : PayPal
 
 ![](/img/faq/quickstart/add-payment-method/AddPM05.png)
-Renseigne simplement tes informations. Tu peux aussi indiquer si ton portefeuille accepte d’autres devises.
+Renseigne tes infos. Tu peux préciser si ton portefeuille accepte d’autres devises.
 
 ![](/img/faq/quickstart/add-payment-method/AddPM06.png)
-Quand c’est fait, appuie sur « Confirmer » et…
+Clique « Confirmer » et…
+:::
+
+## Guide 7 : Activer le **commerce instantané** lors d’une offre
+
+En créant une offre, tu peux activer **instant-trade**. Cela signifie que tu n’auras pas à accepter manuellement : la contrepartie entre automatiquement. Idéal pour aller vite : l’acheteur a 1 h pour payer (au lieu de 12), le vendeur 1 h pour déposer (au lieu de 12).
+
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/instant-trade/buy.png)
+Configuration sur une offre d’achat
+
+![](/img/faq/quickstart/069-screenshots/instant-trade/sell.png)
+Configuration sur une offre de vente
+
+![](/img/faq/quickstart/069-screenshots/instant-trade/filter-sell.png)
+Filtre qui peut utiliser instant-trade : exclure nouveaux utilisateurs ou réputation < 4,5
+
+![](/img/faq/quickstart/069-screenshots/instant-trade/book.png)
+Les offres instant-trade apparaissent dans le carnet d’ordres !
 :::

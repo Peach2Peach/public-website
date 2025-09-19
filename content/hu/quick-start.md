@@ -1,172 +1,212 @@
-# Gyors kezdés
+# Gyors Kezdés
 
 @[toc]
 
-## Bevezető: Miért a Peach?
+## Bevezetés: Miért Peach és miért peer-to-peer?
 
-Egy hagyományos tőzsdén közvetlenül tőlük veszel bitcoint. Ez gyakran egyszerű, de fel kell töltened a személyi irataidat, amelyek kiszivároghatnak egy feltöréskor — ez nem jó a magánszférádnak.
+A „normál” központosított tőzsdéken közvetlenül a cégtől vásárolsz bitcoint. Ez gyakran egyszerű, de fel kell töltened a személyi irataidat, amelyek kiszivároghatnak, ha a tőzsdét feltörik, ami rossz a magánéleted szempontjából. A cég egyúttal „mézesbödönné” válik… őrzik az összes adatodat, tudják, mennyi bitcoint vettél/eladtál… és bíznod kell bennük, hogy soha nem jelentenek egy „hatóságnak”. Végül: a központosított tőzsdéken **nem te birtoklod a bitcoinodat**, csak egy számlád van a cégnél. Talán tudod, hogy az aranyat tömegesen elkobozták a [6102-es elnöki rendelet](https://river.com/learn/terms/e/executive-order-6102/) alapján – nem szeretnéd, ha ugyanez történne a bitcoinoddal.  
 
-A másik oldalon ott vannak a peer-to-peer (P2P) piacterek. Itt más emberektől vásárolsz, ami sok szempontból jobb a privát szférának. De a használatuk elég bonyolult lehet… egészen mostanáig!
+Ezzel szemben **léteznek peer-to-peer tőzsdék**. Itt más emberektől vásárolhatsz és nekik adhatsz el, ami sokkal jobb a magánéleted szempontjából. Ezek a platformok viszont bonyolultak lehetnek… **mostanáig!**
 
-A Peach **könnyű** használni, **magánszférabarátabb**, **több fizetési módot** kínál, és _**valódi**_ **bitcoint** veszel, nem egy tőzsdei ígérvényt. Így működik:
+A Peach nagyon **elérhető**, könnyen használható… **még a nagymamádnak is**, sokkal **privátabb**, több **fizetési módot** kínál, és **valódi bitcoint** vásárolsz közvetlenül egy pénztárcába, amit TE irányítasz – nem egy tőzsdei ígéretet, amit talán sosem fizetnek ki. Így működik:
 
-## Útmutató 1: Az alkalmazás beállítása
+## 1. Útmutató: Az alkalmazás beállítása
 
-Miután telepítetted az appot (az [App Store]($iosUrl$), [Play Store]($androidUrl$) vagy az [APK letöltés](/apk/) révén), illetve a [Zap Store](https://zapstore.dev/) használatával, gyakorlatilag kész vagy.
-Most csak egy ajánlókódra lehet szükség — ha van.
+Miután telepítetted az alkalmazást ([App Store]($iosUrl$), [Play Store]($androidUrl$) vagy [APK letöltés](/apk/)) vagy a [Zap Store](https://zapstore.dev/) segítségével, gyakorlatilag már kész vagy.  
+Csak egy ajánlókódra lehet szükség – ha van.
 
-:::figures 4
-![Először megkérdezzük, szeretnél-e néhány használati adatot megosztani velünk.](/img/faq/quickstart/onboarding/usage-data.png)
+:::quickstarts 7
+![](/img/faq/quickstart/onboarding/created.png)
+Egy háromlépéses rövid bemutatót látsz arról, hogyan működik a Peach.
 
-![Ezután egy rövid, háromlépéses ismertetőt látsz a Peach működéséről.](/img/faq/quickstart/onboarding/1.png)
+![](/img/faq/quickstart/onboarding/1.png)
+Megkérdezzük, szeretnél-e adatokat megosztani velünk
 
-![Majd megkérdezzük, van-e ajánlókódod. Ha nincs — semmi gond 😉](/img/faq/quickstart/onboarding/new.png)
+![](/img/faq/quickstart/onboarding/new.png)
+Ezután megkérdezi, van-e ajánlókódod. Ha nincs – semmi gond
 
-![Ennyi! Kezdheted is!](/img/faq/quickstart/onboarding/created.png)
+![](/img/faq/quickstart/onboarding/usage-data.png)
+És kész! Indulhatsz!
 :::
 
-Ez a gyors beállítás azt jelenti, hogy **még nincs biztonsági mentésed**. Az első tranzakciód után felkérünk, hogy [készíts biztonsági mentést és jelszót](/faq/account/#how-should-i-store-my-backup).
+Ez a gyors beállítás azt jelenti, hogy **még nincs biztonsági mentésed**. Az első kereskedés után megkérünk, hogy [hozz létre biztonsági mentést és jelszót](/faq/account/#how-should-i-store-my-backup).
 
-## Útmutató 2: Vásárlás meglévő ajánlatokból
+## 2. Útmutató: Bitcoin vásárlása meglévő eladási ajánlatokból
 
-Lépésről lépésre az első vásárlásod meglévő ajánlatokból:
+Így zajlik az első vásárlásod lépésről lépésre:
 
 :::quickstarts 7
 ![](/img/faq/quickstart/069-screenshots/00-homepage.png)
-Érintsd meg a zöld „Vásárlás” gombot a meglévő eladási ajánlatok böngészéséhez.
+Érintsd meg a zöld „Vásárlás” gombot a meglévő eladási ajánlatok böngészéséhez
 
 ![](/img/faq/quickstart/069-screenshots/buy-accept/02-browse.png)
-Böngészd a rendelkezésre álló eladási ajánlatokat.
+Böngészd az elérhető eladási ajánlatokat
 
 ![](/img/faq/quickstart/069-screenshots/buy-accept/03-filter.png)
-Szűrhetsz pénznem és fizetési mód szerint.
+Szűrhetsz pénznem és fizetési mód alapján
 
 ![](/img/faq/quickstart/069-screenshots/buy-accept/04-request-trade.png)
-Válassz ki egy ajánlatot, kérj üzletkötést, és várd meg az elfogadást. Több ajánlatot is kérhetsz.
+Nyiss meg egy ajánlatot, és kérj kereskedést a „Kereskedés kérése” gombbal. Várj, amíg elfogadják. Több ajánlatot is összepárosíthatsz. Ellenőrizd a felhasználó **hírnév pontszámát és előzményeit** azonosítójára kattintva.
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/04a-chat.png)
+ÚJ: mostantól cseveghetsz az ellenféllel, mielőtt elfogadja a kereskedést, hogy megegyezzetek a feltételekben. Nyomd meg a „chat” gombot
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/04b-notification.png)
+Push értesítést kapsz, ha egy eladó elfogadta a kérelmed!
 
 ![](/img/faq/quickstart/069-screenshots/buy-accept/05-confirm-payment.png)
-Utalj a bankod/penztárcád alkalmazásából, majd húzd el a „Kifizettem” csúszkát.
+Küldd el a fizetést a bankodból vagy online pénztárcádból, és **CSAK MIUTÁN ELKÜLDTED**, húzd el a „Fizettem” csúszkát. TIPP: minél gyorsabban fizetsz, annál jobb a hírneved. 
 
 ![](/img/faq/quickstart/069-screenshots/buy-accept/06-wait-payout.png)
-Várd meg, amíg az eladó megerősíti a fizetést és feldolgozzuk a kifizetést (legfeljebb 24 óra).
+Várj, amíg az eladó megerősíti a befizetésed. Ekkor a letét (escrow) felszabadul! A kifizetések 24 óránként történnek, ha engedélyezted a „Tranzakciók csoportosítása” funkciót a hálózati díjak csökkentésére. Kikapcsolhatod, és azonnal megkaphatod a sats-okat (Beállítások > Tranzakciók csoportosítása). 
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/07-rate.png)
+Értékeld az eladót
 :::
 
-## Útmutató 3: Vásárlás saját ajánlat közzétételével
+## 3. Útmutató: Saját VÉTELI ajánlat létrehozása
 
-Az első vételi ajánlatod néhány másodperc alatt elkészül. Csak mondd meg, mennyit vennél, és hogyan fizetsz az eladónak.
+Első vételi ajánlatod létrehozása csak néhány másodperc. Állítsd be: mennyit szeretnél venni, milyen pénznemeket és fizetési módokat fogadsz el, milyen áron és melyik pénztárcába érkezzen a kifizetés. 
 
 :::quickstarts 7
 ![](/img/faq/quickstart/069-screenshots/00-homepage.png)
-Érintsd meg a „Vételi ajánlat létrehozása” gombot.
+Érintsd meg a „Vételi ajánlat létrehozása” gombot
 
 ![](/img/faq/quickstart/069-screenshots/buy-offer/01-create-offer.png)
-Adj hozzá fizetési módot (lásd a 6. útmutatót), és állítsd be az ajánlat részleteit.
+Adj hozzá fizetési módot (lásd 6. útmutató), és állítsd be a preferenciáid
 
-![](/img/faq/quickstart/069-screenshots/buy-offer/03-accept-trade-request.png)
-Amikor egy eladó illeszkedik az ajánlatodhoz, elfogadhatod az üzletet.
+![](/img/faq/quickstart/069-screenshots/buy-offer/01a-published.png)
+Az ajánlatod megjelenik a Peach P2P piactéren, és az eladók láthatják! Értesítést kapsz, ha valaki elfogadná!  
 
 ![](/img/faq/quickstart/069-screenshots/buy-offer/04-confirm-trade-request.png)
-És erősítsd meg, hogy elfogadod.
+Ha egy eladó kereskedési kérelmet küld, jóváhagyhatod, és beléphetsz a szerződésbe. ÚJ: utasítsd el, ha nem felel meg. ÚJ: csevegj, mielőtt szerződsz.
 
 ![](/img/faq/quickstart/069-screenshots/buy-offer/05-wait-escrow.png)
-Várj egy kicsit, amíg az eladó letétbe helyezi a satokat (escrow).
+Várj, amíg az eladó elhelyezi a sats-okat a **2-2 multisig letétben** közte és a Peach között. 12 órája van. 
 
 ![](/img/faq/quickstart/069-screenshots/buy-offer/06-confirm-payment.png)
-Az escrow tranzakció megerősítése után megjelennek a fizetési adatok. Fizess a bankból/penztárcából, majd erősítsd meg a Peach appban a „Kifizettem” csúszkával.
+Ha a tranzakciót megerősítik, megjelennek a fizetési adatok. Küldd el a fizetést, és **CSAK EKKOR** húzd el a „Fizettem” csúszkát. TIPP: gyors fizetés = jobb hírnév. 
 
 ![](/img/faq/quickstart/069-screenshots/buy-offer/07-wait-payout.png)
-Most már csak várnod kell, hogy az eladó visszaigazolja a beérkezést, és feldolgozzuk a felszabadítást (24 órán belül).
+Várd meg, amíg az eladó megerősíti a fizetést. Ezután felszabadul a letét. A kifizetés 24 óránként történik, ha a **Tranzakciók csoportosítása** be van kapcsolva. Kikapcsolhatod az azonnali kifizetéshez. 
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/07-rate.png)
+Értékeld az eladót
 :::
 
-## Útmutató 4: Eladás meglévő ajánlatokra
+## 4. Útmutató: Bitcoin eladása meglévő vételi ajánlatokra
 
-Lépésről lépésre az első eladásod meglévő vételi ajánlatokra:
+Lépésről lépésre az első eladásod:
 
 :::quickstarts 7
 ![](/img/faq/quickstart/069-screenshots/00-homepage.png)
-Érintsd meg a narancssárga „Eladás” gombot, hogy illeszkedj a meglévő vételi ajánlatokhoz.
+Érintsd meg a narancssárga „Eladás” gombot egy vételi ajánlat párosításához
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/01-browse-offers.png)
-Böngészd a vételi ajánlatokat.
+Böngészd a meglévő vételi ajánlatokat
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/02-filter-offers.png)
-Szűrhetsz pénznem és fizetési mód szerint is.
+Szűrj pénznem és fizetési mód alapján, ellenőrizd a **hírnévpontot és előzményeket**
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/03-request-trade.png)
-Kérj üzletkötést egy vagy több vevővel.
+Kérj kereskedést, majd várj, amíg a vevő elfogadja
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/04-chat-trade.png)
-Cseveghetsz a vevővel, vagy várhatod az elfogadást.
+ÚJ: csevegj a feltételek tisztázására, vagy várj az elfogadásra
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/04a-notification.png)
+Értesítés push formájában, ha a vevő elfogadja
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/05-create-escrow.png)
-Ha egy vevő elfogadja a kérelmed, kérni fogjuk, hogy helyezd letétbe az eladni kívánt satokat (escrow).
+Helyezd letétbe az eladandó sats-okat a 2-2 multisig escrow-ba
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/06-create-escrow.png)
-Befizethetsz a Peach Walletből vagy külső pénztárcából.
+Finanszírozd **Peach Walletből** vagy külső pénztárcából
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/06a-funded.png)
+Megerősítés után a vevő látja az adataidat és 12 órája van a fizetésre
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/07-confirm-payment.png)
-Amikor megérkezett a fizetés a bankszámládra/pénztárcádba, húzd el a „Megkaptam a fizetést” csúszkát.
+**ERŐSÍTSD MEG CSAK AKKOR**, ha megérkezett a pénz. **FIGYELEM: a megerősítés felszabadítja a sats-okat a vevőnek, és visszavonhatatlan.** 
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/08-rate-user.png)
-Értékeld a vevőt.
+Értékeld a vevőt
 :::
 
-## Útmutató 5: Eladás saját ajánlat közzétételével
+## 5. Útmutató: Saját ELADÁSI ajánlat létrehozása
 
-Az első eladási ajánlatod pár perc alatt elkészül. Add meg, mennyit adnál el, és hogyan szeretnél fizetséget kapni.
+Az első eladási ajánlat létrehozása is gyors. Állítsd be: mennyit adsz el, elfogadott pénznemek és módszerek, ár és visszatérítési pénztárca törlés esetére. 
 
 :::quickstarts 7
 ![](/img/faq/quickstart/069-screenshots/00-homepage.png)
-Érintsd meg az „Eladási ajánlat létrehozása” gombot.
+Érintsd meg az „Eladási ajánlat létrehozása” gombot
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/02-set-offer-details.png)
-Add meg a fizetési részleteket (lásd a 6. útmutatót), és állítsd be az ajánlatot.
+Adj meg fizetési adatokat (lásd 6. útmutató) és állítsd be az ajánlatot
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/03-fund-from-peach.png)
-Finanszírozd az escrowt a Peach Walletből.
+Finanszírozd a 2-2 multisig escrow-t a Peach Walletből
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/04-fund-from-external.png)
-Vagy finanszírozd külső pénztárcából.
+Vagy külső pénztárcából a megadott bitcoin címre
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/05-confirm-escrow-tx.png)
-Várd meg a befizetés megerősítését.
+Várd meg a megerősítést
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/06-offer-published.png)
-A megerősítés után az ajánlatod megjelenik.
+A tranzakció után az ajánlat közzétételre kerül
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/07-accept-trade-request.png)
-Ha egy vevő illeszkedik, fogadd el a kérelmet.
+Ha egy vevő párosít, fogadd el a kérelmet
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/08-accept-trade-request.png)
-Erősítsd meg az elfogadást vagy beszélgess a vevővel.
+Erősítsd meg és lépj szerződésbe. ÚJ: utasítsd el, ha nem megfelelő. ÚJ: csevegj előtte.
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/09-confirm-received-payment.png)
-Amikor megerősíted, hogy megkaptad a fizetést, felszabadítjuk az escrowt.
+**ERŐSÍTSD MEG CSAK AKKOR**, ha a fizetés megérkezett. **FIGYELEM: a megerősítés felszabadítja a sats-okat, visszavonhatatlan.**
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/10-rate-user.png)
-Értékeld a vevőt.
+Értékeld a vevőt
 :::
 
-## Útmutató 6: Fizetési módok hozzáadása
+## 6. Útmutató: Fizetési módok hozzáadása
 
-Amikor vételi vagy eladási ajánlatot hozol létre a Peachben, jelezned kell a partnerednek, hogyan fizetsz vagy hogyan szeretnél fizetséget kapni.
+Ajánlat létrehozásakor meg kell mutatnod, hogyan fizetsz vagy hogyan szeretnél kapni.
 
 :::quickstarts 7
 ![](/img/faq/quickstart/add-payment-method/AddPM01.png)
-Először válassz kategóriát: távoli (pl. banki átutalás, PayPal) vagy személyes találkozó (készpénz).
+Válassz: **távoli** (pl. utalás, PayPal) vagy **személyes** (készpénz).
 
 ![](/img/faq/quickstart/add-payment-method/AddPM02.png)
-Ezután válaszd ki a pénznemet a módszerhez.
+Válaszd ki a pénznemet
 
 ![](/img/faq/quickstart/add-payment-method/AddPM03.png)
-Látni fogod az adott pénznemhez elérhető módszerkategóriákat. Példánkban online pénztárcát használunk.
+Látod a lehetőségeket. Példa: online pénztárca
 
 ![](/img/faq/quickstart/add-payment-method/AddPM04.png)
-Megnyílik egy panel, ahol kiválaszthatod a hozzáadandó online pénztárcát. Válasszuk a PayPalt.
+Válaszd ki, melyik online pénztárcát adod hozzá. Példa: PayPal
 
 ![](/img/faq/quickstart/add-payment-method/AddPM05.png)
-Csak töltsd ki az adataidat. Megadhatod azt is, ha további pénznemeket is fogadsz.
+Add meg az adataidat. Megadhatod, hogy fogadsz-e több pénznemet is.
 
 ![](/img/faq/quickstart/add-payment-method/AddPM06.png)
-Ha kész vagy, nyomd meg a „Megerősítés” gombot, és …
+Nyomd meg a „Megerősítés” gombot és…
+:::
+
+## 7. Útmutató: **Instant-trade** beállítása vételi vagy eladási ajánlatnál
+
+Ajánlat létrehozásakor bekapcsolhatod az **instant-trade** opciót. Ez azt jelenti, hogy **nem kell kézzel elfogadnod** a kérelmet: az ellenfél automatikusan belép a kereskedésbe. Gyorsabb kereskedéshez ideális: a vevőnek 1 óra van a fizetésre (12 helyett), az eladónak 1 óra az escrow finanszírozására (12 helyett).
+
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/instant-trade/buy.png)
+Beállítás vételi ajánlatnál
+
+![](/img/faq/quickstart/069-screenshots/instant-trade/sell.png)
+Beállítás eladási ajánlatnál
+
+![](/img/faq/quickstart/069-screenshots/instant-trade/filter-sell.png)
+Szűrd, ki használhat instant-trade-et: zárd ki az új felhasználókat vagy alacsony (<4.5) hírnévvel rendelkezőket
+
+![](/img/faq/quickstart/069-screenshots/instant-trade/book.png)
+Az instant-trade ajánlatok megjelennek az order bookban!
 :::

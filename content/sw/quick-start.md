@@ -1,172 +1,212 @@
-# Mwongozo wa Haraka
+# Mwanzo wa Haraka
 
 @[toc]
 
-## Utangulizi: Kwa nini Peach?
+## Utangulizi: Kwa nini Peach na kwa nini peer-to-peer?
 
-Kwenye soko la kawaida (exchange) unanunua bitcoin moja kwa moja kutoka kwao. Mara nyingi ni rahisi, lakini lazima upakie hati zako za utambulisho ambazo zinaweza kuvuja endapo soko litadukuliwa — si vizuri kwa faragha yako.
+Kwenye “masoko ya kawaida” yaliyo katikati, unanunua bitcoin moja kwa moja kutoka kwa kampuni. Mara nyingi ni rahisi, lakini lazima upakie hati zako za utambulisho ambazo zinaweza kuvuja endapo soko litadukuliwa – jambo baya kwa faragha yako. Kampuni pia inakuwa “honeypot”… ikihifadhi hati zako zote, ikijua kiasi cha bitcoin ulichonunua/kuuza… na lazima uamini kuwa hawatakuripoti kwa “mamlaka” yoyote. Zaidi ya hayo: kwenye masoko yaliyo katikati **hushiki bitcoin zako moja kwa moja**, bali una akaunti tu kwa kampuni. Huenda unajua kuwa dhahabu ilitaifishwa kwa wingi kupitia [Executive Order 6102](https://river.com/learn/terms/e/executive-order-6102/), na hutaki jambo hilo lifanyike kwa bitcoin zako.  
 
-Upande mwingine kuna masoko ya mtu-kwa-mtu (P2P). Hapa unanunua kutoka kwa watu wengine, jambo linalolinda faragha yako kwa njia nyingi. Hata hivyo, yanaweza kuwa magumu kutumia… mpaka sasa!
+Kwa upande mwingine, **kuna masoko ya peer-to-peer**. Hapa unanunua na kuuza moja kwa moja na watu wengine, jambo ambalo ni bora zaidi kwa faragha yako. Lakini majukwaa hayo yanaweza kuwa magumu kutumia… **mpaka sasa!**
 
-Peach ni **rahisi** kutumia, lina **faragha** zaidi, lina **njia nyingi za malipo**, na unanunua _**bitcoin halisi**_, si ahadi ya soko ambayo huenda isilipwe. Hivi ndivyo inavyofanya kazi:
+Peach ni **rahisi kufikiwa**, rahisi kutumia… **hata kwa bibi yako**, ni zaidi **ya faragha**, lina **njia nyingi za malipo** na unanunua **bitcoin halisi moja kwa moja kwenye pochi unayodhibiti WEWE**, si hati ya kubadilishana ambayo huenda isilipwe kamwe. Hivi ndivyo inavyofanya kazi:
 
-## Mwongozo 1: Kuseti app
+## Mwongozo 1: Kuweka programu
 
-Baada ya kusakinisha app (kupitia [App Store]($iosUrl$), [Play Store]($androidUrl$) au [kupakua APK](/apk/)) au [Zap Store](https://zapstore.dev/), umemaliza karibu kila kitu.
-Kinachoweza kuhitajika sasa ni msimbo wa rufaa — kama unayo.
+Baada ya kusakinisha programu ([App Store]($iosUrl$), [Play Store]($androidUrl$) au [Pakua APK](/apk/)) au kupitia [Zap Store](https://zapstore.dev/), tayari umemaliza.  
+Kitu pekee kinachohitajika sasa ni msimbo wa rufaa – kama unayo.
 
-:::figures 4
-![Kwanza utaulizwa kama ungependa kushiriki baadhi ya data ya matumizi nasi.](/img/faq/quickstart/onboarding/usage-data.png)
+:::quickstarts 7
+![](/img/faq/quickstart/onboarding/created.png)
+Utaona maelezo mafupi ya hatua tatu jinsi Peach inavyofanya kazi.
 
-![Kisha utaona maelezo mafupi ya hatua tatu kuhusu jinsi Peach inavyofanya kazi.](/img/faq/quickstart/onboarding/1.png)
+![](/img/faq/quickstart/onboarding/1.png)
+Utaulizwa kama ungependa kushiriki data fulani nasi
 
-![Baadaye utaulizwa kama una msimbo wa rufaa. Kama hauna — usijali 😉](/img/faq/quickstart/onboarding/new.png)
+![](/img/faq/quickstart/onboarding/new.png)
+Baada ya hapo utaulizwa kama una msimbo wa rufaa. Kama huna – usijali
 
-![Basi! Uko tayari kuanza!](/img/faq/quickstart/onboarding/created.png)
+![](/img/faq/quickstart/onboarding/usage-data.png)
+Ndio basi! Uko tayari kuanza!
 :::
 
-Mchakato huu wa haraka unamaanisha **bado hujaweka chelezo**. Baada ya kukamilisha biashara yako ya kwanza, utaombwa [kutengeneza chelezo na nenosiri](/faq/account/#how-should-i-store-my-backup).
+Mchakato huu wa haraka unamaanisha kuwa **bado huna nakala ya akiba**. Baada ya biashara yako ya kwanza utaombwa [kutengeneza nakala ya akiba na nenosiri](/faq/account/#how-should-i-store-my-backup).
 
-## Mwongozo 2: Kununua kutoka kwa ofa zilizopo
+## Mwongozo 2: Kununua Bitcoin kutoka kwa ofa zilizopo za kuuza
 
-Hatua kwa hatua kwa ununuzi wako wa kwanza kutoka kwa ofa zilizopo:
+Hatua kwa hatua ya ununuzi wako wa kwanza kutoka kwa ofa zilizopo:
 
 :::quickstarts 7
 ![](/img/faq/quickstart/069-screenshots/00-homepage.png)
-Gusa kitufe cha kijani «Nunua» ili kuangalia ofa za uuzaji zilizopo.
+Gusa kitufe cha kijani «Nunua» kuona ofa zilizopo za kuuza
 
 ![](/img/faq/quickstart/069-screenshots/buy-accept/02-browse.png)
-Vinjari ofa za uuzaji.
+Pitia ofa zilizopo za kuuza
 
 ![](/img/faq/quickstart/069-screenshots/buy-accept/03-filter.png)
-Unaweza kuchuja kwa sarafu na mbinu ya malipo.
+Unaweza kuchuja kwa sarafu na njia ya malipo
 
 ![](/img/faq/quickstart/069-screenshots/buy-accept/04-request-trade.png)
-Chagua ofa, omba biashara na subiri ikubaliwe. Unaweza kuomba ofa nyingi.
+Chagua ofa na uombe biashara kwa «Omba biashara». Unaweza kuchanganya ofa nyingi. Hakikisha kuangalia **alama ya sifa na historia** ya mtumiaji kwa kubonyeza kitambulisho chake.
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/04a-chat.png)
+MPYA: sasa unaweza kuzungumza na mwenzako kabla hajakubali biashara yako, kuhakikisha mnakubaliana masharti. Gusa «chat» kufungua
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/04b-notification.png)
+Unapokea arifa ya pushi wakati muuzaji anakubali ombi lako!
 
 ![](/img/faq/quickstart/069-screenshots/buy-accept/05-confirm-payment.png)
-Fanya malipo kupitia benki/pochi yako na usukume kitelezi «Nimefanya malipo».
+Tuma malipo kutoka benki/pochi yako ya mtandaoni na **TU BAADA YA KULIPA**, sukuma «Nimelipa». USHAURI: kadri unavyolipa haraka, ndivyo sifa yako inavyoongezeka. 
 
 ![](/img/faq/quickstart/069-screenshots/buy-accept/06-wait-payout.png)
-Subiri muuzaji athibitishe malipo na utoaji ushughulikiwe (hadi saa 24).
+Subiri muuzaji athibitishe kuwa amepokea. Kisha escrow inatolewa! Malipo huchakatwa kila baada ya saa 24 ikiwa umeweka «Kukusanya miamala» kuokoa ada za mtandao. Unaweza kuzima na kupokea sats mara moja (Mipangilio > Kukusanya miamala). 
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/07-rate.png)
+Sasa unaweza kumkadiria muuzaji
 :::
 
-## Mwongozo 3: Kununua kwa kuchapisha ofa yako
+## Mwongozo 3: Unda ofa yako ya KUNUNUA
 
-Kuweka ofa yako ya kwanza ya kununua huchukua sekunde chache. Tuambie kiasi unachotaka kununua na jinsi utakavyomlipa muuzaji.
+Kuunda ofa yako ya kwanza ya kununua huchukua sekunde chache tu. Weka: kiasi unachotaka kununua, sarafu na njia unazokubali, bei, na pochi ya malipo. 
 
 :::quickstarts 7
 ![](/img/faq/quickstart/069-screenshots/00-homepage.png)
-Gusa «Unda ofa ya kununua» ili kuunda ofa yako.
+Gusa «Unda ofa ya kununua»
 
 ![](/img/faq/quickstart/069-screenshots/buy-offer/01-create-offer.png)
-Ongeza mbinu ya malipo kama ilivyoelezwa kwenye Mwongozo 6 na weka maelezo ya ofa.
+Ongeza njia ya malipo (tazama Mwongozo 6) na weka mapendeleo yako
 
-![](/img/faq/quickstart/069-screenshots/buy-offer/03-accept-trade-request.png)
-Muuzaji akilingana na ofa yako, unaweza kukubali biashara.
+![](/img/faq/quickstart/069-screenshots/buy-offer/01a-published.png)
+Ofa yako inachapishwa kwenye soko la Peach P2P na wauzaji wanaweza kuiona! Utapokea arifa wakati muuzaji anataka kukubali  
 
 ![](/img/faq/quickstart/069-screenshots/buy-offer/04-confirm-trade-request.png)
-Kisha thibitisha kwamba unakubali biashara.
+Muuzaji akituma ombi, unaweza kulikubali na kuingia kwenye mkataba. MPYA: kataa kama masharti au sifa hayakuvutii. MPYA: sasa unaweza kuzungumza kabla ya kukubali.
 
 ![](/img/faq/quickstart/069-screenshots/buy-offer/05-wait-escrow.png)
-Subiri kidogo muuzaji aweke sats kwenye escrow.
+Subiri muuzaji aweke sats kwenye **escrow ya multisig 2-2** kati yake na Peach. Ana saa 12 kufanya hivyo. 
 
 ![](/img/faq/quickstart/069-screenshots/buy-offer/06-confirm-payment.png)
-Baada ya muamala wa escrow kuthibitishwa, maelezo ya malipo yanaonekana. Lipa kupitia benki/pochi yako na uthibitishe kwenye app ya Peach kwa kusukuma «Nimefanya malipo».
+Baada ya uthibitisho, utaona maelezo ya malipo. Lipa na **NI BAADA YA HAPO TU**, sukuma «Nimelipa». USHAURI: kulipa haraka = sifa bora. 
 
 ![](/img/faq/quickstart/069-screenshots/buy-offer/07-wait-payout.png)
-Sasa subiri muuzaji athibitishe upokeaji na kuachiliwa kwa escrow kushughulikiwe (ndani ya saa 24).
+Subiri muuzaji athibitishe. Kisha escrow inatolewa! Malipo kila baada ya saa 24 na «Kukusanya miamala». Unaweza kuzima na kupokea sats mara moja. 
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/07-rate.png)
+Mpe muuzaji alama
 :::
 
-## Mwongozo 4: Kuuza kwa ofa zilizopo
+## Mwongozo 4: Kuuza Bitcoin kwa ofa zilizopo za kununua
 
-Hatua kwa hatua kwa uuzaji wako wa kwanza kwa ofa za kununua zilizopo:
+Hatua kwa hatua kuuza kwako kwa mara ya kwanza:
 
 :::quickstarts 7
 ![](/img/faq/quickstart/069-screenshots/00-homepage.png)
-Gusa kitufe cha machungwa «Uza» ili kulinganisha na ofa za kununua zilizopo.
+Gusa kitufe cha machungwa «Uza» kuoanisha na ofa ya kununua
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/01-browse-offers.png)
-Vinjari ofa za kununua.
+Pitia ofa za kununua
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/02-filter-offers.png)
-Pia unaweza kuchuja kwa sarafu na mbinu ya malipo.
+Chuja kwa sarafu na njia, kagua **sifa na historia**
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/03-request-trade.png)
-Omba biashara na mnunuzi mmoja au wengi.
+Omba biashara na usubiri mnunuzi akubali
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/04-chat-trade.png)
-Unaweza kuzungumza na mnunuzi au usubiri tu ukubalike.
+MPYA: zungumza kabla ya makubaliano, au subiri mnunuzi akubali
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/04a-notification.png)
+Unapata arifa ya pushi mnunuzi akipoa
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/05-create-escrow.png)
-Mnunuzi akiaprubu, utaombwa uweke sats unazouza kwenye escrow.
+Unahitajika kuweka sats kwenye escrow ya multisig 2-2 kati yako na Peach
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/06-create-escrow.png)
-Weka kutoka Peach Wallet au kutoka pochi ya nje.
+Weka kutoka **Peach Wallet** au **ya nje**
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/06a-funded.png)
+Baada ya uthibitisho mnunuzi ana saa 12 kulipa
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/07-confirm-payment.png)
-Ukishapokea malipo kwenye benki/pochi yako, thibitisha kwa kusukuma «Nimepokea malipo».
+**THIBITISHA TU WAKATI** umepokea malipo. **ANGALIA: kuthibitisha kunatoa sats kwa mnunuzi na haiwezi kubatilishwa.** 
 
 ![](/img/faq/quickstart/069-screenshots/sell-accept/08-rate-user.png)
-Sasa mpe mnunuzi alama.
+Mpe mnunuzi alama
 :::
 
-## Mwongozo 5: Kuuza kwa kuchapisha ofa yako
+## Mwongozo 5: Unda ofa yako ya KUUZA
 
-OFA yako ya kwanza ya kuuza huundwa ndani ya dakika chache. Eleza kiasi unachouza na jinsi unavyotaka kulipwa.
+Kuunda ofa ya kuuza pia ni rahisi. Weka: kiasi unachouza, sarafu na njia unazokubali, bei, na pochi ya kurejesha.
 
 :::quickstarts 7
 ![](/img/faq/quickstart/069-screenshots/00-homepage.png)
-Gusa «Unda ofa ya kuuza» ili kuunda ofa yako.
+Gusa «Unda ofa ya kuuza»
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/02-set-offer-details.png)
-Ongeza maelezo ya malipo kama kwenye Mwongozo 6 na weka maelezo.
+Ongeza maelezo ya malipo (tazama Mwongozo 6) na weka maelezo
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/03-fund-from-peach.png)
-Fadhili escrow kutoka kwenye Peach Wallet yako.
+Weka sats kwenye escrow ya 2-2 kutoka Peach Wallet yako
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/04-fund-from-external.png)
-Au fadhili kutoka pochi ya nje.
+Au weka kutoka pochi ya nje kwa anwani uliyopewa
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/05-confirm-escrow-tx.png)
-Subiri uthibitisho wa muamala wa amana.
+Subiri uthibitisho
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/06-offer-published.png)
-Baada ya kuthibitishwa, ofa yako inachapishwa.
+Baada ya hapo ofa yako inachapishwa
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/07-accept-trade-request.png)
-Mnunuzi akilingana na ofa yako, kubali ombi la biashara.
+Mnunuzi akiunganisha, kubali ombi
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/08-accept-trade-request.png)
-Thibitisha kukubali au zungumza na mnunuzi.
+Thibitisha na ingia mkatabani. MPYA: unaweza kukataa. MPYA: zungumza kabla.
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/09-confirm-received-payment.png)
-Ukipothibitisha kuwa umepokea malipo, escrow itaachiliwa.
+**THIBITISHA TU WAKATI** umepokea malipo. **ANGALIA: kuthibitisha kunatoa sats na haiwezi kubatilishwa.**
 
 ![](/img/faq/quickstart/069-screenshots/sell-offer/10-rate-user.png)
-Mpe mnunuzi tathmini.
+Mpe mnunuzi alama
 :::
 
 ## Mwongozo 6: Kuongeza njia za malipo
 
-Unapotengeneza ofa ya kununua au kuuza kwenye Peach, unahitaji kumjulisha mwenzako jinsi utalipa au ungependa kulipwa.
+Unapounda ofa, lazima uonyeshe upande wa pili jinsi utalipa au unavyotaka kulipwa.
 
 :::quickstarts 7
 ![](/img/faq/quickstart/add-payment-method/AddPM01.png)
-Kwanza chagua kati ya makundi mawili: mbali (mf. uhamisho wa benki, PayPal) au mkutano ana kwa ana (pesa taslimu).
+Chagua: **mbali** (mfano uhamisho, PayPal) au **uso kwa uso** (pesa taslimu)
 
 ![](/img/faq/quickstart/add-payment-method/AddPM02.png)
-Kisha chagua sarafu ya kutumia kwa njia hiyo ya malipo.
+Chagua sarafu
 
 ![](/img/faq/quickstart/add-payment-method/AddPM03.png)
-Utaona makundi ya njia za malipo zinazopatikana kwa sarafu hiyo. Kwa mfano huu, tuchague pochi ya mtandaoni.
+Angalia kategoria zilizopo. Mfano: pochi ya mtandaoni
 
 ![](/img/faq/quickstart/add-payment-method/AddPM04.png)
-Dirisha litafunguka ili uchague ni pochi gani ya mtandaoni uongeze. Tuchague PayPal.
+Chagua pochi ya mtandaoni kuongeza. Mfano: PayPal
 
 ![](/img/faq/quickstart/add-payment-method/AddPM05.png)
-Jaza maelezo yako. Unaweza pia kuonyesha kama pochi yako inapokea sarafu nyingine.
+Weka maelezo yako. Unaweza kubainisha kama unakubali sarafu zaidi
 
 ![](/img/faq/quickstart/add-payment-method/AddPM06.png)
-Ukiwa umemaliza, bonyeza «Thibitisha» na …
+Bonyeza «Thibitisha» na…
+:::
+
+## Mwongozo 7: Kuweka **instant-trade** unapounda ofa
+
+Unapounda ofa unaweza kuweka **instant-trade**. Hii inamaanisha kuwa **huhitaji kukubali kwa mkono** – upande wa pili anaingia moja kwa moja. Ni nzuri kwa kasi: mnunuzi ana 1h kulipa (badala ya 12), muuzaji ana 1h kuweka escrow (badala ya 12).
+
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/instant-trade/buy.png)
+Hivi ndivyo unavyoweka kwenye ofa ya kununua
+
+![](/img/faq/quickstart/069-screenshots/instant-trade/sell.png)
+Hivi ndivyo unavyoweka kwenye ofa ya kuuza
+
+![](/img/faq/quickstart/069-screenshots/instant-trade/filter-sell.png)
+Chuja ni nani anaweza kufanya instant-trade: ondoa watumiaji wapya au wale walio na sifa < 4.5
+
+![](/img/faq/quickstart/069-screenshots/instant-trade/book.png)
+Ofa zilizo na instant-trade zinaonekana kwenye order book!
 :::
