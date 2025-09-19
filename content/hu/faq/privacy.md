@@ -112,3 +112,10 @@ A Peach pénztárca támogatja a coin controlt vagy coin menedzsmentet. A coin c
 Nézd meg a videónkat, amely részletesen bemutatja a coin controlt: [Hogyan végezzünk coin controlt a Peach Pénztárcával](https://www.youtube.com/watch?v=zWwIekSv3U8)
 
 :::
+
+:::details Milyen adatvédelmi következményei vannak az azonnali kereskedési ajánlatnak?
+
+Alapértelmezés szerint a fizetési adatok PGP-vel vannak titkosítva végponttól végpontig Ön és partnere között.  
+Az azonnali kereskedési ajánlat esetében az információkat a Peach is megkapja, hogy azonnal továbbíthassuk azokat a partnernek, amint az ajánlat elküldésre kerül.
+:::
+

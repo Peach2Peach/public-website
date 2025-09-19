@@ -124,3 +124,10 @@ Peach Wallet inasaidia udhibiti wa sarafu au usimamizi wa sarafu. Lengo la udhib
 Tazama video yetu inayoelezea udhibiti wa sarafu kwa undani: [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
 
 :::
+
+:::details Ni athari gani za faragha katika ofa ya biashara ya papo kwa hapo?
+
+Kwa chaguo-msingi, maelezo ya malipo yanasimbwa kwa PGP kutoka mwisho hadi mwisho kati yako na mwenzako wa biashara.  
+Katika hali ya ofa ya biashara ya papo kwa hapo, taarifa pia zinashirikiwa na Peach, ili tuweze kuzipeleka kwa mwenzako mara tu ombi la biashara litakapotumwa.
+:::
+

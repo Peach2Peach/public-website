@@ -106,3 +106,9 @@ De Peach-portemonnee ondersteunt coin control of coin management. Het doel van c
 
 Bekijk onze video waarin coin control in detail wordt uitgelegd: [Hoe coin control te gebruiken met de Peach-portemonnee](https://www.youtube.com/watch?v=zWwIekSv3U8)
 :::
+
+:::details Wat zijn de privacy-implicaties van een direct-handelsaanbod?
+
+Standaard worden betalingsgegevens end-to-end met PGP versleuteld tussen jou en je tegenpartij.  
+In het geval van een direct-handelsaanbod worden de gegevens ook gedeeld met Peach, zodat wij ze naar de tegenpartij kunnen doorsturen zodra het handelsverzoek is verzonden.
+:::

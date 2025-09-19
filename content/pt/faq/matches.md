@@ -1,40 +1,22 @@
-# Perguntas frequentes sobre correspondências
+# FAQ do Marketplace
 
-:::details Como funciona o Peach Matchmaking?
+:::details Como uma negociação é criada?
 
-O Peach conecta você a outro Comprador ou Vendedor de Bitcoin de acordo com suas preferências de moedas e métodos de pagamento.
-Com base nisso, o Peach notifica você quando você recebe ofertas correspondentes.
-Nós classificamos as correspondências por [pontuação de reputação](/pt/faq/account/#what-does-the-peach-score-mean) e preço da oferta.
+Existem várias formas de iniciar uma negociação:  
+Um comprador cria uma oferta de compra e recebe solicitações de negociação de vendedores: a negociação começa assim que o comprador aceita uma das solicitações.  
+E o contrário…  
+Um vendedor cria uma oferta de venda e recebe solicitações de negociação de compradores: a negociação começa assim que o vendedor aceita uma das solicitações.  
+Nota: Se a negociação for criada como “negociação instantânea”, então começa assim que o tomador desliza o botão de “negociação instantânea”. 
 :::
 
-:::details Como é criada uma negociação?
+:::details Posso cancelar uma negociação?
 
-Um Comprador pode corresponder a quantas ofertas de venda ele quiser.
-O primeiro Vendedor a aceitar a oferta do Comprador (Double Match) fecha a negociação!
-:::
-
-:::details Posso cancelar uma correspondência?
-
-A qualquer momento!
-Cuidado, sua [pontuação de reputação](/pt/faq/account/#what-does-the-peach-score-mean) será levemente afetada ao cancelar uma correspondência.
-:::
-
-:::details Posso cancelar um Double Match (uma negociação)?
-
-Uma negociação é criada assim que o Vendedor aceita a oferta do Comprador.
-O Comprador recebe automaticamente os detalhes de pagamento do Vendedor\*.
-O Comprador pode cancelar a negociação a qualquer momento.
-O Vendedor só pode cancelar uma negociação pedindo primeiro ao Comprador se ele concorda em cancelar.
-Cuidado, o cancelamento de uma negociação afeta sua [pontuação de reputação](/pt/faq/account/#what-does-the-peach-score-mean)!
+O comprador pode cancelar uma negociação antes de confirmar que o pagamento foi realizado. Caso contrário, você deve abrir uma disputa no chat da negociação e um mediador a cancelará para você.  
+Atenção, cancelar uma negociação afeta sua [pontuação de reputação](/pt/faq/account/#what-does-the-peach-score-mean)!  
+O cancelamento é possível com o ícone cinza no canto superior direito da tela.  
 :::
 
 :::details Quando o preço da negociação é definido?
 
-Quando o comprador corresponde a uma oferta.
-O vendedor pode aceitar ou recusar essa correspondência.
-:::
-
-:::details Como comprador, posso corresponder a vários vendedores?
-
-Sim! Você pode corresponder a quantos vendedores desejar. Correspondendo a um vendedor não garante que eles corresponderão de volta, então muitas vezes é inteligente corresponder a quantos forem possíveis. Você fará a negociação com o primeiro vendedor que corresponder de volta, enquanto os outros terão que procurar novos compradores.
+Quando o comprador ou o vendedor envia uma solicitação de negociação. O outro pode aceitar ou recusar essa solicitação.  
 :::

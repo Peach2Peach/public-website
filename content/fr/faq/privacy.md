@@ -127,5 +127,10 @@ Si vous utilisez Umbrel, vous pouvez utiliser umbrel.{numéro de port} à la pla
 Le portefeuille Peach prend en charge la gestion des coins ou la gestion des cryptomonnaies. L'objectif de la gestion des coins est de garder vos coins séparés si vous le souhaitez, pour gérer votre vie privée.
 
 Regardez notre vidéo expliquant la gestion des coins en détail : [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
+:::
 
+:::details Quelles sont les implications en matière de confidentialité d’une offre d’échange instantané ?
+
+Par défaut, les informations de paiement sont chiffrées de bout en bout avec PGP entre vous et votre contrepartie.  
+Dans le cas d’une offre d’échange instantané, les informations sont également partagées avec Peach, afin que nous puissions les transmettre à la contrepartie dès que la demande d’échange est envoyée.
 :::

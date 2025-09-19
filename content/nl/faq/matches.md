@@ -1,40 +1,22 @@
-# Matches FAQ
+# Veelgestelde Vragen Marktplaats
 
-:::details Hoe werkt Peach Matchmaking?
+:::details Hoe wordt een transactie aangemaakt?
 
-Peach verbindt u met een andere Bitcoin-koper of -verkoper volgens uw voorkeuren voor valuta's en betaalmethoden.
-Op basis hiervan meldt Peach u wanneer u overeenkomende aanbiedingen ontvangt.
-We sorteren de matches op basis van de [reputatiescore](/faq/account/#what-does-the-peach-score-mean) en de prijs van het aanbod.
+Er zijn verschillende manieren om een transactie te starten:  
+Een koper maakt een koopaanbod en ontvangt transactieverzoeken van verkopers: de transactie begint zodra de koper één van de verzoeken accepteert.  
+En andersom…  
+Een verkoper maakt een verkoopaanbod en ontvangt transactieverzoeken van kopers: de transactie begint zodra de verkoper één van de verzoeken accepteert.  
+Opmerking: Als de transactie is aangemaakt als “directe transactie”, begint deze zodra de nemer de schuifregelaar “directe transactie” verschuift. 
 :::
 
-:::details Hoe wordt een transactie gemaakt?
+:::details Kan ik een transactie annuleren?
 
-Een koper kan zoveel verkoopaanbiedingen matchen als hij wil.
-De eerste verkoper die het aanbod van de koper accepteert (dubbele match) krijgt de transactie!
+De koper kan een transactie annuleren voordat hij bevestigt dat de betaling is gedaan. Anders moet je een geschil openen in de transactiechat en een bemiddelaar zal de transactie voor je annuleren.  
+Let op, het annuleren van een transactie beïnvloedt je [reputatiescore](/nl/faq/account/#what-does-the-peach-score-mean)!  
+Annuleren is mogelijk via het grijze pictogram rechtsboven op het scherm.  
 :::
 
-:::details Kan ik een aanbieding ontkoppelen?
+:::details Wanneer wordt de prijs van de transactie vastgesteld?
 
-Altijd!
-Let op, uw [reputatiescore](/faq/account/#what-does-the-peach-score-mean) zal iets worden beïnvloed door het ontkoppelen van een aanbieding.
-:::
-
-:::details Kan ik een dubbele match (een transactie) annuleren?
-
-Een transactie wordt gemaakt zodra de verkoper het aanbod van de koper accepteert.
-De koper ontvangt automatisch de betalingsgegevens van de verkoper\*.
-De koper kan de transactie op elk moment annuleren.
-De verkoper kan alleen een transactie annuleren door eerst aan de koper te vragen of hij akkoord gaat met annuleren.
-Let op, het annuleren van een transactie heeft invloed op uw [reputatiescore](/faq/account/#what-does-the-peach-score-mean)!
-:::
-
-:::details Wanneer wordt de prijs van de transactie bepaald?
-
-Wanneer de koper een aanbieding matcht.
-De verkoper kan deze match accepteren of niet.
-:::
-
-:::details Als koper kan ik meerdere verkopers matchen?
-
-Ja! U kunt zoveel verkopers matchen als u wilt. Het matchen met een verkoper garandeert niet dat ze u ook matchen, dus het is vaak slim om zoveel mogelijk te matchen. U zult de transactie maken met de eerste verkoper die u terugmatcht, terwijl de andere verkopers op zoek moeten naar nieuwe kopers.
+Wanneer de koper of verkoper een transactieverzoek verzendt. De ander kan dit accepteren of weigeren.  
 :::

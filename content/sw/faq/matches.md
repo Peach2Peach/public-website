@@ -1,40 +1,22 @@
-# Maswali Yanayofanana
+# Maswali ya Mara kwa Mara ya Soko
 
-::details How does Peach Matchmaking work?
+:::details Je, biashara huundwaje?
 
-Peach inakuunganisha na Mwanunuzi au Mchuuzi wa Bitcoin mwingine kulingana na upendeleo wako wa sarafu na njia za malipo.
-Kutokana na hili, Peach inakuarifu unapopokea ofa za kufanana.
-Tunasorti mafanano kwa [alama ya sifa](/faq/account/#what-does-the-peach-score-mean) na bei ya ofa.
+Kuna njia kadhaa za kuanzisha biashara:  
+Mnunuzi huunda ofa ya kununua na hupokea maombi ya biashara kutoka kwa wauzaji: biashara inaanza mara tu mnunuzi anapokubali moja ya maombi.  
+Na kinyume chake…  
+Muuzaji huunda ofa ya kuuza na hupokea maombi ya biashara kutoka kwa wanunuzi: biashara inaanza mara tu muuzaji anapokubali moja ya maombi.  
+Kumbuka: Ikiwa biashara imeundwa kama “biashara ya papo hapo”, basi biashara huanza mara tu mpokeaji anaposogeza kitelezi cha “biashara ya papo hapo”. 
 :::
 
-:::details How is a trade created?
+:::details Naweza kufuta biashara?
 
-Mnunuzi anaweza kufanana na ofa za kuuza kadiri anavyotaka.
-Muuzaji wa kwanza kuchukua ofa ya Mnunuzi (Fananisha Mara Dufu) ndiye anayepata biashara!
+Mnunuzi anaweza kufuta biashara kabla ya kuthibitisha kuwa malipo yamefanyika. Vinginevyo, lazima ufungue mzozo kwenye gumzo la biashara na msuluhishi atafuta biashara kwa niaba yako.  
+Tahadhari, kufuta biashara kunaathiri [alama yako ya sifa](/sw/faq/account/#what-does-the-peach-score-mean)!  
+Kufuta kunawezekana kwa kutumia ikoni ya kijivu kwenye kona ya juu kulia ya skrini.  
 :::
 
-:::details Can I un-match an offer?
+:::details Bei ya biashara huamuliwa lini?
 
-Wakati wowote!
-Jihadhari, [alama yako ya sifa](/faq/account/#what-does-the-peach-score-mean) itaathiriwa kidogo kwa kufuta kufanana na ofa.
-:::
-
-:::details Can I cancel a Double Match (a trade)?
-
-Biashara inaundwa mara tu Muuzaji anapokubali ofa ya Mnunuzi.
-Mnunuzi anapokea taarifa za malipo kutoka kwa Muuzaji kiotomatiki\*.
-Mnunuzi anaweza kufuta biashara wakati wowote.
-Muuzaji anaweza kufuta biashara tu kwa kumuuliza kwanza Mnunuzi ikiwa yuko tayari kufuta.
-Jihadhari, kufuta biashara kunaweza kuathiri [alama yako ya sifa](/faq/account/#what-does-the-peach-score-mean)!
-:::
-
-:::details When is the price of the trade set?
-
-Mara tu Mnunuzi anapofanana na ofa.
-Muuzaji anaweza kukubali au kutokubali mechi hii.
-:::
-
-:::details As a buyer, can I match multiple sellers?
-
-Ndio! Unaweza kufanana na wauzaji kadiri unavyotaka. Kufanana na muuzaji hakuhakikishi kuwa watakufanana na wewe pia, kwa hivyo mara nyingi ni busara kufanana na wauzaji wengi kadiri iwezekanavyo. Utakamilisha biashara na muuzaji wa kwanza atakayekufanana nawe, wakati wengine watalazimika kutafuta wanunuzi wapya.
+Wakati mnunuzi au muuzaji anatuma ombi la biashara. Mwingine anaweza kulikubali au kulikataa.  
 :::

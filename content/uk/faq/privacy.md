@@ -94,3 +94,9 @@ Die Peach Wallet unterstützt Coin Control oder das Coin-Management. Das Ziel vo
 Sieh dir unser Video an, das Coin Control im Detail erklärt: [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
 
 :::
+
+:::details Які наслідки для конфіденційності має пропозиція миттєвої угоди?
+
+За замовчуванням платіжні дані шифруються за допомогою PGP від кінця до кінця між вами та вашим контрагентом.  
+У випадку миттєвої угоди інформація також передається Peach, щоб ми могли надіслати її контрагенту одразу після відправлення запиту на угоду.
+:::

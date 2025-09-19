@@ -92,7 +92,8 @@ Das hängt davon ab, um welche Art von Transaktionen es sich handelt. Hier ist e
 
 :::
 
-:::details Wie funktioniert das Finanzieren mehrerer Angebote?
+:::details Wie funktioniert die Finanzierung mehrerer Angebote?
 
-Wenn Sie mehrere Angebote gleichzeitig finanzieren möchten, stellt die App eine Zwischenadresse bereit, die aus Ihrer Peach Wallet generiert wird. Sobald die Bitcoins diese Adresse erreichen, wird für jedes Treuhandkonto eine neue Transaktion erstellt. Zum Beispiel, wenn Sie 5 Verkaufsangebote finanzieren möchten, werden 5 Transaktionen an verschiedene Treuhandadressen gesendet.
+Wenn du mehrere Angebote gleichzeitig finanzieren möchtest, stellt dir die App eine Liste von Escrow-Adressen (eine für jedes Angebot) zur Verfügung, auf die du in einer einzigen Transaktion mit mehreren Ausgängen einzahlen kannst, um Netzwerkgebühren zu sparen.
 :::
+

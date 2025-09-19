@@ -1,40 +1,22 @@
-# FAQ Match
+# FAQ del Marketplace
 
-:::details Come funziona il sistema di match Peach?
+:::details Come viene creato uno scambio?
 
-Peach ti mette in contatto con un compratore o venditore di Bitcoin in base alle tue preferenze di valute e metodi di pagamento.
-Sulla base di questo, Peach ti notifica quando ricevi un match alla tua offerta.
-Ordiniamo i match in base al [punteggio di reputazione](/it/faq/account/#what-does-the-peach-score-mean) e al prezzo dell'offerta.
+Ci sono diversi modi per avviare uno scambio:  
+Un acquirente crea un’offerta di acquisto e riceve richieste di scambio dai venditori: lo scambio inizia non appena l’acquirente accetta una delle richieste.  
+E viceversa…  
+Un venditore crea un’offerta di vendita e riceve richieste di scambio dagli acquirenti: lo scambio inizia non appena il venditore accetta una delle richieste.  
+Nota: Se lo scambio è creato come “scambio istantaneo”, allora inizia non appena il taker sposta il cursore “scambio istantaneo”. 
 :::
 
-:::details Come viene creata una transazione?
+:::details Posso annullare uno scambio?
 
-Un compratore può fare match a quante offerte di vendita desidera.
-Il primo venditore che accetta l'offerta del compratore (Doppio Match) si aggiudica lo scambio!
-:::
-
-:::details Posso annullare un match?
-
-In qualsiasi momento!
-Attenzione, il tuo [punteggio di reputazione](/it/faq/account/#what-does-the-peach-score-mean) verrà leggermente influenzato se annulli un match.
-:::
-
-:::details Posso annullare un Doppio Match (uno scambio)?
-
-Uno scambio viene creato non appena il venditore accetta l'offerta del compratore.
-Il compratore riceve automaticamente gli estremi di pagamento del venditore\*.
-Il compratore può annullare lo scambio in qualsiasi momento.
-Il venditore può annullare uno scambio solo chiedendo prima al compratore se è d'accordo ad annullare.
-Attenzione, annullare una transazione influisce sul tuo [punteggio di reputazione](/it/faq/account/#what-does-the-peach-score-mean)!
+L’acquirente può annullare uno scambio prima di confermare che il pagamento è stato effettuato. Altrimenti, devi aprire una disputa dalla chat dello scambio e un mediatore annullerà lo scambio per te.  
+Attenzione, annullare uno scambio influisce sul tuo [punteggio di reputazione](/it/faq/account/#what-does-the-peach-score-mean)!  
+L’annullamento è possibile tramite l’icona grigia in alto a destra dello schermo.  
 :::
 
 :::details Quando viene fissato il prezzo dello scambio?
 
-Quando il compratore fa match a un'offerta.
-Il venditore può accettare o meno questo match.
-:::
-
-:::details Come compratore, posso fare match a più venditori?
-
-Sì! Puoi fare match a quanti venditori desideri. Il match con un venditore non garantisce che ti faranno match a loro volta, quindi spesso è intelligente fare match al maggior numero possibile di venditori. Effettuerai lo scambio con il primo venditore che ricambia il match, mentre gli altri dovranno cercare nuovi compratori.
+Quando l’acquirente o il venditore invia una richiesta di scambio. L’altro può accettarla o rifiutarla.  
 :::

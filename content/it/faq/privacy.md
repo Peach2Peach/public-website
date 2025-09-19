@@ -130,3 +130,9 @@ Il portafoglio Peach supporta il controllo delle monete o la gestione delle mone
 Guarda il nostro video che spiega il controllo delle monete in dettaglio: [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
 
 :::
+
+:::details Quali sono le implicazioni sulla privacy di un’offerta istantanea?
+
+Per impostazione predefinita, i dettagli di pagamento sono crittografati end-to-end con PGP tra te e la tua controparte.  
+Nel caso di un’offerta istantanea, le informazioni vengono condivise anche con Peach, per permetterci di inviarle alla controparte non appena la richiesta di scambio viene effettuata.
+:::

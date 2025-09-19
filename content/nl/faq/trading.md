@@ -156,5 +156,5 @@ Volg de stappen die u in deze video vindt: [https://www.youtube.com/watch?v=24Ot
 
 :::details Hoe werkt het financieren van meerdere aanbiedingen?
 
-Wanneer je meerdere aanbiedingen tegelijk wilt financieren, biedt de app een tussenadres dat wordt gegenereerd vanuit je Peach Wallet. Zodra de bitcoins dit adres bereiken, wordt er voor elke escrow een nieuwe transactie gegenereerd. Bijvoorbeeld, als je 5 verkoopaanbiedingen wilt financieren, worden 5 transacties naar verschillende escrow-adressen verzonden.
+Wanneer je meerdere aanbiedingen tegelijk wilt financieren, geeft de app een lijst met escrow-adressen (één voor elke aanbieding), waar je in één enkele transactie met meerdere outputs kunt storten om netwerk­kosten te besparen.
 :::

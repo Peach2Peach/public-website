@@ -151,6 +151,23 @@ const config = {
     ],
     [
       'markdown-it-container',
+      'quickstarts',
+      {
+        validate(params) {
+          return params.trim().match(/^quickstarts\s+(\d+)$/)
+        },
+        render(tokens, idx) {
+          const { info, nesting } = tokens[idx]
+          const isOpening = nesting === 1
+          const [, count] = info.trim().match(/^quickstarts\s+(.*)$/) || []
+          return isOpening
+            ? `<div class="quickstarts quickstarts--${count}">\n`
+            : '</div>\n'
+        },
+      },
+    ],
+    [
+      'markdown-it-container',
       'columns',
       {
         validate(params) {
