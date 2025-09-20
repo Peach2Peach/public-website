@@ -20,6 +20,14 @@ Met meer dan **100 betaalmethoden** die worden ondersteund — waaronder PayPal,
 
 Of je nu een beginner of een ervaren Bitcoin-liefhebber bent, deze handleidingen begeleiden je stap voor stap om het meeste uit je PeachBitcoin-ervaring te halen.
 
+**Peach kopersflow met versie 069**  
+   *Leer hoe je kunt kopen met Peach versie 069.*  
+   [▶ Bekijk Videotutorial](https://www.youtube.com/watch?v=iio88ur4VjQ)
+
+**Peach verkopersflow met versie 069**  
+   *Leer hoe je kunt verkopen met Peach versie 069.*  
+   [▶ Bekijk Videotutorial](https://www.youtube.com/watch?v=bsrEEbrSUgg)
+
 **[Verbind je Bitcoin-node met de Peach-app](../btcnode-to-peachapp)**  
    *Verbeter je privacy en krijg volledige controle over je Bitcoin-transacties.*  
    [▶ Bekijk de videotutorial](https://www.youtube.com/watch?v=xtvq2i3mIYg)

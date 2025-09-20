@@ -20,6 +20,14 @@ Több mint **100 fizetési módot** támogatunk — beleértve PayPal-t, banki �
 
 Akár kezdő, akár tapasztalt Bitcoin rajongó, ezek az útmutatók lépésről lépésre segítenek maximalizálni a PeachBitcoin tapasztalatait.
 
+**Peach vásárlói folyamat a 069-es verzióval**  
+   *Tanuld meg, hogyan vásárolj a Peach 069-es verzióval.*  
+   [▶ Videó-útmutató megtekintése](https://www.youtube.com/watch?v=iio88ur4VjQ)
+
+**Peach eladói folyamat a 069-es verzióval**  
+   *Tanuld meg, hogyan adj el a Peach 069-es verzióval.*  
+   [▶ Videó-útmutató megtekintése](https://www.youtube.com/watch?v=bsrEEbrSUgg)
+
 **[Csatlakoztassa a Bitcoin csomópontot a Peach alkalmazáshoz](../btcnode-to-peachapp)**  
    *Növelje a magánélet védelmét és szerezzen teljes irányítást Bitcoin tranzakciói felett.*  
    [▶ Nézze meg a videó útmutatót](https://www.youtube.com/watch?v=xtvq2i3mIYg)
