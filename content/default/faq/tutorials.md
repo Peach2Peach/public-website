@@ -20,6 +20,14 @@ With over **100 payment methods** supported — including PayPal, bank transfers
 
 Whether you're a beginner or a seasoned Bitcoin enthusiast, these tutorials will guide you step-by-step to maximize your experience with PeachBitcoin.
 
+**Peach buyer flow with version 069**  
+   *Learn how to buy with Peach verison 069.*  
+   [▶ Watch Video Tutorial](https://www.youtube.com/watch?v=iio88ur4VjQ)
+
+**Peach seller flow with version 069**  
+   *Learn how to sell with Peach verison 069.*  
+   [▶ Watch Video Tutorial](https://www.youtube.com/watch?v=bsrEEbrSUgg)
+
 **[Connect Your Bitcoin Node to the Peach App](../btcnode-to-peachapp)**  
    *Enhance privacy and gain full control of your Bitcoin transactions.*  
    [▶ Watch Video Tutorial](https://www.youtube.com/watch?v=xtvq2i3mIYg)
