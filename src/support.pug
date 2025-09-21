@@ -5,13 +5,14 @@ block append vars
   - const hasTeaser = true   // <-- REQUIRED so the teaser block shows
 
 block teaser
-  a.site-banner.wrap(href="#download-buttons" aria-label="Peach v69 – Symmetry Unlocked")
+  a.site-banner.wrap(
+    href=`${homePath}?scroll=download-buttons`
+    aria-label="Peach v69 – Symmetry Unlocked"
+  )
     picture
-      // If you’ll later add a smaller mobile asset, uncomment and point it here:
-      // source(media="(max-width: 739.99px)" srcset="/img/home/peach-v69-banner-mobile.png")
       img.site-banner-img(
-        src="/img/home/banner69.png" 
-        alt="Symmetry Unlocked – a two-sided Bitcoin marketplace. Peach v.69"
+        src="/img/home/banner69.png"
+        alt="Symmetry Unlocked – a two-sided Bitcoin marketplace. Peach v.69 coming soon."
         width="1050" height="250"
         decoding="async" loading="eager"
       )
