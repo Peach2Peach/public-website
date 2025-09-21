@@ -401,7 +401,7 @@ async function fetchOfferData(side, page) {
 
 async function fetchBuyOfferData(page) {
   const response = await fetch(
-    `https://peach-cors-proxy.vercel.app/v1/offer/search?page=${page}&sortBy=${state.currentSort}&size=50`,
+    `https://peach-cors-proxy.vercel.app/v1/offer/search/buy?page=${page}&sortBy=${state.currentSort}&size=50`,
     {
       method: 'GET',
       headers: { 'Content-Type': 'application/json' },
