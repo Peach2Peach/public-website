@@ -20,6 +20,14 @@ Kwa njia zaidi ya **100 za malipo** zinazosaidiwa — zikiwemo PayPal, uhamisho 
 
 Iwe wewe ni mwanzoni au mpenzi mzoefu wa Bitcoin, mafunzo haya yatakusaidia hatua kwa hatua kufanikisha matumizi ya PeachBitcoin.
 
+**Mchakato wa mnunuzi wa Peach na toleo 069**  
+   *Jifunze jinsi ya kununua kwa kutumia Peach toleo 069.*  
+   [▶ Tazama Mafunzo ya Video](https://www.youtube.com/watch?v=iio88ur4VjQ)
+
+**Mchakato wa muuzaji wa Peach na toleo 069**  
+   *Jifunze jinsi ya kuuza kwa kutumia Peach toleo 069.*  
+   [▶ Tazama Mafunzo ya Video](https://www.youtube.com/watch?v=bsrEEbrSUgg)
+
 **[Unganisha Node Yako ya Bitcoin na Programu ya Peach](../btcnode-to-peachapp)**  
    *Boresha faragha yako na chukua udhibiti kamili wa miamala yako ya Bitcoin.*  
    [▶ Tazama Mafunzo ya Video](https://www.youtube.com/watch?v=xtvq2i3mIYg)

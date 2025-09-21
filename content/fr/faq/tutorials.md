@@ -20,6 +20,14 @@ Avec plus de **100 méthodes de paiement** prises en charge — y compris PayPal
 
 Que vous soyez débutant ou passionné de Bitcoin expérimenté, ces tutoriels vous guideront étape par étape pour maximiser votre expérience avec PeachBitcoin.
 
+**Processus d’acheteur Peach avec la version 069**  
+   *Apprenez à acheter avec Peach version 069.*  
+   [▶ Regarder le Tutoriel Vidéo](https://www.youtube.com/watch?v=iio88ur4VjQ)
+
+**Processus de vendeur Peach avec la version 069**  
+   *Apprenez à vendre avec Peach version 069.*  
+   [▶ Regarder le Tutoriel Vidéo](https://www.youtube.com/watch?v=bsrEEbrSUgg)
+
 **[Connectez votre nœud Bitcoin à l'application Peach](../btcnode-to-peachapp)**  
    *Améliorez la confidentialité et prenez le contrôle total de vos transactions Bitcoin.*  
    [▶ Regardez le tutoriel vidéo](https://www.youtube.com/watch?v=xtvq2i3mIYg)

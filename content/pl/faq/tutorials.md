@@ -20,6 +20,14 @@ Z ponad **100 obsługiwanymi metodami płatności** — w tym PayPal, przelewami
 
 Bez względu na to, czy jesteś początkującym, czy doświadczonym entuzjastą Bitcoin, te samouczki poprowadzą Cię krok po kroku, abyś maksymalnie wykorzystał swoje doświadczenie z PeachBitcoin.
 
+**Proces kupującego Peach w wersji 069**  
+   *Dowiedz się, jak kupować z Peach wersja 069.*  
+   [▶ Obejrzyj Samouczek Wideo](https://www.youtube.com/watch?v=iio88ur4VjQ)
+
+**Proces sprzedającego Peach w wersji 069**  
+   *Dowiedz się, jak sprzedawać z Peach wersja 069.*  
+   [▶ Obejrzyj Samouczek Wideo](https://www.youtube.com/watch?v=bsrEEbrSUgg)
+
 **[Połącz swój węzeł Bitcoin z aplikacją Peach](../btcnode-to-peachapp)**  
    *Popraw prywatność i uzyskaj pełną kontrolę nad swoimi transakcjami Bitcoin.*  
    [▶ Zobacz samouczek wideo](https://www.youtube.com/watch?v=xtvq2i3mIYg)
