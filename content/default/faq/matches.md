@@ -1,40 +1,22 @@
-# Matches FAQ
-
-:::details How does Peach Matchmaking work?
-
-Peach connects you with another Bitcoin Buyer or Seller according to your preferences of currencies and payment methods.
-Based on this, Peach notifies you when you receive matching offers.
-We sort the matches by [reputation score](/faq/account/#what-does-the-peach-score-mean) and price of the offer.
-:::
+# Marketplace FAQ
 
 :::details How is a trade created?
 
-A Buyer can match as many sell offers as he wants.
-The first Seller to accept the Buyer's offer (Double Match) gets the trade!
+There are several ways to start a trade:  
+A buyer creates a buy offer and receives trade requests from sellers: the trade starts as soon as the buyer accepts one of the trade request 
+And the other way around…   
+A seller creates a sell offer and receives trade requests from buyers: the trade starts as soon as the seller accepts one of the trade request   
+Note: If the trade is created as “instant-trade”, then the trade starts as soon as the taker slide the “instant-trade” slider. 
 :::
 
-:::details Can I un-match an offer?
+:::details Can I cancel a trade?
 
-At any time!
-Watch out, your [reputation score](/faq/account/#what-does-the-peach-score-mean) will be slightly be affected for unmatching an offer.
-:::
-
-:::details Can I cancel a Double Match (a trade)?
-
-A trade is created as soon as the Seller accepts a Buyer's offer.
-The Buyer automatically receives the Seller's payment details\*.
-The Buyer can cancel the trade at anytime.
-The Seller can only cancel a trade by asking rst to the Buyer if he is okay to cancel.
-Watch out, cancelling a trade impacts your [reputation score](/faq/account/#what-does-the-peach-score-mean)!
+The buyer can cancel a trade before confirming that the payment is made. Otherwise, you have to open a dispute from the trade chat and a mediator will cancel the trade for you.   
+Watch out, cancelling a trade impacts your [reputation score](/faq/account/#what-does-the-peach-score-mean)!  
+Cancelling is possible with the grey icon at top right of the screen  
 :::
 
 :::details When is the price of the trade set?
 
-When the buyer matches an offer.
-The seller may accept this match or not.
-:::
-
-:::details As a buyer, can I match multiple sellers?
-
-Yes! You can match as many sellers as you want. Matching a seller doesn't guarantee that they'll match you back, so it's often smart to match as many as possible. You will make the trade with the first seller that matches you back, while the other ones will need to look for new buyers.
+When the buyer or the seller send a trade request.The seller or the buyer may accept this trade request or not.
 :::

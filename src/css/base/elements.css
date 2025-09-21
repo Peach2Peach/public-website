@@ -400,6 +400,79 @@ details[open] article {
   }
 }
 
+.quickstarts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-l) var(--space-xl);
+  margin-bottom: var(--space-xl);
+
+  /* Optional wide bleed like .figures */
+  @media (--L_and_up) {
+    width: calc(100% + 200px);
+    margin-left: -100px;
+  }
+
+  /* Each figure and its following paragraph (caption) occupy the same width */
+  & > figure,
+  & > p {
+    flex: 0 1 380px;
+    margin: 0;
+
+    @media (--up_to_S) {
+      flex-basis: 100%;
+    }
+    @media (--S_to_M) {
+      flex-basis: calc(50% - var(--space-xl));
+    }
+    @media (--M_to_L) {
+      flex-basis: calc(33% - var(--space-xl));
+    }
+    @media (--L_and_up) {
+      flex-basis: calc(25% - var(--space-xl));
+    }
+  }
+
+  /* Fine-tune specific counts (same pattern as .figures) */
+  &.quickstarts--3 {
+    & > figure,
+    & > p {
+      @media (--S_to_M) {
+        flex-basis: calc(50% - var(--space-xl));
+      }
+    }
+  }
+
+  &.quickstarts--2,
+  &.quickstarts--3,
+  &.quickstarts--5,
+  &.quickstarts--7 {
+    & > figure,
+    & > p {
+      @media (--M_and_up) {
+        flex-basis: calc(33% - var(--space-xl));
+      }
+    }
+  }
+
+  /* Image card look (same as .figures) */
+  & img {
+    padding: var(--space-xxs);
+    border-radius: var(--space-l);
+    background-color: var(--color-neutral-5);
+  }
+
+  /* Turn the paragraph immediately after a figure into a “caption” look */
+  & > figure + p {
+    font-size: var(--font-size-s);
+    color: var(--color-neutral-65);
+    text-align: center;
+    margin-top: calc(var(--space-xxs));
+    margin-bottom: var(--space-m);
+  }
+}
+
+
 .columns {
   @media (--M_and_up) {
     display: flex;

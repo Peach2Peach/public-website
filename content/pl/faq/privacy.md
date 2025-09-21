@@ -108,3 +108,10 @@ Portfel Peach obsługuje kontrolę monet lub zarządzanie monetami. Celem kontro
 Obejrzyj nasz film wyjaśniający kontrolę monet w szczegółach: [Jak wykonać kontrolę monet używając Portfela Peach](https://www.youtube.com/watch?v=zWwIekSv3U8)
 
 :::
+
+:::details Jakie są konsekwencje dla prywatności oferty natychmiastowej transakcji?
+
+Domyślnie szczegóły płatności są szyfrowane metodą PGP end-to-end między Tobą a Twoim kontrahentem.  
+W przypadku oferty natychmiastowej informacje są również udostępniane Peach, abyśmy mogli je przekazać kontrahentowi natychmiast po wysłaniu żądania transakcji.
+:::
+

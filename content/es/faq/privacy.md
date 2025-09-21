@@ -129,3 +129,10 @@ La billetera Peach admite el control de monedas o la gestión de monedas. El obj
 Mira nuestro video explicando el control de monedas en detalle: [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
 
 :::
+
+:::details ¿Cuáles son las implicaciones de privacidad de una oferta de comercio instantáneo?
+
+De forma predeterminada, los datos de pago están cifrados de extremo a extremo con PGP entre tú y tu contraparte.  
+En el caso de una oferta de comercio instantáneo, la información también se comparte con Peach, para que podamos enviarla a la contraparte tan pronto como se mande la solicitud de intercambio.
+:::
+

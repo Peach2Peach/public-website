@@ -93,26 +93,6 @@ It depends what type of transactions we are talking about. Here is a list of all
 3. Send transaction from the Peach wallet to another wallet
 
 - RBF (Replace-By-Fee) from the Peach Wallet in your transaction details!
-  :::
-
-:::details What is GroupHug?
-GroupHug is simply the term we’ve given to the action of batching transactions from different users to avoid fees for each one of them. For a more detailed explanation, check out our [blog post](https://peachbitcoin.com/blog/group-hug).
-:::
-
-:::details If I have a single buy offer running it will be released immediately?
-
-No, your payout will be added to a queue, waiting for payout. The payout will be made when enough users participate in the batch. The number of needed participants can be seen in the pending payout information. You can access this view through the trade details.
-There you can see how many slots of the current batch are takenIn the information you can also see an ETA that will tell you the maximum waiting time if the slots are not filled before.
-:::
-
-:::details How does it work, If I have multiple buying offers ongoing?
-
-Just as mentioned before, your payouts will be added to the queue waiting to be batched with other participants.
-:::
-
-:::details Is there a limit of participants who can participate in the batching?
-
-No, batches can also go over the maximum number of participants. It’s not a cutoff, but a threshold. Meaning, as soon as the minimum is reached, we just take all psbts and batch them together to make the transaction, and reduce the fees each participant is paying.
 :::
 
 :::details How to sign an external address?
@@ -156,5 +136,5 @@ Follow the steps found in this video: [https://www.youtube.com/watch?v=24OtQkL0C
 
 :::details How does fund multiple offers work?
 
-When you want to fund multiple offers at once, the app provides an intermediate address generated from your Peach Wallet. Once the bitcoins reach this address a new transaction for each escrow is generated. For instance, if you want to fund 5 sell offers, 5 transactions to different escrow addresses will be sent.
+When you want to fund multiple offers at once, the app provides a list of escrow addresses (one for each offer), where you can deposit in a single transactions with multiple outputs to save on network fees.
 :::
