@@ -414,15 +414,19 @@ async function fetchBuyOfferData(page) {
 // Normalize offer rows for UI (keep numeric values here; format in populateOrderbookTable)
 function formatOfferData(side, { offers, total }, basePrice) {
   const data = offers
-    .map(offer =>
+    .filter(offer => {
+      const methods = offer.meansOfPayment?.[state.currentCurrency]
+      const isValid = Array.isArray(methods)
+
+      return isValid
+    })
+    .flatMap(offer =>
       offer.meansOfPayment[state.currentCurrency].map(method => ({
         service: 'Peach Bitcoin',
         url: 'https://peachbitcoin.com',
         method: method.startsWith('cash.') ? 'Cash' : method,
-        // numeric price; we format later
         price:
           basePrice * ((offer.premium ? offer.premium / 100 : 0) + 1) * 1.02,
-        // force sats to integer (handles localized strings too)
         amount: offer.amount,
         rating: offer.user ? (offer.user.rating + 1) * 2.5 : undefined,
         peachId: offer.user
@@ -430,7 +434,6 @@ function formatOfferData(side, { offers, total }, basePrice) {
           : `Peach${offer.userId.slice(4, 8)}`.toUpperCase(),
       }))
     )
-    .flat()
 
   return { offers: data, total }
 }
