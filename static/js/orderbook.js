@@ -172,7 +172,6 @@ async function fetchOrderBook(side = 'ask', pageOverride = null) {
     } else {
       data = await getBuyOffers(side, page)
     }
-
     state[side].numberOfPages = Math.ceil(data.total / 50)
 
     const container =
@@ -425,8 +424,10 @@ function formatOfferData(side, { offers, total }, basePrice) {
           basePrice * ((offer.premium ? offer.premium / 100 : 0) + 1) * 1.02,
         // force sats to integer (handles localized strings too)
         amount: offer.amount,
-        rating: (offer.user.rating + 1) * 2.5,
-        peachId: `Peach${offer.user.id.slice(4, 8)}`.toUpperCase(),
+        rating: offer.user ? (offer.user.rating + 1) * 2.5 : undefined,
+        peachId: offer.user
+          ? `Peach${offer.user.id.slice(4, 8)}`.toUpperCase()
+          : `Peach${offer.userId.slice(4, 8)}`.toUpperCase(),
       }))
     )
     .flat()
