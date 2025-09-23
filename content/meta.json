@@ -21,5 +21,5 @@
   "apkArm64v8Url": "https://download.peachbitcoin.com/apks/latest/app-prod-arm64-v8a-release.apk",
   "apkSignaturesUrl": "https://download.peachbitcoin.com/apks/latest/manifest-peach-0.5.5-279.sig",
   "apkChecksumsUrl": "https://download.peachbitcoin.com/apks/latest/manifest-peach-0.5.5-279.txt",
-  "apkVersionBuild": "0.5.5 (279)"
+  "apkVersionBuild": "0.69.0 (288)"
 }
