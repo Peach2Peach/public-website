@@ -69,7 +69,8 @@ Nous travaillons actuellement sur la prise en charge du xpub, mais pour l'instan
 
 :::details Comment le prix du bitcoin est-il calculé dans l'application ?
 
-Le prix du bitcoin que nous affichons est une agrégation du prix du bitcoin sur plusieurs plateformes d'échange centralisées.
+Le prix du bitcoin que nous affichons est une agrégation du prix du bitcoin sur plusieurs plateformes d'échange centralisées.  
+Pour chaque devise, nous agrégeons différentes sources et nous excluons celle qui diverge de plus de 5% de la moyenne pour éviter les erreurs.
 :::
 
 :::details Comment fonctionne le financement de plusieurs offres ?
