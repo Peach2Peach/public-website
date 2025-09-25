@@ -69,7 +69,8 @@ We'll be working on xpub support very soon, but for now, you'll need to manually
 
 :::details How is the Bitcoin price calculated on Peach?
 
-The BTC price we show on Peach is an aggregate of the BTC price on centralised exchanges.
+The BTC price we show on Peach is an aggregate of the BTC price on centralised exchanges.  
+For each currency we agregate various source and we exclude the one diverging mor then 5% from the average to avoid errors.
 :::
 
 :::details What happens with the price of currencies under high inflation such as Argentina, Venezuela, etc. ?
