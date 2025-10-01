@@ -19,7 +19,7 @@
   "iosUrl": "https://testflight.apple.com/join/wfSPFEWG",
   "apkUniversalUrl": "https://download.peachbitcoin.com/apks/latest/app-prod-universal-release.apk",
   "apkArm64v8Url": "https://download.peachbitcoin.com/apks/latest/app-prod-arm64-v8a-release.apk",
-  "apkSignaturesUrl": "https://download.peachbitcoin.com/apks/latest/manifest-peach-0.5.5-279.sig",
-  "apkChecksumsUrl": "https://download.peachbitcoin.com/apks/latest/manifest-peach-0.5.5-279.txt",
+  "apkSignaturesUrl": "https://download.peachbitcoin.com/apks/latest/manifest-peach-0.69.0-291.sig",
+  "apkChecksumsUrl": "https://download.peachbitcoin.com/apks/latest/manifest-peach-0.69.0-291.txt",
   "apkVersionBuild": "0.69.0 (288)"
 }
