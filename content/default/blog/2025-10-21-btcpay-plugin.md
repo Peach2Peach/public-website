@@ -19,7 +19,7 @@ BTCPay Server is a powerful, open-source Bitcoin payment processor that empowers
 
 - **Stock Purchases**: Many suppliers still operate in fiat, requiring merchants to buy inventory in traditional currencies.
 - **International Transfers**: While Bitcoin excels here, converting to local fiat might be necessary for cross-border dealings.
-- **Daily Expenses**: Payroll, utilities, and operational costs often demand fiat liquidity.
+- **Daily Expenses**: Payroll, utilities, rent, and operational costs often demand fiat liquidity.
 
 Without an easy way to offload Bitcoin, merchants risk exposure to price fluctuations, which can erode profits in a volatile market.
 
