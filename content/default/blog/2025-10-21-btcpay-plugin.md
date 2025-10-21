@@ -15,7 +15,7 @@ Peach Bitcoin is a self-custodial, encrypted, KYC-free peer-to-peer (P2P) Bitcoi
 
 ## The Challenge for BTCPay Merchants
 
-BTCPay Server is a powerful, open-source Bitcoin payment processor that empowers merchants to accept cryptocurrency payments without relying on third-party services. It's self-hosted, meaning you control your keys and data, aligning perfectly with Bitcoin's ethos of decentralization. However, once payments hit your wallet, merchants often need to convert some or all of that Bitcoin back to fiat. Reasons include:
+BTCPay Server is a powerful, open-source Bitcoin payment processor that empowers merchants to accept bitcoin payments without relying on third-party services. It's self-hosted, meaning you control your keys and data, aligning perfectly with Bitcoin's ethos of decentralization. However, once payments hit your wallet, merchants often need to convert some or all of that Bitcoin back to fiat. Reasons include:
 
 - **Stock Purchases**: Many suppliers still operate in fiat, requiring merchants to buy inventory in traditional currencies.
 - **International Transfers**: While Bitcoin excels here, converting to local fiat might be necessary for cross-border dealings.
