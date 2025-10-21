@@ -1,8 +1,8 @@
 ---
 keywords:
-  - Btcpay
+  - btcpay
+  - sell
   - P2P
-  - Sell
 previewImage: /img/blog/btcpay/BTCPay.png
 ---
 # Introducing the Peach Bitcoin Plugin for BTCPay Server: Empower Merchants to Sell Bitcoin Effortlessly
