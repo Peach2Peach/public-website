@@ -62,12 +62,3 @@ In an era where Bitcoin adoption is growing, tools like this plugin bridge the g
 If you're a BTCPay merchant looking to optimize your Bitcoin holdings, give the Peach plugin a try. It's more than just a tool—it's a step toward financial sovereignty in the Bitcoin economy.
 
 For more information on Peach Bitcoin, visit [peachbitcoin.com](https://peachbitcoin.com). Questions or feedback? Reach out to us on social media or through our support channels.
-
----
-
-To make this article even more informative, could you provide additional details? Specifically:
-- The exact Twitter handle or name of the developer (you mentioned @name_of_the_guy—I assumed @nisaba based on the GitHub repo, but please confirm).
-- Step-by-step usage instructions or screenshots if available.
-- Any specific requirements (e.g., BTCPay version compatibility, Peach account setup).
-- Additional features or real-world examples of how merchants are using it.
-- Release date or version info for the plugin.
