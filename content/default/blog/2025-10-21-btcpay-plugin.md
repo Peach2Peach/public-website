@@ -57,7 +57,7 @@ Once installed:
 - Click to publish a sell offer on Peach—the plugin handles the integration, creating an encrypted P2P offer visible to potential buyers.
 - Monitor and complete trades directly through Peach's app or web interface.
 
-For detailed setup guides, check the plugin's GitHub repository or Peach Bitcoin's tutorials section.
+For a step by step setup and usage, refer to the [developer documentation](https://github.com/Nisaba/btcpayserver-plugins/blob/master/BTCPayServer.Plugins.Peach/README.md)
 
 ## Why This Matters for Bitcoin Merchants
 
