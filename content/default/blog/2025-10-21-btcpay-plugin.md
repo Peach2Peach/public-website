@@ -47,8 +47,9 @@ Installation is straightforward for BTCPay Server instance admins:
 
 Once installed:
 
-- Go to your wallet or invoices section in BTCPay.
+- Go to your Peach wallet section in BTCPay.
 - Select the Bitcoin balance you wish to sell.
+- Choose a premium or discount to sell to.
 - Click to publish a sell offer on Peach—the plugin handles the integration, creating an encrypted P2P offer visible to potential buyers.
 - Monitor and complete trades directly through Peach's app or web interface.
 
