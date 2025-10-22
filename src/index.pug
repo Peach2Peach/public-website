@@ -364,3 +364,7 @@ block main
       div.contact-container-buttons 
         a.primary-button(href=getUrl(`/support/`, lang))
           span.primary-button-text !{i18n('home.contact.contactSupport', lang)}
+
+block append scripts
+  script(defer src="https://sibforms.com/forms/end-form/build/main.js")
+  script(async src="https://www.google.com/recaptcha/api.js?hl=en")
