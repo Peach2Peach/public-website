@@ -324,7 +324,7 @@ block main
             autocomplete="off"
             placeholder="Email"
             required
-            pattern="^[a-zA-Z0-9àèìòùáéíóúýâêîôûãñõäëïöüÿçßøåæœÅÄÖÇÆØÀÈÌÒÙÁÉÍÓÚÝÂÊÎÔÛÃÑÕÄËÏÖÜŸÇŒŠŽšžŸ¥µ<>{}\[\]()\/\\*$€£+“‘#°&%!_. -]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"
+            pattern="^[a-zA-Z0-9àèìòùáéíóúýâêîôûãñõäëïöüÿçßøåæœÅÄÖÇÆØÀÈÌÒÙÁÉÍÓÚÝÂÊÎÔÛÃÑÕÄËÏÖÜŸÇŒŠŽšžŸ¥µ<>{}\\[\\]()\\/\\\\*$€£+“‘#°&%!_. -]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$"
             title="insert a valid email address"
           )
         div.check
@@ -333,8 +333,11 @@ block main
             value="1" 
             name="OPT_IN"
             required
-            )
+          )
           label(for="optin"): small !{i18n('mailing.list.optin', lang)} <a href="/privacyPolicy.html">!{i18n('mailing.list.privacypolicy', lang)}</a>.
+
+        // reCAPTCHA widget (v2 checkbox) — replace YOUR_SITE_KEY
+        .g-recaptcha(data-sitekey="YOUR_SITE_KEY")
 
         button.button.button--white(type="submit") !{i18n('mailing.list.subscribe.button', lang)}
         input(type="hidden" name="email_address_check" value="")
@@ -365,6 +368,6 @@ block main
         a.primary-button(href=getUrl(`/support/`, lang))
           span.primary-button-text !{i18n('home.contact.contactSupport', lang)}
 
-block append scripts
-  script(defer src="https://sibforms.com/forms/end-form/build/main.js")
-  script(async src="https://www.google.com/recaptcha/api.js?hl=en")
+// Page-local scripts required by the newsletter form (load right after the section)
+script(defer src="https://sibforms.com/forms/end-form/build/main.js")
+script(async defer src="https://www.google.com/recaptcha/api.js?hl=en")

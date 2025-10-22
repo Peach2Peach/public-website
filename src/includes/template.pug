@@ -372,6 +372,8 @@ html(lang=lang)
           button.save-btn(type="button", onclick="savePreferences()")= i18n("cookiePopup.savePreferences", lang)
 
     script(src=assetPath("/js/main.js"))
+    script(defer src="https://sibforms.com/forms/end-form/build/main.js")
+    script(async defer src="https://www.google.com/recaptcha/api.js?hl=en")
     //- Aggiungiamo il blocco scripts alla fine del body
     block append scripts
       script.
