@@ -9,7 +9,7 @@ keywords:
   - merchant tools
   - Peach Bitcoin
   - BTCPay plugin
-Tags:
+tags:
   - BTCPay Server
   - Bitcoin payments
   - Sell bitcoin
