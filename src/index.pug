@@ -316,7 +316,7 @@ block main
       div.newsletter
         h3.newsletter-section-title.peach-text !{i18n('home.newsletter.title', lang)}
         span.newsletter-section-text !{i18n('home.newsletter.text', lang)}
-      form.newsletter-form(method="POST" action="https://5dcdd79e.sibforms.com/serve/MUIFACVYVV7Id8sCMB8kvTGDhvUWep4BdKe15nW3FTnrkf_wXLCotWBA5RMhiBbeMCY24Rgapm6YmFaB4wOTCZN3BWAZqT5ij6Hr_hmP9uwooj7iyx-YyqfmK19i3__QC_42B2Pp589H4_Ere672Y1C44FyEtmqwVs4hzDSK_h3gtMGxl__7xEagxIS8ttjxZprz0Be6WpCGpA-2")
+      form.newsletter-form(method="POST" action="https://5dcdd79e.sibforms.com/serve/MUIFAELPRAY8xuUT9U7KzOrbRwCJI853vOpDlWfljcbA-QznRo7YirXQPO7zjV64_M7P7t2LrMj-39l4o4-LbqjXJy4D2yTEeIgkp4f-O8_rTKSHIQ_PsPHP3DUGwN3abVIeMgH_uFDH-z4N8Dr2GXeVaK3EQnHnuGaIl9I4ToKwqF1PIwAoxt0goESfLTUX1wgSdwQIGTJqjV6Z")
         div
           input#email(
             type="email"
@@ -367,7 +367,3 @@ block main
       div.contact-container-buttons 
         a.primary-button(href=getUrl(`/support/`, lang))
           span.primary-button-text !{i18n('home.contact.contactSupport', lang)}
-
-// Page-local scripts required by the newsletter form (load right after the section)
-script(defer src="https://sibforms.com/forms/end-form/build/main.js")
-script(async defer src="https://www.google.com/recaptcha/api.js?hl=en")
