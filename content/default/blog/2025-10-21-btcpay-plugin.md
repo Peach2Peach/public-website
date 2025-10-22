@@ -23,6 +23,17 @@ previewImage: /img/blog/btcpay/BTCPay.png
 ---
 # Introducing the Peach Bitcoin Plugin for BTCPay Server: Empower Merchants to Sell Bitcoin Effortlessly
 
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/CGx9LYGTKj8?si=kVrF-PgImNrN1wKg"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+  ></iframe>
+</div>
+
 In the world of **Bitcoin** commerce, merchants using self-hosted payment solutions like BTCPay Server often face a common challenge: what to do with the bitcoin they receive from customers. While bitcoin is an excellent medium for international transfers and value storage, real-world business needs—such as purchasing stock in fiat currencies, covering daily expenses, or simply hedging against price volatility—can make holding onto every satoshi impractical. That's where Peach Bitcoin steps in with an innovative solution: a dedicated plugin for BTCPay Server that allows merchants to seamlessly publish sell offers for all or part of their received bitcoin directly from their hot wallet.
 
 ## What is Peach Bitcoin?
@@ -76,5 +87,3 @@ For a step by step setup and usage, refer to the [developer documentation](https
 As Bitcoin adoption grows, tools like this plugin bridge the gap between receiving bitcoin payments and managing real-world finances. **By letting you set a premium or discount versus the standard KYC exchange price**, you can turn market conditions into an advantage—selling at a slight premium when demand is strong to protect your bottom line, or using a discount to increase match speed when needed. Plus, staying within self-custodial ecosystems like BTCPay and Peach reinforces the core values of privacy, security, and decentralization.
 
 If you're a BTCPay merchant looking to optimize your bitcoin holdings, give the Peach plugin a try. It's more than just a tool—it's a step toward financial sovereignty in the Bitcoin economy.
-
-For more information on Peach Bitcoin, visit [peachbitcoin.com](https://peachbitcoin.com). Questions or feedback? Reach out to us on social media or through our support channels.
