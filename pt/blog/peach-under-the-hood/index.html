@@ -1,0 +1,870 @@
+<!DOCTYPE html><html lang="pt"><head><meta charset="UTF-8"/><meta http-equiv="X-UA-Compatible" content="ie=edge"/><meta http-equiv="X-Frame-Options" content="DENY"/><meta http-equiv="X-XSS-Protection" content="1; mode=block"/><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/><meta name="keywords" content="[&quot;Produto&quot;,&quot;P2P&quot;,&quot;tutorial&quot;,&quot;programação&quot;,&quot;javascript&quot;,&quot;bitcoin&quot;]"/><meta name="description" content="Aaaaah Bitcoin, essa forma maravilhosa de dinheiro que prospera graças às suas características fundamentais. Todos nós a amamos, mas todos reconhecemos que há riscos na parte da soberania individual: você compartilha suas seeds e perde tudo. Você envia para o endereço errado e nunca mais recupera."/><meta property="og:locale" content="pt"/><meta property="og:site_name"/><meta property="og:title" content="Peach Bitcoin Exchange - Buy and Sell Bitcoin Anonymously and Without KYC"/><meta property="og:description" content="Peach Bitcoin - Buy Bitcoin with gift card, no verification. Exchange peer to peer for anonymous transactions. Learn how to buy and sell Bitcoin privately and without KYC. Manage your Bitcoin securely with our non-KYC platform."/><meta property="og:type" content="website"/><meta property="og:image" content="/img/blog/under-the-hood/peachmechanic2.png"/><meta property="og:image:secure_url" content="/img/blog/under-the-hood/peachmechanic2.png"/><meta property="og:image:width" content="1296"/><meta property="og:image:height" content="678"/><meta name="twitter:site" content="@peachbitcoin"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Peach Bitcoin por dentro: uma visão técnica de por que é a exchange P2P mais segura · Peach Bitcoin"/><meta name="twitter:description" content="Peach Bitcoin - Buy Bitcoin with gift card, no verification. Exchange peer to peer for anonymous transactions. Learn how to buy and sell Bitcoin privately and  without KYC. Manage your Bitcoin securely with our non-KYC platform."/><meta name="twitter:image" content="/img/blog/under-the-hood/peachmechanic2.png"/><meta name="msapplication-TileColor" content="#F56522"/><meta name="theme-color" content="#F56522"/><link rel="preload" as="font" crossorigin="crossorigin" href="/fonts/baloo-2-v16-latin-regular.woff2"/><link rel="preload" as="font" crossorigin="crossorigin" href="/fonts/baloo-2-v16-latin-600.woff2"/><link rel="preload" as="font" crossorigin="crossorigin" href="/fonts/baloo-2-v16-latin-800.woff2"/><link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png"/><link rel="icon" href="/img/favicon/favicon.svg"/><link rel="manifest" href="/site.webmanifest"/><link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#F56522"/><link rel="stylesheet" href="/css/main-8c7d0a0965d37fafcf6e9215d363177f.css"/><title>Peach Bitcoin por dentro: uma visão técnica de por que é a exchange P2P mais segura · Peach Bitcoin</title><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQHJRQKH');</script></head><body id="blog-peach-under-the-hood"><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQHJRQKH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><header class="header header-container" id="header"><div class="wrap"><a class="logo-link brand" href="/pt/"><img class="logo logo" src="/img/peach-bitcoin-145cd6c0079ccacc9c70c892060964d1.svg" alt="Peach Bitcoin"/></a><input id="show-menu" type="checkbox"/><label class="nav-toggle-label" id="nav-toggle" for="show-menu"><svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><path class="line--1" d="M0 70l28-28c2-2 2-2 7-2h64"></path><path class="line--2" d="M0 50h99"></path><path class="line--3" d="M0 30l28 28c2 2 2 2 7 2h64"></path></svg></label><nav class="nav"><a href="/pt/how-it-works/">Compre BTC sem KYC</a><a href="/pt/for-meetups/">Compre BTC com dinheiro</a><a href="/pt/for-businesses/">Venda BTC</a><a href="/pt/blog/">Blog</a><a href="/pt/support/">Suporte</a><div class="language-selector"><input class="checkbox" type="checkbox" id="language-toggle"/><label class="language-label" for="language-toggle"><img class="flag-icon" src="/img/en-872bf10f0d1ed191b502494534bb329a.png" alt="UK Flag"/><img src="/img/dropdown_icon-fcd9aa7055472ef4a4e83b593450c048.svg" style="width: 1rem;" alt="Dropdown icon"/></label><ul class="language-dropdown"><li><a href="/"><img class="flag-icon" src="/img/en-872bf10f0d1ed191b502494534bb329a.png" alt="EN Flag"/><span>English</span></a></li><li><a href="/es"><img class="flag-icon" src="/img/es-b17fc8846b93c5446b10cd7824434504.png" alt="ES Flag"/><span>Español</span></a></li><li><a href="/de"><img class="flag-icon" src="/img/de-0da84d0f3850d6e25088debeb3ade32c.png" alt="DE Flag"/><span>Deutsch</span></a></li><li><a href="/it"><img class="flag-icon" src="/img/it-299996a0097e49e1bc4f312e380d3faa.png" alt="IT Flag"/><span>Italiano</span></a></li><li><a href="/fr"><img class="flag-icon" src="/img/fr-75a63faa5728ac4175214da6cd3c47f1.png" alt="FR Flag"/><span>Français</span></a></li><li><a href="/el"><img class="flag-icon" src="/img/el-27d234921e954ed945c93bef880a07b6.png" alt="GR Flag"/><span>Ελληνικά</span></a></li><li><a href="/hu"><img class="flag-icon" src="/img/hu-fc4c517f481932d60d59b56a8f0c322d.png" alt="HU Flag"/><span>Magyar</span></a></li><li><a href="/nl"><img class="flag-icon" src="/img/nl-83a65573b2d26cdce16cab98f8c38db1.png" alt="NL Flag"/><span>Nederlands</span></a></li><li><a href="/pl"><img class="flag-icon" src="/img/pl-f7c03eb5351f5b2e33c9b29f1e200e38.png" alt="PL Flag"/><span>Polski</span></a></li><li><a href="/pt"><img class="flag-icon" src="/img/pt-997fb3879120a45e1ba507a9e060a662.png" alt="PT Flag"/><span>Português</span></a></li><li><a href="/sw"><img class="flag-icon" src="/img/sw-cdf6e2b06778f5ac662fb25f3ca8eac0.png" alt="SW Flag"/><span>Kiswahili</span></a></li><li><a href="/uk"><img class="flag-icon" src="/img/ua-f7a81ef67d0931a29f7e358bb99ef521.png" alt="UA Flag"/><span>Українська</span></a></li></ul></div></nav></div></header><main class="main" id="main"><div id="header-anchor"></div><section class="wrap"><div class="content-wrap post"><h1 id="peach-bitcoin-por-dentro-uma-viso-tcnica-de-por-que-a-exchange-p2p-mais-segura">Peach Bitcoin por dentro: uma visão técnica de por que é a exchange P2P mais segura</h1>
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/UvdbHlsPmK0"
+    title="PEACH VIDEO OF Under the Hood"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+  ></iframe>
+</div>
+<p>Aaaaah Bitcoin, essa forma maravilhosa de dinheiro que prospera graças às suas características fundamentais. Todos nós a amamos, mas todos reconhecemos que há riscos na parte da soberania individual: você compartilha suas seeds e perde tudo. Você envia para o endereço errado e nunca mais recupera.</p>
+<p>É por isso que o código aberto de softwares relacionados ao Bitcoin é tão importante — e o App da Peach está disponível no Github para todos revisarem!</p>
+<p>Claro, ser open source não significa que todos irão ler cuidadosamente o código e fazer engenharia reversa do mecanismo.<br>
+Por isso escrevo este artigo: para <strong>mostrar o quão segura é a Peach</strong> e quais são as etapas tomadas para alcançar essa segurança.</p>
+<h2 id="passo-1-criando-uma-conta-sem-kyc-na-peach">Passo 1: criando uma conta sem KYC na Peach</h2>
+<p>Para deixar bem claro: sua Bitcoin Seed é a sua conta Peach.</p>
+<p>Se você quiser usar a Peach, precisa criar uma conta, e isso consiste em compartilhar a Chave Pública da sua conta e provar que você é o dono dela.</p>
+<p>Para isso, você precisa:</p>
+<ul>
+<li>
+<p>1 - obter a Data e Hora atuais (em milissegundos) como texto</p>
+</li>
+<li>
+<p>2 - usar sua Chave Privada para gerar uma assinatura do texto anterior</p>
+</li>
+<li>
+<p>3 - enviar a Chave Pública, a data/hora atual e a assinatura.</p>
+</li>
+</ul>
+<p>Você também precisa gerar um uniqueId (identificador único) que será usado para evitar que outros usuários finjam ser você. Isso é útil em casos como perda das seeds e manutenção da mesma conta. Mas não vamos focar muito nisso agora.</p>
+<p><br><br>
+<img src="/img/blog/under-the-hood/underthehood01.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<br><br></p>
+<p>Aqui está o código para realizar isso em Javascript:</p>
+<pre><code class="language-j">
+  const seed = randomBytes(64);
+
+  const root = bip32.fromSeed(seed, bitcoin);
+  const child = root.derivePath(&quot;m/0&quot;);
+  const keyPair = ECPair.fromPrivateKey(child.privateKey, { network: bitcoin });
+
+  const publicKeyHex = Buffer.from(keyPair.publicKey).toString(&quot;hex&quot;);
+
+  const session = axios.create({
+    baseURL: &quot;https://api.peachbitcoin.com/&quot;,
+    httpAgent: new http.Agent({ keepAlive: false }),
+    httpsAgent: new https.Agent({ keepAlive: false }),
+  });
+
+  const registerMessage = String(Date.now());
+  const registerMessageSignature = signWithBtcPrivKey(registerMessage, keyPair);
+
+  const resp = await session.post(&quot;v1/user/register&quot;, {
+    publicKey: publicKeyHex,
+    message: registerMessage,
+    signature: registerMessageSignature,
+    uniqueId: &quot;my_own_unique_id_random_12345&quot;,
+  });
+
+  const accessToken = resp.data.accessToken;
+
+  session.defaults.headers.common[&quot;authorization&quot;] = accessToken;
+
+</code></pre>
+<p>Parabéns! Você acabou de criar uma conta na Peach!<br>
+O Servidor validou que, neste momento, você é o dono do Par de Chaves Bitcoin correspondente à Chave Pública enviada.</p>
+<h2 id="passo-2-enviando-sua-chave-pblica-pgp">Passo 2: enviando sua Chave Pública PGP</h2>
+<p>Haverá muita criptografia — e também alguma descriptografia. As chaves Bitcoin permitem apenas criptografia unidirecional, portanto precisaremos de Chaves PGP para realizar criptografia bidirecional.<br>
+Isso é fundamental para criptografar e descriptografar dados bancários, mensagens de chat, etc.</p>
+<p>O envio da Chave Pública PGP é semelhante ao processo de envio da Chave Pública Bitcoin. No entanto, há uma etapa extra: assinar a Chave Pública PGP com a Chave Privada Bitcoin, para verificar que o usuário é dono de ambas as chaves — Bitcoin e PGP.</p>
+<p><br><br>
+<img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<br><br></p>
+<pre><code class="language-j">
+const { privateKey: pgpPrivateKey, publicKey: pgpPublicKey } =
+    await createPGPKey();
+
+  const pgpPublicKeyMessageSignature = signWithBtcPrivKey(
+    pgpPublicKey,
+    keyPair
+  );
+  const setPgpKeysMessage = String(Date.now());
+
+  const setPgpKeysMessageSignature = await signPGPMessage(
+    pgpPrivateKey,
+    setPgpKeysMessage
+  );
+
+  await session.patch(&quot;v1/user&quot;, {
+    pgpPublicKey: pgpPublicKey, // the PGP Pub key
+    signature: pgpPublicKeyMessageSignature, // the above signed by the BTC Key
+    message: setPgpKeysMessage, // the current timestamp
+    pgpSignature: setPgpKeysMessageSignature, // the above signed by the PGP Key
+  });
+
+</code></pre>
+<p>Neste momento, a Peach possui suas Chaves Públicas Bitcoin e PGP! Isso será extremamente relevante para negociar dentro da Peach.</p>
+<h2 id="prximos-passos">Próximos Passos</h2>
+<p>A partir daqui, o tutorial mostrará os dois lados: o lado do Comprador e o lado do Vendedor.</p>
+<p>As etapas serão as seguintes:</p>
+<ul>
+<li>3.S O Vendedor cria uma Oferta de Venda</li>
+<li>4.S O Vendedor financia o Escrow da Peach</li>
+<li>5.B O Comprador faz uma Solicitação de Negociação para a Oferta de Venda</li>
+<li>5.S O Vendedor aceita a Solicitação de Negociação do Comprador</li>
+<li>6.B O Comprador declara que a transferência Fiat foi realizada</li>
+<li>6.S O Vendedor confirma que recebeu o Pagamento</li>
+</ul>
+<h2 id="passo-3s-o-vendedor-cria-uma-oferta-de-venda">Passo 3.S: o Vendedor cria uma Oferta de Venda</h2>
+<p>Criar uma Oferta de Venda é equivalente a anunciar que você está disposto a vender uma quantidade específica de Bitcoin.<br>
+Mas não é só isso: o Vendedor deve aceitar algo em troca. Resumidamente, uma Oferta de Venda contém:</p>
+<ul>
+<li>uma quantidade de Bitcoin a ser vendida</li>
+<li>as Moedas que o Vendedor aceita</li>
+<li>os Métodos de Pagamento aceitos (dinheiro em mãos, transferência bancária, transação via Revolut, etc.)</li>
+<li>o Prêmio (quanto o Bitcoin custa em relação ao valor de mercado atual)</li>
+</ul>
+<p>Se tudo correr bem, um Comprador se interessará pela oferta e solicitará a negociação.<br>
+Nesse momento, ele precisará selecionar uma única Moeda e um único Método de Pagamento dentre os disponíveis — quanto mais opções o Vendedor oferecer, maiores as chances de atrair um Comprador.</p>
+<p><br><br>
+<img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<br><br></p>
+<pre><code class="language-j">
+const sats_to_sell = 21000;
+  const sell_premium = 1; // 1%
+  const payment_data_currency = &quot;EUR&quot;;
+  const payment_data_method = &quot;wise&quot;;
+
+  const { address: returnAddress } = bitcoin.payments.p2wpkh({
+    pubkey: Buffer.from(keyPair.publicKey),
+    network: bitcoin,
+  });
+  const sellOfferPaymentDataToEncrypt = JSON.stringify({
+    reference: &quot;&quot;,
+    userName: &quot;@myWiseIdTradingBot&quot;,
+  });
+
+  const paymentDataEncryptSHA256 = await sha256(sellOfferPaymentDataToEncrypt);
+
+  const offerCreateRes = await session.post(&quot;v1/offer&quot;, {
+    type: &quot;ask&quot;,
+    amount: sats_to_sell,
+    meansOfPayment: { [payment_data_currency]: [payment_data_method] }, // {&quot;EUR&quot;: [&quot;wise&quot;]}
+    paymentData: {
+      [payment_data_method]: { hashes: [paymentDataEncryptSHA256] },
+    },
+    returnAddress: returnAddress,
+    premium: sell_premium,
+  });
+
+</code></pre>
+<p>Como você pode ver no código, o Vendedor está anunciando que está vendendo 21.000 sats (0.00021 Bitcoin) com um prêmio de 1%. Ele quer receber Euros através de sua conta Wise.<br>
+Se prestar atenção, ele <strong>NÃO</strong> está enviando o ID da conta Wise — apenas um Hash.<br>
+A Peach nunca saberá os detalhes do método de pagamento, para manter o anonimato.<br>
+Também é enviada um Endereço de Retorno. Isso é usado em caso de reembolso: se nenhum Comprador quiser seu Bitcoin, você pode recebê-lo de volta.</p>
+<h2 id="passo-4s-o-vendedor-financia-o-escrow-da-peach">Passo 4.S: o Vendedor financia o Escrow da Peach</h2>
+<p>Após uma solicitação bem-sucedida à API da Peach para criar a Oferta de Venda, o Vendedor obtém o ID da Oferta de Venda:</p>
+<pre><code class="language-j">const sellOfferId = offerCreateRes.data.id;
+
+</code></pre>
+<p>Esse valor é importante — guarde-o. Há outras maneiras de obtê-lo, mas mantenha-o por enquanto.<br>
+A Oferta de Venda foi criada, mas ainda não está pública: nenhum Comprador pode interagir com ela.<br>
+Primeiro, o Vendedor precisa financiar o Escrow.</p>
+<p>O Escrow é como um cofre que requer a autorização tanto do Vendedor quanto da Peach para ser aberto.<br>
+O Bitcoin é colocado dentro do cofre e permanece seguro até o fim da negociação.<br>
+Como ele exige a autorização do Vendedor, e o Escrow é um Script na Blockchain do Bitcoin (um endereço P2WSH), a Peach precisa da Chave Pública do Vendedor para criar esse Escrow.</p>
+<p>Neste momento, o Vendedor envia a Chave Pública que deseja usar para o Escrow à Peach; a Peach seleciona sua própria Chave Pública para o cofre e o constrói, resultando em um endereço.</p>
+<p><br><br>
+<img src="/img/blog/under-the-hood/underthehood04.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<br><br></p>
+<pre><code class="language-j">const childSell = root.derivePath(`m/84'/0'/0'/${sellOfferId}'`);
+
+  const keyPairSellOffer = ECPair.fromPrivateKey(childSell.privateKey, {
+    network: bitcoin,
+  });
+
+  const sellOfferPublicKey = Buffer.from(keyPairSellOffer.publicKey).toString(
+    &quot;hex&quot;
+  );
+
+  const escrowCreateRes = await session.post(
+    &quot;v1/offer/&quot; + sellOfferId + &quot;/escrow&quot;,
+    {
+      publicKey: sellOfferPublicKey,
+    }
+  );
+
+  const escrowAddress = escrowCreateRes.data.escrows.bitcoin;
+
+  const escrowPeachPublicKey =
+    escrowCreateRes.data.escrowPeachPublicKey.bitcoin;
+
+</code></pre>
+<p>Como você pode ver no código, o Vendedor decidiu derivar um novo Par de Chaves usando o ID da Oferta de Venda no caminho de derivação.<br>
+Essa é uma abordagem segura, pois é facilmente reproduzível.<br>
+Após enviar a Chave Pública, a API da Peach retorna o endereço para o qual o Vendedor deve enviar os 21.000 sats.<br>
+No entanto, você não precisa confiar cegamente nesse endereço: pode verificá-lo.</p>
+<p>Vamos verificar!</p>
+<p>A API da Peach também retorna a Chave Pública usada pela Peach para este Escrow específico, o que nos permite recriar o endereço escrevendo o Script Bitcoin:</p>
+<pre><code class="language-j">   OP_IF
+       ${script.number.encode(4320).toString(&quot;hex&quot;)}
+       OP_CHECKSEQUENCEVERIFY
+       OP_DROP
+   OP_ELSE
+       ${sellerPublicKey}
+       OP_CHECKSIGVERIFY
+   OP_ENDIF
+   ${peachPublicKey}
+   OP_CHECKSIG
+</code></pre>
+<p>Este é o Script usado para o Escrow:</p>
+<ul>
+<li>sempre requer a assinatura da Peach</li>
+<li>e também:
+<ul>
+<li>requer a assinatura do Vendedor</li>
+<li>ou requer que 4320 blocos tenham sido minerados desde que o Bitcoin foi enviado para aquele endereço</li>
+</ul>
+</li>
+</ul>
+<p>Por que 4320 blocos?<br>
+Isso equivale a 30 dias de mineração, com uma média de 1 bloco a cada 10 minutos.<br>
+E por que existe essa alternativa que requer apenas a assinatura da Peach após um mês?<br>
+Porque os Vendedores podem não cooperar, perder suas chaves, etc.<br>
+Uma coisa é certa: a Peach tem uma reputação impecável no gerenciamento dos fundos dos Vendedores.</p>
+<p>Depois de construir o script, você pode verificar o endereço P2WSH gerado e confirmar que é o mesmo retornado pela API da Peach ao criar o Escrow.</p>
+<pre><code class="language-j">  const multisigScript = bitcoin.script.compile([
+    Buffer.from(sellOfferPublicKey, &quot;hex&quot;),
+    bitcoin.opcodes.OP_CHECKSIGVERIFY,
+  ]);
+
+  const timelockScript = bitcoin.script.compile([
+    bitcoin.script.number.encode(4320),
+    bitcoin.opcodes.OP_CHECKSEQUENCEVERIFY,
+    bitcoin.opcodes.OP_DROP,
+  ]);
+
+  const redeemScript = bitcoin.script.compile([
+    bitcoin.opcodes.OP_IF,
+    ...timelockScript,
+    bitcoin.opcodes.OP_ELSE,
+    ...multisigScript,
+    bitcoin.opcodes.OP_ENDIF,
+    Buffer.from(escrowPeachPublicKey, &quot;hex&quot;),
+    bitcoin.opcodes.OP_CHECKSIG,
+  ]);
+
+  const escrowPayment = bitcoin.payments.p2wsh({
+    redeem: { output: redeemScript },
+    network: bitcoin,
+  });
+
+  console.log(&quot;Addresses Match:&quot;, escrowPayment.address === escrowAddress);
+
+</code></pre>
+<p>Perfeito! Agora basta fazer uma transação Bitcoin para esse endereço e esperar até que o Escrow seja declarado como financiado.</p>
+<pre><code class="language-j">  while (true) {
+    const fundingStatusRes = await session.get(
+      &quot;v1/offer/&quot; + sellOfferId + &quot;/escrow&quot;
+    );
+    if (fundingStatusRes.data.funding.status === &quot;FUNDED&quot;) {
+      break;
+    }
+  }
+
+</code></pre>
+<p>Assim que for declarado como financiado (após 1 bloco ser minerado), a Oferta de Venda se torna pública e os Compradores podem começar a interagir com ela.</p>
+<h2 id="passo-5b-o-comprador-faz-uma-solicitao-de-negociao-para-a-oferta-de-venda">Passo 5.B: o Comprador faz uma Solicitação de Negociação para a Oferta de Venda</h2>
+<p>Agora é a hora do Comprador agir!</p>
+<p>Primeiro, vamos verificar todas as Ofertas de Venda disponíveis:</p>
+<pre><code class="language-j">const sellOffers = await session.get(&quot;v069/sellOffer&quot;);
+</code></pre>
+<p>Para simplificar, o Comprador se interessará pela primeira Oferta de Venda disponível.</p>
+<pre><code class="language-j">const sellOfferToTradeRequestId = sellOffers.data.offers[0].id;
+</code></pre>
+<p>Agora, o Comprador quer fazer uma Solicitação de Negociação, informando ao Vendedor que está disposto a negociar sob suas condições.<br>
+Parece simples, certo? Mas este é o passo mais complexo de todo o processo.</p>
+<p>Vamos detalhar o que o Comprador precisa enviar:</p>
+<ul>
+<li>o Método de Pagamento preferido (um dos aceitos pelo Vendedor)</li>
+<li>a Moeda preferida (mesmo que acima)</li>
+<li>uma Chave Simétrica (para o Comprador e o Vendedor se comunicarem diretamente) Criptografada</li>
+<li>a assinatura da Chave Simétrica</li>
+<li>os Dados de Pagamento Criptografados usando a Chave Simétrica</li>
+<li>uma assinatura dos Dados de Pagamento</li>
+<li>o Endereço de Liberação: onde o Comprador quer receber o Bitcoin comprado</li>
+<li>a Assinatura da Mensagem do Endereço de Liberação (prova de propriedade, via BIP 322)</li>
+<li>a taxa máxima de mineração: quanto o Comprador está disposto a ceder de seu Bitcoin final para pagar as taxas dos mineradores.</li>
+</ul>
+<p>É bastante coisa, não? Mas é isso que torna a Peach super segura!<br>
+Vamos por partes.</p>
+<h3 id="o-mtodo-de-pagamento-e-a-moeda-preferidos">O Método de Pagamento e a Moeda preferidos:</h3>
+<p>Este é o mais simples:</p>
+<pre><code class="language-j">  const payment_data_currency = &quot;EUR&quot;;
+  const payment_data_method = &quot;wise&quot;;
+
+</code></pre>
+<h3 id="a-chave-simtrica">A Chave Simétrica:</h3>
+<p>A Chave Simétrica será usada com Criptografia Bidirecional AES256: você pode criptografar uma mensagem e depois descriptografá-la usando a mesma chave.</p>
+<pre><code class="language-j">async function decryptDataWithSymmetricKey(encryptedMessage, symmetricKey) {
+  const message = await openpgp.readMessage({
+    armoredMessage: encryptedMessage,
+  });
+
+  const { data: decrypted } = await openpgp.decrypt({
+    message,
+    passwords: [symmetricKey],
+    format: &quot;utf8&quot;,
+  });
+
+  return decrypted;
+}
+
+async function encryptDataWithSymmetricKey(data, symmetricKey) {
+  const message = await openpgp.createMessage({ text: data });
+  const encrypted = await openpgp.encrypt({
+    message,
+    passwords: [symmetricKey],
+    format: &quot;armored&quot;,
+    config: {
+      preferredSymmetricAlgorithm: openpgp.enums.symmetric.aes256,
+    },
+  });
+  return encrypted;
+}
+
+</code></pre>
+<p>Para criar uma, basta gerar um número aleatório:</p>
+<pre><code class="language-j">  const symmetricKey = randomBytes(32);
+  const symmetricKeyHex = symmetricKey.toString(&quot;hex&quot;);
+
+</code></pre>
+<p>Você não deve enviar essa chave em texto claro — isso anularia seu propósito.<br>
+Ela deve ser criptografada de modo que apenas o Comprador e o Vendedor possam descriptografá-la.<br>
+Como ambos enviaram suas Chaves Públicas PGP, precisamos criptografá-la de forma que apenas as Chaves Privadas PGP correspondentes possam descriptografá-la:</p>
+<pre><code class="language-j">async function encryptForMultipleRecipients(secret, publicKeysArmored) {
+  const publicKeys = await Promise.all(
+    publicKeysArmored.map((armored) =&gt; openpgp.readKey({ armoredKey: armored }))
+  );
+  const message = await openpgp.createMessage({ text: secret });
+
+  const encrypted = await openpgp.encrypt({
+    message,
+    encryptionKeys: publicKeys,
+  });
+
+  return encrypted;
+}
+
+  const matchingUserPgpPubKey = sellOffers.data.offers[0].user.pgpPublicKey;
+
+  const symmetricKeyEncrypted = await encryptForMultipleRecipients(
+    symmetricKeyHex,
+    [pgpPublicKey, matchingUserPgpPubKey]
+  );
+
+</code></pre>
+<p>E para que o Vendedor tenha certeza de que a Chave Simétrica foi gerada pelo Comprador, ele também deve assiná-la usando sua chave PGP:</p>
+<pre><code class="language-j">  const symmetricKeySignature = await signPGPMessage(
+    pgpPrivateKey,
+    symmetricKeyHex
+  );
+
+</code></pre>
+<h3 id="os-dados-de-pagamento">Os Dados de Pagamento:</h3>
+<p>Essa é a informação mais valiosa: seus Dados de Pagamento. Pode ser seu IBAN, seu nome de usuário no Revolut — qualquer dado que identifique a origem do seu pagamento Fiat.<br>
+O Vendedor depois compartilhará suas próprias informações com o Comprador.</p>
+<p>Agora que temos uma Chave Simétrica, podemos usá-la para Criptografar os Dados de Pagamento, e o Vendedor poderá usá-la depois para Descriptografar.</p>
+<pre><code class="language-j">const paymentDataToEncrypt = JSON.stringify({
+    reference: &quot;&quot;,
+    userName: &quot;@buyerWiseId&quot;,
+  });
+
+const paymentDataEncrypted = await encryptDataWithSymmetricKey(
+paymentDataToEncrypt,
+symmetricKeyHex
+);
+
+const paymentDataSignature = await signPGPMessage(
+pgpPrivateKey,
+paymentDataToEncrypt
+);
+
+</code></pre>
+<h3 id="definindo-o-endereo-de-liberao-e-provando-propriedade">Definindo o Endereço de Liberação e provando propriedade:</h3>
+<p>Você deve definir para qual endereço quer que o Bitcoin da negociação seja enviado posteriormente.<br>
+Criar um endereço é a parte fácil.<br>
+A parte difícil é provar a propriedade do endereço.<br>
+Fazemos isso por razões regulatórias, para garantir que o Comprador é realmente o dono, e, felizmente, isso também serve como uma medida de segurança extra (isso torna a Peach imune ao ataque de substituição de endereço via bibliotecas Javascript, ocorrido em setembro de 2025).</p>
+<p>A prova de propriedade é feita usando BIP-322, que permite usar sua Chave Privada Bitcoin para assinar uma mensagem que pode ser validada pelo endereço.</p>
+<pre><code class="language-j">  const { address } = bitcoin.payments.p2wpkh({
+    pubkey: Buffer.from(keyPair.publicKey),
+    network: bitcoin,
+  });
+
+  const ownershipMessage =
+    &quot;I confirm that only I, peach&quot; +
+    publicKeyHex.slice(0, 8) +
+    &quot;, control the address &quot; +
+    address;
+
+  const releaseAddressSignature = signWithBIP322(
+    wif,
+    address,
+    ownershipMessage
+  );
+
+</code></pre>
+<h3 id="um-ltimo-detalhe-a-taxa-mxima-de-minerao">Um último detalhe: a taxa máxima de mineração:</h3>
+<p>Como Comprador, talvez você não queira gastar muito em taxas para receber seu Bitcoin e prefira esperar até que as taxas caiam antes de liberar os fundos.<br>
+Nesse caso, você pode definir a Taxa Máxima de Mineração que está disposto a “pagar” para que o Bitcoin seja enviado a você.</p>
+<h3 id="finalmente-voc-faz-a-solicitao-de-negociao-oferta-de-venda">Finalmente, você faz a Solicitação de Negociação à Oferta de Venda</h3>
+<p>Que jornada, hein? Mas é isso — agora você pode enviá-la.</p>
+<pre><code class="language-j">  await session.post(
+    &quot;v069/sellOffer/&quot; + sellOfferToTradeRequestId + &quot;/tradeRequestPerformed&quot;,
+    {
+      paymentMethod: payment_data_method,
+      currency: payment_data_currency,
+      paymentDataHashed: paymentDataToEncryptSHA256,
+      paymentDataEncrypted: paymentDataEncrypted,
+      paymentDataSignature: paymentDataSignature,
+      symmetricKeyEncrypted: symmetricKeyEncrypted,
+      symmetricKeySignature: symmetricKeySignature,
+      maxMiningFeeRate: 2, // sats/vb
+      releaseAddress: address,
+      releaseAddressMessageSignature: releaseAddressSignature,
+    }
+  );
+
+</code></pre>
+<p><br><br>
+<img src="/img/blog/under-the-hood/underthehood05.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<br><br></p>
+<p>Agora é a vez do Vendedor aceitá-la.</p>
+<h2 id="passo-5s-o-vendedor-aceita-a-solicitao-de-negociao">Passo 5.S: o Vendedor aceita a Solicitação de Negociação</h2>
+<p>O Vendedor aguardava que um Comprador interagisse com sua Oferta de Venda.<br>
+Ele verifica a lista de Solicitações de Negociação:</p>
+<pre><code class="language-j">const receivedTradeRequestRequest = await session.get(
+    &quot;v069/sellOffer/&quot; + sellOfferId + &quot;/tradeRequestReceived&quot;
+  );
+
+  const tradeReq = receivedTradeRequestRequest.data[0];
+
+</code></pre>
+<p>Se o Vendedor decidir aceitar a Solicitação de Negociação, ele deve compartilhar seus Dados de Pagamento com o Comprador, para que este saiba para onde enviar o pagamento Fiat.</p>
+<p>Como uma Chave Simétrica já foi criada e enviada pelo Comprador, o Vendedor pode descriptografá-la (pois foi criptografada com sua Chave Pública PGP) e usá-la para criptografar seus próprios Dados de Pagamento.</p>
+<pre><code class="language-j">  const receivedSymmetricKey = await decryptWithPrivateKey(
+    tradeReq.symmetricKeyEncrypted,
+    pgpPrivateKey
+  );
+
+  const sellOfferPaymentDataEncrypted = await encryptDataWithSymmetricKey(
+    sellOfferPaymentDataToEncrypt,
+    receivedSymmetricKey
+  );
+
+  const sellOfferPaymentDataSignature = await signPGPMessage(
+    pgpPrivateKey,
+    sellOfferPaymentDataToEncrypt
+  );
+
+</code></pre>
+<p>E pronto! Agora o Vendedor pode aceitar a Solicitação de Negociação e uma troca oficial começa!</p>
+<p><br><br>
+<img src="/img/blog/under-the-hood/underthehood06.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<br><br></p>
+<pre><code class="language-j">  await session.post(
+    &quot;v069/sellOffer/&quot; +
+      sellOfferId +
+      &quot;/tradeRequestReceived/&quot; +
+      tradeReq.userId +
+      &quot;/accept&quot;,
+    {
+      paymentDataEncrypted: sellOfferPaymentDataEncrypted,
+      paymentDataSignature: sellOfferPaymentDataSignature,
+      paymentData: {
+        [payment_data_method]: { hashes: [paymentDataEncryptSHA256] },
+      },
+    }
+  );
+
+</code></pre>
+<p>Se compreender todo o processo foi difícil, aqui está uma imagem para ilustrá-lo:</p>
+<p><br><br>
+<img src="/img/blog/under-the-hood/underthehood07.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 90%;">
+<br><br></p>
+<h2 id="passo-6b-o-comprador-declara-que-o-pagamento-foi-feito">Passo 6.B: o Comprador declara que o Pagamento foi feito</h2>
+<p>O Comprador pode verificar se tem Contratos (que são trocas acordadas entre um Comprador e um Vendedor) consultando o endpoint de resumos de Contrato:</p>
+<pre><code class="language-j">  const contractsRes = await session.get(&quot;v1/contracts/summary&quot;);
+  const contract = contractsRes.data.find((obj) =&gt;
+    obj.id.startsWith(sellOfferToTradeRequestId + &quot;-&quot;)
+  );
+
+  if (contract.tradeStatus !== &quot;paymentRequired&quot;) throw Error;
+</code></pre>
+<p>Isso retornará uma lista de todos os Contratos dos quais ele participa.<br>
+Se houver um Contrato com status “paymentRequired”, então é a vez dele realizar o pagamento Fiat.</p>
+<p>Para isso, ele precisa descriptografar os Dados de Pagamento do Vendedor usando a Chave Simétrica gerada na Solicitação de Negociação original.<br>
+Se ele não a salvou, tudo bem, pois ela está disponível e pode ser descriptografada com sua Chave Privada PGP.</p>
+<pre><code class="language-j">
+  const contractRes = await session.get(&quot;v1/contract/&quot; + contract.id);
+
+  const receivedSymmetricKey = await decryptWithPrivateKey(
+    contractRes.data.symmetricKeyEncrypted,
+    pgpPrivateKey
+  );
+
+  if (receivedSymmetricKey !== symmetricKeyHex) throw Error;
+
+  const decryptedSellerPaymentData = await decryptDataWithSymmetricKey(
+    contractRes.data.paymentDataEncrypted,
+    receivedSymmetricKey
+  );
+
+  console.log(&quot;Seller Payment Data &quot;, JSON.parse(decryptedSellerPaymentData));
+</code></pre>
+<p>Agora, isso deve acontecer fora da Peach: o Comprador abre seu aplicativo bancário (ou similar) e realiza uma transferência Fiat para o destinatário dos Dados de Pagamento do Vendedor.</p>
+<p>Se este passo causar insegurança ao leitor, lembre-se: o Bitcoin já está no Escrow, controlado pela Peach e pelo Vendedor.<br>
+Você pode até acessar o endereço do Escrow — disponível nos dados do Contrato retornados pela API — e verificar, via explorador de Blockchain, se o Bitcoin está lá.</p>
+<p>Após realizar a transferência Fiat, o Comprador deve declarar que o Pagamento foi feito:</p>
+<pre><code class="language-j">  const confirmPaymentRes = await session.post(
+    &quot;v1/contract/&quot; + contract.id + &quot;/payment/confirm&quot;
+  );
+</code></pre>
+<p><br><br>
+<img src="/img/blog/under-the-hood/underthehood08.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<br><br></p>
+<p>Esse foi o último passo do Comprador.<br>
+Agora o Vendedor deve confirmar que recebeu o pagamento Fiat e liberar o Bitcoin no Escrow para o endereço do Comprador.</p>
+<h2 id="passo-6s-o-vendedor-confirma-que-recebeu-o-pagamento">Passo 6.S: o Vendedor confirma que recebeu o Pagamento</h2>
+<p>Da mesma forma que o Comprador, o Vendedor verifica os Contratos atribuídos a ele.</p>
+<pre><code class="language-j">  const contractsRes = await session.get(&quot;v1/contracts/summary&quot;);
+  const contract = contractsRes.data[0];
+
+  const contractRes = await session.get(&quot;v1/contract/&quot; + contract.id);
+
+</code></pre>
+<p>Na resposta da API do Contrato, o Vendedor receberá uma Transação Bitcoin Parcialmente Assinada (PSBT), que é uma transação do Bitcoin no Escrow para o endereço do Comprador, já com a assinatura da Peach.<br>
+Isso significa que só precisa da assinatura do Vendedor para se tornar uma transação válida:</p>
+<pre><code class="language-j">  const releasePSBTBase64 = contractRes.data.releasePsbt;
+
+  const parsedPSBT = bitcoin.Psbt.fromBase64(releasePSBTBase64, {
+    network: bitcoin,
+  });
+
+  parsedPSBT.signInput(0, childSell);
+
+</code></pre>
+<p><br><br>
+<img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<br><br></p>
+<p>Agora o Vendedor pode finalizar a Transação, passando as duas assinaturas e o Script Bitcoin do Escrow.<br>
+Como estamos seguindo o caminho MultiSig do script (escrito como o segundo caminho), precisamos passar OP_FALSE na pilha, para que a instrução IF seja avaliada corretamente.</p>
+<pre><code class="language-j">export const getFinalScript = (_inputIndex, input, bitcoinScript) =&gt; {
+  const network = bitcoin;
+
+  const payment = payments.p2wsh({
+    network,
+    redeem: {
+      network,
+      output: bitcoinScript,
+      input: bitcoin.script.compile([
+        input.partialSig[0].signature,
+        input.partialSig[1].signature,
+        opcodes.OP_FALSE,
+      ]),
+    },
+  });
+
+  parsedPSBT.finalizeInput(0, getFinalScript);
+
+  const tx = parsedPSBT.extractTransaction().toHex();
+
+</code></pre>
+<p>O último passo: enviar a Transação finalizada para a API da Peach:</p>
+<pre><code class="language-j">  await session.post(&quot;v1/contract/&quot; + contract.id + &quot;/payment/confirm&quot;, {
+    releaseTransaction: tx,
+  });
+
+</code></pre>
+<p>Senhoras e senhores, é assim que negociamos na Peach com máxima segurança e privacidade!</p>
+<p class="date">October 23rd, 2025</p><p class="tags">Tagged with:<a href="/pt/blog/tag/produto">Produto</a><a href="/pt/blog/tag/p2p">P2P</a><a href="/pt/blog/tag/tutorial">Tutorial</a></p><p><a href="/pt/blog/">All blog posts</a></p></div></section></main><footer class="footer" id="footer"><div class="wrap"><div class="logo-section"><div class="logo"><img class="logo-image" src="/img/peach-footer-logo-e28fd7e07f654f43afd63c9b6ace3cdb.svg" alt="Peach logo"/><span>Made in Switzerland <img src="/img/flags/switzerland-icon.svg" style="width: 1rem; margin-left .5rem;"/></span></div><div class="company-info"> <img class="polyreg-image" src="/img/polyreg-52ec37fb80d0312b219110c05567ad3d.png" alt="Polyreg logo" width="120"/><p>Peach é membro da SRO (Organização de Auto-Regulação) da Polyreg </p><p>Peach é um provedor de serviços financeiros licenciado na Suíça e está totalmente em conformidade com a Lei Suíça de Combate à Lavagem de Dinheiro. </p></div></div><div class="content"><div class="footer-box"><h6>Empresa</h6><a href="/pt/join-us/">Junte-se a nós</a><a href="/pt/terms-and-conditions/">Termos e Condições</a><a href="/pt/privacy-policy/">Política de Privacidade</a><a class="cookie-link" href="#" onclick="showCookiePopup(event)">Gerenciar preferências de cookies</a></div><div class="footer-box"><h6>Contato</h6><a href="mailto:hello@peachbitcoin.com">E-mail</a><a href="https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2">Chave PGP</a></div><div class="footer-box"><h6>Download</h6><span>0.69.0 (294)</span><a href="/pt/apk/">APK</a><a href="https://testflight.apple.com/join/wfSPFEWG">iPhone</a><a href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet">Android</a></div><div class="footer-box"><h6>Comunidade</h6><a href="https://twitter.com/peachbitcoin" target="_blank" rel="noreferrer noopener">Twitter</a><a href="https://t.me/peachtopeach" target="_blank" rel="noreferrer noopener">Telegram</a><a href="https://discord.gg/ypeHz3SW54" target="_blank" rel="noreferrer noopener">Discord</a><a href="https://www.instagram.com/peachbitcoin/" target="_blank" rel="noreferrer noopener">Instagram</a><a href="https://snort.social/p/npub15369wu3wzzar5fclhecyqfv683x69n6nhlg7rxqnsg2dydgxflpq3apswl" target="_blank" rel="noreferrer noopener">Nostr</a><a href="https://github.com/Peach2Peach" target="_blank" rel="noreferrer noopener">Github</a><a href="https://www.youtube.com/@peachbitcoin" target="_blank" rel="noreferrer noopener">YouTube</a></div><div class="footer-box"><h6>Bitcoin</h6><a href="/bitcoin.pdf">Whitepaper</a><a href="https://docs.peachbitcoin.com">Documentação da API</a></div><div class="footer-box"><h6>Ganhe Bitcoin</h6><a href="/pt/new-users/">Código de Indicação</a><a href="/pt/for-businesses/">Torne-se um Afiliado</a></div></div></div></footer><style>#cookie-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #120A07;
+  color: #fff;
+  padding: 15px 0;
+  z-index: 9999;
+  font-size: 14px;
+}
+#cookie-banner .cookie-container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+#cookie-banner p {
+  margin: 0;
+  line-height: 1.4;
+}
+#cookie-banner .cookie-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+#cookie-banner button {
+  padding: 10px 16px;
+  color: #fff;
+  background-color: #65A519;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+#cookie-banner button:hover {
+  background-color: #65A519;
+}
+#cookie-banner button.reject {
+  background-color: #DF321F;
+}
+#cookie-banner button.reject:hover {
+  background-color: #DF321F;
+}
+#cookie-banner a.cookie-link {
+  color: #fff;
+  text-decoration: underline;
+  font-size: 14px;
+  margin-left: 8px;
+  cursor: pointer;
+}
+#cookie-banner a.cookie-link:hover {
+  text-decoration: none;
+}
+/* Popup overlay */
+#cookie-popup {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 10000;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+/* Contenitore del popup */
+#cookie-popup-content {
+  position: relative;
+  background-color: #120A07;
+  color:rgb(255, 255, 255);
+  padding: 30px 20px 20px;
+  border-radius: 10px;
+  width: 80%;
+  max-width: 600px;
+  box-sizing: border-box;
+}
+/* Pulsante di chiusura */
+#cookie-popup-content .close-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 24px;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 5px;
+}
+#cookie-popup-content .close-btn:hover {
+  color: #ccc;
+}
+/* Stile per ciascuna categoria di cookie */
+.cookie-category {
+  margin-bottom: 20px;
+}
+/* Migliora i checkbox e le label */
+.cookie-category label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  font-size: 15px;
+}
+.cookie-category input[type="checkbox"] {
+  accent-color: #4CAF50;
+  margin: 0;
+  cursor: pointer;
+}
+.cookie-category p {
+  margin: 4px 0 0 28px;
+  font-size: 14px;
+  line-height: 1.4;
+  color: #ccc;
+}
+/* Bottone "Salva Preferenze" */
+#cookie-popup-content button.save-btn {
+  background-color: #4CAF50;
+  border: none;
+  padding: 10px 16px;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+#cookie-popup-content button.save-btn:hover {
+  background-color: #43a047;
+}
+/* Media query per schermi più piccoli */
+@media (max-width: 768px) {
+  #cookie-banner .cookie-container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  #cookie-banner .cookie-actions {
+    margin-top: 10px;
+    width: 100%;
+    justify-content: flex-start;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+}
+
+</style><div id="cookie-banner" style="display: none;"><div class="cookie-container"><p>Usamos cookies para melhorar sua experiência. <a href="/privacy-policy" style="color: #4CAF50;">Saiba mais</a></p><div class="cookie-actions"><button class="cookie-btn" onclick="acceptCookies()">Aceitar cookies e continuar</button><button class="cookie-btn reject" onclick="rejectCookies()">Recusar cookies</button><a class="cookie-link" href="#" onclick="showCookiePopup(event)">Gerenciar cookies</a></div></div></div><div id="cookie-popup"><div id="cookie-popup-content"><button class="close-btn" type="button" onclick="closeCookiePopup()">×</button><h2>Gerenciar preferências de cookies</h2><div class="cookie-category"><div class="switch-container"><span class="label-text">Cookies Necessários</span><label class="switch" for="necessary-cookies"><input type="checkbox" id="necessary-cookies" checked="checked" disabled="disabled"/><span class="slider"></span></label></div><p>Esses cookies são essenciais para o funcionamento do site.</p></div><div class="cookie-category"><div class="switch-container"><span class="label-text">Cookies de Análise</span><label class="switch" for="analytics-cookies"><input type="checkbox" id="analytics-cookies"/><span class="slider"></span></label></div><p>Cookies de análise nos ajudam a entender como os usuários interagem com o site.</p></div><div class="cookie-category"><div class="switch-container"><span class="label-text">Cookies de Marketing</span><label class="switch" for="marketing-cookies"><input type="checkbox" id="marketing-cookies"/><span class="slider"></span></label></div><p>Os cookies de marketing são usados para coletar informações dos usuários</p></div><div style="text-align: right; margin-top: 20px;"><button class="save-btn" type="button" onclick="savePreferences()">Salvar preferências</button></div></div></div><script src="/js/main-15c0432b5e5f06cbab9e3fedcaae3032.js"></script><script>if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('/service-worker.js')
+      .then(function(registration) {
+        console.log('Service Worker registrato con successo:', registration);
+      })
+      .catch(function(error) {
+        console.log('Registrazione del Service Worker fallita:', error);
+      });
+  });
+} else {
+  console.log('Service Worker non supportato in questo browser.');
+}</script><script>window.onload = function() {
+  setTimeout(function() {
+    const languageLabel = document.querySelector('.language-label img');
+
+    const languageMap = {
+      'en': { text: 'English', flag: '/img/en-872bf10f0d1ed191b502494534bb329a.png' },
+      'es': { text: 'Español', flag: '/img/es-b17fc8846b93c5446b10cd7824434504.png' },
+      'de': { text: 'Deutsch', flag: '/img/de-0da84d0f3850d6e25088debeb3ade32c.png' },
+      'it': { text: 'Italiano', flag: '/img/it-299996a0097e49e1bc4f312e380d3faa.png' },
+      'fr': { text: 'Français', flag: '/img/fr-75a63faa5728ac4175214da6cd3c47f1.png' },
+      'el': { text: 'Ελληνικά', flag: '/img/el-27d234921e954ed945c93bef880a07b6.png' },
+      'hu': { text: 'Magyar', flag: '/img/hu-fc4c517f481932d60d59b56a8f0c322d.png' },
+      'nl': { text: 'Nederlands', flag: '/img/nl-83a65573b2d26cdce16cab98f8c38db1.png' },
+      'pl': { text: 'Polski', flag: '/img/pl-f7c03eb5351f5b2e33c9b29f1e200e38.png' },
+      'pt': { text: 'Português', flag: '/img/pt-997fb3879120a45e1ba507a9e060a662.png' },
+      'sw': { text: 'Kiswahili', flag: '/img/sw-cdf6e2b06778f5ac662fb25f3ca8eac0.png' },
+      'uk': { text: 'Українська', flag: '/img/ua-f7a81ef67d0931a29f7e358bb99ef521.png' }
+    };
+
+    const currentPath = window.location.pathname;
+    let currentLang = 'en';
+
+    // Determinare la lingua corrente dal percorso
+    for (const lang in languageMap) {
+      if (currentPath.includes('/' + lang)) {
+        currentLang = lang;
+        break;
+      }
+    }
+
+    // Aggiorna la bandiera e il testo dinamicamente
+    if (languageLabel && languageMap[currentLang]) {
+      languageLabel.src = languageMap[currentLang].flag;
+    }
+  }); // Ritardo per garantire che la pagina sia completamente caricata
+};
+</script><script>window.__ow = window.__ow || {};
+window.__ow.organizationId = "8b099b27-4836-4896-9087-a7ed505dec79";
+window.__ow.template_id = "b97be07a-7dcf-48af-8d69-a9dfae5dfc29";
+window.__ow.integration_name = "manual_settings";
+window.__ow.product_name = "chatbot";   
+;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}var e={_q:[],_h:null,_v:"2.0",on:function(){i(["on",c.call(arguments)])},once:function(){i(["once",c.call(arguments)])},off:function(){i(["off",c.call(arguments)])},get:function(){if(!e._h)throw new Error("[OpenWidget] You can't use getters before load.");return i(["get",c.call(arguments)])},call:function(){i(["call",c.call(arguments)])},init:function(){var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.openwidget.com/openwidget.js",t.head.appendChild(n)}};!n.__ow.asyncInit&&e.init(),n.OpenWidget=n.OpenWidget||e}(window,document,[].slice))</script><noscript>You need to <a href="https://www.chatbot.com/help/chat-widget/enable-javascript-in-your-browser/" rel="noopener nofollow">enable JavaScript</a> in order to use the AI chatbot tool powered by <a href="https://www.chatbot.com/" rel="noopener nofollow" target="_blank">ChatBot</a></noscript><script>(function() {
+  // Funzioni di utilità per gestire i cookie
+  function setCookie(name, value, days) {
+    var expires = "";
+    if (days) {
+      var date = new Date();
+      date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+      expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "") + expires + "; path=/";
+  }
+
+  function getCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+      var c = ca[i];
+      while (c.charAt(0) === ' ') c = c.substring(1, c.length);
+      if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
+    }
+    return null;
+  }
+
+  // Controlla se il consenso è già stato dato per nascondere il banner
+  function checkConsent() {
+    if (getCookie('consent_necessary') === "true") {
+      document.getElementById('cookie-banner').style.display = 'none';
+    } else {
+      document.getElementById('cookie-banner').style.display = 'flex';
+    }
+  }
+
+  // Funzione per accettare tutti i cookie
+  window.acceptCookies = function() {
+    setCookie('consent_necessary', 'true', 365);
+    setCookie('consent_analytics', 'true', 365);
+    setCookie('consent_marketing', 'true', 365);
+    document.getElementById('cookie-banner').style.display = 'none';
+    document.getElementById('cookie-popup').style.display = 'none';
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({event: 'cookie_consent', consent_analytics: true, consent_marketing: true});
+  };
+
+  // Funzione per rifiutare cookie opzionali (analytics e marketing)
+  window.rejectCookies = function() {
+    setCookie('consent_necessary', 'true', 365);
+    setCookie('consent_analytics', 'false', 365);
+    setCookie('consent_marketing', 'false', 365);
+    document.getElementById('cookie-banner').style.display = 'none';
+    document.getElementById('cookie-popup').style.display = 'none';
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({event: 'cookie_consent', consent_analytics: false, consent_marketing: false});
+  };
+
+  // Mostra il popup per gestire le preferenze dei cookie
+  window.showCookiePopup = function(event) {
+    event.preventDefault();
+    document.getElementById('cookie-popup').style.display = 'flex';
+  };
+  window.closeCookiePopup = function() {
+  document.getElementById('cookie-popup').style.display = 'none';
+  };
+
+  // Salva le preferenze impostate nel popup
+  window.savePreferences = function() {
+    var analyticsConsent = document.getElementById('analytics-cookies').checked;
+    var marketingConsent = document.getElementById('marketing-cookies').checked;
+    setCookie('consent_necessary', 'true', 365);
+    setCookie('consent_analytics', analyticsConsent ? 'true' : 'false', 365);
+    setCookie('consent_marketing', marketingConsent ? 'true' : 'false', 365);
+    document.getElementById('cookie-banner').style.display = 'none';
+    document.getElementById('cookie-popup').style.display = 'none';
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({event: 'cookie_consent', consent_analytics: analyticsConsent, consent_marketing: marketingConsent});
+  };
+
+  // Inizializza il controllo del consenso al caricamento della pagina
+  checkConsent();
+})();</script></body></html>
