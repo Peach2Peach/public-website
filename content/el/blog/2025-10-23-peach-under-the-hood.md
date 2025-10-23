@@ -18,7 +18,7 @@ previewImage: /img/blog/under-the-hood/peachmechanic2.png
 
 <div class="video-wrapper">
   <iframe
-    src="https://www.youtube.com/embed/CGx9LYGTKj8?si=kVrF-PgImNrN1wKg"
+    src="https://www.youtube.com/embed/UvdbHlsPmK0"
     title="PEACH VIDEO OF Under the Hood"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
