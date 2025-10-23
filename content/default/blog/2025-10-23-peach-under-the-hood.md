@@ -489,7 +489,7 @@ paymentDataToEncrypt
 
 You must define where you want the Bitcoin of the Trade to be sent to afterwards. Creating an address is the easy part. The tricky part is proving the ownership of the address. We do this for regulation purposes, to ensure the Buyer is the actual owner of it, and luckily it doubles as an extra safety precaution (this alone makes Peach immune to the Address Replacement Attack using Javascript libraries of September 2025).
 
-The proof of ownership is performed using BIP-322, which allows you to use your Bitcoin Private Key to sign a message that can be validated using the Address.
+The proof of ownership is performed using **BIP-322**, which allows you to use your Bitcoin Private Key to sign a message that can be validated using the Address.
 
 ```j
   const { address } = bitcoin.payments.p2wpkh({
