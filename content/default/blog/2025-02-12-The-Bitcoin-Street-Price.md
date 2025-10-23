@@ -40,7 +40,7 @@ And Peach was born! Peach the company was created in February 2022 in Switzerlan
 <img src="/img/blog/This-is-peer-to-peer.gif" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
 <br><br>
 
-Alright so now going back to the Bitcoin street price… aka the peer-to-peer price!!! I call it the raw price, the pure price, the intermediate-free price, the natural price, the innocent price… the price at which an individual decides that at this exaxt moment in time, in this exact place and in this exact situation, Bitcoin is worth <X> to him/her.
+Alright so now going back to the Bitcoin street price… aka the peer-to-peer price!!! I call it the raw price, the pure price, the intermediate-free price, the natural price, the innocent price… the price at which an individual decides that at this exact moment in time, in this exact place and in this exact situation, Bitcoin is worth <X> to him/her.
 
 The concept of the Bitcoin street price isn’t entirely new. Back in 2017, Clark Moody introduced the [Bitcoin Street Price](https://bitcoin.clarkmoody.com/posts/introducing-bitcoin-street-price?) index, aiming to track Bitcoin’s value as traded peer-to-peer in various local currencies. This initiative sought to provide a more accurate representation of Bitcoin’s cash value across different regions. Unfortunately this data doesn’t exist anymore due to lack of support and resources but platforms like Peach Bitcoin continue to champion the idea, that the peer-to-peer price is the real price of Bitcoin.
 

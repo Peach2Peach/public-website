@@ -16,10 +16,16 @@ previewImage: /img/blog/under-the-hood/peachmechanic2.png
 # Peach Bitcoin Under the Hood: a technical look at why it’s the safest P2P exchange
 
 
-<div style="text-align:center; margin: 1em 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/UvdbHlsPmK0" 
-title="PEACH VIDEO OF Under the Hood" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe></div>
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/CGx9LYGTKj8?si=kVrF-PgImNrN1wKg"
+    title="PEACH VIDEO OF Under the Hood"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+  ></iframe>
+</div>
 
 Aaaaah Bitcoin, this wonderful form of money that thrives on its core features. We all love it, but we all recognize that there are risks with the self-sovereignty part: you share your seeds and you lose it all. You send some to the wrong address and you are never getting it back.
 
@@ -147,13 +153,12 @@ Creating a Sell Offer is equivalent to announcing that you are willing to sell a
 
 *   the Currencies the Seller is accepting
 
-*   the Payment Methods the Seller is accepting (cash in hand, a Bank Transfer, a
-Revolut transaction, etc)
+*   the Payment Methods the Seller is accepting (cash in hand, a Bank Transfer, a Revolut transaction, etc)
 
 *   the Premium ( how expensive the Bitcoin is according to the current market value )
 
 
-If everything goes well, a Buyer will be interested in the offer and request to trade with it. At that moment, he will have to select one single Currency and Payment Method from the available ones, but the more the Seller displays the more his chances of attracting a Buyer are.
+If everything goes well, a Buyer will be interested in the offer and request to trade with it. At that moment, he will have to select one single Currency and Payment Method from the available ones, but the more the Seller displays the higher his chances of attracting a Buyer are.
 
 <br><br>
 <img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
@@ -191,7 +196,7 @@ const sats_to_sell = 21000;
 ```
 
 As you can see in the code, the Seller is announcing he is selling 21000 Sats (0.00021 Bitcoin) at a 1% premium. He wants to receive Euros through his Wise account.
-If you pay close attention, he is NOT submitting his Wise Account ID, he is just submitting a Hash. Peach will never know his Payment Method Details, to keep things anonymous.
+If you pay close attention, he is **NOT** submitting his Wise Account ID, he is just submitting a Hash. Peach will never know his Payment Method Details, to keep things anonymous.
 Also, a Return Address is submitted. This is used in case of a refund: no Buyers want your Bitcoin, so you can get it back.
 
 ## Step 4.S: Seller funds the Peach Escrow
@@ -361,7 +366,7 @@ Let’s break down what the Buyer needs to submit:
 
 * the Release Address Message Signature: a proof that the Buyer owns that address, using BIP 322
 
-* the maximum mining fee: how much the Buyer is willing to give up of his final Bitcointo pay Miner Fees of the final Transaction.
+* the maximum mining fee: how much the Buyer is willing to give up of his final Bitcoin to pay Miner Fees of the final Transaction.
   
 
 That's a lot, right? But that’s why Peach is super secure! Let’s go step by step.
@@ -691,7 +696,7 @@ On the Contract’s API response, the Seller will get a Partially Signed Bitcoin
 <img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
-Now the Seller can finalize the Transaction, by passing the 2 signatures and the Escrow Bitcoin Script. Since we are going through the MultiSig path of the script (written as the 2nd path, we need to pass OP_ FALSE to the stack, to influence the IF statement correctly)
+Now the Seller can finalize the Transaction, by passing the 2 signatures and the Escrow Bitcoin Script. Since we are going through the MultiSig path of the script (written as the 2nd path, we need to pass `OP_FALSE` to the stack, to influence the IF statement correctly)
 
 
 ```j
@@ -728,4 +733,4 @@ The last step: submit the finalized Transaction to Peach’s API:
 ```
 
 
-Ladies and Gentleman, this is how we trade at Peach with maximum security and privacy!
+Ladies and Gentleman, this is how we trade at Peach with **maximum security and privacy**!

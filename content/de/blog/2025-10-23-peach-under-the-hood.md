@@ -16,10 +16,21 @@ previewImage: /img/blog/under-the-hood/peachmechanic2.png
 # Peach Bitcoin Under the Hood: ein technischer Blick darauf, warum es die sicherste P2P-Börse ist
 
 
-<div style="text-align:center; margin: 1em 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/UvdbHlsPmK0" 
+<!-- <div style="text-align:center; margin: 1em 0;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UvdbHlsPmK0" 
 title="PEACH VIDEO OF Under the Hood" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe></div>
+allowfullscreen></iframe></div> -->
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/CGx9LYGTKj8?si=kVrF-PgImNrN1wKg"
+    title="PEACH VIDEO OF Under the Hood"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+  ></iframe>
+</div>
 
 Aaaaah Bitcoin, diese wunderbare Form von Geld, die durch ihre Kernfunktionen gedeiht. Wir alle lieben es, aber wir erkennen auch, dass es Risiken im Bereich der Selbstsouveränität gibt: du teilst deine Seeds und verlierst alles. Du schickst etwas an die falsche Adresse und bekommst es nie zurück.
 
