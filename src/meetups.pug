@@ -16,22 +16,30 @@ block main
       .intro
         != html.intro
 
-      form(method="POST" action="https://5dcdd79e.sibforms.com/serve/MUIEACK8DNtsYekP-whrDbBFB1y3mlblrQm0hnpDEW06e-6_pp5TeB8pA3E-j2U3pw9xZZ5iIdtHjHlzBbjHoKB6D2BBHo2CvW0rFPlP05jJ97khgMEdrM4TqiD69oVkkQaINYSH7zQVIxwbLaLs0vYBcoMOcrQdcHXha_LfF0NDYDG9dtJTyidQHboAEDkOtNNdELB1E1bZqXCp")
+      // Keep the same form wrapper & button styling, but remove all fields.
+      // Submitting will redirect to the external form URL instead of posting.
+      form(
+        onsubmit="window.location.href='https://5dcdd79e.sibforms.com/serve/MUIEACK8DNtsYekP-whrDbBFB1y3mlblrQm0hnpDEW06e-6_pp5TeB8pA3E-j2U3pw9xZZ5iIdtHjHlzBbjHoKB6D2BBHo2CvW0rFPlP05jJ97khgMEdrM4TqiD69oVkkQaINYSH7zQVIxwbLaLs0vYBcoMOcrQdcHXha_LfF0NDYDG9dtJTyidQHboAEDkOtNNdELB1E1bZqXCp'; return false;"
+      )
         h4 !{i18n('meetups.form.title', lang)}
         p !{i18n('meetups.form.description', lang)}
-        div
-          label(for="email") !{i18n('input.email', lang)}
-          input#email(type="text" name="EMAIL" autocomplete="off" placeholder="Your email address" required)
-        div
-          label(for="location") !{i18n('meetups.meetupLocation', lang)}
-          input#location(type="text" name="LOCATION" autocomplete="off" placeholder="Your location" required)
-        div
-          label(for="frequency") !{i18n('meetups.frequency', lang)}
-          input#frequency(type="text" name="FREQUENCY" autocomplete="off" placeholder="E.g. Weekly, Monthly, …" required)
+
+        // Only keep TOS/consent + submit for identical graphics to your theme
+        .check
+          input#optin(
+            type="checkbox"
+            name="OPT_IN"
+            value="1"
+            required
+          )
+          label(for="optin")
+            small
+              | !{i18n('mailing.list.optin', lang)} 
+              | 
+              a(href="/privacyPolicy.html") !{i18n('mailing.list.privacypolicy', lang)}
+              | .
+
         button.button.button--white(type="submit") !{i18n('input.sendEmail', lang)}
-        input(type="hidden" name="email_address_check" value="")
-        input(type="hidden" name="locale" value="en")
-        input(type="hidden" name="html_type" value="simple")
 
     .content-wrap.content-wrap--centered
       != html.map

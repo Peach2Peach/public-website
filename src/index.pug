@@ -208,7 +208,7 @@ block main
     div.top-section-container-header
       h3.top-section-container-header-title.peach-text !{i18n('home.topSection.title', lang)}
       p.top-section-container-header-subtitle !{i18n('home.topSection.subtitle', lang)}
-        span.highlight #{i18n('home.topSection.subtitleHighlight', lang)} 
+        span.highlight #{i18n('home.topSection.subtitleHighlight', lang)} 
     div.top-section-video-container
       video#myVideo(controls loading="lazy" poster="/img/home/video_thumbnail.png")
         source(src="/img/home/peach-video.mp4" type="video/mp4")
@@ -310,23 +310,20 @@ block main
         span.connect-section-card-title !{i18n('home.connect.followYoutube', lang)}
         span.connect-section-card-text !{i18n('home.connect.followYoutubeText', lang)}
 
+  // Newsletter section — same look, but no email field or captcha; clicking Subscribe redirects
   section.wrap.newsletter-section-container
     div.newsletter-section-content
       img.airplane(src="/img/home/Airplane.png" alt="airplane image" loading="lazy")
       div.newsletter
         h3.newsletter-section-title.peach-text !{i18n('home.newsletter.title', lang)}
         span.newsletter-section-text !{i18n('home.newsletter.text', lang)}
-      form.newsletter-form(method="POST" action="https://5dcdd79e.sibforms.com/serve/MUIFAELPRAY8xuUT9U7KzOrbRwCJI853vOpDlWfljcbA-QznRo7YirXQPO7zjV64_M7P7t2LrMj-39l4o4-LbqjXJy4D2yTEeIgkp4f-O8_rTKSHIQ_PsPHP3DUGwN3abVIeMgH_uFDH-z4N8Dr2GXeVaK3EQnHnuGaIl9I4ToKwqF1PIwAoxt0goESfLTUX1wgSdwQIGTJqjV6Z")
-        div
-          input#email(
-            type="email"
-            name="EMAIL"
-            autocomplete="off"
-            placeholder="Email"
-            required
-            pattern="^[a-zA-Z0-9àèìòùáéíóúýâêîôûãñõäëïöüÿçßøåæœÅÄÖÇÆØÀÈÌÒÙÁÉÍÓÚÝÂÊÎÔÛÃÑÕÄËÏÖÜŸÇŒŠŽšžŸ¥µ<>{}\\[\\]()\\/\\\\*$€£+“‘#°&%!_. -]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$"
-            title="insert a valid email address"
-          )
+      // Keep the form wrapper & button styling for identical graphics.
+      // Use onsubmit to redirect and prevent default submission.
+      form.newsletter-form(
+        onsubmit="window.location.href='https://5dcdd79e.sibforms.com/serve/MUIFAELPRAY8xuUT9U7KzOrbRwCJI853vOpDlWfljcbA-QznRo7YirXQPO7zjV64_M7P7t2LrMj-39l4o4-LbqjXJy4D2yTEeIgkp4f-O8_rTKSHIQ_PsPHP3DUGwN3abVIeMgH_uFDH-z4N8Dr2GXeVaK3EQnHnuGaIl9I4ToKwqF1PIwAoxt0goESfLTUX1wgSdwQIGTJqjV6Z'; return false;"
+      )
+        // (Removed the email field entirely)
+
         div.check
           input#optin(
             type="checkbox" 
@@ -336,13 +333,10 @@ block main
           )
           label(for="optin"): small !{i18n('mailing.list.optin', lang)} <a href="/privacyPolicy.html">!{i18n('mailing.list.privacypolicy', lang)}</a>.
 
-        // reCAPTCHA widget (v2 checkbox) — replace YOUR_SITE_KEY
-        .g-recaptcha(data-sitekey="YOUR_SITE_KEY")
+        // (Removed the reCAPTCHA div)
 
         button.button.button--white(type="submit") !{i18n('mailing.list.subscribe.button', lang)}
-        input(type="hidden" name="email_address_check" value="")
-        input(type="hidden" name="locale" value="en")
-        input(type="hidden" name="html_type" value="simple")
+        // (Removed hidden inputs so no params are sent on redirect)
 
   section.testimonial-section#top.wrap
     .content-wrap.content-wrap--centered.wrap.testimonial-section-content
