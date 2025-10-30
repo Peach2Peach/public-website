@@ -114,6 +114,10 @@
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
 
+.language-label .language-text {
+  color: white !important;
+}
+
 /* Optional: style the current language text for consistency */
 .language-text {
   font-weight: 600;
