@@ -86,7 +86,15 @@ html(lang=lang)
             - const langNames = { en: 'English', es: 'Español', de: 'Deutsch', it: 'Italiano', fr: 'Français', pt: 'Português' }
             label(for="language-toggle" class="language-label")
               span.language-text= langNames[lang] || (lang ? lang.toUpperCase() : 'English')
-              img(src=assetPath("/img/dropdown_icon.svg") style="width:1rem;" alt="Dropdown icon")
+              svg(
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                width="16"
+                height="16"
+                fill="white"
+                style="margin-left: .25rem;"
+              )
+                path(d="M7 10l5 5 5-5z")
             ul.language-dropdown
               li: a(href="/") 
                 span English
@@ -404,7 +412,7 @@ html(lang=lang)
             textNode = document.createElement('span');
             textNode.className = 'language-text';
             // insert before the dropdown chevron if present
-            const chevron = Array.from(label.querySelectorAll('img')).find(img => /dropdown_icon\.svg(\?.*)?$/i.test(img.getAttribute('src') || ''));
+            // const chevron = Array.from(label.querySelectorAll('img')).find(img => /dropdown_icon\.svg(\?.*)?$/i.test(img.getAttribute('src') || ''));
             label.insertBefore(textNode, chevron || null);
           }
 
@@ -412,13 +420,13 @@ html(lang=lang)
           textNode.textContent = languageMap[currentLang] || currentLang.toUpperCase();
 
           // Remove any flag images inside the label (keep the chevron)
-          Array.from(label.querySelectorAll('img')).forEach(img => {
-            const src = img.getAttribute('src') || '';
-            const isChevron = /dropdown_icon\.svg(\?.*)?$/i.test(src);
-            if (!isChevron) {
-              img.remove();
-            }
-          });
+          //- Array.from(label.querySelectorAll('img')).forEach(img => {
+          //-   const src = img.getAttribute('src') || '';
+          //-   const isChevron = /dropdown_icon\.svg(\?.*)?$/i.test(src);
+          //-   if (!isChevron) {
+          //-     img.remove();
+          //-   }
+          //- });
 
           // Also nuke any pseudo-element flags applied via CSS (belt & suspenders)
           label.style.backgroundImage = 'none';
