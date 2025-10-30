@@ -116,12 +116,15 @@
 
 .language-label .language-text {
   color: white !important;
+  font-size: var(--nav-font-size);
+  font-weight: var(--font-weight-semibold);
+  font-family: var(--font-family, inherit);
+  text-decoration: none;
+  line-height: 1;
 }
 
-/* Optional: style the current language text for consistency */
-.language-text {
-  font-weight: 600;
-  font-family: "Open Sans", sans-serif;
+.language-label img[src*="dropdown_icon.svg"] {
+  filter: brightness(0) invert(1);
 }
 
 .flag-icon {
