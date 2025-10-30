@@ -1,9 +1,9 @@
 <!DOCTYPE html><html lang="de"><head><meta charset="UTF-8"/><meta http-equiv="X-UA-Compatible" content="ie=edge"/><meta http-equiv="X-Frame-Options" content="DENY"/><meta http-equiv="X-XSS-Protection" content="1; mode=block"/><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/><meta name="keywords" content="[&quot;open source&quot;,&quot;Code&quot;]"/><meta name="description" content="Wir sind hier, um die Katze aus dem Sack zu lassen (oder sollten wir sagen Pfirsiche?) – die Peach App macht einen großen Schritt in die Open-Source-Welt.
-"/><meta property="og:locale" content="de"/><meta property="og:site_name"/><meta property="og:title" content="Peach Bitcoin Exchange - Buy and Sell Bitcoin Anonymously and Without KYC"/><meta property="og:description" content="Peach Bitcoin - Buy Bitcoin with gift card, no verification. Exchange peer to peer for anonymous transactions. Learn how to buy and sell Bitcoin privately and without KYC. Manage your Bitcoin securely with our non-KYC platform."/><meta property="og:type" content="website"/><meta property="og:image" content="/img/blog/open-sourcing-our-peach-app/privacy-first.png"/><meta property="og:image:secure_url" content="/img/blog/open-sourcing-our-peach-app/privacy-first.png"/><meta property="og:image:width" content="1296"/><meta property="og:image:height" content="678"/><meta name="twitter:site" content="@peachbitcoin"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Die Peach App als Open Source veröffentlichen · Peach Bitcoin"/><meta name="twitter:description" content="Peach Bitcoin - Buy Bitcoin with gift card, no verification. Exchange peer to peer for anonymous transactions. Learn how to buy and sell Bitcoin privately and  without KYC. Manage your Bitcoin securely with our non-KYC platform."/><meta name="twitter:image" content="/img/blog/open-sourcing-our-peach-app/privacy-first.png"/><meta name="msapplication-TileColor" content="#F56522"/><meta name="theme-color" content="#F56522"/><link rel="preload" as="font" crossorigin="crossorigin" href="/fonts/baloo-2-v16-latin-regular.woff2"/><link rel="preload" as="font" crossorigin="crossorigin" href="/fonts/baloo-2-v16-latin-600.woff2"/><link rel="preload" as="font" crossorigin="crossorigin" href="/fonts/baloo-2-v16-latin-800.woff2"/><link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png"/><link rel="icon" href="/img/favicon/favicon.svg"/><link rel="manifest" href="/site.webmanifest"/><link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#F56522"/><link rel="stylesheet" href="/css/main-8c7d0a0965d37fafcf6e9215d363177f.css"/><title>Die Peach App als Open Source veröffentlichen · Peach Bitcoin</title><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+"/><meta property="og:locale" content="de"/><meta property="og:site_name"/><meta property="og:title" content="Peach Bitcoin Exchange - Buy and Sell Bitcoin Anonymously and Without KYC"/><meta property="og:description" content="Peach Bitcoin - Buy Bitcoin with gift card, no verification. Exchange peer to peer for anonymous transactions. Learn how to buy and sell Bitcoin privately and without KYC. Manage your Bitcoin securely with our non-KYC platform."/><meta property="og:type" content="website"/><meta property="og:image" content="/img/blog/open-sourcing-our-peach-app/privacy-first.png"/><meta property="og:image:secure_url" content="/img/blog/open-sourcing-our-peach-app/privacy-first.png"/><meta property="og:image:width" content="1296"/><meta property="og:image:height" content="678"/><meta name="twitter:site" content="@peachbitcoin"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Die Peach App als Open Source veröffentlichen · Peach Bitcoin"/><meta name="twitter:description" content="Peach Bitcoin - Buy Bitcoin with gift card, no verification. Exchange peer to peer for anonymous transactions. Learn how to buy and sell Bitcoin privately and  without KYC. Manage your Bitcoin securely with our non-KYC platform."/><meta name="twitter:image" content="/img/blog/open-sourcing-our-peach-app/privacy-first.png"/><meta name="msapplication-TileColor" content="#F56522"/><meta name="theme-color" content="#F56522"/><link rel="preload" as="font" crossorigin="crossorigin" href="/fonts/baloo-2-v16-latin-regular.woff2"/><link rel="preload" as="font" crossorigin="crossorigin" href="/fonts/baloo-2-v16-latin-600.woff2"/><link rel="preload" as="font" crossorigin="crossorigin" href="/fonts/baloo-2-v16-latin-800.woff2"/><link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png"/><link rel="icon" href="/img/favicon/favicon.svg"/><link rel="manifest" href="/site.webmanifest"/><link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#F56522"/><link rel="stylesheet" href="/css/main-b3f858619e229dd5f6c79ee84b2440d2.css"/><title>Die Peach App als Open Source veröffentlichen · Peach Bitcoin</title><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KQHJRQKH');</script></head><body id="blog-open-sourcing-our-peach-app"><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQHJRQKH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><header class="header header-container" id="header"><div class="wrap"><a class="logo-link brand" href="/de/"><img class="logo logo" src="/img/peach-bitcoin-145cd6c0079ccacc9c70c892060964d1.svg" alt="Peach Bitcoin"/></a><input id="show-menu" type="checkbox"/><label class="nav-toggle-label" id="nav-toggle" for="show-menu"><svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><path class="line--1" d="M0 70l28-28c2-2 2-2 7-2h64"></path><path class="line--2" d="M0 50h99"></path><path class="line--3" d="M0 30l28 28c2 2 2 2 7 2h64"></path></svg></label><nav class="nav"><a href="/de/how-it-works/">BTC kaufen ohne KYC</a><a href="/de/for-meetups/">BTC mit Bargeld kaufen</a><a href="/de/for-businesses/">BTC verkaufen</a><a href="/de/blog/">Blog</a><a href="/de/support/">Support</a><div class="language-selector"><input class="checkbox" type="checkbox" id="language-toggle"/><label class="language-label" for="language-toggle"><img class="flag-icon" src="/img/en-872bf10f0d1ed191b502494534bb329a.png" alt="UK Flag"/><img src="/img/dropdown_icon-fcd9aa7055472ef4a4e83b593450c048.svg" style="width: 1rem;" alt="Dropdown icon"/></label><ul class="language-dropdown"><li><a href="/"><img class="flag-icon" src="/img/en-872bf10f0d1ed191b502494534bb329a.png" alt="EN Flag"/><span>English</span></a></li><li><a href="/es"><img class="flag-icon" src="/img/es-b17fc8846b93c5446b10cd7824434504.png" alt="ES Flag"/><span>Español</span></a></li><li><a href="/de"><img class="flag-icon" src="/img/de-0da84d0f3850d6e25088debeb3ade32c.png" alt="DE Flag"/><span>Deutsch</span></a></li><li><a href="/it"><img class="flag-icon" src="/img/it-299996a0097e49e1bc4f312e380d3faa.png" alt="IT Flag"/><span>Italiano</span></a></li><li><a href="/fr"><img class="flag-icon" src="/img/fr-75a63faa5728ac4175214da6cd3c47f1.png" alt="FR Flag"/><span>Français</span></a></li><li><a href="/el"><img class="flag-icon" src="/img/el-27d234921e954ed945c93bef880a07b6.png" alt="GR Flag"/><span>Ελληνικά</span></a></li><li><a href="/hu"><img class="flag-icon" src="/img/hu-fc4c517f481932d60d59b56a8f0c322d.png" alt="HU Flag"/><span>Magyar</span></a></li><li><a href="/nl"><img class="flag-icon" src="/img/nl-83a65573b2d26cdce16cab98f8c38db1.png" alt="NL Flag"/><span>Nederlands</span></a></li><li><a href="/pl"><img class="flag-icon" src="/img/pl-f7c03eb5351f5b2e33c9b29f1e200e38.png" alt="PL Flag"/><span>Polski</span></a></li><li><a href="/pt"><img class="flag-icon" src="/img/pt-997fb3879120a45e1ba507a9e060a662.png" alt="PT Flag"/><span>Português</span></a></li><li><a href="/sw"><img class="flag-icon" src="/img/sw-cdf6e2b06778f5ac662fb25f3ca8eac0.png" alt="SW Flag"/><span>Kiswahili</span></a></li><li><a href="/uk"><img class="flag-icon" src="/img/ua-f7a81ef67d0931a29f7e358bb99ef521.png" alt="UA Flag"/><span>Українська</span></a></li></ul></div></nav></div></header><main class="main" id="main"><div id="header-anchor"></div><section class="wrap"><div class="content-wrap post"><h1 id="die-peach-app-als-open-source-veroeffentlichen">Die Peach App als Open Source veröffentlichen</h1>
+})(window,document,'script','dataLayer','GTM-KQHJRQKH');</script></head><body id="blog-open-sourcing-our-peach-app"><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQHJRQKH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><header class="header header-container" id="header"><div class="wrap"><a class="logo-link brand" href="/de/"><img class="logo logo" src="/img/peach-bitcoin-145cd6c0079ccacc9c70c892060964d1.svg" alt="Peach Bitcoin"/></a><input id="show-menu" type="checkbox"/><label class="nav-toggle-label" id="nav-toggle" for="show-menu"><svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><path class="line--1" d="M0 70l28-28c2-2 2-2 7-2h64"></path><path class="line--2" d="M0 50h99"></path><path class="line--3" d="M0 30l28 28c2 2 2 2 7 2h64"></path></svg></label><nav class="nav"><a href="/de/how-it-works/">BTC kaufen ohne KYC</a><a href="/de/for-meetups/">BTC mit Bargeld kaufen</a><a href="/de/for-businesses/">BTC verkaufen</a><a href="/de/blog/">Blog</a><a href="/de/support/">Support</a><div class="language-selector"><input class="checkbox" type="checkbox" id="language-toggle"/><label class="language-label" for="language-toggle"><span class="language-text">Deutsch</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" fill="white" style="margin-left: .25rem;"><path d="M7 10l5 5 5-5z"></path></svg></label><ul class="language-dropdown"><li><a href="/"> <span>English</span></a></li><li><a href="/es"> <span>Español</span></a></li><li><a href="/de"> <span>Deutsch</span></a></li><li><a href="/it"> <span>Italiano</span></a></li><li><a href="/fr"> <span>Français</span></a></li><li><a href="/pt"> <span>Português</span></a></li></ul></div></nav></div></header><main class="main" id="main"><div id="header-anchor"></div><section class="wrap"><div class="content-wrap post"><h1 id="die-peach-app-als-open-source-veroeffentlichen">Die Peach App als Open Source veröffentlichen</h1>
 <p>Hallo,</p>
 <p>Heute ist ein Tag, der uns alle Arten von Aufregung bringt! Wir sind hier, um die Katze aus dem Sack zu lassen (oder sollten wir sagen Pfirsiche?) – die Peach App macht einen großen Schritt in die Open-Source-Welt. Es war eine Reise, und wir haben dieses Geheimnis gehalten wie eine Überraschungsparty, die man kaum erwarten kann, zu werfen.</p>
 <p>Vielleicht fragt ihr euch, warum die Wartezeit? Nun, denkt daran so: genau wie ein Kuchen Zeit braucht, um zur Perfektion zu backen, wollten wir sicherstellen, dass die Peach App bereit ist zu glänzen, bevor wir sie in die wilde Welt von Open Source entlassen.</p>
@@ -200,42 +200,61 @@ Also, auf dieses neue Abenteuer! Die Peach App macht ihre ersten Schritte in die
   });
 } else {
   console.log('Service Worker non supportato in questo browser.');
-}</script><script>window.onload = function() {
-  setTimeout(function() {
-    const languageLabel = document.querySelector('.language-label img');
+}
+</script><script>document.addEventListener('DOMContentLoaded', function () {
+  // Map of language codes to display names
+  const languageMap = {
+    en: 'English',
+    es: 'Español',
+    de: 'Deutsch',
+    it: 'Italiano',
+    fr: 'Français',
+    el: 'Ελληνικά',
+    hu: 'Magyar',
+    nl: 'Nederlands',
+    pl: 'Polski',
+    pt: 'Português',
+    sw: 'Kiswahili',
+    uk: 'Українська'
+  };
 
-    const languageMap = {
-      'en': { text: 'English', flag: '/img/en-872bf10f0d1ed191b502494534bb329a.png' },
-      'es': { text: 'Español', flag: '/img/es-b17fc8846b93c5446b10cd7824434504.png' },
-      'de': { text: 'Deutsch', flag: '/img/de-0da84d0f3850d6e25088debeb3ade32c.png' },
-      'it': { text: 'Italiano', flag: '/img/it-299996a0097e49e1bc4f312e380d3faa.png' },
-      'fr': { text: 'Français', flag: '/img/fr-75a63faa5728ac4175214da6cd3c47f1.png' },
-      'el': { text: 'Ελληνικά', flag: '/img/el-27d234921e954ed945c93bef880a07b6.png' },
-      'hu': { text: 'Magyar', flag: '/img/hu-fc4c517f481932d60d59b56a8f0c322d.png' },
-      'nl': { text: 'Nederlands', flag: '/img/nl-83a65573b2d26cdce16cab98f8c38db1.png' },
-      'pl': { text: 'Polski', flag: '/img/pl-f7c03eb5351f5b2e33c9b29f1e200e38.png' },
-      'pt': { text: 'Português', flag: '/img/pt-997fb3879120a45e1ba507a9e060a662.png' },
-      'sw': { text: 'Kiswahili', flag: '/img/sw-cdf6e2b06778f5ac662fb25f3ca8eac0.png' },
-      'uk': { text: 'Українська', flag: '/img/ua-f7a81ef67d0931a29f7e358bb99ef521.png' }
-    };
+  // Detect current lang from path
+  const path = window.location.pathname.replace(/\/+$/, ''); // trim trailing slash
+  let currentLang = 'en';
+  for (const code in languageMap) {
+    if (path === '/' && code === 'en') { currentLang = 'en'; break; }
+    if (path === `/${code}` || path.startsWith(`/${code}/`)) { currentLang = code; break; }
+  }
 
-    const currentPath = window.location.pathname;
-    let currentLang = 'en';
+  const label = document.querySelector('.language-label');
+  if (!label) return;
 
-    // Determinare la lingua corrente dal percorso
-    for (const lang in languageMap) {
-      if (currentPath.includes('/' + lang)) {
-        currentLang = lang;
-        break;
-      }
-    }
+  // Ensure there is a span.language-text, create it if missing
+  let textNode = label.querySelector('.language-text');
+  if (!textNode) {
+    textNode = document.createElement('span');
+    textNode.className = 'language-text';
+    // insert before the dropdown chevron if present
+    // const chevron = Array.from(label.querySelectorAll('img')).find(img => /dropdown_icon\.svg(\?.*)?$/i.test(img.getAttribute('src') || ''));
+    label.insertBefore(textNode, chevron || null);
+  }
 
-    // Aggiorna la bandiera e il testo dinamicamente
-    if (languageLabel && languageMap[currentLang]) {
-      languageLabel.src = languageMap[currentLang].flag;
-    }
-  }); // Ritardo per garantire che la pagina sia completamente caricata
-};
+  // Set the text
+  textNode.textContent = languageMap[currentLang] || currentLang.toUpperCase();
+
+  // Remove any flag images inside the label (keep the chevron)
+  //- Array.from(label.querySelectorAll('img')).forEach(img => {
+  //-   const src = img.getAttribute('src') || '';
+  //-   const isChevron = /dropdown_icon\.svg(\?.*)?$/i.test(src);
+  //-   if (!isChevron) {
+  //-     img.remove();
+  //-   }
+  //- });
+
+  // Also nuke any pseudo-element flags applied via CSS (belt & suspenders)
+  label.style.backgroundImage = 'none';
+});
+
 </script><script>window.__ow = window.__ow || {};
 window.__ow.organizationId = "8b099b27-4836-4896-9087-a7ed505dec79";
 window.__ow.template_id = "b97be07a-7dcf-48af-8d69-a9dfae5dfc29";
