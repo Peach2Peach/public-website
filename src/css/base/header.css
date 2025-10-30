@@ -81,18 +81,43 @@
 }
 
 .language-label {
-  display: flex;
+  display: inline-flex; /* was flex; keep inline to size by content */
   align-items: center;
   justify-content: space-between;
+  gap: .4rem;           /* replaces spacing that flag used to provide */
   cursor: pointer;
   padding: .5rem;
   border-radius: 12px;
   transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  line-height: 1;
+  /* Ensure no background flag sprite ever shows up here */
+  background: none !important;
+  background-image: none !important;
+}
+
+/* Prevent any pseudo-element flags from appearing on the label */
+.language-label::before,
+.language-label::after {
+  content: none !important;
+  background: none !important;
+  background-image: none !important;
+}
+
+/* If any <img> flag gets injected into the label, hide it but keep chevron.
+   This targets only elements explicitly marked as a flag icon. */
+.language-label .flag-icon {
+  display: none !important;
 }
 
 .language-label:hover {
   background-color: #FFCCB3;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Optional: style the current language text for consistency */
+.language-text {
+  font-weight: 600;
+  font-family: "Open Sans", sans-serif;
 }
 
 .flag-icon {

@@ -80,48 +80,27 @@ html(lang=lang)
           +navItem("for-businesses", i18n("forBusinesses", lang))
           +navItem("blog", i18n("blog", lang))
           +navItem("support", i18n("support", lang))
+
           div.language-selector
             input(type="checkbox" id="language-toggle" class="checkbox")
+            - const langNames = { en: 'English', es: 'Español', de: 'Deutsch', it: 'Italiano', fr: 'Français', pt: 'Português' }
             label(for="language-toggle" class="language-label")
-              img(src=assetPath("/img/en.png") alt="UK Flag" class="flag-icon")
-              img(src=assetPath("/img/dropdown_icon.svg") style="width: 1rem;" alt="Dropdown icon")
+              span.language-text= langNames[lang] || (lang ? lang.toUpperCase() : 'English')
+              img(src=assetPath("/img/dropdown_icon.svg") style="width:1rem;" alt="Dropdown icon")
             ul.language-dropdown
-              li: a(href="/")
-                img(src=assetPath("/img/en.png") alt = "EN Flag" class="flag-icon")
+              li: a(href="/") 
                 span English
-              li: a(href="/es")
-                img(src=assetPath("/img/es.png") alt="ES Flag" class="flag-icon")
+              li: a(href="/es") 
                 span Español
-              li: a(href="/de")
-                img(src=assetPath("/img/de.png") alt="DE Flag" class="flag-icon")
+              li: a(href="/de") 
                 span Deutsch
-              li: a(href="/it")
-                img(src=assetPath("/img/it.png") alt="IT Flag" class="flag-icon")
+              li: a(href="/it") 
                 span Italiano
-              li: a(href="/fr")
-                img(src=assetPath("/img/fr.png") alt="FR Flag" class="flag-icon")
+              li: a(href="/fr") 
                 span Français
-              li: a(href="/el")
-                img(src=assetPath("/img/el.png") alt="GR Flag" class="flag-icon")
-                span Ελληνικά
-              li: a(href="/hu")
-                img(src=assetPath("/img/hu.png") alt="HU Flag" class="flag-icon")
-                span Magyar
-              li: a(href="/nl")
-                img(src=assetPath("/img/nl.png") alt="NL Flag" class="flag-icon")
-                span Nederlands
-              li: a(href="/pl")
-                img(src=assetPath("/img/pl.png") alt="PL Flag" class="flag-icon")
-                span Polski
-              li: a(href="/pt")
-                img(src=assetPath("/img/pt.png") alt="PT Flag" class="flag-icon")
+              li: a(href="/pt") 
                 span Português
-              li: a(href="/sw")
-                img(src=assetPath("/img/sw.png") alt="SW Flag" class="flag-icon")
-                span Kiswahili
-              li: a(href="/uk")
-                img(src=assetPath("/img/ua.png") alt="UA Flag" class="flag-icon")
-                span Українська
+
     if hasTeaser
       block teaser
     main#main.main
@@ -388,44 +367,63 @@ html(lang=lang)
         } else {
           console.log('Service Worker non supportato in questo browser.');
         }
+
     block append scripts
       script.
-        window.onload = function() {
-          setTimeout(function() {
-            const languageLabel = document.querySelector('.language-label img');
+        document.addEventListener('DOMContentLoaded', function () {
+          // Map of language codes to display names
+          const languageMap = {
+            en: 'English',
+            es: 'Español',
+            de: 'Deutsch',
+            it: 'Italiano',
+            fr: 'Français',
+            el: 'Ελληνικά',
+            hu: 'Magyar',
+            nl: 'Nederlands',
+            pl: 'Polski',
+            pt: 'Português',
+            sw: 'Kiswahili',
+            uk: 'Українська'
+          };
 
-            const languageMap = {
-              'en': { text: 'English', flag: '#{assetPath("/img/en.png")}' },
-              'es': { text: 'Español', flag: '#{assetPath("/img/es.png")}' },
-              'de': { text: 'Deutsch', flag: '#{assetPath("/img/de.png")}' },
-              'it': { text: 'Italiano', flag: '#{assetPath("/img/it.png")}' },
-              'fr': { text: 'Français', flag: '#{assetPath("/img/fr.png")}' },
-              'el': { text: 'Ελληνικά', flag: '#{assetPath("/img/el.png")}' },
-              'hu': { text: 'Magyar', flag: '#{assetPath("/img/hu.png")}' },
-              'nl': { text: 'Nederlands', flag: '#{assetPath("/img/nl.png")}' },
-              'pl': { text: 'Polski', flag: '#{assetPath("/img/pl.png")}' },
-              'pt': { text: 'Português', flag: '#{assetPath("/img/pt.png")}' },
-              'sw': { text: 'Kiswahili', flag: '#{assetPath("/img/sw.png")}' },
-              'uk': { text: 'Українська', flag: '#{assetPath("/img/ua.png")}' }
-            };
+          // Detect current lang from path
+          const path = window.location.pathname.replace(/\/+$/, ''); // trim trailing slash
+          let currentLang = 'en';
+          for (const code in languageMap) {
+            if (path === '/' && code === 'en') { currentLang = 'en'; break; }
+            if (path === `/${code}` || path.startsWith(`/${code}/`)) { currentLang = code; break; }
+          }
 
-            const currentPath = window.location.pathname;
-            let currentLang = 'en';
+          const label = document.querySelector('.language-label');
+          if (!label) return;
 
-            // Determinare la lingua corrente dal percorso
-            for (const lang in languageMap) {
-              if (currentPath.includes('/' + lang)) {
-                currentLang = lang;
-                break;
-              }
+          // Ensure there is a span.language-text, create it if missing
+          let textNode = label.querySelector('.language-text');
+          if (!textNode) {
+            textNode = document.createElement('span');
+            textNode.className = 'language-text';
+            // insert before the dropdown chevron if present
+            const chevron = Array.from(label.querySelectorAll('img')).find(img => /dropdown_icon\.svg(\?.*)?$/i.test(img.getAttribute('src') || ''));
+            label.insertBefore(textNode, chevron || null);
+          }
+
+          // Set the text
+          textNode.textContent = languageMap[currentLang] || currentLang.toUpperCase();
+
+          // Remove any flag images inside the label (keep the chevron)
+          Array.from(label.querySelectorAll('img')).forEach(img => {
+            const src = img.getAttribute('src') || '';
+            const isChevron = /dropdown_icon\.svg(\?.*)?$/i.test(src);
+            if (!isChevron) {
+              img.remove();
             }
+          });
 
-            // Aggiorna la bandiera e il testo dinamicamente
-            if (languageLabel && languageMap[currentLang]) {
-              languageLabel.src = languageMap[currentLang].flag;
-            }
-          }); // Ritardo per garantire che la pagina sia completamente caricata
-        };
+          // Also nuke any pseudo-element flags applied via CSS (belt & suspenders)
+          label.style.backgroundImage = 'none';
+        });
+
 
     block append scripts
       script.

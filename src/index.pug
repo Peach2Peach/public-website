@@ -113,7 +113,7 @@ block teaser
   script.
     document.addEventListener('DOMContentLoaded', function() {
       let userLocale = navigator.language || navigator.userLanguage;
-      const supportedLocales = ['es', 'de', 'it', 'fr', 'el', 'hu', 'nl', 'pl', 'pt', 'sw', 'uk',];
+      const supportedLocales = ['es', 'de', 'it', 'fr', 'pt'];
       let pathLocale = userLocale.split('-')[0];
 
       let currentPath = window.location.pathname;
