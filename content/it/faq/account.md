@@ -2,7 +2,7 @@
 
 :::details Cos'è un account Peach?
 
-Un account Peach non è come un normale account che si avrebbe con altri servizi, come un indirizzo email e una password. Il tuo account Peach è un file che risiede sul tuo telefono, il che significa che non abbiamo bisogno di archiviare i tuoi dati né di sapere chi sei: sei tu a detenere il controllo. Questo file contiene tutti i tuoi dati, dalle chiavi del wallet Bitcoin ai dettagli di pagamento.
+Il tuo account Peach è un file che risiede sul tuo telefono, il che significa che non abbiamo bisogno di archiviare i tuoi dati né di sapere chi sei: sei tu a detenere il controllo. Questo file contiene tutti i tuoi dati, dalle chiavi del wallet Bitcoin ai dettagli di pagamento.
 
 Ciò significa più privacy per te, ma comporta anche una maggiore responsabilità. Dovrai eseguire il backup di questo file, perché in caso contrario, perdere il tuo telefono significherà non avere più accesso al tuo account Peach o ai fondi nel tuo wallet Peach.
 
