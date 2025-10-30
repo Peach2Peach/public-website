@@ -123,10 +123,6 @@
   line-height: 1;
 }
 
-.language-label img[src*="dropdown_icon.svg"] {
-  filter: brightness(0) invert(1);
-}
-
 .flag-icon {
   min-width: 24px;
   width: 24px;
