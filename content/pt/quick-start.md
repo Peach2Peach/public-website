@@ -2,125 +2,211 @@
 
 @[toc]
 
-## Introdução: Por que Peach?
+## Introdução: Por que Peach e por que peer-to-peer?
 
-Em uma bolsa normal, você compra Bitcoin diretamente deles. Isso geralmente torna as coisas bastante fáceis, mas você precisa fazer o upload de seus documentos de identidade, o que pode ser vazado se a bolsa for hackeada, e geralmente é ruim para a privacidade.
+Nas exchanges “normais” centralizadas você compra bitcoin diretamente da empresa. Isso geralmente é fácil, mas você precisa enviar seus documentos de identidade, que podem vazar se a exchange for hackeada – o que é ruim para sua privacidade. A empresa também se torna um “honeypot”… guardando todos os seus documentos, sabendo quanto você comprou/vendeu… e você precisa confiar que eles nunca vão te denunciar a alguma “autoridade”. Além disso: em exchanges centralizadas **você não é dono do seu bitcoin**, você apenas tem uma conta na empresa. Talvez você saiba que o ouro foi confiscado em massa pela [Ordem Executiva 6102](https://river.com/learn/terms/e/executive-order-6102/) – e você não quer que isso aconteça com os seus bitcoins.  
 
-Por outro lado, existem bolsas peer-to-peer. Aqui você pode comprar de outras pessoas, o que é melhor para sua privacidade de várias maneiras. Mas, elas podem ser bastante complicadas de usar... até agora!
+Do outro lado das exchanges centralizadas, **existem as exchanges peer-to-peer**. Aqui você pode comprar e vender diretamente de/para outras pessoas, o que é muito melhor para sua privacidade. Mas essas plataformas podem ser complicadas de usar… **até agora!**
 
-Peach é **fácil** de usar, é mais **privada**, tem **mais métodos de pagamento** e você está comprando Bitcoin **real**, não alguma nota de câmbio que eles podem ou não pagar. Veja como funciona:
+Peach é muito **acessível**, fácil de usar… **até para sua avó**, é mais **privado**, tem **mais métodos de pagamento** e você compra **bitcoin de verdade diretamente para uma carteira que VOCÊ controla**, não uma nota da exchange que talvez nunca paguem. Veja como funciona:
 
-## Guia 1: Configurando o aplicativo
+## Guia 1: Configurando o app
 
-Depois de instalar o aplicativo (pela [App Store]($iosUrl$), [Play Store]($androidUrl$) ou [download do APK](/pt/apk/)), você já está praticamente pronto.
-A única coisa que você precisa agora é um código de referência - se você tiver um.
+Depois de instalar o aplicativo ([App Store]($iosUrl$), [Play Store]($androidUrl$) ou [Download APK](/apk/)) ou pela [Zap Store](https://zapstore.dev/), você já está praticamente pronto.  
+A única coisa necessária neste momento é um código de referência – se você tiver um.
 
-:::figures 4
-![Primeiro, você será perguntado se deseja compartilhar alguns dados conosco](/img/faq/quickstart/onboarding/usage-data.png)
+:::quickstarts 7
+![](/img/faq/quickstart/onboarding/created.png)
+Você verá uma rápida explicação em três passos de como o Peach funciona.
 
-![Em seguida, você encontrará um explicador rápido de três etapas sobre como o Peach funciona](/img/faq/quickstart/onboarding/1.png)
+![](/img/faq/quickstart/onboarding/1.png)
+Será perguntado se você deseja compartilhar alguns dados conosco
 
-![Depois disso, você será perguntado se tem um código de referência. Se não tiver - não se preocupe 😉](/img/faq/quickstart/onboarding/new.png)
+![](/img/faq/quickstart/onboarding/new.png)
+Depois, será perguntado se você tem um código de referência. Se não tiver – não tem problema
 
-![Isso é tudo! Você está pronto para começar!](/img/faq/quickstart/onboarding/created.png)
+![](/img/faq/quickstart/onboarding/usage-data.png)
+Pronto! Você já pode começar!
 :::
 
-Este processo rápido de configuração significa que **você ainda não fez backup**. Você será solicitado a [criar um backup e uma senha](/pt/faq/account/#how-should-i-store-my-backup) depois de concluir sua primeira negociação.
+Esse processo rápido significa que **você ainda não tem backup**. Após sua primeira negociação será solicitado que [crie um backup e uma senha](/faq/account/#how-should-i-store-my-backup).
 
-## Guia 2: Sua primeira oferta de compra
+## Guia 2: Comprar Bitcoin de ofertas de venda existentes
 
-Colocar sua primeira oferta de compra pode ser feito em apenas alguns segundos. Você só precisa nos dizer quanto deseja comprar e como deseja pagar ao vendedor.
+Passo a passo da sua primeira compra a partir de ofertas existentes:
 
-Aqui está o passo a passo de sua primeira oferta de compra:
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Toque no botão verde «Comprar» para ver as ofertas disponíveis
 
-:::figures 5
-![Você primeiro selecionará quanto deseja comprar. Isso é sempre uma faixa e você verá todas as ofertas de venda disponíveis nessa faixa](/img/faq/quickstart/buy/BuyStep1.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/02-browse.png)
+Navegue pelas ofertas de venda
 
-![Em seguida, você precisará nos dizer como deseja pagar. Se quiser saber mais sobre os métodos de pagamento, você pode [ler este guia](#guia-4-adicionar-métodos-de-pagamento). No final, você pode voltar aqui](/img/faq/quickstart/buy/BuyStep2.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/03-filter.png)
+Você pode filtrar por moeda e método de pagamento
 
-![Observe que você pode selecionar quantos métodos de pagamento desejar para aumentar suas chances de encontrar uma correspondência](/img/faq/quickstart/buy/BuyStep3.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/04-request-trade.png)
+Escolha uma oferta e solicite a negociação com «Solicitar trade». Pode combinar várias. Verifique a **reputação e histórico** do usuário tocando no ID dele.
 
-![Depois disso, você verá um resumo rápido, onde poderá verificar todos os métodos de pagamento que selecionou e quanto está comprando](/img/faq/quickstart/buy/BuyStep4.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/04a-chat.png)
+NOVIDADE: agora você pode conversar com a contraparte antes da aceitação para garantir que estão de acordo. Toque em «chat» para abrir
 
-![Sua oferta de compra agora está publicada! Se houver ofertas de venda disponíveis, elas serão mostradas imediatamente. Caso contrário, você precisará esperar um pouco](/img/faq/quickstart/buy/BuyStep5.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/04b-notification.png)
+Você recebe uma notificação push quando o vendedor aceita seu pedido!
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/05-confirm-payment.png)
+Envie o pagamento do seu banco/carteira online e **SOMENTE DEPOIS DE PAGAR**, deslize «Eu paguei». DICA: quanto mais rápido você pagar, melhor será sua reputação. 
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/06-wait-payout.png)
+Espere o vendedor confirmar o recebimento. Então o escrow é liberado! Pagamentos são processados a cada 24h se você ativou «Agrupamento de transações». Você pode desativar e receber sats na hora em Configurações > Agrupamento. 
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/07-rate.png)
+Agora você pode avaliar o vendedor
 :::
 
-### Encontrar um vendedor
+## Guia 3: Criar sua própria OFERTA DE COMPRA
 
-Após publicar sua oferta de compra, todas as ofertas de venda que se encaixam na faixa selecionada e que tenham pelo menos um método de pagamento em comum serão exibidas:
+Criar sua primeira oferta de compra leva apenas alguns segundos. Defina: quanto deseja comprar, quais moedas e métodos aceita, o preço e sua carteira de recebimento. 
 
-![Cartão de correspondência](/img/faq/quickstart/buy/MatchCardExplainer.png)
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Toque em «Criar oferta de compra»
 
-:::figures 2
-![Quando você selecionar a moeda e o método de pagamento que deseja usar para esta negociação (se tiver mais de um em comum), você pode corresponder à oferta](/img/faq/quickstart/buy/BuyStep6.png)
+![](/img/faq/quickstart/069-screenshots/buy-offer/01-create-offer.png)
+Adicione um método de pagamento (veja Guia 6) e configure suas preferências
 
-![Você terá cinco segundos para desfazer se mudar de ideia. Depois disso, o vendedor será notificado da correspondência e desfazer agora é considerado uma ação antiética (sua Pontuação Peach será prejudicada)](/img/faq/quickstart/buy/BuyStep7.png)
+![](/img/faq/quickstart/069-screenshots/buy-offer/01a-published.png)
+Sua oferta é publicada no mercado P2P da Peach e vendedores podem vê-la! Você será notificado quando alguém quiser aceitar  
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/04-confirm-trade-request.png)
+Quando um vendedor enviar uma solicitação, você pode confirmar e entrar em contrato. NOVIDADE: recuse se não gostar dos termos ou reputação. NOVIDADE: converse com a contraparte antes.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/05-wait-escrow.png)
+Espere o vendedor depositar os sats no **escrow multisig 2-2** entre ele e a Peach. Ele tem 12h para isso. 
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/06-confirm-payment.png)
+Quando a transação for confirmada, você verá os dados do pagamento. Envie e **SOMENTE ENTÃO** deslize «Eu paguei». DICA: pagar rápido melhora sua reputação. 
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/07-wait-payout.png)
+Espere o vendedor confirmar. Então o escrow é liberado! Pagamentos a cada 24h com agrupamento. Você pode desativar para receber sats imediatamente. 
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/07-rate.png)
+Avalie o vendedor
 :::
 
-### Fazendo a negociação
+## Guia 4: Vender Bitcoin para ofertas de compra existentes
 
-:::figures 2
-![Se o vendedor corresponder de volta, você será notificado e verá os detalhes de pagamento deles. Você deve ir ao seu aplicativo de pagamento e fazer o pagamento manualmente lá. Depois disso, você confirma que fez com o controle deslizante na parte inferior e aguarda a resposta do vendedor (você pode bater-papo enquanto isso)](/img/faq/quickstart/buy/BuyStep8.png)
+Passo a passo da sua primeira venda:
 
-![Depois que o vendedor confirmar, o acordo estará feito! A quantidade de Bitcoin será enviada para sua carteira e vocês podem se dar uma classificação (assumindo que tudo correu bem, é claro)](/img/faq/quickstart/buy/BuyStep9.png)
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Toque no botão laranja «Vender» para combinar com uma oferta de compra
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/01-browse-offers.png)
+Veja as ofertas de compra
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/02-filter-offers.png)
+Filtre por moeda e método, verifique a **reputação e histórico**
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/03-request-trade.png)
+Solicite a negociação e espere o comprador aceitar
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/04-chat-trade.png)
+NOVIDADE: converse com a contraparte antes, ou apenas aguarde a aceitação
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/04a-notification.png)
+Notificação push quando o comprador aceita
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/05-create-escrow.png)
+Você precisa depositar os sats em um escrow multisig 2-2 entre você e a Peach
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/06-create-escrow.png)
+Deposite da sua **Peach Wallet** ou de uma **externa**
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/06a-funded.png)
+Após a confirmação, o comprador vê os dados e tem 12h para pagar
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/07-confirm-payment.png)
+**CONFIRME SOMENTE QUANDO** o pagamento cair na sua conta. **ATENÇÃO: confirmar libera os sats para o comprador e é irreversível.** 
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/08-rate-user.png)
+Avalie o comprador
 :::
 
-## Guia 3: Sua primeira oferta de venda
+## Guia 5: Criar sua própria OFERTA DE VENDA
 
-Colocar sua primeira oferta de venda pode ser feito em apenas alguns minutos. Você só precisa nos dizer quanto deseja vender e como deseja que seu comprador lhe pague.
+Criar uma oferta de venda também é rápido. Defina: quanto vender, moedas e métodos aceitos, preço e carteira de reembolso em caso de cancelamento. 
 
-Aqui está o passo a passo de sua primeira oferta de venda:
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Toque em «Criar oferta de venda»
 
-### Criando uma oferta de venda
+![](/img/faq/quickstart/069-screenshots/sell-offer/02-set-offer-details.png)
+Adicione os dados de pagamento (veja Guia 6) e configure os detalhes
 
-:::figures 7
-![Primeiro, você selecionará quanto deseja vender. Você pode selecionar qualquer valor, mas há um máximo para evitar que sua oferta ultrapasse o limite diário e fique indisponível](/img/faq/quickstart/sell/SellStep01.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/03-fund-from-peach.png)
+Financie o escrow 2-2 a partir da sua Peach Wallet
 
-![Em seguida, você selecionará se deseja oferecer ao comprador um desconto ou pedir um pouco mais do que o preço de mercado](/img/faq/quickstart/sell/SellStep02.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/04-fund-from-external.png)
+Ou deposite de uma carteira externa para o endereço fornecido
 
-![Em seguida, você precisará nos dizer como deseja ser pago. No final, você pode voltar aqui](/img/faq/quickstart/sell/SellStep03.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/05-confirm-escrow-tx.png)
+Aguarde a confirmação da transação
 
-![Observe que você pode selecionar quantos métodos de pagamento desejar para aumentar suas chances de encontrar uma correspondência](/img/faq/quickstart/sell/SellStep04.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/06-offer-published.png)
+Depois disso, sua oferta é publicada
 
-![Depois disso, você verá um resumo rápido, onde poderá verificar todos os métodos de pagamento que selecionou e quanto está vendendo](/img/faq/quickstart/sell/SellStep05.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/07-accept-trade-request.png)
+Quando um comprador combinar, aceite a solicitação
 
-![A última etapa antes de sua oferta de venda ser publicada é financiar o depósito para garantir a negociação. Você enviará o Bitcoin para este endereço da carteira onde ele está agora](/img/faq/quickstart/sell/SellStep06.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/08-accept-trade-request.png)
+Confirme e entre no contrato. NOVIDADE: recuse se necessário. NOVIDADE: converse antes.
 
-![E é isso! Após a rede Bitcoin confirmar a transação, sua oferta de venda será publicada e aguardará uma correspondência](/img/faq/quickstart/sell/SellStep07.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/09-confirm-received-payment.png)
+**CONFIRME SOMENTE QUANDO** o pagamento cair. **ATENÇÃO: confirmar libera os sats e não pode ser desfeito.**
+
+![](/img/faq/quickstart/069-screenshots/sell-offer/10-rate-user.png)
+Avalie o comprador
 :::
 
-### Correspondendo a um comprador
+## Guia 6: Adicionando métodos de pagamento
 
-Após publicar sua oferta de venda, ela será mostrada a todos os compradores que tenham pelo menos uma moeda e método de pagamento em comum e que queiram comprar a quantidade que você está vendendo. Se alguém corresponder à sua oferta, você receberá uma notificação e poderá corresponder de volta (ou esperar por mais correspondências):
+Ao criar uma oferta, você deve mostrar à contraparte como vai pagar ou como quer receber.
 
-![Cartão de correspondência](/img/faq/quickstart/sell/MatchCardExplainer.png)
+:::quickstarts 7
+![](/img/faq/quickstart/add-payment-method/AddPM01.png)
+Escolha: **remoto** (ex.: transferência, PayPal) ou **presencial** (dinheiro)
 
-### Fazendo a negociação
+![](/img/faq/quickstart/add-payment-method/AddPM02.png)
+Selecione a moeda
 
-:::figures 3
-![Depois de selecionar uma correspondência, a negociação está oficialmente feita. Você verá de onde o comprador fará o pagamento e por quanto. Você também pode conversar com seu comprador se tiver alguma dúvida](/img/faq/quickstart/sell/SellStep08.png)
+![](/img/faq/quickstart/add-payment-method/AddPM03.png)
+Veja as categorias disponíveis. Exemplo: carteira online
 
-![Depois que o comprador fizer o pagamento, você deve verificar a conta de pagamento relevante para ver se o recebeu. Se recebeu, pode confirmá-lo aqui. Após a confirmação do pagamento recebido, o Bitcoin será enviado ao comprador](/img/faq/quickstart/sell/SellStep09.png)
+![](/img/faq/quickstart/add-payment-method/AddPM04.png)
+Escolha qual carteira online adicionar. Exemplo: PayPal
 
-![E é isso! A quantidade de Bitcoin será enviada ao comprador e vocês podem se dar uma classificação (assumindo que tudo correu bem, é claro)](/img/faq/quickstart/sell/SellStep10.png)
+![](/img/faq/quickstart/add-payment-method/AddPM05.png)
+Preencha seus dados. Pode indicar se aceita moedas adicionais
+
+![](/img/faq/quickstart/add-payment-method/AddPM06.png)
+Clique em «Confirmar» e…
 :::
 
-## Guia 4: Adicionando métodos de pagamento
+## Guia 7: Configurando o **instant-trade** ao criar uma oferta
 
-Ao fazer uma oferta de compra ou venda na Peach, você precisará informar à outra parte como deseja pagar ou como deseja receber o pagamento.
+Ao criar uma oferta você pode ativar o **instant-trade**. Isso significa que **não precisa aceitar manualmente** – a contraparte entra direto. Perfeito para velocidade: o comprador tem 1h para pagar (em vez de 12) e o vendedor 1h para depositar (em vez de 12).
 
-:::figures 7
-![Primeiro, você pode escolher entre duas categorias: **remoto** (por exemplo, transferência bancária, PayPal) ou **encontro** (em dinheiro)](/img/faq/quickstart/add-payment-method/AddPM01.png)
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/instant-trade/buy.png)
+Assim você configura em uma oferta de compra
 
-![Em seguida, você selecionará qual moeda deseja usar para este método de pagamento](/img/faq/quickstart/add-payment-method/AddPM02.png)
+![](/img/faq/quickstart/069-screenshots/instant-trade/sell.png)
+Assim você configura em uma oferta de venda
 
-![Em seguida, você verá as categorias de métodos de pagamento disponíveis para essa moeda. Neste exemplo, escolheremos uma carteira online](/img/faq/quickstart/add-payment-method/AddPM03.png)
+![](/img/faq/quickstart/069-screenshots/instant-trade/filter-sell.png)
+Filtre quem pode usar instant-trade: exclua novatos ou reputação < 4.5
 
-![Uma gaveta se abre onde você pode selecionar qual carteira online deseja adicionar. Vamos selecionar o PayPal](/img/faq/quickstart/add-payment-method/AddPM04.png)
-
-![Tudo o que você precisa fazer aqui é preencher seus detalhes. Você também pode indicar se sua carteira pode receber outras moedas adicionais](/img/faq/quickstart/add-payment-method/AddPM05.png)
-
-![Depois de concluído, pressione confirmar e...](/img/faq/quickstart/add-payment-method/AddPM06.png)
-
-![Pronto! Você adicionou seu primeiro método de pagamento. Adicione e selecione quantos quiser para aumentar suas chances de encontrar uma correspondência](/img/faq/quickstart/add-payment-method/AddPM07.png)
+![](/img/faq/quickstart/069-screenshots/instant-trade/book.png)
+Ofertas com instant-trade aparecem no order book!
 :::

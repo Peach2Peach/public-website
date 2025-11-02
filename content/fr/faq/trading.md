@@ -69,10 +69,11 @@ Nous travaillons actuellement sur la prise en charge du xpub, mais pour l'instan
 
 :::details Comment le prix du bitcoin est-il calculé dans l'application ?
 
-Le prix du bitcoin que nous affichons est une agrégation du prix du bitcoin sur plusieurs plateformes d'échange centralisées.
+Le prix du bitcoin que nous affichons est une agrégation du prix du bitcoin sur plusieurs plateformes d'échange centralisées.  
+Pour chaque devise, nous agrégeons différentes sources et nous excluons celle qui diverge de plus de 5% de la moyenne pour éviter les erreurs.
 :::
 
-:::details Comment fonctionne le financement de plusieurs offres?
+:::details Comment fonctionne le financement de plusieurs offres ?
 
-Lorsque vous souhaitez financer plusieurs offres en même temps, l'application fournit une adresse intermédiaire générée à partir de votre Peach Wallet. Une fois que les bitcoins atteignent cette adresse, une nouvelle transaction est générée pour chaque dépôt fiduciaire. Par exemple, si vous souhaitez financer 5 offres de vente, 5 transactions seront envoyées à différentes adresses de dépôt fiduciaire.
+Lorsque vous souhaitez financer plusieurs offres en même temps, l’application fournit une liste d’adresses d’entiercement (une pour chaque offre), où vous pouvez déposer dans une seule transaction avec plusieurs sorties afin d’économiser sur les frais de réseau.
 :::

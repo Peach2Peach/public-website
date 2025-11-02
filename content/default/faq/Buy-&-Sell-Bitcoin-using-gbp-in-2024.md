@@ -1,6 +1,6 @@
 <body class="payment-methods-page">
 
-# Buy & Sell Bitcoin using any payment method 2024 with PeachBitcoin
+# Buy & Sell Bitcoin using any payment method 2025 with PeachBitcoin
 
 PeachBitcoin is the secure, quick, and easy way to buy and sell Bitcoin using any payment method, anywhere in the world. We prioritize your privacy and security, offering a wide range of payment options to suit your needs. Here’s all our payment methods we offer.
 
@@ -49,6 +49,10 @@ PeachBitcoin is the secure, quick, and easy way to buy and sell Bitcoin using an
     <div class="payment-grid-item">
         <p>Wise</p> 
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Buy bitcoin with Wise, Sell bitcoin with Wise">
+    </div>
+    <div class="payment-grid-item">
+        <p>Bankera</p> 
+        <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Buy bitcoin with Bankera, Sell bitcoin with Bankera">
     </div>
 </div>
 

@@ -120,5 +120,10 @@ Wenn du Umbrel verwendest, kannst du stattdessen umbrel.{Portnummer} anstelle de
 Die Peach Wallet unterstützt Coin Control oder das Coin-Management. Das Ziel von Coin Control ist es, deine Münzen getrennt zu halten, wenn du das möchtest, um die Privatsphäre zu verwalten.
 
 Sieh dir unser Video an, das Coin Control im Detail erklärt: [How to do coin control using the Peach Wallet](https://www.youtube.com/watch?v=zWwIekSv3U8)
+:::
 
+:::details Was sind die Datenschutzimplikationen eines Sofortangebots?
+
+Standardmäßig werden Zahlungsdetails zwischen Ihnen und Ihrem Handelspartner Ende-zu-Ende mit PGP verschlüsselt.  
+Im Falle eines Sofortangebots werden die Informationen auch mit Peach geteilt, damit wir sie dem Handelspartner sofort übermitteln können, sobald die Handelsanfrage gesendet wird.
 :::

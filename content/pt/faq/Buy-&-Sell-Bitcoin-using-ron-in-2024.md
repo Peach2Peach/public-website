@@ -1,21 +1,21 @@
 <body class="payment-methods-page">
 
-# Comprar & Vender Bitcoin usando qualquer método de pagamento 2024 com a PeachBitcoin
+# Comprar & Vender Bitcoin com qualquer método de pagamento 2025 com o PeachBitcoin
 
-PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usando qualquer método de pagamento, em qualquer lugar do mundo. Priorizamos a sua privacidade e segurança, oferecendo uma ampla gama de opções de pagamento para atender às suas necessidades. Aqui estão todos os métodos de pagamento que oferecemos para o Leu Romeno (RON).
+O PeachBitcoin é a maneira segura, rápida e fácil de comprar e vender Bitcoin com qualquer método de pagamento, em qualquer lugar do mundo. Priorizamos a sua privacidade e segurança, oferecendo uma ampla gama de opções de pagamento para atender às suas necessidades. Aqui estão todos os nossos métodos de pagamento que oferecemos para Romanian Leu (RON).
 
 ## Métodos de Pagamento RON
 
-### Transferência Bancária
+### Transferência bancária
 
 <div class="payment-grid">
     <div class="payment-grid-item">
-        <p>Transferência Nacional Romênia</p> 
-        <img src="/img/faq/logoimg/romaniaflag.png" width="30px" height="27px" alt="Comprar bitcoin com Transferência Nacional Romênia, Vender bitcoin com Transferência Nacional Romênia">
+        <p>National Transfer Romania</p> 
+        <img src="/img/faq/logoimg/romaniaflag.png" width="30px" height="27px" alt="Comprar bitcoin com National Transfer Romania, Vender bitcoin com National Transfer Romania">
     </div>
 </div>
 
-### Carteiras Online
+### Carteiras online
 
 <div class="payment-grid">
     <div class="payment-grid-item">
@@ -31,13 +31,17 @@ PeachBitcoin é o meio seguro, rápido e fácil de comprar e vender Bitcoin usan
         <img src="/img/faq/logoimg/paysera.png" width="30px" height="27px" alt="Comprar bitcoin com PaySera, Vender bitcoin com PaySera">
     </div>
     <div class="payment-grid-item">
-        <p>Wise</p>
+        <p>Wise</p> 
         <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Comprar bitcoin com Wise, Vender bitcoin com Wise">
     </div>
     <div class="payment-grid-item">
         <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Comprar bitcoin com Skrill, Vender bitcoin com Skrill">
     </div>
+    <div class="payment-grid-item">
+        <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Comprar bitcoin com Western Union, Vender bitcoin com Western Union">
+    </div>S
 </div>
 
 </body>

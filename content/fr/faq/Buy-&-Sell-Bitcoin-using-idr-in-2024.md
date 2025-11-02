@@ -1,0 +1,34 @@
+<body class="payment-methods-page">
+
+# Acheter & Vendre du Bitcoin avec n’importe quelle méthode de paiement 2025 avec PeachBitcoin
+
+PeachBitcoin est la manière sûre, rapide et simple d’acheter et de vendre du Bitcoin avec n’importe quelle méthode de paiement, partout dans le monde. Nous donnons la priorité à ta vie privée et à ta sécurité, en offrant une large gamme d’options de paiement adaptées à tes besoins. Voici toutes nos méthodes de paiement que nous proposons pour Roupie indonésienne (IDR).
+
+## Méthodes de paiement en IDR
+
+### Portefeuilles en ligne
+
+<div class="payment-grid">
+    <div class="payment-grid-item">
+        <p>Dana</p> 
+        <img src="/img/faq/logoimg/dana.png" width="30px" height="27px" alt="Acheter du bitcoin avec Dana, Vendre du bitcoin avec Dana">
+    </div>
+    <div class="payment-grid-item">
+        <p>GoPay</p> 
+        <img src="/img/faq/logoimg/gopay.png" width="30px" height="27px" alt="Acheter du bitcoin avec GoPay, Vendre du bitcoin avec GoPay">
+    </div>
+    <div class="payment-grid-item">
+        <p>OVO</p> 
+        <img src="/img/faq/logoimg/ovo.png" width="30px" height="27px" alt="Acheter du bitcoin avec OVO, Vendre du bitcoin avec OVO">
+    </div>
+    <div class="payment-grid-item">
+        <p>Wise</p> 
+        <img src="/img/faq/logoimg/wise.png" width="30px" height="27px" alt="Acheter du bitcoin avec Wise, Vendre du bitcoin avec Wise">
+    </div>
+    <div class="payment-grid-item">
+        <p>Western Union</p> 
+        <img src="/img/faq/logoimg/westernunion.png" width="30px" height="27px" alt="Acheter du bitcoin avec Western Union, Vendre du bitcoin avec Western Union">
+    </div>
+</div>
+
+</body>

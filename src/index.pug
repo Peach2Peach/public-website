@@ -4,6 +4,36 @@ block append vars
   - const hasTeaser = true
 
 block teaser
+  a.site-banner.wrap(href="#download-buttons" aria-label="Peach v69 – Symmetry Unlocked")
+    picture
+      // If you’ll later add a smaller mobile asset, uncomment and point it here:
+      // source(media="(max-width: 739.99px)" srcset="/img/home/peach-v69-banner-mobile.png")
+      img.site-banner-img(
+        src="/img/home/banner69.png" 
+        alt="Symmetry Unlocked – a two-sided Bitcoin marketplace. Peach v.69"
+        width="1050" height="250"
+        decoding="async" loading="eager"
+      )
+
+  script.
+    document.addEventListener('DOMContentLoaded', function () {
+      try {
+        var params = new URLSearchParams(window.location.search);
+        if (params.get('scroll') === 'download-buttons') {
+          // Remove the param so future navs don't re-trigger
+          if (window.history && window.history.replaceState) {
+            var url = window.location.pathname + window.location.hash;
+            window.history.replaceState({}, '', url);
+          }
+          // Scroll after layout is ready
+          var target = document.getElementById('download-buttons');
+          if (!target) return;
+          // A tiny delay helps if images/fonts shift layout
+          setTimeout(function () { target.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 50);
+        }
+      } catch (e) {}
+    });
+
   div.new-teaser
     .new-teaser-wrap.wrap
       div.new-teaser-content
@@ -44,7 +74,7 @@ block teaser
                 span !{i18n('home.teaser.orderBookTitle', lang)}
               span.new-teaser-price 0
 
-            a.order-book-button(href="/kycfree-orderbook")
+            a.order-book-button(href=getUrl(`/kycfree-orderbook/`, lang))
               img(src="/img/home/show_chart.svg" alt="Show Chart Button")
               span.order-book-button-text !{i18n('home.teaser.viewOrderBook', lang)}
 
@@ -74,7 +104,7 @@ block teaser
             span !{i18n('home.teaser.orderBookTitle', lang)}
           span.new-teaser-price 0
 
-          a.order-book-button(href="/kycfree-orderbook")
+          a.order-book-button(href=getUrl(`/kycfree-orderbook/`, lang))
             img(src="/img/home/show_chart.svg" alt="Show Chart Button")
             span.order-book-button-text !{i18n('home.teaser.viewOrderBook', lang)}
 
@@ -83,7 +113,7 @@ block teaser
   script.
     document.addEventListener('DOMContentLoaded', function() {
       let userLocale = navigator.language || navigator.userLanguage;
-      const supportedLocales = ['es', 'de', 'it', 'fr', 'el', 'hu', 'nl', 'pl', 'pt', 'sw', 'uk',];
+      const supportedLocales = ['es', 'de', 'it', 'fr', 'pt'];
       let pathLocale = userLocale.split('-')[0];
 
       let currentPath = window.location.pathname;
@@ -116,13 +146,13 @@ block main
       span.download-peach-text-subtitle !{i18n('home.downloadPeach.subtitle1', lang)}
       span.download-peach-text-subtitle !{i18n('home.downloadPeach.subtitle2', lang)}
 
-      div.download-peach-button-group
+      div#download-buttons.download-peach-button-group
         div.download-peach-button-group-inner
           a(href="https://testflight.apple.com/join/wfSPFEWG" target="_blank")
             img(src="/img/home/apple-button.svg" alt="Apple Store Button" loading="lazy")
           a(href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet" target="_blank")
             img(src="/img/home/google-play-button.svg" alt="Google Play Store Button" loading="lazy")
-          a(href="https://zapstore.dev/download/" target="_blank")
+          a(href="https://zapstore.dev/" target="_blank")
             img(src="/img/home/zap-button.svg" alt="Zap Store Button" loading="lazy")
         a.primary-button(href=getUrl(`/apk/`, lang))
           img(src="/img/home/android.svg" alt="Android Icon" loading="lazy")
@@ -178,7 +208,7 @@ block main
     div.top-section-container-header
       h3.top-section-container-header-title.peach-text !{i18n('home.topSection.title', lang)}
       p.top-section-container-header-subtitle !{i18n('home.topSection.subtitle', lang)}
-        span.highlight #{i18n('home.topSection.subtitleHighlight', lang)} 
+        span.highlight #{i18n('home.topSection.subtitleHighlight', lang)} 
     div.top-section-video-container
       video#myVideo(controls loading="lazy" poster="/img/home/video_thumbnail.png")
         source(src="/img/home/peach-video.mp4" type="video/mp4")
@@ -280,36 +310,33 @@ block main
         span.connect-section-card-title !{i18n('home.connect.followYoutube', lang)}
         span.connect-section-card-text !{i18n('home.connect.followYoutubeText', lang)}
 
+  // Newsletter section — same look, but no email field or captcha; clicking Subscribe redirects
   section.wrap.newsletter-section-container
     div.newsletter-section-content
       img.airplane(src="/img/home/Airplane.png" alt="airplane image" loading="lazy")
       div.newsletter
         h3.newsletter-section-title.peach-text !{i18n('home.newsletter.title', lang)}
         span.newsletter-section-text !{i18n('home.newsletter.text', lang)}
-      form.newsletter-form(method="POST" action="https://5dcdd79e.sibforms.com/serve/MUIEAGjzL2fItMY1cwWaIXk6UiGKmh6OFwDRRA3wjUptuI7KEG1oWd0-a1M8fGC4apXeJkr9xTZPG-HK-Cyl0Zs8OEyH-qMndMqnE5MgP-0WVFz9ryAKU_te8XOKoOStliGWWB1LTjgioz5XpKeH-rihs5STRci4aD12qb4jAeOqrVXbV8E4wJKLWDVaEgrLzrIY612Qgi2V1KQq")
-        div
-          input#email(
-            type="email"
-            name="EMAIL"
-            autocomplete="off"
-            placeholder="Email"
-            required
-            pattern="^[a-zA-Z0-9àèìòùáéíóúýâêîôûãñõäëïöüÿçßøåæœÅÄÖÇÆØÀÈÌÒÙÁÉÍÓÚÝÂÊÎÔÛÃÑÕÄËÏÖÜŸÇŒŠŽšžŸ¥µ<>{}\[\]()\/\\*$€£+“‘#°&%!_. -]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"
-            title="insert a valid email address"
-          )
+      // Keep the form wrapper & button styling for identical graphics.
+      // Use onsubmit to redirect and prevent default submission.
+      form.newsletter-form(
+        onsubmit="window.location.href='https://5dcdd79e.sibforms.com/serve/MUIFAELPRAY8xuUT9U7KzOrbRwCJI853vOpDlWfljcbA-QznRo7YirXQPO7zjV64_M7P7t2LrMj-39l4o4-LbqjXJy4D2yTEeIgkp4f-O8_rTKSHIQ_PsPHP3DUGwN3abVIeMgH_uFDH-z4N8Dr2GXeVaK3EQnHnuGaIl9I4ToKwqF1PIwAoxt0goESfLTUX1wgSdwQIGTJqjV6Z'; return false;"
+      )
+        // (Removed the email field entirely)
+
         div.check
           input#optin(
             type="checkbox" 
             value="1" 
             name="OPT_IN"
             required
-            )
+          )
           label(for="optin"): small !{i18n('mailing.list.optin', lang)} <a href="/privacyPolicy.html">!{i18n('mailing.list.privacypolicy', lang)}</a>.
 
+        // (Removed the reCAPTCHA div)
+
         button.button.button--white(type="submit") !{i18n('mailing.list.subscribe.button', lang)}
-        input(type="hidden" name="email_address_check" value="")
-        input(type="hidden" name="locale" value="en")
-        input(type="hidden" name="html_type" value="simple")
+        // (Removed hidden inputs so no params are sent on redirect)
 
   section.testimonial-section#top.wrap
     .content-wrap.content-wrap--centered.wrap.testimonial-section-content
@@ -332,7 +359,5 @@ block main
       h3.contact-container-title.peach-text !{i18n('home.contact.title', lang)}
       p.contact-container-subtitle !{i18n('home.contact.subtitle', lang)}
       div.contact-container-buttons 
-        a.contact-container-button-outline(href=getUrl(`/faqhome/`, lang))
-          span !{i18n('home.contact.checkFAQ', lang)}
         a.primary-button(href=getUrl(`/support/`, lang))
           span.primary-button-text !{i18n('home.contact.contactSupport', lang)}

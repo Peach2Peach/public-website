@@ -2,135 +2,211 @@
 
 @[toc]
 
-## Intro: Why Peach?
+## Intro: Why Peach and why peer-to-peer?
 
-On a normal exchange, you buy bitcoin from them directly. That often makes it pretty easy, but you do need to upload your identity documents, which could be leaked when the exchange gets hacked, and is generally bad for privacy.
+On a “normal” centralized exchanges, you buy bitcoin from the company directly. That often makes it pretty easy, but you do need to upload your identity documents, which could be leaked when the exchange gets hacked, and is generally bad for privacy. The company also becomes a honey pot… holding all your privacy documents, knowing how much you bought/sold bitcoin.. and you have to trust them that they won't ever report you to “an authority”. Last, on centralized  exchanges, you don’t own your bitcoin but you are holding an account at the company. You might know that gold was massively confiscated with [executive order 6102](https://river.com/learn/terms/e/executive-order-6102/) and you don't want the same to happen to your sacred bitcoin. 
 
-On the other hand, there are peer to peer exchanges. Here you can buy from other people, which is better for your privacy in a lot of ways. But, they can be pretty complicated to use… until now!
+So on the other hand of centralized exchanges, **there are peer to peer exchanges**. Here you can buy and sell from/to other people, which is better for your privacy in a lot of ways. But, those platforms can be pretty complicated to use… **until now**!
 
-Peach is **easy** to use, it's more **private** , has **more payment methods** and you're buying _**real**_ **bitcoin** , not some exchange note that they may or may not pay out. Here's how it works:
+Peach is very **accessible**, easy to use.. **even for your GrandMa**, it's more **private**, has **more payment methods** and you're buying **real bitcoin straight to a wallet that YOU control**, not some exchange note that they may or may not pay out. Here's how it works:
 
 ## Guide 1: Setting up the app
 
-After you've installed the app (through the [App Store]($iosUrl$), [Play Store]($androidUrl$) or [APK download](/apk/)), you're pretty much already done.
+After you've installed the app (through the [App Store]($iosUrl$), [Play Store]($androidUrl$) or [APK download](/apk/)) or [Zap Store](https://zapstore.dev/), you're pretty much already done.
 The only thing required from you right now is a referral code - if you have one.
 
-:::figures 4
-![First you'll be asked if you want to share some data with us](/img/faq/quickstart/onboarding/usage-data.png)
+:::quickstarts 7
+![](/img/faq/quickstart/onboarding/created.png)
+You'll then be met by a quick three-step explainer on how Peach works.
 
-![You'll then be met by a quick three-step explainer on how Peach works.](/img/faq/quickstart/onboarding/1.png)
+![](/img/faq/quickstart/onboarding/1.png)
+You'll be asked if you want to share some data with us
 
-![After that, you'll be asked if you have a referral code. If you don't - don't worry about it 😉](/img/faq/quickstart/onboarding/new.png)
+![](/img/faq/quickstart/onboarding/new.png)
+After that, you'll be asked if you have a referral code. If you don't - don't worry about it
 
-![That's it! You're good to go!](/img/faq/quickstart/onboarding/created.png)
+![](/img/faq/quickstart/onboarding/usage-data.png)
+That's it! You're good to go!
 :::
 
 This quick setup process does mean that **you're not yet backed up**. You'll be asked to [create a backup and a password](/faq/account/#how-should-i-store-my-backup) after you've completed your first trade.
 
-## Guide 2: Your first buy offer
+## Guide 2: Buy Bitcoin from existing sell offers
 
-Placing your first buy offer can be done in just a few seconds. You'll just need to tell us how much you want to buy, and how you want to pay your seller.
+Here's the step by step of your first buy from existing offers:
 
-Here's the step by step of your first buy offer:
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Tap the green "Buy" button to browse the existing sell offers
 
-:::figures 5
-![You'll first select how much you want to buy. This is always a range, and you'll be shown all sell offers available in that range.](/img/faq/quickstart/buy/BuyOffer1.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/02-browse.png)
+Browse the exixting sell offers
 
-![You'll then need to tell us how you want to pay. If you want to know more about payment methods, you should [read this guide](#guide-4-adding-payment-methods). At the end, you can come right back here.](/img/faq/quickstart/buy/BuyOffer2.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/03-filter.png)
+You can filter the offers by currency and payment method
 
-![Note that you can select as many payment methods as you want, to increase your chances of a match!](/img/faq/quickstart/buy/BuyOffer3.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/04-request-trade.png)
+Tap on a offer and request a trade with the "request trade" button and wait that is accepted. You can match multiple offers. Make sure to check the **reputation score and history** of the user by tapping is user id.
 
-![After that, you'll see a quick summary, where you can check all the payment methods you selected and how much you're buying.](/img/faq/quickstart/buy/BuyOffer4.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/04a-chat.png)
+NEW: you can now chat with the counterparty before he/she accepts your trade to make sure that you agree on the terms before getting in a contract. Tap the "chat" button to open it
 
-![Your buy offer is now published! If there are sell offers available, you'll be shown them immediately. If not, you'll need to wait for a while.](/img/faq/quickstart/buy/BuyOffer5.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/04b-notification.png)
+You get notified via a push notification when a seller has accepted your trade request!
 
-![](/img/faq/quickstart/buy/BuyOffer6.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/05-confirm-payment.png)
+Send the payment from your fiat bank/online wallet account and, ONLY WHEN YOU MADE THE PAYMENT, slice the "I made the payment" slider. TIP: the faster you make the payment, the better your reputation. 
 
-![](/img/faq/quickstart/buy/BuyOffer7.png)
+![](/img/faq/quickstart/069-screenshots/buy-accept/06-wait-payout.png)
+Wait for the seller to confirm that he received your payment. Once he does, the escrow is released to you!  The payout is processed every 24 hours if you have “Batching Transactions” activated to save on Network fees. You can also opt-out and get your sats straight away in Settings > Batching Transactions. 
 
-![](/img/faq/quickstart/buy/BuyOffer8.png)
-
+![](/img/faq/quickstart/069-screenshots/buy-accept/07-rate.png)
+You can now rate the seller
 :::
 
-### Matching a seller
+## Guide 3: Create your own BUY offer
 
-After publishing your buy offer, you'll be shown all the sell offers that fall within the range you selected, and that has at least one payment method in common:
+Creating your first buy offer can be done in just a few seconds   You'll just need to set up your preferences: how much you want to buy, which currencieS and payment methodS you accept, at what price you are willing to buy, and your payout wallet. 
 
-![Match Card](/img/faq/quickstart/buy/MatchCardExplainer.png)
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Tap the "Create buy offer" button to create your buy offer
 
-:::figures 2
-![When you've selected the currency and payment method you want to use for this trade (if you have more than one in common), you can match the offer.](/img/faq/quickstart/matchseller/MatchSeller1.png)
+![](/img/faq/quickstart/069-screenshots/buy-offer/01-create-offer.png)
+Add a payment method as described in Guide 6 and set your offer preferences
 
-![You'll get five seconds to undo if you change your mind. After that, the seller will be notified of their match, and unmatching now is considered a dick move (your Peach Score will be hurt)](/img/faq/quickstart/matchseller/MatchSeller2.png)
+![](/img/faq/quickstart/069-screenshots/buy-offer/01a-published.png)
+Your buy offer is published in the Peach P2P marketplace and sellers can see it! You will be notified when a seller wants to take your offer!  
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/04-confirm-trade-request.png)
+Once a seller send a trade request to your offer, you can confirm the trade request and get into a contract! NEW: Reject the trade request if you are not interested in the user’s terms or reputation. NEW: you can now chat with the counterparty to make sure that you agree on the terms before getting in a contract.
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/05-wait-escrow.png)
+Wait for the seller to deposits the sats in the **2-2 multisignature escrow** between him and Peach. The seller has 12 hours for funding the escrow. 
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/06-confirm-payment.png)
+Once the escrow transaction is confirmed, the payment details are shown to you. You can now send the payment from your fiat bank/online wallet account and, ONLY WHEN YOU MADE THE PAYMENT, slice the "I made the payment" slider. TIP: the faster you make the payment, the better your reputation. 
+
+![](/img/faq/quickstart/069-screenshots/buy-offer/07-wait-payout.png)
+Wait for the seller to confirm that he received your payment. Once he does, the escrow is released to you!  The payout is processed every 24 hours if you have **“Batching Transactions”** activated to save on Network fees. You can also opt-out and get your sats straight away in Settings > Batching Transactions. 
+
+![](/img/faq/quickstart/069-screenshots/buy-accept/07-rate.png)
+You can now rate the seller
 :::
 
-### Making the trade
+## Guide 4: Sell Bitcoin to existing buy offers
 
-:::figures 2
-![If the seller matches you back, you'll be notified & shown their payment details. You should go to your payment app and manually make the payment there. After that, you confirm that you did with the slider at the bottom, and you wait for the seller to respond (you can chit-chat in the meantime).](/img/faq/quickstart/matchseller/MatchSeller3.png)
+Here's the step by step of your first sale from existing offers:
 
-![Once the seller confirms, the deed is done! The bitcoin amount will be sent to your wallet and you can give eachother a rating. (Assuming everything went well, of course.)](/img/faq/quickstart/matchseller/MatchSeller4.png)
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Tap the orange "Sell" button to match existing buy offer
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/01-browse-offers.png)
+Browse the available buy offers
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/02-filter-offers.png)
+You can filter the offers by currency and payment method and make sure to check the **reputation score and history** of the user
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/03-request-trade.png)
+Tap on an offer and request a trade with the "request trade" button… wait for the buyer to accept your trade request.
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/04-chat-trade.png)
+NEW: you can now chat with the counterparty before he/she accepts your trade to make sure that you agree on the terms before getting in a contract. Or just wait for the counterparty to accept your trade
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/04a-notification.png)
+You get notified via a push notification when a buyer has accepted your trade request!
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/05-create-escrow.png)
+You are asked to deposit the sats to sell in the 2-2 multisignature escrow between you and Peach
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/06-create-escrow.png)
+You can deposit from your **Peach Wallet** of from an **external one** 
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/06a-funded.png)
+Once the transaction is confirmed, the buyer can see your payment details and has 12 hours to send the payment
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/07-confirm-payment.png)
+ONLY WHEN you have received the payment in your fiat bank/wallet account, you confirm it by sliding the "I received the payment" button. **WATCH OUT: confirming payment releases the sats from the escrow to the buyer. This action can NOT be reversed** 
+
+![](/img/faq/quickstart/069-screenshots/sell-accept/08-rate-user.png)
+You can now rate the buyer
 :::
 
-## Guide 3: Your first sell offer
+## Guide 5: Create your own SELL offer
 
-Placing your first sell offer can be done in just a few minutes. You'll just need to tell us how much you want to sell, and how you want your buyer to pay you.
+Creating your first sell offer can be done in just a few seconds   You'll just need to set up your preferences: how much you want to sell, which currencies and payment methods you accept, at what price you are willing to sell, and your refund wallet in case of a cancellation. 
 
-Here's the step by step of your first sell offer:
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/00-homepage.png)
+Tap the "Create sell offer" button to create your sell offer
 
-### Creating a sell offer
+![](/img/faq/quickstart/069-screenshots/sell-offer/02-set-offer-details.png)
+Add the payment details as descrived in guide 6 and set the offer details
 
-:::figures 7
-![First, you'll select how much you want to sell. You can select any amount, but there is a maximum to prevent your offer for going over the daily limit and becoming unavailable.](/img/faq/quickstart/sell/SellStep01.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/03-fund-from-peach.png)
+Fund the 2-2 multisignature escrow between you and Peach from your Peach Wallet
 
-![You'll then select if you want to offer the buyer a discount, or ask a little more than the market price.](/img/faq/quickstart/sell/SellStep02.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/04-fund-from-external.png)
+Or fund the escrow from your external wallet by depositing to the provided bitcoin address
 
-![You'll then need to how you want to be paid. At the end, you can come right back here.](/img/faq/quickstart/sell/SellStep03.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/05-confirm-escrow-tx.png)
+Wait that the deposit transaction is confirmed
 
-![Note that you can select as many payment methods as you want, to increase your chances of a match!](/img/faq/quickstart/sell/SellStep04.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/06-offer-published.png)
+Once the transaction is confirmed your offer get published
 
-![After that, you'll see a quick summary, where you can check all the payment methods you selected and how much you're selling.](/img/faq/quickstart/sell/SellStep05.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/07-accept-trade-request.png)
+When a buyer match your offer, accept the trade request
 
-![The last step before your sell offer is published is to fund the escrow to secure the trade. You'll send the bitcoin to this address from the wallet that you have it in right now.](/img/faq/quickstart/sell/SellStep06.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/08-accept-trade-request.png)
+Confirm the trade request and get into a contract! NEW: Reject the trade request if you are not interested in the user’s terms or reputation. NEW: you can now chat with the counterparty to make sure that you agree on the terms before getting in a contract
 
-![And that's it! After the bitcoin network has confirmed the transaction, your sell offer is published and waiting for a match.](/img/faq/quickstart/sell/SellStep07.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/09-confirm-received-payment.png)
+ONLY WHEN you have received the payment in your fiat bank/wallet account, you confirm it by sliding the "I received the payment" button. **WATCH OUT: confirming payment releases the sats from the escrow to the buyer. This action can NOT be reversed**
 
-![](/img/faq/quickstart/sell/SellStep08.png)
+![](/img/faq/quickstart/069-screenshots/sell-offer/10-rate-user.png)
+You can now rate the buyer
 :::
 
-### Matching a buyer back
-
-After publishing your sell offer, it will be shown to all the buyers that have at least one currency and payment method in common, and that want to buy the amount you're selling. If someone matches your offer, you'll get a notification, and you can match them back (or wait for more matches):
-
-![Match Card](/img/faq/quickstart/sell/MatchCardExplainer1.png)
-
-### Making the trade
-
-:::figures 3
-![After you've selected a match, the trade is officially made. You'll get to see from where the buyer will be making the payment, and for how much. You can also chat with your buyer should you have any questions.](/img/faq/quickstart/sell/MakingTheTrade1.png)
-
-![Once the buyer has made the payment, you should check the relevant payment account to see if you received it. If you did, you can confirm it here. Once you've confirmed you received the payment, the bitcoin will be sent to the buyer.](/img/faq/quickstart/sell/MakingTheTrade2.png)
-:::
-
-:::figures 3
-![And that's it! The bitcoin amount will be sent to the buyer and you can give eachother a rating. Assuming everything went well, of course.](/img/faq/quickstart/sell/MakingTheTrade3.png)
-
-![Once the buyer has made the payment](/img/faq/quickstart/sell/MakingTheTrade4.png)
-:::
-
-## Guide 4: Adding payment methods
+## Guide 6: Adding payment methods
 
 When you make a buy or sell offer in Peach, you'll need to let your counterparty know how you'll pay, or want to be paid.
 
-:::figures 7
-![First, you can choose between two categories: **remote** (e.g. bank transfer, paypal) or on a **meetup** (with cash).](/img/faq/quickstart/add-payment-method/AddPM01.png)
+:::quickstarts 7
+![](/img/faq/quickstart/add-payment-method/AddPM01.png)
+First, you can choose between two categories: remote (e.g. bank transfer, paypal) or on a meetup (with cash).
 
-![You'll then select which currency you want to use for this payment method.](/img/faq/quickstart/add-payment-method/AddPM02.png)
+![](/img/faq/quickstart/add-payment-method/AddPM02.png)
+You'll then select which currency you want to use for this payment method.
 
-![You'll then see the categories of payment method available for this currency. We'll go with an online wallet for this example.](/img/faq/quickstart/add-payment-method/AddPM03.png)
+![](/img/faq/quickstart/add-payment-method/AddPM03.png)
+You'll then see the categories of payment method available for this currency. We'll go with an online wallet for this example
 
-![A drawer opens where you can select which online wallet you want to add. Let's select PayPal.](/img/faq/quickstart/add-payment-method/AddPM04.png)
+![](/img/faq/quickstart/add-payment-method/AddPM04.png)
+A drawer opens where you can select which online wallet you want to add. Let's select PayPal
 
-![All you have to do here is fill in your details. You can also indicate if your wallet can receive any additional currencies.](/img/faq/quickstart/add-payment-method/AddPM05.png)
+![](/img/faq/quickstart/add-payment-method/AddPM05.png)
+All you have to do here is fill in your details. You can also indicate if your wallet can receive any additional currencies.
 
-![Once done, you press confirm, and…](/img/faq/quickstart/add-payment-method/AddPM06.png)
+![](/img/faq/quickstart/add-payment-method/AddPM06.png)
+Once done, you press confirm, and…
+:::
+
+## Guide 7: Set-up an instant-trade when creating a BUY or a SELL offer
+
+When creating a buy or sell offer, there is the option to “instant-trade” . It means that you will NOT have to accept a trade request. In other words, the counterparty will be able to get into a trade with you automatically. It is great for faster trading because the buyer will have one hour to make the payment instead of 12 and the seller will have 1 hour to deposit in escrow instead of 12
+
+:::quickstarts 7
+![](/img/faq/quickstart/069-screenshots/instant-trade/buy.png)
+This is how you set it in a buy offer
+
+![](/img/faq/quickstart/069-screenshots/instant-trade/sell.png)
+This is how you set it in a sell offer
+
+![](/img/faq/quickstart/069-screenshots/instant-trade/filter-sell.png)
+You can filter who will be able to instant-trade with your offer. You can exclude new users, or exclude peers with a reputation below 4.5 peaches
+
+![](/img/faq/quickstart/069-screenshots/instant-trade/book.png)
+Offers with the instant-trade are shown in the order book!
+:::

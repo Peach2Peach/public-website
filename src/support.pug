@@ -1,5 +1,22 @@
 extends /template.pug
 
+block append vars
+  - const homePath = (lang === 'en' ? '/index.html' : '/' + lang)
+  - const hasTeaser = true   // <-- REQUIRED so the teaser block shows
+
+block teaser
+  a.site-banner.wrap(
+    href=`${homePath}?scroll=download-buttons`
+    aria-label="Peach v69 – Symmetry Unlocked"
+  )
+    picture
+      img.site-banner-img(
+        src="/img/home/banner69.png"
+        alt="Symmetry Unlocked – a two-sided Bitcoin marketplace. Peach v.69 coming soon."
+        width="1050" height="250"
+        decoding="async" loading="eager"
+      )
+
 block main
   section.wrap
     .content-wrap.content-wrap--centered
@@ -17,7 +34,10 @@ block main
           h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('trading', lang)}
         a.faq-grid-item(href=getUrl("/faq/matches/", lang))
           +sprite("matches")
-          h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('matches', lang)}
+          h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('marketplace', lang)}
+        a.faq-grid-item(href=getUrl("/faq/escrow-release/", lang))
+          +sprite("matches")
+          h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('escrowRelease', lang)}
         a.faq-grid-item(href=getUrl("/faq/account/", lang))
           +sprite("account")
           h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('myAccount', lang)}

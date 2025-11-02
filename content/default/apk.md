@@ -4,8 +4,8 @@
 
 - [Peach signature]($apkSignaturesUrl$)
 - [SHA256 checksums]($apkChecksumsUrl$)
-- [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/E970EDB410C8E84198F141584AD3CE3043D8CD1B) fingerprint:<br>
-  `E970 EDB4 10C8 E841 98F1  4158 4AD3 CE30 43D8 CD1B`
+- [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/48339a19645e2e53488e0e5479e1b270facd1bd2) fingerprint:<br>
+  `4833 9a19 645e 2e53 488e 0e54 79e1 b270 facd 1bd2`
 
 <img src="/icons/qrcode_android.png"  width="350">
 
