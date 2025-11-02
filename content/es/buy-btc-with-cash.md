@@ -4,7 +4,7 @@ template: meetups
 
 <!--[headline]-->
 
-# Forma parte de la Revolución Peach: Integra tu meetup en Peach
+# Integra tu meetup en Peach
 
 <!--[intro]-->
 
