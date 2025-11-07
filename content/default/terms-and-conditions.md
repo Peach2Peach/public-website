@@ -144,7 +144,7 @@ You acknowledge that we are unable to provide you with any other information abo
 
 Once the Traders match their offers, the trade should proceed in accordance with the terms as both Buyer and the Seller matched. This will normally involve the following steps:
 
-- The Buyer makes the payment in the matched currency,
+- The Buyer makes the payment in the matched currency and payment method, from the payment details previolusly provided in hte app,
 - the Buyer claims the payment is made by pressing the Payment Made button,
 - once the payment is received in full, the Seller confirms this by clicking the confirm payment button,
 - the bitcoin is then automatically released from the escrow and sent to the Bitcoin address that the Buyer indicated in their Buy Offer,
@@ -201,6 +201,8 @@ The following rules are enforced by professional dispute mediators with fairness
 - The default time-frame for the user to provide the evidences requested by the dispute mediator is 24 hours. This window can be extended if asked in the chat (eg: waiting that the bank provides the bank statement). But this must be asked within the 24 hours otherwise the dispute will be resolved for unresponsiveness.
 
 - In case of partial payments or payments with the wrong payment method (eg: regular SEPA instead of SEPA instant), the seller can get the bitcoins back from the escrow after an evidence of the payment refunds is provided. If the refund involves a fee, the seller can deduct it from the wrong payment. The seller can not keep the wrong payment and the sats.
+
+- In case of third party payments (payment originating from different details then the provided in the app), the seller is allowed to refund the payment and get the bitcoins back.
 
 ## 11. Peach fees
 
