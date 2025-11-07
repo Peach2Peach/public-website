@@ -404,7 +404,7 @@ You acknowledge that we are unable to provide you with any other information abo
 
 Once the Traders match their offers, the trade should proceed in accordance with the terms as both Buyer and the Seller matched. This will normally involve the following steps:
 
-- The Buyer makes the payment in the matched currency and payment method, from the payment details previolusly provided in hte app,
+- The Buyer makes the payment in the matched currency and payment method, from the payment details previolusly provided in the app,
 - the Buyer claims the payment is made by pressing the Payment Made button,
 - once the payment is received in full, the Seller confirms this by clicking the confirm payment button,
 - the bitcoin is then automatically released from the escrow and sent to the Bitcoin address that the Buyer indicated in their Buy Offer,
