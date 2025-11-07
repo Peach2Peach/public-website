@@ -4,7 +4,7 @@ template: text
 
 # Terms & Conditions
 
-These Service Terms were last updated on **Sep 22nd, 2025**
+These Service Terms were the last updated on **Nov 7th, 2025**
 
 ## Legal Highlights
 
