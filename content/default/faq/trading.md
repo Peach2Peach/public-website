@@ -140,7 +140,7 @@ Follow the steps found in this video: [https://www.youtube.com/watch?v=24OtQkL0C
 When you want to fund multiple offers at once, the app provides a list of escrow addresses (one for each offer), where you can deposit in a single transactions with multiple outputs to save on network fees.
 :::
 
-::: who can create buy offer?
+:::who can create buy offer?
 
 To publish a buy offer, you need at least 4 successful trade and a score of at least 3/5 peaches.
 :::
