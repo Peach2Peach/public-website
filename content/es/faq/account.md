@@ -2,7 +2,7 @@
 
 :::details ¿Qué es una cuenta de Peach?
 
-Una cuenta de Peach no es como una cuenta normal que tendrías con otros servicios, como una dirección de correo electrónico y una contraseña. Tu cuenta de Peach es un archivo que vive en tu teléfono, lo que hace que no tengamos que almacenar tus datos y no tengamos que saber quién eres: tú tienes el control. Este archivo contiene todos tus datos: desde las claves de tu monedero de Bitcoin hasta tus detalles de pago.
+Tu cuenta de Peach es un archivo que vive en tu teléfono, lo que hace que no tengamos que almacenar tus datos y no tengamos que saber quién eres: tú tienes el control. Este archivo contiene todos tus datos: desde las claves de tu monedero de Bitcoin hasta tus detalles de pago.
 
 Esto significa más privacidad para ti, pero también viene con responsabilidad. Tendrás que hacer una copia de seguridad de este archivo, porque de lo contrario, perder tu teléfono significará que ya no tendrás acceso a tu cuenta de Peach o a los fondos en tu monedero de Peach.
 

@@ -2,7 +2,7 @@
 
 :::details What is a Peach account?
 
-A Peach account is not like a normal account you would have with other services, like an email address and a password. Your Peach account is a file that lives on your phone, which makes it so that we don't need to store your data and don't have to know who you are: you are in control. This file holds all your data: from your bitcoin wallet keys to your payment details
+Your Peach account is a file that lives on your phone, which makes it so that we don't need to store your data and don't have to know who you are: you are in control. This file holds all your data: from your bitcoin wallet keys to your payment details
 
 This means more privacy for you, but it also comes with responsibility. You will need to back up this file, because otherwise, losing your phone will mean you no longer have access to your Peach account or the funds in your Peach wallet.
 

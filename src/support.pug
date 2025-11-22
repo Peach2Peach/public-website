@@ -41,6 +41,9 @@ block main
         a.faq-grid-item(href=getUrl("/faq/account/", lang))
           +sprite("account")
           h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('myAccount', lang)}
+        a.faq-grid-item(href=getUrl("/faq/pm/", lang))
+          +sprite("credit")
+          h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('paymentMethods', lang)}
         a.faq-grid-item(href=getUrl("/faq/privacy/", lang))
           +sprite("privacy")
           h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('privacy', lang)}
