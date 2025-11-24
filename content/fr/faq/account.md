@@ -2,7 +2,7 @@
 
 :::details Qu'est-ce qu'un compte Peach ?
 
-Un compte Peach n'est pas comme un compte normal que vous auriez avec d'autres services, comme une adresse e-mail et un mot de passe. Votre compte Peach est un fichier qui réside sur votre téléphone, ce qui fait que nous n'avons pas besoin de stocker vos données et nous n'avons pas besoin de savoir qui vous êtes : vous êtes aux commandes. Ce fichier contient toutes vos données, de vos clés de portefeuille Bitcoin à vos informations de paiement.
+Votre compte Peach est un fichier qui réside sur votre téléphone, ce qui fait que nous n'avons pas besoin de stocker vos données et nous n'avons pas besoin de savoir qui vous êtes : vous êtes aux commandes. Ce fichier contient toutes vos données, de vos clés de portefeuille Bitcoin à vos informations de paiement.
 
 Cela signifie plus de confidentialité pour vous, mais cela implique également une responsabilité. Vous devrez sauvegarder ce fichier, car sinon, si vous perdez votre téléphone, vous n'aurez plus accès à votre compte Peach ni aux fonds de votre portefeuille Peach.
 
