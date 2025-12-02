@@ -123,6 +123,36 @@
   line-height: 1;
 }
 
+@media (max-width: 768px) {
+  .language-label .language-text {
+    color: var(--color-primary-main) !important;
+  }
+}
+
+
+.language-label:hover img[src*="dropdown_icon.svg"],
+.language-label:hover svg {
+  filter: brightness(0) invert(1);
+  fill: white;
+}
+
+/* Mobile override → arrow black */
+@media (--up_to_L) {
+  .language-label img[src*="dropdown_icon.svg"],
+  .language-label svg {
+    filter: none !important;   /* restore original */
+    fill: black !important;
+  }
+
+  /* Optional: mobile hover → keep black */
+  .language-label:hover img[src*="dropdown_icon.svg"],
+  .language-label:hover svg {
+    filter: none !important;
+    fill: black !important;
+  }
+}
+
+
 .flag-icon {
   min-width: 24px;
   width: 24px;
