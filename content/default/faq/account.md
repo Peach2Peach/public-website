@@ -83,7 +83,18 @@ Peach is a 100% compliant company. We are an affiliated Swiss financial intermed
 
 :::details How do I restore my Bitcoin wallet from another client?
 
-Peach is a **self-custodial Bitcoin wallet** which means that the user is in control of their private keys (seed phrase) #notyourkeysnotyourcoins.
-You should always make sure that your seed phrase (12 words) is safely stored offline. Go to Settings > Backup.
-With your seed phrase, you will be able to access your sats from another wallet, like [Sparrow wallet](https://www.sparrowwallet.com/) on desktop, check out this [Video Tutorial](https://youtu.be/_kTYegiDK2Q)
+Peach is a **self-custodial Bitcoin wallet** which means that the user is in control of their private keys (seed phrase) #notyourkeysnotyourcoins.  
+
+You should always make sure that your seed phrase (12 words) is safely stored offline. Go to Settings > Backup.  
+With your seed phrase, you will be able to access your sats from another wallet.  
+
+Because the Peach trading engine is not choosing the first available unused address for the escrow release when purchasing from the Peach Wallet, it is often needed to increase the gap limit to see the full balance and transactions history.  
+
+The gap limit is the maximum number of unused Bitcoin addresses your wallet will scan ahead to find your funds.  
+
+Not all wallet support this setting, for this reason we suggest the following external wallet to combine with Peach:  
+[Sparrow wallet](https://www.sparrowwallet.com/) on desktop, check out this [Video Tutorial](https://youtu.be/_kTYegiDK2Q)  
+
+Nunchuk wallet for mobile on [Android](https://play.google.com/store/apps/details?id=io.nunchuk.android&hl=en) and [iOS](https://apps.apple.com/us/app/nunchuk-bitcoin-wallet/id1563190073)  
+
 :::
