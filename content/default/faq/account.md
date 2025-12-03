@@ -94,7 +94,6 @@ The gap limit is the maximum number of unused Bitcoin addresses your wallet will
 
 Not all wallet support this setting, for this reason we suggest the following external wallet to combine with Peach:  
 [Sparrow wallet](https://www.sparrowwallet.com/) on desktop, check out this [Video Tutorial](https://youtu.be/_kTYegiDK2Q)  
-
 Nunchuk wallet for mobile on [Android](https://play.google.com/store/apps/details?id=io.nunchuk.android&hl=en) and [iOS](https://apps.apple.com/us/app/nunchuk-bitcoin-wallet/id1563190073)  
 
 :::
