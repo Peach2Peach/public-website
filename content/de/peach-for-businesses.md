@@ -35,7 +35,8 @@ Bringen Sie mehr Nutzer und erhöhen Sie Ihre Einnahmen mit einem benutzerdefini
 
 ### Öffentliche API verfügbar
 
-Integrate Peach directly into your systems with our easy-to-use Public [API](https://docs.peachbitcoin.com/#introduction) or one of the community-developed API wrappers in different languages
+
+Integrieren Sie Peach direkt in Ihre Systeme mit unserer benutzerfreundlichen öffentlichen [API](https://docs.peachbitcoin.com/#introduction) oder einem der von der Community entwickelten API-Wrapper in verschiedenen Sprachen.
 [Typescript](https://github.com/Peach2Peach/peach-api-ts)  
 [.NET](https://github.com/p2payserver/peachclient-net)  
 [Python](https://github.com/Jejis06/PeachBtcApiWrapper)
