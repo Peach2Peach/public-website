@@ -35,7 +35,10 @@ Trae más usuarios y aumenta tus ingresos con un código de referencia personali
 
 ### API pública disponible
 
-Integra Peach directamente en tus sistemas con nuestra [API](https://docs.peachbitcoin.com/#introduction) pública y fácil de usar
+Integre Peach directamente en sus sistemas con nuestra [API](https://docs.peachbitcoin.com/#introduction) pública fácil de usar o uno de los envoltorios de API desarrollados por la comunidad en diferentes idiomas.
+[Typescript](https://github.com/Peach2Peach/peach-api-ts)  
+[.NET](https://github.com/p2payserver/peachclient-net)  
+[Python](https://github.com/Jejis06/PeachBtcApiWrapper)
 :::
 ::::
 
