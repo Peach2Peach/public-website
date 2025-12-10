@@ -28,6 +28,15 @@ block main
           h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('quickStartGuide', lang)}
 
       h2 !{i18n('faq', lang)}
+      .faq-search
+        label.faq-search__label(for="faq-search-input")
+          | !{i18n('searchFaq', lang) || 'Search the FAQ'}
+        input#faq-search-input.faq-search__input(
+          type="search"
+          autocomplete="off"
+          placeholder=i18n('searchFaqPlaceholder', lang) || 'Type to search questions…'
+        )
+        .faq-search-results.is-hidden
       .faq.faq-grid
         a.faq-grid-item(href=getUrl("/faq/trading/", lang))
           +sprite("trading")
@@ -56,3 +65,8 @@ block main
         a(href=`mailto:${siteData.meta.contactEmail}` title=i18n("email", lang))
           +sprite("social-email", i18n("email", lang))
         include /social.pug
+
+block append scripts
+  script.
+    window.FAQ_LANG = '#{lang}';
+  script(src="/js/faq-search.js")

@@ -360,8 +360,9 @@ html(lang=lang)
           button.save-btn(type="button", onclick="savePreferences()")= i18n("cookiePopup.savePreferences", lang)
 
     script(src=assetPath("/js/main.js"))
-    //- Aggiungiamo il blocco scripts alla fine del body
-    block append scripts
+
+    block scripts
+      // Service worker registration
       script.
         if ('serviceWorker' in navigator) {
           window.addEventListener('load', function() {
@@ -377,10 +378,9 @@ html(lang=lang)
           console.log('Service Worker non supportato in questo browser.');
         }
 
-    block append scripts
+      // Language selector JS
       script.
         document.addEventListener('DOMContentLoaded', function () {
-          // Map of language codes to display names
           const languageMap = {
             en: 'English',
             es: 'Español',
@@ -396,8 +396,7 @@ html(lang=lang)
             uk: 'Українська'
           };
 
-          // Detect current lang from path
-          const path = window.location.pathname.replace(/\/+$/, ''); // trim trailing slash
+          const path = window.location.pathname.replace(/\/+$/, '');
           let currentLang = 'en';
           for (const code in languageMap) {
             if (path === '/' && code === 'en') { currentLang = 'en'; break; }
@@ -407,33 +406,91 @@ html(lang=lang)
           const label = document.querySelector('.language-label');
           if (!label) return;
 
-          // Ensure there is a span.language-text, create it if missing
           let textNode = label.querySelector('.language-text');
           if (!textNode) {
             textNode = document.createElement('span');
             textNode.className = 'language-text';
-            // insert before the dropdown chevron if present
-            // const chevron = Array.from(label.querySelectorAll('img')).find(img => /dropdown_icon\.svg(\?.*)?$/i.test(img.getAttribute('src') || ''));
-            label.insertBefore(textNode, chevron || null);
+            label.insertBefore(textNode, label.firstChild || null);
           }
 
-          // Set the text
           textNode.textContent = languageMap[currentLang] || currentLang.toUpperCase();
-
-          // Remove any flag images inside the label (keep the chevron)
-          //- Array.from(label.querySelectorAll('img')).forEach(img => {
-          //-   const src = img.getAttribute('src') || '';
-          //-   const isChevron = /dropdown_icon\.svg(\?.*)?$/i.test(src);
-          //-   if (!isChevron) {
-          //-     img.remove();
-          //-   }
-          //- });
-
-          // Also nuke any pseudo-element flags applied via CSS (belt & suspenders)
           label.style.backgroundImage = 'none';
         });
 
+      // Cookie banner / popup JS
+      script.
+        (function() {
+          function setCookie(name, value, days) {
+            var expires = "";
+            if (days) {
+              var date = new Date();
+              date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+              expires = "; expires=" + date.toUTCString();
+            }
+            document.cookie = name + "=" + (value || "") + expires + "; path=/";
+          }
 
+          function getCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+              var c = ca[i];
+              while (c.charAt(0) === ' ') c = c.substring(1, c.length);
+              if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
+            }
+            return null;
+          }
+
+          function checkConsent() {
+            if (getCookie('consent_necessary') === "true") {
+              document.getElementById('cookie-banner').style.display = 'none';
+            } else {
+              document.getElementById('cookie-banner').style.display = 'flex';
+            }
+          }
+
+          window.acceptCookies = function() {
+            setCookie('consent_necessary', 'true', 365);
+            setCookie('consent_analytics', 'true', 365);
+            setCookie('consent_marketing', 'true', 365);
+            document.getElementById('cookie-banner').style.display = 'none';
+            document.getElementById('cookie-popup').style.display = 'none';
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({event: 'cookie_consent', consent_analytics: true, consent_marketing: true});
+          };
+
+          window.rejectCookies = function() {
+            setCookie('consent_necessary', 'true', 365);
+            setCookie('consent_analytics', 'false', 365);
+            setCookie('consent_marketing', 'false', 365);
+            document.getElementById('cookie-banner').style.display = 'none';
+            document.getElementById('cookie-popup').style.display = 'none';
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({event: 'cookie_consent', consent_analytics: false, consent_marketing: false});
+          };
+
+          window.showCookiePopup = function(event) {
+            event.preventDefault();
+            document.getElementById('cookie-popup').style.display = 'flex';
+          };
+          window.closeCookiePopup = function() {
+            document.getElementById('cookie-popup').style.display = 'none';
+          };
+
+          window.savePreferences = function() {
+            var analyticsConsent = document.getElementById('analytics-cookies').checked;
+            var marketingConsent = document.getElementById('marketing-cookies').checked;
+            setCookie('consent_necessary', 'true', 365);
+            setCookie('consent_analytics', analyticsConsent ? 'true' : 'false', 365);
+            setCookie('consent_marketing', marketingConsent ? 'true' : 'false', 365);
+            document.getElementById('cookie-banner').style.display = 'none';
+            document.getElementById('cookie-popup').style.display = 'none';
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({event: 'cookie_consent', consent_analytics: analyticsConsent, consent_marketing: marketingConsent});
+          };
+
+          checkConsent();
+        })();
     //- block append scripts
     //-   script.
     //-     window.__ow = window.__ow || {};
@@ -448,8 +505,7 @@ html(lang=lang)
     //-     |  in order to use the AI chatbot tool powered by 
     //-     a(href="https://www.chatbot.com/" rel="noopener nofollow" target="_blank") ChatBot
 
-        
-    block append scripts
+
       script.
         (function() {
           // Funzioni di utilità per gestire i cookie

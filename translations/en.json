@@ -148,5 +148,7 @@
   "cookiePopup.analyticsCookiesDesc": "Analytics cookies help us understand how users interact with the site.",
   "cookiePopup.marketingCookies": "Marketing Cookies",
   "cookiePopup.marketingCookiesDesc": "Marketing cookies are used to collect users information",
-  "cookiePopup.savePreferences": "Save Preferences"
+  "cookiePopup.savePreferences": "Save Preferences",
+  "searchFaq": "Search the FAQ",
+  "searchFaqPlaceholder": "Type to search questions…"
 }
