@@ -12,13 +12,13 @@
     "dist": "dist",
     "port": "3000"
   },
-  "scripts": {
+"scripts": {
     "clean": "rm -rf rev-manifest.json site-data.json dist/*",
-    "init": "npm-run-all clean -p build:data build:styles build:static build:icons build:faq-index",
+    "init": "npm-run-all clean -p build:data build:styles build:static build:icons build:faq-index build:blog-index",
     "start": "NODE_ENV=development npm-run-all init -p start:* redirects",
     "start:icons": "onchange -k 'src/icons/**/*.svg' -- npm run build:icons",
     "start:styles": "onchange -k 'src/**/*.css' -- npm run build:styles",
-    "start:data": "onchange -k 'blog/**/*' 'content/**/*' 'tasks/generate_site_data.js' 'tasks/build_faq_index.js' -- npm-run-all build:data build:faq-index",
+    "start:data": "onchange -k 'blog/**/*' 'content/**/*' 'tasks/generate_site_data.js' 'tasks/build_faq_index.js' 'tasks/build_blog_index.js' -- npm-run-all build:data build:faq-index build:blog-index",
     "start:pages": "onchange -i -k 'site-data.json' 'pug.config.js' 'helpers.js' 'src/**/*.pug' 'tasks/generate_pages.js' -- npm run build:pages",
     "start:serve": "browser-sync start --config browser-sync.config.js --watch",
     "build:static": "mkdir -p dist/blog && cp -r static/* dist && cp -r static/.well-known dist/.well-known",
@@ -27,12 +27,13 @@
     "build:pages": "node tasks/generate_pages.js",
     "build:styles": "postcss src/css/main.css --output dist/css/main.css",
     "build:faq-index": "node tasks/build_faq_index.js",
+    "build:blog-index": "node tasks/build_blog_index.js",
     "optimize": "npm-run-all -p optimize:* -s rev",
     "optimize:styles": "csso --no-restructure dist/css/main.css --output dist/css/main.css",
     "sitemap": "node tasks/generate_sitemap.js",
     "redirects": "node tasks/generate_redirects.js",
     "rev": "node-file-rev --root=dist dist/css/*.css dist/js/*.js dist/img/*.jpg dist/img/*.png dist/img/*.svg dist/icons/*.svg dist/img/how-it-works/*.gif dist/img/how-it-works/*.png",
-    "prod": "NODE_ENV=production npm-run-all init optimize build:data build:pages sitemap redirects"
+    "prod": "NODE_ENV=production npm-run-all init optimize build:data build:pages sitemap redirects build:blog-index"
   },
   "devDependencies": {
     "autoprefixer": "10.4.14",
