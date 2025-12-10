@@ -40,6 +40,13 @@ Integre o Peach diretamente em seus sistemas com nossa [API](https://docs.peachb
 [.NET](https://github.com/p2payserver/peachclient-net)  
 [Python](https://github.com/Jejis06/PeachBtcApiWrapper)
 :::
+
+:::box tech-peach
+
+### Vender a partir do BTCPay Server
+
+Se você é um comerciante que usa o BTCPay Server, pode utilizar o [plugin da Peach](https://peachbitcoin.com/pt/blog/btcpay-plugin/) para vender em moeda fiduciária os pagamentos recebidos na sua loja.
+:::
 ::::
 
 Se você está interessado em saber mais sobre o Peach Business e como aproveitá-lo para maximizar os lucros da sua empresa, entre em contato conosco.
