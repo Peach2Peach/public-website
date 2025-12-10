@@ -3,13 +3,7 @@ const es = require('./translations/es.json')
 const fr = require('./translations/fr.json')
 const de = require('./translations/de.json')
 const it = require('./translations/it.json')
-const el = require('./translations/el.json')
-const sw = require('./translations/sw.json')
 const pt = require('./translations/pt.json')
-const uk = require('./translations/uk.json')
-const pl = require('./translations/pl.json')
-const nl = require('./translations/nl.json')
-const hu = require('./translations/hu.json')
 
 const properties = {
   en,
@@ -17,13 +11,7 @@ const properties = {
   fr,
   de,
   it,
-  el,
-  sw,
   pt,
-  uk,
-  pl,
-  nl,
-  hu,
 }
 
 /**
