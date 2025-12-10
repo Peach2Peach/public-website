@@ -150,5 +150,7 @@
   "cookiePopup.marketingCookiesDesc": "Marketing-Cookies werden verwendet, um Nutzerdaten zu sammeln",
   "cookiePopup.savePreferences": "Einstellungen speichern",
   "searchFaq": "FAQ durchsuchen",
-  "searchFaqPlaceholder": "Gib eine Frage ein…"
+  "searchFaqPlaceholder": "Gib eine Frage ein…",
+  "searchBlog": "Blog durchsuchen",
+  "searchBlogPlaceholder": "Tippen, um Beiträge zu suchen…"
 }

@@ -150,5 +150,7 @@
   "cookiePopup.marketingCookiesDesc": "I cookie di marketing vengono utilizzati per raccogliere le informazioni degli utenti",
   "cookiePopup.savePreferences": "Salva Preferenze",
   "searchFaq": "Cerca nelle FAQ",
-  "searchFaqPlaceholder": "Scrivi per cercare domande…"
+  "searchFaqPlaceholder": "Scrivi per cercare domande…",
+  "searchBlog": "Cerca nel blog",
+  "searchBlogPlaceholder": "Digita per cercare gli articoli…"
 }

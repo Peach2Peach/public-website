@@ -11,7 +11,19 @@ block main
           each tag in siteData.tags
             if (tag.lang === lang || (lang === 'en' && !tag.lang))
               a(href=getUrl(`/${tag.permalink}`, lang))= tag.tag
+    .blog-search(data-lang=lang)
+      label.blog-search__label(for='blog-search-input')
+        | !{i18n('searchBlog', lang) || 'Search the blog'}
+      input#blog-search-input.blog-search__input(
+        type='search'
+        placeholder=i18n('searchBlogPlaceholder', lang) || 'Type to search posts...'
+        autocomplete='off'
+      )
+      ul#blog-search-results.blog-search__results
     .content-wrap.posts
       each post in (posts || siteData.posts)
         if (post.lang === lang || (lang === 'en' && !post.lang))
           +postPreview(post)
+
+block scripts
+  script(src='/js/blog-search.js')
