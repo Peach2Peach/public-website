@@ -83,3 +83,74 @@
         gap: 10px;
     }
 }
+
+.faq-search {
+  margin-bottom: 1.5rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.faq-search__label {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-weight: 600;
+}
+
+.faq-search__input {
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid rgba(0,0,0,0.15);
+  font-size: 1rem;
+}
+
+.faq-search-results {
+  margin-top: 0.75rem;
+}
+
+.faq-search-results.is-hidden {
+  display: none;
+}
+
+.faq-search-results-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.faq-search-result {
+  margin-bottom: 0.5rem;
+}
+
+.faq-search-result a {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.75rem;
+  text-decoration: none;
+  border: 1px solid rgba(0,0,0,0.08);
+}
+
+.faq-search-result a:hover {
+  border-color: rgba(0,0,0,0.2);
+}
+
+.faq-search-result__question {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.1rem;
+}
+
+.faq-search-result__meta {
+  display: inline-block;
+  font-size: 0.8rem;
+  opacity: 0.7;
+  margin-right: 0.5rem;
+}
+
+.faq-search-result__snippet {
+  display: block;
+  font-size: 0.85rem;
+  opacity: 0.8;
+  margin-top: 0.15rem;
+}
