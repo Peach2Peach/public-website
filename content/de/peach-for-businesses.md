@@ -46,7 +46,7 @@ Integrieren Sie Peach direkt in Ihre Systeme mit unserer benutzerfreundlichen ö
 
 ### Von BTCPay Server verkaufen
 
-Wenn du ein Händler bist, der BTCPay Server verwendet, kannst du das [Peach-Plugin](https://peachbitcoin.com/it/blog/btcpay-plugin/) nutzen, um die in deinem Shop erhaltenen Zahlungen zum Fiatkurs zu verkaufen.
+Wenn du ein Händler bist, der BTCPay Server verwendet, kannst du das [Peach-Plugin](https://peachbitcoin.com/de/blog/btcpay-plugin/) nutzen, um die in deinem Shop erhaltenen Zahlungen zum Fiatkurs zu verkaufen.
 
 :::
 ::::

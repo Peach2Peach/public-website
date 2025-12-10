@@ -44,7 +44,7 @@ Intégrez Peach directement à vos systèmes grâce à notre [API](https://docs.
 
 ### Vendre depuis BTCPay Server
 
-Si tu es un marchand utilisant BTCPay Server, tu peux utiliser le [plugin Peach](https://peachbitcoin.com/it/blog/btcpay-plugin/) pour vendre en monnaie fiduciaire les paiements reçus sur ta boutique.
+Si tu es un marchand utilisant BTCPay Server, tu peux utiliser le [plugin Peach](https://peachbitcoin.com/fr/blog/btcpay-plugin/) pour vendre en monnaie fiduciaire les paiements reçus sur ta boutique.
 :::
 ::::
 

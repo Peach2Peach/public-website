@@ -45,7 +45,7 @@ Integre Peach directamente en sus sistemas con nuestra [API](https://docs.peachb
 
 ### Vender desde BTCPay Server
 
-Si eres un comerciante que utiliza BTCPay Server, puedes usar el [plugin de Peach](https://peachbitcoin.com/it/blog/btcpay-plugin/) para vender a fiat los pagos recibidos en tu tienda.
+Si eres un comerciante que utiliza BTCPay Server, puedes usar el [plugin de Peach](https://peachbitcoin.com/es/blog/btcpay-plugin/) para vender a fiat los pagos recibidos en tu tienda.
 :::
 ::::
 
