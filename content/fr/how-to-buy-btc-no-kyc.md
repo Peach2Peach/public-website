@@ -423,17 +423,6 @@ Il existe tout un tas de méthodes de paiement parmi lesquelles tu peux choisir.
 
 ---
 
-### Méthodes de paiement disponibles
-
-:::buttons
-[Click here](/fr/faq/Buy-&-Sell-Bitcoin-using-any-payment-method-2025-with-PeachBitcoin)
-:::
-pour découvrir **TOUTES NOS MÉTHODES DE PAIEMENT !**
-
-If there's another Payment Method you'd like to use, but it isn't listed, let us know by filling
-<br>
-**[THIS FORM](https://ncxldazr6m4.typeform.com/to/SJljDnae)!**
-
 ### Consulte notre carnet d’ordres
 
 :::buttons
