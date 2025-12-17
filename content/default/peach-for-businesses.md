@@ -37,7 +37,6 @@ Bring more users and increase your revenue with a custom referral code
 Integrate Peach directly into your systems with our easy-to-use Public [API](https://docs.peachbitcoin.com/#introduction) or one of the community-developed API wrappers in different languages 
 [Typescript](https://github.com/Peach2Peach/peach-api-ts)  
 [.NET](https://github.com/p2payserver/peachclient-net)  
-[Python](https://github.com/Jejis06/PeachBtcApiWrapper)
 :::
 
 :::box tech-peach
