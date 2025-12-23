@@ -204,6 +204,8 @@ The following rules are enforced by professional dispute mediators with fairness
 
 - In case of third party payments (payment originating from different details then the provided in the app), the seller is allowed to refund the payment and get the bitcoins back.
 
+- Communications between the two parties outside the trade chat (Telegram, WhatsApp, etc.) are not considered in case of disputes.
+
 ## 11. Peach fees
 
 Any contract successfully finished through the Peach platform will be subject to a fee; 2% of the total amount sent out of the escrow will be sent to a bitcoin address controlled by Peach. The remaining funds will be sent to the address indicated by the Buyer, minus any bitcoin transaction fees.
