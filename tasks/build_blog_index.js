@@ -9,9 +9,9 @@ const OUTPUT_DIR = path.join(__dirname, '..', 'dist', 'blog');
 const OUTPUT_FILE = path.join(OUTPUT_DIR, 'search-index.json');
 
 function getLangFromPath(filePath) {
-  // content/default/blog/...  => en
-  // content/de/default/blog/... => de
-  // content/es/default/blog/... => es, etc.
+  // content/default/blog/...     => en
+  // content/de/default/blog/...  => de
+  // content/es/default/blog/...  => es, etc.
   const parts = filePath.split(path.sep);
   const contentIndex = parts.indexOf('content');
   if (contentIndex === -1) return 'en';
@@ -32,6 +32,11 @@ function getSlugFromPath(filePath) {
     return path.basename(parsed.dir);
   }
   return parsed.name;
+}
+
+function stripDatePrefix(slug) {
+  // "2023-11-21-peach-reputation-system" => "peach-reputation-system"
+  return String(slug || '').replace(/^\d{4}-\d{2}-\d{2}-/, '');
 }
 
 function stripFrontMatter(raw) {
@@ -66,8 +71,10 @@ function extractFrontMatter(raw) {
     let value = trimmed.slice(colonIndex + 1).trim();
 
     // strip quotes
-    if ((value.startsWith('"') && value.endsWith('"')) ||
-        (value.startsWith("'") && value.endsWith("'"))) {
+    if (
+      (value.startsWith('"') && value.endsWith('"')) ||
+      (value.startsWith("'") && value.endsWith("'"))
+    ) {
       value = value.slice(1, -1);
     }
 
@@ -132,7 +139,12 @@ function buildIndex() {
     const { attributes, body } = extractFrontMatter(raw);
 
     const lang = attributes.lang || getLangFromPath(filePath);
-    const slug = attributes.slug || getSlugFromPath(filePath);
+
+    // IMPORTANT: normalize slugs so date-prefixed filenames don't become URLs
+    // Prefer explicit frontmatter slug, otherwise derive from filename and strip date prefix.
+    const rawSlug = attributes.slug || getSlugFromPath(filePath);
+    const slug = stripDatePrefix(rawSlug);
+
     const title = attributes.title || slug.replace(/-/g, ' ');
     const date = attributes.date || null;
     const tags = attributes.tags || [];
