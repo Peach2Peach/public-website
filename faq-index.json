@@ -1350,15 +1350,6 @@
     "lang": "en"
   },
   {
-    "section": "Trading",
-    "sectionKey": "trading",
-    "question": "Who can publish buy offers?",
-    "answer": "To publish a buy offer, you need at least 4 successful trade and a score of at least 3/5 peaches.",
-    "snippet": "To publish a buy offer, you need at least 4 successful trade and a score of at least 3/5 peaches.",
-    "url": "/faq/trading/#who-can-publish-buy-offers",
-    "lang": "en"
-  },
-  {
     "section": "Privacy",
     "sectionKey": "privacy",
     "question": "What info does Peach collect of me?",
@@ -1452,8 +1443,8 @@
     "section": "Payment methods",
     "sectionKey": "pm",
     "question": "How much  can I buy anonymously?",
-    "answer": "Anonymous payment methods, gift cards and cash at meetups, have a lower limit of 1000 CHF per month or the equivalent in another currency.",
-    "snippet": "Anonymous payment methods, gift cards and cash at meetups, have a lower limit of 1000 CHF per month or the equivalent in another currency.",
+    "answer": "Anonymous payment methods, gift cards and cash at meetups and USDT, have a lower limit of 1000 CHF per month or the equivalent in another currency.",
+    "snippet": "Anonymous payment methods, gift cards and cash at meetups and USDT, have a lower limit of 1000 CHF per month or the equivalent in another currency.",
     "url": "/faq/pm/#how-much-can-i-buy-anonymously",
     "lang": "en"
   },
