@@ -620,25 +620,25 @@
   {
     "name": "Bitcoin Tolosa",
     "url": "https://www.meetup.com/fr-FR/toulouse-bitcoin/",
-    "longitude":  1.4485,
+    "longitude": 1.4485,
     "latitude": 43.6116
   },
   {
     "name": "Einundzwanzig Linz",
     "url": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
-    "longitude":  14.287778,
+    "longitude": 14.287778,
     "latitude": 48.306389
   },
   {
     "name": "Micro Meetup Prager Platz",
     "url": "https://snort.social/npub14l3jy0cex4uy5ljx2thz397se4e3jymynklma6257nx4r2dnd65shkf822",
-    "longitude":  13.379722,
+    "longitude": 13.379722,
     "latitude": 52.507222
   },
   {
     "name": "Bitcoin 42 Meetup",
     "url": "https://t.me/bitcoin42meetup",
-    "longitude":  4.3872,
+    "longitude": 4.3872,
     "latitude": 45.4397
   },
   {
@@ -682,5 +682,11 @@
     "url": "https://northants-bitcoin-walk.npub.pro/",
     "longitude": -0.902656,
     "latitude": 52.240477
+  },
+  {
+    "name": "London Bitcoin Walk",
+    "url": "https://bitcoinwalk.org/london",
+    "longitude": -0.1278,
+    "latitude": 51.5074
   }
 ]
