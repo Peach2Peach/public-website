@@ -1,4 +1,4 @@
-# How to Buy Bitcoin on Peach Bitcoin Peer-to-Peer Exchange
+# How to Buy Bitcoin on Peach Bitcoin Peer-to-Peer marketplace
 
 ## Buy Bitcoin KYC-free with ARS
 

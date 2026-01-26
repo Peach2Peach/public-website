@@ -73,7 +73,7 @@ Peach es miembro de SRO (Organización de Autorregulación) de Polyreg. Peach es
 
 <div class="flex justify-center"><div class="w-1/2">
 
-![Swiss regulated Bitcoin exchange certified by Polyreg](/img/home/polyreg.png)
+![Swiss regulated Bitcoin marketplace certified by Polyreg](/img/home/polyreg.png)
 
 </div></div>
 

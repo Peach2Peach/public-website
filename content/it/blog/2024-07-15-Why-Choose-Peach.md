@@ -3,7 +3,7 @@ keywords:
   - Bitcoin
   - Che cos'è Bitcoin?
   - miglior exchange senza KYC
-  - exchange di Bitcoin senza KYC
+  - compra Bitcoin senza KYC
   - mercato P2P sat senza KYC
   - Conviene comprare Bitcoin nel 2024?
   - Perché Bitcoin?

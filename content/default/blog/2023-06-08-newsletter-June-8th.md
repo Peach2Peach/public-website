@@ -6,7 +6,7 @@ keywords:
   - Peach app
   - P2P
   - p2p
-  - p2p exchange
+  - p2p marketplace
   - how to buy bitcoin
   - how to sell bitcoin
   - peer to peer
@@ -41,7 +41,7 @@ While there, some wild bitcoiners appeared and brought some grass-fed meat, so w
 
 ![Bitcoin BBQ](https://img.mailinblue.com/5647291/images/content_library/original/64804d4e000a683033621785.jpg)
 
-This past week was a real life reminder that P2P relationships are what drives innovation and competition in this world, and we're more determined than ever to provide the best P2P exchange ever!
+This past week was a real life reminder that P2P relationships are what drives innovation and competition in this world, and we're more determined than ever to provide the best P2P marketplace ever!
 
 Even if we won't be there to meet you at all the upcoming conferences... We're still adding them as a cash payment method! Don't hesitate to publish your offers if you're attending the Prague conference this year, and look for peers who want to match with you! I bet you'll love trading with other peers face2face.
 

@@ -3,7 +3,7 @@ keywords:
   - bitcoin street price
   - raw btc price
   - mercati btc p2p
-  - privacy negli exchanger p2p
+  - privacy negli Marketplace p2p
 tags:
   - Newsletter
 previewImage: /img/blog/btcstreetprice.webp
@@ -35,7 +35,7 @@ Ed è nata Peach! Peach, la società, è stata creata nel febbraio 2022 in Svizz
 </table>
 
 <br><br>
-<img src="/img/blog/This-is-peer-to-peer.gif" alt="questa è la potenza di un exchanger p2p" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/This-is-peer-to-peer.gif" alt="questa è la potenza di un Marketplace p2p" style="display:block; margin: auto; width: 70%;">
 <br><br>
 
 Bene, tornando al prezzo di strada di Bitcoin… ossia il prezzo peer-to-peer! Io lo chiamo il prezzo grezzo, il prezzo puro, il prezzo senza intermediari, il prezzo naturale, il prezzo innocente… il prezzo al quale un individuo decide che in questo preciso istante, in questo preciso luogo e in questa situazione, Bitcoin vale <X> per lui/lei.

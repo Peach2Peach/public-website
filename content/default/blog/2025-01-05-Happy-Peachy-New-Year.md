@@ -22,7 +22,7 @@ From the bottom of our heart 🧡, the Peach team wishes you a bullish year ahea
 May 2025 be full of sats in your bag 🌽 and love in your chest 💜! 
 
 <br><br>
-<img src="/img/blog/Peachy-New-Year/happynewyear.gif" alt="Happy New Year from Peach Bitcoin, the best P2P exchanger in the world" style="display: block; margin: auto;">
+<img src="/img/blog/Peachy-New-Year/happynewyear.gif" alt="Happy New Year from Peach Bitcoin, the best P2P Marketplace in the world" style="display: block; margin: auto;">
 
 <br><br>
 

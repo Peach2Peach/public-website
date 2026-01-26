@@ -51,7 +51,7 @@ Cela est utile dans des cas comme la perte de vos seeds tout en souhaitant garde
 Mais ne nous attardons pas trop là-dessus.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood01.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/under-the-hood/underthehood01.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
 <br><br>
 
 Voici le code Javascript correspondant :
@@ -101,7 +101,7 @@ Soumettre la clé publique PGP est similaire au processus de soumission de la cl
 vous devez **signer la clé publique PGP avec votre clé privée Bitcoin**, afin de confirmer que vous êtes bien le propriétaire des deux clés (Bitcoin et PGP).
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
 <br><br>
 
 ```j
@@ -164,7 +164,7 @@ Si tout se passe bien, un Acheteur sera intéressé par cette offre et demandera
 Plus le Vendeur en propose, plus il a de chances d’attirer un Acheteur.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -225,7 +225,7 @@ Comme il s’agit d’un script sur la blockchain Bitcoin (une adresse P2WSH), P
 Peach choisit ensuite sa propre clé publique et construit l’adresse correspondante.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood04.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood04.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -548,7 +548,7 @@ Quelle aventure, non ? Mais nous y voilà, et vous pouvez maintenant soumettre l
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood05.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood05.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 C’est maintenant au Vendeur de jouer.
@@ -592,7 +592,7 @@ Puisqu’une clé symétrique a déjà été créée et envoyée par l’Acheteu
 Et voilà ! Le Vendeur peut maintenant accepter la demande, et l’échange officiel commence !
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood06.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood06.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -616,7 +616,7 @@ Et voilà ! Le Vendeur peut maintenant accepter la demande, et l’échange offi
 Si tout cela semble complexe, voici un schéma pour l’illustrer :
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood07.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 90%;">
+<img src="/img/blog/under-the-hood/underthehood07.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 90%;">
 <br><br>
 
 ## Étape 6.B : l’Acheteur déclare que le paiement a été effectué
@@ -672,7 +672,7 @@ Une fois le paiement fiat effectué, l’Acheteur doit le déclarer :
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood08.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood08.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 C’était la dernière étape pour l’Acheteur.  
@@ -706,7 +706,7 @@ Elle n’a besoin que de la signature du Vendeur pour devenir valide.
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 Le Vendeur peut alors finaliser la transaction, en ajoutant les deux signatures et le script de l’Escrow.  

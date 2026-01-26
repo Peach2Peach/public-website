@@ -51,7 +51,7 @@ Para ser franca, no lanzamos muchas cosas nuevas este año. Nos centramos en man
 
 **Proyecto Peach4Trader:** Es una mejora del mecanismo de trading que permitirá a los compradores ser los “maker” de una oferta. Actualmente, Peach funciona en una sola dirección donde solo el vendedor es el “maker”. Queremos mejorarlo para facilitar la formación de mercado para los vendedores y aumentar la velocidad de los volúmenes.<br>
 
-**Progressive Web App y Peach en escritorio:** Apple no acepta un exchange p2p en su marketplace a nivel global, así que debemos buscar otras formas. ¡Peach en escritorio también ampliará el atractivo!<br>
+**Progressive Web App y Peach en escritorio:** Apple no acepta un escambio p2p en su marketplace a nivel global, así que debemos buscar otras formas. ¡Peach en escritorio también ampliará el atractivo!<br>
 
 **Integración con Nostr:** Estamos cerca de lograr que cada oferta publicada en Peach se publique automáticamente también en Nostr 😊<br>
 

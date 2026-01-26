@@ -15,11 +15,11 @@ description: |
 
 # Peach Bitcoin celebrates its first anniversary: Dazzling innovations and… Heading South!
 
-At Peach Bitcoin, we have spent an entire year perfecting the art of providing a platform that embraces the fundamental values of Bitcoin. As we celebrate our first anniversary with the launch of Peach 0.3, allow us to guide you through this update, which is more than just a step forward; it’s a leap into the future of peer-to-peer exchange.
+At Peach Bitcoin, we have spent an entire year perfecting the art of providing a platform that embraces the fundamental values of Bitcoin. As we celebrate our first anniversary with the launch of Peach 0.3, allow us to guide you through this update, which is more than just a step forward; it’s a leap into the future of Peer-to-Peer marketplace.
 
 ## Back to Basics
 
-The new version of Peach offers a comprehensive Bitcoin wallet, giving users more control in managing their transactions. In a world where every online value transfer is potentially a breach of freedom, Bitcoin empowers each individual to use their wealth without seeking permission. Peach’s mission is to provide everyone with a peer-to-peer exchange tool fully aligned with the ethos of Bitcoin.
+The new version of Peach offers a comprehensive Bitcoin wallet, giving users more control in managing their transactions. In a world where every online value transfer is potentially a breach of freedom, Bitcoin empowers each individual to use their wealth without seeking permission. Peach’s mission is to provide everyone with a Peer-to-Peer marketplace tool fully aligned with the ethos of Bitcoin.
 
 ## Expanding Horizons
 
@@ -37,7 +37,7 @@ The power of Bitcoin largely rests on trust and transparency. Peach 0.3 takes an
 
 ## The Peach Promise
 
-The Peach 0.3 update is not just an improved version of our app; it reflects our commitment to providing an exceptional user experience while respecting our core values. Peach does not store your personal data, guarantees the anonymous exchange of bitcoins, and promotes a free market, just as Bitcoin intends.
+The Peach 0.3 update is not just an improved version of our app; it reflects our commitment to providing an exceptional user experience while respecting our core values. Peach does not store your personal data, guarantees data security and privacy of users, and promotes a free market, just as Bitcoin intends.
 
 To quote one of our co-founders: "Some people will join Peach because they agree with our values. But the majority will use Peach because it’s the best product available to them."
 

@@ -54,7 +54,7 @@ Questo è utile, ad esempio, in caso di perdita dei seed mantenendo lo stesso ac
 Ma non soffermiamoci troppo su questo.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood01.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/under-the-hood/underthehood01.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
 <br><br>
 
 Ecco il codice in JavaScript:
@@ -104,7 +104,7 @@ Inviare la chiave pubblica PGP è simile all’invio della chiave pubblica Bitco
 la chiave pubblica PGP deve essere **firmata con la chiave privata Bitcoin**, per confermare che l’utente possiede entrambe le chiavi.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
 <br><br>
 
 ```j
@@ -165,7 +165,7 @@ A quel punto dovrà selezionare **una sola valuta e un solo metodo di pagamento*
 Più il Venditore mostra opzioni, più probabilità ha di attirare un Acquirente.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -226,7 +226,7 @@ A questo punto, il Venditore invia la chiave pubblica da usare per l’Escrow.
 Peach seleziona la propria chiave pubblica e costruisce l’indirizzo.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood04.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood04.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -542,7 +542,7 @@ Ora tutto è pronto, e l’Acquirente invia la richiesta.
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood05.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood05.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 Il turno passa al Venditore.
@@ -584,7 +584,7 @@ Poiché l’Acquirente ha già inviato una chiave simmetrica, il Venditore può 
 A questo punto, l’offerta è ufficialmente accettata e inizia lo scambio.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood06.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood06.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -608,7 +608,7 @@ A questo punto, l’offerta è ufficialmente accettata e inizia lo scambio.
 Se tutto il processo è complesso, ecco un’immagine che lo illustra:
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood07.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 90%;">
+<img src="/img/blog/under-the-hood/underthehood07.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 90%;">
 <br><br>
 
 ## Passo 6.B: L’Acquirente dichiara il pagamento
@@ -662,7 +662,7 @@ Dopo il pagamento, l’Acquirente dichiara l’avvenuto pagamento:
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood08.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood08.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 Questo conclude il passo dell’Acquirente.  
@@ -696,7 +696,7 @@ che invia il Bitcoin dell’Escrow all’indirizzo dell’Acquirente.
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 Il Venditore aggiunge la firma e lo script dell’Escrow.  

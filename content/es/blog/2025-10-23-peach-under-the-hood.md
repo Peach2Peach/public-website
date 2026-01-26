@@ -51,7 +51,7 @@ Para hacerlo, debes:
 También necesitas generar un uniqueId (identificador único) que se usará para evitar que otros usuarios finjan ser tú. Esto es útil en casos como la pérdida de las semillas y mantener la misma cuenta. Pero no nos enfoquemos demasiado en eso.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood01.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/under-the-hood/underthehood01.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
 <br><br>
 
 
@@ -98,7 +98,7 @@ Habrá mucha encriptación, pero también algo de desencriptación. Las Claves B
 Enviar la Clave Pública PGP es similar al proceso de enviar la Clave Pública Bitcoin. Sin embargo, hay un paso adicional: firmar la Clave Pública PGP con la Clave Privada Bitcoin, para verificar doblemente que el usuario es propietario de ambas claves, la Bitcoin y la PGP.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
 <br><br>
 
 ```j
@@ -164,7 +164,7 @@ Crear una Oferta de Venta equivale a anunciar que estás dispuesto a vender una 
 Si todo va bien, un Comprador se interesará en la oferta y solicitará comerciar con ella. En ese momento, tendrá que seleccionar una sola Moneda y un solo Método de Pago de entre los disponibles, pero mientras más opciones muestre el Vendedor, mayores serán sus posibilidades de atraer a un Comprador.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -219,7 +219,7 @@ Como requiere la autorización del Vendedor, y el Escrow es un Script en la Bloc
 En este momento, el Vendedor envía la Clave Pública que desea usar para el Escrow a Peach, Peach selecciona su propia Clave Pública para la bóveda y la construye, generando una dirección.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood04.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood04.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -534,7 +534,7 @@ En este caso, puedes definir la Tarifa Máxima de Minería que estás dispuesto 
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood05.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood05.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 Ahora es el turno del Vendedor de aceptarla.
@@ -578,7 +578,7 @@ Como el Comprador ya creó y envió una Clave Simétrica, el Vendedor puede desc
 ¡Y eso es todo! Ahora el Vendedor puede aceptar la Solicitud de Comercio y comienza una transacción oficial.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood06.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood06.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -602,7 +602,7 @@ Como el Comprador ya creó y envió una Clave Simétrica, el Vendedor puede desc
 Si entender todo el proceso fue difícil, aquí hay una imagen para ilustrarlo:
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood07.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 90%;">
+<img src="/img/blog/under-the-hood/underthehood07.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 90%;">
 <br><br>
 
 ## Paso 6.B: el Comprador declara que el Pago ha sido realizado
@@ -657,7 +657,7 @@ Después de realizar la transferencia Fiat, el Comprador debe declarar que el Pa
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood08.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood08.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 Este fue el último paso del Comprador.  
@@ -690,7 +690,7 @@ Esto significa que solo necesita la firma del Vendedor para convertirse en una t
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 Ahora el Vendedor puede finalizar la Transacción, pasando las dos firmas y el Script Bitcoin del Escrow.  

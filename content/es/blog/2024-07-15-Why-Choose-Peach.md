@@ -2,12 +2,12 @@
 keywords:
   - Bitcoin
   - ¿Qué es Bitcoin?
-  - mejor exchanger sin KYC
-  - exchanger de Bitcoin sin KYC
+  - mejor Marketplace sin KYC
+  - Marketplace de Bitcoin sin KYC
   - mercado P2P sat sin KYC
   - ¿Vale la pena comprar Bitcoin en 2024?
   - ¿Por qué Bitcoin?
-  - Mejor exchanger de Bitcoin 2024
+  - Mejor Marketplace de Bitcoin 2024
   - ¿Es Bitcoin seguro contra la explotación?
 tags:
   - Empresa

@@ -4,7 +4,7 @@ keywords:
   - Peach app
   - P2P
   - p2p
-  - p2p exchange
+  - p2p marketplace
 tags:
   - education
 previewImage: /img/blog/why-p2p/origins.jpeg

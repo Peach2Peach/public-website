@@ -3,7 +3,7 @@ keywords:
   - BTCPay Server
   - Bitcoin payments
   - sell bitcoin
-  - P2P exchange
+  - p2p marketplace
   - self-custodial
   - KYC-free
   - merchant tools
@@ -13,7 +13,7 @@ tags:
   - BTCPay Server
   - Bitcoin payments
   - Sell bitcoin
-  - P2P exchange
+  - p2p marketplace
   - Self-custodial
   - KYC-free
   - Merchant tools

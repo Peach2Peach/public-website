@@ -52,7 +52,7 @@ Para isso, você precisa:
 Você também precisa gerar um uniqueId (identificador único) que será usado para evitar que outros usuários finjam ser você. Isso é útil em casos como perda das seeds e manutenção da mesma conta. Mas não vamos focar muito nisso agora.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood01.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/under-the-hood/underthehood01.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
 <br><br>
 
 
@@ -101,7 +101,7 @@ Isso é fundamental para criptografar e descriptografar dados bancários, mensag
 O envio da Chave Pública PGP é semelhante ao processo de envio da Chave Pública Bitcoin. No entanto, há uma etapa extra: assinar a Chave Pública PGP com a Chave Privada Bitcoin, para verificar que o usuário é dono de ambas as chaves — Bitcoin e PGP.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
 <br><br>
 
 ```j
@@ -160,7 +160,7 @@ Se tudo correr bem, um Comprador se interessará pela oferta e solicitará a neg
 Nesse momento, ele precisará selecionar uma única Moeda e um único Método de Pagamento dentre os disponíveis — quanto mais opções o Vendedor oferecer, maiores as chances de atrair um Comprador.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -219,7 +219,7 @@ Como ele exige a autorização do Vendedor, e o Escrow é um Script na Blockchai
 Neste momento, o Vendedor envia a Chave Pública que deseja usar para o Escrow à Peach; a Peach seleciona sua própria Chave Pública para o cofre e o constrói, resultando em um endereço.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood04.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood04.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -538,7 +538,7 @@ Que jornada, hein? Mas é isso — agora você pode enviá-la.
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood05.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood05.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 Agora é a vez do Vendedor aceitá-la.
@@ -582,7 +582,7 @@ Como uma Chave Simétrica já foi criada e enviada pelo Comprador, o Vendedor po
 E pronto! Agora o Vendedor pode aceitar a Solicitação de Negociação e uma troca oficial começa!
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood06.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood06.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -606,7 +606,7 @@ E pronto! Agora o Vendedor pode aceitar a Solicitação de Negociação e uma tr
 Se compreender todo o processo foi difícil, aqui está uma imagem para ilustrá-lo:
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood07.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 90%;">
+<img src="/img/blog/under-the-hood/underthehood07.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 90%;">
 <br><br>
 
 ## Passo 6.B: o Comprador declara que o Pagamento foi feito
@@ -661,7 +661,7 @@ Após realizar a transferência Fiat, o Comprador deve declarar que o Pagamento 
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood08.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood08.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 Esse foi o último passo do Comprador.  
@@ -694,7 +694,7 @@ Isso significa que só precisa da assinatura do Vendedor para se tornar uma tran
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 Agora o Vendedor pode finalizar a Transação, passando as duas assinaturas e o Script Bitcoin do Escrow.  
