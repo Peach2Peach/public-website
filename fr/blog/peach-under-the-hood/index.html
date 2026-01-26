@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"/><meta http-equiv="X-UA-Compatible" content="ie=edge"/><meta http-equiv="X-Frame-Options" content="DENY"/><meta http-equiv="X-XSS-Protection" content="1; mode=block"/><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/><meta name="keywords" content="[&quot;Produit&quot;,&quot;P2P&quot;,&quot;tutoriel&quot;,&quot;programmation&quot;,&quot;javascript&quot;,&quot;bitcoin&quot;]"/><meta name="description" content="Aaaaah, le Bitcoin — cette merveilleuse forme de monnaie qui prospère grâce à ses caractéristiques fondamentales. Nous l’aimons tous, mais nous savons aussi qu’il comporte des risques liés à la souveraineté individuelle : partagez vos seeds, et vous perdez tout. Envoyez des fonds à la mauvaise adresse, et vous ne les reverrez jamais."/><meta property="og:locale" content="fr"/><meta property="og:site_name"/><meta property="og:title" content="Peach Bitcoin Exchange - Buy and Sell Bitcoin Anonymously and Without KYC"/><meta property="og:description" content="Peach Bitcoin - Buy Bitcoin with gift card, no verification. Exchange peer to peer for anonymous transactions. Learn how to buy and sell Bitcoin privately and without KYC. Manage your Bitcoin securely with our non-KYC platform."/><meta property="og:type" content="website"/><meta property="og:image" content="/img/blog/under-the-hood/peachmechanic2.png"/><meta property="og:image:secure_url" content="/img/blog/under-the-hood/peachmechanic2.png"/><meta property="og:image:width" content="1296"/><meta property="og:image:height" content="678"/><meta name="twitter:site" content="@peachbitcoin"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Peach Bitcoin sous le capot : un regard technique sur pourquoi c’est le plus sûr des échanges P2P · Peach Bitcoin"/><meta name="twitter:description" content="Peach Bitcoin - Buy Bitcoin with gift card, no verification. Exchange peer to peer for anonymous transactions. Learn how to buy and sell Bitcoin privately and  without KYC. Manage your Bitcoin securely with our non-KYC platform."/><meta name="twitter:image" content="/img/blog/under-the-hood/peachmechanic2.png"/><meta name="msapplication-TileColor" content="#F56522"/><meta name="cf-2fa-verify" content="e22767e30dc139c"/><meta name="theme-color" content="#F56522"/><link rel="preload" as="font" crossorigin="crossorigin" href="/fonts/baloo-2-v16-latin-regular.woff2"/><link rel="preload" as="font" crossorigin="crossorigin" href="/fonts/baloo-2-v16-latin-600.woff2"/><link rel="preload" as="font" crossorigin="crossorigin" href="/fonts/baloo-2-v16-latin-800.woff2"/><link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png"/><link rel="icon" href="/img/favicon/favicon.svg"/><link rel="manifest" href="/site.webmanifest"/><link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#F56522"/><link rel="stylesheet" href="/css/main-97baa8fc56d9ccead3e5dd2528ce1a15.css"/><title>Peach Bitcoin sous le capot : un regard technique sur pourquoi c’est le plus sûr des échanges P2P · Peach Bitcoin</title><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"/><meta http-equiv="X-UA-Compatible" content="ie=edge"/><meta http-equiv="X-Frame-Options" content="DENY"/><meta http-equiv="X-XSS-Protection" content="1; mode=block"/><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/><meta name="keywords" content="[&quot;Produit&quot;,&quot;P2P&quot;,&quot;tutoriel&quot;,&quot;programmation&quot;,&quot;javascript&quot;,&quot;bitcoin&quot;]"/><meta name="description" content="Aaaaah, le Bitcoin — cette merveilleuse forme de monnaie qui prospère grâce à ses caractéristiques fondamentales. Nous l’aimons tous, mais nous savons aussi qu’il comporte des risques liés à la souveraineté individuelle : partagez vos seeds, et vous perdez tout. Envoyez des fonds à la mauvaise adresse, et vous ne les reverrez jamais."/><meta property="og:locale" content="fr"/><meta property="og:site_name"/><meta property="og:title" content="Peach Bitcoin Marketplace - Buy and Sell Bitcoin Anonymously and Without KYC"/><meta property="og:description" content="Peach Bitcoin - Buy Bitcoin with gift card, no verification. Marketplace peer to peer for anonymous transactions. Learn how to buy and sell Bitcoin privately and without KYC. Manage your Bitcoin securely with our non-KYC platform."/><meta property="og:type" content="website"/><meta property="og:image" content="/img/blog/under-the-hood/peachmechanic2.png"/><meta property="og:image:secure_url" content="/img/blog/under-the-hood/peachmechanic2.png"/><meta property="og:image:width" content="1296"/><meta property="og:image:height" content="678"/><meta name="twitter:site" content="@peachbitcoin"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Peach Bitcoin sous le capot : un regard technique sur pourquoi c’est le plus sûr des échanges P2P · Peach Bitcoin"/><meta name="twitter:description" content="Peach Bitcoin - Buy Bitcoin with gift card, no verification. Marketplace peer to peer for anonymous transactions. Learn how to buy and sell Bitcoin privately and  without KYC. Manage your Bitcoin securely with our non-KYC platform."/><meta name="twitter:image" content="/img/blog/under-the-hood/peachmechanic2.png"/><meta name="msapplication-TileColor" content="#F56522"/><meta name="cf-2fa-verify" content="e22767e30dc139c"/><meta name="theme-color" content="#F56522"/><link rel="preload" as="font" crossorigin="crossorigin" href="/fonts/baloo-2-v16-latin-regular.woff2"/><link rel="preload" as="font" crossorigin="crossorigin" href="/fonts/baloo-2-v16-latin-600.woff2"/><link rel="preload" as="font" crossorigin="crossorigin" href="/fonts/baloo-2-v16-latin-800.woff2"/><link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png"/><link rel="icon" href="/img/favicon/favicon.svg"/><link rel="manifest" href="/site.webmanifest"/><link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#F56522"/><link rel="stylesheet" href="/css/main-97baa8fc56d9ccead3e5dd2528ce1a15.css"/><title>Peach Bitcoin sous le capot : un regard technique sur pourquoi c’est le plus sûr des échanges P2P · Peach Bitcoin</title><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -30,7 +30,7 @@ C’est pourquoi j’écris cet article : pour <strong>montrer à quel point Pea
 Cela est utile dans des cas comme la perte de vos seeds tout en souhaitant garder le même compte.<br>
 Mais ne nous attardons pas trop là-dessus.</p>
 <p><br><br>
-<img src="/img/blog/under-the-hood/underthehood01.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/under-the-hood/underthehood01.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
 <br><br></p>
 <p>Voici le code Javascript correspondant :</p>
 <pre><code class="language-j">
@@ -72,7 +72,7 @@ C’est essentiel pour sécuriser les données bancaires, les messages de chat, 
 <p>Soumettre la clé publique PGP est similaire au processus de soumission de la clé publique Bitcoin, mais il y a une étape supplémentaire :<br>
 vous devez <strong>signer la clé publique PGP avec votre clé privée Bitcoin</strong>, afin de confirmer que vous êtes bien le propriétaire des deux clés (Bitcoin et PGP).</p>
 <p><br><br>
-<img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
 <br><br></p>
 <pre><code class="language-j">
 const { privateKey: pgpPrivateKey, publicKey: pgpPublicKey } =
@@ -124,7 +124,7 @@ Mais ce n’est pas tout : le Vendeur doit également préciser ce qu’il accep
 À ce moment-là, il devra sélectionner une seule devise et une seule méthode de paiement parmi celles proposées.<br>
 Plus le Vendeur en propose, plus il a de chances d’attirer un Acheteur.</p>
 <p><br><br>
-<img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br></p>
 <pre><code class="language-j">
 const sats_to_sell = 21000;
@@ -174,7 +174,7 @@ Comme il s’agit d’un script sur la blockchain Bitcoin (une adresse P2WSH), P
 <p>À ce moment-là, le Vendeur soumet à Peach la clé publique qu’il souhaite utiliser pour l’Escrow.<br>
 Peach choisit ensuite sa propre clé publique et construit l’adresse correspondante.</p>
 <p><br><br>
-<img src="/img/blog/under-the-hood/underthehood04.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood04.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br></p>
 <pre><code class="language-j">const childSell = root.derivePath(`m/84'/0'/0'/${sellOfferId}'`);
 
@@ -439,7 +439,7 @@ Dans ce cas, vous pouvez définir le <strong>frais de minage maximum</strong> qu
 
 </code></pre>
 <p><br><br>
-<img src="/img/blog/under-the-hood/underthehood05.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood05.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br></p>
 <p>C’est maintenant au Vendeur de jouer.</p>
 <h2 id="tape-5s-le-vendeur-accepte-la-demande-dchange">Étape 5.S : le Vendeur accepte la demande d’échange</h2>
@@ -472,7 +472,7 @@ Il consulte la liste des demandes d’échange :</p>
 </code></pre>
 <p>Et voilà ! Le Vendeur peut maintenant accepter la demande, et l’échange officiel commence !</p>
 <p><br><br>
-<img src="/img/blog/under-the-hood/underthehood06.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood06.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br></p>
 <pre><code class="language-j">  await session.post(
     &quot;v069/sellOffer/&quot; +
@@ -492,7 +492,7 @@ Il consulte la liste des demandes d’échange :</p>
 </code></pre>
 <p>Si tout cela semble complexe, voici un schéma pour l’illustrer :</p>
 <p><br><br>
-<img src="/img/blog/under-the-hood/underthehood07.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 90%;">
+<img src="/img/blog/under-the-hood/underthehood07.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 90%;">
 <br><br></p>
 <h2 id="tape-6b-lacheteur-dclare-que-le-paiement-a-t-effectu">Étape 6.B : l’Acheteur déclare que le paiement a été effectué</h2>
 <p>L’Acheteur peut vérifier s’il a des <strong>contrats actifs</strong> (des échanges acceptés par les deux parties) via l’endpoint <code>contract summaries</code> de l’API :</p>
@@ -534,7 +534,7 @@ Vous pouvez même consulter l’adresse de l’Escrow (fournie par l’API du co
   );
 </code></pre>
 <p><br><br>
-<img src="/img/blog/under-the-hood/underthehood08.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood08.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br></p>
 <p>C’était la dernière étape pour l’Acheteur.<br>
 Désormais, le Vendeur doit confirmer qu’il a bien reçu le paiement et libérer les Bitcoins dans l’Escrow vers l’adresse de l’Acheteur.</p>
@@ -559,7 +559,7 @@ Elle n’a besoin que de la signature du Vendeur pour devenir valide.</p>
 
 </code></pre>
 <p><br><br>
-<img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br></p>
 <p>Le Vendeur peut alors finaliser la transaction, en ajoutant les deux signatures et le script de l’Escrow.<br>
 Comme nous passons par le chemin <strong>MultiSig</strong> du script (le second), il faut ajouter <code>OP_FALSE</code> dans la pile afin que la condition IF soit correctement évaluée.</p>
