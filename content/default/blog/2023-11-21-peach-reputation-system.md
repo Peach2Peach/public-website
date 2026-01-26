@@ -2,7 +2,7 @@
 keywords:
   - P2P
   - p2p
-  - p2p exchange
+  - p2p marketplace
   - reputation
 previewImage: /img/blog/reputation-system/5-peaches-preview.jpg
 description: |

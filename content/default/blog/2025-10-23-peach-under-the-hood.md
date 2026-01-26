@@ -13,7 +13,7 @@ tags:
 previewImage: /img/blog/under-the-hood/peachmechanic2.png
 ---
 
-# Peach Bitcoin Under the Hood: a technical look at why it’s the safest P2P exchange
+# Peach Bitcoin Under the Hood: a technical look at why it’s the safest P2P marketplace
 
 
 
@@ -51,7 +51,7 @@ To do so, you need to:
 You also need to generate a uniqueId which will be used to avoid other users to pretend to be you. This is useful in cases such as losing the seeds and keeping the same account. But let’s not focus too much on this.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood01.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/under-the-hood/underthehood01.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
 <br><br>
 
 Here is the code to perform this in Javascript:
@@ -95,7 +95,7 @@ Congratulations! You have just created an account on Peach! The Server has valid
 There will be a lot of encryption, but also some decryption. The Bitcoin Keys only allow one-way encryption, so we will need PGP Keys to perform 2-way encryption. This is fundamental to encrypt and decrypt bank account data, chat messages, etc. Submitting the Public PGP key is similar to the process of submitting the Public Bitcoin Key. However, there is an extra step of signing the Public PGP Key with the Bitcoin Private Key, to double-check that the user is the owner of both Bitcoin and PGP keys.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
 <br><br>
 
 ```j
@@ -162,7 +162,7 @@ Creating a Sell Offer is equivalent to announcing that you are willing to sell a
 If everything goes well, a Buyer will be interested in the offer and request to trade with it. At that moment, he will have to select one single Currency and Payment Method from the available ones, but the more the Seller displays the higher his chances of attracting a Buyer are.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -217,7 +217,7 @@ The Escrow is like a Vault that requires both the Seller’s and Peach’s autho
 At this moment, the Seller submits the Public Key he wants to use for the Escrow to Peach, Peach selects its own Public Key for the Vault and constructs it, resulting in an address.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood04.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood04.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -543,7 +543,7 @@ What a ride, hun? But here it is, and you can submit it.
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood05.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood05.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 
@@ -587,7 +587,7 @@ Since a Symmetric Key was already created and submitted by the Buyer, the Seller
 And that is it! Now the Seller can accept the Trade Request and an official Trade begins!
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood06.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood06.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -611,7 +611,7 @@ And that is it! Now the Seller can accept the Trade Request and an official Trad
 If understanding the entire process was hard, here is a picture to illustrate it:
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood07.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 90%;">
+<img src="/img/blog/under-the-hood/underthehood07.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 90%;">
 <br><br>
 
 ## Step 6.B: Buyer declares the Payment as made
@@ -662,7 +662,7 @@ After performing the Fiat transfer, the Buyer must declare that the Payment was 
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood08.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood08.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 This was the Buyer’s last step. Now the Seller must confirm he received the Fiat, and
@@ -694,7 +694,7 @@ On the Contract’s API response, the Seller will get a Partially Signed Bitcoin
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 Now the Seller can finalize the Transaction, by passing the 2 signatures and the Escrow Bitcoin Script. Since we are going through the MultiSig path of the script (written as the 2nd path, we need to pass `OP_FALSE` to the stack, to influence the IF statement correctly)

@@ -6,7 +6,7 @@ keywords:
   - Peach app
   - P2P
   - p2p
-  - p2p exchange
+  - p2p marketplace
   - how to buy bitcoin
   - how to sell bitcoin
   - peer to peer

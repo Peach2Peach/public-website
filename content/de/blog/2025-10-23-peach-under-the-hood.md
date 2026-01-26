@@ -51,7 +51,7 @@ Du musst außerdem eine uniqueId generieren, die verwendet wird, um zu verhinder
 
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood01.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/under-the-hood/underthehood01.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
 <br><br>
 
 Hier ist der Code, um dies in Javascript auszuführen:
@@ -95,7 +95,7 @@ Herzlichen Glückwunsch! Du hast gerade ein Konto auf Peach erstellt! Der Server
 Es wird viel Verschlüsselung, aber auch etwas Entschlüsselung geben. Die Bitcoin-Schlüssel erlauben nur Einweg-Verschlüsselung, daher benötigen wir PGP-Schlüssel, um eine Zwei-Wege-Verschlüsselung durchzuführen. Dies ist grundlegend, um Bankkontodaten, Chatnachrichten usw. zu verschlüsseln und zu entschlüsseln. Das Einreichen des öffentlichen PGP-Schlüssels ist ähnlich wie das Einreichen des öffentlichen Bitcoin-Schlüssels. Allerdings gibt es einen zusätzlichen Schritt: der öffentliche PGP-Schlüssel muss mit dem Bitcoin-Private-Key signiert werden, um sicherzustellen, dass der Benutzer sowohl Eigentümer der Bitcoin- als auch der PGP-Schlüssel ist.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
 <br><br>
 
 ```j
@@ -159,7 +159,7 @@ Ein Verkaufsangebot zu erstellen bedeutet, dass du ankündigst, bereit zu sein, 
 Wenn alles gut läuft, wird ein Käufer an dem Angebot interessiert sein und eine Handelsanfrage stellen. In diesem Moment muss er eine einzelne Währung und Zahlungsmethode aus den verfügbaren auswählen. Je mehr Optionen der Verkäufer jedoch anbietet, desto größer sind seine Chancen, einen Käufer anzuziehen.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -215,7 +215,7 @@ Der Escrow ist wie ein Tresor, der sowohl die Autorisierung des Verkäufers als 
 In diesem Moment übermittelt der Verkäufer den Public Key, den er für den Escrow verwenden möchte, an Peach. Peach wählt seinen eigenen Public Key für den Tresor und konstruiert ihn, wodurch eine Adresse entsteht.
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood04.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood04.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -536,7 +536,7 @@ Was für ein Abenteuer, oder? Aber hier ist sie, und du kannst sie einreichen.
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood05.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood05.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 
@@ -581,7 +581,7 @@ Da der Käufer bereits einen symmetrischen Schlüssel erstellt und eingereicht h
 Und das war’s! Jetzt kann der Verkäufer die Handelsanfrage akzeptieren und ein offizieller Handel beginnt!
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood06.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood06.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 ```j
@@ -605,7 +605,7 @@ Und das war’s! Jetzt kann der Verkäufer die Handelsanfrage akzeptieren und ei
 Wenn es schwierig war, den gesamten Prozess zu verstehen, hier ist ein Bild zur Veranschaulichung:
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood07.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 90%;">
+<img src="/img/blog/under-the-hood/underthehood07.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 90%;">
 <br><br>
 
 ## Schritt 6.B: Käufer erklärt die Zahlung als durchgeführt
@@ -656,7 +656,7 @@ Nach der Durchführung der Fiat-Überweisung muss der Käufer erklären, dass di
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood08.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood08.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 Das war der letzte Schritt des Käufers. Nun muss der Verkäufer bestätigen, dass er das Fiat erhalten hat, und die Bitcoin im Escrow an die Adresse des Käufers freigeben.
@@ -687,7 +687,7 @@ In der API-Antwort des Vertrags erhält der Verkäufer eine teilweise signierte 
 ```
 
 <br><br>
-<img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 40%;">
+<img src="/img/blog/under-the-hood/underthehood09.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
 <br><br>
 
 Nun kann der Verkäufer die Transaktion finalisieren, indem er die beiden Signaturen und das Escrow-Bitcoin-Skript übergibt. Da wir den MultiSig-Pfad des Skripts durchlaufen (als 2. Pfad geschrieben), müssen wir OP_FALSE an den Stack übergeben, um die IF-Bedingung korrekt zu beeinflussen.

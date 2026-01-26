@@ -3,7 +3,7 @@ keywords:
   - bitcoin street price
   - raw btc price
   - p2p btc markets
-  - privacy in p2p exchanger
+  - privacy in p2p Marketplace
 tags:
   - Newsletter
 previewImage: /img/blog/btcstreetprice.webp
@@ -37,7 +37,7 @@ And Peach was born! Peach the company was created in February 2022 in Switzerlan
 </table>
 
 <br><br>
-<img src="/img/blog/This-is-peer-to-peer.gif" alt="this is the power of p2p exchanger" style="display:block; margin: auto; width: 70%;">
+<img src="/img/blog/This-is-peer-to-peer.gif" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
 <br><br>
 
 Alright so now going back to the Bitcoin street price… aka the peer-to-peer price!!! I call it the raw price, the pure price, the intermediate-free price, the natural price, the innocent price… the price at which an individual decides that at this exact moment in time, in this exact place and in this exact situation, Bitcoin is worth <X> to him/her.

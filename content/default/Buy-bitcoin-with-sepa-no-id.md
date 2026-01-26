@@ -1,4 +1,4 @@
-# How to Buy Bitcoin on Peach Bitcoin Peer-to-Peer Exchange Using SEPA
+# How to Buy Bitcoin on Peach Bitcoin Peer-to-Peer marketplace Using SEPA
 
 ## Buy Bitcoin KYC-free with SEPA or Instant-SEPA
 

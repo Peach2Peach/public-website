@@ -6,7 +6,7 @@ keywords:
   - P2P
   - p2p
   - peer to peer
-  - exchange
+  - marketplace
   - trading
 tags:
   - Company

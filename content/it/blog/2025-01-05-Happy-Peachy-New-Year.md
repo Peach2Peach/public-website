@@ -21,7 +21,7 @@ Dal profondo del nostro cuore 🧡, il team Peach vi augura un anno rialzista �
 Che il 2025 sia pieno di sats nel vostro portafoglio 🌽 e di amore nel vostro cuore 💜!
 
 <br><br>
-<img src="/img/blog/Peachy-New-Year/happynewyear.gif" alt="Buon Anno da Peach Bitcoin, il miglior exchanger P2P al mondo" style="display: block; margin: auto;">
+<img src="/img/blog/Peachy-New-Year/happynewyear.gif" alt="Buon Anno da Peach Bitcoin, il miglior Marketplace P2P al mondo" style="display: block; margin: auto;">
 
 <br><br>
 

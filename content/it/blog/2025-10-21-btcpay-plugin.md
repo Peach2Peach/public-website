@@ -3,7 +3,7 @@ keywords:
   - BTCPay Server
   - Bitcoin payments
   - sell bitcoin
-  - P2P exchange
+  - p2p marketplace
   - self-custodial
   - KYC-free
   - merchant tools
@@ -13,7 +13,7 @@ tags:
   - BTCPay Server
   - Bitcoin payments
   - Sell bitcoin
-  - P2P exchange
+  - p2p marketplace
   - Self-custodial
   - KYC-free
   - Merchant tools
@@ -40,7 +40,7 @@ Sebbene Bitcoin sia un ottimo strumento per trasferimenti internazionali e riser
 
 ## Che cos’è Peach Bitcoin?
 
-**Peach Bitcoin** è un exchange **peer-to-peer (P2P)** di Bitcoin, cifrato, auto-custodiale e senza KYC, pensato per utenti attenti alla privacy.  
+**Peach Bitcoin** è un mercato **peer-to-peer (P2P)** di Bitcoin, cifrato, auto-custodiale e senza KYC, pensato per utenti attenti alla privacy.  
 A differenza degli exchange centralizzati che richiedono la verifica dell’identità e conservano i dati degli utenti, Peach permette scambi diretti tra individui senza intermediari.  
 Tutte le transazioni sono cifrate e l’utente mantiene sempre il pieno controllo dei propri fondi.  
 Attraverso l’app mobile, Peach collega acquirenti e venditori in tutto il mondo, supportando diversi metodi di pagamento e ponendo al centro la sovranità dell’utente.

@@ -4,7 +4,7 @@ keywords:
   - code
   - Bitcoin
   - peer to peer
-  - exchange
+  - marketplace
   - trading
 tags:
   - Code
