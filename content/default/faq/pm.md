@@ -2,7 +2,7 @@
 
 :::details Can I buy with Paypal?
 Being PayPal a high risk payment method for sellers, buyers have some requirements to be able to buy:  
-- At least 500 CHF traded in the last rolling year, with any payment method.  
+- At least 500 CHF traded with your Peach account, with any payment method.  
 - At least 3 trades.  
 - at least a 4.5 reputation score.  
 :::
