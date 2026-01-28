@@ -17,3 +17,7 @@
   width: 100%;
   height: 60vh;
 }
+
+.content-wrap--after-map {
+  margin-top: var(--space-xl);
+}
