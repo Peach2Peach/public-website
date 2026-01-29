@@ -63,7 +63,13 @@ It is not allowed to create more than one Peach account. In order to ensure that
 
 You must be at least 18 years old to sign up for a Peach account. By signing up for an account, you confirm that you are at least 18 years old.
 
-You are not a citizen, a permanent resident, tax resident or located at the United States of America (including its states and the District of Columbia), the Virgin Islands of the United States, or any other possessions of the United States of America, Cuba, North Korea, Iraq, Iran, Puerto Rico, Somalia, Syria, Sudan, China or any state, country, territory or other jurisdiction that is embargoed by the United Nations or OFAC/EU-sanctioned countries. Restrictions are enforced by app distribution limits, IP blocking, and user disclaimers.
+You are not a citizen, a permanent resident, tax resident or located in one of the following Countries:
+
+United States of America (including its states and the District of Columbia), the Virgin Islands of the United States, or any other possessions of the United States of America. Restrictions are enforced with blocked IPs from this country and the app is not available in the relative iOS/Android app stores.
+
+Iran, North Korea, Myanmar, China, Algeria, Bangladesh, Nepal, Afghanistan, Morocco, Egypt, Bolivia, Qatar, Tunisia, Pakistan, Vietnam, Indonesia, Nigeria. Restrictions are enforced with blocked IPs, app not available in the relative iOS/Android app stores and relative currencies and payment methods are not available in the app.
+
+Any state, country, territory or other jurisdiction that is embargoed by the United Nations or OFAC/EU-sanctioned countries.
 
 ## 3. Generating Peach Keys
 
