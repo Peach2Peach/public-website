@@ -18,6 +18,11 @@ keywords:
 tags:
   - Blog
   - Escrow
+  - p2p marketplace
+  - Blog
+  - Sell bitcoin
+  - Buy bitcoin
+  - P2P
 previewImage: /img/blog/all-you-need-to-know-Escrow-Dispute/Escrow-preview.png
 ---
 
@@ -71,8 +76,8 @@ If the buyer made the payment but the seller did not release the bitcoin, the bu
 
 Remember, this situation is highly unlikely because a seller adopting an uncooperative strategy is guaranteed to not win anything, and lose his reputation. The escrow ensures that scammers have no way of profiting from the system. 
 
- <br><br>
-<img src="/img/blog/all-you-need-to-know-Escrow-Dispute/hook1.jpg" alt="Try the Peach Bitcoin App Now" style="display:block; margin: auto; width: 90%;">
+<br><br>
+<a href="https://peachbitcoin.com/index.html"><img src="/img/blog/all-you-need-to-know-Escrow-Dispute/hook1.jpg" alt="Try the Peach Bitcoin App Now" style="display:block; margin: auto; width: 90%;"></a>
 <br><br>
 
 ## Why Is the Escrow Service Important?

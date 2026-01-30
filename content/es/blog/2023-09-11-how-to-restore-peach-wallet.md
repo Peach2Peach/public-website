@@ -47,9 +47,9 @@ Cuando llegue el momento de recuperar tu cartera de Bitcoin usando la frase semi
 
 ### En general
 
-En todos los casos, se te pedirá que introduzcas tu frase semilla de nuevo en una aplicación, programa o cartera de hardware. Es mejor hacer este paso cuando nadie pueda estar observándote.
+En todos los casos, se te pedirá que introduzcas tu frase semilla de nuevo en una aplicación, programa o hardware wallet. Es mejor hacer este paso cuando nadie pueda estar observándote.
 
-Idealmente, usa una cartera de hardware que no esté directamente conectada a internet y no pueda infectarse con malware potencial. Recomendamos [BitBox](https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc) porque es segura y fácil de usar.
+Idealmente, usa una hardware wallet que no esté directamente conectada a internet y no pueda infectarse con malware potencial. Recomendamos [BitBox](https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc) porque es segura y fácil de usar.
 
 Después de haber introducido tus 12 palabras. Puedes verificar rápidamente que lo has hecho correctamente, revisando tu saldo y el historial de transacciones.
 

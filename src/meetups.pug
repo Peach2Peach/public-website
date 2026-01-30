@@ -10,6 +10,18 @@ block pageScripts
 block main
   section.wrap
     .content-wrap.content-wrap--centered
+      != html.map
+
+    +map('meetupMap', siteData.meetups.map(m => JSON.stringify({
+        name: m.name,
+        latLng: [m.latitude, m.longitude],
+        url: m.url,
+        style: {
+          fill: 'var(--color-primary-main)'
+        }
+      })).join(','))
+
+    .content-wrap.content-wrap--centered.content-wrap--after-map
       != html.headline
 
     .content-wrap.content-wrap--flex
@@ -38,17 +50,4 @@ block main
               | 
               a(href="/privacyPolicy.html") !{i18n('mailing.list.privacypolicy', lang)}
               | .
-
         button.button.button--white(type="submit") !{i18n('input.sendEmail', lang)}
-
-    .content-wrap.content-wrap--centered
-      != html.map
-
-  +map('meetupMap', siteData.meetups.map(m => JSON.stringify({
-      name: m.name,
-      latLng: [m.latitude, m.longitude],
-      url: m.url,
-      style: {
-        fill: 'var(--color-primary-main)'
-      }
-    })).join(','))

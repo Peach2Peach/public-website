@@ -47,9 +47,9 @@ Quando chegar a hora de recuperar sua carteira de Bitcoin usando a frase de seme
 
 ### Em geral
 
-Em todos os casos, você será solicitado a inserir sua frase de semente em um aplicativo, programa ou carteira de hardware. É melhor fazer esta etapa quando ninguém puder observá-lo.
+Em todos os casos, você será solicitado a inserir sua frase de semente em um aplicativo, programa ou hardware wallet. É melhor fazer esta etapa quando ninguém puder observá-lo.
 
-Idealmente, você usa uma carteira de hardware que não está diretamente conectada à internet e não pode ser infectada por possíveis malwares. Recomendamos a [BitBox](https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc) porque é segura e fácil de usar.
+Idealmente, você usa uma hardware wallet que não está diretamente conectada à internet e não pode ser infectada por possíveis malwares. Recomendamos a [BitBox](https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc) porque é segura e fácil de usar.
 
 Depois de digitar suas 12 palavras, você pode verificar rapidamente se o fez corretamente, verificando seu saldo e histórico de transações.
 

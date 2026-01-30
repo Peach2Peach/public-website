@@ -18,6 +18,8 @@ keywords:
 tags:
   - Blog
   - Disputes
+  - Buy bitcoin
+  - Sell Bitcoin
 previewImage: /img/blog/all-you-need-to-know-Escrow-Dispute/Dispute-preview.png
 ---
 
@@ -122,7 +124,7 @@ Our customer service team will contact you via the trade chat, and may ask for i
 Want to start your P2P trading journey with Peach? Download the Peach app, and get started right away. No account registration, ID check or anything of the sort. Trade freely, right into self custody.
 
 <br><br>
-<img src="/img/blog/all-you-need-to-know-Escrow-Dispute/hook1.jpg" alt="Try Peach Bitcoin Marketplace Now" style="display:block; margin: auto; width: 90%;">
+<a href="https://peachbitcoin.com/index.html"><img src="/img/blog/all-you-need-to-know-Escrow-Dispute/hook1.jpg" alt="Try Peach Bitcoin Marketplace Now" style="display:block; margin: auto; width: 90%;"></a>
 <br><br>
 [Download Peach Now](https://peachbitcoin.com/index.html)
 

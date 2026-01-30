@@ -5,10 +5,10 @@
     }
 
     & img {
-      max-height: 50vh;
+      max-height: 25vh;
 
       @media screen and (max-height: 799.99px) {
-        max-height: 35vh !important;
+        max-height: 25vh !important;
       }
     }
 
