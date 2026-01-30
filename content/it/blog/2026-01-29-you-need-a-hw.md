@@ -22,14 +22,14 @@ tags:
 previewImage: /img/blog/you-need-a-hardware-wallet/you-need-hw-preview.png
 ---
 
-# Hai bisogno di un portafoglio hardware
+# Hai bisogno di un hardware wallet
 29-01-2026
 
 ## Punti chiave
 
 - Peach Bitcoin è il marketplace peer-to-peer (P2P) più semplice e dispone di un portafoglio caldo integrato, uno strumento comodo per effettuare transazioni.
 - Usalo per quello che è, ma non accumulare grandi quantità al suo interno.
-- Procurati un portafoglio hardware per accumulare i tuoi fondi in modo sicuro.
+- Procurati un hardware wallet per accumulare i tuoi fondi in modo sicuro.
 
 
 <br><br>
@@ -37,7 +37,7 @@ previewImage: /img/blog/you-need-a-hardware-wallet/you-need-hw-preview.png
 <br><br>
 
 
-Hai utilizzato Peach, accumulando sat come un fanatico religioso? Se sei anche solo lontanamente vicino ad aver utilizzato il 10% del limite annuale di 100.000 dollari senza KYC offerto da Peach, c'è qualcosa che devi utilizzare: il cold storage. Gli hot wallet non sono abbastanza sicuri per i tuoi fondi. Devi acquistare un portafoglio hardware, utilizzare una passphrase e avere un piano per conservare la tua seed phrase.
+Hai utilizzato Peach, accumulando sat come un fanatico religioso? Se sei anche solo lontanamente vicino ad aver utilizzato il 10% del limite annuale di 100.000 dollari senza KYC offerto da Peach, c'è qualcosa che devi utilizzare: il cold storage. Gli hot wallet non sono abbastanza sicuri per i tuoi fondi. Devi acquistare un hardware wallet, utilizzare una passphrase e avere un piano per conservare la tua seed phrase.
 
 ## Conosci la differenza tra caldo e freddo
 
@@ -50,11 +50,11 @@ Un cold wallet, invece, è come una cassaforte resistente sepolta nel tuo giardi
 Peach, essendo interamente sul tuo telefono, è un hot wallet. Sebbene sia progettato correttamente per salvaguardare i tuoi fondi (se sai cosa stai facendo, non hai nulla da temere), è anche progettato per essere facile da usare in un **marketplace**, per rendere **facile** la spesa. Quindi non conservatevi il vostro patrimonio multigenerazionale, soprattutto se siete relativamente nuovi al concetto di sicurezza digitale individuale (vedi il nostro breve blog su questo argomento).
 
 
-## La soluzione del portafoglio hardware
+## La soluzione del hardware wallet
 
 Questo è ciò di cui avete bisogno se avete una somma in Bitcoin a cui tenete particolarmente.
 
-Un portafoglio hardware è un dispositivo dedicato che mantiene le tue chiavi private completamente isolate da Internet. Anche se il tuo computer o cellulare è pieno di malware, il malware non dovrebbe essere in grado di raggiungere le chiavi all'interno del dispositivo. Quando vuoi effettuare una transazione, il portafoglio hardware verifica i dettagli sul proprio schermo sicuro e firma la transazione internamente. Uno strumento indispensabile per tutti i Bitcoiners che si rispettino.
+Un hardware wallet è un dispositivo dedicato che mantiene le tue chiavi private completamente isolate da Internet. Anche se il tuo computer o cellulare è pieno di malware, il malware non dovrebbe essere in grado di raggiungere le chiavi all'interno del dispositivo. Quando vuoi effettuare una transazione, il hardware wallet verifica i dettagli sul proprio schermo sicuro e firma la transazione internamente. Uno strumento indispensabile per tutti i Bitcoiners che si rispettino.
 
 Se il tuo stack sta crescendo, continua a informarti sui Bitcoin e sulla sicurezza digitale.
 

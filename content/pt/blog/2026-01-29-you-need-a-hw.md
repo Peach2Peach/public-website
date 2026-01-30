@@ -22,14 +22,14 @@ tags:
 previewImage: /img/blog/you-need-a-hardware-wallet/you-need-hw-preview.png
 ---
 
-# Você precisa de uma carteira de hardware
+# Você precisa de uma hardware wallet
 29-01-2026
 
 ## Principais conclusões
 
 - A Peach Bitcoin é uma das plataformas peer-to-peer (P2P) mais fáceis de usar e possui uma carteira integrada, que é uma ferramenta conveniente para realizar transações.
 - Use-a para o que ela foi feita, mas não acumule grandes quantias nela.
-- Adquira uma carteira de hardware para acumular as suas moedas com segurança.
+- Adquira uma hardware wallet para acumular as suas moedas com segurança.
 
 
 <br><br>
@@ -37,7 +37,7 @@ previewImage: /img/blog/you-need-a-hardware-wallet/you-need-hw-preview.png
 <br><br>
 
 
-Tem usado o Peach, acumulando sats como um fanático religioso? Se está perto de ter usado 10% do limite anual de US$ 100 mil sem KYC que o Peach oferece, há algo que precisa usar: armazenamento frio. As carteiras quentes não são seguras o suficiente para os seus fundos. Precisa comprar uma carteira de hardware, usar uma senha e ter um plano para armazenar a sua frase-semente.
+Tem usado o Peach, acumulando sats como um fanático religioso? Se está perto de ter usado 10% do limite anual de US$ 100 mil sem KYC que o Peach oferece, há algo que precisa usar: armazenamento frio. As carteiras quentes não são seguras o suficiente para os seus fundos. Precisa comprar uma hardware wallet, usar uma senha e ter um plano para armazenar a sua frase-semente.
 
 ## Saiba a diferença entre quente e frio
 
@@ -50,11 +50,11 @@ Uma carteira fria, por outro lado, é como um cofre resistente enterrado no seu 
 O Peach, estando inteiramente no seu telemóvel, é uma carteira quente. Embora tenha sido concebido adequadamente para proteger os seus fundos (se souber o que está a fazer, não tenha preocupações), também foi concebido para ser fácil de usar num **mercado**, para tornar **fácil** gastar. Portanto, não armazene a sua riqueza multigeracional nela, especialmente se for relativamente novo no conceito de segurança digital individual (consulte o nosso breve blogue sobre este assunto).
 
 
-## A solução da carteira de hardware
+## A solução da hardware wallet
 
 É isso que precisa se tiver qualquer quantia em Bitcoin com a qual se preocupe o suficiente.
 
-Uma carteira de hardware é um dispositivo dedicado que mantém as suas chaves privadas completamente isoladas da Internet. Mesmo que o seu computador ou telemóvel esteja repleto de malware, o malware não deve conseguir aceder às chaves dentro do dispositivo. Quando deseja fazer uma transação, a carteira de hardware verifica os detalhes na sua própria tela segura e assina a transação internamente. Uma ferramenta indispensável para todos os Bitcoiners respeitáveis.
+Uma hardware wallet é um dispositivo dedicado que mantém as suas chaves privadas completamente isoladas da Internet. Mesmo que o seu computador ou telemóvel esteja repleto de malware, o malware não deve conseguir aceder às chaves dentro do dispositivo. Quando deseja fazer uma transação, a hardware wallet verifica os detalhes na sua própria tela segura e assina a transação internamente. Uma ferramenta indispensável para todos os Bitcoiners respeitáveis.
 
 Se a tua pilha estiver a crescer, continua a aprender sobre bitcoin e segurança digital.
 
