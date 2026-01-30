@@ -46,9 +46,9 @@ Quando arriva il momento di recuperare il tuo portafoglio Bitcoin utilizzando la
 
 ### In generale
 
-In tutti i casi, ti verrà chiesto di inserire nuovamente la tua frase seed in un'applicazione, un programma o un portafoglio hardware. È meglio fare questo passaggio quando nessuno potrebbe osservarti.
+In tutti i casi, ti verrà chiesto di inserire nuovamente la tua frase seed in un'applicazione, un programma o un hardware wallet. È meglio fare questo passaggio quando nessuno potrebbe osservarti.
 
-Idealmente, usa un portafoglio hardware che non è direttamente connesso a Internet e non può essere infettato da potenziali malware. Consigliamo [BitBox](https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc) perché è sicuro e facile da usare.
+Idealmente, usa un hardware wallet che non è direttamente connesso a Internet e non può essere infettato da potenziali malware. Consigliamo [BitBox](https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc) perché è sicuro e facile da usare.
 
 Dopo aver digitato le tue 12 parole, puoi verificare rapidamente se lo hai fatto correttamente, controllando il saldo e la cronologia delle transazioni.
 
