@@ -4,7 +4,14 @@ keywords:
   - p2p
   - p2p marketplace
   - reputation
+
 previewImage: /img/blog/reputation-system/5-peaches-preview.jpg
+
+tags:
+  - Disputes
+  - p2p marketplace
+  - how to
+  
 description: |
   We believe a good reputation system cannot be gamed. To underline that believe we and demonstrate our confidence, want to be open with you and lay out the basic mechanisms to help you understand how your actions impact your reputation score.
 ---
