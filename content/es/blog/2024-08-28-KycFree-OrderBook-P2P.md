@@ -15,6 +15,10 @@ description: |
 # Explora el Order Book en nuestro sitio web, compra en nuestra app: La dulce nueva actualización de Peach Bitcoin
 En Peach Bitcoin sabemos lo frustrante que puede ser sumergirse en una aplicación sin una idea clara de qué ofertas están disponibles. Por eso hemos añadido una nueva función que te permite ver todas las ofertas activas de venta de Bitcoin directamente desde tu navegador web, para que puedas tomarte tu tiempo para examinar las opciones antes de abrir la aplicación.
 
+:::buttons
+[VER LIBRO DE ÓRDENES](/es/kycfree-orderbook/)
+:::
+
 ## Por qué es importante: Sin más suposiciones, solo pura dulzura Peachy
 Hemos eliminado las capas de incertidumbre al permitirte explorar las ofertas de venta en tiempo real directamente desde tu navegador web. Ahora puedes explorar las ofertas más frescas, compararlas una al lado de la otra y encontrar la que es perfecta para ti, todo antes de abrir la aplicación. Cuando estés listo, simplemente cambia a la app Peach Bitcoin para completar tu compra, con la confianza de haber encontrado el trato más dulce.
 

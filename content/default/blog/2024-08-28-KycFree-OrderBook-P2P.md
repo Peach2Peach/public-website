@@ -12,8 +12,12 @@ description: |
   Discover how the Peach Bitcoin Order Book works—an innovative tool for buying Bitcoin quickly, securely, and anonymously. Take advantage of the unique setup with sell-only offers to find the perfect deal based on your payment method and preferences.
 ---
 
-# Explore the Order Book on Our Website, Buy on Our App: Peach Bitcoin’s Sweet New Upgrade
-At Peach Bitcoin, we know the frustration of jumping into an app without a clear idea of what deals are ripe for the picking. That’s why we’ve added a new feature that lets you view all active Bitcoin sell offers directly from your web browser, so you can take your time savoring the options before diving into the app.
+# Explore the Order Book on Our Website, Buy on Our App: Peach Bitcoin's Sweet New Upgrade
+At Peach Bitcoin, we know the frustration of jumping into an app without a clear idea of what deals are ripe for the picking. That's why we've added a new feature that lets you view all active Bitcoin sell offers directly from your web browser, so you can take your time savoring the options before diving into the app.
+
+:::buttons
+[VIEW ORDERBOOK](/kycfree-orderbook/)
+:::
 
 ## Why This Matters: No More Guessing, Just Pure Peachy Goodness
 We’ve peeled away the layers of uncertainty by allowing you to browse real-time sell offers right in your web browser. Now, you can explore the freshest deals, compare them side by side, and find the one that’s just right for you—all before you even open the app. When you’re ready, simply hop over to the Peach Bitcoin app to make your purchase, confident you’ve picked the sweetest deal.
