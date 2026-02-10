@@ -1,14 +1,20 @@
-[id*='how-it-works'] {
+[id*='how-to-buy-btc-no-kyc'], [id*='how-it-works'] {
   .teaser {
     & figure {
       margin-top: auto;
     }
 
     & img {
-      max-height: 25vh;
-
-      @media screen and (max-height: 799.99px) {
-        max-height: 25vh !important;
+      max-height: 40vh;
+      max-width: 60vw;
+      width: auto;
+      margin: 0 auto;
+      display: block;
+    }
+    
+    @media screen and (max-height: 799.99px) {
+      & img {
+        max-height: 40vh !important;
       }
     }
 

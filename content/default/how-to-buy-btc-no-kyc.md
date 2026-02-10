@@ -5,7 +5,7 @@ template: how_it_works
 
 <!--[teaser]-->
 
-<img src="/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png" alt="Buy and Sell Bitcoin Peer-to-Peer" style="max-width: 40%; height: auto; margin-bottom: 2rem;">
+![Buy and Sell Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
 
 ### Stack sats <span>every day</span>!
 
