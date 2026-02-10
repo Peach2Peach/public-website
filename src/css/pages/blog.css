@@ -135,3 +135,78 @@
   width: 100%;
   max-width: 400px;
 }
+
+/* Blog search results container */
+.blog-search__results {
+  list-style: none;
+  margin: 1.5rem 0 0;
+  padding: 0;
+  max-width: 600px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Individual search result item */
+.blog-search__result {
+  margin-bottom: var(--space-m);
+  padding: var(--space-m);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-neutral-10);
+  border-radius: var(--border-radius);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.blog-search__result:hover {
+  border-color: var(--color-primary-main);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* Post title link */
+.blog-search__result-link {
+  display: block;
+  font-size: var(--font-size-l);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-body-text);
+  text-decoration: none;
+  margin-bottom: var(--space-xs);
+}
+
+.blog-search__result-link:hover {
+  color: var(--color-primary-main);
+}
+
+/* Result metadata (date and tags) */
+.blog-search__result-meta {
+  display: flex;
+  gap: var(--space-s);
+  flex-wrap: wrap;
+  margin-bottom: var(--space-xs);
+  font-size: var(--font-size-s);
+  color: var(--color-neutral-65);
+}
+
+.blog-search__result-date,
+.blog-search__result-tags {
+  display: inline-block;
+}
+
+.blog-search__result-tags {
+  font-style: italic;
+}
+
+/* Post excerpt */
+.blog-search__result-excerpt {
+  font-size: var(--font-size-m);
+  color: var(--color-neutral-65);
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* No results message */
+.blog-search__no-results {
+  text-align: center;
+  color: var(--color-neutral-65);
+  font-style: italic;
+  padding: var(--space-l);
+}
