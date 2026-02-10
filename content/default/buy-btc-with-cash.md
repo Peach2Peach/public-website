@@ -2,9 +2,18 @@
 template: meetups
 ---
 
+<!--[map]-->
+
+# Find you favorite meetup and trade bitcoin with cash using Peach!
+
+Discover all the locations where you can engage in peer-to-peer Bitcoin trades using Peach! Check out our article [Peach x Meetups](/blog/peach-for-meetups/) to learn more about Peach Cash Trades, or simply explore the map below to find fellow traders near you.
+
+We're revolutionizing the way Bitcoin is traded, one meetup at a time. Join us on this exciting journey!
+
+
 <!--[headline]-->
 
-# Join the Peach Revolution: Integrate Your Meetup Today!
+## Join the Peach Revolution: Integrate Your Meetup Today
 
 <!--[intro]-->
 
@@ -25,10 +34,3 @@ If your meetup meets our eligibility criteria\*, we'll work closely with you to 
 
 <small>\*Currently, we're focusing on Europe and accepted currencies. However, we're expanding to other regions soon, so don't hesitate to apply, even if your meetup doesn't meet all the requirements.</small>
 
-<!--[map]-->
-
-### Check out all the places where you can trade bitcoin with cash using Peach!
-
-Discover all the locations where you can engage in peer-to-peer Bitcoin trades using Peach! Check out our article [Peach x Meetups](/blog/peach-for-meetups/) to learn more about Peach Cash Trades, or simply explore the map below to find fellow traders near you.
-
-We're revolutionizing the way Bitcoin is traded, one meetup at a time. Join us on this exciting journey!

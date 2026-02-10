@@ -47,9 +47,9 @@ Lorsqu'il est temps de récupérer votre portefeuille Bitcoin en utilisant la ph
 
 ### En général
 
-Dans tous les cas, vous êtes invité à saisir votre phrase de récupération dans une application, un programme ou un portefeuille matériel. Il est préférable de faire cette étape lorsque personne ne pourrait vous observer.
+Dans tous les cas, vous êtes invité à saisir votre phrase de récupération dans une application, un programme ou un hardware wallet. Il est préférable de faire cette étape lorsque personne ne pourrait vous observer.
 
-Idéalement, utilisez un portefeuille matériel qui n'est pas directement connecté à Internet et ne peut pas être infecté par des logiciels malveillants potentiels. Nous recommandons [BitBox](https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc) car il est sécurisé et facile à utiliser.
+Idéalement, utilisez un hardware wallet qui n'est pas directement connecté à Internet et ne peut pas être infecté par des logiciels malveillants potentiels. Nous recommandons [BitBox](https://bitbox.swiss/bitbox02/?ref=DLX6l9ccCc) car il est sécurisé et facile à utiliser.
 
 Après avoir tapé vos 12 mots. Vous pouvez rapidement vérifier que vous avez bien fait en consultant votre solde et l'historique des transactions.
 

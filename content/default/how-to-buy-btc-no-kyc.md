@@ -5,7 +5,7 @@ template: how_it_works
 
 <!--[teaser]-->
 
-![Buy and Sell Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
+<img src="/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png" alt="Buy and Sell Bitcoin Peer-to-Peer" style="max-width: 40%; height: auto; margin-bottom: 2rem;">
 
 ### Stack sats <span>every day</span>!
 
@@ -129,12 +129,6 @@ There are a whole bunch of payment methods you can choose from.<br>
         <a href="/faq/Buy-&-Sell-Bitcoin-using-ars-in-2024/">
             <i class="fas fa-dollar-sign"></i>
             ARS
-        </a>
-    </div>
-    <div class="payment-grid-item_523">
-        <a href="/faq/Buy-&-Sell-Bitcoin-using-bob-in-2024/">
-            <i class="fas fa-dollar-sign"></i>
-            BOB
         </a>
     </div>
     <div class="payment-grid-item_523">
@@ -265,12 +259,6 @@ There are a whole bunch of payment methods you can choose from.<br>
 ##### Asia
 
 <div class="payment-grid_894">
-    <div class="payment-grid-item_523">
-        <a href="/faq/Buy-&-Sell-Bitcoin-using-cny-in-2024/">
-            <i class="fas fa-coins"></i>
-            CNY
-        </a>
-    </div>
     <div class="payment-grid-item_523">
         <a href="/faq/Buy-&-Sell-Bitcoin-using-inr-in-2024/">
             <i class="fas fa-coins"></i>

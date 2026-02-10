@@ -132,12 +132,6 @@ Ci sono un sacco di metodi di pagamento tra cui puoi scegliere.<br>
         </a>
     </div>
     <div class="payment-grid-item_523">
-        <a href="/it/faq/Buy-&-Sell-Bitcoin-using-bob-in-2024/">
-            <i class="fas fa-dollar-sign"></i>
-            BOB
-        </a>
-    </div>
-    <div class="payment-grid-item_523">
         <a href="/it/faq/Buy-&-Sell-Bitcoin-using-brl-in-2024/">
             <i class="fas fa-dollar-sign"></i>
             BRL
@@ -265,12 +259,6 @@ Ci sono un sacco di metodi di pagamento tra cui puoi scegliere.<br>
 ##### Asia
 
 <div class="payment-grid_894">
-    <div class="payment-grid-item_523">
-        <a href="/it/faq/Buy-&-Sell-Bitcoin-using-cny-in-2024/">
-            <i class="fas fa-coins"></i>
-            CNY
-        </a>
-    </div>
     <div class="payment-grid-item_523">
         <a href="/it/faq/Buy-&-Sell-Bitcoin-using-inr-in-2024/">
             <i class="fas fa-coins"></i>
