@@ -12,292 +12,295 @@ tags:
   - Company
 previewImage: /img/blog/1y-anniversary/cake.jpeg
 description: |
-  Read the full story of how Peach team members managed to survive during 1y building on a Bitcoin standard!
+  Lesen Sie die ganze Geschichte, wie es den Peach-Teammitgliedern gelungen ist, während eines Jahres nach dem Bitcoin-Standard zu überleben!
 ---
 
-# Peach 1 year anniversary
+# Peach 1 Jahr Jubiläum
 
 ![](/img/blog/1y-anniversary/cake.jpeg)
 
-## The Peach team stories
+## Die Geschichten des Peach-Teams
 
-Dear peaches today's blog post is a bit different to what is commonly seen in the bitcoin/tech space. Today we bring to you the story of how it feels building a Bitcoin startup, some challenges we've gone through, and how Peach managed to survive during 1 year so far. We hope you enjoy them, and encourage you to keep building in this amazing space. LFG!
+Liebe Peaches, der heutige Blogpost ist etwas anders als das, was man normalerweise im Bitcoin-/Technikbereich sieht. Heute bringen wir Ihnen die Geschichte, wie es sich anfühlt, ein Bitcoin-Startup aufzubauen, einige Herausforderungen, die wir durchgemacht haben, und wie Peach es geschafft hat, ein Jahr lang zu überleben. Wir hoffen, dass Sie es genießen und ermutigen Sie, weiterhin in diesem erstaunlichen Bereich zu bauen. LFG!
 
 # [Czino](https://twitter.com/capoczino)
 
-## Unveiling Peach - A Journey Begins
+## Enthüllung von Peach - Eine Reise beginnt
 
-The past year has been a whirlwind of excitement, challenges, and growth. From the officially launch of our product to today, it has been a rollercoaster ride worth cherishing.
+Das vergangene Jahr war ein Wirbelwind aus Aufregung, Herausforderungen und Wachstum. Von der offiziellen Einführung unseres Produkts bis heute war es eine Achterbahnfahrt, die es wert ist, geschätzt zu werden.
 
-The moment we announced the private beta of Peach at [Baltic Honeybadger](https://baltichoneybadger.com/), I felt pride and excitement. Witnessing users enthusiastically start using our platform from day one, despite the inherent risk of dealing with real money, was both thrilling and daunting. We knew that every sat mattered to our users, and the responsibility of safeguarding their assets weighed heavily on our minds.
+Als wir die private Beta von Peach bei [Baltic Honeybadger](https://baltichoneybadger.com/) ankündigten, fühlte ich Stolz und Aufregung. Zu sehen, wie die Benutzer von Tag eins an begeistert unsere Plattform nutzten, trotz des inhärenten Risikos, mit echtem Geld umzugehen, war sowohl aufregend als auch beängstigend. Wir wussten, dass jeder Sat für unsere Benutzer zählte, und die Verantwortung, ihre Vermögenswerte zu schützen, lastete schwer auf unseren Schultern.
 
-However, as days turned into weeks, we found comfort in the fact that not a single sat was lost due to the robustness of our platform. Bugs were, of course, a part of the process, and some presented challenging puzzles to solve. Our 2-2 multisig escrow model proved to be a success, offering our users peace of mind while they were buying and selling peer-to-peer.
+Doch als die Tage zu Wochen wurden, fanden wir Trost in der Tatsache, dass kein einziger Sat aufgrund der Robustheit unserer Plattform verloren ging. Bugs waren natürlich Teil des Prozesses, und einige stellten herausfordernde Rätsel dar. Unser 2-2 Multisig-Treuhandmodell erwies sich als Erfolg und bot unseren Benutzern Sicherheit beim peer-to-peer Kauf und Verkauf.
 
-## Growing and Nurturing the Dev Team
+## Wachstum und Pflege des Entwicklerteams
 
-With an upwind of enthusiasm, we set sail on a journey of growth, expanding our team to four skilled developers. As a manager, it was an absolute pleasure to witness the vibrant energy and creativity each individual brought to the table. The development process became a symphony of ideas, propelling us forward with great momentum.
+Mit einem Aufschwung an Enthusiasmus begaben wir uns auf eine Wachstumsreise und erweiterten unser Team auf vier erfahrene Entwickler. Als Manager war es ein absolutes Vergnügen, die lebendige Energie und Kreativität jedes Einzelnen zu erleben. Der Entwicklungsprozess wurde zu einer Symphonie von Ideen, die uns mit großem Schwung vorantrieben.
 
-As our team grew, we discovered the power of crafting elegant code that prioritized readability and simplicity. Embracing the concept of "beautiful code," we found that it improved collaboration among us and facilitated adaptability for future enhancements. With this mindset we also fostered a culture of continuous improvement, where good ideas prevailed, and egos took a back seat.
+Während unser Team wuchs, entdeckten wir die Kraft, eleganten Code zu erstellen, der Lesbarkeit und Einfachheit priorisierte. Indem wir das Konzept des „schönen Codes“ umarmten, stellten wir fest, dass es die Zusammenarbeit unter uns verbesserte und die Anpassungsfähigkeit für zukünftige Verbesserungen erleichterte. Mit dieser Einstellung förderten wir auch eine Kultur der kontinuierlichen Verbesserung, in der gute Ideen Vorrang hatten und Egos in den Hintergrund traten.
 
-### It's cycles and balances
+### Es sind Zyklen und Gleichgewichte
 
-However, just like the ebb and flow of tides, our team experienced the natural rhythms of growth and change. We discovered the importance of finding balance in the expansion process. Acknowledging the need to strike the right equilibrium, we made thoughtful decisions to ensure the team remained cohesive and focused. We went through a phase of introspection and decided to reduce the number back to two developers. Embracing this natural process, we prioritized quality over quantity for meaningful achievements.
+Wie das Auf und Ab der Gezeiten erlebte unser Team die natürlichen Rhythmen von Wachstum und Veränderung. Wir erkannten die Bedeutung, im Expansionsprozess das richtige Gleichgewicht zu finden. Indem wir die Notwendigkeit anerkannten, das richtige Gleichgewicht zu finden, trafen wir durchdachte Entscheidungen, um sicherzustellen, dass das Team kohäsiv und fokussiert blieb. Wir durchliefen eine Phase der Selbstreflexion und beschlossen, die Anzahl der Entwickler wieder auf zwei zu reduzieren. Indem wir diesen natürlichen Prozess annahmen, priorisierten wir Qualität über Quantität für sinnvolle Errungenschaften.
 
-## Learnings - Embracing the Bitcoin Mindset
+## Erkenntnisse - Die Bitcoin-Mentalität annehmen
 
-Throughout this transformative year, we discovered that some processes we had previously adhered to were better left behind. Shaking off the "fiat-minded" mentality, we realized that daily stand-ups were not as crucial. Instead, adopting a more flexible approach to ad-hoc meetings allowed for greater focus on meaningful tasks.
+Während dieses transformierenden Jahres stellten wir fest, dass einige Prozesse, an die wir zuvor festgehalten hatten, besser hinter uns gelassen werden sollten. Indem wir die „Fiat-Mentalität“ abschüttelten, erkannten wir, dass tägliche Stand-Ups nicht so entscheidend waren. Stattdessen ermöglichte uns die Annahme eines flexibleren Ansatzes für Ad-hoc-Meetings eine größere Fokussierung auf bedeutungsvolle Aufgaben.
 
-Similarly, we learned that imposing rigid two-week sprints sometimes hindered the quality of our work. By setting strict yet unnecessary deadlines, we inadvertently limited the potential of our projects. With time, we embraced a more organic workflow that allowed for more thoughtful development and, ultimately, higher-quality output.
+Ebenso erkannten wir, dass die auferlegte Starrheit von zweiwöchigen Sprints manchmal die Qualität unserer Arbeit behinderte. Durch die Festlegung strenger, aber unnötiger Deadlines schränkten wir ungewollt das Potenzial unserer Projekte ein. Mit der Zeit nahmen wir einen organischeren Workflow an, der eine durchdachtere Entwicklung und letztlich eine höhere Qualität ermöglichte.
 
-## Growing my own skills
+## Eigene Fähigkeiten weiterentwickeln
 
-On a personal level, I experienced tremendous growth as a programmer. Thinking in complex systems added an extra layer of challenge, pushing me to continually push my boundaries and explore new depths of understanding.
+Auf persönlicher Ebene erlebte ich ein enormes Wachstum als Programmierer. Das Denken in komplexen Systemen fügte eine zusätzliche Herausforderung hinzu, die mich dazu brachte, ständig meine Grenzen zu erweitern und neue Tiefen des Verständnisses zu erkunden.
 
-I learned numerous small tricks that boosted coding efficiency. From keyboard shortcuts to code refactoring and embracing coding standards, these techniques streamlined our work and reduced debugging time. Sharing these tricks with teammates, and getting others taught, fostered a culture of continuous learning and growth, propelling us toward greater heights.
+Ich lernte zahlreiche kleine Tricks, die die Codierungseffizienz steigerten. Von Tastenkombinationen über Code-Refactoring bis hin zur Einhaltung von Codierungsstandards rationalisierten diese Techniken unsere Arbeit und reduzierten die Debugging-Zeit. Das Teilen dieser Tricks mit Teamkollegen und das Lernen voneinander förderte eine Kultur des kontinuierlichen Lernens und Wachstums, die uns zu größeren Höhen trieb.
 
-In the realm of testing, my approach initially focused on critical components only. However, with the public beta release, we collectively embraced the goal of achieving 100% test coverage for new code. While the process was slow at first, this shift in mindset rewarded us with an incredible boost in code confidence and a significant increase in productivity later on.
+Im Bereich des Testens konzentrierte sich mein Ansatz zunächst nur auf kritische Komponenten. Mit der Veröffentlichung der öffentlichen Beta nahmen wir jedoch kollektiv das Ziel an, 100% Testabdeckung für neuen Code zu erreichen. Obwohl der Prozess zunächst langsam war, belohnte uns dieser Mentalitätswechsel mit einem unglaublichen Vertrauensschub in den Code und einer signifikanten Steigerung der Produktivität.
 
-## Turning the page
+## Ein neues Kapitel aufschlagen
 
-The past year at Peach has been an inspiring journey. We successfully launched the product, grew a dynamic developer team, and faced challenges that spurred our growth. Embracing Bitcoin principles and prioritizing quality, we elevated our product and processes.
+Das vergangene Jahr bei Peach war eine inspirierende Reise. Wir haben das Produkt erfolgreich gestartet, ein dynamisches Entwicklerteam aufgebaut und Herausforderungen gemeistert, die unser Wachstum förderten. Indem wir die Bitcoin-Prinzipien umarmten und Qualität priorisierten, haben wir unser Produkt und unsere Prozesse verbessert.
 
-Excited for the future, we'll continue navigating the evolving Bitcoin landscape, pushing boundaries, and shaping the future of digital finance. With unwavering passion and commitment, I look forward to making a lasting impact in the world of Bitcoin.
+Voller Vorfreude auf die Zukunft werden wir weiterhin die sich entwickelnde Bitcoin-Landschaft navigieren, Grenzen überschreiten und die Zukunft der digitalen Finanzen gestalten. Mit unerschütterlicher Leidenschaft und Engagement freue ich mich darauf, einen bleibenden Einfluss in der Welt von Bitcoin zu hinterlassen.
 
 ![peaches](/img/blog/1y-anniversary/peaches.jpeg)
 
 # [Michael](https://twitter.com/MManke00)
 
-## 1 year anniversary at Peach - Laser focus on what matters
+## 1 Jahr Jubiläum bei Peach - Laserfokus auf das Wesentliche
 
+### Mein Hintergrund
+
+Ich bin Michael, Lead Frontend Dev bei Peach Bitcoin, und ich nähere mich meinem ersten Jubiläum bei Peach, nachdem ich im November beigetreten bin und Peachs ersten Geburtstag im September auf der Baltic Honeybadger-Konferenz gefeiert habe.
+Um wirklich zu verstehen, wie das vergangene Jahr bei Peach war, wie es mich verändert hat und wie ich darauf zurückblicke, muss ich meine Geschichte ein bisschen früher beginnen, genauer gesagt im Jahr 2020. Ich war zu diesem Zeitpunkt noch an der Universität, aber Anfang des Jahres begann ich, mir selbst das Programmieren beizubringen, da ich nach etwas suchte, um aus der Universität herauszukommen. Für mich fühlte sich die akademische Welt eher wie ein Zug an, in dem ich ein Passagier war, als wie ein Auto, in dem ich der Fahrer war. Ich fühlte mich wie ein kleines Zahnrad in einer Maschine, und meine wahren Leidenschaften, meine Träume oder irgendetwas Authentisches an mir wurden nicht zugelassen, sich auszudrücken oder zu gedeihen, sondern eher unterdrückt.
+
+Ich setzte mir das Ziel, mir eine Fähigkeit beizubringen, mit der ich meinen Lebensunterhalt verdienen könnte. Auf diesem Weg probierte ich viele Dinge aus, aber das Programmieren war das, was hängen blieb. Nach einiger Zeit, einigen Schwierigkeiten, aber auch glücklichen Umständen schaffte ich es, meinen ersten Job bei einem Startup zu bekommen. Ich fühlte mich nicht nur in meinem Glauben bestätigt, dass es möglich war, meiner eigenen Leidenschaft zu folgen, sondern auch eine immense Dankbarkeit dafür, dass ich das tun konnte, was ich genoss. In einem Startup zu sein, gab mir eine Wertschätzung für das Maß an Einfluss, das ich auf ein Produkt haben konnte, und dass dieses Produkt etwas war, das allen Beteiligten tatsächlich am Herzen lag. Leider funktionierte das Startup nicht und ich war wieder in einer Situation, in der ich mich fragte, was ich mit meiner Zeit anfangen wollte. Ich schaute mir einige Stellenanzeigen an, aber alle fühlten sich an, als würde ich in eine ähnliche Welt zurückkehren, aus der ich hatte fliehen wollen – endlose Zeit, die mit seelenlosen Dingen verbracht wurde, die mich weder interessierten noch das Gefühl gaben, dass ich einen Einfluss haben könnte, selbst wenn ich es wollte.
+
+Ich weiß nicht, warum es so lange gedauert hat, bis mir klar wurde, dass ich einige Monate zuvor die Orange Pille genommen hatte, aber nachdem ich darüber nachgedacht hatte, was ich tun wollte (immer noch programmieren), war Bitcoin die offensichtliche Wahl. Ich glaubte, dass es das wichtigste Ding in meiner Lebenszeit war, das die Welt auf fundamentalster Ebene verändern könnte.
+Ein weiteres Mal setzte ich mir ein klares Ziel: Einen Weg finden, meine Fähigkeiten zur Förderung der Bitcoin-Adoption einzusetzen und damit die Werte, für die Bitcoin steht.
+
+Ich begann, nach Möglichkeiten in diesem Sektor zu suchen, und fand eine Stellenanzeige, die sich perfekt anfühlte. Ich bewarb mich und begann, jeden zu belästigen, mit dem ich in Kontakt kommen konnte, einschließlich des CEOs, damit sie mich in Betracht zogen, aber leider klappte es nicht. Ich war ziemlich enttäuscht und bisher
+
+ schien es, als ob ich nur in Jobs Fortschritte machen konnte, für die ich so gut wie keine Leidenschaft hatte.
+An diesem Punkt trat Peach Bitcoin in mein Leben. Ich sah einen Tweet von Peach und dachte mir, was soll’s, ich werde es versuchen und ihnen eine Bewerbung schicken. Nun, was soll ich sagen, es hat geklappt!
 ​
 
-### My Background
+### Meine Geschichte bei Peach
 
-I’m Michael, Lead Frontend Dev at Peach Bitcoin and I’m approaching my first anniversary at Peach after I joined back in November and celebrated Peach’s first birthday in September at The Baltic Honey badger conference.
-To truly understand how the past year at Peach was, how it changed me and how I look back at it I feel I have to start my story a bit earlier, more specifically back in 2020. I was still in university at this point but at the beginning of the year I started teaching myself how to code, since I was looking for something, anything, to get out of university. To me, academia felt more like a train in which I was a passenger rather than a car in which I was the driver. I felt like a small piece of a machine and my true passions, my dreams or anything authentic about me wasn’t being allowed to be expressed or flourish but rather supressed.
+Bei Peach zu arbeiten, war erneut eine unglaubliche Erfahrung und ich war wirklich dankbar. Die Mission, meine Energie auf die Bitcoin-Adoption zu richten, war erfolgreich, aber als die ersten Tage bei Peach vergingen, wurde mir mehr und mehr bewusst, dass meine Erwartungen übertroffen wurden.
 
-I set myself the mission to teach myself a skill with which I could make a living. On that road I tried many things, but programming was the one that stuck. After some time, hardship, but also lucky circumstances I managed to get my first job at a startup. I felt not only confirmed in my belief that following my own passion was possible, but also felt an immense gratitude for how I was able to do what I enjoyed. Being in a startup gave me an appreciation for the level of impact I could have on a product and that this product was something everyone involved actually cared about. Unfortunately the startup didn’t work out and I was once again in a situation where I asked myself what I wanted to do with my time. I was looking at some job postings but all of them felt like I was going back to a similar world from which I had wanted to escape, endless time spent on soulless things I neither cared about nor felt that I could have an impact even if I would.
+Nicht nur arbeitete ich an etwas, das mit Bitcoin zu tun hatte, ich arbeitete an etwas, das in Harmonie mit seinen Kernwerten stand, bemerkenswerterweise: Bitcoin-only mit einem großen Fokus auf Privatsphäre als Mittel zur individuellen Souveränität.
 
-I don’t know what took me so long to realize it, I had taken the orange pill some months prior to this situation, but after thinking about not only what I wanted to do (still programming) but also where I wanted to put these skills to use, Bitcoin was the obvious choice. I believed it to be the most important thing in my lifetime that could change the world at the most fundamental level.
-Once again I set myself a clear goal: Find a way to use my skills to advance the adoption of Bitcoin, and by extent of that, the values Bitcoin stands for.
+Je mehr und je länger ich an Peach arbeitete, desto weniger dachte ich an Bitcoin. Ich glaube, das liegt daran, dass es mit der Zeit mehr und mehr wie Hintergrundrauschen wurde, eine Naturgewalt, die da war, und wir surften einfach auf ihrer Welle.
 
-I started looking for opportunities in that sector and found a job listing that felt perfect. I applied and starting harassing anyone I could get in contact with, including the CEO, to consider me, but unfortunately it didn’t work out. I was pretty bummed and so far it seemed the only progress I was able to make was in those jobs I felt pretty much 0 passion for.
-This is the point where Peach Bitcoin entered my life. I saw a tweet by Peach and thought to myself, to heck with it, I’ll give it a shot and send them an application. Well and what can I say, it worked out!
+Eine weitere Sache, die ich täglich genieße, ist: Wir alle kümmern uns wirklich um das, was wir tun! Wir nutzen das Produkt, wir legen großen Wert darauf, seine Qualität zu verbessern, aber auch den Spaß daran.
+Als ich zu Peach kam, war das Team viel größer als jetzt. Es gab schwierige Momente auf dem Weg, aber ich habe das Gefühl, dass der Kern dadurch nur stärker geworden ist.
+
+Letztendlich wird der Markt über die Zukunft von Peach und damit über die Zukunft von uns allen, die daran arbeiten, entscheiden. Manche mögen diese Position beängstigend oder allgemein nicht lohnenswert finden, weil sie „unsicher“ ist. Ähnlich wie bei Bitcoin finde ich, dass diese volatile Natur eine Quelle der Wahrheit ist.
+
+Auf dem Weg von Peach hat uns dieses Wahrheitsrasiermesser dazu gebracht, Dinge und Prozesse auszuschneiden, die wir nicht brauchten oder die keinen Mehrwert brachten, und uns auf diejenigen zu konzentrieren, die es tun.
 ​
-​
+Ein solches Wahrheitsrasiermesser für mich war die Nutzung der App selbst.
+Es gab Zeiten, in denen Dinge nicht so funktionierten, wie wir es wollten, aber die tatsächliche Nutzung der App gab mir immer wieder einen Vertrauensschub, dass die Dinge immer noch funktionierten, der Kern da war und funktionierte. Wie jeder Block, der zur Kette hinzugefügt wird, stärkte jeder Handel auf Peach den Kern.
+Ähnlich fühlte es sich an, zu sehen, dass tatsächliche Menschen echtes Geld mit unserer App verwenden. Es war sowohl ein großes Privileg als auch eine Verantwortung. Jedes Mal, wenn ein Handel auf Peach stattfand, war es ein Marktsignal, dass jemand uns vertraute, seine Mittel gut zu verwenden, gute Matches zu bieten und allgemein einen guten Service zu bieten. Es war eine unbestreitbare Bestätigung, dass wir etwas von Wert taten.
+Ein weiterer Wendepunkt in dieser Hinsicht waren für mich die Meetups. Tatsächlich Leute zu sehen, die unsere App nutzen, die sie unterstützen und mögen, war eine unglaubliche Erfahrung. Zu hören: „Ihr macht einen großartigen Job, macht weiter so“, ist etwas, das generell schön zu hören ist. Aber wenn es von Menschen kommt, die deine Vision teilen, wie die Welt aussehen könnte und sollte, ist das etwas anderes. Es ist fast wie eine Stimme aus der Zukunft, die dir mitteilt, dass du auf dem richtigen Weg bist.
+Ein Nebenaspekt ist, warum ich es auch liebe, Menschen zu sagen, dass sie einen guten Job machen, wenn ich das Gefühl habe, dass sie es tun. Jemanden zu sehen, dem seine Zeit wichtig ist und der sie für Dinge aufwendet, die er für wertvoll hält, von denen du tatsächlich profitierst, ist ein Gefühl, das ich wirklich gerne annehme, wann immer ich es bemerke (was leider viel zu selten der Fall ist, aber wir wissen, was das behebt).
 
-### My story at Peach
+Ich glaube auch, dass wahre Leidenschaft der einzige Weg ist, um andere zu übertreffen und sich tatsächlich sogar von der Konkurrenz zu befreien. Es gibt Barrieren und Hürden, die man einfach nicht überschreitet, wenn man nicht will, und die Menschen, denen es genug bedeutet, werden große Anstrengungen unternehmen, um Details zu realisieren, die für andere „unmöglich“ sind.
+Ein kurzes Beispiel dafür war unser BTCAmount, der ein bisschen viral ging. Bei einem Redesign haben wir den Buchstabenabstand jedes einzelnen Zeichens angepasst, um es mit einer neuen Schriftart schön aussehen zu lassen. Ich hätte sagen können: „Scheiß auf das Design, wir behalten einfach den gleichen Abstand überall“, aber das wäre nicht das gewesen, was wir wollten, und das Ding beim Code ist: Alles ist möglich, es geht nur darum, ob es das wert ist.
+In diesem Fall war es ein Kernbestandteil unseres Designs und deshalb war es wichtig, die komplexen Details richtig hinzubekommen.
+Ein weiterer Nebenaspekt ist, dass dies meiner Meinung nach einen Fiat-Standard von einem Hartgeld-Standard unterscheidet – das Maß an Tiefe.
+Man kann sich ein Gemälde, ein Gebäude, ein Lied, eine Mahlzeit, ein Buch oder eine App lange Zeit ansehen und immer noch Details finden, die man vorher nicht gesehen hat, aber sobald man sie entdeckt, merkt man, dass eine Person dieses Detail realisiert hat und ihnen sehr am Herzen lag, was sie gebaut haben.
 
-Getting to work at Peach was once again an incredible experience and I was truly grateful. The mission to direct my energy towards the adoption of Bitcoin had succeeded but as the first days at Peach went by I started to realize more and more that my expectations were exceeded.
+Ein weiteres Wahrheitsrasiermesser war die Art und Weise, wie wir im vergangenen Jahr gearbeitet haben.
 
-Not only was I working on something related to Bitcoin, I was working on something that I felt was in harmony with its core values, most remarkably: Bitcoin-only with a big focus on privacy as a means to individual sovereignty.
+In einer Remote-Umgebung zu sein, macht es wirklich einfach, faul zu werden, weil niemand über deine Schulter schaut. Aber ich glaube, dass es auf die gleiche Weise (und für uns war es so) ein Weg sein kann, die Art und Weise, wie wir arbeiten, viel wertorientierter zu machen. Du kannst nicht 5 Kaffees trinken, während du mit deinen Kollegen plauderst und vorgibst, eine tiefe Arbeitssession gemacht zu haben. Wir hatten einige davon am Anfang mit unseren täglichen Meetings, bei denen man immer das Gefühl hatte, dass die Stunde, die man mit Reden verbrachte, es wert war, bis wir sie komplett abschafften und feststellten, dass die Dinge auch ohne sie gut funktionierten. Und ich habe das Gefühl, dass einige dieser Zeitfresser leichter erkennbar waren, wenn man remote arbeitete, und die Kommunikation viel fokussierter auf das war, was tatsächlich zählte. Auf diese Weise war Remote-Arbeit mit einer niedrigeren Zeitpräferenz tatsächlich fokussierter als weniger.
 
-The more and the longer I worked on Peach the less I started to think about Bitcoin. I believe this is because as time went on it became more and more like background noise, it was a force of nature that was there and we were just riding the wave of it.
+Das erste Jahr bei Peach war voller neuer Erfahrungen, neuer Erkenntnisse und neuer Menschen, insbesondere kürzlich auf der Baltic Honeybadger in Riga, all dies wert eigene Blogposts zu haben, daher hoffe ich, Ihnen zumindest einen Einblick gegeben zu haben.
+Ich lade jeden ein, der sich für Bitcoin interessiert, denselben Weg zu gehen, sich zu fragen, was das Wichtigste ist, dem er seine Zeit widmen könnte, und es dann zu tun, egal was es kostet, wie lange es dauert oder welche Schwierigkeiten es erfordert. Sie werden auf diesem Weg mehr Wert finden, als Sie jemals anderswo könnten, und selbst im Falle eines „Scheiterns“ glaube ich, dass Sie es nicht bereuen werden. Umarmt euren inneren Peach!
 
-Another thing that I still enjoy on a daily basis is: We all actually care about what we are doing! We use the product, we care deeply about improving its quality but also the enjoyment we get out of doing that.
-When I came to Peach, the team was a lot bigger than it is now. There have been tough moments along the way but I feel like the core only got stronger because of it.
+Der Bärenmarkt war hart für uns alle, aber unsere Peachy-Prinzessin Steph sagte einmal:
+„Egal was passiert, wir werden einen Weg finden“. Freuen Sie sich also nächstes Jahr auf Blogposts darüber, wie wir hoffentlich noch mehr Herausforderungen mit hoffentlich noch mehr neuen Peaches, neuen Funktionen und vielleicht sogar den ersten Anzeichen von Bullen, die wieder laufen wollen, überwunden haben.
 
-Ultimately the market will decide the future of Peach and by extension the future of all of us that are working on it. Some might find this position scary, or generally not worth it, because it is ‘unsafe’. Similarly to Bitcoin, I find that this volatile nature is a source of truth.
+Wenn nicht wir, wer dann?
 
-Along the way of Peach this truth razor has been a force that pushed us to cut out things and processes that we didn’t need or that weren’t adding value, while focussing on those that do.
-​
-One such truth razor for me was using the app myself.
-There have been times when things weren’t working as ideally as we wanted them to, but somehow using the actual app always gave me a confidence boost that things are still working, the core is there and it’s functional. Like each block added to the chain, each trade on Peach strengthened the core.
-Similarly seeing that actual people are using real money with our app felt both like a great privilege and responsibility. Every time a trade on Peach happened it was a market signal that somebody was trusting us to use their funds well, provide good matches and generally a good service. It was an indisputable confirmation that we were doing something of value.
-Another game changer on that front to me were the meetups. Actually seeing people that use our app, that support and like it was an incredible experience. Hearing “you guys are doing a great job, keep it up” is something that is generally nice to hear. But if it comes from people who share your vision of how the world could and should look like is something else. It's almost like a voice from the future letting you know that you are on the right path.
-On a side note, this is why I also love to tell people that they are doing a good job when I feel that they are. Seeing somebody that cares about his time and spends it on things he deems worth it, that you actually benefit from is a feeling I really like to embrace whenever I happen to notice it (which sadly is way too rare, but we know what fixes this).
-
-I also believe that true passion is the only way to outcompete others and actually even set yourself free from competition. There are barriers and hurdles that you just won’t cross if you don’t want to, and the people that care deeply enough will go to lengths to make details work that to others are “impossible”.
-A short example of that was our BTCAmount that went viral a bit. In a redesign we customized the letter spacing of each individual character to make it look nice with a new font we’ve been using. I could have said “screw the design, we’ll just stick to the same spacing everywhere” but that wouldn’t have been what we wanted and the thing about code is: everything is possible, it’s just about wether it’s worth it.
-In this case it was a core part of our design and that’s why it did matter to get the complex details right.
-On another side note this is what I feel separates a fiat from a hard money standard - the level of depth.
-You can look at a painting, a building, listen to a song, eat a meal, read a book or use an app for long periods of time and you still find details you hadn’t seen before, but once you do, you realize that there was a person that made this detail happen and they cared deeply about what it was that they were building.
-
-Another truth razor was the way we worked over the past year.
-
-Being in a remote environment makes it really easy to get lazy because there’s no one looking over your shoulder. But I believe in the same way it can (and for us, it was) a way to actually make the way we work much more value driven. You can’t have 5 coffees while chit chatting with your colleagues pretending that you did a deep work session. We had some of that in the beginning with our daily meetings where you always felt like the hour you spent talking was worth it, until we cut them out completely and realized that things work just fine without them. And I feel that some of these time wasters were more easily recognized working remotely and the communication became much more laser focused on what actually mattered. So in that way with a lower time preference remote work was actually more focused than less.
-
-The first year at Peach was full of new experiences, new learnings and new people, especially recently at the Baltic Honeybadger in Riga, all of which worthy of blog posts of their own, so I hope to have at least given you a glance into all of it.
-I invite everyone who is into Bitcoin to follow that same path, to ask yourself what the most important thing is you could devote your time to and then do it, no matter the cost, the time or the hardship it requires. You will find more value on that path than you ever could otherwise and even in a case of “failure“ I believe you will not regret it. Embrace your inner Peach!
-
-The bear market has been tough on all of us, but our Peachy princess Steph once said:
-“No matter what, we’ll find a way”. So next year, look forward to reading blog posts on how we hopefully overcame ever more challenges with hopefully ever more new Peaches, new features and maybe even the first signs of bulls waiting to start running again.
-
-If not us, then who?
-
-To another great, second year!
+Auf ein weiteres großartiges, zweites Jahr!
 
 ![peaches](/img/blog/1y-anniversary/peaches.jpeg)
 
 # Lab
 
-They grow up so fast... Peach is now officially one year old! Just like a real baby, it’s been about 9 months longer than that ‘behind the scenes’, but who’s counting.
-Back when we first got together to put our heads together on the 9th of January 2021, I couldn’t have imagined what this would grow into or what it would force me to grow into. Back then we were just the four of us with an idea and some guy who was open to putting a little bit of money behind it to cover some of the cost (shoutout to our friend Phil for making our first baby steps possible). About nine months later, after working with friends and family to develop the Peach beta, Peach Bitcoin was officially born at Baltic Honeybadger 2022.
-A lot has changed about Peach since then. We first removed the bucket system, allowing anyone to buy or sell exactly as much as they wanted. There was an extensive visual redesign of the app. We added a big list of payment methods (even outside the EU now!) and are working together with a whole load of meetups for safe cash trades. We added full wallet functionality so that Peach truly is the one-stop-shop app for all your bitcoin needs.
-And now, at Baltic Honeybadger 2023, we have another milestone. Not just our first anniversary, but we’ve opened up our API and open-sourced our app, something that people have been asking about for a long long time. If you want to know more about that and what it means, you can read our Open sourcing our Peach App and Making our Peach API public blogs.
-I, for one, am truly proud of what we’ve accomplished together, but this blogpost is also a bittersweet one for me to write, since it’s also me saying goodbye to working for Peach. I’ve enjoyed working together with the team a lot, but the past year has also forced me to reflect on my position as a designer, and has led me to the conclusion that working behind a laptop all day just is not for me – not even when it includes being with bitcoiners 24/7 and waking up to this every day:
+Sie wachsen so schnell... Peach ist jetzt offiziell ein Jahr alt! Wie ein echtes Baby war es etwa 9 Monate länger hinter den Kulissen, aber wer zählt schon.
+Als wir uns am 9. Januar 2021 das erste Mal zusammenfanden, um unsere Köpfe zusammenzustecken, hätte ich mir nicht vorstellen können, was daraus werden würde oder zu was es mich zwingen würde, mich zu entwickeln. Damals waren wir nur zu viert mit einer Idee und einem Typen, der bereit war, etwas Geld dahinter zu stecken, um einige Kosten zu decken (Dank an unseren Freund Phil, der unsere ersten Babyschritte möglich gemacht hat). Etwa neun Monate später, nachdem wir mit Freunden und Familie an der Entwicklung der Peach-Beta gearbeitet hatten, wurde Peach Bitcoin offiziell bei Baltic Honeybadger 2022 geboren.
+Seitdem hat sich viel an Peach geändert. Zuerst entfernten wir das Bucket-System, sodass jeder genau so viel kaufen oder verkaufen konnte, wie er wollte. Es gab ein umfangreiches visuelles Redesign der App. Wir haben eine große Liste von Zahlungsmethoden hinzugefügt (jetzt auch außerhalb der EU!) und arbeiten mit einer ganzen Reihe von Meetups für sichere Bargeldgeschäfte zusammen. Wir haben die vollständige Wallet-Funktionalität hinzugefügt, sodass Peach wirklich die All-in-One-App für all Ihre Bitcoin-Bedürfnisse ist.
+Und jetzt, bei Baltic Honeybadger 2023, haben wir einen weiteren Meilenstein erreicht. Nicht nur unser erstes Jubiläum, sondern wir haben unsere API geöffnet und unsere App als Open Source freigegeben, etwas, worüber die Leute schon lange gesprochen haben. Wenn Sie mehr darüber erfahren möchten und was es bedeutet, können Sie unsere Blogs [Open sourcing our Peach App](https://peach
+
+bitcoin.com/de/blog/making-our-peach-api-public) und [Making our Peach API public](https://peachbitcoin.com/de/blog/making-our-peach-api-public) lesen.
+Ich bin wirklich stolz darauf, was wir gemeinsam erreicht haben, aber dieser Blogpost ist für mich auch bittersüß, da es gleichzeitig mein Abschied von der Arbeit für Peach ist. Ich habe es sehr genossen, mit dem Team zusammenzuarbeiten, aber das vergangene Jahr hat mich auch dazu gebracht, über meine Position als Designer nachzudenken, und zu der Erkenntnis geführt, dass es nichts für mich ist, den ganzen Tag hinter einem Laptop zu sitzen – selbst wenn es bedeutet, 24/7 mit Bitcoinern zusammen zu sein und jeden Tag damit aufzuwachen:
 
 ![lab's morning views](/img/blog/1y-anniversary/lab-picture.png)
 
-So, I guess this is goodbye (not really – I’ll still be hanging out). I want to thank all of you for your support of Peach, and I want to thank the entire Peach team for both the good and hard times that we’ve been through together and for putting up with all of my bullshit. I think we can be proud of ourselves for what we’ve accomplished, and I’m convinced you guys will accomplish a lot more!
-A happy birthday to Peach, goodbye from me, and a big round of applause for the rest of the team.
-Glory to God for all things - Lab
+Also, ich schätze, das ist ein Abschied (nicht wirklich – ich werde immer noch herumhängen). Ich möchte euch allen für eure Unterstützung von Peach danken und dem gesamten Peach-Team für die guten und harten Zeiten, die wir zusammen durchgemacht haben, und dafür, dass ihr all meinen Bullshit ertragen habt. Ich denke, wir können stolz auf uns sein, was wir erreicht haben, und ich bin überzeugt, dass ihr noch viel mehr erreichen werdet!
+Ein glücklicher Geburtstag für Peach, ein Abschied von mir und ein großer Applaus für den Rest des Teams.
+Ehre sei Gott für alles - Lab
 
 ![peaches](/img/blog/1y-anniversary/peaches.jpeg)
 
 # [Markush](https://twitter.com/akaKush0)
 
-## Volatility is a feature, not a bug
+## Volatilität ist ein Feature, kein Bug
 
-Haven’t you felt time passes differently since you discovered bitcoin?
-Every year feels like many more things happen than the ones before discovering Bitcoin, but at the same time my time horizon when planning things in the future has changed, just as if something weird would happen every 4 years and you need to plan accordingly… ;P
+Haben Sie nicht das Gefühl, dass die Zeit anders vergeht, seit Sie Bitcoin entdeckt haben?
+Jedes Jahr scheint mehr zu passieren als die Jahre vor der Entdeckung von Bitcoin, aber gleichzeitig hat sich mein Zeithorizont beim Planen von Dingen in der Zukunft geändert, als ob alle 4 Jahre etwas Seltsames passieren würde und man entsprechend planen müsste… ;P
 
-I had already worked (founded and failed, lol) in another startup, where things do indeed move extremely fast, and many things happen. But believe me guys, this space is different.
+Ich hatte bereits in einem anderen Startup gearbeitet (gegründet und gescheitert, lol), wo die Dinge tatsächlich extrem schnell voranschreiten und viele Dinge passieren. Aber glaubt mir, Leute, dieser Bereich ist anders.
 
-Maybe I’m the weird one who feels like that, but sincerely, many things have happened to me since I started falling down the rabbit hole, and as time goes by, nothing echoes harder than “You don’t change Bitcoin, Bitcoin changes you”. Especially since you start working on something fully related to it, you (or at least me) realize that it is more worth it building on top of what’s already working, than trying to change Bitcoin itself. Humble yourself in the process, or Bitcoin (& Bitcoiners) will humble you.
+Vielleicht bin ich der seltsame Typ, der das so empfindet, aber ehrlich gesagt, viele Dinge sind mir passiert, seit ich den Kaninchenbau hinuntergefallen bin, und je mehr Zeit vergeht, desto mehr hallt „Du änderst Bitcoin nicht, Bitcoin ändert dich“ nach. Besonders wenn man anfängt, an etwas zu arbeiten, das vollständig damit verbunden ist, erkennt man (oder zumindest ich), dass es mehr wert ist, auf dem aufzubauen, was bereits funktioniert, als zu versuchen, Bitcoin selbst zu ändern. Bescheiden Sie sich im Prozess, oder Bitcoin (& Bitcoiner) werden Sie bescheiden.
 
-In this post I’ll try to explain things I’ve learned at Peach, but also some life learning that I had never thought about before. Hope they can bring some value to you too.
+In diesem Beitrag werde ich versuchen zu erklären, was ich bei Peach gelernt habe, aber auch einige Lebenslektionen, an die ich vorher nie gedacht habe. Ich hoffe, sie können auch Ihnen einen Mehrwert bringen.
 
-## The Story
+## Die Geschichte
 
-My Bitcoin related jobs did not start with Peach, but approx 1 year before, when I left my fiat tech-consulting job, and decided to start working as a freelancer. It was a sweet time, Bitcoin was in a bull-run, and everyone was looking for “crypto-experts” to build projects/scams, wallets, exchanges, mining operations, or whatever they had in mind.
+Meine Bitcoin-bezogenen Jobs begannen nicht mit Peach, sondern etwa ein Jahr vorher, als ich meinen Fiat-Tech-Consulting-Job aufgab und beschloss, als Freelancer zu arbeiten. Es war eine süße Zeit, Bitcoin war in einem Bull-Run, und jeder suchte nach „Krypto-Experten“, um Projekte/Scams, Wallets, Börsen, Mining-Operationen oder was auch immer sie im Sinn hatten, zu bauen.
 
-So there was young Markush, building mining rigs (yeah, also ETH rigs while it was still possible), e-commerce shops, helping people/businesses set up wallets, and coordinating projects on the bitcoin scene.
+Da war also der junge Markush, der Mining-Rigs baute (ja, auch ETH-Rigs, solange es noch möglich war), E-Commerce-Shops erstellte, Menschen/Unternehmen bei der Einrichtung von Wallets half und Projekte in der Bitcoin-Szene koordinierte.
 
-Money did indeed fall out of trees at that time. But that kind of life doesn’t last forever. Bull runs reach an end, and not just for the money, but just because exponential growth is not real, and sooner or later you learn that to really have a sustainable growth, you need to provide value. And the bull-runs are usually always fueled by scams, not by real value. Fiat world kinda resembles that, however the cantillonaires hide the bull-runs in longer periods, so you don’t even notice they are stealing wealth from you. Until everything crashes.
+Geld fiel zu dieser Zeit tatsächlich von den Bäumen. Aber diese Art von Leben hält nicht ewig. Bull-Runs enden, und nicht nur wegen des Geldes, sondern einfach weil exponentielles Wachstum nicht real ist, und früher oder später lernt man, dass man, um wirklich nachhaltiges Wachstum zu haben, einen Mehrwert bieten muss. Und die Bull-Runs werden normalerweise immer von Scams befeuert, nicht von echtem Wert. Die Fiat-Welt ähnelt dem irgendwie, jedoch verstecken die Cantillonaires die Bull-Runs in längeren Perioden, sodass man nicht einmal merkt, dass sie einem Wohlstand stehlen. Bis alles zusammenbricht.
 
-But as some say, an end is a new beginning, and that was last summer for me. When I suddenly read a message on a Telegram group ([European Bitcoiners](https://t.me/europeanbitcoin21)), that said some mysterious people where looking for developers in Europe for a new project they were building. And so my curiosity didn’t let me stay without sending a message to them, and asking what was all that mistery about.
+Aber wie einige sagen, ist ein Ende ein neuer Anfang, und das war letzten Sommer für mich. Als ich plötzlich eine Nachricht in einer Telegram-Gruppe ([European Bitcoiners](https://t.me/europeanbitcoin21)) las, dass einige mysteriöse Leute Entwickler in Europa für ein neues Projekt suchten, das sie aufbauten. Und so ließ mich meine Neugier nicht ohne eine Nachricht an sie zu senden und zu fragen, worum es bei diesem Geheimnis ging.
 
-I imagine you’ve already guessed it. It was Peach, but at that time it was not even in closed beta. While listening to Steph and Czino explaining more and more about Peach, I immediately got hyped and we accorded I’d start working with them after they came back from Riga, where they had to announce the launch of Peach during the Baltic Honeybadger conference.
+Ich stelle mir vor, Sie haben es schon erraten. Es war Peach, aber zu diesem Zeitpunkt war es noch nicht einmal in der geschlossenen Beta. Während ich Steph und Czino zuhörte, die mehr und mehr über Peach erklärten, war ich sofort begeistert und wir vereinbarten, dass ich nach ihrer Rückkehr aus Riga, wo sie die Einführung von Peach während der Baltic Honeybadger-Konferenz ankündigen mussten, mit ihnen zusammenarbeiten würde.
 
-I kept in touch with them while they were there and (at least from the distance), it seemed like the launch was really successful. What I didn’t knew at that moment was that I was not prepared for my accidental first day of work at Peach.
+Ich blieb mit ihnen in Kontakt, während sie dort waren und (zumindest aus der Ferne) schien der Start wirklich erfolgreich zu sein. Was ich in diesem Moment nicht wusste, war, dass ich nicht auf meinen zufälligen ersten Arbeitstag bei Peach vorbereitet war.
 
-There I was, in a bar drinking a beer with a friend, explaining about my new job I’d start in 3 days (just after the weekend), when I suddenly received a call from Steph.
+Da war ich also, in einer Bar und trank ein Bier mit einem Freund, erzählte von meinem neuen Job, den ich in 3 Tagen (direkt nach dem Wochenende) beginnen würde, als ich plötzlich einen Anruf von Steph erhielt.
 
-The Peach website was down. Someone was DDoSing it. Without getting too much into the details, we discovered it was a simple Wordpress plugin that was vulnerable, and a script kiddo was attacking it.
+Die Peach-Website war offline. Jemand führte einen DDoS-Angriff durch. Ohne zu sehr ins Detail zu gehen, stellten wir fest, dass es ein einfaches WordPress-Plugin war, das anfällig war, und ein Script-Kiddo griff es an.
 
-Even if it ended up being just a funny first day of work, I remember staying up until around 3 or 4 in the night investigating the causes of the attack, and nerves were all around. Even the next morning the website was down again, and I spent some hours in touch with the team.
+Auch wenn es sich am Ende nur als lustiger erster Arbeitstag herausstellte, erinnere ich mich daran, bis etwa 3 oder 4 Uhr nachts wach zu bleiben und die Ursachen des Angriffs zu untersuchen, und die Nerven waren allgegenwärtig. Auch am nächsten Morgen war die Website wieder offline, und ich verbrachte einige Stunden im Kontakt mit dem Team.
 
-Despite being totally improvised, it was the freaking best first day of work I’ve had.
+Trotz der völligen Improvisation war es der verdammt beste erste Arbeitstag, den ich je hatte.
 
-From then on, things got a bit more calm and I had a proper onboarding experience and many, many learnings during the next year, up until today.
+Von da an wurden die Dinge etwas ruhiger und ich hatte eine ordentliche Onboarding-Erfahrung und viele, viele Erkenntnisse im nächsten Jahr, bis heute.
 
-Down here I’ll write down some of the most important things I’ve learned, as I think they can be valuable for others reading to this weird post.
+Unten werde ich einige der wichtigsten Dinge aufschreiben, die ich gelernt habe, da ich denke, dass sie für andere, die diesen seltsamen Beitrag lesen, wertvoll sein können.
 
-## The Learnings
+## Die Erkenntnisse
 
-Let’s get real, working in Bitcoin is stressful. And if the job is in a startup, it is even more. Luckily I had already worked in another startup, and I knew a little bit how this kind of companies operate.
-Being a small team, brings you many opportunities to be really close to the others, but also you feel like you’re alone in many things most of the time, as there is not more than 1 or 2 people working in the same things as you. So you gotta really be someone who learns by himself, and wants to contribute and grow something bigger than a simple day to day job.
+Lassen Sie uns realistisch sein, in Bitcoin zu arbeiten ist stressig. Und wenn der Job in einem Startup ist, noch mehr. Zum Glück hatte ich bereits in einem anderen Startup gearbeitet und wusste ein wenig, wie solche Unternehmen funktionieren.
+Ein kleines Team zu sein, bringt viele Möglichkeiten, den anderen wirklich nahe zu sein, aber man fühlt sich auch die meiste Zeit allein in vielen Dingen, da nicht mehr als 1 oder 2 Personen an den gleichen Dingen arbeiten wie man selbst. Man muss also wirklich jemand sein, der selbst lernt und der etwas Größeres als einen einfachen Alltagsjob aufbauen möchte.
 
-But even if it’s not an easy environment, the learnings are extremely powerful, and they make you grow in a way that in a typical 9-5 office job you wouldn’t have had the opportunity. Especially when the startup is a bitcoin one :smile: .
+Aber auch wenn es keine einfache Umgebung ist, sind die Erkenntnisse äußerst kraftvoll, und sie lassen einen auf eine Weise wachsen, die man in einem typischen 9-5-Bürojob nicht gehabt hätte. Besonders wenn das Startup ein Bitcoin-Startup ist :smile: .
 
-Down here is a brief recap of the most important ones (for me):
+Hier ist eine kurze Zusammenfassung der wichtigsten (für mich):
 
-- It is normal to get tired of Bitcoin. You need to disconnect from Bitcoin after your day-job. You’ll end up tired of talking about the same thing 24h a day. Believe me working on it is different than shitposting on twitter.
+- Es ist normal, von Bitcoin müde zu werden. Man muss sich nach seinem Tagesjob von Bitcoin abschalten. Man wird es satt haben, 24 Stunden am Tag über dasselbe zu sprechen. Glauben Sie mir, daran zu arbeiten ist anders als auf Twitter zu posten.
 
-- I’ve learned to look at Bitcoin from another perspective. You can contribute to it. Not simply admire and use it, but also identify possible problems, and try to fix them, to make them better for other people. All of that, while not trying to change the essence of Bitcoin itself, as some people do.
+- Ich habe gelernt, Bitcoin aus einer anderen Perspektive zu betrachten. Man kann dazu beitragen. Nicht einfach bewundern und verwenden, sondern auch mögliche Probleme identifizieren und versuchen, sie zu beheben, um sie für andere Menschen besser zu machen. All das, ohne zu versuchen, die Essenz von Bitcoin selbst zu ändern, wie es manche Menschen tun.
 
-- Volatility is inherent to human life. We as humans try to avoid it as much as possible, but volatility is not only found in Bitcoin price, but on daily emotions, feelings, work sessions and everything that happens to us. Sometimes we’re in a flow state where everything happens easily, and sometimes nothing seems to work. It’s completely normal. Learn to identify each situation and avoid getting too frustrated when things don’t go as expected.
+- Volatilität ist dem menschlichen Leben inhärent. Wir als Menschen versuchen, sie so weit wie möglich zu vermeiden, aber Volatilität findet sich nicht nur im Bitcoin-Preis, sondern auch in täglichen Emotionen, Gefühlen, Arbeitssitzungen und allem, was uns passiert. Manchmal sind wir in einem Flusszustand, in dem alles leicht passiert, und manchmal scheint nichts zu funktionieren. Das ist völlig normal. Lernen Sie, jede Situation zu erkennen und vermeiden Sie es, zu frustriert zu sein, wenn die Dinge nicht wie erwartet laufen.
 
-- Someone told me: Fail to plan is a plan to fail. Even if sometimes I even got mad at it, it is a huge advice for anyone who’s trying to build a product/project. Planning reduces the stress when unexpected things happen, and lets you have a clearer mind instead of having to constantly improvise.
+- Jemand sagte mir: Das Versäumnis zu planen ist ein Plan zu scheitern. Auch wenn ich manchmal wütend darüber war, ist es ein großer Ratschlag für jeden, der versucht, ein Produkt/Projekt zu bauen. Planung reduziert den Stress, wenn unerwartete Dinge passieren, und lässt Sie einen klareren Kopf haben, anstatt ständig improvisieren zu müssen.
 
-- Bad times are the ones that make you grow the most.
+- Schlechte Zeiten sind die, die einen am meisten wachsen lassen.
 
-- Team success depends on individual success. Make the most out of yourself even if you feel like it’s not important.
+- Der Erfolg des Teams hängt vom individuellen Erfolg ab. Machen Sie das Beste aus sich selbst, auch wenn Sie das Gefühl haben, dass es nicht wichtig ist.
 
-- Look for people with more knowledge than you and ask questions. (Expect to get burned)
+- Suchen Sie nach Menschen mit
 
-- You will receive hate even when you think you’re doing everything right.
+ mehr Wissen als Sie und stellen Sie Fragen. (Erwarten Sie, verbrannt zu werden)
 
-- Not everyone can work in Bitcoin (not everyone understands Bitcoin, and that’s ok!)
+- Sie werden Hass bekommen, selbst wenn Sie denken, dass Sie alles richtig machen.
 
-- What you are building is important. If you don’t like it, quit asap. If you like (or love) it, you’ll find yourself working without feeling like you are loosing your time.
+- Nicht jeder kann in Bitcoin arbeiten (nicht jeder versteht Bitcoin, und das ist in Ordnung!)
 
-- Learn to love the process, not the end (hint: there is never an end).
+- Was Sie bauen, ist wichtig. Wenn Sie es nicht mögen, kündigen Sie so schnell wie möglich. Wenn Sie es mögen (oder lieben), werden Sie feststellen, dass Sie arbeiten, ohne das Gefühl zu haben, Ihre Zeit zu verschwenden.
 
-- Proof of Work is not easy. The rewards come, but sometimes they take much longer than you expected.
+- Lernen Sie, den Prozess zu lieben, nicht das Ende (Hinweis: Es gibt nie ein Ende).
 
-- Build with a purpose.
+- Der Arbeitsnachweis ist nicht einfach. Die Belohnungen kommen, aber manchmal dauern sie viel länger als erwartet.
 
-And the last one, a question that is not talked about enough…
+- Bauen Sie mit einem Zweck.
 
-- Have you ever thought on how to pay your expenses if you are paid in Bitcoin?
+Und der letzte Punkt, eine Frage, die nicht oft genug gestellt wird…
 
-There are many more things I could say, 1 year is full of experiences, but I think the previous ones are a good resume of my inner feelings. I’d love to hear if you’ve gone through similar experiences lately. Hopefully by next year, some of the doubts I still have may have vanished. Or not, but in reality… who cares? :slight_smile:
+- Haben Sie jemals darüber nachgedacht, wie Sie Ihre Ausgaben bezahlen, wenn Sie in Bitcoin bezahlt werden?
 
-Maybe the last learning I’d like to highlight is that stability is a fiat concept. Most jobs nowadays are overpaid just to have some people sitting in a chair all year long 5 days a week, when that same job could have been done by a freelancer in 5 months, get paid, and look for something else. If you sometimes feel stuck, or that your job is “too boring”, there’s something telling you that you’re not using your time as you should!
+Es gibt viele weitere Dinge, die ich sagen könnte, ein Jahr ist voller Erfahrungen, aber ich denke, die vorherigen sind eine gute Zusammenfassung meiner inneren Gefühle. Ich würde gerne hören, ob Sie in letzter Zeit ähnliche Erfahrungen gemacht haben. Hoffentlich werden einige der Zweifel, die ich noch habe, bis zum nächsten Jahr verschwunden sein. Oder auch nicht, aber in Wirklichkeit… wen kümmert's? :slight_smile:
 
-## The Conclusions
+Vielleicht ist die letzte Erkenntnis, die ich hervorheben möchte, dass Stabilität ein Fiat-Konzept ist. Die meisten Jobs heutzutage sind überbezahlt, nur um einige Leute das ganze Jahr über fünf Tage die Woche auf einem Stuhl sitzen zu lassen, wenn derselbe Job von einem Freelancer in 5 Monaten erledigt werden könnte, bezahlt wird und sich etwas anderes sucht. Wenn Sie sich manchmal festgefahren fühlen oder dass Ihr Job „zu langweilig“ ist, sagt Ihnen etwas, dass Sie Ihre Zeit nicht so nutzen, wie Sie sollten!
 
-Many people have asked me about my life since I started earning in Bitcoin, and working full time on it. It’s a big change, and it’s not easy, but once you get used to it, it is really fulfilling.
+## Die Schlussfolgerungen
 
-We’re always looking for our comfort zone, and the system is made specifically for you to find it easily. But when you discover life is not just that, but much more, nothing can prevent you to achieve great things.
+Viele Leute haben mich nach meinem Leben gefragt, seit ich in Bitcoin bezahlt werde und Vollzeit daran arbeite. Es ist eine große Veränderung und nicht einfach, aber wenn man sich daran gewöhnt, ist es wirklich erfüllend.
 
-To anyone wondering if they are still on time to change their lifestyle, their job, or whatever around them that’s feeling wrong, just make sure you understand the implications of that change, and embrace the volatility. At first you’ll be scared, but when you get used to it... oh boy. Who can ever get back?
+Wir suchen immer nach unserer Komfortzone, und das System ist speziell dafür gemacht, dass man sie leicht findet. Aber wenn man entdeckt, dass das Leben nicht nur das ist, sondern viel mehr, kann einen nichts davon abhalten, Großes zu erreichen.
+
+Für alle, die sich fragen, ob es noch Zeit ist, ihren Lebensstil, ihren Job oder was auch immer um sie herum falsch anfühlt, zu ändern, stellen Sie nur sicher, dass Sie die Implikationen dieser Änderung verstehen und die Volatilität umarmen. Zuerst werden Sie Angst haben, aber wenn Sie sich daran gewöhnen... oh Junge. Wer kann jemals zurückgehen?
 
 ![peaches](/img/blog/1y-anniversary/peaches.jpeg)
 
 # [Steph](https://x.com/@proofofsteph)
 
-## How did we survive the first year?
+## Wie haben wir das erste Jahr überlebt?
 
-Peach is alive!
+Peach lebt!
 
-One year after launching the product, this is the first celebration statement I want to make. We kept Peach - the product, the company, the team, the ecosystem - alive. I would even say alive and growing! Are we fighting each and every day for its survival? Sure! Are we still feeling delusional and crazy about creating a product out of our imagination? Damn yes!
+Ein Jahr nach dem Start des Produkts ist dies die erste Feiermeldung, die ich machen möchte. Wir haben Peach - das Produkt, das Unternehmen, das Team, das Ökosystem - am Leben erhalten. Ich würde sogar sagen, lebendig und wachsend! Kämpfen wir jeden Tag um sein Überleben? Sicher! Fühlen wir uns immer noch wahnhaft und verrückt, ein Produkt aus unserer Vorstellungskraft zu schaffen? Verdammte ja!
 
-But here we are, one year after going public, same place, same day, in Riga at the Baltic Honeybadger conference (the most OG Bitcoin conference) announcing Peach 0.3.
+Aber hier sind wir, ein Jahr nach der Veröffentlichung, am selben Ort, am selben Tag, in Riga auf der Baltic Honeybadger-Konferenz (der OG-Bitcoin-Konferenz) und kündigen Peach 0.3 an.
 
-### 12 months for showing traction
+### 12 Monate, um Traktion zu zeigen
 
-The name of the game is to build a usable product that can actually be used. Providing a service that some people will find compelling enough to pay for it. No secret sauce for achieving this or rather the secret sauce is well known:
+Der Name des Spiels besteht darin, ein nutzbares Produkt zu entwickeln, das tatsächlich verwendet werden kann. Einen Service anzubieten, den einige Leute überzeugend genug finden, um dafür zu bezahlen. Kein Geheimrezept, um dies zu erreichen, oder eher das Geheimrezept ist wohlbekannt:
 
-    deliver!
-    Listen to user feedback
-    deliver!
-    Repeat 🔁
+    liefern!
+    Benutzerfeedback anhören
+    liefern!
+    Wiederholen 🔁
 
-### Listening to Peach inner cycles
+### Die inneren Zyklen von Peach anhören
 
-My teammate said “volatility is a feature not a bug” and I could not agree more. Life is movement, the waves constantly come and go. Sometimes the wind makes them crash onto the rocks and sometimes the sweet light of the sun lighten up the waves with a very soft melody. Peach cycles come and go in waves. Peach is now an independent organic being in constant movement living through cycles and responding to external weather conditions. Sometimes it needs to rest and recover and sometimes it needs to sprint. Listening, recognising and then respecting those cycles are critically important to keep Peach healthy in the long run.
+Mein Teamkollege sagte „Volatilität ist ein Feature, kein Bug“ und ich könnte nicht mehr zustimmen. Das Leben ist Bewegung, die Wellen kommen und gehen ständig. Manchmal lässt der Wind sie gegen die Felsen krachen und manchmal erleuchtet das süße Licht der Sonne die Wellen mit einer sehr sanften Melodie. Peach-Zyklen kommen und gehen in Wellen. Peach ist jetzt ein unabhängiges, organisches Wesen in ständiger Bewegung, das durch Zyklen lebt und auf äußere Wetterbedingungen reagiert. Manchmal muss es sich ausruhen und erholen, und manchmal muss es sprinten. Das Zuhören, Erkennen und dann Respektieren dieser Zyklen ist entscheidend, um Peach langfristig gesund zu halten.
 
-### Ego consciousness
+### Ego-Bewusstsein
 
-I am Peach but Peach is not only me anymore. Recognizing that the baby has “grown outside of me” is crucial for ensuring its well being. Peach can not grow if I personally don’t grow alongside with its development. Self-awareness and self-criticism have become a Peach live or die challenge. I have faced some critical issues and the only way to resolve them was to become self-conscious about how my ego blocked the way. Either I put on the ego work or Peach suffers, worse Peach can die. And luckily, as the heart of a mum will always prioritise the baby’s growth, the work on the ego begins and doors open up.
+Ich bin Peach, aber Peach ist nicht mehr nur ich. Zu erkennen, dass das Baby „außerhalb von mir gewachsen ist“, ist entscheidend, um sein Wohl sicherzustellen. Peach kann nicht wachsen, wenn ich persönlich nicht parallel zu seiner Entwicklung wachse. Selbstbewusstsein und Selbstkritik sind zu einer Überlebensfrage für Peach geworden. Ich habe einige kritische Probleme konfrontiert und der einzige Weg, sie zu lösen, war, sich bewusst zu werden, wie mein Ego den Weg blockierte. Entweder arbeite ich am Ego oder Peach leidet, schlimmer noch, Peach kann sterben. Und zum Glück, wie das Herz einer Mutter immer das Wachstum des Babys priorisieren wird, beginnt die Arbeit am Ego und Türen öffnen sich.
 
-### Being a leader means I will do what I want to do despite the FUD
+### Ein Führer zu sein bedeutet, dass ich das tun werde, was ich tun will, trotz des FUD
 
-It happened that I see a product feature, or a design, or an internal way of working, or a positioning. I envision an environment that only exists in my head until I share my thoughts with the team to transform the thoughts into the material world. I am lucky to be working with an engineer associate who has an open-mind and is able to help me transforming ideas to down-to-earth solutions while remaining very creative himself. I strongly believe that the best creations are made out of the unique minds of individual(s) and not out of average thoughts of the crowd. So sometimes, even if no one sees it, even if everyone doubt it, I just gotta keep believing, and still do it. And if I was wrong, the solution is easy peachy, I take feedback and iterate.
+Es kam vor, dass ich eine Produktfunktion, ein Design oder eine interne Arbeitsweise oder eine Positionierung sehe. Ich stelle mir eine Umgebung vor, die nur in meinem Kopf existiert, bis ich meine Gedanken mit dem Team teile, um die Gedanken in die materielle Welt zu transformieren. Ich habe das Glück, mit einem Ingenieurkollegen zusammenzuarbeiten, der offen ist und mir hilft, Ideen in praxisnahe Lösungen umzusetzen, während er selbst sehr kreativ bleibt. Ich glaube fest daran, dass die besten Kreationen aus den einzigartigen Köpfen von Individuen entstehen und nicht aus den durchschnittlichen Gedanken der Menge. Also manchmal, auch wenn es niemand sieht, auch wenn alle daran zweifeln, muss ich einfach weiter glauben und es trotzdem tun. Und wenn ich falsch lag, ist die Lösung einfach peachy, ich nehme Feedback an und iteriere.
 
-### Keep faith in Peach’s mission and building the foundation
+### Den Glauben an Peachs Mission bewahren und das Fundament bauen
 
-Bootstrapping, no budget, bear market, tight runway, team management, product survival, administrative tasks, annoying tasks, bugs… it’s a lot to take on! Two words to keep going: faith and perseverance. Giving up is not an option. We are still at the beginning of the rallye but yet accomplished so much. I know deep down that Peach can only succeed with work, patience, time and effort. Peach is not a quick win scheme. I know the fruits will come out of intensively laboured soil and not out of thin air. Without the tree, no fruits. Without the foundations, no rewards. This past year (and actually more than a year since we started working together in 2021) has been about taking the time to establish solid relationships which allowed our principles and values to emerge and become more clear. Our foundation is made out of discernment, analytical mindset, good preparation for everything new we want to build, planning (‘fail to plan is a plan to fail), intuition. Our general atmosphere is friendly, intimate with a big place for dialogue, sentiment of peace and serenity. “Find safety in sats” is a meme that fits Peach well.
+Bootstrapping, kein Budget, Bärenmarkt, enger Finanzrahmen, Teammanagement, Produkterhaltung, administrative Aufgaben, nervige Aufgaben, Bugs… es ist viel zu verkraften! Zwei Worte, um weiterzumachen: Glaube und Ausdauer. Aufgeben ist keine Option. Wir sind noch am Anfang des Rennens, aber haben doch schon so viel erreicht. Ich weiß tief im Inneren, dass Peach nur mit Arbeit, Geduld, Zeit und Anstrengung erfolgreich sein kann. Peach ist kein Schnellgewinn-Schema. Ich weiß, dass die Früchte aus intensiv bearbeitetem Boden kommen und nicht aus dünner Luft. Ohne den Baum keine Früchte. Ohne die Grundlagen keine Belohnungen. Dieses vergangene Jahr (und tatsächlich mehr als ein Jahr, seit wir 2021 zusammengearbeitet haben) ging es darum, sich Zeit zu nehmen, um solide Beziehungen aufzubauen, die es unseren Prinzipien und Werten ermöglichten, zu entstehen und klarer zu werden. Unser Fundament besteht aus Unterscheidungsvermögen, analytischem Denken, guter Vorbereitung auf alles Neue, was wir aufbauen wollen, Planung („Versäumnis zu planen ist ein Plan zu scheitern“), Intuition. Unsere allgemeine Atmosphäre ist freundlich, intim mit viel Raum für Dialog, Gefühl von Frieden und Gelassenheit. „Finde Sicherheit in Sats“ ist ein Meme, das gut zu Peach passt.
 
-### Listening to my own inner cycles
+### Meinen eigenen inneren Zyklen zuhören
 
-If I am not doing well for a long period of time, then Peach follows. Therefore, listening to my own personal and female inner cycle have became a critical challenge to make sure that I don’t burn out. There is no clear boundaries between Peach and me. Everything is interconnected and one has an impact on the other. So Steph mind and body and Steph Peach are one and have to be managed together. I remember I used to read startups stuffs like “you have to work 24h/7” “your startup has to become your only purpose” etc etc. Well, we will see how it goes but I am definitely not fitting in those, in my opinion, old schools views. Smart > hard. Energy flow > empty productivity. I am very much in a position that requires to find balance to survive in the long term. I believe in the mathematical reward that comes out of the “low-time preference” principle and the name of the game is to stop believing and start embodying.
+Wenn es mir über einen längeren Zeitraum nicht gut geht, dann folgt Peach. Daher ist es zu einer kritischen Herausforderung geworden, auf meinen eigenen persönlichen und weiblichen inneren Zyklus zu achten, um sicherzustellen, dass ich nicht ausbrenne. Es gibt keine klaren Grenzen zwischen Peach und mir. Alles ist miteinander verbunden und eines hat Auswirkungen auf das andere. Also müssen Steph Geist und Körper und Steph Peach zusammen verwaltet werden. Ich erinnere mich, dass ich früher Start-up-Stuff wie „Du musst 24h/7 arbeiten“ „Dein Start-up muss dein einziger Zweck sein“ usw. gelesen habe. Nun, wir werden sehen, wie es geht, aber ich passe definitiv nicht in diese, meiner Meinung nach, altmodischen Ansichten. Smart > hart. Energiefluss > leere Produktivität. Ich befinde mich sehr in einer Position, die erfordert, ein Gleichgewicht zu finden, um langfristig zu überleben. Ich glaube an die mathematische Belohnung, die aus dem Prinzip der „niedrigen Zeitpräferenz“ resultiert, und das Ziel des Spiels ist es, aufzuhören zu glauben und anzufangen, es zu verkörpern.
 
-Each of those paragraphs could be a blog on itself, and I could continue on much more. I would close by what is the most obvious answer to “How did we survive the first year?”. Answer: INCENTIVES. See you on another blog :)
+Jeder dieser Absätze könnte ein Blog für sich sein, und ich könnte noch viel mehr weitermachen. Ich würde schließen, was die offensichtlichste Antwort auf „Wie haben wir das erste Jahr überlebt?“ ist. Antwort: ANREIZE. Wir sehen uns in einem anderen Blog :)
 
 ![peaches](/img/blog/1y-anniversary/peaches.jpeg)
 
-Well dear peaches, this is the end of the series of blog posts from the team. We just want to sincerely THANK YOU ALL for being part of this journey. Who knows if in 1 year we will still be here, but what would we make with life if we already knew the future? Let's work hard on building it together and improve our surroundings simply by improving ourselves.
+Nun, liebe Peaches, dies ist das Ende der Serie von Blogposts
 
-> Cheers,
-> The Peach Team
+ des Teams. Wir möchten uns einfach herzlich bei euch ALLEN bedanken, dass ihr Teil dieser Reise seid. Wer weiß, ob wir in einem Jahr noch hier sein werden, aber was würden wir mit dem Leben anfangen, wenn wir die Zukunft schon wüssten? Lassen Sie uns hart daran arbeiten, sie gemeinsam aufzubauen und unsere Umgebung einfach dadurch zu verbessern, dass wir uns selbst verbessern.
 
-## Schlussbemerkungen
+> Prost,
+> Das Peach-Team
 
-Wenn Sie mehr über die Funktionen von Peach erfahren möchten oder einige unserer anderen Artikel lesen möchten, finden Sie sie hier!
+Wenn Sie mehr über Peach-Funktionen erfahren oder einige unserer anderen Artikel lesen möchten, finden Sie sie hier!
 
-[Wie man Bitcoin-Wallets mit einem Seed-Phrase wiederherstellt](https://peachbitcoin.com/de/blog/how-to-restore-peach-wallet/)
+[Wie man Bitcoin Wallets mit einer Seed-Phrase wiederherstellt](https://peachbitcoin.com/de/blog/how-to-restore-peach-wallet/)
 
 [Wie man mehrere Verkaufsangebote finanziert](https://peachbitcoin.com/de/blog/funding-multiple-sell-offers/)
 
-[Wie man Bitcoin mit Bargeld kauft und verkauft, mit Peach](https://peachbitcoin.com/de/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/)
+[Wie man Bitcoin mit Bargeld kauft und verkauft, indem man Peach verwendet](https://peachbitcoin.com/de/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/)
 
 [Wie man eine neue Zahlungsmethode in der Peach-App hinzufügt](https://peachbitcoin.com/de/blog/how-to-add-a-payment-method/)
 
-[Peach expandiert in den Globalen Süden!](https://peachbitcoin.com/de/blog/peach-expands-to-the-global-south/)
+[Peach expandiert in den globalen Süden!](https://peachbitcoin.com/de/blog/peach-expands-to-the-global-south/)
 
 [Unsere Peach-API öffentlich machen](https://peachbitcoin.com/de/blog/making-our-peach-api-public/)
 
@@ -313,10 +316,10 @@ Wenn Sie mehr über die Funktionen von Peach erfahren möchten oder einige unser
 
 [Warum P2P-Serie? Kapitel 4](https://peachbitcoin.com/de/blog/why-p2p-chapter-4-chains-of-trust/)
 
-[Peach x Treffen](https://peachbitcoin.com/de/blog/peach-for-meetups/)
+[Peach x meetups](https://peachbitcoin.com/de/blog/peach-for-meetups/)
 
-Wenn Sie mehr über uns erfahren möchten, schauen Sie sich unsere sozialen Medien an oder [kontaktieren Sie uns](mailto:hello@peachbitcoin.com) (wenn möglich, verwenden Sie unseren [PGP-Schlüssel](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2)), wir freuen uns, von Ihnen zu hören!
+Wenn Sie mehr über uns erfahren möchten, schauen Sie sich unsere sozialen Medien an oder kontaktieren Sie uns einfach [hier](mailto:hello@peachbitcoin.com) (verwendet nach Möglichkeit unseren [PGP-Schlüssel](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2)), wir freuen uns, von Ihnen zu hören!
 
 [Telegram](https://t.me/peachtopeach), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
-Verbreiten Sie weiterhin das Peach-Wort, wer weiß, wann Sie den Match Ihres Lebens finden werden!
+Verbreitet das Peach-Wort weiter, wer weiß, wann Sie das Match Ihres Lebens finden!
