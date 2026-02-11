@@ -40,7 +40,7 @@
   & img {
     display: block;
     width: 100%;
-    aspect-ratio: 3 / 2;  /* or 16 / 9, or whatever ratio you prefer */
+    aspect-ratio: 2/2;  /* or 16 / 9, or whatever ratio you prefer */
     object-fit: cover;
     border-top-left-radius: var(--border-radius);
     border-top-right-radius: var(--border-radius);
