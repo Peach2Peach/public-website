@@ -1056,8 +1056,8 @@
     "section": "Privacy",
     "sectionKey": "privacy",
     "question": "¿Se admite Taproot?",
-    "answer": "- Sí, puedes enviar a direcciones de Taproot desde la billetera Peach.\n- También puedes recibir directamente desde el fideicomiso en tu dirección externa de Taproot.",
-    "snippet": "- Sí, puedes enviar a direcciones de Taproot desde la billetera Peach. - También puedes recibir directamente desde el fideicomiso en tu dirección externa de Tap",
+    "answer": "- Sí, puedes enviar a direcciones de Taproot desde la billetera Peach.\n- También puedes recibir directamente desde el depósito de garantía en tu dirección externa de Taproot.",
+    "snippet": "- Sí, puedes enviar a direcciones de Taproot desde la billetera Peach. - También puedes recibir directamente desde el depósito de garantía en tu dirección exter",
     "url": "/es/faq/privacy/#se-admite-taproot",
     "lang": "es"
   },
