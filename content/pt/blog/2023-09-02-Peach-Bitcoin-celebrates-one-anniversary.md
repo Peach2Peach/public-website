@@ -6,10 +6,12 @@ keywords:
   - P2P
   - peer to peer
 tags:
-  - Francês
+  - Company
+  - Rants and Opinions
 previewImage: /img/blog/peach-expands-to-the-global-south/map.png
-description: |
-  O Peach Bitcoin comemora seu primeiro aniversário: Novidades deslumbrantes e... Rumo ao Sul!
+description: >
+  O Peach Bitcoin comemora seu primeiro aniversário: Novidades deslumbrantes
+  e... Rumo ao Sul!
 ---
 
 # O Peach Bitcoin comemora seu primeiro aniversário: Novidades deslumbrantes e... Rumo ao Sul!

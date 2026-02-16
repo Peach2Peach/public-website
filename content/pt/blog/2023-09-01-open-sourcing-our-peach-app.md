@@ -3,10 +3,12 @@ keywords:
   - open source
   - código
 tags:
-  - Código
+  - Product
+  - Rants and Opinions
 previewImage: /img/blog/open-sourcing-our-peach-app/privacy-first.png
-description: |
-  Estamos aqui para contar tudo (ou devemos dizer pêssegos?) - o aplicativo Peach está dando um grande passo no mundo open source.
+description: >
+  Estamos aqui para contar tudo (ou devemos dizer pêssegos?) - o aplicativo
+  Peach está dando um grande passo no mundo open source.
 ---
 
 # Abrindo nosso aplicativo Peach

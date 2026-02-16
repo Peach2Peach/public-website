@@ -4,10 +4,11 @@ keywords:
   - escrow
   - transazione batch
 tags:
-  - Come Fare
+  - How To
 previewImage: /img/blog/funding-multiple-sell-offers/batched-transaction.png
-description: |
-  A partire dalla versione 0.3.0, Peach App introduce la possibilità di creare e finanziare più offerte di vendita. Ecco come funziona.
+description: >
+  A partire dalla versione 0.3.0, Peach App introduce la possibilità di creare e
+  finanziare più offerte di vendita. Ecco come funziona.
 ---
 
 # Come Finanziare Più Offerte di Vendita

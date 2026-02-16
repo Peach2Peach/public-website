@@ -6,12 +6,18 @@ keywords:
   - P2P
   - Intercambios entre pares
 tags:
-  - Cómo
+  - How To
 previewImage: /img/blog/how-to-add-a-payment-method/teaser.jpg
 helpFooter: true
-description: |
-  Uno podría preguntarse, ¿por qué queremos agregar otros métodos de pago en nuestros intercambios? La razón es simple.
-  Como saben, Peach permite a los usuarios intercambiar Bitcoin p2p, el problema es cuando otro usuario quiere intercambiar contigo, pero no puedes ver su oferta solo porque están utilizando otro método de pago. Para estar abierto a las máximas opciones posibles y poder elegir de una amplia gama de coincidencias, necesitas abrirte a comerciar con diferentes métodos de pago.
+description: >
+  Uno podría preguntarse, ¿por qué queremos agregar otros métodos de pago en
+  nuestros intercambios? La razón es simple.
+
+  Como saben, Peach permite a los usuarios intercambiar Bitcoin p2p, el problema
+  es cuando otro usuario quiere intercambiar contigo, pero no puedes ver su
+  oferta solo porque están utilizando otro método de pago. Para estar abierto a
+  las máximas opciones posibles y poder elegir de una amplia gama de
+  coincidencias, necesitas abrirte a comerciar con diferentes métodos de pago.
 ---
 
 # Cómo agregar un nuevo método de pago en la aplicación Peach

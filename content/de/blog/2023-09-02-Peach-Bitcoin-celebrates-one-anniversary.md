@@ -7,10 +7,12 @@ keywords:
   - p2p
   - Peer-to-Peer
 tags:
-  - Französisch
+  - Company
+  - Rants and Opinions
 previewImage: /img/blog/peach-expands-to-the-global-south/map.png
-description: |
-  Peach Bitcoin feiert sein einjähriges Bestehen: Glanzvolle Neuheiten und... Kurs auf den Süden!
+description: >
+  Peach Bitcoin feiert sein einjähriges Bestehen: Glanzvolle Neuheiten und...
+  Kurs auf den Süden!
 ---
 
 # Peach Bitcoin feiert sein einjähriges Bestehen: Glanzvolle Neuheiten und... Kurs auf den Süden!

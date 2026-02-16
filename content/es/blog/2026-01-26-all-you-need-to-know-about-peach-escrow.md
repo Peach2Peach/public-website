@@ -14,10 +14,8 @@ keywords:
   - Aplicación Peach Bitcoin
   - Comercio de Bitcoin con autocustodia
   - Mercado de Bitcoin sin KYC
-
 tags:
-  - Blog
-  - Depósito en garantía
+  - Product
 previewImage: /img/blog/all-you-need-to-know-Escrow-Dispute/Escrow-preview.png
 ---
 

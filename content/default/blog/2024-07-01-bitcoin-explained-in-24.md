@@ -6,10 +6,11 @@ keywords:
   - Why Bitcoin?
   - Is Bitcoin secure from exploitation?
 tags:
-  - how to
+  - How To
 previewImage: /img/home/bitcoin-logo.png
-description: |
-  Explore the innovative world of Bitcoin, a pioneering open-source software that facilitates a digital and decentralized currency across a global network.
+description: >
+  Explore the innovative world of Bitcoin, a pioneering open-source software
+  that facilitates a digital and decentralized currency across a global network.
 ---
 
 # Understanding Bitcoin: A Guide for Everyone

@@ -14,10 +14,9 @@ keywords:
   - Peach Bitcoin-App
   - Selbstverwahrung von Bitcoin-Handel
   - No-KYC-Bitcoin-Marktplatz
-
 tags:
-  - Blog
-  - Streitigkeiten
+  - Disputes
+  - Product
 previewImage: /img/blog/all-you-need-to-know-Escrow-Dispute/Dispute-preview.png
 ---
 

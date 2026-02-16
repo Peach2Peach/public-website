@@ -6,12 +6,17 @@ keywords:
   - p2p
   - p2p Austausch
 tags:
-  - Bildung
+  - Education
 previewImage: /img/blog/why-p2p/origins.jpeg
-description: |
-  Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder einzelne Mensch das Recht hat zu wählen, welches Geld er benutzt, um seinen Reichtum zu speichern, das
+description: >
+  Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder einzelne Mensch
+  das Recht hat zu wählen, welches Geld er benutzt, um seinen Reichtum zu
+  speichern, das
+
   Ergebnis seiner Arbeit, seiner Zeit und Energie.
-  Peachs Mission ist es, seinen Teil dazu beizutragen, Bitcoins Annahme in die Hände der Menschen zu tragen.
+
+  Peachs Mission ist es, seinen Teil dazu beizutragen, Bitcoins Annahme in die
+  Hände der Menschen zu tragen.
 ---
 
 # Warum P2P-Serie - Kapitel 1, Die Ursprünge

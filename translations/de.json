@@ -153,5 +153,17 @@
   "searchFaq": "FAQ durchsuchen",
   "searchFaqPlaceholder": "Gib eine Frage ein…",
   "searchBlog": "Blog durchsuchen",
-  "searchBlogPlaceholder": "Tippen, um Beiträge zu suchen…"
+  "searchBlogPlaceholder": "Tippen, um Beiträge zu suchen…",
+  "taggedWith": "Blogbeiträge mit dem Tag",
+  "tag.Product": "Produkt",
+  "tag.Security": "Sicherheit",
+  "tag.Rants and Opinions": "Meinungen und Gedanken",
+  "tag.How To": "Anleitungen",
+  "tag.Ecosystem": "Ökosystem",
+  "tag.Newsletter": "Newsletter",
+  "tag.Meetups": "Treffen",
+  "tag.Company": "Unternehmen",
+  "tag.Education": "Bildung",
+  "tag.GroupHug": "GroupHug",
+  "tag.Disputes": "Streitigkeiten"
 }

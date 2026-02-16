@@ -1,24 +1,23 @@
 ---
 keywords:
-- Mercato P2P Peach Bitcoin
-- Custodia autonoma
-- Portafogli caldi
-- Portafogli freddi
-- Conservazione a freddo
-- Portafogli hardware
-- Sicurezza personale
-- Sovranità
-- Attacchi wrench
-- P2P
-- Sicurezza digitale
-- App Peach Bitcoin
-- Portafoglio Peach
-- Bitcoin in custodia autonoma
-- Bitcoin senza KYC
-
+  - Mercato P2P Peach Bitcoin
+  - Custodia autonoma
+  - Portafogli caldi
+  - Portafogli freddi
+  - Conservazione a freddo
+  - Portafogli hardware
+  - Sicurezza personale
+  - Sovranità
+  - Attacchi wrench
+  - P2P
+  - Sicurezza digitale
+  - App Peach Bitcoin
+  - Portafoglio Peach
+  - Bitcoin in custodia autonoma
+  - Bitcoin senza KYC
 tags:
-  - Blog
-  - security
+  - Security
+  - Rants and Opinions
 previewImage: /img/blog/you-need-a-hardware-wallet/you-need-hw-preview.png
 ---
 

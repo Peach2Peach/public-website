@@ -9,9 +9,12 @@ keywords:
   - trading P2P di Bitcoin
 tags:
   - Product
+  - GroupHug
 previewImage: /img/blog/group-hug/grouphug-tldr-preview.png
-description: |
-  GroupHug è il sistema di raggruppamento di Peach che riunisce più operazioni in un'unica transazione, consentendoti di risparmiare sulle commissioni di mining. Ecco tutto quello che devi sapere.
+description: >
+  GroupHug è il sistema di raggruppamento di Peach che riunisce più operazioni
+  in un'unica transazione, consentendoti di risparmiare sulle commissioni di
+  mining. Ecco tutto quello che devi sapere.
 ---
 
 # GroupHug - tldr

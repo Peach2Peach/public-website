@@ -7,10 +7,12 @@ keywords:
   - p2p
   - de igual a igual
 tags:
-  - Francés
+  - Company
+  - Rants and Opinions
 previewImage: /img/blog/peach-expands-to-the-global-south/map.png
-description: |
-  Peach Bitcoin celebra su primer aniversario: ¡Novedades deslumbrantes y rumbo al Sur!
+description: >
+  Peach Bitcoin celebra su primer aniversario: ¡Novedades deslumbrantes y rumbo
+  al Sur!
 ---
 
 # Peach Bitcoin celebra su primer aniversario: ¡Novedades deslumbrantes y rumbo al Sur!

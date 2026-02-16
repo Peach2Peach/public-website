@@ -10,11 +10,15 @@ keywords:
   - come vendere bitcoin
   - peer to peer
 tags:
-  - Prodotto
+  - Product
 previewImage: /img/blog/lightning.jpeg
-description: |
-  Bitcoin è denaro per persone libere. Crediamo che ogni singolo essere umano abbia il diritto di scegliere quale denaro usare per conservare la sua ricchezza, il risultato del suo lavoro, del suo tempo e della sua energia.
-  La missione di Peach è contribuire alla diffusione di Bitcoin nelle mani delle persone.
+description: >
+  Bitcoin è denaro per persone libere. Crediamo che ogni singolo essere umano
+  abbia il diritto di scegliere quale denaro usare per conservare la sua
+  ricchezza, il risultato del suo lavoro, del suo tempo e della sua energia.
+
+  La missione di Peach è contribuire alla diffusione di Bitcoin nelle mani delle
+  persone.
 ---
 
 # LN <-> On-Chain Swaps, di @swissnode

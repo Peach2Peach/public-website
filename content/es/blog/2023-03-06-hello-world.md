@@ -5,7 +5,7 @@ keywords:
   - P2P
   - Comercio entre pares
 tags:
-  - Empresa
+  - Company
 previewImage: /img/blog/all-about-peach-the-company/teaser.jpg
 ---
 

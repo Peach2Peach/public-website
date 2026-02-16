@@ -7,7 +7,8 @@ keywords:
   - marketplace
   - trading
 tags:
-  - Code
+  - Product
+  - Rants and Opinions
 previewImage: /img/blog/making-our-peach-api-public/api-example.png
 description: |
   The Peach API is now accessible to everyone.

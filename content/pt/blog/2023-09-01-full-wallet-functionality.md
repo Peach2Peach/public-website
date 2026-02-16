@@ -3,10 +3,12 @@ keywords:
   - código
   - carteira
 tags:
-  - Produto
+  - Product
 previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.png
-description: |
-  Nossa carteira recebeu uma atualização significativa trazendo uma série de recursos para o Peach, tornando ainda mais fácil para iniciantes acumularem sats da maneira certa.
+description: >
+  Nossa carteira recebeu uma atualização significativa trazendo uma série de
+  recursos para o Peach, tornando ainda mais fácil para iniciantes acumularem
+  sats da maneira certa.
 ---
 
 # Funcionalidade Completa da Carteira

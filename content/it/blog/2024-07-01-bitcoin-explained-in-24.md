@@ -6,10 +6,12 @@ keywords:
   - Perché Bitcoin?
   - Bitcoin è sicuro dallo sfruttamento?
 tags:
-  - come fare
+  - How To
 previewImage: /img/home/bitcoin-logo.png
-description: |
-  Esplora il mondo innovativo di Bitcoin, un software open-source pionieristico che facilita una valuta digitale e decentralizzata attraverso una rete globale.
+description: >
+  Esplora il mondo innovativo di Bitcoin, un software open-source pionieristico
+  che facilita una valuta digitale e decentralizzata attraverso una rete
+  globale.
 ---
 
 # Capire Bitcoin: Una guida per tutti

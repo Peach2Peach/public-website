@@ -7,9 +7,8 @@ keywords:
   - javascript
   - bitcoin
 tags:
-  - Producto
-  - P2P
-  - Tutorial
+  - Product
+  - How To
 previewImage: /img/blog/under-the-hood/peachmechanic2.png
 ---
 

@@ -6,11 +6,18 @@ keywords:
   - P2P
   - Negociações ponto a ponto
 tags:
-  - Como Fazer
+  - How To
 previewImage: /img/blog/how-to-add-a-payment-method/teaser.jpg
 helpFooter: true
-description: |
-  Primeiramente, podemos nos perguntar, por que queremos adicionar outros métodos de pagamento em nossas negociações? A razão é simples. Como você sabe, o Peach permite que os usuários negociem Bitcoin ponto a ponto. O problema surge quando outro usuário deseja negociar com você, mas você não pode ver a oferta dele(a) simplesmente porque ele(a) está usando outro método de pagamento. Para estar aberto ao máximo de opções possível e ser capaz de escolher entre uma ampla variedade de correspondências, é necessário abrir-se para negociar com diferentes métodos de pagamento.
+description: >
+  Primeiramente, podemos nos perguntar, por que queremos adicionar outros
+  métodos de pagamento em nossas negociações? A razão é simples. Como você sabe,
+  o Peach permite que os usuários negociem Bitcoin ponto a ponto. O problema
+  surge quando outro usuário deseja negociar com você, mas você não pode ver a
+  oferta dele(a) simplesmente porque ele(a) está usando outro método de
+  pagamento. Para estar aberto ao máximo de opções possível e ser capaz de
+  escolher entre uma ampla variedade de correspondências, é necessário abrir-se
+  para negociar com diferentes métodos de pagamento.
 ---
 
 # Como adicionar um novo método de pagamento no aplicativo Peach

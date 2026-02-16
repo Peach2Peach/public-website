@@ -4,10 +4,11 @@ keywords:
   - seed
   - mnemonico
 tags:
-  - Come Fare
+  - How To
 previewImage: /img/blog/restore-peach-wallet-from-seed/restore-from-peach-wallet-preview.jpg
-description: |
-  Puoi sempre ripristinare i tuoi fondi dal tuo portafoglio Peach su qualsiasi altro portafoglio. In questo tutorial ti mostriamo come fare.
+description: >
+  Puoi sempre ripristinare i tuoi fondi dal tuo portafoglio Peach su qualsiasi
+  altro portafoglio. In questo tutorial ti mostriamo come fare.
 ---
 
 # Come Ripristinare Portafogli Bitcoin Utilizzando una Frase Seed

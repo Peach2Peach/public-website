@@ -5,12 +5,17 @@ keywords:
   - Méthode de paiement
   - P2P
   - Échanges entre pairs
-tags :
-  - Comment faire
-previewImage : /img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/teaser.jpg
-helpFooter : true
-description : |
-  Peach fournit des "points de rencontre" pour les utilisateurs où il est recommandé d'échanger en espèces, pour des raisons de sécurité. Ces points de rencontre sont des meetups Bitcoin déjà existants dans différentes villes du monde, qui ont lieu au moins une fois par mois, permettant ainsi aux utilisateurs de publier leurs échanges en espèces avant d'assister au meetup et, une fois sur place, d'échanger dans un environnement sécurisé et sûr.
+tags:
+  - How To
+previewImage: /img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/teaser.jpg
+helpFooter: true
+description: >
+  Peach fournit des "points de rencontre" pour les utilisateurs où il est
+  recommandé d'échanger en espèces, pour des raisons de sécurité. Ces points de
+  rencontre sont des meetups Bitcoin déjà existants dans différentes villes du
+  monde, qui ont lieu au moins une fois par mois, permettant ainsi aux
+  utilisateurs de publier leurs échanges en espèces avant d'assister au meetup
+  et, une fois sur place, d'échanger dans un environnement sécurisé et sûr.
 ---
 
 # Comment acheter et vendre du Bitcoin en espèces avec Peach

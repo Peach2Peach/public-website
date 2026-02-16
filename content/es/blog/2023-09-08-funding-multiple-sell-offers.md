@@ -4,10 +4,11 @@ keywords:
   - depósito de garantía
   - transacción agrupada
 tags:
-  - Cómo hacer
+  - How To
 previewImage: /img/blog/funding-multiple-sell-offers/batched-transaction.png
-description: |
-  A partir de la versión 0.3.0, Peach App introduce la capacidad de crear y financiar múltiples ofertas de venta. Aquí te mostramos cómo funciona.
+description: >
+  A partir de la versión 0.3.0, Peach App introduce la capacidad de crear y
+  financiar múltiples ofertas de venta. Aquí te mostramos cómo funciona.
 ---
 
 # Cómo Financiar Múltiples Ofertas de Venta

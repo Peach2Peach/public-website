@@ -11,11 +11,14 @@ keywords:
   - comment vendre du bitcoin
   - pair à pair
 tags:
-  - Éducation
+  - Education
 previewImage: /img/blog/why-p2p/connections.jpg
-description: |
-  Bitcoin est l'argent des gens libres. Nous croyons que chaque être humain a le droit de choisir la monnaie qu'il utilise pour stocker sa richesse,
+description: >
+  Bitcoin est l'argent des gens libres. Nous croyons que chaque être humain a le
+  droit de choisir la monnaie qu'il utilise pour stocker sa richesse,
+
   le résultat de son travail, de son temps et de son énergie.
+
   La mission de Peach est de contribuer à l'adoption du Bitcoin par le peuple.
 ---
 

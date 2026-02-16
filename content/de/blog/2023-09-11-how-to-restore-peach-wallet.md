@@ -4,10 +4,12 @@ keywords:
   - Saatgut
   - Mnemonik
 tags:
-  - Wie man
+  - How To
 previewImage: /img/blog/restore-peach-wallet-from-seed/restore-from-peach-wallet-preview.jpg
-description: |
-  Sie können immer Ihre Mittel aus Ihrer Peach-Wallet in jeder anderen Wallet wiederherstellen. In diesem Tutorial zeigen wir Ihnen, wie es gemacht werden kann.
+description: >
+  Sie können immer Ihre Mittel aus Ihrer Peach-Wallet in jeder anderen Wallet
+  wiederherstellen. In diesem Tutorial zeigen wir Ihnen, wie es gemacht werden
+  kann.
 ---
 
 # Wie man Bitcoin-Wallets mit einem Seed-Phrase wiederherstellt

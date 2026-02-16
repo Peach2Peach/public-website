@@ -11,10 +11,14 @@ keywords:
   - par a par
   - boletim informativo
 tags:
-  - Boletim informativo
+  - Newsletter
 previewImage: /img/blog/newsletter/mail-post.jpg
-description: |
-  Bitcoin é dinheiro para pessoas livres. Acreditamos que todo ser humano tem o direito de escolher qual moeda usar para armazenar sua riqueza, o resultado de seu trabalho, seu tempo e energia. O Peach Bitcoin é a plataforma mais fácil para comprar e vender bitcoin par a par. A missão da Peach é contribuir para a adoção do Bitcoin pelas pessoas.
+description: >
+  Bitcoin é dinheiro para pessoas livres. Acreditamos que todo ser humano tem o
+  direito de escolher qual moeda usar para armazenar sua riqueza, o resultado de
+  seu trabalho, seu tempo e energia. O Peach Bitcoin é a plataforma mais fácil
+  para comprar e vender bitcoin par a par. A missão da Peach é contribuir para a
+  adoção do Bitcoin pelas pessoas.
 ---
 
 # Boletim Informativo 6 de julho

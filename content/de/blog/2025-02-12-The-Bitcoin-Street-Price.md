@@ -5,10 +5,11 @@ keywords:
   - p2p btc Märkte
   - Privatsphäre im p2p Austausch
 tags:
-  - Mitteilungsblatt
+  - Newsletter
 previewImage: /img/blog/btcstreetprice.webp
-description: |
-  Hallo Bitcoin-Welt, wir freuen uns, dein Meetup in der Peach Bitcoin App hinzuzufügen!
+description: >
+  Hallo Bitcoin-Welt, wir freuen uns, dein Meetup in der Peach Bitcoin App
+  hinzuzufügen!
 ---
 
 # Der Bitcoin Straßenpreis

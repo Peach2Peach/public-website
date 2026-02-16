@@ -10,10 +10,12 @@ keywords:
   - Miglior exchange Bitcoin 2024
   - Bitcoin è sicuro dall'exploitation?
 tags:
-  - Azienda
+  - Company
 previewImage: /img/home/bitcoin-logo.png
-description: |
-  Esplora il mondo innovativo di Bitcoin, un software pionieristico open-source che facilita una valuta digitale e decentralizzata attraverso una rete globale.
+description: >
+  Esplora il mondo innovativo di Bitcoin, un software pionieristico open-source
+  che facilita una valuta digitale e decentralizzata attraverso una rete
+  globale.
 ---
 
 # Perché scegliere PeachBitcoin per acquistare Bitcoin

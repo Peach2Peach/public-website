@@ -6,11 +6,16 @@ keywords:
   - P2P
   - Peer-to-Peer-Handel
 tags:
-  - Anleitung
+  - How To
 previewImage: /img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/teaser.jpg
 helpFooter: true
-description: |
-  Peach bietet „Treffpunkte“ für Benutzer, an denen aus Sicherheitsgründen empfohlen wird, mit Bargeld zu handeln. Diese Treffpunkte sind bereits bestehende Bitcoin-Treffen in verschiedenen Städten weltweit, die mindestens einmal im Monat stattfinden, sodass Benutzer ihre Bargeldgeschäfte vor dem Treffen veröffentlichen können und, sobald sie dort sind, in einer sicheren Umgebung handeln können.
+description: >
+  Peach bietet „Treffpunkte“ für Benutzer, an denen aus Sicherheitsgründen
+  empfohlen wird, mit Bargeld zu handeln. Diese Treffpunkte sind bereits
+  bestehende Bitcoin-Treffen in verschiedenen Städten weltweit, die mindestens
+  einmal im Monat stattfinden, sodass Benutzer ihre Bargeldgeschäfte vor dem
+  Treffen veröffentlichen können und, sobald sie dort sind, in einer sicheren
+  Umgebung handeln können.
 ---
 
 # Wie man mit Bargeld über Peach Bitcoin kauft und verkauft

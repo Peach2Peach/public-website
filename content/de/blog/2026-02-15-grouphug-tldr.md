@@ -9,9 +9,12 @@ keywords:
   - P2P-Bitcoin-Handel
 tags:
   - Product
+  - GroupHug
 previewImage: /img/blog/group-hug/grouphug-tldr-preview.png
-description: |
-  GroupHug ist das Batching-System von Peach, das mehrere Trades zu einer einzigen Transaktion bündelt und Ihnen so Mining-Gebühren spart. Hier finden Sie alles, was Sie wissen müssen.
+description: >
+  GroupHug ist das Batching-System von Peach, das mehrere Trades zu einer
+  einzigen Transaktion bündelt und Ihnen so Mining-Gebühren spart. Hier finden
+  Sie alles, was Sie wissen müssen.
 ---
 
 # GroupHug – tldr

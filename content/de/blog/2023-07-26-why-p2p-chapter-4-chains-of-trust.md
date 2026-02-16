@@ -11,12 +11,16 @@ keywords:
   - wie man Bitcoin verkauft
   - Peer-to-Peer
 tags:
-  - Bildung
+  - Education
 previewImage: /img/blog/why-p2p/connections.jpg
-description: |
-  Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder Mensch das Recht hat zu wählen, welches Geld er verwendet, um sein Vermögen zu speichern,
+description: >
+  Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder Mensch das Recht
+  hat zu wählen, welches Geld er verwendet, um sein Vermögen zu speichern,
+
   das Ergebnis seiner Arbeit, seiner Zeit und Energie.
-  Die Mission von Peach ist es, einen Beitrag zur Verbreitung von Bitcoin in den Händen der Menschen zu leisten.
+
+  Die Mission von Peach ist es, einen Beitrag zur Verbreitung von Bitcoin in den
+  Händen der Menschen zu leisten.
 ---
 
 # Warum P2P-Serie - Kapitel 4, Vertrauensketten

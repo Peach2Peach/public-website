@@ -8,7 +8,7 @@ keywords:
   - P2P
   - Peer to peer trades
 tags:
-  - Rants
+  - Rants and Opinions
 previewImage: /img/home/bitcoin-logo.png
 ---
 

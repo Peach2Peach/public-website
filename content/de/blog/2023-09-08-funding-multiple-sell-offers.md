@@ -4,10 +4,12 @@ keywords:
   - Treuhand
   - gebündelte Transaktion
 tags:
-  - Wie man
+  - How To
 previewImage: /img/blog/funding-multiple-sell-offers/batched-transaction.png
-description: |
-  Ab Version 0.3.0 führt die Peach App die Möglichkeit ein, mehrere Verkaufsangebote zu erstellen und zu finanzieren. Hier erfahren Sie, wie es funktioniert.
+description: >
+  Ab Version 0.3.0 führt die Peach App die Möglichkeit ein, mehrere
+  Verkaufsangebote zu erstellen und zu finanzieren. Hier erfahren Sie, wie es
+  funktioniert.
 ---
 
 # Wie man mehrere Verkaufsangebote finanziert

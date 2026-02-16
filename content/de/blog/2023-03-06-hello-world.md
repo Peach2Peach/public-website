@@ -5,7 +5,7 @@ keywords:
   - P2P
   - Peer-to-Peer-Handel
 tags:
-  - Unternehmen
+  - Company
 previewImage: /img/blog/all-about-peach-the-company/teaser.jpg
 ---
 

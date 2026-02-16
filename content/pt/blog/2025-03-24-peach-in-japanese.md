@@ -3,7 +3,7 @@ keywords:
   - peachbitcoin finacial freedom
   - peach in japanese culture
 tags:
-  - Rant
+  - Rants and Opinions
 previewImage: /img/blog/peachjap.png
 ---
 

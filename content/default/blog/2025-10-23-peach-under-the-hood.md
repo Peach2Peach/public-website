@@ -8,8 +8,7 @@ keywords:
   - bitcoin
 tags:
   - Product
-  - P2P
-  - Tutorial
+  - How To
 previewImage: /img/blog/under-the-hood/peachmechanic2.png
 ---
 

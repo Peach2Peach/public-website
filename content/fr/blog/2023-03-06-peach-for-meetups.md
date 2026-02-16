@@ -6,7 +6,6 @@ keywords:
   - P2P
   - Échanges entre pairs
 tags:
-  - Rencontres
   - Meetups
 previewImage: /img/blog/peach-for-meetups/meetup-preview.jpg
 footerHelper: true

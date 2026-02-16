@@ -1,24 +1,23 @@
 ---
 keywords:
-- Mercado P2P Peach Bitcoin
-- Autocustodia
-- Carteras calientes
-- Carteras frías
-- Almacenamiento en frío
-- Carteras de hardware
-- Seguridad personal
-- Soberanía
-- Ataques con llave inglesa
-- P2P
-- Seguridad digital
-- Aplicación Peach Bitcoin
-- Cartera Peach
-- Bitcoin de autocustodia
-- Bitcoin sin KYC
-
+  - Mercado P2P Peach Bitcoin
+  - Autocustodia
+  - Carteras calientes
+  - Carteras frías
+  - Almacenamiento en frío
+  - Carteras de hardware
+  - Seguridad personal
+  - Soberanía
+  - Ataques con llave inglesa
+  - P2P
+  - Seguridad digital
+  - Aplicación Peach Bitcoin
+  - Cartera Peach
+  - Bitcoin de autocustodia
+  - Bitcoin sin KYC
 tags:
-  - Blog
-  - security
+  - Security
+  - Rants and Opinions
 previewImage: /img/blog/you-need-a-hardware-wallet/you-need-hw-preview.png
 ---
 

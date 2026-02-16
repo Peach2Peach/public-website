@@ -3,10 +3,13 @@ keywords:
   - open source
   - Code
 tags:
-  - Code
+  - Product
+  - Rants and Opinions
 previewImage: /img/blog/open-sourcing-our-peach-app/privacy-first.png
-description: |
-  Wir sind hier, um die Katze aus dem Sack zu lassen (oder sollten wir sagen Pfirsiche?) – die Peach App macht einen großen Schritt in die Open-Source-Welt.
+description: >
+  Wir sind hier, um die Katze aus dem Sack zu lassen (oder sollten wir sagen
+  Pfirsiche?) – die Peach App macht einen großen Schritt in die
+  Open-Source-Welt.
 ---
 
 # Die Peach App als Open Source veröffentlichen

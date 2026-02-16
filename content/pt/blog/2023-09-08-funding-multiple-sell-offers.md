@@ -4,10 +4,11 @@ keywords:
   - caução
   - transação agrupada
 tags:
-  - Como Fazer
+  - How To
 previewImage: /img/blog/funding-multiple-sell-offers/batched-transaction.png
-description: |
-  A partir da versão 0.3.0, o aplicativo Peach introduz a capacidade de criar e financiar várias ofertas de venda. Veja como funciona.
+description: >
+  A partir da versão 0.3.0, o aplicativo Peach introduz a capacidade de criar e
+  financiar várias ofertas de venda. Veja como funciona.
 ---
 
 # Como Financiar Múltiplas Ofertas de Venda

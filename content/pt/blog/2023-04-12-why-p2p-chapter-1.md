@@ -6,11 +6,14 @@ keywords:
   - p2p
   - troca p2p
 tags:
-  - educação
+  - Education
 previewImage: /img/blog/why-p2p/origins.jpeg
-description: |
-  O Bitcoin é dinheiro para pessoas livres. Acreditamos que cada ser humano tem o direito de escolher com que dinheiro armazena sua riqueza, o
+description: >
+  O Bitcoin é dinheiro para pessoas livres. Acreditamos que cada ser humano tem
+  o direito de escolher com que dinheiro armazena sua riqueza, o
+
   resultado de seu trabalho, seu tempo e energia.
+
   A missão da Peach é contribuir para a adoção do Bitcoin nas mãos das pessoas.
 ---
 

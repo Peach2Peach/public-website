@@ -10,10 +10,11 @@ keywords:
   - Mejor Marketplace de Bitcoin 2024
   - ¿Es Bitcoin seguro contra la explotación?
 tags:
-  - Empresa
+  - Company
 previewImage: /img/home/bitcoin-logo.png
-description: |
-  Explora el innovador mundo de Bitcoin, un software pionero de código abierto que facilita una moneda digital y descentralizada a través de una red global.
+description: >
+  Explora el innovador mundo de Bitcoin, un software pionero de código abierto
+  que facilita una moneda digital y descentralizada a través de una red global.
 ---
 
 # Por qué Elegir PeachBitcoin para Comprar Bitcoin

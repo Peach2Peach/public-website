@@ -11,11 +11,15 @@ keywords:
   - comment vendre bitcoin
   - pair à pair
 tags:
-  - Produit
+  - Product
 previewImage: /img/blog/lightning.jpeg
-description: |
-  Bitcoin est l'argent des personnes libres. Nous croyons que chaque être humain a le droit de choisir la monnaie avec laquelle il souhaite conserver sa richesse, le résultat de son travail, de son temps et de son énergie.
-  La mission de Peach est de contribuer à l'adoption du Bitcoin entre les mains des gens.
+description: >
+  Bitcoin est l'argent des personnes libres. Nous croyons que chaque être humain
+  a le droit de choisir la monnaie avec laquelle il souhaite conserver sa
+  richesse, le résultat de son travail, de son temps et de son énergie.
+
+  La mission de Peach est de contribuer à l'adoption du Bitcoin entre les mains
+  des gens.
 ---
 
 # LN <-> Échanges On-Chain, par @swissnode

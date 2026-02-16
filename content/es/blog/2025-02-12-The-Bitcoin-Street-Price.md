@@ -5,10 +5,11 @@ keywords:
   - mercados btc p2p
   - privacidad en intercambio p2p
 tags:
-  - Boletín
+  - Newsletter
 previewImage: /img/blog/btcstreetprice.webp
-description: |
-  hola mundo bitcoin, ¡Nos alegra poder añadir tu meetup a la app de Peach Bitcoin!
+description: >
+  hola mundo bitcoin, ¡Nos alegra poder añadir tu meetup a la app de Peach
+  Bitcoin!
 ---
 
 # El Precio de Calle de Bitcoin

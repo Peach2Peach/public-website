@@ -5,7 +5,7 @@ keywords:
   - navideño
   - P2P
 tags:
-  - Boletín
+  - Newsletter
 previewImage: /img/blog/peachy-christmas-bitcoiners/xmas-peach-logo.png
 ---
 

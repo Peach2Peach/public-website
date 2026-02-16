@@ -5,11 +5,13 @@ keywords:
   - Transaktion
   - Gebühren
 tags:
-  - Code
-  - Produkt
+  - Product
+  - GroupHug
 previewImage: /img/blog/group-hug/teaser.png
-description: |
-  Mit GroupHug bündeln wir Treuhandfreigaben für niedrigere Transaktionsgebühren. Opt-in, warte ein wenig, spare mehr. Du hast die Kontrolle, wechsel jederzeit.
+description: >
+  Mit GroupHug bündeln wir Treuhandfreigaben für niedrigere
+  Transaktionsgebühren. Opt-in, warte ein wenig, spare mehr. Du hast die
+  Kontrolle, wechsel jederzeit.
 ---
 
 # GroupHug Für Alle

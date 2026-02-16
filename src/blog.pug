@@ -4,13 +4,13 @@ block main
   section.wrap
     .content-wrap.content-wrap--centered
       if tag
-        h1= `Blog posts tagged with "${tag}"`
+        h1= `${i18n('taggedWith', lang)} "${i18n('tag.' + tag, lang)}"`
       else
         != html
         .content-wrap.tags
           each tag in siteData.tags
             if (tag.lang === lang || (lang === 'en' && !tag.lang))
-              a(href=getUrl(`/${tag.permalink}`, lang))= tag.tag
+              a(href=getUrl(`/${tag.permalink}`, lang))= i18n('tag.' + tag.tag, lang)
     .blog-search(data-lang=lang)
       label.blog-search__label(for='blog-search-input')
         | !{i18n('searchBlog', lang) || 'Search the blog'}

@@ -7,10 +7,11 @@ keywords:
   - p2p
   - pair à pair
 tags:
-  - Entreprise
+  - Company
 previewImage: /img/blog/peach-expands-to-the-global-south/map.png
-description: |
-  Avec le lancement de Peach 0.3, l'application étend sa portée vers le Sud global
+description: >
+  Avec le lancement de Peach 0.3, l'application étend sa portée vers le Sud
+  global
 ---
 
 # Peach se développe dans le Sud !

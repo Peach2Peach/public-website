@@ -14,12 +14,9 @@ keywords:
   - Peach Bitcoin app
   - Self-custodial Bitcoin trading
   - No-KYC Bitcoin marketplace
-
 tags:
-  - Blog
   - Disputes
-  - Buy bitcoin
-  - Sell Bitcoin
+  - Product
 previewImage: /img/blog/all-you-need-to-know-Escrow-Dispute/Dispute-preview.png
 ---
 

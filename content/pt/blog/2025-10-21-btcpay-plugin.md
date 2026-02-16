@@ -10,15 +10,8 @@ keywords:
   - Peach Bitcoin
   - BTCPay plugin
 tags:
-  - BTCPay Server
-  - Bitcoin payments
-  - Sell bitcoin
-  - p2p marketplace
-  - Self-custodial
-  - KYC-free
-  - Merchant tools
-  - Peach Bitcoin
-  - BTCPay plugin
+  - Ecosystem
+  - Product
 previewImage: /img/blog/btcpay/BTCPay.png
 ---
 # Apresentando o plugin Peach Bitcoin para BTCPay Server: dê poder aos comerciantes para vender Bitcoin com facilidade

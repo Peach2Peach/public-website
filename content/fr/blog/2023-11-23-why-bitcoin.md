@@ -5,7 +5,7 @@ keywords:
   - P2P
   - Échanges pair à pair
 tags:
-  - Coups de gueule
+  - Rants and Opinions
 previewImage: /img/home/bitcoin-logo.png
 ---
 

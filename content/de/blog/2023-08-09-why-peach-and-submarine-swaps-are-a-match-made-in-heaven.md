@@ -11,12 +11,16 @@ keywords:
   - wie man Bitcoin verkauft
   - Peer-to-Peer
 tags:
-  - Produkt
+  - Product
 previewImage: /img/blog/lightning.jpeg
-description: |
-  Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder Mensch das Recht hat zu wählen, welches Geld er nutzt, um sein
+description: >
+  Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder Mensch das Recht
+  hat zu wählen, welches Geld er nutzt, um sein
+
   Vermögen, das Ergebnis seiner Arbeit, seiner Zeit und Energie zu speichern.
-  Peachs Mission ist es, seinen Beitrag zur Adoption von Bitcoin in den Händen der Menschen zu leisten.
+
+  Peachs Mission ist es, seinen Beitrag zur Adoption von Bitcoin in den Händen
+  der Menschen zu leisten.
 ---
 
 # LN <-> On-Chain Swaps, von @swissnode

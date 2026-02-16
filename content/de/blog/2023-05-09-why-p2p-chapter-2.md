@@ -6,12 +6,17 @@ keywords:
   - p2p
   - p2p Austausch
 tags:
-  - Bildung
+  - Education
 previewImage: /img/blog/why-p2p/fungibility.png
-description: |
-  Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder einzelne Mensch das Recht hat zu wählen, welches Geld er nutzt, um seinen Reichtum zu speichern, das
+description: >
+  Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder einzelne Mensch
+  das Recht hat zu wählen, welches Geld er nutzt, um seinen Reichtum zu
+  speichern, das
+
   Ergebnis seiner Arbeit, seiner Zeit und Energie.
-  Peachs Mission ist es, seinen Teil dazu beizutragen, die Adoption von Bitcoin in den Händen der Menschen zu fördern.
+
+  Peachs Mission ist es, seinen Teil dazu beizutragen, die Adoption von Bitcoin
+  in den Händen der Menschen zu fördern.
 ---
 
 # Warum P2P-Serie - Kapitel 2, Fungibilität

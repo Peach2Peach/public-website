@@ -3,11 +3,12 @@ keywords:
   - code
   - portefeuille
 tags:
-  - Produit
+  - Product
 previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.png
-description: |
-  Notre portefeuille a été considérablement amélioré en intégrant une multitude de fonctionnalités à Peach, rendant ainsi l'accumulation de sats encore plus facile pour les débutants.
-
+description: >
+  Notre portefeuille a été considérablement amélioré en intégrant une multitude
+  de fonctionnalités à Peach, rendant ainsi l'accumulation de sats encore plus
+  facile pour les débutants.
 ---
 
 # Fonctionnalité Complète du Portefeuille

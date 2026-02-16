@@ -14,10 +14,8 @@ keywords:
   - Application Peach Bitcoin
   - Echange Bitcoin en auto-conservation
   - Marché Bitcoin sans KYC
-
 tags:
-  - Blog
-  - Escrow
+  - Product
 previewImage: /img/blog/all-you-need-to-know-Escrow-Dispute/Escrow-preview.png
 ---
 

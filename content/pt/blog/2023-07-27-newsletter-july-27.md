@@ -11,11 +11,15 @@ keywords:
   - peer to peer
   - boletim informativo
 tags:
-  - Boletim informativo
+  - Newsletter
 previewImage: /img/blog/newsletter/mail-post.jpg
-description: |
-  Bitcoin é dinheiro para pessoas livres. Acreditamos que todo ser humano tem o direito de escolher qual dinheiro usar para armazenar sua riqueza, o
-  resultado de seu trabalho, seu tempo e energia. O Peach Bitcoin é a plataforma mais fácil para comprar e vender bitcoin de pessoa para pessoa.
+description: >
+  Bitcoin é dinheiro para pessoas livres. Acreditamos que todo ser humano tem o
+  direito de escolher qual dinheiro usar para armazenar sua riqueza, o
+
+  resultado de seu trabalho, seu tempo e energia. O Peach Bitcoin é a plataforma
+  mais fácil para comprar e vender bitcoin de pessoa para pessoa.
+
   A missão do Peach é contribuir para a adoção do Bitcoin pelas pessoas.
 ---
 

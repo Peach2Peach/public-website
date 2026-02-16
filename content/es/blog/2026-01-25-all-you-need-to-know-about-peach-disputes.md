@@ -14,10 +14,9 @@ keywords:
   - Aplicación Peach Bitcoin
   - Comercio de Bitcoin con custodia propia
   - Mercado de Bitcoin sin KYC
-
 tags:
-  - Blog
-  - Controversias
+  - Disputes
+  - Product
 previewImage: /img/blog/all-you-need-to-know-Escrow-Dispute/Dispute-preview.png
 ---
 

@@ -12,12 +12,17 @@ keywords:
   - de igual a igual
   - boletín
 tags:
-  - Boletín
+  - Newsletter
 previewImage: /img/blog/newsletter/mail-post.jpg
-description: |
-  Bitcoin es dinero para gente libre. Creemos que cada ser humano tiene el derecho de elegir con qué dinero quiere almacenar su riqueza,
-  el resultado de su trabajo, su tiempo y energía. Peach Bitcoin es la plataforma más fácil para comprar y vender bitcoin de igual a igual.
-  La misión de Peach es contribuir a la adopción de Bitcoin en manos de la gente.
+description: >
+  Bitcoin es dinero para gente libre. Creemos que cada ser humano tiene el
+  derecho de elegir con qué dinero quiere almacenar su riqueza,
+
+  el resultado de su trabajo, su tiempo y energía. Peach Bitcoin es la
+  plataforma más fácil para comprar y vender bitcoin de igual a igual.
+
+  La misión de Peach es contribuir a la adopción de Bitcoin en manos de la
+  gente.
 ---
 
 # Boletín del 8 de junio

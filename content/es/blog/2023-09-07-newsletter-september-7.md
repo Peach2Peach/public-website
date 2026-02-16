@@ -12,12 +12,16 @@ keywords:
   - entre pares
   - boletín
 tags:
-  - Boletín
+  - Newsletter
 previewImage: /img/blog/newsletter/mail-post.jpg
-description: |
-  Bitcoin es dinero para personas libres. Creemos que cada ser humano tiene el derecho de elegir con qué dinero quiere almacenar su riqueza, el
+description: >
+  Bitcoin es dinero para personas libres. Creemos que cada ser humano tiene el
+  derecho de elegir con qué dinero quiere almacenar su riqueza, el
+
   resultado de su trabajo, su tiempo y energía.
-  La misión de Peach es contribuir a la adopción de Bitcoin en manos de la gente.
+
+  La misión de Peach es contribuir a la adopción de Bitcoin en manos de la
+  gente.
 ---
 
 # Boletín de Noticias 7 de Septiembre

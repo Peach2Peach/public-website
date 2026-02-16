@@ -10,10 +10,12 @@ keywords:
   - Beste Bitcoin Marketplace 2024
   - Ist Bitcoin sicher vor Ausbeutung?
 tags:
-  - Unternehmen
+  - Company
 previewImage: /img/home/bitcoin-logo.png
-description: |
-  Entdecken Sie die innovative Welt von Bitcoin, einer wegweisenden Open-Source-Software, die eine digitale und dezentrale Währung über ein globales Netzwerk ermöglicht.
+description: >
+  Entdecken Sie die innovative Welt von Bitcoin, einer wegweisenden
+  Open-Source-Software, die eine digitale und dezentrale Währung über ein
+  globales Netzwerk ermöglicht.
 ---
 
 # Warum Sie PeachBitcoin für den Kauf von Bitcoin wählen sollten

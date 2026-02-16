@@ -5,7 +5,7 @@ keywords:
   - P2P
   - Échanges entre pairs
 tags:
-  - Entreprise
+  - Company
 previewImage: /img/blog/all-about-peach-the-company/teaser.jpg
 ---
 

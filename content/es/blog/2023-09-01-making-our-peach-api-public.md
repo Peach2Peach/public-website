@@ -7,7 +7,8 @@ keywords:
   - intercambio
   - trading
 tags:
-  - Código
+  - Product
+  - Rants and Opinions
 previewImage: /img/blog/making-our-peach-api-public/api-example.png
 description: |
   La API de Peach ahora está accesible para todos.

@@ -15,11 +15,9 @@ keywords:
   - Peach wallet
   - Self-custodial Bitcoin
   - No-KYC Bitcoin
-
-
 tags:
-  - Blog
-  - security
+  - Security
+  - Rants and Opinions
 previewImage: /img/blog/you-need-a-hardware-wallet/you-need-hw-preview.png
 ---
 

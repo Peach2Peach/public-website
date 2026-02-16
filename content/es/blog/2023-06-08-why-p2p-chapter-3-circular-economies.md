@@ -8,12 +8,16 @@ keyword:
   - p2p
   - intercambio p2p
 tags:
-  - Educación
+  - Education
 previewImage: /img/blog/why-p2p/sustainable-economy.png
-description: |
-  Bitcoin es dinero para personas libres. Creemos que cada ser humano tiene el derecho de elegir qué dinero utiliza para almacenar su riqueza, el
+description: >
+  Bitcoin es dinero para personas libres. Creemos que cada ser humano tiene el
+  derecho de elegir qué dinero utiliza para almacenar su riqueza, el
+
   resultado de su trabajo, su tiempo y energía.
-  La misión de Peach es contribuir a la adopción de Bitcoin en manos de las personas.
+
+  La misión de Peach es contribuir a la adopción de Bitcoin en manos de las
+  personas.
 ---
 
 # Serie P2P - Capítulo 3, Economías Circulares

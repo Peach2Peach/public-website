@@ -4,10 +4,11 @@ keywords:
   - semilla
   - mnemónico
 tags:
-  - Cómo Hacer
+  - How To
 previewImage: /img/blog/restore-peach-wallet-from-seed/restore-from-peach-wallet-preview.jpg
-description: |
-  Siempre puedes restaurar tus fondos desde tu billetera Peach en cualquier otra billetera. En este tutorial te mostramos cómo se puede hacer.
+description: >
+  Siempre puedes restaurar tus fondos desde tu billetera Peach en cualquier otra
+  billetera. En este tutorial te mostramos cómo se puede hacer.
 ---
 
 # Cómo Recuperar Carteras de Bitcoin Usando una Frase Semilla

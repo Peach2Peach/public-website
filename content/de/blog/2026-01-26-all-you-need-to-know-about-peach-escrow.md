@@ -14,10 +14,8 @@ keywords:
   - Peach Bitcoin-App
   - Selbstverwahrung von Bitcoin-Handel
   - No-KYC-Bitcoin-Marktplatz
-
 tags:
-  - Blog
-  - Treuhandkonto
+  - Product
 previewImage: /img/blog/all-you-need-to-know-Escrow-Dispute/Escrow-preview.png
 ---
 

@@ -6,10 +6,11 @@ keywords:
   - P2P
   - ponto a ponto
 tags:
-  - Empresa
+  - Company
 previewImage: /img/blog/peach-expands-to-the-global-south/map.png
-description: |
-  Com o lançamento do Peach 0.3, o aplicativo está expandindo seu alcance para o Sul Global.
+description: >
+  Com o lançamento do Peach 0.3, o aplicativo está expandindo seu alcance para o
+  Sul Global.
 ---
 
 # Peach expande para o Sul Global!

@@ -4,12 +4,16 @@ keywords:
   - Peach-App
   - Über
 tags:
-  - Unternehmen
+  - Company
 previewImage: /img/blog/peach-for-meetups/teaser.jpg
-description: |
-  Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder Mensch das Recht hat zu wählen, welches Geld er nutzt, um seinen Wohlstand zu speichern, das
+description: >
+  Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder Mensch das Recht
+  hat zu wählen, welches Geld er nutzt, um seinen Wohlstand zu speichern, das
+
   Ergebnis seiner Arbeit, seiner Zeit und Energie.
-  Die Mission von Peach ist es, seinen Teil zur Förderung der Adoption von Bitcoin in den Händen der Menschen beizutragen.
+
+  Die Mission von Peach ist es, seinen Teil zur Förderung der Adoption von
+  Bitcoin in den Händen der Menschen beizutragen.
 ---
 
 # Alles über Peach, das Unternehmen

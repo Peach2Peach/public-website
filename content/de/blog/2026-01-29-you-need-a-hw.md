@@ -1,24 +1,23 @@
 ---
 keywords:
-- Peach Bitcoin P2P-Marktplatz
-- Selbstverwahrung
-- Hot Wallets
-- Cold Wallet
-- Cold Storage
-- Hardware-Wallets
-- Persönliche Sicherheit
-- Souveränität
-- Wrench-Angriffe
-- P2P
-- Digitale Sicherheit
-- Peach Bitcoin App
-- Peach Wallet
-- Selbstverwahrung von Bitcoin
-- No-KYC Bitcoin
-
+  - Peach Bitcoin P2P-Marktplatz
+  - Selbstverwahrung
+  - Hot Wallets
+  - Cold Wallet
+  - Cold Storage
+  - Hardware-Wallets
+  - Persönliche Sicherheit
+  - Souveränität
+  - Wrench-Angriffe
+  - P2P
+  - Digitale Sicherheit
+  - Peach Bitcoin App
+  - Peach Wallet
+  - Selbstverwahrung von Bitcoin
+  - No-KYC Bitcoin
 tags:
-  - Blog
-  - security
+  - Security
+  - Rants and Opinions
 previewImage: /img/blog/you-need-a-hardware-wallet/you-need-hw-preview.png
 ---
 

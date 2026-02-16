@@ -6,12 +6,16 @@ keywords:
   - p2p
   - échange p2p
 tags:
-  - Éducation
+  - Education
 previewImage: /img/blog/why-p2p/fungibility.png
-description: |
-  Bitcoin est l'argent des personnes libres. Nous croyons que chaque être humain a le droit de choisir la monnaie qu'il utilise pour stocker sa richesse,
+description: >
+  Bitcoin est l'argent des personnes libres. Nous croyons que chaque être humain
+  a le droit de choisir la monnaie qu'il utilise pour stocker sa richesse,
+
   le résultat de son travail, son temps et son énergie.
-  La mission de Peach est de contribuer à l'adoption du Bitcoin entre les mains des gens.
+
+  La mission de Peach est de contribuer à l'adoption du Bitcoin entre les mains
+  des gens.
 ---
 
 # Pourquoi la série P2P - Chapitre 2, Fongibilité

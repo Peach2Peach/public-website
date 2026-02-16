@@ -3,10 +3,12 @@ keywords:
   - código abierto
   - código
 tags:
-  - Código
+  - Product
+  - Rants and Opinions
 previewImage: /img/blog/open-sourcing-our-peach-app/privacy-first.png
-description: |
-  Estamos aquí para revelar el secreto (¿o deberíamos decir los duraznos?) – la App Peach está dando un gran paso hacia el mundo del código abierto.
+description: >
+  Estamos aquí para revelar el secreto (¿o deberíamos decir los duraznos?) – la
+  App Peach está dando un gran paso hacia el mundo del código abierto.
 ---
 
 # Liberando el código fuente de nuestra App Peach

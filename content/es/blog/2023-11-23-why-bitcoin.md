@@ -5,7 +5,7 @@ keywords:
   - P2P
   - Comercios entre pares
 tags:
-  - Desahogos
+  - Rants and Opinions
 previewImage: /img/home/bitcoin-logo.png
 ---
 

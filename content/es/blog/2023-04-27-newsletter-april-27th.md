@@ -12,12 +12,16 @@ keywords:
   - de igual a igual
   - boletín
 tags:
-  - Boletín
+  - Newsletter
 previewImage: /img/blog/newsletter/mail-post.jpg
-description: |
-  Bitcoin es dinero para personas libres. Creemos que cada ser humano tiene el derecho de elegir qué dinero utiliza para almacenar su riqueza, el
+description: >
+  Bitcoin es dinero para personas libres. Creemos que cada ser humano tiene el
+  derecho de elegir qué dinero utiliza para almacenar su riqueza, el
+
   resultado de su trabajo, su tiempo y energía.
-  La misión de Peach es hacer su parte para contribuir a la adopción de Bitcoin en manos de la gente.
+
+  La misión de Peach es hacer su parte para contribuir a la adopción de Bitcoin
+  en manos de la gente.
 ---
 
 # Boletín 27 de abril

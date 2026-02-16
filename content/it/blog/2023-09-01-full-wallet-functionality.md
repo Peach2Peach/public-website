@@ -3,10 +3,12 @@ keywords:
   - codice
   - portafoglio
 tags:
-  - Prodotto
+  - Product
 previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.png
-description: |
-  Il nostro portafoglio ha ricevuto un importante aggiornamento che porta un sacco di nuove funzionalità a Peach, rendendo ancora più facile per i principianti accumulare sats nel modo giusto.
+description: >
+  Il nostro portafoglio ha ricevuto un importante aggiornamento che porta un
+  sacco di nuove funzionalità a Peach, rendendo ancora più facile per i
+  principianti accumulare sats nel modo giusto.
 ---
 
 # Funzionalità completa del portafoglio

@@ -4,10 +4,11 @@ keywords:
   - dépôt de garantie
   - transaction groupée
 tags:
-  - Comment faire
+  - How To
 previewImage: /img/blog/funding-multiple-sell-offers/batched-transaction.png
-description: |
-  À partir de la version 0.3.0, l'application Peach introduit la capacité de créer et financer plusieurs offres de vente. Voici comment cela fonctionne.
+description: >
+  À partir de la version 0.3.0, l'application Peach introduit la capacité de
+  créer et financer plusieurs offres de vente. Voici comment cela fonctionne.
 ---
 
 # Comment financer plusieurs offres de vente

@@ -6,10 +6,12 @@ keywords:
   - Warum Bitcoin?
   - Ist Bitcoin vor Ausbeutung sicher?
 tags:
-  - wie man
+  - How To
 previewImage: /img/home/bitcoin-logo.png
-description: |
-  Entdecken Sie die innovative Welt von Bitcoin, einer bahnbrechenden Open-Source-Software, die eine digitale und dezentrale Währung über ein globales Netzwerk ermöglicht.
+description: >
+  Entdecken Sie die innovative Welt von Bitcoin, einer bahnbrechenden
+  Open-Source-Software, die eine digitale und dezentrale Währung über ein
+  globales Netzwerk ermöglicht.
 ---
 
 # Bitcoin verstehen: Ein Leitfaden für alle

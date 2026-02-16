@@ -3,10 +3,12 @@ keywords:
   - open source
   - code
 tags:
-  - Code
+  - Product
+  - Rants and Opinions
 previewImage: /img/blog/open-sourcing-our-peach-app/privacy-first.png
-description: |
-  We're here to spill the beans (or should we say peaches?) – the Peach App is taking a big step into the open source world.
+description: >
+  We're here to spill the beans (or should we say peaches?) – the Peach App is
+  taking a big step into the open source world.
 ---
 
 # Open sourcing our Peach App

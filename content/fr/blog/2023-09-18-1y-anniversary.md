@@ -9,10 +9,11 @@ keywords:
   - échange
   - trading
 tags:
-  - Entreprise
+  - Company
 previewImage: /img/blog/1y-anniversary/cake.jpeg
-description: |
-  Lisez l'histoire complète de comment les membres de l'équipe Peach ont survécu durant 1 an en construisant sur un standard Bitcoin !
+description: >
+  Lisez l'histoire complète de comment les membres de l'équipe Peach ont survécu
+  durant 1 an en construisant sur un standard Bitcoin !
 ---
 
 # Premier anniversaire de Peach

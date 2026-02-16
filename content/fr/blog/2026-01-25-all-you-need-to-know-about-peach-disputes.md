@@ -14,10 +14,9 @@ keywords:
   - Application Peach Bitcoin
   - Trading Bitcoin en auto-conservation
   - Marché Bitcoin sans KYC
-
 tags:
-  - Blog
-  - Litiges
+  - Disputes
+  - Product
 previewImage: /img/blog/all-you-need-to-know-Escrow-Dispute/Dispute-preview.png
 ---
 

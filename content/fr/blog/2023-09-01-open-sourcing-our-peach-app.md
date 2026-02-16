@@ -3,10 +3,12 @@ keywords:
   - open source
   - code
 tags:
-  - Code
+  - Product
+  - Rants and Opinions
 previewImage: /img/blog/open-sourcing-our-peach-app/privacy-first.png
-description: |
-  Nous sommes là pour vendre la mèche (ou devrions-nous dire la pêche ?) – l'application Peach franchit un grand pas vers le monde de l'open source.
+description: >
+  Nous sommes là pour vendre la mèche (ou devrions-nous dire la pêche ?) –
+  l'application Peach franchit un grand pas vers le monde de l'open source.
 ---
 
 # Mettre en open source notre application Peach

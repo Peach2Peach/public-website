@@ -5,9 +5,8 @@ keywords:
   - acumula sats con peach
   - XMAS
   - p2p
-
 tags:
-  - Boletín
+  - Newsletter
 previewImage: /img/blog/peachy-christmas-bitcoiners/xmas-peach-logo.png
 ---
 

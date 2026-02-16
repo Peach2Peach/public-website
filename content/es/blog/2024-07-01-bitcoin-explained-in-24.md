@@ -6,10 +6,11 @@ keywords:
   - ¿Por qué Bitcoin?
   - ¿Es Bitcoin seguro contra la explotación?
 tags:
-  - cómo hacer
+  - How To
 previewImage: /img/home/bitcoin-logo.png
-description: |
-  Explore el innovador mundo de Bitcoin, un software de código abierto pionero que facilita una moneda digital y descentralizada a través de una red global.
+description: >
+  Explore el innovador mundo de Bitcoin, un software de código abierto pionero
+  que facilita una moneda digital y descentralizada a través de una red global.
 ---
 
 # Entendiendo Bitcoin: Una guía para todos

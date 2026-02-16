@@ -4,12 +4,16 @@ keywords:
   - Peach app
   - Acerca de
 tags:
-  - Empresa
+  - Company
 previewImage: /img/blog/peach-for-meetups/teaser.jpg
-description: |
-  Bitcoin es dinero para la gente libre. Creemos que cada ser humano tiene el derecho de elegir con qué dinero guarda su riqueza, el
+description: >
+  Bitcoin es dinero para la gente libre. Creemos que cada ser humano tiene el
+  derecho de elegir con qué dinero guarda su riqueza, el
+
   resultado de su trabajo, su tiempo y energía.
-  La misión de Peach es hacer su parte para contribuir a la adopción de Bitcoin en manos de la gente.
+
+  La misión de Peach es hacer su parte para contribuir a la adopción de Bitcoin
+  en manos de la gente.
 ---
 
 # Todo sobre Peach, la empresa

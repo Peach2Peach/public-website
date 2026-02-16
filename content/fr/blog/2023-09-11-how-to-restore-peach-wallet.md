@@ -4,10 +4,12 @@ keywords:
   - graine
   - mnémonique
 tags:
-  - Comment faire
+  - How To
 previewImage: /img/blog/restore-peach-wallet-from-seed/restore-from-peach-wallet-preview.jpg
-description: |
-  Vous pouvez toujours restaurer vos fonds à partir de votre portefeuille Peach sur n'importe quel autre portefeuille. Dans ce tutoriel, nous vous montrons comment cela peut être fait.
+description: >
+  Vous pouvez toujours restaurer vos fonds à partir de votre portefeuille Peach
+  sur n'importe quel autre portefeuille. Dans ce tutoriel, nous vous montrons
+  comment cela peut être fait.
 ---
 
 # Comment récupérer des portefeuilles Bitcoin en utilisant une phrase de récupération

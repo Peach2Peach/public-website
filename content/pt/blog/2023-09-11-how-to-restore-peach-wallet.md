@@ -4,10 +4,11 @@ keywords:
   - semente
   - mnemônico
 tags:
-  - Como Fazer
+  - How To
 previewImage: /img/blog/restore-peach-wallet-from-seed/restore-from-peach-wallet-preview.jpg
-description: |
-  Você sempre pode restaurar seus fundos da sua carteira de pêssego em qualquer outra carteira. Neste tutorial, mostramos como isso pode ser feito.
+description: >
+  Você sempre pode restaurar seus fundos da sua carteira de pêssego em qualquer
+  outra carteira. Neste tutorial, mostramos como isso pode ser feito.
 ---
 
 # Como Recuperar Carteiras de Bitcoin Usando uma Frase de Recuperação

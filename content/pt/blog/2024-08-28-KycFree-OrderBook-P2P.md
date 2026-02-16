@@ -6,10 +6,13 @@ keywords:
   - Buy Btc NOKYC
   - OrderBook KYC FREE
 tags:
-  - Produto
+  - Product
 previewImage: /img/blog/orderbook/orderbook_full.png
-description: |
-  Descubra como funciona o Peach Bitcoin Order Book – uma ferramenta inovadora para comprar Bitcoin de forma rápida, segura e anônima. Aproveite a configuração única com ofertas exclusivamente de venda para encontrar o negócio perfeito com base no seu método de pagamento e preferências.
+description: >
+  Descubra como funciona o Peach Bitcoin Order Book – uma ferramenta inovadora
+  para comprar Bitcoin de forma rápida, segura e anônima. Aproveite a
+  configuração única com ofertas exclusivamente de venda para encontrar o
+  negócio perfeito com base no seu método de pagamento e preferências.
 ---
 
 # Explore o Order Book em nosso site, compre em nosso aplicativo: a nova atualização doce do Peach Bitcoin

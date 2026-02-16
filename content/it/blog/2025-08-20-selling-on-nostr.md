@@ -4,7 +4,7 @@ keywords:
   - Code
 tags:
   - Product
-  - Code
+  - Ecosystem
 previewImage: /img/blog/nostr/nostr.png
 ---
 

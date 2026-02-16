@@ -12,12 +12,17 @@ keywords:
   - entre pares
   - boletín
 tags:
-  - Boletín
+  - Newsletter
 previewImage: /img/blog/newsletter/mail-post.jpg
-description: |
-  Bitcoin es dinero para personas libres. Creemos que cada ser humano tiene el derecho de elegir con qué dinero quiere almacenar su riqueza, el
-  resultado de su trabajo, su tiempo y energía. Peach Bitcoin es la plataforma más fácil para comprar y vender bitcoin entre pares.
-  La misión de Peach es contribuir a la adopción del Bitcoin en manos de la gente.
+description: >
+  Bitcoin es dinero para personas libres. Creemos que cada ser humano tiene el
+  derecho de elegir con qué dinero quiere almacenar su riqueza, el
+
+  resultado de su trabajo, su tiempo y energía. Peach Bitcoin es la plataforma
+  más fácil para comprar y vender bitcoin entre pares.
+
+  La misión de Peach es contribuir a la adopción del Bitcoin en manos de la
+  gente.
 ---
 
 # Boletín 22 de junio

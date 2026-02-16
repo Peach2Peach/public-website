@@ -8,12 +8,16 @@ keywords:
   - p2p
   - P2P-Börse
 tags:
-  - Bildung
+  - Education
 previewImage: /img/blog/why-p2p/nachhaltige-wirtschaft.png
-description: |
-  Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder Mensch das Recht hat zu wählen, welches Geld er nutzt, um seinen Wohlstand, das
+description: >
+  Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder Mensch das Recht
+  hat zu wählen, welches Geld er nutzt, um seinen Wohlstand, das
+
   Ergebnis seiner Arbeit, seiner Zeit und Energie zu speichern.
-  Die Mission von Peach ist es, einen Beitrag zur Adoption von Bitcoin in den Händen der Menschen zu leisten.
+
+  Die Mission von Peach ist es, einen Beitrag zur Adoption von Bitcoin in den
+  Händen der Menschen zu leisten.
 ---
 
 # Warum P2P-Serie - Kapitel 3, Kreislaufwirtschaften

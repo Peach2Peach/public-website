@@ -23,8 +23,8 @@ block main
 
       if tags
         p.tags
-          = "Tagged with:"
+          = i18n('taggedWith', lang) + ":"
           each tag in tags
-            a(href=getUrl(`/blog/tag/${slugify(tag)}`, lang))= tag
+            a(href=getUrl(`/blog/tag/${slugify(tag)}`, lang))= i18n('tag.' + tag, lang)
       p
         a(href=getUrl("/blog/", lang)) All blog posts

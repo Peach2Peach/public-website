@@ -11,12 +11,16 @@ keywords:
   - cómo vender bitcoin
   - de igual a igual
 tags:
-  - Producto
+  - Product
 previewImage: /img/blog/lightning.jpeg
-description: |
-  Bitcoin es dinero para personas libres. Creemos que cada ser humano tiene el derecho de elegir el dinero que utiliza para almacenar su
+description: >
+  Bitcoin es dinero para personas libres. Creemos que cada ser humano tiene el
+  derecho de elegir el dinero que utiliza para almacenar su
+
   riqueza, el resultado de su trabajo, su tiempo y energía.
-  La misión de Peach es contribuir a la adopción de Bitcoin en manos de la gente.
+
+  La misión de Peach es contribuir a la adopción de Bitcoin en manos de la
+  gente.
 ---
 
 # Intercambios LN <-> On-Chain, por @swissnode

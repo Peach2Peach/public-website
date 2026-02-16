@@ -6,11 +6,16 @@ keywords:
   - P2P
   - Trocas entre pares
 tags:
-  - Como fazer
+  - How To
 previewImage: /img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/teaser.jpg
 helpFooter: true
-description: |
-  O Peach fornece "pontos de encontro" para os usuários, onde é recomendado negociar com dinheiro, por razões de segurança. Esses pontos de encontro são os encontros de Bitcoin já existentes em diferentes cidades ao redor do mundo, que ocorrem pelo menos uma vez por mês, para que os usuários possam publicar suas negociações em dinheiro antes de comparecer ao encontro e, uma vez lá, negociar em um ambiente seguro.
+description: >
+  O Peach fornece "pontos de encontro" para os usuários, onde é recomendado
+  negociar com dinheiro, por razões de segurança. Esses pontos de encontro são
+  os encontros de Bitcoin já existentes em diferentes cidades ao redor do mundo,
+  que ocorrem pelo menos uma vez por mês, para que os usuários possam publicar
+  suas negociações em dinheiro antes de comparecer ao encontro e, uma vez lá,
+  negociar em um ambiente seguro.
 ---
 
 # Como comprar e vender Bitcoin com dinheiro usando o Peach

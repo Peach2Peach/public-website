@@ -3,10 +3,12 @@ keywords:
   - code
   - wallet
 tags:
-  - Produkt
+  - Product
 previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.png
-description: |
-  Unser Wallet hat ein bedeutendes Upgrade erhalten, das Peach eine Vielzahl neuer Funktionen bringt und es Anfängern noch einfacher macht, auf die richtige Weise Sats zu stapeln.
+description: >
+  Unser Wallet hat ein bedeutendes Upgrade erhalten, das Peach eine Vielzahl
+  neuer Funktionen bringt und es Anfängern noch einfacher macht, auf die
+  richtige Weise Sats zu stapeln.
 ---
 
 # Vollständige Wallet-Funktionalität
