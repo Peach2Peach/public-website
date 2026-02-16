@@ -1,4 +1,4 @@
-# Preguntas frecuentes sobre la liberación de Escrow
+# Preguntas frecuentes sobre la liberación del depósito de garantía
 
 :::details ¿Qué es GroupHug?
 GroupHug es simplemente el término que le hemos dado a la acción de agrupar transacciones de diferentes usuarios para evitar que cada uno pague comisiones individuales. Para una explicación más detallada, consulta nuestra [entrada en el blog](/es/blog/group-hug).

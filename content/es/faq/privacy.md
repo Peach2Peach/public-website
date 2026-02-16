@@ -106,7 +106,7 @@ _\*Aviso: no todas las billeteras admiten la opción de firmar/verificar tu dire
 :::details ¿Se admite Taproot?
 
 - Sí, puedes enviar a direcciones de Taproot desde la billetera Peach.
-- También puedes recibir directamente desde el fideicomiso en tu dirección externa de Taproot.
+- También puedes recibir directamente desde el depósito de garantía en tu dirección externa de Taproot.
 
 :::
 
