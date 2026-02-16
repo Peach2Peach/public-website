@@ -9,6 +9,8 @@ const redirects = [
   ['/how-it-works/', '/how-to-buy-btc-no-kyc/'],
   ['/for-businesses/', '/peach-for-businesses/'],
   ['/for-meetups/', '/buy-btc-with-cash/'],
+  ['/blog/group-hug/', '/blog/grouphug-tldr/'],
+
 ]
 
 const contentDir = resolve(__dirname, '..', 'content')
