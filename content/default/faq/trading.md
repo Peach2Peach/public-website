@@ -28,7 +28,9 @@ All your payment details are stored on your phone, so we cannot see them. What w
 
 :::details Is there any way I can buy/sell more than the trading limit?
 
-If you're a high volume buyer or seller, send us an email at [$contactEmail$](mailto:$contactEmail$)!
+If you’re a high-volume seller, email us at [$contactEmail$](mailto:$contactEmail$).  
+We’ll outline the KYC verification process we follow to lift your limits in accordance with our compliance obligations under PolyReg (Switzerland).  
+If you’re a buyer, we’re not able to increase limits at this stage.
 :::
 
 :::details What are the fees for trading on Peach?

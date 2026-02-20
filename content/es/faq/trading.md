@@ -28,7 +28,9 @@ Todos los detalles de su pago se almacenan en su teléfono, por lo que no podemo
 
 :::details ¿Hay alguna forma de comprar/vender más allá del límite de trading?
 
-¡Si eres un comprador o vendedor de alto volumen, envíanos un correo electrónico a [$contactEmail$](mailto:$contactEmail$)!
+Si eres un vendedor de alto volumen, envíanos un correo a [$contactEmail$](mailto:$contactEmail$).  
+Te explicaremos el proceso de verificación KYC que seguimos para eliminar el límite, de acuerdo con nuestras obligaciones de cumplimiento bajo PolyReg (Suiza).  
+Si eres comprador, por ahora no podemos aumentar tus límites.
 :::
 
 :::details ¿Cuáles son las comisiones por intercambiar Bitcoin en Peach?
