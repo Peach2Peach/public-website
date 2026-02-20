@@ -28,7 +28,9 @@ Todos os seus detalhes de pagamento são armazenados em seu telefone, portanto, 
 
 :::details Existe alguma maneira de comprar/vender mais do que o limite de negociação?
 
-Se você for um comprador ou vendedor de alto volume, envie-nos um e-mail para [$contactEmail$](mailto:$contactEmail$)!
+Se você é um vendedor de alto volume, envie um e-mail para [$contactEmail$](mailto:$contactEmail$).  
+Vamos explicar o processo de verificação KYC que seguimos para remover os limites, de acordo com nossas obrigações de conformidade sob a PolyReg (Suíça).  
+Se você é comprador, infelizmente não podemos aumentar seus limites neste momento.
 :::
 
 :::details Quais são as taxas para negociar na Peach?

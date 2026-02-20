@@ -28,7 +28,9 @@ Tutti i tuoi dati di pagamento vengono memorizzati sul tuo telefono, quindi non 
 
 :::details C'è un modo per acquistare/vendere più del limite di scambio?
 
-Se sei un compratore o un venditore con un alto volume di scambi, inviaci una email a [$contactEmail$](mailto:$contactEmail$)!
+Se sei un venditore ad alto volume, inviaci un’email a [$contactEmail$](mailto:$contactEmail$).  
+Ti spiegheremo il processo di verifica KYC che seguiamo per rimuovere i limiti, in conformità ai nostri obblighi di compliance con PolyReg (Svizzera).  
+Se sei un acquirente, al momento non possiamo aumentare i tuoi limiti.
 :::
 
 :::details Quali sono le commissioni per scambiare su Peach?

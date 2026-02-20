@@ -28,7 +28,9 @@ Alle deine Zahlungsdaten werden auf deinem Telefon gespeichert sodass wir sie ni
 
 :::details Gibt es eine Möglichkeit mehr als das Handelslimit zu kaufen/verkaufen?
 
-Wenn du ein Käufer oder Verkäufer mit hohem Volumen bist sende uns eine E-Mail an [$KontaktEmail$](mailto:$contactEmail$)!
+Wenn Sie ein Verkäufer mit hohem Handelsvolumen sind, senden Sie uns bitte eine E-Mail an [$contactEmail$](mailto:$contactEmail$).  
+Wir erläutern Ihnen den KYC-Verifizierungsprozess, den wir befolgen, um Ihre Limits gemäß unseren Compliance-Pflichten unter PolyReg (Schweiz) aufzuheben.  
+Wenn Sie Käufer sind, können wir Ihre Limits derzeit leider nicht erhöhen.
 :::
 
 :::details Wie hoch sind die Gebühren für den Handel auf Peach?
