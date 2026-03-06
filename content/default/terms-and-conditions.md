@@ -18,8 +18,9 @@ This page sets out the service terms for Peach accountholders. By creating a Pea
 
 When we speak of  "Peach",  "we",  "us"  or  "our",  we mean Peach S.A.R.L and its representatives. Peach Sàrl is a company accredited by [SRO PolyReg](https://www.polyreg.ch/en/) and is registered, organized and existing under the laws of Switzerland, under company registration number CHE-158.025.408, whose registered office is at:
 
-Rue des Beaux-Arts 8<br>
-c/o LEAX Avocats Sàrl<br>
+
+c/o Crypto Solutions Sàrl<br>
+Rue Saint-Honoré 2<br>
 2000 Neuchâtel<br>
 SWITZERLAND
 
