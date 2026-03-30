@@ -4,7 +4,7 @@ template: text
 
 # Terms & Conditions
 
-These Service Terms were the last updated on **Feb 5th, 2026**
+These Service Terms were the last updated on **Mar 30th, 2026**
 
 ## Legal Highlights
 
@@ -63,6 +63,8 @@ You must maintain the confidentiality of your account; **you are responsible for
 It is not allowed to create more than one Peach account. In order to ensure that a user can only create one Peach account from his mobile device, **Peach keeps a _hash_ of the user's unique device ID**, among other measures. More about how your data is used can be read in our [privacy policy](https://peachbitcoin.com/privacy-policy/).
 
 You must be at least 18 years old to sign up for a Peach account. By signing up for an account, you confirm that you are at least 18 years old.
+
+All payment methods used on Peach must be registered in the name of the account holder.
 
 You are not a citizen, a permanent resident, tax resident or located in one of the following Countries:
 
@@ -209,7 +211,7 @@ The following rules are enforced by professional dispute mediators with fairness
 
 - In case of partial payments or payments with the wrong payment method (eg: regular SEPA instead of SEPA instant), the seller can get the bitcoins back from the escrow after an evidence of the payment refunds is provided. If the refund involves a fee, the seller can deduct it from the wrong payment. The seller can not keep the wrong payment and the sats.
 
-- In case of third party payments (payment originating from different details then the provided in the app), the seller is allowed to refund the payment and get the bitcoins back.
+- Both Buyers and Sellers must use payment accounts registered in their own name. Sellers are not allowed to receive payments on third-party accounts. If a Buyer detects that the Seller's payment details belong to a third party, the Buyer is entitled to refuse payment and cancel the trade without penalty. In case a third-party payment is nonetheless made, the seller is allowed to refund the payment and get the bitcoins back.
 
 - Communications between the two parties outside the trade chat (Telegram, WhatsApp, etc.) are not considered in case of disputes.
 
@@ -232,6 +234,7 @@ We may deny any user access to our services for any reason, including but not li
 - You are using the Peach platform to scam other users, or for any other unlawful purpose
 - You are sending offensive, abusive, unlawful, defamatory, indecent or otherwise inappropriate messages to other users
 - Any change in law that adversely affects Peach' operating model or would make it unlawful to continue the service
+- You are using payment accounts or methods that are not registered in your own name; detection of third-party payment usage will result in immediate account suspension
 
 If a user is suspended as a result of losing a dispute raised by another user, Peach will keep encoded references (hashes) of the suspended user's data. These hashes will be used to deny any account that is using the same data access to the Peach app.
 
