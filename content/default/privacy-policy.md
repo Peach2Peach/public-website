@@ -222,6 +222,8 @@ You can ask for the deletion of the information stored by Peach SARL.
 
 We want to be transparent about the fact that, due to legal obligations, we are unable to facilitate the deletion of the majority of your account information upon requat, but after 10 years, in accordance with FINMA directives.
 
+In particular, plain text info included in disputes can be deleted after 10 years and anonymized data such as hashes are not deleted.
+
 For deletion requests please contact our support team at [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com)
 
 ### Your right to information:
