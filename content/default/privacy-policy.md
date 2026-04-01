@@ -138,6 +138,10 @@ When the Peach app detects that the app has run into an unexpected issue, a cras
 
 The crash reports are collected in Google Firebase. You can find what information is collected [here](https://firebase.google.com/support/privacy/#examples-end-user-data-processed-by-firebase); we use Firebase Cloud Messaging and Firebase Crashlytics.
 
+### Verfied High volume sellers
+
+If you choose to remove the KYC-free limits to increase your selling capacity by completing our KYC process, we store the information you provide (such as your identification documents and the recording of your interview) in an encrypted Proton Drive.
+
 ## How and why we use and/or share your information
 
 ### 4.1 Lawful basis for processing your information
@@ -214,7 +218,11 @@ Your privacy is important to us, and we want to inform you about our data retent
 
 ### Your data privacy
 
-We want to be transparent about the fact that, due to legal obligations, we are unable to facilitate the deletion of the majority of your account information upon request, but after 10 years, in accordance with FINMA directives.
+You can ask for the deletion of the information stored by Peach SARL.
+
+We want to be transparent about the fact that, due to legal obligations, we are unable to facilitate the deletion of the majority of your account information upon requat, but after 10 years, in accordance with FINMA directives.
+
+In particular, plain text info included in disputes can be deleted after 10 years and anonymized data such as hashes are not deleted.
 
 For deletion requests please contact our support team at [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com)
 
