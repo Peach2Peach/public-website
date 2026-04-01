@@ -214,7 +214,7 @@ Your privacy is important to us, and we want to inform you about our data retent
 
 ### Your data privacy
 
-We want to be transparent about the fact that, due to legal obligations, we are unable to facilitate the deletion of the majority of your account information upon requat, but after 10 years, in accordance with FINMA directives.
+We want to be transparent about the fact that, due to legal obligations, we are unable to facilitate the deletion of the majority of your account information upon request, but after 10 years, in accordance with FINMA directives.
 
 For deletion requests please contact our support team at [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com)
 
