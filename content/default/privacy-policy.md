@@ -140,7 +140,7 @@ The crash reports are collected in Google Firebase. You can find what informatio
 
 ### Verfied High volume sellers
 
-In the case you remove the KYC-free limits to sell more by following a KYC process with us, we stored all the shared info in an encrypted Proton Drive, including  but not limited to the documents and the recorded interview.
+If you choose to remove the KYC-free limits to increase your selling capacity by completing our KYC process, we store the information you provide (such as your identification documents and the recording of your interview) in an encrypted Proton Drive.
 
 ## How and why we use and/or share your information
 
