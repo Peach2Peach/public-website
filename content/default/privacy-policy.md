@@ -4,7 +4,7 @@ template: text
 
 # Privacy Policy
 
-This privacy policy was last updated on **Sep 22nd, 2025**
+This privacy policy was last updated on **March 31st, 2026**
 
 ## 0. Summary
 
@@ -92,14 +92,41 @@ To be able to make use of Peach you will enter information relating to the trade
 - the details of your payment methods (e.g. IBAN, email address)
 - chat messages
 - the escrow address where the Seller deposits the bitcoin to be sold
+- the release address where the Buyer receives the purchased bitcoins
 
-3. #### Information available to Peach
+3. #### Information available to Peach and stored on the server
 
 - the bitcoin address where the Buyer wants to receive the bitcoin on
+- the proof of ownership of the release address from the Buyer
 - the escrow address where the Seller deposits the bitcoin to be sold
+- the hash of the unique device id (if any) used to publish the offer
+- the hash of the payment data used to send the payment in case of the Buyer or to receive the payment in the case of the seller
+
+### 3.4 When you post a trade request
+
+To be able to make use of Peach you will enter information relating to the trades you would like to do in the form of a trade request. The information you will provide is divided in three groups (see also 4.2):
+
+1. #### Publically available information
+
+- none
+
+2. #### Information available only to the counterparty (except in case of a dispute, see 4.3)
+
+- the details of your payment methods (e.g. IBAN, email address)
+- chat messages
+- the escrow address where the Seller deposits the bitcoin to be sold
+- the release address where the Buyer receives the purchased bitcoins
 
 
-### 3.4 Optionally shared data
+3. #### Information available to Peach and stored on the server
+
+- the bitcoin address where the Buyer wants to receive the bitcoin on
+- the proof of ownership of the release address from the Buyer
+- the escrow address where the Seller deposits the bitcoin to be sold
+- the hash of the unique device id (if any) used to publish the offer
+- the hash of the payment data used to send the payment in case of the Buyer or to receive the payment in the case of the seller
+
+### 3.5 Optionally shared data
 
 #### Crash reports
 
@@ -182,13 +209,14 @@ Your privacy is important to us, and we want to inform you about our data retent
 
 - the order book
 - encrypted data (which we cannot encrypt unless a dispute is opened: payment data, chat data)
+- hashed data (unique device id and payment data)
 - dispute information of suspected accounts and behaviors
 
 ### Your data privacy
 
 We want to be transparent about the fact that, due to legal obligations, we are unable to facilitate the deletion of the majority of your account information.
 
-For deletion requests please contact our support team at [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com) or use the delete account button in our app.
+For deletion requests please contact our support team at [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com)
 
 ### Your right to information:
 
