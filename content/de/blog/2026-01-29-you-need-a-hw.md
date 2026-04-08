@@ -107,4 +107,4 @@ Viel Spaß beim Stacken!
 <a href="https://peachbitcoin.com/index.html"><img src="/img/blog/all-you-need-to-know-Escrow-Dispute/hook1.jpg" alt="Probieren Sie jetzt die Peach Bitcoin App aus" style="display:block; margin: auto; width: 90%;"></a>
 <br><br>
 
-Wenn Sie Fragen zu Peach oder zur Sicherheit von Bitcoin haben, zögern Sie nicht, sich über [Telegram](https://t.me/peachtopeach) an uns zu wenden (und hüten Sie sich vor Betrügern, Administratoren werden Sie niemals zuerst anschreiben).
+Wenn Sie Fragen zu Peach oder zur Sicherheit von Bitcoin haben, zögern Sie nicht, sich über [Telegram](https://t.me/+MUnwSgwj-d04NTk0) an uns zu wenden (und hüten Sie sich vor Betrügern, Administratoren werden Sie niemals zuerst anschreiben).

@@ -106,5 +106,5 @@ Bon stacking !
 <a href="https://peachbitcoin.com/index.html"><img src="/img/blog/all-you-need-to-know-Escrow-Dispute/hook1.jpg" alt="Essayez l'application Peach Bitcoin dès maintenant" style="display:block; margin: auto; width: 90%;"></a>
 <br><br>
 
-Si vous avez des questions sur Peach ou la sécurité des bitcoins, n'hésitez pas à nous contacter via [Telegram](https://t.me/peachtopeach) (et méfiez-vous des imposteurs, les administrateurs ne vous enverront jamais de message privé en premier).
+Si vous avez des questions sur Peach ou la sécurité des bitcoins, n'hésitez pas à nous contacter via [Telegram](https://t.me/+MUnwSgwj-d04NTk0) (et méfiez-vous des imposteurs, les administrateurs ne vous enverront jamais de message privé en premier).
 

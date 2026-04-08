@@ -35,7 +35,7 @@ Beide dieser Bilder sind 1 MB groß:
 
 In gleicher Weise kostet eine einfache Bitcoin-Transaktion, wie in unserem Fall 1 Eingabe und 2 Ausgaben, ungefähr das Gleiche, unabhängig davon, wie viel du kaufst. Aber wenn es einen Weg gäbe, die Anzahl der Ausgaben zu reduzieren, würdest du noch weniger zahlen.
 
-Nun könnten einige Mitglieder unserer [Telegram-Community](https://t.me/peachtopeach) und andere leidenschaftliche Peaches sagen, dass wir das bereits haben, und in der Tat stimmt das!
+Nun könnten einige Mitglieder unserer [Telegram-Community](https://t.me/+MUnwSgwj-d04NTk0) und andere leidenschaftliche Peaches sagen, dass wir das bereits haben, und in der Tat stimmt das!
 Im September 2023, nach dem 1-jährigen Geburtstag von Peach, haben wir "Grouphug" veröffentlicht - eine Möglichkeit, wie Transaktionen auf Peach _gebündelt_ werden, sodass unsere Nutzer _bis zu 23 %_ an Mining-Gebühren sparen können, indem sie effektiv die Peach-Gebühr teilen.
 
 Das überdenken und neu gestalten wir mit dieser Version!
@@ -102,4 +102,4 @@ FRÖHLICHES PEACHING!
   - Auszahlungen für kostenlose Trades werden sofort gesendet, da es keinen Peach-Gebührenausgang gibt. Das bedeutet, dass du noch mehr an Mining-Gebühren sparst und den Vorteil von sofortigen Übertragungen hast. Du erhältst auch einen erheblichen Datenschutzvorteil, da der Peach-Gebührenausgang nicht existiert! Dies ist ein ziemlich tiefes Thema, das wir in Zukunft weiter erkunden werden, aber ein kostenloser Trade ist im Wesentlichen um ein Vielfaches privater als ein normaler Trade. Also, empfehle Benutzer an Peach, um Punkte zu sammeln und kostenlose Trades zu erhalten!
 
 Als abschließende Bemerkung wollen wir auch klarstellen: Dies ist ein neues Fundament, aber keineswegs das endgültige Ziel. Wir haben bereits Ideen, wie wir dieses Modell noch besser machen, darauf aufbauen und die neuen Möglichkeiten, die es schafft, nutzen können.
-Wenn du auch etwas zu teilen hast, würden wir uns freuen, von dir zu [hören](https://t.me/peachtopeach)!!
+Wenn du auch etwas zu teilen hast, würden wir uns freuen, von dir zu [hören](https://t.me/+MUnwSgwj-d04NTk0)!!

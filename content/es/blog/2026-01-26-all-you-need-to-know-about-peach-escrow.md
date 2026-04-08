@@ -98,5 +98,5 @@ Los fondos se desbloquearán tan pronto como se resuelva la disputa entre las pa
 
 Si el comprador marca el pedido como pagado sin haber realizado realmente el pago, el vendedor puede iniciar una disputa y nuestro equipo de atención al cliente solicitará al comprador una prueba de pago en un plazo de 24 horas. A continuación, los mediadores continuarán evaluando las pruebas. Tras la cancelación, el vendedor podrá recuperar los bitcoins en su monedero y volver a publicar la oferta inmediatamente.
 
-Esperamos haber respondido a todas sus preguntas. Si no es así, no dude en ponerse en contacto con nosotros a través de [Telegram](https://t.me/peachtopeach) o por correo electrónico: hello@peachbitcoin.com.
+Esperamos haber respondido a todas sus preguntas. Si no es así, no dude en ponerse en contacto con nosotros a través de [Telegram](https://t.me/+MUnwSgwj-d04NTk0) o por correo electrónico: hello@peachbitcoin.com.
 

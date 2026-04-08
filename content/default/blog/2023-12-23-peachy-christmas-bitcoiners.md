@@ -74,7 +74,7 @@ Alright ladies and gentlemen, we know it, successful retail start-ups know it, c
 
 We successfully went through the first startup phase: build a product that works with a provable traction and an early-adopter community! **Check, check, and check!**
 
-Product is smooth, more than 15'000 trades completed/117 BTC traded/57'000 buy offers/22'000 sell offers, and just check our [telegram](https://t.me/peachtopeach) or [X (twitter)](https://twitter.com/peachbitcoin) to see our peachy community! We even have an #earlyadopter badge in the app for the ones present during the private beta!
+Product is smooth, more than 15'000 trades completed/117 BTC traded/57'000 buy offers/22'000 sell offers, and just check our [telegram](https://t.me/+MUnwSgwj-d04NTk0) or [X (twitter)](https://twitter.com/peachbitcoin) to see our peachy community! We even have an #earlyadopter badge in the app for the ones present during the private beta!
 
 **Now that the obsession with the product is satisfied, the next obsession is DISTRIBUTION!** How to get Peach to excel at "top of mind of awareness" when a no-coiner asks: how do I get Bitcoin?
 **Peach has now all the assets to scale! The startup is ready to take on new capital to fulfil its mission. [Want to be part of it? Want to help? Contact us!](mailto:hello@peachbitcoin.com?subject=Scaling%20Peach)**

@@ -77,7 +77,7 @@ Es famoso decir que los mercados bajistas son para construir. ¡Bien, miren abaj
 
 ¡Hemos superado con éxito la primera fase de startup: construir un producto que funcione con una tracción comprobable y una comunidad de primeros adoptantes! **¡Comprobado, comprobado y comprobado!**
 
-El producto es fluido, más de 15,000 comercios completados/117 BTC comerciados/57,000 ofertas de compra/22,000 ofertas de venta, y solo revisa nuestro [Telegram](https://t.me/peachtopeach) o [X (Twitter)](https://twitter.com/peachbitcoin) para ver nuestra comunidad peachy. ¡Incluso tenemos una insignia #earlyadopter en la aplicación para los presentes durante la beta privada!
+El producto es fluido, más de 15,000 comercios completados/117 BTC comerciados/57,000 ofertas de compra/22,000 ofertas de venta, y solo revisa nuestro [Telegram](https://t.me/+MUnwSgwj-d04NTk0) o [X (Twitter)](https://twitter.com/peachbitcoin) para ver nuestra comunidad peachy. ¡Incluso tenemos una insignia #earlyadopter en la aplicación para los presentes durante la beta privada!
 
 **Ahora que la obsesión con el producto está satisfecha, la próxima obsesión es la DISTRIBUCIÓN!** ¿Cómo hacer que Peach sobresalga en la "cima de la conciencia" cuando un no-coiner pregunta: ¿cómo obtengo Bitcoin?
 **¡Peach ahora tiene todos los activos para escalar! La startup está lista para tomar nuevo capital para cumplir su misión. [¿Quieres ser parte de ello? ¿Quieres ayudar? ¡Contáctanos!](mailto:hello@peachbitcoin.com?subject=Scaling%20Peach)**

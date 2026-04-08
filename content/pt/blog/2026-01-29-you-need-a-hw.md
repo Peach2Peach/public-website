@@ -105,4 +105,4 @@ Boa acumulação!
 <a href="https://peachbitcoin.com/index.html"><img src="/img/blog/all-you-need-to-know-Escrow-Dispute/hook1.jpg" alt="Experimente agora a aplicação Peach Bitcoin" style="display:block; margin: auto; width: 90%;"></a>
 <br><br>
 
-Caso tenha alguma dúvida sobre o Peach ou a segurança do bitcoin, não hesite em entrar em contacto através do [Telegram](https://t.me/peachtopeach) (e tenha cuidado com impostores, os administradores nunca lhe enviarão mensagens privadas primeiro).
+Caso tenha alguma dúvida sobre o Peach ou a segurança do bitcoin, não hesite em entrar em contacto através do [Telegram](https://t.me/+MUnwSgwj-d04NTk0) (e tenha cuidado com impostores, os administradores nunca lhe enviarão mensagens privadas primeiro).

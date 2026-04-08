@@ -105,4 +105,4 @@ Puedes [firmar la propiedad de una dirección externa con Sparrow](https://www.y
 <a href="https://peachbitcoin.com/index.html"><img src="/img/blog/all-you-need-to-know-Escrow-Dispute/hook1.jpg" alt="Prueba ahora la aplicación Peach Bitcoin" style="display:block; margin: auto; width: 90%;"></a>
 <br><br>
 
-Si tienes alguna pregunta sobre Peach o la seguridad de Bitcoin, no dudes en ponerte en contacto con nosotros a través de [Telegram](https://t.me/peachtopeach) (y ten cuidado con los impostores, los administradores nunca te enviarán un mensaje directo primero).
+Si tienes alguna pregunta sobre Peach o la seguridad de Bitcoin, no dudes en ponerte en contacto con nosotros a través de [Telegram](https://t.me/+MUnwSgwj-d04NTk0) (y ten cuidado con los impostores, los administradores nunca te enviarán un mensaje directo primero).

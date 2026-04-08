@@ -97,4 +97,4 @@ I fondi saranno sbloccati non appena la controversia tra le parti sarà risolta 
 
 Se l'acquirente contrassegna l'ordine come pagato senza aver effettivamente effettuato il pagamento, il venditore può avviare una controversia e il nostro team di assistenza clienti chiederà all'acquirente una prova di pagamento entro 24 ore. Quindi, i mediatori continueranno a valutare le prove. In caso di annullamento, il venditore potrà ricevere il bitcoin nel proprio portafoglio e ripubblicare immediatamente un'offerta.
 
-Ci auguriamo di aver risposto a tutte le vostre domande. In caso contrario, non esitate a contattarci tramite [Telegram](https://t.me/peachtopeach) o via e-mail: hello@peachbitcoin.com.
+Ci auguriamo di aver risposto a tutte le vostre domande. In caso contrario, non esitate a contattarci tramite [Telegram](https://t.me/+MUnwSgwj-d04NTk0) o via e-mail: hello@peachbitcoin.com.

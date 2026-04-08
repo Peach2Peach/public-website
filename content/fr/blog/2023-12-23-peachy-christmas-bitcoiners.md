@@ -74,7 +74,7 @@ Très bien mesdames et messieurs, nous le savons, les start-ups de détail à su
 
 Nous avons réussi à traverser la première phase de démarrage : construire un produit qui fonctionne avec une traction prouvée et une communauté de premiers adoptants ! **Coché, coché et coché !**
 
-Le produit est fluide, plus de 15 000 transactions complétées/117 BTC échangés/57 000 offres d'achat/22 000 offres de vente, et regardez simplement notre [telegram](https://t.me/peachtopeach) ou [X (twitter)](https://twitter.com/peachbitcoin) pour voir notre communauté enthousiaste ! Nous avons même un badge #earlyadopter dans l'application pour ceux présents lors de la beta privée !
+Le produit est fluide, plus de 15 000 transactions complétées/117 BTC échangés/57 000 offres d'achat/22 000 offres de vente, et regardez simplement notre [telegram](https://t.me/+MUnwSgwj-d04NTk0) ou [X (twitter)](https://twitter.com/peachbitcoin) pour voir notre communauté enthousiaste ! Nous avons même un badge #earlyadopter dans l'application pour ceux présents lors de la beta privée !
 
 **Maintenant que l'obsession du produit est satisfaite, la prochaine obsession est la DISTRIBUTION !** Comment faire pour que Peach soit en tête de liste lorsqu'un néophyte aux cryptos se demande : comment obtenir du Bitcoin ?
 **Peach a maintenant tous les atouts pour s'étendre ! La startup est prête à recevoir de nouveaux capitaux pour remplir sa mission. [Vous voulez en faire partie ? Vous voulez aider ? Contactez-nous !](mailto:hello@peachbitcoin.com?subject=Scaling%20Peach)**
@@ -123,6 +123,6 @@ Si vous souhaitez en savoir plus sur les fonctionnalités de Peach, ou lire cert
 
 Si vous souhaitez en savoir plus sur nous, consultez nos réseaux sociaux, ou simplement [contactez-nous](mailto:hello@peachbitcoin.com) (utilisez notre [clé PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2) si possible), nous serons heureux de vous entendre !
 
-[Telegram](https://t.me/peachtopeach), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
+[Telegram](https://t.me/+MUnwSgwj-d04NTk0), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
 Continuez à propager le mot Peach, qui sait quand vous trouverez la rencontre de votre vie !

@@ -98,5 +98,5 @@ The funds will be unblocked as soon as the dispute between the parties is resolv
 
 If the buyer marks the order as paid without actually making the payment, the seller can start a dispute and our customer support team ask the buyer a proof of payment within 24 hours. Then, the mediators will continue evaluating the proofs. Upon cancellation, the seller will be allowed a to receive the bitcoin back in the wallet, and to re-publish an offer right away.
 
-We hope all you questions are answered. If not, don't hesitate to reach-out through [Telegram](https://t.me/peachtopeach) or via email : hello@peachbitcoin.com.
+We hope all you questions are answered. If not, don't hesitate to reach-out through [Telegram](https://t.me/+MUnwSgwj-d04NTk0) or via email : hello@peachbitcoin.com.
 

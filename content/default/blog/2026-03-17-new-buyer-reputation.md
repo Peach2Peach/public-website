@@ -73,6 +73,6 @@ If you want to know more about Peach features, or read some of our other article
 
 If you want to know more about us, check out our socials, or simply [contact us](mailto:hello@peachbitcoin.com) (use our [PGP key](https://keys.openpgp.org/search?q=hello%40peachbitcoin.com) if possible) we'll be happy to hear from you!
 
-[Telegram](https://t.me/peachtopeach), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
+[Telegram](https://t.me/+MUnwSgwj-d04NTk0), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
 Keep spreading the Peach word, who knows when you'll find the match of your life!

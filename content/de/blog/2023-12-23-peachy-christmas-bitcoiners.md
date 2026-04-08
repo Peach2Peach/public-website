@@ -74,7 +74,7 @@ In Ordnung, meine Damen und Herren, wir wissen es, erfolgreiche Einzelhandels-St
 
 Wir haben die erste Start-up-Phase erfolgreich durchlaufen: Ein funktionierendes Produkt mit nachweisbarem Zug und einer Community von Frühadoptern bauen! **Check, Check und Check!**
 
-Das Produkt ist reibungslos, mehr als 15.000 Handel abgeschlossen/117 BTC gehandelt/57.000 Kaufangebote/22.000 Verkaufsangebote, und schaut einfach in unserem [Telegram](https://t.me/peachtopeach) oder [X (Twitter)](https://twitter.com/peachbitcoin) vorbei, um unsere pfirsichige Gemeinschaft zu sehen! Wir haben sogar ein #Frühadoptierer-Abzeichen in der App für diejenigen, die während der privaten Beta dabei waren!
+Das Produkt ist reibungslos, mehr als 15.000 Handel abgeschlossen/117 BTC gehandelt/57.000 Kaufangebote/22.000 Verkaufsangebote, und schaut einfach in unserem [Telegram](https://t.me/+MUnwSgwj-d04NTk0) oder [X (Twitter)](https://twitter.com/peachbitcoin) vorbei, um unsere pfirsichige Gemeinschaft zu sehen! Wir haben sogar ein #Frühadoptierer-Abzeichen in der App für diejenigen, die während der privaten Beta dabei waren!
 
 **Jetzt, da die Besessenheit vom Produkt befriedigt ist, ist die nächste Besessenheit die VERTEILUNG!** Wie bringen wir Peach an die Spitze des Bewusstseins, wenn ein No-Coiner fragt: Wie komme ich an Bitcoin?
 **Peach hat jetzt alle Voraussetzungen, um zu skalieren! Das Start-up ist bereit, neues Kapital aufzunehmen, um seine Mission zu erfüllen. [Möchtet ihr dabei sein? Möchtet ihr helfen? Kontaktiert uns!](mailto:hello@peachbitcoin.com?subject=Scaling%20Peach)**

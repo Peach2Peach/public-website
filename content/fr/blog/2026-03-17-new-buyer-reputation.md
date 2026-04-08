@@ -73,6 +73,6 @@ Si vous voulez en savoir plus sur les fonctionnalités de Peach, ou lire nos aut
 
 Si vous voulez en savoir plus sur nous, consultez nos réseaux sociaux, ou [contactez-nous](mailto:hello@peachbitcoin.com) (utilisez notre [clé PGP](https://keys.openpgp.org/search?q=hello%40peachbitcoin.com) si possible), nous serons ravis de vous lire !
 
-[Telegram](https://t.me/peachtopeach), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
+[Telegram](https://t.me/+MUnwSgwj-d04NTk0), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
 Continuez à propager le mot Peach, qui sait quand vous trouverez le match de votre vie !

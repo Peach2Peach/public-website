@@ -73,7 +73,7 @@ Va bene signori e signore, lo sappiamo, le start-up di successo nel settore reta
 
 Abbiamo superato con successo la prima fase di start-up: costruire un prodotto che funziona con una trazione provabile e una comunità di early adopter! **Check, check e check!**
 
-Il prodotto è fluido, più di 15.000 scambi completati/117 BTC scambiati/57.000 offerte di acquisto/22.000 offerte di vendita, e controlla il nostro [telegram](https://t.me/peachtopeach) o [X (twitter)](https://twitter.com/peachbitcoin) per vedere la nostra fantastica comunità! Abbiamo persino un distintivo #earlyadopter nell'app per coloro presenti durante la beta privata!
+Il prodotto è fluido, più di 15.000 scambi completati/117 BTC scambiati/57.000 offerte di acquisto/22.000 offerte di vendita, e controlla il nostro [telegram](https://t.me/+MUnwSgwj-d04NTk0) o [X (twitter)](https://twitter.com/peachbitcoin) per vedere la nostra fantastica comunità! Abbiamo persino un distintivo #earlyadopter nell'app per coloro presenti durante la beta privata!
 
 **Ora che l'ossessione per il prodotto è soddisfatta, la prossima ossessione è la DISTRIBUZIONE!** Come far sì che Pesca eccella nella "top of mind awareness" quando un non-coiner chiede: come faccio ad ottenere Bitcoin?
 **Pesca ha ora tutti gli asset per scalare! La start-up è pronta ad accogliere nuovo capitale per adempiere alla sua missione. [Vuoi farne parte? Vuoi aiutare? Contattaci!](mailto:hello@peschabitcoin.com?subject=Scaling%20Peach)**

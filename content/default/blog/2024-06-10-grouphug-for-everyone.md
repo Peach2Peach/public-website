@@ -34,7 +34,7 @@ Both of these pictures are 1MB in size:
 
 In the same way, a simple bitcoin transaction, like in our case 1 input and 2 outputs, will cost you more or less the same amount, no matter how much you buy. But if there were some way to reduce the number of outputs, you would pay even less.
 
-Now some members of our [telegram community](https://t.me/peachtopeach) and other passionate Peaches might say, that this is what we already have, and in fact that is right!
+Now some members of our [telegram community](https://t.me/+MUnwSgwj-d04NTk0) and other passionate Peaches might say, that this is what we already have, and in fact that is right!
 In September 2023, after celebrating the 1 year birthday of Peach, we did release "Grouphug" - a way in which transactions on Peach would be _batched_ in a way that it would allow our users to save _up to 23%_ in mining fees by effectively sharing the peach fee output.
 
 This is what we are rethinking and re-envisioning with this release!
@@ -101,4 +101,4 @@ HAPPY PEACHING!
   - Free Trade payouts will be broadcasted instantly, since there is no peach fee output. This means that you save on mining fees even more and get the benefit of instant broadcasts. You also get a quite significant privacy benefit from the peach fee output not existing! This is a bit of a rabbithole we will explore more in the future but a free trade basically is a number of magnitudes more private than a normal trade. So refer users to Peach to stack points and get free trades!
 
 As a final note lets also make one thing clear: This is a new foundation, but it's by no means the final destination. We already have ideas on how to make this model even better, build on top of it and realize the new opportunities it creates.
-If you have something you want to share also, we'd love to [hear from you](https://t.me/peachtopeach)!!
+If you have something you want to share also, we'd love to [hear from you](https://t.me/+MUnwSgwj-d04NTk0)!!

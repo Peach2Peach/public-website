@@ -97,4 +97,4 @@ Les fonds seront débloqués dès que le litige entre les parties sera résolu, 
 
 Si l'acheteur marque la commande comme payée sans avoir effectivement effectué le paiement, le vendeur peut ouvrir un litige et notre service clientèle demandera à l'acheteur une preuve de paiement dans les 24 heures. Ensuite, les médiateurs continueront à évaluer les preuves. En cas d'annulation, le vendeur sera autorisé à récupérer les bitcoins dans son portefeuille et à republier immédiatement son offre.
 
-Nous espérons avoir répondu à toutes vos questions. Si ce n'est pas le cas, n'hésitez pas à nous contacter via [Telegram](https://t.me/peachtopeach) ou par e-mail : hello@peachbitcoin.com.
+Nous espérons avoir répondu à toutes vos questions. Si ce n'est pas le cas, n'hésitez pas à nous contacter via [Telegram](https://t.me/+MUnwSgwj-d04NTk0) ou par e-mail : hello@peachbitcoin.com.

@@ -97,4 +97,4 @@ Die Gelder werden freigegeben, sobald der Streit zwischen den Parteien beigelegt
 
 Wenn der Käufer die Bestellung als bezahlt markiert, ohne die Zahlung tatsächlich zu leisten, kann der Verkäufer einen Streitfall einleiten, und unser Kundensupport-Team fordert den Käufer innerhalb von 24 Stunden auf, einen Zahlungsnachweis vorzulegen. Anschließend werden die Mediatoren die Nachweise weiter prüfen. Nach der Stornierung erhält der Verkäufer die Bitcoin zurück in seine Wallet und kann das Angebot sofort erneut veröffentlichen.
 
-Wir hoffen, dass alle Ihre Fragen beantwortet wurden. Falls nicht, zögern Sie nicht, uns über [Telegram](https://t.me/peachtopeach) oder per E-Mail unter hello@peachbitcoin.com zu kontaktieren.
+Wir hoffen, dass alle Ihre Fragen beantwortet wurden. Falls nicht, zögern Sie nicht, uns über [Telegram](https://t.me/+MUnwSgwj-d04NTk0) oder per E-Mail unter hello@peachbitcoin.com zu kontaktieren.
