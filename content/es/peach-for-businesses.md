@@ -37,7 +37,7 @@ Trae más usuarios y aumenta tus ingresos con un código de referencia personali
 
 Integre Peach directamente en sus sistemas con nuestra [API](https://docs.peachbitcoin.com/#introduction) pública fácil de usar o uno de los envoltorios de API desarrollados por la comunidad en diferentes idiomas.
 [Typescript](https://github.com/Peach2Peach/peach-api-ts)  
-[.NET](https://github.com/p2payserver/peachclient-net)  
+[.NET](https://github.com/0x4C6F6B69/peach-client-net)  
 :::
 
 :::box tech-peach
