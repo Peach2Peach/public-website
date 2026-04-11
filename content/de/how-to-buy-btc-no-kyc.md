@@ -41,7 +41,7 @@ Es gibt eine ganze Reihe von Zahlungsmethoden, aus denen du wählen kannst.<br>
 
 <div class="payment-grid_894">
     <div class="payment-grid-item_523">
-        <a href="/de/de/faq/Buy-&-Sell-Bitcoin-using-eur-in-2024/">
+        <a href="/de/faq/Buy-&-Sell-Bitcoin-using-eur-in-2024/">
             <i class="fas fa-euro-sign"></i>
             EUR
         </a>
