@@ -13,7 +13,7 @@ keywords:
   - boletín
 tags:
   - Newsletter
-previewImage: /img/blog/newsletter/mail-post.jpg
+previewImage: /img/blog/newsletter/mail-post.png
 description: >
   Bitcoin es dinero para gente libre. Creemos que cada ser humano tiene el
   derecho de elegir con qué dinero quiere almacenar su riqueza,

@@ -13,7 +13,7 @@ keywords:
   - Newsletter
 tags:
   - Newsletter
-previewImage: /img/blog/newsletter/mail-post.jpg
+previewImage: /img/blog/newsletter/mail-post.png
 description: |
   Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder Mensch das Recht hat zu wählen, welches Geld er nutzt, um sein Vermögen, das Ergebnis seiner Arbeit, seiner Zeit und Energie zu speichern. Peach Bitcoin ist die einfachste Plattform, um Bitcoin Peer-to-Peer zu kaufen und zu verkaufen.
   Die Mission von Peach ist es, einen Beitrag zur Adoption von Bitcoin in den Händen der Menschen zu leisten.

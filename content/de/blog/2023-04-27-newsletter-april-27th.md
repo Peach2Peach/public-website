@@ -13,7 +13,7 @@ keywords:
   - Newsletter
 tags:
   - Newsletter
-previewImage: /img/blog/newsletter/mail-post.jpg
+previewImage: /img/blog/newsletter/mail-post.png
 description: |
   Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder Mensch das Recht hat zu wählen, welches Geld er benutzt, um sein Vermögen, das Ergebnis seiner Arbeit, seiner Zeit und Energie zu speichern.
   Peachs Mission ist es, seinen Teil dazu beizutragen, dass Bitcoin in die Hände der Menschen gelangt.

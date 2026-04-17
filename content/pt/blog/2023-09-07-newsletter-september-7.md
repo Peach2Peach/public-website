@@ -12,7 +12,7 @@ keywords:
   - boletim informativo
 tags:
   - Newsletter
-previewImage: /img/blog/newsletter/mail-post.jpg
+previewImage: /img/blog/newsletter/mail-post.png
 description: >
   Bitcoin é dinheiro para pessoas livres. Acreditamos que todo ser humano tem o
   direito de escolher qual dinheiro usar para armazenar sua riqueza, o resultado
