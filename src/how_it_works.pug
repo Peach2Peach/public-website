@@ -5,6 +5,10 @@ block append vars
 
 block teaser
   section.teaser
+    - const _hitwTeaser = (html && html.teaser) || ''
+    - const _hitwHasH1 = /<h1[\s>]/i.test(_hitwTeaser)
+    if title && !_hitwHasH1
+      h1.sr-only= title
     != html.teaser
     a.scroll(href="#main"): +sprite("chevron-down")
 

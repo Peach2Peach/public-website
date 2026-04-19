@@ -5,4 +5,8 @@ block append vars
 
 block teaser
   section.teaser
+    - const _teaserHtml = (html && html.teaser) || ''
+    - const _teaserHasH1 = /<h1[\s>]/i.test(_teaserHtml)
+    if title && !_teaserHasH1
+      h1.sr-only= title
     != html.teaser

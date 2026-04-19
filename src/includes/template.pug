@@ -1,10 +1,34 @@
 include /mixins.pug
 
 block vars
-  - const pageTitle = title && title != siteData.meta.title ? `${title} · ${siteData.meta.title}` : `${siteData.meta.title} · ${siteData.meta.tagline}`
+  //- Derive a unique page title for templated page clusters (programmatic buy
+  //- pages, FAQ currency pages, blog tag + index pages) so 480+ pages don't
+  //- share identical <title> tags. Falls back to the markdown-extracted title
+  //- or the generic brand+tagline pair for plain pages.
+  - let derivedTitle = title
+  - const _programmaticMatch = permalink && permalink.match(/^buy-bitcoin-with-(.+)$/i)
+  - const _faqCurrencyMatch = permalink && permalink.match(/^faq\/Buy-&-Sell-Bitcoin-using-(.+)-in-\d+$/i)
+  - const _isBlogIndex = permalink === 'blog'
+  - const _isBlogTag = typeof tag === 'string' && tag
+  - if (_programmaticMatch) {
+  -   const raw = _programmaticMatch[1]
+  -   const formatted = raw.split('-').map(w => w === w.toLowerCase() ? (w.charAt(0).toUpperCase() + w.slice(1)) : w).join(' ')
+  -   derivedTitle = i18n('seo.title.programmaticBuy', lang, formatted)
+  - } else if (_faqCurrencyMatch) {
+  -   derivedTitle = i18n('seo.title.faqPaymentMethod', lang, _faqCurrencyMatch[1].toUpperCase())
+  - } else if (_isBlogTag) {
+  -   const tagLabel = i18n('tag.' + tag, lang)
+  -   const displayTag = tagLabel && tagLabel !== ('tag.' + tag) ? tagLabel : tag
+  -   derivedTitle = i18n('seo.title.blogTag', lang, displayTag)
+  - } else if (_isBlogIndex) {
+  -   derivedTitle = i18n('seo.title.blogIndex', lang)
+  - }
+  //- Homepage + plain-page fallback: brand · localized tagline.
+  - const _tagline = i18n('seo.tagline', lang) || siteData.meta.tagline
+  - const pageTitle = derivedTitle && derivedTitle !== siteData.meta.title ? `${derivedTitle} · ${siteData.meta.title}` : `${siteData.meta.title} · ${_tagline}`
   - const pageDescription = description || siteData.meta.description
   - const twitterDescriptionContent = twitterDescription || siteData.meta.twitterDescription
-  - const ogTitleContent = ogTitle || siteData.meta.ogTitle
+  - const ogTitleContent = ogTitle || derivedTitle || siteData.meta.ogTitle
   - const ogDescriptionContent = ogDescription || siteData.meta.ogDescription
   - const pageKeywords = keywords || siteData.meta.keywords
   - const pageCard = previewImage || cardImage || teaser || siteData.meta.cardImage
@@ -18,6 +42,19 @@ block vars
   //- Emit hreflang only for locales where a translation of this page exists.
   //- `permalinkLocales` is built in tasks/generate_site_data.js.
   - const availableLangs = (siteData.permalinkLocales && siteData.permalinkLocales[permalink]) || [lang]
+  //- JSON-LD: Organization + WebSite sitewide; MobileApplication on homepage;
+  //- BlogPosting on blog posts. Emitted below as a single @graph script.
+  - const _socialLinks = [siteData.meta.twitterUrl, siteData.meta.telegramUrl, siteData.meta.discordUrl, siteData.meta.instagramUrl, siteData.meta.nostrUrl, siteData.meta.youtubeUrl, 'https://github.com/Peach2Peach'].filter(Boolean)
+  - const _orgNode = { '@type': 'Organization', '@id': `${siteBaseUrl}/#org`, name: siteData.meta.title, url: siteBaseUrl, logo: `${siteBaseUrl}/img/peach-bitcoin.svg`, sameAs: _socialLinks }
+  - const _websiteNode = { '@type': 'WebSite', '@id': `${siteBaseUrl}/#website`, url: siteBaseUrl, name: siteData.meta.title, publisher: { '@id': `${siteBaseUrl}/#org` }, inLanguage: lang }
+  - const _graph = [_orgNode, _websiteNode]
+  - if (permalink === 'index') {
+  -   _graph.push({ '@type': 'MobileApplication', '@id': `${siteBaseUrl}/#app`, name: 'Peach Bitcoin', operatingSystem: ['iOS', 'Android'], applicationCategory: 'FinanceApplication', offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' }, downloadUrl: [siteData.meta.iosUrl, siteData.meta.androidUrl].filter(Boolean), publisher: { '@id': `${siteBaseUrl}/#org` } })
+  - }
+  - if (typeof date !== 'undefined' && date && permalink && permalink.startsWith('blog/') && !_isBlogTag && !_isBlogIndex) {
+  -   _graph.push({ '@type': 'BlogPosting', '@id': `${canonicalUrl}#post`, headline: title || derivedTitle, datePublished: date, dateModified: date, image: previewImage ? `${siteBaseUrl}${previewImage}` : undefined, mainEntityOfPage: canonicalUrl, author: { '@id': `${siteBaseUrl}/#org` }, publisher: { '@id': `${siteBaseUrl}/#org` }, inLanguage: lang })
+  - }
+  - const _jsonLd = JSON.stringify({ '@context': 'https://schema.org', '@graph': _graph })
 
 <!DOCTYPE html>
 html(lang=lang)
@@ -59,6 +96,7 @@ html(lang=lang)
     link(rel="mask-icon" href=assetPath("/img/favicon/safari-pinned-tab.svg") color=themeColor)
     link(rel="stylesheet" href=assetPath("/css/main.css"))
     title= pageTitle
+    script(type="application/ld+json")!= _jsonLd
     if !IS_DEV
       script.
         (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -89,7 +127,7 @@ html(lang=lang)
             path.line--2(d="M0 50h99")
             path.line--3(d="M0 30l28 28c2 2 2 2 7 2h64")
         nav.nav
-          +navItem("how-it-works", i18n("howItWorks", lang))
+          +navItem("how-to-buy-btc-no-kyc", i18n("howItWorks", lang))
           +navItem("for-meetups", i18n("forMeetups", lang))
           +navItem("for-businesses", i18n("forBusinesses", lang))
           +navItem("kycfree-orderbook", i18n("orderbook.navTitle", lang))

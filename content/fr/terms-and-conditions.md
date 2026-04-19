@@ -1,5 +1,8 @@
 ---
 template: text
+title: Conditions Générales
 ---
 
-No French version available, please check the English version.
+# Conditions Générales
+
+No French version available, please check the [English version](/terms-and-conditions/).
