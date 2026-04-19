@@ -8,6 +8,44 @@ Each task references the exact file + line + affected-page count. Tasks are grou
 
 ---
 
+## Implementation Status (updated 2026-04-19)
+
+| Phase | Status | Commit | Key metric change |
+|---|---|---|---|
+| **Phase 1** — Stop the bleeding | ✅ **Shipped** | `seo: add canonical+hreflang, fix title/description leak, clean sitemap` | canonical 0/936 → 936/936, hreflang 0/936 → 936/936, sitemap `/index.html` 936 → 0, markdown leaks 37 → 0 |
+| **Phase 2** — JSON-LD, titles, H1 | ✅ **Shipped** | `seo: add JSON-LD, derive unique titles, fix H1 hierarchy` | JSON-LD 0/936 → 936/936, pages missing H1 24 → 1, multiple H1 30 → 0, duplicate-title pages 480 → 62 |
+| **Phase 3** — Hygiene | ✅ **Shipped** | `seo: hygiene pass — alt text, meta descriptions, llms.txt, robots.txt` + `seo: extract inline cookie CSS, add security.txt` | missing alt 1014 → 0, duplicate-description pages 170 → 97, per-page HTML −2.2 KB |
+| **Phase 4** — Measurement & infra | ⏳ **Owner-action** | — | Requires Google API creds (T27), Cloudflare Transform Rules (T28 CSP, T6 redirects, T13 redirect), drift baseline (T30) |
+
+**Verified after merge (full local rebuild, 936/936 pages):**
+```
+pages_without_canonical:            0
+pages_without_hreflang:             0
+pages_without_jsonld:               0
+pages_without_h1:                   1  (single empty cfa-xof FAQ content file)
+pages_with_multiple_h1:             0
+pages_with_markdown_leak_in_desc:   0
+pages_with_empty_og_site_name:      0
+total_imgs_missing_alt:             0  (of 8,203 total)
+duplicate_title_groups:            18  (all cross-locale translations)
+pages_affected_by_dup_titles:      62  (was 480)
+pages_affected_by_dup_descs:       97  (was 170)
+sitemap URLs ending in /index.html: 0
+sitemap URL count:                936
+```
+
+**Deferred to Phase 3.5 (needs Cloudflare work):**
+- T6 — Rename 312 FAQ pages with literal `&` in URL → needs 301 Redirect Rules to preserve backlinks.
+- T16 — Lowercase 381 uppercase slugs → same 301 requirement.
+- These are tracked but not code-safe without coordinated infra.
+
+**Deferred to Phase 4 (needs credentials / infra):**
+- T27 — PageSpeed / CrUX / GSC / GA4 integration.
+- T28 — Content-Security-Policy rollout via Cloudflare Transform Rule.
+- T30 — `/seo drift baseline` after live deployment.
+
+---
+
 ## Phase 1 — Stop the bleeding (1–2 PRs, ~2 days)
 
 Goal: fix the issues that either mis-index the site, split ranking signals, or cause Google to treat half the site as duplicate content.
