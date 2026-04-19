@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Peach Bitcoin — SEO Audit (2026-04-17, full crawl)</title>
+<style>
+  :root{
+    --bg:#fafaf9; --panel:#fff; --ink:#120a07; --muted:#5b5048;
+    --brand:#F56522; --good:#65A519; --warn:#E0A800; --bad:#DF321F;
+    --line:#eadfd3;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;color:var(--ink);background:var(--bg)}
+  .wrap{max-width:920px;margin:0 auto;padding:40px 24px 80px}
+  header.hero{background:linear-gradient(135deg,#F56522,#E85D1F);color:#fff;padding:32px 28px;border-radius:14px;margin-bottom:28px}
+  header.hero h1{margin:0 0 6px;font-size:28px;letter-spacing:-.01em}
+  header.hero .sub{opacity:.92;font-size:14px}
+  header.hero .meta{margin-top:18px;display:flex;flex-wrap:wrap;gap:20px;font-size:13px;opacity:.95}
+  header.hero .meta b{font-weight:600}
+  .score{display:flex;gap:20px;align-items:center;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:22px 24px;margin-bottom:24px}
+  .score .big{font-size:56px;font-weight:700;color:var(--bad);line-height:1}
+  .score .big small{font-size:18px;color:var(--muted);font-weight:500}
+  .score .prev{font-size:13px;color:var(--muted);margin-top:2px}
+  .score .caveat{font-size:13px;color:var(--muted);margin-top:6px}
+  table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);border-radius:10px;overflow:hidden;margin:12px 0 28px}
+  th,td{text-align:left;padding:10px 14px;border-bottom:1px solid var(--line);font-size:14px}
+  th{background:#fbf6ef;font-weight:600;color:var(--muted);text-transform:uppercase;font-size:12px;letter-spacing:.04em}
+  tbody tr:last-child td{border-bottom:0}
+  td.num{text-align:right;font-variant-numeric:tabular-nums}
+  td.delta{text-align:right;font-variant-numeric:tabular-nums;font-size:12px;color:var(--bad)}
+  td.delta.up{color:var(--good)}
+  h2.section{font-size:20px;margin:36px 0 14px;padding-bottom:8px;border-bottom:2px solid var(--line)}
+  .finding{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--muted);border-radius:8px;padding:16px 18px;margin:14px 0}
+  .finding.critical{border-left-color:var(--bad)}
+  .finding.high{border-left-color:var(--brand)}
+  .finding.medium{border-left-color:var(--warn)}
+  .finding.low{border-left-color:var(--muted)}
+  .finding.good{border-left-color:var(--good)}
+  .finding h3{margin:0 0 8px;font-size:16px;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .tag{display:inline-block;font-size:11px;padding:2px 8px;border-radius:999px;font-weight:600;letter-spacing:.04em;text-transform:uppercase}
+  .tag.critical{background:#fde9e5;color:var(--bad)}
+  .tag.high{background:#fde4d1;color:#b94a0d}
+  .tag.medium{background:#fcf1cc;color:#7a5900}
+  .tag.low{background:#ecece6;color:var(--muted)}
+  .tag.good{background:#e3f1d0;color:#3f6a0a}
+  .metric{font-size:12px;color:var(--muted);background:#f4ece1;padding:2px 7px;border-radius:4px;font-family:SFMono-Regular,Consolas,Menlo,monospace}
+  .finding p{margin:6px 0}
+  .finding ul{margin:6px 0 6px 20px;padding:0}
+  .finding li{margin:3px 0}
+  code,pre{font:13px/1.5 SFMono-Regular,Consolas,Menlo,monospace;background:#f4ece1;border-radius:5px}
+  code{padding:1px 6px}
+  pre{padding:12px 14px;overflow:auto;border:1px solid var(--line);background:#2b211c;color:#f5e8d7}
+  pre code{background:transparent;color:inherit;padding:0}
+  .filepath{font-family:SFMono-Regular,Consolas,Menlo,monospace;font-size:13px;color:var(--brand)}
+  .kv{font-size:13px;color:var(--muted)}
+  .kv b{color:var(--ink);font-weight:600}
+  footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--line);font-size:12px;color:var(--muted);text-align:center}
+  .legend{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 24px}
+  .note{background:#fff8ec;border:1px solid #f0e0c4;border-radius:8px;padding:12px 14px;font-size:13px;color:#7a5900;margin:12px 0}
+  .scope{background:#eaf4ff;border:1px solid #c5dbf5;border-radius:8px;padding:14px 16px;margin:16px 0;font-size:14px;color:#1e4b8a}
+  .example{background:#fbf6ef;border:1px solid var(--line);border-radius:6px;padding:10px 12px;margin:6px 0;font-size:13px}
+  .example ul{margin:4px 0 4px 18px}
+  .example code{font-size:12px;background:#fff;border:1px solid var(--line)}
+  @media print{
+    body{background:#fff}
+    header.hero{background:#120a07;color:#fff;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+    .finding,.score,table{page-break-inside:avoid}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="hero">
+    <h1>Peach Bitcoin — SEO Audit</h1>
+    <div class="sub">Full-site crawl via the <code style="background:rgba(255,255,255,.18);color:#fff">claude-seo</code> skill (v1.9.0) + custom crawler</div>
+    <div class="meta">
+      <span><b>Target:</b> https://peachbitcoin.com</span>
+      <span><b>Date:</b> 2026-04-17</span>
+      <span><b>Business type:</b> Fintech / P2P Bitcoin marketplace</span>
+      <span><b>Locales:</b> en, es, de, it, fr, pt</span>
+    </div>
+  </header>
+
+  <div class="scope">
+    <b>Scope:</b> <b>936 / 936 URLs</b> from <code>sitemap.xml</code> were fetched and parsed (21.1s total, 0 errors).
+    Every page was analyzed for: title, meta description, canonical, hreflang, JSON-LD, H1 count, image alt coverage, word count, html-lang, and robots-meta.
+    This supersedes the earlier 6-page sample.
+  </div>
+
+  <section class="score">
+    <div>
+      <div class="big">30<small> / 100</small></div>
+      <div class="kv">SEO Health Score (full crawl)</div>
+      <div class="prev">↓ from 44/100 in earlier 6-page sample — full crawl revealed scale issues</div>
+    </div>
+    <div style="flex:1">
+      <div class="caveat">Lab + parsed-HTML only. Still no PageSpeed / CrUX field data (Google API credentials not configured). Category weights per <code>claude-seo</code> methodology.</div>
+    </div>
+  </section>
+
+  <h2 class="section">Category Scores (updated from full crawl)</h2>
+
+  <table>
+    <thead><tr><th>Category</th><th>Weight</th><th class="num">Score</th><th class="delta">Δ vs sample</th><th>Notes</th></tr></thead>
+    <tbody>
+      <tr><td>Technical SEO</td><td>22%</td><td class="num">30</td><td class="delta">−15</td><td>930/936 missing canonical, 936/936 missing hreflang, 312 URLs contain <code>&amp;</code></td></tr>
+      <tr><td>Content Quality</td><td>23%</td><td class="num">40</td><td class="delta">−20</td><td><b>480 pages share duplicate titles</b>; 37 pages with markdown leaks; thin FAQ stubs</td></tr>
+      <tr><td>On-Page SEO</td><td>20%</td><td class="num">20</td><td class="delta">−15</td><td>683 titles &gt; 60ch, 107 descs &lt; 80ch, 24 pages missing H1, 24 with multiple H1</td></tr>
+      <tr><td>Schema / Structured Data</td><td>10%</td><td class="num">0</td><td class="delta">−10</td><td><b>936/936 pages have zero JSON-LD</b></td></tr>
+      <tr><td>Performance (CWV)</td><td>10%</td><td class="num">60*</td><td class="delta"> 0</td><td>*Lab proxy; still no CrUX field data</td></tr>
+      <tr><td>AI Search Readiness</td><td>10%</td><td class="num">20</td><td class="delta">−10</td><td>Zero schema confirmed sitewide, no <code>llms.txt</code></td></tr>
+      <tr><td>Images</td><td>5%</td><td class="num">45</td><td class="delta">−25</td><td><b>1,008 images missing alt across 930 pages</b> (12% of 8,149 imgs)</td></tr>
+    </tbody>
+  </table>
+
+  <div class="legend">
+    <span class="tag critical">Critical</span>
+    <span class="tag high">High</span>
+    <span class="tag medium">Medium</span>
+    <span class="tag low">Low</span>
+    <span class="tag good">Good</span>
+  </div>
+
+  <h2 class="section">🛑 Critical — Fix Immediately</h2>
+
+  <div class="finding critical">
+    <h3><span class="tag critical">C1</span> Homepage <code>&lt;title&gt;</code> and meta description leak from reviews page <span class="metric">confirmed on 10 locale homepages</span></h3>
+    <p><b>Observed:</b> <code>&lt;title&gt;What do people say about us? · Peach Bitcoin&lt;/title&gt;</code> and description <em>"Do you want to earn 500 sats? Leave us a review in Apollo…"</em> on <code>/index.html</code>. The full crawl also shows the same generic fallback title <em>"Peach Bitcoin · Buy &amp; Sell Bitcoin peer-to-peer"</em> shared by 10 pages (homepages of several locales, T&amp;C pages, and FAQ roots).</p>
+    <p><b>Root cause:</b> the page template compiling to <code>dist/index.html</code> is rendering with the reviews-page <code>title</code> / <code>description</code> block.</p>
+    <p><b>Fix:</b> <span class="filepath">src/includes/template.pug:4</span> falls back to <code>siteData.meta.title + tagline</code> if no page-level title is set. Audit the homepage <code>.pug</code> to remove the stale block, or set title/description explicitly to marketplace copy.</p>
+  </div>
+
+  <div class="finding critical">
+    <h3><span class="tag critical">C2</span> Zero <code>rel="canonical"</code> sitewide <span class="metric">930 / 936 pages</span></h3>
+    <p>Only 6 pages have a canonical — and those are the JS-redirect stubs like <code>/how-it-works/</code> (which ironically use it correctly). Every real content page lacks it.</p>
+    <p><b>Impact:</b> <code>/</code> and <code>/index.html</code> both return 200 with different HTML sizes. Same risk propagates to all 930 pages.</p>
+    <p><b>Fix:</b> add to the head block in <span class="filepath">src/includes/template.pug:15-48</span>:</p>
+<pre><code>link(rel="canonical" href=`https://peachbitcoin.com${canonicalPath || permalink}`)</code></pre>
+  </div>
+
+  <div class="finding critical">
+    <h3><span class="tag critical">C3</span> Zero <code>hreflang</code> tags sitewide <span class="metric">936 / 936 pages</span></h3>
+    <p>Not a single page on the site emits <code>hreflang</code>. The sitemap already contains the localized counterparts (EN 205, DE 147, ES/FR/IT/PT 146 each), so the data is there — it just isn't being surfaced in the HTML.</p>
+    <p><b>Fix:</b> emit a full cluster + <code>x-default</code> per page in <span class="filepath">src/includes/template.pug</span>:</p>
+<pre><code>each l in ['en','es','de','it','fr','pt']
+  link(rel="alternate" hreflang=l href=`https://peachbitcoin.com${getUrl(permalink, l)}`)
+link(rel="alternate" hreflang="x-default" href=`https://peachbitcoin.com${getUrl(permalink, 'en')}`)</code></pre>
+    <p>Handle edge case: some posts exist only in EN (e.g. 19-word blog stubs) — omit <code>hreflang</code> for locales where the translation doesn't exist, don't stub-link.</p>
+  </div>
+
+  <div class="finding critical">
+    <h3><span class="tag critical">C4</span> Sitemap lists <code>/index.html</code> URLs instead of clean URLs <span class="metric">936 / 936 entries</span></h3>
+    <p><b>Root cause:</b> <span class="filepath">tasks/generate_sitemap.js:6-8</span> globs <code>dist/**/*.html</code> and string-replaces the path. Every URL in <code>sitemap.xml</code> ends in <code>/index.html</code>.</p>
+    <p><b>Fix:</b></p>
+<pre><code>const pages = html.map(f =&gt; f
+  .replace(/.*\/dist/, 'https://peachbitcoin.com')
+  .replace(/\/index\.html$/, '/'))</code></pre>
+  </div>
+
+  <div class="finding critical">
+    <h3><span class="tag critical">C5</span> Massive duplicate-title problem <span class="metric">480 / 936 pages affected (51%)</span></h3>
+    <p>The full crawl found <b>28 duplicate-title groups covering 480 pages</b>. Worst offenders:</p>
+    <div class="example">
+      <ul>
+        <li><code>"How to Buy Bitcoin on Peach Bitcoin Peer-to-Peer marketplace · Peach Bitcoin"</code> — <b>55 pages</b> (every programmatic <code>/buy-bitcoin-with-*/</code> page shares this identical title)</li>
+        <li><code>"Buy &amp; Sell Bitcoin using any payment method 2025 with PeachBitcoin · Peach B…"</code> — <b>51 pages</b> (every EN <code>/faq/Buy-&amp;-Sell-Bitcoin-using-[currency]-in-2024/</code> page)</li>
+        <li>Same translated pattern for <b>PT, FR, IT, ES, DE</b> — <b>44 pages each</b> in every locale</li>
+        <li><code>"Blog · Peach Bitcoin"</code> — <b>60 pages</b> (blog index + tag pages across locales)</li>
+        <li><code>"Peach Blog · Peach Bitcoin"</code> — 12 pages (EN blog + tag pages)</li>
+        <li><code>"Peach Bitcoin · Buy &amp; Sell Bitcoin peer-to-peer"</code> — 10 pages (multiple locale homepages)</li>
+      </ul>
+    </div>
+    <p><b>Impact:</b> duplicate titles are the <em>single strongest</em> cannibalization / doorway-page signal. The 55 programmatic <code>/buy-bitcoin-with-*/</code> pages sharing an identical title is especially risky — Google's duplicate-content heuristics can demote or deindex the set.</p>
+    <p><b>Fix:</b>
+      <ul>
+        <li>Programmatic pages: template titles like <code>"Buy Bitcoin with {paymentMethod} — No KYC · Peach Bitcoin"</code></li>
+        <li>FAQ currency pages: <code>"Buy &amp; Sell Bitcoin with {currency.toUpperCase()} in 2025 · Peach Bitcoin"</code></li>
+        <li>Blog tag pages: <code>"{Tag} — Peach Blog · Peach Bitcoin"</code></li>
+        <li>Locale homepages: distinct, localized, marketplace-centric titles</li>
+      </ul>
+    </p>
+  </div>
+
+  <div class="finding critical">
+    <h3><span class="tag critical">C6</span> 312 URLs contain a literal <code>&amp;</code> character <span class="metric">33% of the site</span></h3>
+    <p>Paths like <code>/faq/Buy-&amp;-Sell-Bitcoin-using-vnd-in-2024/</code>. Ampersand is a reserved URL character that must be percent-encoded as <code>%26</code> — Google Search Console, social shares, copy/paste, analytics, and many crawlers all mishandle them. Several tools drop these URLs entirely.</p>
+    <p><b>Fix:</b> rename the FAQ currency pages to replace <code>&amp;</code> with <code>and</code> or just omit it (e.g. <code>/faq/buy-sell-bitcoin-using-vnd-2025/</code>). Requires slug changes in <span class="filepath">content/{en,es,de,it,fr,pt}/faq/</span> + Cloudflare 301s from the old paths.</p>
+  </div>
+
+  <h2 class="section">🔴 High — Fix Within 1 Week</h2>
+
+  <div class="finding high">
+    <h3><span class="tag high">H1</span> Zero JSON-LD structured data sitewide <span class="metric">936 / 936 pages</span></h3>
+    <p>Not a single JSON-LD block across the entire site.</p>
+    <p><b>Recommended types:</b></p>
+    <ul>
+      <li>Sitewide <code>Organization</code> (<code>sameAs</code> from Twitter / Telegram / Discord / GitHub / YouTube / Nostr — all already in footer)</li>
+      <li>Homepage <code>WebSite</code></li>
+      <li><code>MobileApplication</code> / <code>SoftwareApplication</code> for the Peach app</li>
+      <li>Blog posts: <code>BlogPosting</code> with <code>author</code>, <code>datePublished</code>, <code>image</code>, <code>mainEntityOfPage</code></li>
+      <li><b>Skip <code>FAQPage</code></b> — restricted to gov/healthcare for Google rich results (Aug 2023); still useful for AI/LLM citation. Use <code>QAPage</code> instead for support threads.</li>
+    </ul>
+  </div>
+
+  <div class="finding high">
+    <h3><span class="tag high">H2</span> Missing <code>&lt;h1&gt;</code> on 24 indexable pages, duplicate <code>&lt;h1&gt;</code> on 24 more</h3>
+    <p><b>Missing H1 (24 pages):</b> these templates consistently lack an H1 across all 6 locales:
+      <ul>
+        <li><code>/kycfree-orderbook/</code> (×6 locales)</li>
+        <li><code>/how-to-buy-btc-no-kyc/</code> (×6 locales)</li>
+        <li><code>/referral/</code> (×6 locales)</li>
+        <li><code>/terms-and-conditions/</code> (×6 locales)</li>
+      </ul>
+    </p>
+    <p><b>Multiple H1 (24 pages):</b> all 6 locale homepages (desktop + mobile DOM dupes) + a handful of blog posts (<code>peach-in-japanese</code>, <code>1y-anniversary</code>, <code>Alternative-to-AgoraDesk</code> × locales).</p>
+    <p><b>Fix:</b> ensure exactly one <code>&lt;h1&gt;</code> per page. Collapse desktop/mobile into one element and show/hide with CSS.</p>
+  </div>
+
+  <div class="finding high">
+    <h3><span class="tag high">H3</span> Unrendered markdown leaks into meta descriptions <span class="metric">37 pages</span></h3>
+    <p>Literal <code>**foo**</code> asterisks appear in 37 pages' meta descriptions. Confirmed on PT homepage, multiple PT FAQs, EN T&amp;C, PT blog posts. Not just a one-off ES bug — it's a sitewide content-pipeline issue.</p>
+    <p><b>Fix:</b> either (a) author meta strings as plain text in the content files, or (b) strip markdown at build time before emitting the <code>&lt;meta name="description"&gt;</code> tag. A simple regex stripper (<code>.replace(/\*\*(.+?)\*\*/g, '$1')</code>) applied in the template render step would cover it.</p>
+  </div>
+
+  <div class="finding high">
+    <h3><span class="tag high">H4</span> <code>/how-it-works/</code> uses client-side JS redirect</h3>
+    <p><b>Observed:</b> <code>&lt;script&gt;window.location.replace("/how-to-buy-btc-no-kyc/")&lt;/script&gt;</code> with <code>noindex,nofollow</code>.</p>
+    <p><b>But:</b> the main nav in <span class="filepath">src/includes/template.pug:79</span> still links to <code>/how-it-works/</code> via <code>+navItem("how-it-works", ...)</code>, forcing an extra hop on every click.</p>
+    <p><b>Fix:</b> point the nav directly at <code>/how-to-buy-btc-no-kyc/</code>, deploy a Cloudflare 301 Rule for the legacy path, then remove the stub HTML from the build.</p>
+  </div>
+
+  <div class="finding high">
+    <h3><span class="tag high">H5</span> Empty <code>og:site_name</code> (sitewide)</h3>
+    <p><span class="filepath">src/includes/template.pug:24</span> uses <code>content=siteData.title</code>, but the string lives at <code>siteData.meta.title</code> — so every page emits <code>&lt;meta property="og:site_name"/&gt;</code> with no value.</p>
+    <p><b>Fix:</b> change to <code>content=siteData.meta.title</code> or a literal <code>"Peach Bitcoin"</code>.</p>
+  </div>
+
+  <div class="finding high">
+    <h3><span class="tag high">H6</span> <code>noindex</code> pages still included in sitemap <span class="metric">6 pages</span></h3>
+    <p>All 6 locale variants of <code>/blog/group-hug/</code> emit <code>&lt;meta name="robots" content="noindex…"&gt;</code> but are still listed in <code>sitemap.xml</code>. Contradictory crawl signal — Google will log warnings and potentially distrust the sitemap.</p>
+    <p><b>Fix:</b> either (a) remove the <code>noindex</code> if the posts should be indexed, or (b) exclude <code>noindex</code> pages from the sitemap output in <span class="filepath">tasks/generate_sitemap.js</span> (fetch each built HTML and skip if <code>noindex</code> present).</p>
+  </div>
+
+  <div class="finding high">
+    <h3><span class="tag high">H7</span> <code>html lang</code> mismatch on 5 localized pages</h3>
+    <p>The PT, IT, FR, ES, and DE versions of <code>/blog/group-hug/</code> emit <code>&lt;html lang="en"&gt;</code> despite living at localized URLs. These posts appear to be English-only content republished at localized paths (19 words each — essentially stubs).</p>
+    <p><b>Fix:</b> either translate the post, remove from localized sitemaps/routes, or set proper <code>lang</code> attribute. Combined with H6, simplest solution: de-list them from the localized sitemaps.</p>
+  </div>
+
+  <div class="finding high">
+    <h3><span class="tag high">H8</span> 381 URLs have uppercase letters in their slug</h3>
+    <p>Examples: <code>/buy-btc-with-Amazon/</code>, <code>/faq/Buy-&amp;-Sell-Bitcoin-using-vnd-in-2024/</code>, <code>/blog/Alternative-to-AgoraDesk/</code>. Google treats URLs as case-sensitive on case-sensitive hosts (GitHub Pages is), so mixed-case inconsistency risks duplicate-indexation splits and makes URL sharing fragile.</p>
+    <p><b>Fix:</b> normalize all slugs to lowercase kebab-case in <span class="filepath">content/**</span>. Add Cloudflare 301s from old capitalized URLs to new lowercase ones.</p>
+  </div>
+
+  <h2 class="section">🟡 Medium — Fix Within 1 Month</h2>
+
+  <div class="finding medium">
+    <h3><span class="tag medium">M1</span> Title length widely out of recommended range <span class="metric">646 of 936 pages</span></h3>
+    <p><b>125 titles shorter than 30 characters</b> (too sparse for SERP) + <b>521 titles longer than 60 characters</b> (truncated in Google results).</p>
+    <p><b>Fix:</b> aim for 50–60 characters. The programmatic templates proposed in C5 naturally produce well-sized titles.</p>
+  </div>
+
+  <div class="finding medium">
+    <h3><span class="tag medium">M2</span> Meta description length out of range <span class="metric">790 of 936 pages</span></h3>
+    <p>107 too-short (&lt;80ch) and <b>683 too-long (&gt;160ch)</b>. Long descriptions get truncated; short ones get auto-replaced by Google with random body text.</p>
+  </div>
+
+  <div class="finding medium">
+    <h3><span class="tag medium">M3</span> Duplicate meta descriptions <span class="metric">28 groups, 170 pages</span></h3>
+    <p>Same pattern as C5 titles. Many FAQ and programmatic pages share identical descriptions.</p>
+    <p><b>Fix:</b> template descriptions with the same variable substitution used for titles.</p>
+  </div>
+
+  <div class="finding medium">
+    <h3><span class="tag medium">M4</span> 1,008 images missing <code>alt</code> attribute <span class="metric">930 of 936 pages</span></h3>
+    <p>Out of 8,149 total <code>&lt;img&gt;</code> elements sitewide, 1,008 (12.4%) have no <code>alt</code> attribute. The problem is present on nearly every page, so it's a template / component issue rather than a per-page content miss.</p>
+    <p><b>Fix:</b> (a) audit the partials / mixins that emit <code>&lt;img&gt;</code> in <span class="filepath">src/</span> and require an <code>alt</code> param; (b) decorative SVG icons should use <code>alt=""</code> + <code>role="presentation"</code> rather than omit <code>alt</code>; (c) add a build-time lint that fails on missing <code>alt</code>.</p>
+  </div>
+
+  <div class="finding medium">
+    <h3><span class="tag medium">M5</span> Thin-content pages in sitemap <span class="metric">~35 pages &lt;300 words</span></h3>
+    <p><b>Examples:</b></p>
+    <div class="example">
+      <ul>
+        <li>6 × <code>/blog/group-hug/</code> (and localized variants) — <b>19 words</b> each</li>
+        <li><code>/de/signup-confirmation/</code> — 38 words</li>
+        <li>FAQ currency pages — 83-88 words (EN and DE variants of <code>/faq/Buy-&amp;-Sell-Bitcoin-using-{ln-swaps, kzt, ves, pab, l-usdt}-in-2024/</code>)</li>
+      </ul>
+    </div>
+    <p><b>Fix:</b> either expand the content or remove from the sitemap (especially the group-hug stubs — they're <code>noindex</code> already, see H6).</p>
+  </div>
+
+  <div class="finding medium">
+    <h3><span class="tag medium">M6</span> Missing Content-Security-Policy header</h3>
+    <p>GTM + multiple inline scripts + inline styles are present. Deploy CSP via a Cloudflare Transform Rule (with nonces/hashes or a reasonable <code>script-src</code> allowlist). Start in <code>Content-Security-Policy-Report-Only</code> mode with a reporting endpoint.</p>
+  </div>
+
+  <div class="finding medium">
+    <h3><span class="tag medium">M7</span> No <code>llms.txt</code></h3>
+    <p>404. Adding a curated <code>llms.txt</code> indexing key product / support / blog pages is a low-cost AI-visibility win.</p>
+  </div>
+
+  <div class="finding medium">
+    <h3><span class="tag medium">M8</span> Duplicate inline cookie-consent scripts</h3>
+    <p><span class="filepath">src/includes/template.pug:415-488</span> and <span class="filepath">:504-583</span> are ~80 lines duplicated. Ships on every of the 936 pages.</p>
+  </div>
+
+  <div class="finding medium">
+    <h3><span class="tag medium">M9</span> Render-blocking <code>main.css</code> + inline styles</h3>
+    <p><span class="filepath">template.pug:167-319</span> inlines ~150 lines of cookie-banner CSS on every page. Extract to the main stylesheet and consider critical-CSS inlining.</p>
+  </div>
+
+  <h2 class="section">🟢 Low — Backlog</h2>
+
+  <div class="finding low">
+    <h3><span class="tag low">L1</span> <code>robots.txt</code> has no directives</h3>
+    <p>Pure content-signal commentary; add <code>Sitemap: https://peachbitcoin.com/sitemap.xml</code> at minimum.</p>
+  </div>
+
+  <div class="finding low">
+    <h3><span class="tag low">L2</span> No <code>.well-known/security.txt</code></h3>
+    <p>Consider publishing one for responsible disclosure (RFC 9116).</p>
+  </div>
+
+  <div class="finding low">
+    <h3><span class="tag low">L3</span> <code>meta name="keywords"</code></h3>
+    <p>Ignored by Google (harmless, but clutters HTML on every page).</p>
+  </div>
+
+  <div class="finding low">
+    <h3><span class="tag low">L4</span> Ignored HTML security-header <code>&lt;meta&gt;</code></h3>
+    <p><code>X-Frame-Options</code> and <code>X-XSS-Protection</code> as <code>meta http-equiv</code> at <span class="filepath">template.pug:18-19</span> have no effect. The real HTTP headers are already present. Remove the meta versions.</p>
+  </div>
+
+  <div class="finding low">
+    <h3><span class="tag low">L5</span> Hard-coded Cloudflare verification meta</h3>
+    <p><code>&lt;meta name="cf-2fa-verify" content="e22767e30dc139c"&gt;</code> at <span class="filepath">template.pug:38</span> — verify it's still needed.</p>
+  </div>
+
+  <h2 class="section">✅ What's Already Good</h2>
+
+  <div class="finding good">
+    <ul>
+      <li>HSTS with <code>max-age=15552000; includeSubDomains</code></li>
+      <li><code>X-Frame-Options: DENY</code>, <code>X-Content-Type-Options: nosniff</code>, <code>Referrer-Policy: same-origin</code> as real HTTP headers</li>
+      <li><b>Crawl performance excellent:</b> 936 pages fetched in 21s with zero 4xx/5xx</li>
+      <li>Full 6-locale content tree in <span class="filepath">content/{en,es,de,it,fr,pt}/</span></li>
+      <li>Proper <code>&lt;html lang="…"&gt;</code> per locale (except the 5 group-hug stubs — see H7)</li>
+      <li>Cloudflare + Fastly caching + GitHub Pages backend</li>
+      <li>Font preloads, mobile-app CTAs above the fold, cookie consent with GTM consent-mode hooks</li>
+    </ul>
+  </div>
+
+  <h2 class="section">What This Audit Did NOT Measure</h2>
+  <div class="note">
+    <b>Requires credentials / extra config:</b>
+    <ul>
+      <li><b>Real Core Web Vitals (CrUX field data)</b> — needs <code>PAGESPEED_API_KEY</code> for <code>/seo google pagespeed</code> + <code>/seo google crux</code></li>
+      <li><b>Search Console data</b> (clicks, impressions, index coverage, crawl errors) — needs OAuth via <code>python scripts/google_auth.py</code></li>
+      <li><b>Backlink profile</b> — needs Moz / Bing Webmaster / DataForSEO keys</li>
+      <li><b>Full Lighthouse / rendered-DOM run</b> — this crawl parses static HTML only. JS-rendered content and interaction metrics require Playwright-driven per-page capture via <code>seo-performance</code> and <code>seo-visual</code> subagents.</li>
+      <li><b>Content uniqueness score</b> — the 55 programmatic buy-pages and 312 FAQ currency pages weren't compared pairwise; a diff would quantify the cannibalization risk from C5.</li>
+    </ul>
+  </div>
+
+  <h2 class="section">Crawl Artefacts</h2>
+  <div class="note">
+    All raw data is on disk for deeper drill-down:
+    <ul>
+      <li><code>/tmp/peach-seo-audit/per_page.json</code> — per-URL signals (title, meta, canonical, hreflang, JSON-LD, H1 count, img alt, word count…)</li>
+      <li><code>/tmp/peach-seo-audit/summary.json</code> — aggregate tallies + top duplicate groups</li>
+      <li><code>/tmp/peach-seo-audit/crawl.py</code> — the crawler script (reproducible)</li>
+    </ul>
+  </div>
+
+  <footer>
+    Built with the <b>claude-seo</b> skill (v1.9.0) + custom full-crawl analyzer · agricidaniel · MIT · Generated 2026-04-17
+  </footer>
+
+</div>
+</body>
+</html>
