@@ -6,16 +6,19 @@ const toDate = date => new Date(date).toJSON().split('T')[0]
 
 const extractTitle = text => {
   if (!text) return
-  return (text.match(/# (.*)/) || [])[1]
+  return (text.match(/^# (.*)$/m) || [])[1]
 }
 
 const extractDescription = text => {
   if (!text) return
-  const paragraph = text.match(/^[A-Za-z].*(?:\n[A-Za-z].*)*/m)
+  const stripped = text.replace(/<!--\[.*?\]-->/g, '').replace(/<[^>]+>/g, '')
+  const paragraph = stripped.match(/^[A-Za-z].*(?:\n[A-Za-z].*)*/m)
   return paragraph
     ? paragraph
         .toString()
-        .replace(/[\*\_]]/g, '')
+        .replace(/\*\*(.+?)\*\*/g, '$1')
+        .replace(/\*(.+?)\*/g, '$1')
+        .replace(/_(.+?)_/g, '$1')
         .replace(/\[(.*?)\]\(.*?\)/g, '$1')
     : null
 }

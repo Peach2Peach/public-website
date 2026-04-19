@@ -88,6 +88,23 @@ languages.forEach(language => {
 
 data.posts.sort((a, b) => new Date(b.date) - new Date(a.date))
 
+// Build permalink -> [locales] map so the template can emit hreflang only for
+// locales where a translation actually exists (avoids pointing hreflang at 404s).
+const permalinkLocales = {}
+const recordLocale = item => {
+  const lang = item.lang || 'en'
+  const key = item.permalink
+  if (!key) return
+  if (!permalinkLocales[key]) permalinkLocales[key] = new Set()
+  permalinkLocales[key].add(lang)
+}
+data.pages.forEach(recordLocale)
+data.posts.forEach(recordLocale)
+data.tags.forEach(recordLocale)
+data.permalinkLocales = Object.fromEntries(
+  Object.entries(permalinkLocales).map(([k, v]) => [k, Array.from(v).sort()]),
+)
+
 const json = JSON.stringify(data, null, 2)
 
 writeFileSync(dst, json)

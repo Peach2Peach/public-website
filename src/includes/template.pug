@@ -9,6 +9,15 @@ block vars
   - const pageKeywords = keywords || siteData.meta.keywords
   - const pageCard = previewImage || cardImage || teaser || siteData.meta.cardImage
   - const themeColor = siteData.meta.themeColor
+  //- SEO: canonical + hreflang helpers.
+  //- `permalink` is the language-agnostic slug (e.g. "index", "blog/some-post").
+  //- `siteBaseUrl` is the production origin used for absolute URLs in head tags.
+  - const siteBaseUrl = 'https://peachbitcoin.com'
+  - const pagePath = (!permalink || permalink === 'index') ? '/' : `/${permalink}/`
+  - const canonicalUrl = `${siteBaseUrl}${getUrl(pagePath, lang)}`
+  //- Emit hreflang only for locales where a translation of this page exists.
+  //- `permalinkLocales` is built in tasks/generate_site_data.js.
+  - const availableLangs = (siteData.permalinkLocales && siteData.permalinkLocales[permalink]) || [lang]
 
 <!DOCTYPE html>
 html(lang=lang)
@@ -20,8 +29,12 @@ html(lang=lang)
     meta(name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover")
     meta(name="keywords" content=pageKeywords)
     meta(name="description" content=pageDescription)
+    link(rel="canonical" href=canonicalUrl)
+    each altLang in availableLangs
+      link(rel="alternate" hreflang=altLang href=`${siteBaseUrl}${getUrl(pagePath, altLang)}`)
+    link(rel="alternate" hreflang="x-default" href=`${siteBaseUrl}${getUrl(pagePath, 'en')}`)
     meta(property="og:locale" content=lang)
-    meta(property="og:site_name" content=siteData.title)
+    meta(property="og:site_name" content=siteData.meta.title)
     meta(property="og:title" content=ogTitleContent)
     meta(property="og:description" content=ogDescriptionContent)
     meta(property="og:type" content="website")
