@@ -26,7 +26,25 @@ block vars
   //- Homepage + plain-page fallback: brand · localized tagline.
   - const _tagline = i18n('seo.tagline', lang) || siteData.meta.tagline
   - const pageTitle = derivedTitle && derivedTitle !== siteData.meta.title ? `${derivedTitle} · ${siteData.meta.title}` : `${siteData.meta.title} · ${_tagline}`
-  - const pageDescription = description || siteData.meta.description
+  //- Derive unique descriptions for the same templated page clusters so
+  //- programmatic/FAQ/blog-tag pages stop sharing the siteData.meta fallback.
+  - let _derivedDescription = description
+  - if (!_derivedDescription) {
+  -   if (_programmaticMatch) {
+  -     const raw = _programmaticMatch[1]
+  -     const formatted = raw.split('-').map(w => w === w.toLowerCase() ? (w.charAt(0).toUpperCase() + w.slice(1)) : w).join(' ')
+  -     _derivedDescription = i18n('seo.desc.programmaticBuy', lang, formatted)
+  -   } else if (_faqCurrencyMatch) {
+  -     _derivedDescription = i18n('seo.desc.faqPaymentMethod', lang, _faqCurrencyMatch[1].toUpperCase())
+  -   } else if (_isBlogTag) {
+  -     const tagLabel = i18n('tag.' + tag, lang)
+  -     const displayTag = tagLabel && tagLabel !== ('tag.' + tag) ? tagLabel : tag
+  -     _derivedDescription = i18n('seo.desc.blogTag', lang, displayTag)
+  -   } else if (_isBlogIndex) {
+  -     _derivedDescription = i18n('seo.desc.blogIndex', lang)
+  -   }
+  - }
+  - const pageDescription = _derivedDescription || siteData.meta.description
   - const twitterDescriptionContent = twitterDescription || siteData.meta.twitterDescription
   - const ogTitleContent = ogTitle || derivedTitle || siteData.meta.ogTitle
   - const ogDescriptionContent = ogDescription || siteData.meta.ogDescription
@@ -61,8 +79,6 @@ html(lang=lang)
   head
     meta(charset="UTF-8")
     meta(http-equiv="X-UA-Compatible" content="ie=edge")
-    meta(http-equiv="X-Frame-Options" content="DENY")
-    meta(http-equiv="X-XSS-Protection" content="1; mode=block")
     meta(name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover")
     meta(name="keywords" content=pageKeywords)
     meta(name="description" content=pageDescription)
@@ -174,7 +190,7 @@ html(lang=lang)
           div.logo
             img.logo-image(src=assetPath("/img/peach-footer-logo.svg") alt="Peach logo")
             span Made in Switzerland 
-              img(src=assetPath("/img/flags/switzerland-icon.svg") style="width: 1rem; margin-left .5rem;")
+              img(src=assetPath("/img/flags/switzerland-icon.svg") alt="Swiss flag" style="width: 1rem; margin-left .5rem;")
           div.company-info 
             img.polyreg-image(src=assetPath("/img/polyreg.png") alt="Polyreg logo" width="120")
             p !{i18n('sroMember', lang)} 
@@ -552,83 +568,3 @@ html(lang=lang)
     //-     a(href="https://www.chatbot.com/" rel="noopener nofollow" target="_blank") ChatBot
 
 
-      script.
-        (function() {
-          // Funzioni di utilità per gestire i cookie
-          function setCookie(name, value, days) {
-            var expires = "";
-            if (days) {
-              var date = new Date();
-              date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-              expires = "; expires=" + date.toUTCString();
-            }
-            document.cookie = name + "=" + (value || "") + expires + "; path=/";
-          }
-
-          function getCookie(name) {
-            var nameEQ = name + "=";
-            var ca = document.cookie.split(';');
-            for (var i = 0; i < ca.length; i++) {
-              var c = ca[i];
-              while (c.charAt(0) === ' ') c = c.substring(1, c.length);
-              if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
-            }
-            return null;
-          }
-
-          // Controlla se il consenso è già stato dato per nascondere il banner
-          function checkConsent() {
-            if (getCookie('consent_necessary') === "true") {
-              document.getElementById('cookie-banner').style.display = 'none';
-            } else {
-              document.getElementById('cookie-banner').style.display = 'flex';
-            }
-          }
-
-          // Funzione per accettare tutti i cookie
-          window.acceptCookies = function() {
-            setCookie('consent_necessary', 'true', 365);
-            setCookie('consent_analytics', 'true', 365);
-            setCookie('consent_marketing', 'true', 365);
-            document.getElementById('cookie-banner').style.display = 'none';
-            document.getElementById('cookie-popup').style.display = 'none';
-            window.dataLayer = window.dataLayer || [];
-            window.dataLayer.push({event: 'cookie_consent', consent_analytics: true, consent_marketing: true});
-          };
-
-          // Funzione per rifiutare cookie opzionali (analytics e marketing)
-          window.rejectCookies = function() {
-            setCookie('consent_necessary', 'true', 365);
-            setCookie('consent_analytics', 'false', 365);
-            setCookie('consent_marketing', 'false', 365);
-            document.getElementById('cookie-banner').style.display = 'none';
-            document.getElementById('cookie-popup').style.display = 'none';
-            window.dataLayer = window.dataLayer || [];
-            window.dataLayer.push({event: 'cookie_consent', consent_analytics: false, consent_marketing: false});
-          };
-
-          // Mostra il popup per gestire le preferenze dei cookie
-          window.showCookiePopup = function(event) {
-            event.preventDefault();
-            document.getElementById('cookie-popup').style.display = 'flex';
-          };
-          window.closeCookiePopup = function() {
-          document.getElementById('cookie-popup').style.display = 'none';
-          };
-
-          // Salva le preferenze impostate nel popup
-          window.savePreferences = function() {
-            var analyticsConsent = document.getElementById('analytics-cookies').checked;
-            var marketingConsent = document.getElementById('marketing-cookies').checked;
-            setCookie('consent_necessary', 'true', 365);
-            setCookie('consent_analytics', analyticsConsent ? 'true' : 'false', 365);
-            setCookie('consent_marketing', marketingConsent ? 'true' : 'false', 365);
-            document.getElementById('cookie-banner').style.display = 'none';
-            document.getElementById('cookie-popup').style.display = 'none';
-            window.dataLayer = window.dataLayer || [];
-            window.dataLayer.push({event: 'cookie_consent', consent_analytics: analyticsConsent, consent_marketing: marketingConsent});
-          };
-
-          // Inizializza il controllo del consenso al caricamento della pagina
-          checkConsent();
-        })();

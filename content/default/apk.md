@@ -7,7 +7,7 @@
 - [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/48339a19645e2e53488e0e5479e1b270facd1bd2) fingerprint:<br>
   `4833 9a19 645e 2e53 488e 0e54 79e1 b270 facd 1bd2`
 
-<img src="/icons/qrcode_android.png"  width="350">
+<img src="/icons/qrcode_android.png" width="350" alt="QR code to download the Peach Bitcoin Android APK">
 
 Latest version: $apkVersionBuild$
 
@@ -20,7 +20,7 @@ We recommend downloading the ARM64 version from Android 8.0 and up.
 
 ## Download for Ios
 
-<img src="/icons/qrcode_apple.png"  width="350">
+<img src="/icons/qrcode_apple.png" width="350" alt="QR code to download the Peach Bitcoin iOS TestFlight app">
 
 :::buttons
 [Download for Ios](https://testflight.apple.com/join/wfSPFEWG)

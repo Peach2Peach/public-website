@@ -16,7 +16,7 @@ block main
   section.wrap
     article.content-wrap.content-wrap--flex
       div!= html.easy_registration
-      figure: img(src=assetPath("/img/how-it-works/easy_registration.png"))
+      figure: img(src=assetPath("/img/how-it-works/easy_registration.png") alt="Easy registration — download the Peach app and start trading without KYC")
 
   section.wrap#payment
     article.content-wrap.content-wrap--centered
@@ -24,7 +24,7 @@ block main
 
     article.content-wrap.content-wrap--flex
       div!= html.self_custody
-      figure: img(src=assetPath("/img/how-it-works/self_custody.png"))
+      figure: img(src=assetPath("/img/how-it-works/self_custody.png") alt="Self-custody — your Bitcoin stays in your own wallet throughout the trade")
 
   section.wrap
     article#sounds_cool.content-wrap.content-wrap--centered
@@ -35,11 +35,11 @@ block main
 
     article.content-wrap.content-wrap--flex
       div!= html.security
-      figure: img(src=assetPath("/img/how-it-works/security.png"))
+      figure: img(src=assetPath("/img/how-it-works/security.png") alt="Security — multisignature escrow protects buyers and sellers")
 
     article.content-wrap.content-wrap--flex
       div!= html.difference
-      figure: img(src=assetPath("/img/how-it-works/difference.png"))
+      figure: img(src=assetPath("/img/how-it-works/difference.png") alt="What makes Peach different — no KYC, non-custodial, peer-to-peer")
 
   section.wrap
     article#questions.content-wrap.content-wrap--centered

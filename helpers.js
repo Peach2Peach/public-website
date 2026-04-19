@@ -91,7 +91,7 @@ const icon = symbol =>
   ['payment-blik', 'payment-swish', 'payment-twint', 'tech-peach'].includes(
     symbol
   )
-    ? `<img role="img" src="${assetPath(`/icons/${symbol}.svg`)}" />`
+    ? `<img role="img" alt="" src="${assetPath(`/icons/${symbol}.svg`)}" />`
     : `<svg role="img"><use href="${assetPath(
         '/img/icons.svg'
       )}#${symbol}"></use></svg>`
