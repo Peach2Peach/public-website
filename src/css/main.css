@@ -6,6 +6,7 @@
 @import 'base/header.css';
 @import 'base/footer.css';
 @import 'base/utility.css';
+@import 'base/cookie-banner.css';
 
 /* Sections */
 @import 'pages/page.css';

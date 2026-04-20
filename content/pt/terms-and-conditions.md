@@ -1,5 +1,8 @@
 ---
 template: text
+title: Termos e Condições
 ---
 
-No Portoguese version available, please check the English version.
+# Termos e Condições
+
+No Portuguese version available, please check the [English version](/terms-and-conditions/).

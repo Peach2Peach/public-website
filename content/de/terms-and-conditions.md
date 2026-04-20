@@ -1,5 +1,8 @@
 ---
 template: text
+title: Allgemeine Geschäftsbedingungen
 ---
 
-No German version available, please check the English version.
+# Allgemeine Geschäftsbedingungen
+
+No German version available, please check the [English version](/terms-and-conditions/).
