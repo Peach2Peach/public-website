@@ -1,10 +1,12 @@
 const IS_DEV = process.env.NODE_ENV === 'development'
+const CANONICAL_URL = 'https://peachbitcoin.com'
 const HOST = IS_DEV ? 'http://localhost:3000' : getBaseUrl()
 
 function getBaseUrl() {
   const { DEPLOY_PRIME_URL, URL } = process.env
   const branchUrl = DEPLOY_PRIME_URL || URL || ''
-  return !branchUrl.match('master--') ? branchUrl : 'https://peachbitcoin.com'
+  if (!branchUrl || branchUrl.match('master--')) return CANONICAL_URL
+  return branchUrl
 }
 
 function getUrl(url, lang) {
