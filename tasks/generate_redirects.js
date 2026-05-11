@@ -1,4 +1,5 @@
-const { mkdirSync, writeFileSync, readdirSync } = require('fs')
+const fs = require('fs')
+const { mkdirSync, writeFileSync, readdirSync } = fs
 const { dirname, join, resolve } = require('path')
 
 // old, new
