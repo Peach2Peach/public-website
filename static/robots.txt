@@ -25,5 +25,7 @@
 
 User-agent: *
 Allow: /
+Disallow: /referral
+Disallow: /*/referral
 
 Sitemap: https://peachbitcoin.com/sitemap.xml

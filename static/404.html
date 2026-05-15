@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <title>Page not found — Peach</title>
+  <link rel="icon" href="/favicon.ico">
+  <link rel="stylesheet" href="/css/main.css">
+  <script>
+    (function () {
+      var path = window.location.pathname;
+
+      // 1) Deleted locales (commit dcc873653, 2025-10-30) → strip prefix and try English equivalent.
+      var DELETED_LOCALES = ['el', 'hu', 'uk', 'sw', 'swahili', 'nl', 'pl'];
+      var localeMatch = path.match(/^\/([a-z-]+)(\/.*)?$/);
+      if (localeMatch && DELETED_LOCALES.indexOf(localeMatch[1]) !== -1) {
+        window.location.replace(localeMatch[2] || '/');
+        return;
+      }
+
+      // 2) Old multilingual blog-tag slugs (pre-revamp commit be77a5f44) → new English slug,
+      //    or fall back to the blog index for the same locale.
+      var TAG_REMAP = {
+        'boletn': 'newsletter', 'boletn-informativo': 'newsletter',
+        'boletim-informativo': 'newsletter',
+        'mitteilungsblatt': 'newsletter', 'nieuwsbrief': 'newsletter',
+        'educacin': 'education', 'educazione': 'education', 'bildung': 'education',
+        'anleitung': 'how-to', 'tutoriel': 'how-to', 'tutorial': 'how-to',
+        'cmo': 'how-to', 'cmo-hacer': 'how-to', 'cmo-hacerlo': 'how-to',
+        'como-fazer': 'how-to',
+        'azienda': 'company', 'empresa': 'company',
+        'producto': 'product', 'produkt': 'product', 'produto': 'product',
+        'desabafos': 'rants-and-opinions', 'rant': 'rants-and-opinions',
+        'rants': 'rants-and-opinions'
+      };
+      var tagMatch = path.match(/^(\/(?:[a-z]{2}\/)?blog\/tag\/)([^\/]+)\/?$/);
+      if (tagMatch) {
+        var oldSlug = decodeURIComponent(tagMatch[2]).toLowerCase();
+        var newSlug = TAG_REMAP[oldSlug];
+        if (newSlug) {
+          window.location.replace(tagMatch[1] + newSlug + '/');
+        } else {
+          window.location.replace(tagMatch[1].replace(/\/tag\/$/, '/'));
+        }
+        return;
+      }
+    })();
+  </script>
+</head>
+<body>
+  <main style="max-width:640px;margin:6rem auto;padding:0 1.5rem;text-align:center;font-family:system-ui,sans-serif;">
+    <h1 style="font-size:2.5rem;margin-bottom:1rem;">Page not found</h1>
+    <p style="font-size:1.125rem;line-height:1.5;margin-bottom:2rem;">
+      The page you're looking for has moved or no longer exists.
+    </p>
+    <p>
+      <a href="/" style="display:inline-block;margin:0 0.5rem;">Home</a>
+      <a href="/blog/" style="display:inline-block;margin:0 0.5rem;">Blog</a>
+      <a href="/sitemap.xml" style="display:inline-block;margin:0 0.5rem;">Sitemap</a>
+    </p>
+  </main>
+</body>
+</html>
