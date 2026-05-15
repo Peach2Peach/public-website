@@ -11,9 +11,9 @@ Some of the benefits you can enjoy by using the services provided by Peach Busin
 ::::figures 3
 :::box tech-peach
 
-### High Liquidity available
+### Probably the arbitrage in P2P market
 
-More than 900 open buy offers 24h a day
+Consistent opening of new motivated buy offers 24h a day
 :::
 
 :::box tech-peach
