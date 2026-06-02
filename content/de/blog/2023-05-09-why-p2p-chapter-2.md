@@ -7,7 +7,7 @@ keywords:
   - p2p Austausch
 tags:
   - Education
-previewImage: /img/blog/why-p2p/fungibility.png
+previewImage: /img/blog/why-p2p/fungibility.webp
 description: >
   Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder einzelne Mensch
   das Recht hat zu wählen, welches Geld er nutzt, um seinen Reichtum zu
@@ -31,7 +31,7 @@ In dieser Serie von Blog-Posts werden wir etwas tiefer eintauchen, was es bedeut
 
 Im heutigen Kapitel wollen wir kurz das Konzept der Fungibilität erkunden.
 
-![gold](/img/blog/why-p2p/fungibility.png)
+![Identische Bitcoin-Münzen neben einem Stapel Goldbarren auf einer schwebenden Insel bei Sonnenuntergang, als Sinnbild für Fungibilität](/img/blog/why-p2p/fungibility.webp)
 
 > In der Wirtschaft ist Fungibilität die Eigenschaft eines Gutes oder einer Ware, deren einzelne Einheiten im Wesentlichen austauschbar sind und deren Teile von jedem anderen Teil ununterscheidbar sind.
 
