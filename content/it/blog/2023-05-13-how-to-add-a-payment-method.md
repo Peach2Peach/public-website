@@ -7,7 +7,7 @@ keywords:
   - Scambi peer to peer
 tags:
   - How To
-previewImage: /img/blog/how-to-add-a-payment-method/teaser.jpg
+previewImage: /img/blog/how-to-add-a-payment-method/peach-blog-add-payment-method-1024x1024.webp
 helpFooter: true
 description: >
   Qualcuno potrebbe chiedersi innanzitutto, perché vogliamo aggiungere altri

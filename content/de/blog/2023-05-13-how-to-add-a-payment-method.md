@@ -7,7 +7,7 @@ keywords:
   - Peer to peer trades
 tags:
   - How To
-previewImage: /img/blog/how-to-add-a-payment-method/teaser.jpg
+previewImage: /img/blog/how-to-add-a-payment-method/peach-blog-add-payment-method-1024x1024.webp
 helpFooter: true
 description: |
   One would first ask, why do we want to add other payment methods in our trades? The reason is simple.
