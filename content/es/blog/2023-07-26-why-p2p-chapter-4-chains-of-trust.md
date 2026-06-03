@@ -12,7 +12,7 @@ keywords:
   - de igual a igual
 tags:
   - Education
-previewImage: /img/blog/why-p2p/connections.jpg
+previewImage: /img/blog/why-p2p/chains-of-trust.webp
 description: >
   Bitcoin es dinero para personas libres. Creemos que cada ser humano tiene el
   derecho de elegir qué dinero utiliza para almacenar su riqueza,

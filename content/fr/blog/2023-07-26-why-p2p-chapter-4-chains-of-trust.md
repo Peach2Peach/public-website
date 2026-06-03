@@ -12,7 +12,7 @@ keywords:
   - pair à pair
 tags:
   - Education
-previewImage: /img/blog/why-p2p/connections.jpg
+previewImage: /img/blog/why-p2p/chains-of-trust.webp
 description: >
   Bitcoin est l'argent des gens libres. Nous croyons que chaque être humain a le
   droit de choisir la monnaie qu'il utilise pour stocker sa richesse,
