@@ -11,7 +11,7 @@ keywords:
   - peer to peer
 tags:
   - Product
-previewImage: /img/blog/lightning.jpeg
+previewImage: /img/blog/lightningswaps.webp
 description: >
   O Bitcoin é dinheiro para pessoas livres. Acreditamos que cada ser humano tem
   o direito de escolher qual dinheiro usar para armazenar sua riqueza, o

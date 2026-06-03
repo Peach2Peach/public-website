@@ -4,7 +4,7 @@ keywords:
   - portefeuille
 tags:
   - Product
-previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.png
+previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.webp
 description: >
   Notre portefeuille a été considérablement amélioré en intégrant une multitude
   de fonctionnalités à Peach, rendant ainsi l'accumulation de sats encore plus

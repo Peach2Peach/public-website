@@ -4,7 +4,7 @@ keywords:
   - portafoglio
 tags:
   - Product
-previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.png
+previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.webp
 description: >
   Il nostro portafoglio ha ricevuto un importante aggiornamento che porta un
   sacco di nuove funzionalità a Peach, rendendo ancora più facile per i

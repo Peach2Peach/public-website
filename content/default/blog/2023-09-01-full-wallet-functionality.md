@@ -4,7 +4,7 @@ keywords:
   - wallet
 tags:
   - Product
-previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.png
+previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.webp
 description: |
   Our wallet has gotten a significant upgrade bringing a whole bunch of features to Peach making it even easier for beginners to stack sats the right way.
 ---

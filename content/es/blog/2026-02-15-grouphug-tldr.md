@@ -10,7 +10,7 @@ keywords:
 tags:
   - Product
   - GroupHug
-previewImage: /img/blog/group-hug/grouphug-tldr-preview.png
+previewImage: /img/blog/group-hug/teaser.webp
 description: >
   GroupHug es el sistema de agrupación de Peach que agrupa varias operaciones en
   una sola transacción, lo que le permite ahorrar comisiones de minería. Aquí

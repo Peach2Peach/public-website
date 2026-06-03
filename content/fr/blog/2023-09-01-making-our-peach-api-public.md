@@ -9,7 +9,7 @@ keywords:
 tags:
   - Product
   - Rants and Opinions
-previewImage: /img/blog/making-our-peach-api-public/api-example.png
+previewImage: /img/blog/making-our-peach-api-public/api-example-thumb.webp
 description: |
   L'API Peach est désormais accessible à tous.
 ---
@@ -19,6 +19,8 @@ description: |
 Salut à tous les passionnés de Peach !
 
 Nous revoilà avec une nouvelle qui va sûrement égayer votre journée – après plus d'un an de travail acharné et de sessions de codage nocturnes, nous sommes ravis d'annoncer que l'API Peach est prête à être dévoilée au public !
+
+![Capture d'écran du terminal : une requête curl vers l'API Peach renvoyant une réponse JSON de statut](/img/blog/making-our-peach-api-public/api-example.png)
 
 Maintenant, parlons un peu de ce qu'est l'API Peach. C'est comme notre cadeau pour ceux qui veulent plonger dans le monde des peaches numériques sans utiliser l'application Peach elle-même. Peut-être que l'application Peach n'est pas votre tasse de thé, et c'est totalement cool – l'API Peach est là pour vous donner une idée de l'action d'une manière pratique.
 

@@ -4,7 +4,7 @@ keywords:
   - billetera
 tags:
   - Product
-previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.png
+previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.webp
 description: >
   Nuestra billetera ha recibido una actualización significativa que trae un
   montón de características a Peach, facilitando aún más a los principiantes

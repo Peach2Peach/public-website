@@ -10,7 +10,7 @@ keywords:
 tags:
   - Product
   - GroupHug
-previewImage: /img/blog/group-hug/grouphug-tldr-preview.png
+previewImage: /img/blog/group-hug/teaser.webp
 description: |
   GroupHug is Peach's batching system that bundles multiple trades into one
   transaction, saving you mining fees. Here's everything you need to know.

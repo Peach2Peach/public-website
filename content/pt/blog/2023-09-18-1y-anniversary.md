@@ -10,7 +10,7 @@ keywords:
   - negociação
 tags:
   - Company
-previewImage: /img/blog/1y-anniversary/cake.jpeg
+previewImage: /img/blog/1y-anniversary/teaser.webp
 description: >
   Leia a história completa de como os membros da equipe Peach conseguiram
   sobreviver durante 1 ano construindo em um padrão Bitcoin!

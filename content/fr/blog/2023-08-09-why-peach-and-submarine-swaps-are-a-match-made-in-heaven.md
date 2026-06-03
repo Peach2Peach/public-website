@@ -12,7 +12,7 @@ keywords:
   - pair à pair
 tags:
   - Product
-previewImage: /img/blog/lightning.jpeg
+previewImage: /img/blog/lightningswaps.webp
 description: >
   Bitcoin est l'argent des personnes libres. Nous croyons que chaque être humain
   a le droit de choisir la monnaie avec laquelle il souhaite conserver sa

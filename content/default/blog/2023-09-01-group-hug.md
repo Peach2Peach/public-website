@@ -7,7 +7,7 @@ keywords:
 tags:
   - Product
   - GroupHug
-previewImage: /img/blog/group-hug/teaser.png
+previewImage: /img/blog/group-hug/teaser.webp
 description: >
   With GroupHug, we bundle escrow releases for lower transaction fees. Opt in,
   wait a tad, save more. You're in control, switch anytime.
