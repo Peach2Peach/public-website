@@ -212,9 +212,10 @@ Your privacy is important to us, and we want to inform you about our data retent
 ### What data we retain
 
 - the order book
-- encrypted data (which we cannot encrypt unless a dispute is opened: payment data, chat data)
+- encrypted data (which we cannot dencrypt unless a dispute is opened: payment data, chat data)
 - hashed data (unique device id and payment data)
 - dispute information of suspected accounts and behaviors
+- in case of an "Instant trade" offer, the advertiser payment data are not encrypted and saved in our database in plain text. This is due to a technological reason: the data must be available at the same time the offer receives a trade request, without the advertiser tacking action. 
 
 ### Your data privacy
 
