@@ -11,7 +11,7 @@ keywords:
   - Bitcoin est-il sécurisé contre l'exploitation ?
 tags:
   - Company
-previewImage: /img/home/bitcoin-logo.png
+previewImage: /img/blog/why-choose-peach/peach-thumbnail-why-choose-peach-800x800.webp
 description: >
   Découvrez le monde innovant de Bitcoin, un logiciel open-source pionnier qui
   facilite une monnaie numérique et décentralisée à travers un réseau mondial.

@@ -11,7 +11,7 @@ keywords:
   - Bitcoin é seguro contra exploração?
 tags:
   - Company
-previewImage: /img/home/bitcoin-logo.png
+previewImage: /img/blog/why-choose-peach/peach-thumbnail-why-choose-peach-800x800.webp
 description: >
   Explore o mundo inovador do Bitcoin, um software pioneiro de código aberto que
   facilita uma moeda digital e descentralizada através de uma rede global.

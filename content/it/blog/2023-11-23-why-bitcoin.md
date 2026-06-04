@@ -6,7 +6,7 @@ keywords:
   - Peer to peer trades
 tags:
   - Rants and Opinions
-previewImage: /img/home/bitcoin-logo.png
+previewImage: /img/blog/a-rant/teaser-800x800.webp
 ---
 
 # Un rant - Perché Bitcoin.

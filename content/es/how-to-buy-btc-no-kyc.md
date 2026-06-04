@@ -428,7 +428,7 @@ La aplicación incluye una billetera fácil de usar que controlas tú, o puedes 
 
 ### Súper seguro
 
-Peach utiliza direcciones Bitcoin multifirma to make sure that the correct party can get the bitcoin if something goes wrong during the trade.
+Peach Escrow utiliza direcciones Bitcoin multifirma para asegurarse de que la parte correcta pueda recibir los bitcoins si algo sale mal durante la operación.
 
 <!--[difference]-->
 

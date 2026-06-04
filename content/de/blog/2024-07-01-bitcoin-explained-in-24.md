@@ -7,7 +7,7 @@ keywords:
   - Ist Bitcoin vor Ausbeutung sicher?
 tags:
   - How To
-previewImage: /img/home/bitcoin-logo.png
+previewImage: /img/blog/bitcoin-explained-in-24/peach-thumbnail-bitcoin-explained-in-24-800x800.webp
 description: >
   Entdecken Sie die innovative Welt von Bitcoin, einer bahnbrechenden
   Open-Source-Software, die eine digitale und dezentrale Währung über ein

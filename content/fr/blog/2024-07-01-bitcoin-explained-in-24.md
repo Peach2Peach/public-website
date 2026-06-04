@@ -7,7 +7,7 @@ keywords:
   - Bitcoin est-il sécurisé contre l'exploitation?
 tags:
   - How To
-previewImage: /img/home/bitcoin-logo.png
+previewImage: /img/blog/bitcoin-explained-in-24/peach-thumbnail-bitcoin-explained-in-24-800x800.webp
 description: >
   Explorez le monde innovant de Bitcoin, un logiciel open-source pionnier qui
   facilite une monnaie numérique et décentralisée à travers un réseau mondial.

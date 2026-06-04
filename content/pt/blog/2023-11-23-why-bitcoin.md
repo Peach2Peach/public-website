@@ -6,7 +6,7 @@ keywords:
   - Comércio entre pares
 tags:
   - Rants and Opinions
-previewImage: /img/home/bitcoin-logo.png
+previewImage: /img/blog/a-rant/teaser-800x800.webp
 ---
 
 # Um desabafo - Por que Bitcoin.

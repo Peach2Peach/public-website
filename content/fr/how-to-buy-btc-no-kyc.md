@@ -428,7 +428,7 @@ The app has an easy to use wallet that you control built in, or you can use your
 
 ### Super sécurisé
 
-Peach uses Multi-Signature bitcoin addresses to make sure that the correct party can get the bitcoin if something goes wrong during the trade.
+Peach Escrow utilise des adresses bitcoin multi-signatures pour s'assurer que la bonne partie puisse récupérer les bitcoins si quelque chose se passe mal pendant la transaction.
 
 <!--[difference]-->
 
