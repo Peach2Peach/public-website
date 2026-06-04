@@ -8,7 +8,7 @@ keywords:
   - Peer-to-Peer
 tags:
   - Company
-previewImage: /img/blog/peach-expands-to-the-global-south/map.png
+previewImage: /img/blog/peach-expands-to-the-global-south/teaser.webp
 description: >
   Mit dem Start von Peach 0.3 erweitert die App ihre Reichweite in den Globalen
   Süden

@@ -6,7 +6,7 @@ keywords:
   - P2P
   - p2p
   - peer to peer
-previewImage: /img/blog/peach-expands-to-the-global-south/map.png
+previewImage: /img/blog/peach-expands-to-the-global-south/teaser.webp
 description: |
   Con il lancio di Peach 0.3, l'app sta espandendo la sua portata verso il Sud del mondo
 ---
