@@ -4,7 +4,7 @@ keywords:
   - p2p
   - p2p marketplace
   - reputation
-previewImage: /img/blog/reputation-system/5-peaches-preview.jpg
+previewImage: /img/blog/reputation-system/peach-thumbnail-reputation-system-800x800.webp
 tags:
   - Disputes
   - Ecosystem
