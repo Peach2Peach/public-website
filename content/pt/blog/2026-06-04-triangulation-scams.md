@@ -87,7 +87,7 @@ Se quiseres saber mais sobre as funcionalidades da Peach, ou ler alguns dos noss
 [Porquê P2P? O básico](https://peachbitcoin.com/pt/blog/why-p2p-chapter-1/)
 [Negociar Bitcoin em meetups com a Peach](https://peachbitcoin.com/pt/blog/peach-for-meetups/)
 
-Se quiseres saber mais sobre nós, consulta as nossas redes sociais, ou simplesmente [contacta-nos](mailto:hello@peachbitcoin.com) (usa a nossa [chave PGP](https://keys.openpgp.org/search?q=hello%40peachbitcoin.com) se possível) — teremos todo o gosto em ouvir-te!
+Se quiseres saber mais sobre nós, consulta as nossas redes sociais, ou simplesmente [contacta-nos](mailto:hello@peachbitcoin.com) (usa a nossa [chave PGP](https://keys.openpgp.org/search?q=hello%40peachbitcoin.com) se possível) teremos todo o gosto em ouvir-te!
 
 [Telegram](https://t.me/+MUnwSgwj-d04NTk0), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 
