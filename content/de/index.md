@@ -1,5 +1,6 @@
 ---
 template: index
+description: Bitcoin peer-to-peer kaufen und verkaufen ohne KYC. Peach ist ein non-custodial mobiler Marketplace für private, anonyme Bitcoin-Transaktionen — verfügbar auf iOS, Android und APK.
 ---
 
 <!--[top]-->

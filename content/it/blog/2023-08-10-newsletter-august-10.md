@@ -12,7 +12,7 @@ keywords:
   - newsletter
 tags:
   - Newsletter
-previewImage: /img/blog/newsletter/mail-post.jpg
+previewImage: /img/blog/newsletter/mail-post.png
 description: |
   Bitcoin è denaro per persone libere. Crediamo che ogni singolo essere umano abbia il diritto di scegliere quale denaro usare per conservare la sua ricchezza, il risultato del suo lavoro, del suo tempo e della sua energia.
   La missione di Peach è contribuire alla diffusione di Bitcoin nelle mani delle persone.

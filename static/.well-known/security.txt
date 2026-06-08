@@ -1,0 +1,6 @@
+Contact: mailto:gdpr@peachbitcoin.com
+Contact: mailto:hello@peachbitcoin.com
+Expires: 2027-04-19T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://peachbitcoin.com/.well-known/security.txt
+Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/48339A19645E2E53488E0E5479E1B270FACD1BD2

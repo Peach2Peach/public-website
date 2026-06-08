@@ -1,10 +1,12 @@
 const IS_DEV = process.env.NODE_ENV === 'development'
+const CANONICAL_URL = 'https://peachbitcoin.com'
 const HOST = IS_DEV ? 'http://localhost:3000' : getBaseUrl()
 
 function getBaseUrl() {
   const { DEPLOY_PRIME_URL, URL } = process.env
   const branchUrl = DEPLOY_PRIME_URL || URL || ''
-  return !branchUrl.match('master--') ? branchUrl : 'https://peachbitcoin.com'
+  if (!branchUrl || branchUrl.match('master--')) return CANONICAL_URL
+  return branchUrl
 }
 
 function getUrl(url, lang) {
@@ -91,7 +93,7 @@ const icon = symbol =>
   ['payment-blik', 'payment-swish', 'payment-twint', 'tech-peach'].includes(
     symbol
   )
-    ? `<img role="img" src="${assetPath(`/icons/${symbol}.svg`)}" />`
+    ? `<img role="img" alt="" src="${assetPath(`/icons/${symbol}.svg`)}" />`
     : `<svg role="img"><use href="${assetPath(
         '/img/icons.svg'
       )}#${symbol}"></use></svg>`

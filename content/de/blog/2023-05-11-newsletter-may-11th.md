@@ -13,7 +13,7 @@ keywords:
   - Newsletter
 tags:
   - Newsletter
-previewImage: /img/blog/newsletter/mail-post.jpg
+previewImage: /img/blog/newsletter/mail-post.png
 description: |
   Bitcoin ist Geld für freie Menschen. Wir glauben, dass jedes einzelne menschliche Wesen das Recht hat zu wählen, welches Geld es verwendet, um seinen Reichtum zu speichern, das
   Ergebnis seiner Arbeit, seiner Zeit und Energie.

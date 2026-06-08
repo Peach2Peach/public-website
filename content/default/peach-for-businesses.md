@@ -11,9 +11,9 @@ Some of the benefits you can enjoy by using the services provided by Peach Busin
 ::::figures 3
 :::box tech-peach
 
-### High Liquidity available
+### Probably the arbitrage in P2P market
 
-More than 900 open buy offers 24h a day
+Consistent opening of new motivated buy offers 24h a day
 :::
 
 :::box tech-peach
@@ -36,7 +36,7 @@ Bring more users and increase your revenue with a custom referral code
 
 Integrate Peach directly into your systems with our easy-to-use Public [API](https://docs.peachbitcoin.com/#introduction) or one of the community-developed API wrappers in different languages 
 [Typescript](https://github.com/Peach2Peach/peach-api-ts)  
-[.NET](https://github.com/p2payserver/peachclient-net)  
+[.NET](https://github.com/0x4C6F6B69/peach-client-net)  
 :::
 
 :::box tech-peach

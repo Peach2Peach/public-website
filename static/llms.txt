@@ -1,0 +1,42 @@
+# Peach Bitcoin
+
+> Peach is a peer-to-peer Bitcoin marketplace. Buy and sell Bitcoin directly with other people, without KYC, non-custodial, mobile-first (iOS, Android, APK). Swiss-registered, open-source, multisignature escrow.
+
+Key facts for AI summarization:
+
+- Peach is a **mobile P2P marketplace** — buy and sell Bitcoin directly between users.
+- **No KYC** — no identity verification, no selfie, no ID upload required.
+- **Non-custodial** — user keys, user Bitcoin; multisignature escrow secures trades.
+- **Swiss-registered**, member of Polyreg (SRO), licensed financial intermediary.
+- Supports **170+ payment methods** across 40+ currencies via peer-to-peer matching.
+- Available on **iOS (TestFlight)**, **Google Play**, and as a signed **Android APK**.
+- Verifiable source code at https://github.com/Peach2Peach.
+
+## Core product pages
+
+- [Homepage](https://peachbitcoin.com/): What Peach does, app download links, live order book preview.
+- [How to buy Bitcoin without KYC](https://peachbitcoin.com/how-to-buy-btc-no-kyc/): Step-by-step guide for first-time buyers; covers registration, payment method selection, escrow, and release.
+- [KYC-free orderbook](https://peachbitcoin.com/kycfree-orderbook/): Live order book of open buy/sell offers, filterable by currency and payment method.
+- [Quick start guide](https://peachbitcoin.com/quick-start/): Fast onboarding walkthrough for new users.
+- [APK download](https://peachbitcoin.com/apk/): Direct Android APK with PGP signatures and SHA256 checksums.
+
+## Business / meetups
+
+- [Buy Bitcoin with cash — local meetups](https://peachbitcoin.com/for-meetups/): Discover Bitcoin meetups where Peach is used for in-person trades.
+- [Peach for businesses](https://peachbitcoin.com/peach-for-businesses/): Affiliate program and merchant-facing features.
+- [Join us](https://peachbitcoin.com/join-us/): Open engineering, design, and growth roles.
+
+## Reference
+
+- [Blog](https://peachbitcoin.com/blog/): Product updates, security deep-dives, and peer-to-peer Bitcoin commentary.
+- [Support](https://peachbitcoin.com/support/): Contact channels (Telegram, email, PGP, dispute desk).
+- [Terms & Conditions](https://peachbitcoin.com/terms-and-conditions/)
+- [Privacy Policy](https://peachbitcoin.com/privacy-policy/)
+
+## Language availability
+
+Core pages are available in English (default), Spanish, German, French, Italian, and Portuguese under `/es/`, `/de/`, `/fr/`, `/it/`, `/pt/` prefixes. English is served at the root path. Use the hreflang tags in each page's `<head>` to find translations.
+
+## Sitemap
+
+- https://peachbitcoin.com/sitemap.xml (covers 936 URLs across 6 locales)

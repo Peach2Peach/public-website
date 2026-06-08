@@ -1,5 +1,8 @@
 ---
 template: text
+title: Términos y Condiciones
 ---
 
-No Spanish version available, please check the English version.
+# Términos y Condiciones
+
+No Spanish version available, please check the [English version](/terms-and-conditions/).

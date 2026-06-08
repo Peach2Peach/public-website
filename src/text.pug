@@ -3,4 +3,7 @@ extends /template.pug
 block main
   section.wrap
     .content-wrap
+      - const _textHasH1 = typeof html === 'string' && /<h1[\s>]/i.test(html)
+      if title && !_textHasH1
+        h1= title
       != html

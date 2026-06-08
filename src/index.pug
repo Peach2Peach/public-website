@@ -112,22 +112,13 @@ block teaser
 
   script.
     document.addEventListener('DOMContentLoaded', function() {
-      let userLocale = navigator.language || navigator.userLanguage;
-      const supportedLocales = ['es', 'de', 'it', 'fr', 'pt'];
-      let pathLocale = userLocale.split('-')[0];
-
-      let currentPath = window.location.pathname;
-      let redirected = sessionStorage.getItem('redirected'); // Check if redirected before
-
-      if (!redirected) { // If not redirected before
-        if (currentPath === '/') {
-          if (pathLocale === 'en') {
-            window.location.pathname = '/index.html'; // routing to english
-          } else if (supportedLocales.includes(pathLocale)) {
-            window.location.pathname = '/' + pathLocale; // Redirect to the right language always if supported
-          }
-          sessionStorage.setItem('redirected', 'true'); // Set redirected in sessionstorage / die at every session
-        }
+      if (window.location.pathname !== '/') return;
+      if (sessionStorage.getItem('redirected')) return;
+      var supportedLocales = ['es', 'de', 'it', 'fr', 'pt'];
+      var browserLang = (navigator.language || navigator.userLanguage || '').split('-')[0];
+      sessionStorage.setItem('redirected', 'true');
+      if (supportedLocales.includes(browserLang)) {
+        window.location.replace('/' + browserLang + '/');
       }
     });
 
@@ -175,7 +166,7 @@ block main
         img.features-img(src="/img/home/certificated_icon.svg" alt="Certificated Icon" loading="lazy")
         div.features-card-texts
           span.features-card-title !{i18n('home.features.registeredCompany', lang)}
-            img(src="/img/flags/switzerland-icon.svg")
+            img(src="/img/flags/switzerland-icon.svg" alt="Swiss flag")
           p.features-card-text !{i18n('home.features.licensedProvider', lang)} 
 
   script.
@@ -222,7 +213,7 @@ block main
           img.section-three-image-money(src="/img/home/money.png" alt="Rotated Image 1" loading="lazy")
           img.section-three-image-money-bag(src="/img/home/money-bag.png" alt="Rotated Image 2" loading="lazy")
         div.section-three-text-container
-          h1.section-three-title !{i18n('home.sectionThree.title', lang)}
+          h2.section-three-title !{i18n('home.sectionThree.title', lang)}
           p.section-three-description 
             | !{i18n('home.sectionThree.description.part1', lang)}
             br

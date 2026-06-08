@@ -36,7 +36,7 @@ Amenez plus d'utilisateurs et augmentez vos revenus avec un code de parrainage p
 
 Intégrez Peach directement à vos systèmes grâce à notre [API](https://docs.peachbitcoin.com/#introduction) publique facile à utiliser ou à l'un des wrappers d'API développés par la communauté dans différentes langues.  
 [Typescript](https://github.com/Peach2Peach/peach-api-ts)  
-[.NET](https://github.com/p2payserver/peachclient-net)  
+[.NET](https://github.com/0x4C6F6B69/peach-client-net)  
 :::
 
 :::box tech-peach
