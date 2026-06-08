@@ -4,7 +4,7 @@ template: text
 
 # Privacy Policy
 
-This privacy policy was last updated on **March 31st, 2026**
+This privacy policy was last updated on **June 8th, 2026**
 
 ## 0. Summary
 
@@ -211,10 +211,11 @@ Your privacy is important to us, and we want to inform you about our data retent
 
 ### What data we retain
 
-- the order book
-- encrypted data (which we cannot encrypt unless a dispute is opened: payment data, chat data)
-- hashed data (unique device id and payment data)
-- dispute information of suspected accounts and behaviors
+- The order book
+- Encrypted payment data and chat data of every trade and published offer.
+- Hashed data of the unique device id and the payment data of the advertiser and of the counterparty.
+- In case of a dispute, both parties payment data and chat data are stored encrypted on the database but with Peach ability to decrypt them everytime it is needed.
+- In case of an "Instant trade" offer, the advertiser's payment data are stored encrypted on the database but with Peach ability to decrypt them. 
 
 ### Your data privacy
 
