@@ -4,7 +4,7 @@ keywords:
   - carteira
 tags:
   - Product
-previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.png
+previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.webp
 description: >
   Nossa carteira recebeu uma atualização significativa trazendo uma série de
   recursos para o Peach, tornando ainda mais fácil para iniciantes acumularem

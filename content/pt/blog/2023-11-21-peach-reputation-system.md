@@ -4,7 +4,7 @@ keywords:
   - p2p
   - troca p2p
   - reputação
-previewImage: /img/blog/reputation-system/5-peaches-preview.jpg
+previewImage: /img/blog/reputation-system/peach-thumbnail-reputation-system-800x800.webp
 description: |
   Acreditamos que um bom sistema de reputação não pode ser manipulado. Para sublinhar essa crença e demonstrar nossa confiança, queremos ser transparentes com você e expor os mecanismos básicos para ajudá-lo a entender como suas ações impactam sua pontuação de reputação.
 ---

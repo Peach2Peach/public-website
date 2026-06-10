@@ -6,7 +6,7 @@ keywords:
   - scambio p2p
 tags:
   - Education
-previewImage: /img/blog/why-p2p/fungibility.png
+previewImage: /img/blog/why-p2p/fungibility.webp
 description: >
   Bitcoin è denaro per persone libere. Crediamo che ogni singolo essere umano
   abbia il diritto di scegliere quale denaro utilizzare per conservare la
@@ -29,7 +29,7 @@ In questa serie di post sul blog andremo un po' più a fondo su cosa significhi 
 
 Nel capitolo odierno, vogliamo esplorare brevemente il concetto di Fungibilità.
 
-![oro](/img/blog/why-p2p/fungibility.png)
+![Monete di Bitcoin identiche accanto a una pila di lingotti d'oro su un'isola fluttuante al tramonto, a illustrare la fungibilità](/img/blog/why-p2p/fungibility.webp)
 
 > In economia, la fungibilità è la proprietà di un bene o di una merce le cui unità individuali sono essenzialmente intercambiabili, e ciascuna delle sue parti è indistinguibile da qualsiasi altra parte.
 

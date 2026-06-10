@@ -4,7 +4,8 @@ keywords:
   - p2p
   - p2p marketplace
   - reputation
-previewImage: /img/blog/reputation-system/5-peaches-preview.jpg
+previewImage: /img/blog/reputation-system/peach-thumbnail-reputation-system-800x800.webp
+ogImage: /img/blog/reputation-system/hero.webp
 tags:
   - Disputes
   - Ecosystem
@@ -17,6 +18,8 @@ description: >
 ---
 
 # The peach reputation system
+
+![A Peach Bitcoin reputation card showing a user's 4.1 peach rating and earned badges: supertrader, fast trader, early adopter and repeat trader](/img/blog/reputation-system/hero.webp)
 
 We believe a good reputation system cannot be gamed. To underline that believe we and demonstrate our confidence, want to be open with you and lay out the basic mechanisms to help you understand how your actions impact your reputation score.
 

@@ -6,3 +6,6 @@
 
 .DS_Store
 .env
+
+# Local Claude Code skills (symlinked to ~/CLAUDE/.claude/skills, machine-specific)
+/.claude/skills/

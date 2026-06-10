@@ -12,7 +12,7 @@ keywords:
   - de igual a igual
 tags:
   - Product
-previewImage: /img/blog/lightning.jpeg
+previewImage: /img/blog/lightningswaps.webp
 description: >
   Bitcoin es dinero para personas libres. Creemos que cada ser humano tiene el
   derecho de elegir el dinero que utiliza para almacenar su

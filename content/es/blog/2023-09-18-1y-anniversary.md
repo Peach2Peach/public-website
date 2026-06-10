@@ -10,7 +10,7 @@ keywords:
   - trading
 tags:
   - Company
-previewImage: /img/blog/1y-anniversary/cake.jpeg
+previewImage: /img/blog/1y-anniversary/teaser.webp
 description: >
   Lee la historia completa de cómo los miembros del equipo de Peach lograron
   sobrevivir durante 1 año construyendo sobre un estándar de Bitcoin.

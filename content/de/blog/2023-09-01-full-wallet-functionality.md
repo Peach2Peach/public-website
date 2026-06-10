@@ -4,7 +4,7 @@ keywords:
   - wallet
 tags:
   - Product
-previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.png
+previewImage: /img/blog/full-wallet-functionality/a-wallet-you-control.webp
 description: >
   Unser Wallet hat ein bedeutendes Upgrade erhalten, das Peach eine Vielzahl
   neuer Funktionen bringt und es Anfängern noch einfacher macht, auf die

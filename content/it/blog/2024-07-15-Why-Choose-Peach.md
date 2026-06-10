@@ -11,7 +11,7 @@ keywords:
   - Bitcoin è sicuro dall'exploitation?
 tags:
   - Company
-previewImage: /img/home/bitcoin-logo.png
+previewImage: /img/blog/why-choose-peach/peach-thumbnail-why-choose-peach-800x800.webp
 description: >
   Esplora il mondo innovativo di Bitcoin, un software pionieristico open-source
   che facilita una valuta digitale e decentralizzata attraverso una rete

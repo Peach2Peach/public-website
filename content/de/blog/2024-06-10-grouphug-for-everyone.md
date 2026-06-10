@@ -7,7 +7,7 @@ keywords:
 tags:
   - Product
   - GroupHug
-previewImage: /img/blog/group-hug/teaser.png
+previewImage: /img/blog/group-hug/teaser.webp
 description: >
   Mit GroupHug bündeln wir Treuhandfreigaben für niedrigere
   Transaktionsgebühren. Opt-in, warte ein wenig, spare mehr. Du hast die

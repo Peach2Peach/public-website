@@ -5,7 +5,7 @@ keywords:
   - échange p2p
   - réputation
   - peach
-previewImage: /img/blog/reputation-system/5-peaches-preview.jpg
+previewImage: /img/blog/reputation-system/peach-thumbnail-reputation-system-800x800.webp
 description: |
   Nous croyons qu'un bon système de réputation ne peut pas être manipulé. Pour souligner cette conviction et démontrer notre confiance, nous souhaitons être transparents avec vous et vous expliquer les mécanismes de base pour vous aider à comprendre comment vos actions influencent votre score de réputation.
 ---

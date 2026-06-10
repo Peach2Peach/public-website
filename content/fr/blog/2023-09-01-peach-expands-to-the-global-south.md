@@ -8,7 +8,7 @@ keywords:
   - pair à pair
 tags:
   - Company
-previewImage: /img/blog/peach-expands-to-the-global-south/map.png
+previewImage: /img/blog/peach-expands-to-the-global-south/teaser.webp
 description: >
   Avec le lancement de Peach 0.3, l'application étend sa portée vers le Sud
   global

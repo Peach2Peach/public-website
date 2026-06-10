@@ -7,7 +7,7 @@ keywords:
   - Bitcoin è sicuro dallo sfruttamento?
 tags:
   - How To
-previewImage: /img/home/bitcoin-logo.png
+previewImage: /img/blog/bitcoin-explained-in-24/peach-thumbnail-bitcoin-explained-in-24-800x800.webp
 description: >
   Esplora il mondo innovativo di Bitcoin, un software open-source pionieristico
   che facilita una valuta digitale e decentralizzata attraverso una rete

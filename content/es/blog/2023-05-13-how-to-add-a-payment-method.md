@@ -7,7 +7,7 @@ keywords:
   - Intercambios entre pares
 tags:
   - How To
-previewImage: /img/blog/how-to-add-a-payment-method/teaser.jpg
+previewImage: /img/blog/how-to-add-a-payment-method/peach-blog-add-payment-method-1024x1024.webp
 helpFooter: true
 description: >
   Uno podría preguntarse, ¿por qué queremos agregar otros métodos de pago en

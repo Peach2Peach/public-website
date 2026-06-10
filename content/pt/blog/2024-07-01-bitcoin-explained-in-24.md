@@ -7,7 +7,7 @@ keywords:
   - Bitcoin é seguro contra exploração?
 tags:
   - How To
-previewImage: /img/home/bitcoin-logo.png
+previewImage: /img/blog/bitcoin-explained-in-24/peach-thumbnail-bitcoin-explained-in-24-800x800.webp
 description: >
   Explore o mundo inovador do Bitcoin, um software de código aberto pioneiro que
   facilita uma moeda digital e descentralizada através de uma rede global.

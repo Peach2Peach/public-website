@@ -6,7 +6,7 @@ keywords:
   - P2P
 tags:
   - Newsletter
-previewImage: /img/blog/peachy-christmas-bitcoiners/xmas-peach-logo.png
+previewImage: /img/blog/peachy-christmas-bitcoiners/xmas-peach-logo-1x1.png
 ---
 
 ![](/img/blog/peachy-christmas-bitcoiners/xmas-peach-logo.png)

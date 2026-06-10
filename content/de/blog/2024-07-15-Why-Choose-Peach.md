@@ -11,7 +11,7 @@ keywords:
   - Ist Bitcoin sicher vor Ausbeutung?
 tags:
   - Company
-previewImage: /img/home/bitcoin-logo.png
+previewImage: /img/blog/why-choose-peach/peach-thumbnail-why-choose-peach-800x800.webp
 description: >
   Entdecken Sie die innovative Welt von Bitcoin, einer wegweisenden
   Open-Source-Software, die eine digitale und dezentrale Währung über ein

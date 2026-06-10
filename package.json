@@ -12,7 +12,7 @@
     "dist": "dist",
     "port": "3000"
   },
-"scripts": {
+  "scripts": {
     "clean": "rm -rf rev-manifest.json site-data.json dist/*",
     "init": "npm-run-all clean -p build:data build:styles build:static build:icons build:faq-index build:blog-index",
     "start": "NODE_ENV=development npm-run-all init -p start:* redirects",

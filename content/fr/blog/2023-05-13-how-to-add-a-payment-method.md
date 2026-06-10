@@ -7,7 +7,7 @@ keywords:
   - Échanges pair à pair
 tags:
   - How To
-previewImage: /img/blog/how-to-add-a-payment-method/teaser.jpg
+previewImage: /img/blog/how-to-add-a-payment-method/peach-blog-add-payment-method-1024x1024.webp
 helpFooter: true
 description: >
   On se demande d'abord pourquoi voudrions-nous ajouter d'autres méthodes de

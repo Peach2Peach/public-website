@@ -11,7 +11,7 @@ keywords:
   - ¿Es Bitcoin seguro contra la explotación?
 tags:
   - Company
-previewImage: /img/home/bitcoin-logo.png
+previewImage: /img/blog/why-choose-peach/peach-thumbnail-why-choose-peach-800x800.webp
 description: >
   Explora el innovador mundo de Bitcoin, un software pionero de código abierto
   que facilita una moneda digital y descentralizada a través de una red global.

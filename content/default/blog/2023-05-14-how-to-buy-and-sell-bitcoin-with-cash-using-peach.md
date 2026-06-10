@@ -7,7 +7,8 @@ keywords:
   - Peer to peer trades
 tags:
   - How To
-previewImage: /img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/teaser.jpg
+previewImage: /img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/teaser.webp
+ogImage: /img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/og.webp
 helpFooter: true
 description: |
   Peach provides “meeting points” for users where it is recommended to trade with cash, for security reasons. This meeting points are already
@@ -19,6 +20,8 @@ description: |
 
 Disclaimer: The process to add a new meetup as a payment method is the same for both buyer and seller. Once the meetup is added, both
 counterparts need to follow the usual Peach process to publish their trade and find a trading partner.
+
+![Two friendly people trading Bitcoin for cash face-to-face at a local meetup, with a peach Bitcoin coin and a map pin over a city skyline](/img/blog/how-to-buy-and-sell-bitcoin-with-cash-using-peach/hero.webp)
 
 ## Intro
 

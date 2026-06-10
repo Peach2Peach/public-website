@@ -9,7 +9,7 @@ keywords:
   - p2p marketplace
 tags:
   - Education
-previewImage: /img/blog/why-p2p/sustainable-economy.png
+previewImage: /img/blog/why-p2p/sustainable-economy2.webp
 description: |
   Bitcoin is money for free people. We believe that every single human being has the right to choose which money he uses to store his wealth, the
   result of his work, his time and energy.

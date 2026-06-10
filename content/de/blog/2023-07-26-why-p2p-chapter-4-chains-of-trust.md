@@ -12,7 +12,7 @@ keywords:
   - Peer-to-Peer
 tags:
   - Education
-previewImage: /img/blog/why-p2p/connections.jpg
+previewImage: /img/blog/why-p2p/chains-of-trust.webp
 description: >
   Bitcoin ist Geld für freie Menschen. Wir glauben, dass jeder Mensch das Recht
   hat zu wählen, welches Geld er verwendet, um sein Vermögen zu speichern,

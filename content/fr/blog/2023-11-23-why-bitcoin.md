@@ -6,7 +6,7 @@ keywords:
   - Échanges pair à pair
 tags:
   - Rants and Opinions
-previewImage: /img/home/bitcoin-logo.png
+previewImage: /img/blog/a-rant/teaser-800x800.webp
 ---
 
 # Un coup de gueule - Pourquoi le Bitcoin.

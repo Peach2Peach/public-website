@@ -7,7 +7,7 @@ keywords:
   - Is Bitcoin secure from exploitation?
 tags:
   - How To
-previewImage: /img/home/bitcoin-logo.png
+previewImage: /img/blog/bitcoin-explained-in-24/peach-thumbnail-bitcoin-explained-in-24-800x800.webp
 description: >
   Explore the innovative world of Bitcoin, a pioneering open-source software
   that facilitates a digital and decentralized currency across a global network.
