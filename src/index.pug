@@ -149,6 +149,21 @@ block main
           img(src="/img/home/android.svg" alt="Android Icon" loading="lazy")
           span.primary-button-text !{i18n('home.downloadPeach.downloadAPK', lang)}
 
+  section.wrap.webapp-promo-content
+    div.webapp-promo-text-container
+      span.webapp-promo-text-title.peach-text !{i18n('home.webApp.title', lang)}
+      span.webapp-promo-text-subtitle !{i18n('home.webApp.subtitle1', lang)}
+      span.webapp-promo-text-subtitle !{i18n('home.webApp.subtitle2', lang)}
+
+      div.webapp-promo-button-group
+        a.primary-button(href="https://web.peachbitcoin.com" target="_blank" rel="noopener")
+          span.primary-button-text !{i18n('home.webApp.launchButton', lang)}
+          +sprite("external-link")
+        a.webapp-promo-learn-more(href=getUrl("/web-app/", lang)) !{i18n('home.webApp.learnMore', lang)}
+    div.webapp-promo-image-container
+      //- placeholder — swap src for /img/home/webapp-preview.png when final artwork lands in static/img/home/
+      img.webapp-promo-image(src="/img/web-app/web-app-screenshot.svg" alt=i18n('home.webApp.imageAlt', lang).replace(/&nbsp;/g, ' ') width="1200" height="720" loading="lazy")
+
   section.wrap.features-container
     div.features-card
       img.features-img(src="/img/home/code_icon.svg" alt="Code Icon" loading="lazy")
@@ -255,10 +270,19 @@ block main
     document.addEventListener('DOMContentLoaded', () => {
       const carouselContainer = document.querySelector('.carousel-right')
       const carouselButtons = document.querySelectorAll('.carousel-button')
+      const carouselButtonsContainer = document.querySelector('.carousel-buttons')
 
       carouselButtons.forEach(button => button.addEventListener('click', (e) => {
         scrollCarousel(button.id === 'carouselButtonLeft' ? 'left' : 'right')
       }))
+
+      function updateCarouselButtons() {
+        const overflows = carouselContainer.scrollWidth > carouselContainer.clientWidth
+        carouselButtonsContainer.style.display = overflows ? '' : 'none'
+      }
+
+      updateCarouselButtons()
+      window.addEventListener('resize', updateCarouselButtons)
 
       function scrollCarousel(direction) {
         const scrollAmount = 465

@@ -79,6 +79,12 @@
     }
   }
 
+  #easy_registration {
+    & h3 {
+      font-size: calc(var(--font-size-l) * 2);
+    }
+  }
+
   #payment {
     --icon-size: 3rem;
     margin-top: var(--space-l);

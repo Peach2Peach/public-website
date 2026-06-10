@@ -1,0 +1,111 @@
+extends /template.pug
+
+block append vars
+  - const hasTeaser = false
+
+block main
+  section.wrap.web-app-hero
+    .web-app-hero-inner
+      h1.web-app-hero-title.peach-text !{i18n('webApp.hero.title', lang)}
+      p.web-app-hero-subtitle !{i18n('webApp.hero.subtitle', lang)}
+      .web-app-hero-actions
+        a.button.button--primary(href="https://web.peachbitcoin.com" target="_blank" rel="noopener")
+          span !{i18n('webApp.hero.launchButton', lang)}
+          +sprite("external-link")
+        a.web-app-hero-secondary(href=`${getUrl("/", lang)}#download-buttons`) !{i18n('webApp.hero.getMobileApp', lang)}
+    .web-app-hero-visual
+      .web-app-browser
+        .web-app-browser-bar
+          .web-app-browser-dots
+            span
+            span
+            span
+          span.web-app-browser-url web.peachbitcoin.com
+        //- placeholder mockup — swap src for the real app screenshot when available
+        img.web-app-browser-screen(src="/img/web-app/web-app-screenshot.svg" alt=i18n('webApp.hero.screenshotAlt', lang).replace(/&nbsp;/g, ' ') width="1200" height="720")
+      .web-app-paired-badge
+        span.web-app-paired-dot
+        span !{i18n('webApp.hero.pairedBadge', lang)}
+    ul.web-app-trust
+      li
+        a(href="https://github.com/Peach2Peach" target="_blank" rel="noreferrer noopener")
+          +sprite("social-github")
+          span !{i18n('webApp.trust.openSource', lang)}
+      li
+        +sprite("privacy")
+        span !{i18n('webApp.trust.escrow', lang)}
+      li
+        img(src="/img/flags/switzerland-icon.svg" alt="" width="20" height="20")
+        span !{i18n('webApp.trust.swiss', lang)}
+
+  section.wrap.web-app-features
+    .web-app-feature-card
+      .web-app-feature-icon
+        +sprite("layout-grid")
+      h2.web-app-feature-title !{i18n('webApp.features.orderBook.title', lang)}
+      p.web-app-feature-text !{i18n('webApp.features.orderBook.text', lang)}
+    .web-app-feature-card
+      .web-app-feature-icon
+        +sprite("devices")
+      h2.web-app-feature-title !{i18n('webApp.features.synced.title', lang)}
+      p.web-app-feature-text !{i18n('webApp.features.synced.text', lang)}
+    .web-app-feature-card
+      .web-app-feature-icon
+        +sprite("privacy")
+      h2.web-app-feature-title !{i18n('webApp.features.selfCustody.title', lang)}
+      p.web-app-feature-text !{i18n('webApp.features.selfCustody.text', lang)}
+
+  section.wrap.web-app-how
+    h2.web-app-how-title.peach-text !{i18n('webApp.howItWorks.title', lang)}
+    .web-app-how-grid
+      ol.web-app-steps
+        li.web-app-step
+          span.web-app-step-number 1
+          .web-app-step-body
+            h3.web-app-step-title !{i18n('webApp.howItWorks.step1.title', lang)}
+            p.web-app-step-text !{i18n('webApp.howItWorks.step1.text', lang)}
+        li.web-app-step
+          span.web-app-step-number 2
+          .web-app-step-body
+            h3.web-app-step-title !{i18n('webApp.howItWorks.step2.title', lang)}
+            p.web-app-step-text !{i18n('webApp.howItWorks.step2.text', lang)}
+      .web-app-how-visual
+        .web-app-qr-card
+          .web-app-qr-bar
+            .web-app-browser-dots
+              span
+              span
+              span
+            span.web-app-qr-url web.peachbitcoin.com
+          //- decorative mock QR — deliberately not scannable; the real pairing
+          //- QR is session-specific and only shown at web.peachbitcoin.com
+          .web-app-qr
+            svg(viewBox="0 0 21 21" role="presentation" focusable="false")
+              path(fill="currentColor" fill-rule="evenodd" d="M0 0h7v7H0zM1 1v5h5V1z")
+              path(fill="currentColor" d="M2 2h3v3H2z")
+              path(fill="currentColor" fill-rule="evenodd" d="M14 0h7v7h-7zM15 1v5h5V1z")
+              path(fill="currentColor" d="M16 2h3v3h-3z")
+              path(fill="currentColor" fill-rule="evenodd" d="M0 14h7v7H0zM1 15v5h5v-5z")
+              path(fill="currentColor" d="M2 16h3v3H2z")
+              path(fill="currentColor" d="M9 0h1v1H9zM11 1h1v1h-1zM9 3h2v1H9zM12 2h1v2h-1zM10 5h1v2h-1zM12 6h1v1h-1zM0 9h1v1H0zM2 9h2v1H2zM5 10h2v1H5zM1 11h1v2H1zM3 12h1v1H3zM9 8h1v2H9zM11 9h2v1h-2zM14 9h1v1h-1zM16 9h2v1h-2zM19 10h2v1h-2zM9 11h1v1H9zM12 11h1v2h-1zM15 12h2v1h-2zM18 12h1v2h-1zM10 13h1v1h-1zM14 14h1v2h-1zM16 15h2v1h-2zM20 14h1v1h-1zM9 15h1v2H9zM11 16h2v1h-2zM19 16h1v2h-1zM9 18h1v1H9zM12 18h1v2h-1zM14 18h2v1h-2zM17 18h1v1h-1zM10 20h2v1h-2zM15 20h1v1h-1zM18 20h2v1h-2z")
+
+  section.wrap.web-app-faq
+    h2.web-app-faq-title.peach-text !{i18n('webApp.faq.title', lang)}
+    .web-app-faq-list
+      each n in [1, 2, 3, 4, 5]
+        details
+          summary
+            span.title !{i18n(`webApp.faq.q${n}`, lang)}
+            span.marker
+          article
+            p !{i18n(`webApp.faq.a${n}`, lang)}
+
+  section.wrap.web-app-cta
+    .web-app-cta-band
+      h2.web-app-cta-title !{i18n('webApp.cta.title', lang)}
+      p.web-app-cta-subtitle !{i18n('webApp.cta.subtitle', lang)}
+      .web-app-cta-actions
+        a.button.button--white(href="https://web.peachbitcoin.com" target="_blank" rel="noopener")
+          span !{i18n('webApp.hero.launchButton', lang)}
+          +sprite("external-link")
+        a.web-app-cta-secondary(href=`${getUrl("/", lang)}#download-buttons`) !{i18n('webApp.hero.getMobileApp', lang)}
