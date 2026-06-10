@@ -3,14 +3,6 @@ title: Wie es funktioniert
 template: how_it_works
 ---
 
-<!--[teaser]-->
-
-![Buy and Sell Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
-
-### Sats stapeln <span>jeden Tag</span>!
-
-**Kaufe und verkaufe bis zu 1 000 CHF pro Tag und 100 000 CHF pro Jahr.**
-
 <!--[easy_registration]-->
 
 ### Einfache Registrierung

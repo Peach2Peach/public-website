@@ -3,14 +3,6 @@ title: Comment ça marche
 template: how_it_works
 ---
 
-<!--[teaser]-->
-
-![Buy and Sell Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
-
-### Accumule des sats <span>tous les jours</span>!
-
-**Achète et vends jusqu’à 1 000 CHF par jour et 100 000 CHF par an.**
-
 <!--[easy_registration]-->
 
 ### Inscription facile
