@@ -12,16 +12,16 @@ Alguns dos benefícios que você pode aproveitar usando os serviços fornecidos 
 ::::figures 3
 :::box tech-peach
 
-### Alta Liquidez disponível
+### Provavelmente a melhor arbitragem do mercado P2P
 
-Mais de 900 ofertas de compra abertas 24 horas por dia
+Abertura constante de novas ofertas de compra motivadas durante todo o ano
 :::
 
 :::box tech-peach
 
-### Agente Dedicado para você
+### Agentes dedicados de suporte e disputas
 
-Suporte dedicado 1 a 1, 24/7
+Agentes de suporte dedicados 24/7
 :::
 
 :::box tech-peach

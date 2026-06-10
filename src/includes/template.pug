@@ -146,9 +146,24 @@ html(lang=lang)
             path.line--2(d="M0 50h99")
             path.line--3(d="M0 30l28 28c2 2 2 2 7 2h64")
         nav.nav
-          +navItem("how-to-buy-btc-no-kyc", i18n("howItWorks", lang))
-          +navItem("for-meetups", i18n("forMeetups", lang))
-          +navItem("for-businesses", i18n("forBusinesses", lang))
+          div.nav-dropdown
+            input(type="checkbox" id="buy-sell-toggle" class="checkbox")
+            label(for="buy-sell-toggle" class="nav-dropdown-label")
+              span= i18n("nav.buySell", lang)
+              svg(
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                width="16"
+                height="16"
+                fill="currentColor"
+              )
+                path(d="M7 10l5 5 5-5z")
+            ul.nav-dropdown-menu
+              li
+                +navItem("how-to-buy-btc-no-kyc", i18n("nav.apps", lang))
+              li
+                +navItem("for-meetups", i18n("nav.meetup", lang))
+          +navItem("for-businesses", i18n("nav.vip", lang))
           +navItem("kycfree-orderbook", i18n("orderbook.navTitle", lang))
           +navItem("blog", i18n("blog", lang))
           +navItem("support", i18n("support", lang))
