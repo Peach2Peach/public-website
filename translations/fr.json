@@ -11,7 +11,8 @@
   "nav.buySell": "Acheter et vendre BTC",
   "nav.apps": "Apps",
   "nav.meetup": "Trouvez votre meetup local",
-  "nav.vip": "VIP",
+  "nav.vip": "Vendeurs VIP",
+  "nav.webApp": "WebApp",
   "blog": "Blog",
   "support": "Support",
   "community": "Communauté",
@@ -99,7 +100,7 @@
   "home.downloadPeach.downloadAPK": "Télécharger l'APK",
   "home.webApp.title": "Associez votre ordinateur",
   "home.webApp.subtitle1": "Échangez du bitcoin en P2P directement depuis votre navigateur — le carnet d'ordres complet sur grand écran, synchronisé avec votre app mobile Peach.",
-  "home.webApp.subtitle2": "Même auto-conservation, toujours sans KYC. Associez une fois en scannant un code QR et c'est parti.",
+  "home.webApp.subtitle2": "Même auto-conservation, toujours sans KYC. Associez votre téléphone en scannant un code QR et c'est parti.",
   "home.webApp.launchButton": "Lancer la web app",
   "home.webApp.learnMore": "En savoir plus sur la web app",
   "home.webApp.imageAlt": "La web app Peach affichant le carnet d'ordres bitcoin dans un navigateur de bureau",
@@ -215,5 +216,5 @@
   "webApp.faq.q5": "La web app coûte-t-elle quelque chose en plus ?",
   "webApp.faq.a5": "Non. La web app est gratuite et les frais de transaction sont exactement les mêmes que dans l'app mobile.",
   "webApp.cta.title": "Prêt à échanger sur grand écran ?",
-  "webApp.cta.subtitle": "Connectez votre téléphone une fois — votre carnet d'ordres vous attend."
+  "webApp.cta.subtitle": "Connectez votre téléphone, votre carnet d'ordres vous attend."
 }

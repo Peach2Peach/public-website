@@ -44,6 +44,21 @@
   }
 }
 
+@define-mixin peach-button-ghost {
+  color: var(--color-neutral-65);
+  background: transparent;
+  border: 1.5px solid var(--color-border-medium);
+  /* compensate border so ghost buttons match filled-button height */
+  padding: calc(var(--space-xs) - 1.5px) calc(var(--space-l) - 1.5px);
+
+  &:focus,
+  &:hover {
+    color: var(--color-primary-main);
+    border-color: var(--color-primary-main);
+    background: transparent;
+  }
+}
+
 @define-mixin peach-text {
   font-weight: var(--font-weight-bold);
   background: var(--bg-gradient-peachy);

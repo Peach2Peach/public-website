@@ -79,9 +79,46 @@
     }
   }
 
-  #easy_registration {
+  #easy_registration,
+  #web_app {
     & h3 {
       font-size: calc(var(--font-size-l) * 2);
+    }
+  }
+
+  #web_app {
+    /* undo the nth-child(odd) flip: copy left, image right */
+    & .content-wrap--flex {
+      @media (--M_and_up) {
+        & figure {
+          order: 1;
+        }
+
+        & div {
+          order: 0;
+        }
+      }
+    }
+
+    & figure img {
+      width: auto;
+      height: auto;
+      max-width: 100%;
+      max-height: 28rem;
+      margin: 0 auto;
+      display: block;
+    }
+
+    & .web-app-cta-row {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: var(--space-m);
+      margin-top: var(--space-l);
+    }
+
+    & .button {
+      max-width: 15rem;
     }
   }
 

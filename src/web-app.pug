@@ -12,7 +12,7 @@ block main
         a.button.button--primary(href="https://web.peachbitcoin.com" target="_blank" rel="noopener")
           span !{i18n('webApp.hero.launchButton', lang)}
           +sprite("external-link")
-        a.web-app-hero-secondary(href=`${getUrl("/", lang)}#download-buttons`) !{i18n('webApp.hero.getMobileApp', lang)}
+        a.button.button--ghost(href=`${getUrl("/", lang)}#download-buttons`) !{i18n('webApp.hero.getMobileApp', lang)}
     .web-app-hero-visual
       .web-app-browser
         .web-app-browser-bar
@@ -21,8 +21,7 @@ block main
             span
             span
           span.web-app-browser-url web.peachbitcoin.com
-        //- placeholder mockup — swap src for the real app screenshot when available
-        img.web-app-browser-screen(src="/img/web-app/web-app-screenshot.svg" alt=i18n('webApp.hero.screenshotAlt', lang).replace(/&nbsp;/g, ' ') width="1200" height="720")
+        img.web-app-browser-screen(src="/img/web-app/webapp-screen-light-dark.webp" alt=i18n('webApp.hero.screenshotAlt', lang).replace(/&nbsp;/g, ' ') width="1600" height="838")
       .web-app-paired-badge
         span.web-app-paired-dot
         span !{i18n('webApp.hero.pairedBadge', lang)}
@@ -108,4 +107,4 @@ block main
         a.button.button--white(href="https://web.peachbitcoin.com" target="_blank" rel="noopener")
           span !{i18n('webApp.hero.launchButton', lang)}
           +sprite("external-link")
-        a.web-app-cta-secondary(href=`${getUrl("/", lang)}#download-buttons`) !{i18n('webApp.hero.getMobileApp', lang)}
+        a.button.button--ghost.web-app-cta-secondary(href=`${getUrl("/", lang)}#download-buttons`) !{i18n('webApp.hero.getMobileApp', lang)}

@@ -151,6 +151,7 @@ html(lang=lang)
             path.line--2(d="M0 50h99")
             path.line--3(d="M0 30l28 28c2 2 2 2 7 2h64")
         nav.nav
+          +navItem("web-app", i18n("nav.webApp", lang))(class="nav-cta")
           div.nav-dropdown
             input(type="checkbox" id="buy-sell-toggle" class="checkbox")
             label(for="buy-sell-toggle" class="nav-dropdown-label")

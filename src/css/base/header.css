@@ -260,6 +260,46 @@
   color: white;
 }
 
+/* WebApp CTA tab */
+.nav > a.nav-cta {
+  background-color: white;
+  color: var(--color-primary-main);
+  border-radius: 999px;
+  padding: 5px 16px;
+  font-weight: var(--font-weight-bold);
+}
+
+.nav > a.nav-cta::before {
+  content: none;
+}
+
+@media (--L_and_up) {
+  .nav > a.nav-cta {
+    color: var(--color-primary-main);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .nav > a.nav-cta:focus,
+  .nav > a.nav-cta:hover {
+    color: var(--color-primary-main);
+    text-shadow: none;
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+}
+
+@media (--up_to_L) {
+  .nav > a.nav-cta {
+    background: none;
+    border-radius: 0;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+    color: var(--color-primary-main);
+    border-bottom: 1px solid var(--color-neutral-10);
+  }
+}
+
 /* Buy & Sell dropdown */
 .nav-dropdown {
   position: relative;

@@ -11,7 +11,8 @@
   "nav.buySell": "Buy and Sell BTC",
   "nav.apps": "Apps",
   "nav.meetup": "Find your local meetup",
-  "nav.vip": "VIP",
+  "nav.vip": "VIP Sellers",
+  "nav.webApp": "WebApp",
   "blog": "Blog",
   "support": "Support",
   "community": "Community",
@@ -99,7 +100,7 @@
   "home.downloadPeach.downloadAPK": "Download APK",
   "home.webApp.title": "Pair with Your Desktop",
   "home.webApp.subtitle1": "Trade P2P bitcoin straight from your browser — the full order book on a big screen, synced with your Peach mobile app.",
-  "home.webApp.subtitle2": "Same self-custody, same no-KYC. Pair once by scanning a QR code and you're in.",
+  "home.webApp.subtitle2": "Same self-custody, same no-KYC. Pair by scanning a QR code and you're in.",
   "home.webApp.launchButton": "Launch web app",
   "home.webApp.learnMore": "Learn more about the web app",
   "home.webApp.imageAlt": "The Peach web app showing the bitcoin order book in a desktop browser",
@@ -215,5 +216,5 @@
   "webApp.faq.q5": "Does the web app cost anything extra?",
   "webApp.faq.a5": "No. The web app is free to use and trading fees are exactly the same as in the mobile app.",
   "webApp.cta.title": "Ready to trade on the big screen?",
-  "webApp.cta.subtitle": "Pair your phone once — your order book is waiting."
+  "webApp.cta.subtitle": "Pair your phone, your order book is waiting."
 }

@@ -11,7 +11,8 @@
   "nav.buySell": "Compre e venda BTC",
   "nav.apps": "Apps",
   "nav.meetup": "Encontre seu meetup local",
-  "nav.vip": "VIP",
+  "nav.vip": "Vendedores VIP",
+  "nav.webApp": "WebApp",
   "blog": "Blog",
   "support": "Suporte",
   "community": "Comunidade",
@@ -99,7 +100,7 @@
   "home.downloadPeach.downloadAPK": "Baixar APK",
   "home.webApp.title": "Pareie com seu desktop",
   "home.webApp.subtitle1": "Negocie bitcoin P2P direto do navegador — o order book completo numa tela grande, sincronizado com o app móvel da Peach.",
-  "home.webApp.subtitle2": "Mesma autocustódia, sempre sem KYC. Pareie uma vez escaneando um código QR e pronto.",
+  "home.webApp.subtitle2": "Mesma autocustódia, sempre sem KYC. Pareie escaneando um código QR e pronto.",
   "home.webApp.launchButton": "Abrir a web app",
   "home.webApp.learnMore": "Saiba mais sobre a web app",
   "home.webApp.imageAlt": "A web app da Peach mostrando o order book de bitcoin em um navegador desktop",
@@ -215,5 +216,5 @@
   "webApp.faq.q5": "A web app custa algo a mais?",
   "webApp.faq.a5": "Não. A web app é gratuita e as taxas de negociação são exatamente as mesmas do app móvel.",
   "webApp.cta.title": "Pronto para negociar na tela grande?",
-  "webApp.cta.subtitle": "Pareie seu celular uma vez — seu order book está esperando."
+  "webApp.cta.subtitle": "Pareie seu celular, seu order book está esperando."
 }

@@ -161,8 +161,7 @@ block main
           +sprite("external-link")
         a.webapp-promo-learn-more(href=getUrl("/web-app/", lang)) !{i18n('home.webApp.learnMore', lang)}
     div.webapp-promo-image-container
-      //- placeholder — swap src for /img/home/webapp-preview.png when final artwork lands in static/img/home/
-      img.webapp-promo-image(src="/img/web-app/web-app-screenshot.svg" alt=i18n('home.webApp.imageAlt', lang).replace(/&nbsp;/g, ' ') width="1200" height="720" loading="lazy")
+      img.webapp-promo-image(src="/img/web-app/desktop-sunset-webapp-screen.webp" alt=i18n('home.webApp.imageAlt', lang).replace(/&nbsp;/g, ' ') width="1600" height="1200" loading="lazy")
 
   section.wrap.features-container
     div.features-card
@@ -277,7 +276,7 @@ block main
       }))
 
       function updateCarouselButtons() {
-        const overflows = carouselContainer.scrollWidth > carouselContainer.clientWidth
+        const overflows = carouselContainer.scrollWidth > carouselContainer.clientWidth + 1
         carouselButtonsContainer.style.display = overflows ? '' : 'none'
       }
 

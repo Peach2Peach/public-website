@@ -4,12 +4,25 @@ block append vars
   - const hasTeaser = false
 
 block main
+  if title
+    h1.sr-only= title
   section.wrap#easy_registration
-    if title
-      h1.sr-only= title
     article.content-wrap.content-wrap--flex
       div!= html.easy_registration
       figure: img(src=assetPath("/img/how-it-works/easy_registration.png") alt="Easy registration — download the Peach app and start trading without KYC")
+
+  section.wrap#web_app
+    article.content-wrap.content-wrap--flex
+      div
+        h3 !{i18n('home.webApp.title', lang)}
+        p !{i18n('home.webApp.subtitle1', lang)}
+        p !{i18n('home.webApp.subtitle2', lang)}
+        .web-app-cta-row
+          a.button.button--primary(href="https://web.peachbitcoin.com" target="_blank" rel="noopener")
+            span !{i18n('home.webApp.launchButton', lang)}
+            +sprite("external-link")
+          a(href=getUrl("/web-app/", lang)) !{i18n('home.webApp.learnMore', lang)}
+      figure: img(src=assetPath("/img/web-app/stackingtonUsingPeachWeb.webp") alt=i18n('home.webApp.imageAlt', lang).replace(/&nbsp;/g, ' ') width="954" height="1200" loading="lazy")
 
   section.wrap#payment
     article.content-wrap.content-wrap--centered

@@ -736,8 +736,14 @@
         padding: 2.4rem;
         box-shadow: 0px 0.8125rem 1.75rem rgba(255, 122, 80, 0.10);
         width: 23.25rem;
-        min-width: 23.25rem; 
+        min-width: 23.25rem;
         scroll-snap-align: start;
+
+        /* cards may shrink slightly so all three fit inside the wrap (3 x 23.25rem overflows its 1500px max) */
+        @media (--L_and_up) {
+          flex: 0 1 23.25rem;
+          min-width: 21rem;
+        }
 
         & .carousel-card-number {
           width: 4.8rem;

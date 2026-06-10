@@ -11,7 +11,8 @@
   "nav.buySell": "BTC kaufen & verkaufen",
   "nav.apps": "Apps",
   "nav.meetup": "Finde dein lokales Meetup",
-  "nav.vip": "VIP",
+  "nav.vip": "VIP-Verkäufer",
+  "nav.webApp": "WebApp",
   "blog": "Blog",
   "support": "Support",
   "community": "Community",
@@ -99,7 +100,7 @@
   "home.downloadPeach.downloadAPK": "APK herunterladen",
   "home.webApp.title": "Mit Ihrem Desktop koppeln",
   "home.webApp.subtitle1": "Handeln Sie P2P-Bitcoin direkt im Browser — das komplette Orderbuch auf einem grossen Bildschirm, synchronisiert mit Ihrer Peach Mobile-App.",
-  "home.webApp.subtitle2": "Gleiche Selbstverwahrung, kein KYC. Einmal per QR-Code koppeln und loslegen.",
+  "home.webApp.subtitle2": "Gleiche Selbstverwahrung, kein KYC. Per QR-Code koppeln und loslegen.",
   "home.webApp.launchButton": "Web-App starten",
   "home.webApp.learnMore": "Mehr über die Web-App erfahren",
   "home.webApp.imageAlt": "Die Peach Web-App mit dem Bitcoin-Orderbuch im Desktop-Browser",
@@ -215,5 +216,5 @@
   "webApp.faq.q5": "Kostet die Web-App extra?",
   "webApp.faq.a5": "Nein. Die Web-App ist kostenlos und die Handelsgebühren sind exakt dieselben wie in der mobilen App.",
   "webApp.cta.title": "Bereit für den grossen Bildschirm?",
-  "webApp.cta.subtitle": "Einmal das Telefon verbinden — Ihr Orderbuch wartet."
+  "webApp.cta.subtitle": "Verbinden Sie Ihr Telefon, Ihr Orderbuch wartet."
 }
