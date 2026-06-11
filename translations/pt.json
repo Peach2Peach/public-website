@@ -202,7 +202,7 @@
   "footer.webApp": "Web app",
   "webApp.hero.screenshotAlt": "A web app da Peach mostrando o order book de bitcoin em um navegador desktop",
   "webApp.hero.pairedBadge": "Pareada com o celular",
-  "webApp.trust.openSource": "100% código aberto",
+  "webApp.trust.openSource": "Código aberto",
   "webApp.trust.escrow": "Escrow multisig em cada negociação",
   "webApp.trust.swiss": "Feito na Suíça",
   "webApp.faq.title": "Perguntas frequentes",
@@ -217,5 +217,8 @@
   "webApp.faq.q5": "A web app custa algo a mais?",
   "webApp.faq.a5": "Não. A web app é gratuita e as taxas de negociação são exatamente as mesmas do app móvel.",
   "webApp.cta.title": "Pronto para negociar na tela grande?",
-  "webApp.cta.subtitle": "Pareie seu celular, seu order book está esperando."
+  "webApp.cta.subtitle": "Pareie seu celular, seu order book está esperando.",
+  "webAppQuickStartGuide": "Início rápido da aplicação web",
+  "webAppFaq": "Aplicação web",
+  "webApp.faq.seeAll": "Ver todas as FAQs da aplicação web →"
 }

@@ -14,6 +14,7 @@ const SECTION_LABELS = {
   account: 'Account',
   pm: 'Payment methods',
   privacy: 'Privacy',
+  'web-app': 'Web App',
 };
 
 function slugify(str) {

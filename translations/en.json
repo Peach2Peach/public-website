@@ -202,7 +202,7 @@
   "footer.webApp": "Web app",
   "webApp.hero.screenshotAlt": "The Peach web app showing the bitcoin order book in a desktop browser",
   "webApp.hero.pairedBadge": "Paired with mobile",
-  "webApp.trust.openSource": "100% open source",
+  "webApp.trust.openSource": "Open source",
   "webApp.trust.escrow": "Multisig escrow on every trade",
   "webApp.trust.swiss": "Made in Switzerland",
   "webApp.faq.title": "Frequently asked questions",
@@ -217,5 +217,8 @@
   "webApp.faq.q5": "Does the web app cost anything extra?",
   "webApp.faq.a5": "No. The web app is free to use and trading fees are exactly the same as in the mobile app.",
   "webApp.cta.title": "Ready to trade on the big screen?",
-  "webApp.cta.subtitle": "Pair your phone, your order book is waiting."
+  "webApp.cta.subtitle": "Pair your phone, your order book is waiting.",
+  "webAppQuickStartGuide": "Web App Quick Start",
+  "webAppFaq": "Web App",
+  "webApp.faq.seeAll": "See all web app FAQs →"
 }

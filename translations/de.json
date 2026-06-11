@@ -202,7 +202,7 @@
   "footer.webApp": "Web-App",
   "webApp.hero.screenshotAlt": "Die Peach Web-App mit dem Bitcoin-Orderbuch im Desktop-Browser",
   "webApp.hero.pairedBadge": "Mit dem Smartphone verbunden",
-  "webApp.trust.openSource": "100% Open Source",
+  "webApp.trust.openSource": "Open Source",
   "webApp.trust.escrow": "Multisig-Treuhand bei jedem Trade",
   "webApp.trust.swiss": "Made in Switzerland",
   "webApp.faq.title": "Häufige Fragen",
@@ -217,5 +217,8 @@
   "webApp.faq.q5": "Kostet die Web-App extra?",
   "webApp.faq.a5": "Nein. Die Web-App ist kostenlos und die Handelsgebühren sind exakt dieselben wie in der mobilen App.",
   "webApp.cta.title": "Bereit für den grossen Bildschirm?",
-  "webApp.cta.subtitle": "Verbinden Sie Ihr Telefon, Ihr Orderbuch wartet."
+  "webApp.cta.subtitle": "Verbinden Sie Ihr Telefon, Ihr Orderbuch wartet.",
+  "webAppQuickStartGuide": "Web-App Schnellstart",
+  "webAppFaq": "Web-App",
+  "webApp.faq.seeAll": "Alle Web-App-FAQs ansehen →"
 }

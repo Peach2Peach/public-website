@@ -202,7 +202,7 @@
   "footer.webApp": "Web app",
   "webApp.hero.screenshotAlt": "La web app Peach affichant le carnet d'ordres bitcoin dans un navigateur de bureau",
   "webApp.hero.pairedBadge": "Connectée au mobile",
-  "webApp.trust.openSource": "100% open source",
+  "webApp.trust.openSource": "Open source",
   "webApp.trust.escrow": "Séquestre multisig sur chaque échange",
   "webApp.trust.swiss": "Fabriqué en Suisse",
   "webApp.faq.title": "Questions fréquentes",
@@ -217,5 +217,8 @@
   "webApp.faq.q5": "La web app coûte-t-elle quelque chose en plus ?",
   "webApp.faq.a5": "Non. La web app est gratuite et les frais de transaction sont exactement les mêmes que dans l'app mobile.",
   "webApp.cta.title": "Prêt à échanger sur grand écran ?",
-  "webApp.cta.subtitle": "Connectez votre téléphone, votre carnet d'ordres vous attend."
+  "webApp.cta.subtitle": "Connectez votre téléphone, votre carnet d'ordres vous attend.",
+  "webAppQuickStartGuide": "Démarrage rapide de l'application web",
+  "webAppFaq": "Application web",
+  "webApp.faq.seeAll": "Voir toutes les FAQ de l'application web →"
 }

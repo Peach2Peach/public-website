@@ -202,7 +202,7 @@
   "footer.webApp": "Web app",
   "webApp.hero.screenshotAlt": "La web app de Peach mostrando el libro de órdenes de bitcoin en un navegador de escritorio",
   "webApp.hero.pairedBadge": "Emparejada con el móvil",
-  "webApp.trust.openSource": "100% código abierto",
+  "webApp.trust.openSource": "Código abierto",
   "webApp.trust.escrow": "Escrow multifirma en cada intercambio",
   "webApp.trust.swiss": "Hecho en Suiza",
   "webApp.faq.title": "Preguntas frecuentes",
@@ -217,5 +217,8 @@
   "webApp.faq.q5": "¿La web app tiene algún coste extra?",
   "webApp.faq.a5": "No. La web app es gratuita y las comisiones son exactamente las mismas que en la app móvil.",
   "webApp.cta.title": "¿Listo para operar en pantalla grande?",
-  "webApp.cta.subtitle": "Empareja tu teléfono, tu libro de órdenes te espera."
+  "webApp.cta.subtitle": "Empareja tu teléfono, tu libro de órdenes te espera.",
+  "webAppQuickStartGuide": "Inicio rápido de la aplicación web",
+  "webAppFaq": "Aplicación web",
+  "webApp.faq.seeAll": "Ver todas las preguntas sobre la aplicación web →"
 }
