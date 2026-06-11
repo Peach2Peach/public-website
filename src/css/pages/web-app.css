@@ -263,7 +263,7 @@
       grid-template-columns: 1fr auto;
       align-items: center;
       gap: var(--space-xxl);
-      max-width: 820px;
+      max-width: 1000px;
       margin-left: auto;
       margin-right: auto;
       text-align: left;
@@ -324,10 +324,12 @@
     & .web-app-how-visual {
       display: flex;
       justify-content: center;
+      min-width: 0;
     }
 
     & .web-app-qr-card {
-      width: 230px;
+      width: 420px;
+      max-width: 100%;
       background: var(--color-white);
       border: 1px solid #f3e4dc;
       border-radius: 20px;
@@ -359,15 +361,10 @@
       text-overflow: ellipsis;
     }
 
-    & .web-app-qr {
-      padding: var(--space-l);
-      color: var(--color-neutral-100);
-
-      & svg {
-        display: block;
-        width: 100%;
-        height: auto;
-      }
+    & .web-app-qr-screen {
+      display: block;
+      width: 100%;
+      height: auto;
     }
   }
 

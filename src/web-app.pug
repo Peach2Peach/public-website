@@ -76,17 +76,7 @@ block main
               span
               span
             span.web-app-qr-url web.peachbitcoin.com
-          //- decorative mock QR — deliberately not scannable; the real pairing
-          //- QR is session-specific and only shown at web.peachbitcoin.com
-          .web-app-qr
-            svg(viewBox="0 0 21 21" role="presentation" focusable="false")
-              path(fill="currentColor" fill-rule="evenodd" d="M0 0h7v7H0zM1 1v5h5V1z")
-              path(fill="currentColor" d="M2 2h3v3H2z")
-              path(fill="currentColor" fill-rule="evenodd" d="M14 0h7v7h-7zM15 1v5h5V1z")
-              path(fill="currentColor" d="M16 2h3v3h-3z")
-              path(fill="currentColor" fill-rule="evenodd" d="M0 14h7v7H0zM1 15v5h5v-5z")
-              path(fill="currentColor" d="M2 16h3v3H2z")
-              path(fill="currentColor" d="M9 0h1v1H9zM11 1h1v1h-1zM9 3h2v1H9zM12 2h1v2h-1zM10 5h1v2h-1zM12 6h1v1h-1zM0 9h1v1H0zM2 9h2v1H2zM5 10h2v1H5zM1 11h1v2H1zM3 12h1v1H3zM9 8h1v2H9zM11 9h2v1h-2zM14 9h1v1h-1zM16 9h2v1h-2zM19 10h2v1h-2zM9 11h1v1H9zM12 11h1v2h-1zM15 12h2v1h-2zM18 12h1v2h-1zM10 13h1v1h-1zM14 14h1v2h-1zM16 15h2v1h-2zM20 14h1v1h-1zM9 15h1v2H9zM11 16h2v1h-2zM19 16h1v2h-1zM9 18h1v1H9zM12 18h1v2h-1zM14 18h2v1h-2zM17 18h1v1h-1zM10 20h2v1h-2zM15 20h1v1h-1zM18 20h2v1h-2z")
+          img.web-app-qr-screen(src="/img/web-app/webapp-signin-qr.webp" alt=i18n('webApp.howItWorks.screenshotAlt', lang).replace(/&nbsp;/g, ' ') width="754" height="740" loading="lazy")
 
   section.wrap.web-app-faq
     h2.web-app-faq-title.peach-text !{i18n('webApp.faq.title', lang)}
