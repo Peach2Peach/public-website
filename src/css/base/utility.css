@@ -38,8 +38,8 @@
 .w-1\/2 {
   width: 50%;
 }
-.h-180px {
-  height: 180px;
+.w-7\/10 {
+  width: 70%;
 }
 
 .mt-4 {
@@ -67,5 +67,6 @@
   }
   .md\:h-90px {
     height: 90px;
+    width: auto;
   }
 }

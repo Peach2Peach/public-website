@@ -17,9 +17,9 @@ description: Compra e vendi Bitcoin peer-to-peer senza KYC. Peach è un marketpl
 
 <div>
   <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Bitcoin app on the App Store without KYC verification"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Bitcoin app on Google Play store without ID verification"></a>
-    <a class="md:ml-4" href="https://zapstore.dev/download/"><img class="h-180px md:h-90px" src="/img/home/Get-it-on-zapstore.svg" alt="Get Bitcoin app on ZapStore store without ID verification"></a>
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="w-7/10 md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Bitcoin app on the App Store without KYC verification"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="w-7/10 md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Bitcoin app on Google Play store without ID verification"></a>
+    <a class="md:ml-4" href="https://zapstore.dev/download/"><img class="w-7/10 md:h-90px" src="/img/home/Get-it-on-zapstore.svg" alt="Get Bitcoin app on ZapStore store without ID verification"></a>
   </div>
 
 :::buttons

@@ -11,8 +11,8 @@ Lade die App kostenlos herunter und beginne sofort mit dem Handel! Wir verlangen
 
 <div class="custom-section_357">
   <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Peach‑Bitcoin‑App im App Store ohne KYC‑Verifizierung herunterladen"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Peach‑Bitcoin‑App im Google‑Play‑Store ohne Ausweisprüfung"></a>
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="w-7/10 md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Peach‑Bitcoin‑App im App Store ohne KYC‑Verifizierung herunterladen"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="w-7/10 md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Peach‑Bitcoin‑App im Google‑Play‑Store ohne Ausweisprüfung"></a>
   </div>
 
 :::buttons
