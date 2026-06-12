@@ -401,6 +401,11 @@
         margin-bottom: var(--space-s);
       }
     }
+
+    & .web-app-faq-more {
+      text-align: center;
+      margin-top: var(--space-l);
+    }
   }
 
   /* ---- closing cta ---- */

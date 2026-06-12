@@ -17,14 +17,9 @@ const SECTION_LABELS = {
   'web-app': 'Web App',
 };
 
-function slugify(str) {
-  return str
-    .toLowerCase()
-    .normalize('NFD')                 // split accents
-    .replace(/[\u0300-\u036f]/g, '')  // remove accents
-    .replace(/[^a-z0-9]+/g, '-')      // non-alphanum -> dash
-    .replace(/^-+|-+$/g, '');         // trim dashes
-}
+// use the same slugify as the page renderer (helpers.js) so search-result
+// anchors always match the <details id> on the rendered FAQ pages
+const { slugify } = require('../helpers');
 
 function createSnippet(text) {
   return text

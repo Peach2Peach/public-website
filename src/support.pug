@@ -22,10 +22,13 @@ block main
     .content-wrap.content-wrap--centered
       != html.intro
 
-      .guides(style="display: flex; justify-content: center; padding-bottom: 20px;")
+      .guides(style="display: flex; justify-content: center; gap: 20px; padding-bottom: 20px;")
         a.faq-grid-item(href=getUrl("/quick-start/", lang), style="flex: 1;")
-          +sprite("quickstart")
-          h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('quickStartGuide', lang)}
+          +sprite("mobile")
+          h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('mobileQuickStartGuide', lang)}
+        a.faq-grid-item(href=getUrl("/web-app-quick-start/", lang), style="flex: 1;")
+          +sprite("devices")
+          h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('webAppQuickStartGuide', lang)}
 
       h2 !{i18n('faq', lang)}
       .faq-search
@@ -59,6 +62,9 @@ block main
         a.faq-grid-item(href=getUrl("/faq/tutorials/", lang))
           +sprite("help")
           h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('tutorials', lang)}
+        a.faq-grid-item(href=getUrl("/faq/web-app/", lang))
+          +sprite("globe")
+          h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('webAppFaq', lang)}
           
       != html.contact
       .contact

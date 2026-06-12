@@ -88,6 +88,8 @@ block main
             span.marker
           article
             p !{i18n(`webApp.faq.a${n}`, lang)}
+    .web-app-faq-more
+      a.button.button--ghost(href=getUrl("/faq/web-app/", lang)) !{i18n('webApp.faq.seeAll', lang)}
 
   section.wrap.web-app-cta
     .web-app-cta-band

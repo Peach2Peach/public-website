@@ -1,0 +1,23 @@
+/* Web App quick start: the shared .quickstarts grid is sized for narrow phone
+   screenshots; the wide desktop captures on this page need the full content
+   width to stay readable */
+#web-app-quick-start {
+  & .quickstarts > p {
+    flex-basis: 100%;
+    text-align: center;
+
+    & img {
+      display: block;
+      margin: 0 auto var(--space-s);
+      max-width: 100%;
+    }
+  }
+
+  /* the two phone-sized pairing steps share one row on larger screens */
+  @media (--M_and_up) {
+    & .quickstarts > p:has(img[src*="/pairing/02-"]),
+    & .quickstarts > p:has(img[src*="/pairing/03-"]) {
+      flex-basis: calc(50% - var(--space-xl));
+    }
+  }
+}
