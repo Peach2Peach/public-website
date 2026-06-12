@@ -1221,7 +1221,8 @@
     }
 
     & .new-teaser-start-now {
-      align-self: center;
+      align-self: center !important;
+      margin: var(--space-l) 0;
     }
 
     & .new-teaser-content {
