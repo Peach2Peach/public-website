@@ -405,6 +405,10 @@
     & .web-app-faq-more {
       text-align: center;
       margin-top: var(--space-l);
+
+      & .button {
+        display: inline-flex;
+      }
     }
   }
 

@@ -12,6 +12,19 @@
   margin-left: auto;
   margin-right: auto;
 
+  & .faq-back {
+    display: flex;
+    width: fit-content;
+    margin-right: auto;
+    font-size: var(--font-size-s);
+    margin-bottom: var(--space-m);
+
+    /* sit beside the centered H1 on wide screens */
+    @media (--M_and_up) {
+      margin-bottom: calc(-1 * var(--space-xl));
+    }
+  }
+
   &.content-wrap--centered {
     text-align: center;
 
