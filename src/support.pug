@@ -3,6 +3,7 @@ extends /template.pug
 block append vars
   - const homePath = (lang === 'en' ? '/index.html' : '/' + lang)
   - const hasTeaser = false
+  - const hasGuide = (perma) => ((siteData.permalinkLocales && siteData.permalinkLocales[perma]) || ['en']).includes(lang)
 
 block teaser
   //- a.site-banner.wrap(
@@ -22,13 +23,21 @@ block main
     .content-wrap.content-wrap--centered
       != html.intro
 
-      .guides(style="display: flex; justify-content: center; gap: 20px; padding-bottom: 20px;")
+      .guides(style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding-bottom: 20px;")
         a.faq-grid-item(href=getUrl("/quick-start/", lang), style="flex: 1;")
           +sprite("mobile")
           h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('mobileQuickStartGuide', lang)}
         a.faq-grid-item(href=getUrl("/web-app-quick-start/", lang), style="flex: 1;")
           +sprite("devices")
           h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('webAppQuickStartGuide', lang)}
+        if hasGuide('web-app-settings')
+          a.faq-grid-item(href=getUrl("/web-app-settings/", lang), style="flex: 1;")
+            +sprite("credit")
+            h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('webAppSettingsGuide', lang)}
+        if hasGuide('web-app-trading')
+          a.faq-grid-item(href=getUrl("/web-app-trading/", lang), style="flex: 1;")
+            +sprite("trading")
+            h3(style="margin-top: 5px; font-size: 1rem;") !{i18n('webAppTradingGuide', lang)}
 
       h2 !{i18n('faq', lang)}
       .faq-search

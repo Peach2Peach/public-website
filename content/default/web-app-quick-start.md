@@ -56,4 +56,4 @@ Ending a session is easy: simply closing the window logs you out. This is especi
 You can also log out at any time with the button in the top right corner
 :::
 
-Got more questions? Check the [Web App FAQ](/faq/web-app/)!
+Want to go deeper? The [Web App Settings Guide](/web-app-settings/) covers payment methods, fees and payouts, and the [Web App Trading Guide](/web-app-trading/) walks through creating offers, buying, selling and disputes. Got more questions? Check the [Web App FAQ](/faq/web-app/)!
