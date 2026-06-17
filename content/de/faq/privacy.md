@@ -10,6 +10,16 @@ Wir sind bestrebt so wenige Daten wie möglich über unsere Benutzer zu sammeln.
 - Die Daten deiner Trades (welche Art von Zahlungsmethode du verwendest, wie viel du kaufst bzw. verkaufst usw.)
 - Nutzungsdaten sofern du dem zugestimmt hast.
 
+**Über die Webapp:**
+
+Peach speichert deine IP-Adresse nicht in Verbindung mit deinem Konto.
+Peach verwendet deine IP-Adresse zusammen mit Cloudflare lediglich, um:
+
+- zu prüfen, ob du dich in einem rechtlich verbotenen Land befindest
+- zu prüfen, ob du ein potenzieller Spammer bist
+
+Peach speichert Informationen zu deiner IP-Adresse nur vorübergehend (für maximal 1 Stunde).
+
 Eine vollständige Aufschlüsselung findest du in unserer [Datenschutzerklärung](/privacy-policy/).
 
 \* Bei einem Hash handelt es sich um Daten welche unkenntlich gemacht wurden ähnlich wie bei der Verschlüsselung. Die gleichen Daten führen immer zum gleichen Hash. Wir wissen nicht um welche Daten es sich handelt, aber wir können erkennen ob dieselben Daten zweimal verwendet werden.

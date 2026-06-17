@@ -10,6 +10,16 @@ Cerchiamo di conservare il minimo assoluto di dati possibile sui nostri utenti. 
 - I dati dei tuoi scambi (tipo di metodo di pagamento utilizzato, importo dell'acquisto, ecc.)
 - Dati di utilizzo (se hai dato il consenso)
 
+**Informazioni sulla webapp:**
+
+Peach non memorizza il tuo indirizzo IP associato al tuo account.
+Peach utilizza semplicemente il tuo indirizzo IP, insieme a Cloudflare, per:
+
+- verificare se ti trovi in un paese legalmente vietato
+- verificare se sei un potenziale spammer
+
+Peach conserva le informazioni relative al tuo IP solo temporaneamente (per un massimo di 1 ora).
+
 Per una panoramica completa, consulta la nostra [politica sulla privacy](/privacy-policy/).
 
 \* Un hash è un dato reso irriconoscibile, simile alla crittografia. Gli stessi dati porteranno sempre allo stesso hash. Ciò significa che non sappiamo quali sono i dati, ma saremo in grado di individuare se gli stessi dati vengono utilizzati due volte.

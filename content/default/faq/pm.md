@@ -5,6 +5,8 @@ Being PayPal a high risk payment method for sellers, buyers have some requiremen
 - at least 500 CHF traded with your Peach account, with any payment method.  
 - at least 3 trades.  
 - have a reputation score of 5 Peaches.  
+
+It is strongly recommended that sellers only accept payments "for family and friends". This is due to the high risk of chargeback if the buyer pays "for goods and services".
 :::
 
 :::details Can I buy with giftcard?

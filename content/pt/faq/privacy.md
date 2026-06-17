@@ -11,6 +11,16 @@ Nós nos esforçamos para armazenar a quantidade absolutamente mínima de dados 
 - Endereços usados para enviar para o depósito em garantia e para enviar do depósito em garantia
 - Dados de uso (Firebase e Google Analytics), **apenas se você concordou com isso**
 
+**Sobre a webapp:**
+
+A Peach não armazena o seu endereço IP associado à sua conta.
+A Peach apenas usa o seu endereço IP, juntamente com a Cloudflare, para:
+
+- verificar se você está em um país legalmente proibido
+- verificar se você é um potencial spammer
+
+A Peach armazena as informações relativas ao seu IP apenas temporariamente (por um período máximo de 1 hora).
+
 Para uma análise completa, consulte nossa [política de privacidade](/privacy-policy/).
 
 \* Um hash é algum dado que foi tornada irreconhecível, semelhante à sua criptografia. Os mesmos dados sempre levarão ao mesmo hash. Isso significa que não sabemos o que são os dados, mas conseguiremos identificar se os mesmos dados forem usados duas vezes.

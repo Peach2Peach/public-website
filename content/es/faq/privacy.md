@@ -10,6 +10,16 @@ Nos esforzamos por almacenar la cantidad mínima absoluta de datos de nuestros u
 - Los datos de tus transacciones (qué tipo de método de pago estás usando, cuánto estás comprando, etc.)
 - Datos de uso, si diste tu aprobación
 
+**Sobre la webapp:**
+
+Peach no almacena tu dirección IP asociada a tu cuenta.
+Peach simplemente usa tu dirección IP, junto con Cloudflare, para:
+
+- comprobar si te encuentras en un país legalmente prohibido
+- comprobar si eres un posible spammer
+
+Peach solo almacena información relativa a tu IP de forma temporal (durante un máximo de 1 hora).
+
 Para un desglose completo, consulte nuestra [política de privacidad](/es/privacy-policy/).
 
 \* Un hash es una operación para que los datos se hagan irreconocibles, similar a la encriptación. Los mismos datos siempre conducirán al mismo hash. Esto significa que no sabemos cuáles son los datos, pero podremos detectar si se usan los mismos datos dos veces.

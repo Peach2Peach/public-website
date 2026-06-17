@@ -11,6 +11,16 @@ We strive to store the absolute minimum amount of data on our users as we can. A
 - Addresses used to send to escrow, and to send from escrow
 - Usage data (Firebase & Google Analytics), **only if you agreed to this**
 
+**About the webapp:**
+
+Peach does not store your IP address associated with your account.
+Peach simply uses your IP address to, alongside Cloudflare:
+
+- check if you are in a legally forbidden country
+- check if you are a potential spammer
+
+Peach only stores information regarding your IP temporarily (for a maximum period of 1 hour).
+
 For a full breakdown, please see our [privacy policy](/privacy-policy/).
 
 \* A hash is some data that was made unrecognizable, similar to encrypting it. The same data will always lead to the same hash. This means we don't know what the data is, but we will be able to spot if the same data is used twice.

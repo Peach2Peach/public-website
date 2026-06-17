@@ -192,7 +192,7 @@
     "section": "Privacy",
     "sectionKey": "privacy",
     "question": "Que informações o Peach coleta de mim?",
-    "answer": "Nós nos esforçamos para armazenar a quantidade absolutamente mínima de dados sobre nossos usuários que pudermos. Como uma visão geral rápida, aqui está o que temos em nossos servidores:\n\n- Um hash\\* do seu ID de aplicativo exclusivo (AdID)\n- Um hash dos seus dados de pagamento\n- Suas conversas criptografadas\n- Os dados das negociações para garantir que os usuários anônimos não excedam o limite de negociação (quais métodos de pagamento estão sendo usados, quantias de compra e venda)\n- Endereços usados para enviar para o depósito em garantia e para enviar do depósito em garantia\n- Dados de uso (Firebase e Google Analytics), **apenas se você concordou com isso**\n\nPara uma análise completa, consulte nossa [política de privacidade](/privacy-policy/).\n\n\\* Um hash é algum dado que foi tornada irreconhecível, semelhante à sua criptografia. Os mesmos dados sempre levarão ao mesmo hash. Isso significa que não sabemos o que são os dados, mas conseguiremos identificar se os mesmos dados forem usados duas vezes.",
+    "answer": "Nós nos esforçamos para armazenar a quantidade absolutamente mínima de dados sobre nossos usuários que pudermos. Como uma visão geral rápida, aqui está o que temos em nossos servidores:\n\n- Um hash\\* do seu ID de aplicativo exclusivo (AdID)\n- Um hash dos seus dados de pagamento\n- Suas conversas criptografadas\n- Os dados das negociações para garantir que os usuários anônimos não excedam o limite de negociação (quais métodos de pagamento estão sendo usados, quantias de compra e venda)\n- Endereços usados para enviar para o depósito em garantia e para enviar do depósito em garantia\n- Dados de uso (Firebase e Google Analytics), **apenas se você concordou com isso**\n\n**Sobre a webapp:**\n\nA Peach não armazena o seu endereço IP associado à sua conta.\nA Peach apenas usa o seu endereço IP, juntamente com a Cloudflare, para:\n\n- verificar se você está em um país legalmente proibido\n- verificar se você é um potencial spammer\n\nA Peach armazena as informações relativas ao seu IP apenas temporariamente (por um período máximo de 1 hora).\n\nPara uma análise completa, consulte nossa [política de privacidade](/privacy-policy/).\n\n\\* Um hash é algum dado que foi tornada irreconhecível, semelhante à sua criptografia. Os mesmos dados sempre levarão ao mesmo hash. Isso significa que não sabemos o que são os dados, mas conseguiremos identificar se os mesmos dados forem usados duas vezes.",
     "snippet": "Nós nos esforçamos para armazenar a quantidade absolutamente mínima de dados sobre nossos usuários que pudermos. Como uma visão geral rápida, aqui está o que te",
     "url": "/pt/faq/privacy/#que-informaes-o-peach-coleta-de-mim",
     "lang": "pt"
@@ -249,6 +249,33 @@
     "answer": "Por padrão, os detalhes de pagamento são criptografados de ponta a ponta com PGP entre você e sua contraparte.  \nNo caso de uma oferta de negociação instantânea, as informações também são compartilhadas com a Peach, para que possamos enviá-las à contraparte assim que o pedido de negociação for feito.",
     "snippet": "Por padrão, os detalhes de pagamento são criptografados de ponta a ponta com PGP entre você e sua contraparte. No caso de uma oferta de negociação instantânea, ",
     "url": "/pt/faq/privacy/#quais-so-as-implicaes-de-privacidade-de-uma-oferta-de-negociao-instantnea",
+    "lang": "pt"
+  },
+  {
+    "section": "Payment methods",
+    "sectionKey": "pm",
+    "question": "Posso comprar com PayPal?",
+    "answer": "Como o PayPal é um método de pagamento de alto risco para os vendedores, os compradores precisam cumprir alguns requisitos para poder comprar:  \n- ter negociado pelo menos 500 CHF com a sua conta Peach, com qualquer método de pagamento.  \n- pelo menos 3 negociações.  \n- ter uma pontuação de reputação de 5 Peaches.  \n\nRecomenda-se fortemente que os vendedores aceitem apenas pagamentos \"para familiares e amigos\". Isso se deve ao alto risco de estorno (chargeback) caso o comprador pague \"para bens e serviços\".",
+    "snippet": "Como o PayPal é um método de pagamento de alto risco para os vendedores, os compradores precisam cumprir alguns requisitos para poder comprar: - ter negociado p",
+    "url": "/pt/faq/pm/#posso-comprar-com-paypal",
+    "lang": "pt"
+  },
+  {
+    "section": "Payment methods",
+    "sectionKey": "pm",
+    "question": "Posso comprar com cartão-presente?",
+    "answer": "Você pode comprar com cartões-presente da Amazon e cartões-presente da Steam.  \nEm ambos os casos, você compra o cartão-presente online com o endereço de e-mail do vendedor como destinatário, pelo valor exato da negociação.  \nVocê não pode comprar com cartões-presente físicos.",
+    "snippet": "Você pode comprar com cartões-presente da Amazon e cartões-presente da Steam. Em ambos os casos, você compra o cartão-presente online com o endereço de e-mail d",
+    "url": "/pt/faq/pm/#posso-comprar-com-carto-presente",
+    "lang": "pt"
+  },
+  {
+    "section": "Payment methods",
+    "sectionKey": "pm",
+    "question": "Quanto posso comprar de forma anônima?",
+    "answer": "Os métodos de pagamento anônimos — cartões-presente, dinheiro em encontros e USDT — têm um limite inferior de 1000 CHF por mês ou o equivalente em outra moeda.",
+    "snippet": "Os métodos de pagamento anônimos — cartões-presente, dinheiro em encontros e USDT — têm um limite inferior de 1000 CHF por mês ou o equivalente em outra moeda.",
+    "url": "/pt/faq/pm/#quanto-posso-comprar-de-forma-annima",
     "lang": "pt"
   },
   {
@@ -579,7 +606,7 @@
     "section": "Privacy",
     "sectionKey": "privacy",
     "question": "Quali informazioni raccoglie Peach su di me?",
-    "answer": "Cerchiamo di conservare il minimo assoluto di dati possibile sui nostri utenti. Di seguito è riportato un breve riepilogo di ciò che abbiamo sui nostri server:\n\n- L'hash\\* dell'ID del tuo telefono\n- L'hash dei tuoi dati di pagamento\n- Le tue chat crittografate\n- I dati dei tuoi scambi (tipo di metodo di pagamento utilizzato, importo dell'acquisto, ecc.)\n- Dati di utilizzo (se hai dato il consenso)\n\nPer una panoramica completa, consulta la nostra [politica sulla privacy](/privacy-policy/).\n\n\\* Un hash è un dato reso irriconoscibile, simile alla crittografia. Gli stessi dati porteranno sempre allo stesso hash. Ciò significa che non sappiamo quali sono i dati, ma saremo in grado di individuare se gli stessi dati vengono utilizzati due volte.",
+    "answer": "Cerchiamo di conservare il minimo assoluto di dati possibile sui nostri utenti. Di seguito è riportato un breve riepilogo di ciò che abbiamo sui nostri server:\n\n- L'hash\\* dell'ID del tuo telefono\n- L'hash dei tuoi dati di pagamento\n- Le tue chat crittografate\n- I dati dei tuoi scambi (tipo di metodo di pagamento utilizzato, importo dell'acquisto, ecc.)\n- Dati di utilizzo (se hai dato il consenso)\n\n**Informazioni sulla webapp:**\n\nPeach non memorizza il tuo indirizzo IP associato al tuo account.\nPeach utilizza semplicemente il tuo indirizzo IP, insieme a Cloudflare, per:\n\n- verificare se ti trovi in un paese legalmente vietato\n- verificare se sei un potenziale spammer\n\nPeach conserva le informazioni relative al tuo IP solo temporaneamente (per un massimo di 1 ora).\n\nPer una panoramica completa, consulta la nostra [politica sulla privacy](/privacy-policy/).\n\n\\* Un hash è un dato reso irriconoscibile, simile alla crittografia. Gli stessi dati porteranno sempre allo stesso hash. Ciò significa che non sappiamo quali sono i dati, ma saremo in grado di individuare se gli stessi dati vengono utilizzati due volte.",
     "snippet": "Cerchiamo di conservare il minimo assoluto di dati possibile sui nostri utenti. Di seguito è riportato un breve riepilogo di ciò che abbiamo sui nostri server: ",
     "url": "/it/faq/privacy/#quali-informazioni-raccoglie-peach-su-di-me",
     "lang": "it"
@@ -654,6 +681,33 @@
     "answer": "Per impostazione predefinita, i dettagli di pagamento sono crittografati end-to-end con PGP tra te e la tua controparte.  \nNel caso di un’offerta istantanea, le informazioni vengono condivise anche con Peach, per permetterci di inviarle alla controparte non appena la richiesta di scambio viene effettuata.",
     "snippet": "Per impostazione predefinita, i dettagli di pagamento sono crittografati end-to-end con PGP tra te e la tua controparte. Nel caso di un’offerta istantanea, le i",
     "url": "/it/faq/privacy/#quali-sono-le-implicazioni-sulla-privacy-di-unofferta-istantanea",
+    "lang": "it"
+  },
+  {
+    "section": "Payment methods",
+    "sectionKey": "pm",
+    "question": "Posso comprare con PayPal?",
+    "answer": "Essendo PayPal un metodo di pagamento ad alto rischio per i venditori, gli acquirenti devono soddisfare alcuni requisiti per poter comprare:  \n- aver scambiato almeno 500 CHF con il tuo account Peach, con qualsiasi metodo di pagamento.  \n- almeno 3 scambi.  \n- avere un punteggio di reputazione di 5 Peaches.  \n\nSi raccomanda vivamente che i venditori accettino solo pagamenti \"per familiari e amici\". Questo è dovuto all'alto rischio di storno (chargeback) se l'acquirente paga \"per beni e servizi\".",
+    "snippet": "Essendo PayPal un metodo di pagamento ad alto rischio per i venditori, gli acquirenti devono soddisfare alcuni requisiti per poter comprare: - aver scambiato al",
+    "url": "/it/faq/pm/#posso-comprare-con-paypal",
+    "lang": "it"
+  },
+  {
+    "section": "Payment methods",
+    "sectionKey": "pm",
+    "question": "Posso comprare con una gift card?",
+    "answer": "Puoi comprare con gift card Amazon e gift card Steam.  \nIn entrambi i casi, acquisti la gift card online indicando l'indirizzo email del venditore come destinatario, per l'importo esatto dello scambio.  \nNon puoi comprare con gift card fisiche.",
+    "snippet": "Puoi comprare con gift card Amazon e gift card Steam. In entrambi i casi, acquisti la gift card online indicando l'indirizzo email del venditore come destinatar",
+    "url": "/it/faq/pm/#posso-comprare-con-una-gift-card",
+    "lang": "it"
+  },
+  {
+    "section": "Payment methods",
+    "sectionKey": "pm",
+    "question": "Quanto posso comprare in modo anonimo?",
+    "answer": "I metodi di pagamento anonimi — gift card, contanti agli incontri e USDT — hanno un limite inferiore di 1000 CHF al mese o l'equivalente in un'altra valuta.",
+    "snippet": "I metodi di pagamento anonimi — gift card, contanti agli incontri e USDT — hanno un limite inferiore di 1000 CHF al mese o l'equivalente in un'altra valuta.",
+    "url": "/it/faq/pm/#quanto-posso-comprare-in-modo-anonimo",
     "lang": "it"
   },
   {
@@ -975,7 +1029,7 @@
     "section": "Privacy",
     "sectionKey": "privacy",
     "question": "Quelles informations Peach collecte-t-il à mon sujet ?",
-    "answer": "Nous nous efforçons de stocker le minimum absolu de données sur nos utilisateurs. Voici un aperçu rapide des données que nous avons sur nos serveurs :\n\n- Un hash\\* de l'identifiant de votre téléphone\n- Un hash de vos données de paiement\n- Vos discussions chiffrées\n- Les données de vos transactions (le type de mode de paiement que vous utilisez, le montant que vous achetez, etc.)\n- Les données d'utilisation, si vous y avez consenti\n\nPour une ventilation complète, veuillez consulter notre [politique de confidentialité](/privacy-policy/).\n\n\\* Un hash est une donnée rendue méconnaissable, similaire à son chiffrement. Les mêmes données conduiront toujours au même hash. Cela signifie que nous ne savons pas quelles sont les données, mais nous pourrons détecter si les mêmes données sont utilisées deux fois.",
+    "answer": "Nous nous efforçons de stocker le minimum absolu de données sur nos utilisateurs. Voici un aperçu rapide des données que nous avons sur nos serveurs :\n\n- Un hash\\* de l'identifiant de votre téléphone\n- Un hash de vos données de paiement\n- Vos discussions chiffrées\n- Les données de vos transactions (le type de mode de paiement que vous utilisez, le montant que vous achetez, etc.)\n- Les données d'utilisation, si vous y avez consenti\n\n**À propos de la webapp :**\n\nPeach ne stocke pas votre adresse IP associée à votre compte.\nPeach utilise simplement votre adresse IP, conjointement avec Cloudflare, pour :\n\n- vérifier si vous vous trouvez dans un pays légalement interdit\n- vérifier si vous êtes un spammeur potentiel\n\nPeach ne stocke les informations relatives à votre IP que temporairement (pour une durée maximale d'1 heure).\n\nPour une ventilation complète, veuillez consulter notre [politique de confidentialité](/privacy-policy/).\n\n\\* Un hash est une donnée rendue méconnaissable, similaire à son chiffrement. Les mêmes données conduiront toujours au même hash. Cela signifie que nous ne savons pas quelles sont les données, mais nous pourrons détecter si les mêmes données sont utilisées deux fois.",
     "snippet": "Nous nous efforçons de stocker le minimum absolu de données sur nos utilisateurs. Voici un aperçu rapide des données que nous avons sur nos serveurs : - Un hash",
     "url": "/fr/faq/privacy/#quelles-informations-peach-collecte-t-il-mon-sujet",
     "lang": "fr"
@@ -1050,6 +1104,33 @@
     "answer": "Par défaut, les informations de paiement sont chiffrées de bout en bout avec PGP entre vous et votre contrepartie.  \nDans le cas d’une offre d’échange instantané, les informations sont également partagées avec Peach, afin que nous puissions les transmettre à la contrepartie dès que la demande d’échange est envoyée.",
     "snippet": "Par défaut, les informations de paiement sont chiffrées de bout en bout avec PGP entre vous et votre contrepartie. Dans le cas d’une offre d’échange instantané,",
     "url": "/fr/faq/privacy/#quelles-sont-les-implications-en-matire-de-confidentialit-dune-offre-dchange-instantan",
+    "lang": "fr"
+  },
+  {
+    "section": "Payment methods",
+    "sectionKey": "pm",
+    "question": "Puis-je acheter avec PayPal ?",
+    "answer": "PayPal étant une méthode de paiement à haut risque pour les vendeurs, les acheteurs doivent remplir certaines conditions pour pouvoir acheter :  \n- avoir échangé au moins 500 CHF avec votre compte Peach, avec n'importe quelle méthode de paiement.  \n- au moins 3 transactions.  \n- avoir un score de réputation de 5 Peaches.  \n\nIl est fortement recommandé aux vendeurs de n'accepter que les paiements \"entre amis et famille\". Cela s'explique par le risque élevé de rétrofacturation si l'acheteur paie \"pour des biens et services\".",
+    "snippet": "PayPal étant une méthode de paiement à haut risque pour les vendeurs, les acheteurs doivent remplir certaines conditions pour pouvoir acheter : - avoir échangé ",
+    "url": "/fr/faq/pm/#puis-je-acheter-avec-paypal",
+    "lang": "fr"
+  },
+  {
+    "section": "Payment methods",
+    "sectionKey": "pm",
+    "question": "Puis-je acheter avec une carte cadeau ?",
+    "answer": "Vous pouvez acheter avec des cartes cadeaux Amazon et des cartes cadeaux Steam.  \nDans les deux cas, vous achetez la carte cadeau en ligne avec l'adresse e-mail du vendeur comme destinataire, pour le montant exact de la transaction.  \nVous ne pouvez pas acheter avec des cartes cadeaux physiques.",
+    "snippet": "Vous pouvez acheter avec des cartes cadeaux Amazon et des cartes cadeaux Steam. Dans les deux cas, vous achetez la carte cadeau en ligne avec l'adresse e-mail d",
+    "url": "/fr/faq/pm/#puis-je-acheter-avec-une-carte-cadeau",
+    "lang": "fr"
+  },
+  {
+    "section": "Payment methods",
+    "sectionKey": "pm",
+    "question": "Combien puis-je acheter de manière anonyme ?",
+    "answer": "Les méthodes de paiement anonymes — cartes cadeaux, espèces lors de rencontres et USDT — ont une limite inférieure de 1000 CHF par mois ou l'équivalent dans une autre devise.",
+    "snippet": "Les méthodes de paiement anonymes — cartes cadeaux, espèces lors de rencontres et USDT — ont une limite inférieure de 1000 CHF par mois ou l'équivalent dans une",
+    "url": "/fr/faq/pm/#combien-puis-je-acheter-de-manire-anonyme",
     "lang": "fr"
   },
   {
@@ -1371,7 +1452,7 @@
     "section": "Privacy",
     "sectionKey": "privacy",
     "question": "¿Qué información recopila Peach de mí?",
-    "answer": "Nos esforzamos por almacenar la cantidad mínima absoluta de datos de nuestros usuarios. Como resumen rápido, esto es lo que tenemos en nuestros servidores:\n\n- Un hash\\* del ID de tu teléfono\n- Un hash de tus datos de pago\n- Tus chats cifrados\n- Los datos de tus transacciones (qué tipo de método de pago estás usando, cuánto estás comprando, etc.)\n- Datos de uso, si diste tu aprobación\n\nPara un desglose completo, consulte nuestra [política de privacidad](/es/privacy-policy/).\n\n\\* Un hash es una operación para que los datos se hagan irreconocibles, similar a la encriptación. Los mismos datos siempre conducirán al mismo hash. Esto significa que no sabemos cuáles son los datos, pero podremos detectar si se usan los mismos datos dos veces.",
+    "answer": "Nos esforzamos por almacenar la cantidad mínima absoluta de datos de nuestros usuarios. Como resumen rápido, esto es lo que tenemos en nuestros servidores:\n\n- Un hash\\* del ID de tu teléfono\n- Un hash de tus datos de pago\n- Tus chats cifrados\n- Los datos de tus transacciones (qué tipo de método de pago estás usando, cuánto estás comprando, etc.)\n- Datos de uso, si diste tu aprobación\n\n**Sobre la webapp:**\n\nPeach no almacena tu dirección IP asociada a tu cuenta.\nPeach simplemente usa tu dirección IP, junto con Cloudflare, para:\n\n- comprobar si te encuentras en un país legalmente prohibido\n- comprobar si eres un posible spammer\n\nPeach solo almacena información relativa a tu IP de forma temporal (durante un máximo de 1 hora).\n\nPara un desglose completo, consulte nuestra [política de privacidad](/es/privacy-policy/).\n\n\\* Un hash es una operación para que los datos se hagan irreconocibles, similar a la encriptación. Los mismos datos siempre conducirán al mismo hash. Esto significa que no sabemos cuáles son los datos, pero podremos detectar si se usan los mismos datos dos veces.",
     "snippet": "Nos esforzamos por almacenar la cantidad mínima absoluta de datos de nuestros usuarios. Como resumen rápido, esto es lo que tenemos en nuestros servidores: - Un",
     "url": "/es/faq/privacy/#qu-informacin-recopila-peach-de-m",
     "lang": "es"
@@ -1446,6 +1527,33 @@
     "answer": "De forma predeterminada, los datos de pago están cifrados de extremo a extremo con PGP entre tú y tu contraparte.  \nEn el caso de una oferta de comercio instantáneo, la información también se comparte con Peach, para que podamos enviarla a la contraparte tan pronto como se mande la solicitud de intercambio.",
     "snippet": "De forma predeterminada, los datos de pago están cifrados de extremo a extremo con PGP entre tú y tu contraparte. En el caso de una oferta de comercio instantán",
     "url": "/es/faq/privacy/#cules-son-las-implicaciones-de-privacidad-de-una-oferta-de-comercio-instantneo",
+    "lang": "es"
+  },
+  {
+    "section": "Payment methods",
+    "sectionKey": "pm",
+    "question": "¿Puedo comprar con PayPal?",
+    "answer": "Como PayPal es un método de pago de alto riesgo para los vendedores, los compradores deben cumplir algunos requisitos para poder comprar:  \n- haber operado al menos 500 CHF con tu cuenta de Peach, con cualquier método de pago.  \n- al menos 3 operaciones.  \n- tener una puntuación de reputación de 5 Peaches.  \n\nSe recomienda encarecidamente que los vendedores solo acepten pagos \"para familiares y amigos\". Esto se debe al alto riesgo de contracargo si el comprador paga \"por bienes y servicios\".",
+    "snippet": "Como PayPal es un método de pago de alto riesgo para los vendedores, los compradores deben cumplir algunos requisitos para poder comprar: - haber operado al men",
+    "url": "/es/faq/pm/#puedo-comprar-con-paypal",
+    "lang": "es"
+  },
+  {
+    "section": "Payment methods",
+    "sectionKey": "pm",
+    "question": "¿Puedo comprar con tarjeta de regalo?",
+    "answer": "Puedes comprar con tarjetas de regalo de Amazon y tarjetas de regalo de Steam.  \nEn ambos casos, compras la tarjeta de regalo en línea con la dirección de correo electrónico del vendedor como destinatario por el importe exacto de la operación.  \nNo puedes comprar con tarjetas de regalo físicas.",
+    "snippet": "Puedes comprar con tarjetas de regalo de Amazon y tarjetas de regalo de Steam. En ambos casos, compras la tarjeta de regalo en línea con la dirección de correo ",
+    "url": "/es/faq/pm/#puedo-comprar-con-tarjeta-de-regalo",
+    "lang": "es"
+  },
+  {
+    "section": "Payment methods",
+    "sectionKey": "pm",
+    "question": "¿Cuánto puedo comprar de forma anónima?",
+    "answer": "Los métodos de pago anónimos —tarjetas de regalo, efectivo en encuentros y USDT— tienen un límite inferior de 1000 CHF al mes o el equivalente en otra moneda.",
+    "snippet": "Los métodos de pago anónimos —tarjetas de regalo, efectivo en encuentros y USDT— tienen un límite inferior de 1000 CHF al mes o el equivalente en otra moneda.",
+    "url": "/es/faq/pm/#cunto-puedo-comprar-de-forma-annima",
     "lang": "es"
   },
   {
@@ -1803,7 +1911,7 @@
     "section": "Privacy",
     "sectionKey": "privacy",
     "question": "What info does Peach collect of me?",
-    "answer": "We strive to store the absolute minimum amount of data on our users as we can. As a quick overview, this is what we have on our servers:\n\n- A hash\\* of your app unique ID (AdID)\n- A hash of your payment data\n- Your encrypted chats\n- The data of the trades to make sure anonymous users do not exceed the trading limit (which type of payment methods are being used, buying and selling amounts)\n- Addresses used to send to escrow, and to send from escrow\n- Usage data (Firebase & Google Analytics), **only if you agreed to this**\n\nFor a full breakdown, please see our [privacy policy](/privacy-policy/).\n\n\\* A hash is some data that was made unrecognizable, similar to encrypting it. The same data will always lead to the same hash. This means we don't know what the data is, but we will be able to spot if the same data is used twice.",
+    "answer": "We strive to store the absolute minimum amount of data on our users as we can. As a quick overview, this is what we have on our servers:\n\n- A hash\\* of your app unique ID (AdID)\n- A hash of your payment data\n- Your encrypted chats\n- The data of the trades to make sure anonymous users do not exceed the trading limit (which type of payment methods are being used, buying and selling amounts)\n- Addresses used to send to escrow, and to send from escrow\n- Usage data (Firebase & Google Analytics), **only if you agreed to this**\n\n**About the webapp:**\n\nPeach does not store your IP address associated with your account.\nPeach simply uses your IP address to, alongside Cloudflare:\n\n- check if you are in a legally forbidden country\n- check if you are a potential spammer\n\nPeach only stores information regarding your IP temporarily (for a maximum period of 1 hour).\n\nFor a full breakdown, please see our [privacy policy](/privacy-policy/).\n\n\\* A hash is some data that was made unrecognizable, similar to encrypting it. The same data will always lead to the same hash. This means we don't know what the data is, but we will be able to spot if the same data is used twice.",
     "snippet": "We strive to store the absolute minimum amount of data on our users as we can. As a quick overview, this is what we have on our servers: - A hash\\* of your app ",
     "url": "/faq/privacy/#what-info-does-peach-collect-of-me",
     "lang": "en"
@@ -1875,7 +1983,7 @@
     "section": "Payment methods",
     "sectionKey": "pm",
     "question": "Can I buy with Paypal?",
-    "answer": "Being PayPal a high risk payment method for sellers, buyers have some requirements to be able to buy:  \n- at least 500 CHF traded with your Peach account, with any payment method.  \n- at least 3 trades.  \n- have a reputation score of 5 Peaches.",
+    "answer": "Being PayPal a high risk payment method for sellers, buyers have some requirements to be able to buy:  \n- at least 500 CHF traded with your Peach account, with any payment method.  \n- at least 3 trades.  \n- have a reputation score of 5 Peaches.  \n\nIt is strongly recommended that sellers only accept payments \"for family and friends\". This is due to the high risk of chargeback if the buyer pays \"for goods and services\".",
     "snippet": "Being PayPal a high risk payment method for sellers, buyers have some requirements to be able to buy: - at least 500 CHF traded with your Peach account, with an",
     "url": "/faq/pm/#can-i-buy-with-paypal",
     "lang": "en"
@@ -2235,7 +2343,7 @@
     "section": "Privacy",
     "sectionKey": "privacy",
     "question": "Welche Informationen sammelt Peach über mich?",
-    "answer": "Wir sind bestrebt so wenige Daten wie möglich über unsere Benutzer zu sammeln. Als kurzer Überblick das speichern wir auf unseren Servern:\n\n- Ein Hash der ID deines Telefons\n- Ein Hash deiner Zahlungsdaten\n- Deine verschlüsselten Chats\n- Die Daten deiner Trades (welche Art von Zahlungsmethode du verwendest, wie viel du kaufst bzw. verkaufst usw.)\n- Nutzungsdaten sofern du dem zugestimmt hast.\n\nEine vollständige Aufschlüsselung findest du in unserer [Datenschutzerklärung](/privacy-policy/).\n\n\\* Bei einem Hash handelt es sich um Daten welche unkenntlich gemacht wurden ähnlich wie bei der Verschlüsselung. Die gleichen Daten führen immer zum gleichen Hash. Wir wissen nicht um welche Daten es sich handelt, aber wir können erkennen ob dieselben Daten zweimal verwendet werden.",
+    "answer": "Wir sind bestrebt so wenige Daten wie möglich über unsere Benutzer zu sammeln. Als kurzer Überblick das speichern wir auf unseren Servern:\n\n- Ein Hash der ID deines Telefons\n- Ein Hash deiner Zahlungsdaten\n- Deine verschlüsselten Chats\n- Die Daten deiner Trades (welche Art von Zahlungsmethode du verwendest, wie viel du kaufst bzw. verkaufst usw.)\n- Nutzungsdaten sofern du dem zugestimmt hast.\n\n**Über die Webapp:**\n\nPeach speichert deine IP-Adresse nicht in Verbindung mit deinem Konto.\nPeach verwendet deine IP-Adresse zusammen mit Cloudflare lediglich, um:\n\n- zu prüfen, ob du dich in einem rechtlich verbotenen Land befindest\n- zu prüfen, ob du ein potenzieller Spammer bist\n\nPeach speichert Informationen zu deiner IP-Adresse nur vorübergehend (für maximal 1 Stunde).\n\nEine vollständige Aufschlüsselung findest du in unserer [Datenschutzerklärung](/privacy-policy/).\n\n\\* Bei einem Hash handelt es sich um Daten welche unkenntlich gemacht wurden ähnlich wie bei der Verschlüsselung. Die gleichen Daten führen immer zum gleichen Hash. Wir wissen nicht um welche Daten es sich handelt, aber wir können erkennen ob dieselben Daten zweimal verwendet werden.",
     "snippet": "Wir sind bestrebt so wenige Daten wie möglich über unsere Benutzer zu sammeln. Als kurzer Überblick das speichern wir auf unseren Servern: - Ein Hash der ID dei",
     "url": "/de/faq/privacy/#welche-informationen-sammelt-peach-ueber-mich",
     "lang": "de"
@@ -2301,6 +2409,33 @@
     "answer": "Standardmäßig werden Zahlungsdetails zwischen Ihnen und Ihrem Handelspartner Ende-zu-Ende mit PGP verschlüsselt.  \nIm Falle eines Sofortangebots werden die Informationen auch mit Peach geteilt, damit wir sie dem Handelspartner sofort übermitteln können, sobald die Handelsanfrage gesendet wird.",
     "snippet": "Standardmäßig werden Zahlungsdetails zwischen Ihnen und Ihrem Handelspartner Ende-zu-Ende mit PGP verschlüsselt. Im Falle eines Sofortangebots werden die Inform",
     "url": "/de/faq/privacy/#was-sind-die-datenschutzimplikationen-eines-sofortangebots",
+    "lang": "de"
+  },
+  {
+    "section": "Payment methods",
+    "sectionKey": "pm",
+    "question": "Kann ich mit PayPal kaufen?",
+    "answer": "Da PayPal für Verkäufer eine Zahlungsmethode mit hohem Risiko ist, müssen Käufer einige Voraussetzungen erfüllen, um kaufen zu können:  \n- mindestens 500 CHF mit deinem Peach-Konto gehandelt, mit beliebiger Zahlungsmethode.  \n- mindestens 3 Trades.  \n- einen Reputationswert von 5 Peaches haben.  \n\nEs wird dringend empfohlen, dass Verkäufer nur Zahlungen \"für Familie und Freunde\" akzeptieren. Dies liegt am hohen Rückbuchungsrisiko, wenn der Käufer \"für Waren und Dienstleistungen\" zahlt.",
+    "snippet": "Da PayPal für Verkäufer eine Zahlungsmethode mit hohem Risiko ist, müssen Käufer einige Voraussetzungen erfüllen, um kaufen zu können: - mindestens 500 CHF mit ",
+    "url": "/de/faq/pm/#kann-ich-mit-paypal-kaufen",
+    "lang": "de"
+  },
+  {
+    "section": "Payment methods",
+    "sectionKey": "pm",
+    "question": "Kann ich mit einer Geschenkkarte kaufen?",
+    "answer": "Du kannst mit Amazon-Geschenkkarten und Steam-Geschenkkarten kaufen.  \nIn beiden Fällen kaufst du die Geschenkkarte online mit der E-Mail-Adresse des Verkäufers als Empfänger für den genauen Betrag des Trades.  \nMit physischen Geschenkkarten kannst du nicht kaufen.",
+    "snippet": "Du kannst mit Amazon-Geschenkkarten und Steam-Geschenkkarten kaufen. In beiden Fällen kaufst du die Geschenkkarte online mit der E-Mail-Adresse des Verkäufers a",
+    "url": "/de/faq/pm/#kann-ich-mit-einer-geschenkkarte-kaufen",
+    "lang": "de"
+  },
+  {
+    "section": "Payment methods",
+    "sectionKey": "pm",
+    "question": "Wie viel kann ich anonym kaufen?",
+    "answer": "Anonyme Zahlungsmethoden – Geschenkkarten, Bargeld bei Treffen und USDT – haben ein niedrigeres Limit von 1000 CHF pro Monat oder dem Gegenwert in einer anderen Währung.",
+    "snippet": "Anonyme Zahlungsmethoden – Geschenkkarten, Bargeld bei Treffen und USDT – haben ein niedrigeres Limit von 1000 CHF pro Monat oder dem Gegenwert in einer anderen",
+    "url": "/de/faq/pm/#wie-viel-kann-ich-anonym-kaufen",
     "lang": "de"
   },
   {
