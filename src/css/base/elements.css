@@ -296,6 +296,10 @@ details[open] article {
   &.button--primary {
     @mixin peach-button-primary;
   }
+
+  &.button--ghost {
+    @mixin peach-button-ghost;
+  }
 }
 
 .buttons,

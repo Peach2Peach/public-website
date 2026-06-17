@@ -3,14 +3,6 @@ title: How it works
 template: how_it_works
 ---
 
-<!--[teaser]-->
-
-![Buy and Sell Bitcoin Peer-to-Peer](/img/how-it-works/buy-and-sell-bitcoin-peer-to-peer.png)
-
-### Stack sats <span>every day</span>!
-
-**Buy and Sell up to 1000 CHF per day and 100'000 CHF per year.**
-
 <!--[easy_registration]-->
 
 ### Easy registration
@@ -19,8 +11,8 @@ Download the app for free and start trading right away! We won't ask you to uplo
 
 <div class="custom-section_357">
   <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="h-180px md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Peach Bitcoin app on the App Store without KYC verification"></a>
-    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="h-180px md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Peach Bitcoin app on Google Play store without ID verification"></a>
+    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="w-7/10 md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Peach Bitcoin app on the App Store without KYC verification"></a>
+    <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="w-7/10 md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Peach Bitcoin app on Google Play store without ID verification"></a>
   </div>
 
 :::buttons

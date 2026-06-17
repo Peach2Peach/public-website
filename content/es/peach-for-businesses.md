@@ -12,16 +12,16 @@ Algunos de los beneficios que puedes disfrutar al utilizar los servicios proporc
 ::::figures 3
 :::box tech-peach
 
-### Alta liquidez disponible
+### Probablemente el mejor arbitraje del mercado P2P
 
-Más de 900 ofertas de compra abiertas las 24 horas del día
+Apertura constante de nuevas ofertas de compra motivadas durante todo el año
 :::
 
 :::box tech-peach
 
-### Agente dedicado para ti
+### Agentes dedicados de soporte y disputas
 
-Soporte dedicado 1 a 1, 24/7
+Agentes de soporte dedicados 24/7
 :::
 
 :::box tech-peach

@@ -12,16 +12,16 @@ Alcuni dei vantaggi di cui puoi godere utilizzando i servizi forniti da Peach Bu
 ::::figures 3
 :::box tech-peach
 
-### Alta Liquidità disponibile
+### Probabilmente il miglior arbitraggio nel mercato P2P
 
-Più di 900 offerte di acquisto aperte 24 ore su 24
+Apertura costante di nuove offerte di acquisto motivate tutto l'anno
 :::
 
 :::box tech-peach
 
-### Agente dedicato per te
+### Agenti dedicati per supporto e dispute
 
-Supporto dedicato 1 a 1, 24/7
+Agenti di supporto dedicati 24/7
 :::
 
 :::box tech-peach

@@ -11,16 +11,16 @@ Some of the benefits you can enjoy by using the services provided by Peach Busin
 ::::figures 3
 :::box tech-peach
 
-### Probably the arbitrage in P2P market
+### Probably the best arbitrage in P2P market
 
-Consistent opening of new motivated buy offers 24h a day
+Consistent opening of new motivated buy offers all year-round
 :::
 
 :::box tech-peach
 
-### Dedicated Agent for you
+### Dedicated Support and Dispute Agents
 
-1 to 1 dedicated support 24/7
+Dedicated support agents 24/7
 :::
 
 :::box tech-peach

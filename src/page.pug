@@ -3,4 +3,6 @@ extends /template.pug
 block main
   section.wrap
     .content-wrap.content-wrap--centered
+      if id && /^faq\//.test(id) && !/^faq\/Buy-&-Sell-Bitcoin-using-/i.test(id)
+        a.button.button--ghost.faq-back(href=getUrl("/support/", lang)) !{i18n('faqBackToMain', lang)}
       != html

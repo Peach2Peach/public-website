@@ -69,6 +69,11 @@ block vars
   - if (permalink === 'index') {
   -   _graph.push({ '@type': 'MobileApplication', '@id': `${siteBaseUrl}/#app`, name: 'Peach Bitcoin', operatingSystem: ['iOS', 'Android'], applicationCategory: 'FinanceApplication', offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' }, downloadUrl: [siteData.meta.iosUrl, siteData.meta.androidUrl].filter(Boolean), publisher: { '@id': `${siteBaseUrl}/#org` } })
   - }
+  - if (permalink === 'web-app') {
+  -   _graph.push({ '@type': 'WebApplication', '@id': `${siteBaseUrl}/#webapp`, name: 'Peach Bitcoin Web App', url: 'https://web.peachbitcoin.com', applicationCategory: 'FinanceApplication', operatingSystem: 'Web browser', browserRequirements: 'Requires JavaScript', offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' }, publisher: { '@id': `${siteBaseUrl}/#org` } })
+  -   const _faqText = id => i18n(id, lang).replace(/<br\/>/g, ' ').replace(/&nbsp;/g, ' ')
+  -   _graph.push({ '@type': 'FAQPage', '@id': `${canonicalUrl}#faq`, inLanguage: lang, mainEntity: [1, 2, 3, 4, 5].map(n => ({ '@type': 'Question', name: _faqText(`webApp.faq.q${n}`), acceptedAnswer: { '@type': 'Answer', text: _faqText(`webApp.faq.a${n}`) } })) })
+  - }
   - if (typeof date !== 'undefined' && date && permalink && permalink.startsWith('blog/') && !_isBlogTag && !_isBlogIndex) {
   -   _graph.push({ '@type': 'BlogPosting', '@id': `${canonicalUrl}#post`, headline: title || derivedTitle, datePublished: date, dateModified: date, image: previewImage ? `${siteBaseUrl}${previewImage}` : undefined, mainEntityOfPage: canonicalUrl, author: { '@id': `${siteBaseUrl}/#org` }, publisher: { '@id': `${siteBaseUrl}/#org` }, inLanguage: lang })
   - }
@@ -146,9 +151,25 @@ html(lang=lang)
             path.line--2(d="M0 50h99")
             path.line--3(d="M0 30l28 28c2 2 2 2 7 2h64")
         nav.nav
-          +navItem("how-to-buy-btc-no-kyc", i18n("howItWorks", lang))
-          +navItem("for-meetups", i18n("forMeetups", lang))
-          +navItem("for-businesses", i18n("forBusinesses", lang))
+          +navItem("web-app", i18n("nav.webApp", lang))(class="nav-cta")
+          div.nav-dropdown
+            input(type="checkbox" id="buy-sell-toggle" class="checkbox")
+            label(for="buy-sell-toggle" class="nav-dropdown-label")
+              span= i18n("nav.buySell", lang)
+              svg(
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                width="16"
+                height="16"
+                fill="currentColor"
+              )
+                path(d="M7 10l5 5 5-5z")
+            ul.nav-dropdown-menu
+              li
+                +navItem("how-to-buy-btc-no-kyc", i18n("nav.apps", lang))
+              li
+                +navItem("for-meetups", i18n("nav.meetup", lang))
+          +navItem("for-businesses", i18n("nav.vip", lang))
           +navItem("kycfree-orderbook", i18n("orderbook.navTitle", lang))
           +navItem("blog", i18n("blog", lang))
           +navItem("support", i18n("support", lang))
@@ -215,6 +236,7 @@ html(lang=lang)
             a(href=getUrl("/apk/", lang)) !{i18n('apk', lang)}
             a(href=siteData.meta.iosUrl) !{i18n('iphone', lang)}
             a(href=siteData.meta.androidUrl) !{i18n('android', lang)}
+            a(href=getUrl("/web-app/", lang)) !{i18n('footer.webApp', lang)}
           div.footer-box
             h6 !{i18n('community', lang)}
             a(href=siteData.meta.twitterUrl target="_blank" rel="noreferrer noopener") !{i18n('twitter', lang)}

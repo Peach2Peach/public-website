@@ -12,16 +12,16 @@ Einige der Vorteile, die Sie durch die Nutzung der von Peach Business bereitgest
 ::::figures 3
 :::box tech-peach
 
-### Hohe Liquidität verfügbar
+### Wahrscheinlich die beste Arbitrage im P2P-Markt
 
-Mehr als 900 offene Kaufangebote 24 Stunden am Tag
+Konstant neue motivierte Kaufangebote, das ganze Jahr über
 :::
 
 :::box tech-peach
 
-### Dedizierter Agent für Sie
+### Dedizierte Support- und Streitfall-Agenten
 
-1 zu 1 dedizierter Support rund um die Uhr
+Dedizierte Support-Agenten rund um die Uhr
 :::
 
 :::box tech-peach
