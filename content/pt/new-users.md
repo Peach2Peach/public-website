@@ -27,4 +27,6 @@ Depois de criar sua conta, certifique-se de compartilhar seu próprio código de
 [Download APK no Android](/pt/apk/)
 :::
 
+<small>A disponibilidade e a utilização podem estar restritas ou não conformes em determinadas jurisdições, incluindo a UE/EEE, após 1 de julho de 2026. Utilize por sua conta e risco e assegure o cumprimento das leis locais.</small>
+
 </div>

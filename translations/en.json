@@ -226,5 +226,7 @@
   "webAppQuickStartGuide": "Web App Quick Start",
   "webAppFaq": "Web App",
   "faqBackToMain": "← back",
-  "webApp.faq.seeAll": "See all web app FAQs →"
+  "webApp.faq.seeAll": "See all web app FAQs →",
+  "reverseSolicitation": "Peach Bitcoin is a Swiss company and does not solicit, advertise, market, or target users in the EU/EEA. We do not promote our services to EU residents. Any access or use by EU/EEA users is strictly on their own exclusive initiative.",
+  "downloadWarning": "Availability and use may be restricted or non-compliant in certain jurisdictions including the EU/EEA after July 1, 2026. Use at your own risk and ensure compliance with local laws."
 }

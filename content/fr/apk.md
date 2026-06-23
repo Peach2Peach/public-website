@@ -18,6 +18,8 @@ Nous recommandons de télécharger la version ARM64 pour Android 8.0 et supérie
 [Télécharger l'APK ARM64-v8]($apkArm64v8Url$)
 :::
 
+<small>La disponibilité et l'utilisation peuvent être restreintes ou non conformes dans certaines juridictions, y compris l'UE/EEE, après le 1er juillet 2026. Utilisez à vos propres risques et veillez à respecter les lois locales.</small>
+
 ## Télécharger pour iOS
 
 <img src="/icons/qrcode_apple.png" width="350" alt="QR code to download the Peach Bitcoin iOS TestFlight app">
@@ -25,6 +27,8 @@ Nous recommandons de télécharger la version ARM64 pour Android 8.0 et supérie
 :::buttons
 [Télécharger pour iOS](https://testflight.apple.com/join/wfSPFEWG)
 :::
+
+<small>La disponibilité et l'utilisation peuvent être restreintes ou non conformes dans certaines juridictions, y compris l'UE/EEE, après le 1er juillet 2026. Utilisez à vos propres risques et veillez à respecter les lois locales.</small>
 
 ## Vous ne pouvez pas installer l'APK ?
 

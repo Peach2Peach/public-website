@@ -27,4 +27,6 @@ Nachdem du dein Konto erstellt hast, kannst du deinen eigenen Empfehlungscode te
 [Download APK on Android](/apk/)
 :::
 
+<small>Verfügbarkeit und Nutzung können in bestimmten Jurisdiktionen, einschliesslich der EU/des EWR, nach dem 1. Juli 2026 eingeschränkt oder nicht konform sein. Nutzung auf eigenes Risiko; stellen Sie die Einhaltung der lokalen Gesetze sicher.</small>
+
 </div>

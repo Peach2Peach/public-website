@@ -226,5 +226,7 @@
   "webAppQuickStartGuide": "Web-App Schnellstart",
   "webAppFaq": "Web-App",
   "faqBackToMain": "← zurück",
-  "webApp.faq.seeAll": "Alle Web-App-FAQs ansehen →"
+  "webApp.faq.seeAll": "Alle Web-App-FAQs ansehen →",
+  "reverseSolicitation": "Peach Bitcoin ist ein Schweizer Unternehmen und betreibt keine Kundenwerbung, Werbung, Vermarktung oder gezielte Ansprache von Nutzern in der EU/im EWR. Wir bewerben unsere Dienste nicht gegenüber EU-Einwohnern. Jeglicher Zugriff oder jegliche Nutzung durch EU-/EWR-Nutzer erfolgt ausschliesslich auf deren eigene Initiative.",
+  "downloadWarning": "Verfügbarkeit und Nutzung können in bestimmten Jurisdiktionen, einschliesslich der EU/des EWR, nach dem 1. Juli 2026 eingeschränkt oder nicht konform sein. Nutzung auf eigenes Risiko; stellen Sie die Einhaltung der lokalen Gesetze sicher."
 }

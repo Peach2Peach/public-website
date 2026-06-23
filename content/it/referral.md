@@ -1,6 +1,7 @@
 ---
 title: Referral
 template: referral
+description: "Sei stato invitato a unirti a Peach Bitcoin. Scarica l'app e inizia a comprare e vendere bitcoin peer-to-peer in meno di un minuto, senza KYC."
 ---
 
 <!--[teaser]-->
@@ -18,6 +19,8 @@ Scarica l'app gratuitamente e inizia a fare scambi subito! Non ti chiederemo mai
 [Scarica su Android]($androidUrl$)
 [Scarica APK su Android](/it/apk/)
 :::
+
+<small>La disponibilità e l'utilizzo potrebbero essere limitati o non conformi in determinate giurisdizioni, inclusa l'UE/SEE, dopo il 1° luglio 2026. Utilizzare a proprio rischio e assicurarsi di rispettare le leggi locali.</small>
 
 ### Passo 2: Registrati utilizzando il codice di affiliazione
 

@@ -27,4 +27,6 @@ Después de crear tu cuenta, asegúrate de compartir tu propio código de refere
 [Download APK on Android](/apk/)
 :::
 
+<small>La disponibilidad y el uso pueden estar restringidos o no ser conformes en determinadas jurisdicciones, incluida la UE/EEE, después del 1 de julio de 2026. Úselo bajo su propio riesgo y asegúrese de cumplir con las leyes locales.</small>
+
 </div>

@@ -27,4 +27,6 @@ After creating your account, make sure to share your own referral code to start 
 [Download APK on Android](/apk/)
 :::
 
+<small>Availability and use may be restricted or non-compliant in certain jurisdictions including the EU/EEA after July 1, 2026. Use at your own risk and ensure compliance with local laws.</small>
+
 </div>

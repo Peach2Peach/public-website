@@ -19,6 +19,8 @@ Scarica l’app gratuitamente e inizia subito a fare trading! Non ti chiederemo 
 [Download APK on Android](/apk/)
 :::
 
+<small>La disponibilità e l'utilizzo potrebbero essere limitati o non conformi in determinate giurisdizioni, inclusa l'UE/SEE, dopo il 1° luglio 2026. Utilizzare a proprio rischio e assicurarsi di rispettare le leggi locali.</small>
+
 </div>
 
 <!--[payment_methods]-->
@@ -28,8 +30,6 @@ Scarica l’app gratuitamente e inizia subito a fare trading! Non ti chiederemo 
 Ci sono un sacco di metodi di pagamento tra cui puoi scegliere.<br>
 
 #### Valute supportate
-
-##### Europa
 
 <div class="payment-grid_894">
     <div class="payment-grid-item_523">
@@ -110,13 +110,6 @@ Ci sono un sacco di metodi di pagamento tra cui puoi scegliere.<br>
             TRY
         </a>
     </div>
-</div>
-
----
-
-##### America Latina
-
-<div class="payment-grid_894">
     <div class="payment-grid-item_523">
         <a href="/it/faq/Buy-&-Sell-Bitcoin-using-ars-in-2024/">
             <i class="fas fa-dollar-sign"></i>
@@ -201,13 +194,6 @@ Ci sono un sacco di metodi di pagamento tra cui puoi scegliere.<br>
             VES
         </a>
     </div>
-</div>
-
----
-
-##### Africa
-
-<div class="payment-grid_894">
     <div class="payment-grid-item_523">
         <a href="/it/faq/Buy-&-Sell-Bitcoin-using-mad-in-2024/">
             <i class="fas fa-dollar-sign"></i>
@@ -244,13 +230,6 @@ Ci sono un sacco di metodi di pagamento tra cui puoi scegliere.<br>
             NGN
         </a>
     </div>
-</div>
-
----
-
-##### Asia
-
-<div class="payment-grid_894">
     <div class="payment-grid-item_523">
         <a href="/it/faq/Buy-&-Sell-Bitcoin-using-inr-in-2024/">
             <i class="fas fa-coins"></i>
@@ -311,13 +290,6 @@ Ci sono un sacco di metodi di pagamento tra cui puoi scegliere.<br>
             VND
         </a>
     </div>
-</div>
-
----
-
-##### Medio Oriente
-
-<div class="payment-grid_894">
     <div class="payment-grid-item_523">
         <a href="/it/faq/Buy-&-Sell-Bitcoin-using-egp-in-2024/">
             <i class="fas fa-coins"></i>
@@ -342,26 +314,12 @@ Ci sono un sacco di metodi di pagamento tra cui puoi scegliere.<br>
             AED
         </a>
     </div>
-</div>
-
----
-
-##### Nord America
-
-<div class="payment-grid_894">
     <div class="payment-grid-item_523">
         <a href="/it/faq/Buy-&-Sell-Bitcoin-using-cad-in-2024/">
             <i class="fas fa-coins"></i>
             CAD
         </a>
     </div>
-</div>
-
----
-
-##### Oceania
-
-<div class="payment-grid_894">
     <div class="payment-grid-item_523">
         <a href="/it/faq/Buy-&-Sell-Bitcoin-using-aud-in-2024/">
             <i class="fas fa-coins"></i>
@@ -374,13 +332,6 @@ Ci sono un sacco di metodi di pagamento tra cui puoi scegliere.<br>
             NZD
         </a>
     </div>
-</div>
-
----
-
-##### Global
-
-<div class="payment-grid_894">
     <div class="payment-grid-item_523">
         <a href="/it/faq/Buy-&-Sell-Bitcoin-using-usd-in-2024/">
             <i class="fas fa-coins"></i>
