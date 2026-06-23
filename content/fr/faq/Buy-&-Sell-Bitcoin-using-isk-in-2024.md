@@ -6,15 +6,6 @@ PeachBitcoin est le moyen sûr, rapide et facile d'acheter et de vendre du Bitco
 
 ## Modes de Paiement en ISK
 
-### Virement Bancaire
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>Transfert National Islande</p> 
-        <img src="/img/faq/logoimg/icelandflag.png" width="30px" height="27px" alt="Acheter du bitcoin avec Transfert National Islande, Vendre du bitcoin avec Transfert National Islande">
-    </div>
-</div>
-
 ### Portefeuilles Électroniques
 
 <div class="payment-grid">

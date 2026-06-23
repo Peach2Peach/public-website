@@ -6,33 +6,12 @@ PeachBitcoin ist die sichere, schnelle und einfache Möglichkeit, Bitcoin mit je
 
 ## EUR Zahlungsmethoden
 
-### Banküberweisung
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>SEPA</p> 
-        <img src="/img/faq/logoimg/sepa.png" width="30px" height="27px" alt="Bitcoin mit SEPA kaufen, Bitcoin mit SEPA verkaufen">
-    </div>
-    <div class="payment-grid-item">
-        <p>SEPA Instant</p> 
-        <img src="/img/faq/logoimg/sepa.png" width="30px" height="27px" alt="Bitcoin mit SEPA Instant kaufen, Bitcoin mit SEPA Instant verkaufen">
-    </div>
-</div>
-
 ### Online‑Wallets
 
 <div class="payment-grid">
     <div class="payment-grid-item">
         <p>ADV Cash</p> 
         <img src="/img/faq/logoimg/advcash.png" width="30px" height="27px" alt="Bitcoin mit ADV Cash kaufen, Bitcoin mit ADV Cash verkaufen">
-    </div>
-    <div class="payment-grid-item">
-        <p>MobilePay</p> 
-        <img src="/img/faq/logoimg/mobilepay.png" width="30px" height="27px" alt="Bitcoin mit MobilePay kaufen, Bitcoin mit MobilePay verkaufen">
-    </div>
-    <div class="payment-grid-item">
-        <p>N26</p> 
-        <img src="/img/faq/logoimg/n26.png" width="30px" height="27px" alt="Bitcoin mit N26 kaufen, Bitcoin mit N26 verkaufen">
     </div>
     <div class="payment-grid-item">
         <p>Neteller</p> 
@@ -86,47 +65,6 @@ PeachBitcoin ist die sichere, schnelle und einfache Möglichkeit, Bitcoin mit je
     <div class="payment-grid-item">
         <p>Steam</p> 
         <img src="/img/faq/logoimg/steam.jpg" width="30px" height="27px" alt="Bitcoin mit Steam kaufen, Bitcoin mit Steam verkaufen">
-    </div>
-</div>
-
-### National Options
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>Satispay</p> 
-        <img src="/img/faq/logoimg/satispay.png" width="30px" height="27px" alt="Bitcoin mit Satispay kaufen, Bitcoin mit Satispay verkaufen">
-    </div>
-    <div class="payment-grid-item">
-        <p>PostePay</p> 
-        <img src="/img/faq/logoimg/postepay.png" width="30px" height="27px" alt="Bitcoin mit PostePay kaufen, Bitcoin mit PostePay verkaufen">
-    </div>
-    <div class="payment-grid-item">
-        <p>MbWay</p> 
-        <img src="/img/faq/logoimg/mbway.png" width="30px" height="27px" alt="Bitcoin mit MbWay kaufen, Bitcoin mit MbWay verkaufen">
-    </div>
-    <div class="payment-grid-item">
-        <p>Bizum</p> 
-        <img src="/img/faq/logoimg/Bizium.png" width="30px" height="27px" alt="Bitcoin mit Bizum kaufen, Bitcoin mit Bizum verkaufen">
-    </div>
-    <div class="payment-grid-item">
-        <p>Rebellion</p> 
-        <img src="/img/faq/logoimg/rebellion.png" width="30px" height="27px" alt="Bitcoin mit Rebellion kaufen, Bitcoin mit Rebellion verkaufen">
-    </div>
-    <div class="payment-grid-item">
-        <p>Mobile Pay</p> 
-        <img src="/img/faq/logoimg/mobilepay.png" width="30px" height="27px" alt="Bitcoin mit Mobile Pay kaufen, Bitcoin mit Mobile Pay verkaufen">
-    </div>
-    <div class="payment-grid-item">
-        <p>Keks Pay</p> 
-        <img src="/img/faq/logoimg/keks.png" width="30px" height="27px" alt="Bitcoin mit Keks Pay kaufen, Bitcoin mit Keks Pay verkaufen">
-    </div>
-    <div class="payment-grid-item">
-        <p>Paylib</p> 
-        <img src="/img/faq/logoimg/paylib.png" width="30px" height="27px" alt="Bitcoin mit Paylib kaufen, Bitcoin mit Paylib verkaufen">
-    </div>
-    <div class="payment-grid-item">
-        <p>Lydia</p> 
-        <img src="/img/faq/logoimg/lydia.png" width="30px" height="27px" alt="Bitcoin mit Lydia kaufen, Bitcoin mit Lydia verkaufen">
     </div>
 </div>
 

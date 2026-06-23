@@ -6,15 +6,6 @@ PeachBitcoin est la manière sûre, rapide et simple d’acheter et de vendre du
 
 ## Méthodes de paiement en HUF
 
-### Virement bancaire
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>National Transfer Hungary</p> 
-        <img src="/img/faq/logoimg/hungarybank.png" width="30px" height="27px" alt="Acheter du bitcoin avec National Transfer Hungary, Vendre du bitcoin avec National Transfer Hungary">
-    </div>
-</div>
-
 ### Portefeuilles en ligne
 
 <div class="payment-grid">

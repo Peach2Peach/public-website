@@ -6,15 +6,6 @@ PeachBitcoin è il modo sicuro, rapido e semplice per comprare e vendere Bitcoin
 
 ## Metodi di Pagamento in ISK
 
-### Bonifico Bancario
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>Trasferimento Nazionale Islanda</p> 
-        <img src="/img/faq/logoimg/icelandflag.png" width="30px" height="27px" alt="Compra bitcoin con Trasferimento Nazionale Islanda, Vendi bitcoin con Trasferimento Nazionale Islanda">
-    </div>
-</div>
-
 ### Portafogli Elettronici
 
 <div class="payment-grid">

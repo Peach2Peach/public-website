@@ -6,25 +6,12 @@ PeachBitcoin ist die sichere, schnelle und einfache Möglichkeit, Bitcoin mit je
 
 ## DKK Zahlungsmethoden
 
-### Banküberweisung
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>Inlandsüberweisung Denmark</p> 
-        <img src="/img/faq/logoimg/dkkdenmark.png" width="30px" height="27px" alt="Bitcoin mit National Transfer Denmark kaufen, Bitcoin mit National Transfer Denmark verkaufen">
-    </div>
-</div>
-
 ### Online‑Wallets
 
 <div class="payment-grid">
     <div class="payment-grid-item">
         <p>PayPal</p> 
         <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Bitcoin mit PayPal kaufen, Bitcoin mit PayPal verkaufen">
-    </div>
-    <div class="payment-grid-item">
-        <p>MobilePay</p> 
-        <img src="/img/faq/logoimg/mobilepay.png" width="30px" height="27px" alt="Bitcoin mit MobilePay kaufen, Bitcoin mit MobilePay verkaufen">
     </div>
     <div class="payment-grid-item">
         <p>Neteller</p> 

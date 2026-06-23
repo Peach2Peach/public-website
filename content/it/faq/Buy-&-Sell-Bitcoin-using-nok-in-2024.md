@@ -6,19 +6,6 @@ PeachBitcoin è il modo sicuro, veloce e semplice per comprare e vendere Bitcoin
 
 ## NOK Payment Methods
 
-### Bonifico bancario
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>Straksbetaling</p> 
-        <img src="/img/faq/logoimg/norway.png" width="30px" height="27px" alt="Compra bitcoin con Straksbetaling, Vendi bitcoin con Straksbetaling">
-    </div>
-    <div class="payment-grid-item">
-        <p>National Transfer Norway</p> 
-        <img src="/img/faq/logoimg/norway.png" width="30px" height="27px" alt="Compra bitcoin con National Transfer Norway, Vendi bitcoin con National Transfer Norway">
-    </div>
-</div>
-
 ### Portafogli online
 
 <div class="payment-grid">
@@ -41,10 +28,6 @@ PeachBitcoin è il modo sicuro, veloce e semplice per comprare e vendere Bitcoin
     <div class="payment-grid-item">
         <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Compra bitcoin con Skrill, Vendi bitcoin con Skrill">
-    </div>
-    <div class="payment-grid-item">
-        <p>Vipps</p> 
-        <img src="/img/faq/logoimg/vipps.png" width="30px" height="27px" alt="Compra bitcoin con Vipps, Vendi bitcoin con Vipps">
     </div>
     <div class="payment-grid-item">
         <p>Wise</p> 

@@ -6,15 +6,6 @@ PeachBitcoin è il modo sicuro, veloce e semplice per comprare e vendere Bitcoin
 
 ## BGN Payment Methods
 
-### Bonifico bancario
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>National Transfer Bulgaria</p> 
-        <img src="/img/faq/logoimg/bulgariaflag.png" width="30px" height="27px" alt="Compra bitcoin con National Transfer Bulgaria, Vendi bitcoin con National Transfer Bulgaria">
-    </div>
-</div>
-
 ### Portafogli online
 
 <div class="payment-grid">

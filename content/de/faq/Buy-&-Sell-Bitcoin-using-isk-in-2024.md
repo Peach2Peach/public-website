@@ -6,15 +6,6 @@ PeachBitcoin ist der sichere, schnelle und einfache Weg, Bitcoin mit jeder Zahlu
 
 ## ISK Zahlungsmethoden
 
-### Banküberweisung
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>Nationale Überweisung Island</p> 
-        <img src="/img/faq/logoimg/icelandflag.png" width="30px" height="27px" alt="Bitcoin kaufen mit Nationaler Überweisung Island, Bitcoin verkaufen mit Nationaler Überweisung Island">
-    </div>
-</div>
-
 ### Online-Wallets
 
 <div class="payment-grid">

@@ -6,15 +6,6 @@ PeachBitcoin is the secure, quick, and easy way to buy and sell Bitcoin using an
 
 ## ISK Payment Methods
 
-### Bank Transfer
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>National Transfer Iceland</p> 
-        <img src="/img/faq/logoimg/icelandflag.png" width="30px" height="27px" alt="Buy bitcoin with National Transfer Iceland, Sell bitcoin with National Transfer Iceland">
-    </div>
-</div>
-
 ### Online Wallets
 
 <div class="payment-grid">

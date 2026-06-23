@@ -6,15 +6,6 @@ PeachBitcoin è il modo sicuro, veloce e semplice per comprare e vendere Bitcoin
 
 ## HUF Payment Methods
 
-### Bonifico bancario
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>National Transfer Hungary</p> 
-        <img src="/img/faq/logoimg/hungarybank.png" width="30px" height="27px" alt="Compra bitcoin con National Transfer Hungary, Vendi bitcoin con National Transfer Hungary">
-    </div>
-</div>
-
 ### Portafogli online
 
 <div class="payment-grid">

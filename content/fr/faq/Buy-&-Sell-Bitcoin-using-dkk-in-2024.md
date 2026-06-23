@@ -6,25 +6,12 @@ PeachBitcoin est la manière sûre, rapide et simple d’acheter et de vendre du
 
 ## Méthodes de paiement en DKK
 
-### Virement bancaire
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>National Transfer Denmark</p> 
-        <img src="/img/faq/logoimg/dkkdenmark.png" width="30px" height="27px" alt="Acheter du bitcoin avec National Transfer Denmark, Vendre du bitcoin avec National Transfer Denmark">
-    </div>
-</div>
-
 ### Portefeuilles en ligne
 
 <div class="payment-grid">
     <div class="payment-grid-item">
         <p>PayPal</p> 
         <img src="/img/faq/logoimg/paypal.png" width="30px" height="27px" alt="Acheter du bitcoin avec PayPal, Vendre du bitcoin avec PayPal">
-    </div>
-    <div class="payment-grid-item">
-        <p>MobilePay</p> 
-        <img src="/img/faq/logoimg/mobilepay.png" width="30px" height="27px" alt="Acheter du bitcoin avec MobilePay, Vendre du bitcoin avec MobilePay">
     </div>
     <div class="payment-grid-item">
         <p>Neteller</p> 

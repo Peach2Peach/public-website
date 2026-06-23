@@ -6,25 +6,12 @@ PeachBitcoin est la manière sûre, rapide et simple d’acheter et de vendre du
 
 ## Méthodes de paiement en CZK
 
-### Virement bancaire
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>National Transfer République tchèque</p> 
-        <img src="/img/faq/logoimg/czech.png" width="30px" height="27px" alt="Acheter du bitcoin avec National Transfer République tchèque, Vendre du bitcoin avec National Transfer République tchèque">
-    </div>
-</div>
-
 ### Portefeuilles en ligne
 
 <div class="payment-grid">
     <div class="payment-grid-item">
         <p>Bankera</p> 
         <img src="/img/faq/logoimg/bankera.png" width="30px" height="27px" alt="Acheter du bitcoin avec Bankera, Vendre du bitcoin avec Bankera">
-    </div>
-    <div class="payment-grid-item">
-        <p>Friends 24</p> 
-        <img src="/img/faq/logoimg/blank.png" width="30px" height="27px" alt="Acheter du bitcoin avec Friends 24, Vendre du bitcoin avec Friends 24">
     </div>
     <div class="payment-grid-item">
         <p>PayPal</p> 

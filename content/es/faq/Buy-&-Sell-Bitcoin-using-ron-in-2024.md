@@ -6,15 +6,6 @@ PeachBitcoin es la forma segura, rápida y sencilla de comprar y vender Bitcoin 
 
 ## Métodos de Pago RON
 
-### Transferencia Bancaria
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>National Transfer Romania</p> 
-        <img src="/img/faq/logoimg/romaniaflag.png" width="30px" height="27px" alt="Comprar bitcoin con National Transfer Romania, Vender bitcoin con National Transfer Romania">
-    </div>
-</div>
-
 ### Billeteras Electrónicas
 
 <div class="payment-grid">

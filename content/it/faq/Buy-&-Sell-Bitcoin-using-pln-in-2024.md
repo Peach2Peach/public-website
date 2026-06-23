@@ -6,22 +6,9 @@ PeachBitcoin è il modo sicuro, veloce e semplice per comprare e vendere Bitcoin
 
 ## PLN Payment Methods
 
-### Bonifico bancario
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>National Transfer Poland</p> 
-        <img src="/img/faq/logoimg/poland.png" width="30px" height="27px" alt="Compra bitcoin con National Transfer Poland, Vendi bitcoin con National Transfer Poland">
-    </div>
-</div>
-
 ### Portafogli online
 
 <div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>Blik</p> 
-        <img src="/img/faq/logoimg/BLIK.png" width="30px" height="27px" alt="Compra bitcoin con Blik, Vendi bitcoin con Blik">
-    </div>
     <div class="payment-grid-item">
         <p>Neteller</p> 
         <img src="/img/faq/logoimg/neteller.png" width="30px" height="27px" alt="Compra bitcoin con Neteller, Vendi bitcoin con Neteller">

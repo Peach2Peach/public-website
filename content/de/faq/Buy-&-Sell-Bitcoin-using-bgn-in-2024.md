@@ -6,15 +6,6 @@ PeachBitcoin ist die sichere, schnelle und einfache Möglichkeit, Bitcoin mit je
 
 ## BGN Zahlungsmethoden
 
-### Banküberweisung
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>Inlandsüberweisung Bulgaria</p> 
-        <img src="/img/faq/logoimg/bulgariaflag.png" width="30px" height="27px" alt="Bitcoin mit National Transfer Bulgaria kaufen, Bitcoin mit National Transfer Bulgaria verkaufen">
-    </div>
-</div>
-
 ### Online‑Wallets
 
 <div class="payment-grid">

@@ -6,15 +6,6 @@ PeachBitcoin ist die sichere, schnelle und einfache Möglichkeit, Bitcoin mit je
 
 ## HUF Zahlungsmethoden
 
-### Banküberweisung
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <p>Inlandsüberweisung Hungary</p> 
-        <img src="/img/faq/logoimg/hungarybank.png" width="30px" height="27px" alt="Bitcoin mit National Transfer Hungary kaufen, Bitcoin mit National Transfer Hungary verkaufen">
-    </div>
-</div>
-
 ### Online‑Wallets
 
 <div class="payment-grid">

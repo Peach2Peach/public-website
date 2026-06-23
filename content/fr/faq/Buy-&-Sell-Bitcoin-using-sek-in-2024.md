@@ -6,15 +6,6 @@ PeachBitcoin est la manière sûre, rapide et simple d’acheter et de vendre du
 
 ## Méthodes de paiement en SEK
 
-### Virement bancaire
-
-<div class="payment-grid">
-    <div class="payment-grid-item">
-        <a href="/buy-bitcoin-with-national-transfer-sweden">National Transfer Sweden</a> 
-        <img src="/img/faq/logoimg/swedenflag.png" width="30px" height="27px" alt="Acheter du bitcoin avec National Transfer Sweden, Vendre du bitcoin avec National Transfer Sweden">
-    </div>
-</div>
-
 ### Portefeuilles en ligne
 
 <div class="payment-grid">
@@ -41,10 +32,6 @@ PeachBitcoin est la manière sûre, rapide et simple d’acheter et de vendre du
     <div class="payment-grid-item">
         <p>Skrill</p> 
         <img src="/img/faq/logoimg/skrill.png" width="30px" height="27px" alt="Acheter du bitcoin avec Skrill, Vendre du bitcoin avec Skrill">
-    </div>
-    <div class="payment-grid-item">
-        <p>Swish</p> 
-        <img src="/img/faq/logoimg/swishlogo.png" width="30px" height="27px" alt="Acheter du bitcoin avec Swish, Vendre du bitcoin avec Swish">
     </div>
     <div class="payment-grid-item">
         <p>Western Union</p> 
