@@ -58,6 +58,14 @@
   }
 }
 
+/* The quick-start guides read as long-form documents, so left-align their
+   content (title, table of contents, headings, body) instead of inheriting the
+   centered page default. The .quickstarts step grids keep their own styling. */
+#quick-start .content-wrap--centered,
+#web-app-quick-start .content-wrap--centered {
+  text-align: left;
+}
+
 .main {
   padding-top: var(--header-height);
   flex: 1;

@@ -1,16 +1,37 @@
 /* Web App quick start: the shared .quickstarts grid is sized for narrow phone
-   screenshots; the wide desktop captures on this page need the full content
-   width to stay readable */
+   screenshots; the wide desktop captures on this page each take a full row,
+   aligned to the body-text column */
 #web-app-quick-start {
+  /* The shared .quickstarts grid bleeds 100px past the text column on each side
+     at large screens (see base/elements.css). On this long-form page the wide
+     desktop captures should stay aligned to the body-text column, so cancel the
+     bleed and let the grid fill its .content-wrap parent. */
+  & .quickstarts {
+    @media (--L_and_up) {
+      width: 100%;
+      margin-left: 0;
+    }
+  }
+
   & .quickstarts > p {
     flex-basis: 100%;
-    text-align: center;
+    text-align: left;
 
     & img {
       display: block;
       margin: 0 auto var(--space-s);
       max-width: 100%;
     }
+  }
+
+  /* Desktop captures (sections 3–6, all under /g-3/…/g-6/) fill the column to a
+     uniform width; each height follows its own aspect ratio. The section-2
+     QR-scan icon and the section-7 log-out crop keep their natural size. */
+  & .quickstarts > p img[src*="/g-3/"],
+  & .quickstarts > p img[src*="/g-4/"],
+  & .quickstarts > p img[src*="/g-5/"],
+  & .quickstarts > p img[src*="/g-6/"] {
+    width: 100%;
   }
 
   /* the two phone-sized pairing steps share one row on larger screens */
