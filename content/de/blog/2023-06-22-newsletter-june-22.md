@@ -62,7 +62,7 @@ Seit wir die App auf Spanisch und Französisch gestartet haben, haben wir Vorsch
 
 Die nächsten in der Reihe sind Italienisch und Deutsch, die fast fertig sind, aber falls ihr dazu beitragen möchtet, die App in eure lokale Sprache zu übersetzen (und dabei einige Satoshis zu verdienen), würden wir uns freuen, von euch zu hören.
 
-Wir suchen zuerst nach jeder europäischen Sprache und planen später, auf den Rest der Welt auszuweiten.
+Wir suchen zuerst nach weiteren Sprachen und planen später, auf den Rest der Welt auszuweiten.
 
 ## Marktstatistiken
 

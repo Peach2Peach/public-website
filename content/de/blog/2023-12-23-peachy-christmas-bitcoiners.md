@@ -37,7 +37,7 @@ Es ist bekannt, dass Bärenmärkte zum Bauen da sind. Nun, schaut euch nur die E
 ### Was ist sonst noch im Jahr 2023 passiert?
 
 - Peach ist weltweit zugänglich (außer in den USA und in einigen anderen Ländern, die von den globalen Fiat-Herrschern als Hochrisiko eingestuft werden)
-- Obwohl Peach weltweit zugänglich ist, haben wir nur einige Währungen außerhalb Europas integriert: (meeeeehr kommt in 2024!!!)
+- Obwohl Peach weltweit zugänglich ist, haben wir bisher nur einige Währungen integriert: (meeeeehr kommt in 2024!!!)
 
 ::::figures 3
 ![Lateinamerika!](/img/blog/peachy-christmas-bitcoiners/peach-latam.jpeg)

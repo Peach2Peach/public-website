@@ -25,7 +25,7 @@ Marketing Manager
 :::box tech-peach
 ### Local market growth hacker
 
-Vereinigtes Königreich, Deutschland. Spanien und Italien
+Weltweit
 :::
 
 :::box tech-peach

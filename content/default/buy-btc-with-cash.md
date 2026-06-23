@@ -32,5 +32,5 @@ If you're a meetup organizer interested in integrating with Peach, simply fill o
 
 If your meetup meets our eligibility criteria\*, we'll work closely with you to finalize the integration details.
 
-<small>\*Currently, we're focusing on Europe and accepted currencies. However, we're expanding to other regions soon, so don't hesitate to apply, even if your meetup doesn't meet all the requirements.</small>
+<small>\*Currently, we're focusing on supported currencies. However, we're expanding to other regions soon, so don't hesitate to apply, even if your meetup doesn't meet all the requirements.</small>
 

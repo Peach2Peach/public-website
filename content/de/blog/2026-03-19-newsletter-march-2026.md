@@ -81,7 +81,6 @@ Unten findest du eine Zusammenfassung der wichtigsten Stats des letzten Monats. 
 **TL;DR**
 
 - Das Volumen ist stark! **CHF 900k+** im letzten Monat.
-- Instant SEPA sitzt weiterhin auf dem Thron und führt das Feld als liquideste Zahlungsmethode an.
 
 | Metrik | Wert |
 | --- | --- |
@@ -92,8 +91,6 @@ Unten findest du eine Zusammenfassung der wichtigsten Stats des letzten Monats. 
 | Ø Zeit bis zum Abschluss eines Vertrags (vom veröffentlichten Angebot bis zur Zahlung) | 195 Minuten |
 | Anzahl abgeschlossener Trades | 2.808 |
 | Durchschnittlicher Trade-Betrag | 575.077 Sats — CHF 321 |
-
-**Meistgenutzte Zahlungsmethoden:** Instant SEPA auf Platz 1, gefolgt von Revolut, Wise, PayPal, TWINT.
 
 ---
 

@@ -85,7 +85,6 @@ Ci-dessous, vous trouverez un récapitulatif des statistiques les plus important
 **TL;DR**
 
 - Le volume continue de croître doucement : **CHF 610K** le mois dernier (+15% par rapport à novembre).
-- Instant SEPA et Revolut se battent encore pour la méthode la plus liquide. Instant SEPA gagne du terrain, dépassant même Revolut certains jours.
 
 | Métrique | Valeur |
 | --- | --- |
@@ -95,8 +94,6 @@ Ci-dessous, vous trouverez un récapitulatif des statistiques les plus important
 | Temps médian pour finaliser une vente | 32 minutes |
 | Nombre de trades terminés | 4 012 |
 | Montant moyen par trade | 444 539 sats — 334 CHF |
-
-**Méthodes de paiement les plus utilisées :** Revolut, Instant SEPA, Wise, PayPal, TWINT.
 
 ---
 

@@ -52,9 +52,9 @@ Aber genug der Vorrede, kommen wir zur Sache. Indem Sie einfach 5 Schritten folg
 ### Banküberweisung
 
 :::figures 2
-![Bei der Auswahl von Banküberweisung müssen wir zuerst zwischen SEPA-Überweisung oder SEPA-Instant wählen.](/img/blog/how-to-add-a-payment-method/bank-transfer-1.png)
+![Bei der Auswahl von Banküberweisung müssen wir zuerst die Art der Banküberweisung wählen.](/img/blog/how-to-add-a-payment-method/bank-transfer-1.png)
 
-![Schließlich müssen Sie nur noch Ihre SEPA-Daten ausfüllen und auf **Weiter** klicken, um die Hinzufügung dieser Zahlungsmethode abzuschließen.](/img/blog
+![Schließlich müssen Sie nur noch Ihre Überweisungsdaten ausfüllen und auf **Weiter** klicken, um die Hinzufügung dieser Zahlungsmethode abzuschließen.](/img/blog
 
 /how-to-add-a-payment-method/bank-transfer-2.png)
 :::
@@ -81,19 +81,11 @@ Aber genug der Vorrede, kommen wir zur Sache. Indem Sie einfach 5 Schritten folg
 
 Achten Sie darauf, sich nicht mit der BARGELD-Option zu verwechseln.
 
-1. Wenn wir eine der verfügbaren lokalen Zahlungsmethoden hinzufügen möchten, müssen wir zuerst das Land der lokalen Zahlungsmethode wählen. Derzeit gibt es **Italien (Satispay)**, **Portugal (MB Way)**, **Spanien (Bizum)**, **Faster Payments (UK)** usw.
+1. Wenn wir eine der verfügbaren lokalen Zahlungsmethoden hinzufügen möchten, müssen wir zuerst das Land der lokalen Zahlungsmethode wählen. Derzeit gibt es lokale Optionen wie **Faster Payments (UK)** usw.
 
 ![](/img/blog/how-to-add-a-payment-method/national-options-1.png)
 
 <br>
-
-:::figures 3
-![**Italien (Satispay)**](/img/blog/how-to-add-a-payment-method/national-options-italy.png)
-
-![**Portugal (MB Way)**](/img/blog/how-to-add-a-payment-method/national-options-portugal.png)
-
-![**Spanien (Bizum)**](/img/blog/how-to-add-a-payment-method/national-options-spain.png)
-:::
 
 2. Nachdem wir die lokale Option gewählt haben, müssen wir nur noch die notwendigen Informationen ausfüllen und auf „Bestätigen“ klicken, um sie schließlich hinzuzufügen.
 

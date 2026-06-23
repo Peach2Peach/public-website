@@ -31,7 +31,7 @@ description: |
 
 Hey peachies, we’ve got some **juicy news!** 🍑 Peach now integrates **Strike** as a new payment method, making it easier than ever to **on-ramp and off-ramp** between **Bitcoin and EUR/GBP.**
 
-Most online wallets in Europe aren't built by Bitcoiners and often come cluttered with altcoins. But Peach and Strike? They're **pure Bitcoin.** With Strike, Peach users can enjoy a **fast, secure, and Bitcoin-only** solution with seamless on- and off-ramping into fiat. 💸
+Most online wallets aren't built by Bitcoiners and often come cluttered with altcoins. But Peach and Strike? They're **pure Bitcoin.** With Strike, Peach users can enjoy a **fast, secure, and Bitcoin-only** solution with seamless on- and off-ramping into fiat. 💸
 
 Peach users can now deposit **euros or pounds** into their **Strike** account, which can be used to buy **KYC-free Bitcoin** on Peach or sell their KYC-free Bitcoin on Peach and receive **EUR or GBP** directly into their Strike account. T
 This enables **quick and efficient movement** of funds in and out of the Bitcoin ecosystem, offering a smooth experience for users who want to trade Bitcoin without the hassle of traditional banking or online wallets that are not Bitcoin-only.

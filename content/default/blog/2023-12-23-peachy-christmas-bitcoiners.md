@@ -37,7 +37,7 @@ It's famous to say that bear markets are for buiDLing. Well, look below at Peach
 ### What else happened in 2023?
 
 - Peach is accessible GLOBALLY (except in the US and in a few other countries considered as high risk by the global fiat rulers)
-- Though Peach is accessible globally, we have only integrated with some currencies outside Europe: (moooooore to come in 2024!!!)
+- Though Peach is accessible globally, we have only integrated with some currencies so far: (moooooore to come in 2024!!!)
 
 ::::figures 3
 ![Latin America!](/img/blog/peachy-christmas-bitcoiners/peach-latam.jpeg)

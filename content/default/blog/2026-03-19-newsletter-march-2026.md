@@ -81,7 +81,6 @@ Below you'll find a recap of the most important stats from the previous month. L
 **TL;DR**
 
 - The volume is strong! **CHF 900k+** in the last month.
-- Instant SEPA is still on the throne and leads the pack for the most liquid payment method.
 
 | Metric | Value |
 | --- | --- |
@@ -92,8 +91,6 @@ Below you'll find a recap of the most important stats from the previous month. L
 | Avg. time to complete a contract (from offer published to payment made) | 195 minutes |
 | Number of finished trades | 2,808 |
 | Average trade amount | 575,077 sats — CHF 321 |
-
-**Most used payment methods:** Instant SEPA ranks number one, followed by Revolut, Wise, PayPal, TWINT.
 
 ---
 

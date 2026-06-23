@@ -38,7 +38,7 @@ Es famoso decir que los mercados bajistas son para construir. ¡Bien, miren abaj
 ### ¿Qué más pasó en 2023?
 
 - Peach es accesible GLOBALMENTE (excepto en los EE. UU. y en algunos otros países considerados de alto riesgo por los gobernantes globales del fiat)
-- Aunque Peach es accesible globalmente, solo hemos integrado algunas monedas fuera de Europa: (¡muuuucho más por venir en 2024!)
+- Aunque Peach es accesible globalmente, solo hemos integrado algunas monedas hasta ahora: (¡muuuucho más por venir en 2024!)
 
 ::::figures 3
 ![¡América Latina!](/img/blog/peachy-christmas-bitcoiners/peach-latam.jpeg)

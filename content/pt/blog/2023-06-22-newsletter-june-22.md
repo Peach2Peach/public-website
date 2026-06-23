@@ -64,7 +64,7 @@ Desde o lançamento do aplicativo em espanhol e francês, estamos recebendo cont
 
 Os próximos na fila são italiano e alemão, que estão quase prontos, mas caso você queira contribuir para traduzir o aplicativo para seu idioma local (e ganhar alguns sats no processo), ficaríamos mais do que felizes em ouvir você.
 
-Estamos procurando por qualquer idioma europeu primeiro, e posteriormente expandindo para o restante do mundo.
+Estamos procurando por mais idiomas primeiro, e posteriormente expandindo para o restante do mundo.
 
 ## Estatísticas de Mercado
 

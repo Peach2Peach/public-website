@@ -64,8 +64,7 @@ vom 09.06. bis 22.06.
 
 Unten findet ihr eine Zusammenfassung der wichtigsten Statistiken der letzten Wochen. Lasst uns wissen, ob ihr irgendein Diagramm oder eine Metrik sehen möchtet, die hier nicht erscheint.
 TL;DR
-Lokale Optionen wie die Schweizer - Twint, Spanier - Bizum oder Briten - Faster Payment Liquidität wachsen stetig.
-Die höchste Liquidität findet sich jedoch bei den breiten europäischen Zahlungsmethoden, wobei Revolut die liquideste ist, gefolgt von SEPA, Wise und PayPal.
+Lokale Optionen wie die Schweizer - Twint oder Briten - Faster Payment Liquidität wachsen stetig.
 
 ### Anzahl der Trades
 
@@ -83,14 +82,6 @@ Die höchste Liquidität findet sich jedoch bei den breiten europäischen Zahlun
 
 583 Kaufangebote | 47 Verkaufsangebote
 \*6. Juli - 12:00 Uhr
-
-### Top 5 Zahlungsmethoden
-
-1. Revolut
-2. Sepa + Instant Sepa
-3. PayPal
-4. Wise
-5. Faster Payments
 
 ### Neu hinzugefügte Meetups
 

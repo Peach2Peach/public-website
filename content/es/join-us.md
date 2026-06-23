@@ -19,7 +19,7 @@ Gerente de marketing
 :::
 :::box tech-peach
 ### Crecimiento de mercado local
-Reino Unido, Alemania, España e Italia
+En todo el mundo
 :::
 :::box tech-peach
 ### Creador de contenido

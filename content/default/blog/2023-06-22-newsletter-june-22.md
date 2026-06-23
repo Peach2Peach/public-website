@@ -63,7 +63,7 @@ Since launching the app in Spanish and French, we've been receiving submissions 
 
 The next ones in the line are Italian and German, which are almost finished, but in case you would like to contribute to translating the app into your local language (and earn some sats in the process), we'd be more than happy to hear from you.
 
-We're looking for any European language at first, and later expanding to the rest of the world.
+We're looking for more languages at first, and later expanding to the rest of the world.
 
 ## Market Stats
 

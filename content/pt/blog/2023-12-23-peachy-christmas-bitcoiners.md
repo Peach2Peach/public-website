@@ -37,7 +37,7 @@ Primeiramente, \***\*obrigado\*\***! Sim, você! \***\*Os Bitcoiners, os hoDLers
 ### O que mais aconteceu em 2023?
 
 - O Peach está acessível GLOBALMENTE (exceto nos EUA e em alguns outros países considerados de alto risco pelos governantes financeiros globais)
-- Embora o Peach esteja acessível globalmente, apenas integramos com algumas moedas fora da Europa: (mais virão em 2024!!!)
+- Embora o Peach esteja acessível globalmente, apenas integramos com algumas moedas até agora: (mais virão em 2024!!!)
 
 ::::figures 3
 ![América Latina!](/img/blog/peachy-christmas-bitcoiners/peach-latam.jpeg)

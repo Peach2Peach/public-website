@@ -64,7 +64,6 @@ Qui sotto trovate un riepilogo delle statistiche più importanti del mese scorso
 **TL;DR**
 
 - Il volume continua a crescere! **CHF 850k** nell'ultimo mese (+17% rispetto a dicembre).
-- Instant SEPA ha preso il trono a Revolut e guida il gruppo come metodo di pagamento più liquido.
 
 | Metrica | Valore |
 | --- | --- |
@@ -75,10 +74,6 @@ Qui sotto trovate un riepilogo delle statistiche più importanti del mese scorso
 | Tempo mediano per completare una vendita | 17 minuti |
 | Numero di trade conclusi | 2.366 |
 | Importo medio per trade | 529.601 sat — CHF 359,00 |
-
-**Metodi di pagamento più usati:** Instant SEPA, Revolut, Wise, PayPal, TWINT.
-
-Revolut ha perso il suo trono a favore di Instant SEPA come metodo di pagamento più liquido su Peach! Questo potrebbe essere dovuto al rischio di chargeback con Revolut, scoperto più o meno nello stesso periodo.
 
 ---
 

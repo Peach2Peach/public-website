@@ -63,9 +63,9 @@ Comunque, basta con le chiacchiere e andiamo al sodo. Seguendo soltanto 5 passag
 ### Bonifico Bancario
 
 :::figures 2
-![Scegliendo il Bonifico Bancario, dovremo prima scegliere tra bonifico SEPA o bonifico SEPA istantaneo.](/img/blog/how-to-add-a-payment-method/bank-transfer-1.png)
+![Scegliendo il Bonifico Bancario, dovremo prima scegliere il tipo di bonifico bancario.](/img/blog/how-to-add-a-payment-method/bank-transfer-1.png)
 
-![Infine, dovrai solo compilare i tuoi dettagli SEPA e fare clic su **Avanti** per completare l'aggiunta di questo metodo di pagamento.](/img/blog/how-to-add-a-payment-method/bank-transfer-2.png)
+![Infine, dovrai solo compilare i tuoi dettagli di bonifico e fare clic su **Avanti** per completare l'aggiunta di questo metodo di pagamento.](/img/blog/how-to-add-a-payment-method/bank-transfer-2.png)
 :::
 
 ### Portafogli Online
@@ -90,19 +90,11 @@ Comunque, basta con le chiacchiere e andiamo al sodo. Seguendo soltanto 5 passag
 
 Fai attenzione, non confonderti con l'opzione CASH.
 
-1. Se vogliamo aggiungere uno dei metodi di pagamento locali disponibili, la prima cosa da fare è scegliere il Paese del metodo di pagamento locale. Al momento ci sono **Italia (Satispay)**, **Portogallo (MB Way)**, **Spagna (Bizum)**, **Faster Payments (UK)**, ecc.
+1. Se vogliamo aggiungere uno dei metodi di pagamento locali disponibili, la prima cosa da fare è scegliere il Paese del metodo di pagamento locale. Al momento ci sono opzioni locali come **Faster Payments (UK)**, ecc.
 
 ![](/img/blog/how-to-add-a-payment-method/national-options-1.png)
 
 <br>
-
-:::figures 3
-![**Italia (Satispay)**](/img/blog/how-to-add-a-payment-method/national-options-italy.png)
-
-![**Portogallo (MB Way)**](/img/blog/how-to-add-a-payment-method/national-options-portugal.png)
-
-![**Spagna (Bizum)**](/img/blog/how-to-add-a-payment-method/national-options-spain.png)
-:::
 
 2. Dopo aver scelto l'opzione locale, dovremo solo compilare le informazioni necessarie per utilizzarla e fare clic su “Conferma” per aggiungerla definitivamente.
 

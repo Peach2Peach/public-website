@@ -61,8 +61,7 @@ dal 09/06 al 22/06
 
 Di seguito, troverai un riassunto delle statistiche più importanti delle settimane precedenti. Facci sapere se desideri vedere qualche grafico o metrica che non appare qui.
 TL;DR
-Opzioni locali come il Swiss - Twint, lo spagnolo - Bizum, o il britannico - Liquidi di pagamento più veloci continuano a crescere costantemente.
-Tuttavia, la maggiore liquidità si trova nei Metodi di Pagamento Europei ampi, con Revolut che è il più liquido, seguito da SEPA, Wise e PayPal.
+Opzioni locali come il Swiss - Twint, o il britannico - Liquidi di pagamento più veloci continuano a crescere costantemente.
 
 ### Numero di scambi
 
@@ -80,14 +79,6 @@ Tuttavia, la maggiore liquidità si trova nei Metodi di Pagamento Europei ampi, 
 
 583 offerte di acquisto | 47 offerte di vendita
 \*6 luglio - 12:00pm
-
-### Top 5 Metodi di Pagamento
-
-1. Revolut
-2. Sepa + Sepa Istantaneo
-3. PayPal
-4. Wise
-5. Pagamenti Veloci
 
 ### Incontri appena aggiunti
 

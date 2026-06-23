@@ -60,9 +60,9 @@ De cualquier manera, suficiente charla y vamos al grano. Siguiendo 5 pasos podr�
 ### Transferencia Bancaria
 
 :::figures 2
-![Al elegir Transferencia Bancaria, primero necesitaremos elegir entre transferencia SEPA, o SEPA instantánea.](/img/blog/how-to-add-a-payment-method/bank-transfer-1.png)
+![Al elegir Transferencia Bancaria, primero necesitaremos elegir el tipo de transferencia bancaria.](/img/blog/how-to-add-a-payment-method/bank-transfer-1.png)
 
-![Finalmente solo necesitarás llenar tus detalles SEPA, y hacer clic en **Siguiente** para terminar de agregar este método de pago.](/img/blog/how-to-add-a-payment-method/bank-transfer-2.png)
+![Finalmente solo necesitarás llenar tus detalles de la transferencia, y hacer clic en **Siguiente** para terminar de agregar este método de pago.](/img/blog/how-to-add-a-payment-method/bank-transfer-2.png)
 :::
 
 ### Carteras en Línea
@@ -87,19 +87,11 @@ De cualquier manera, suficiente charla y vamos al grano. Siguiendo 5 pasos podr�
 
 Ten cuidado, no te confundas con la opción EFECTIVO.
 
-1. Si queremos agregar uno de los métodos de pago locales disponibles, lo primero que necesitaremos elegir es el País del método de pago local. Ahora mismo hay **Italia (Satispay)**, **Portugal (MB Way)**, **España (Bizum)**, **Pagos Rápidos (Reino Unido)**, etc.
+1. Si queremos agregar uno de los métodos de pago locales disponibles, lo primero que necesitaremos elegir es el País del método de pago local. Ahora mismo hay opciones locales como **Pagos Rápidos (Reino Unido)**, etc.
 
 ![](/img/blog/how-to-add-a-payment-method/national-options-1.png)
 
 <br>
-
-:::figures 3
-![**Italia (Satispay)**](/img/blog/how-to-add-a-payment-method/national-options-italy.png)
-
-![**Portugal (MB Way)**](/img/blog/how-to-add-a-payment-method/national-options-portugal.png)
-
-![**España (Bizum)**](/img/blog/how-to-add-a-payment-method/national-options-spain.png)
-:::
 
 2. Después de haber elegido la opción local, solo necesitaremos llenar la información necesaria para usarla, y hacer clic en “Confirmar” para finalmente agregarla.
 

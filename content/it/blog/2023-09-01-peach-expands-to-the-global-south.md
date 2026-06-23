@@ -19,7 +19,7 @@ TL;DR
 
 Peach è sempre stato impegnato a democratizzare l'accesso a Bitcoin e, con il lancio di Peach 0.3, l'app sta espandendo la sua portata verso il Sud del mondo. Fornendo una soluzione intuitiva e senza KYC per l'acquisto di Bitcoin, Peach mira ad emancipare individui in regioni dove i servizi finanziari tradizionali potrebbero essere limitati. Peach si espanderà a onde e ha integrato valute e metodi di pagamento dall'Argentina, dalla Colombia, dalla Costa Rica, dal Cile, dal Messico, dal Perù, dal Venezuela in America Latina e dal Congo, dalla Costa d'Avorio e dalla Nigeria in Africa. Peach vuole collaborare con gli incontri locali di Bitcoin e le comunità sul campo per espandere il trading peer-to-peer.
 
-Sì, hai letto bene 😉 Peach sta finalmente uscendo dall'Europa e sta espandendo i suoi confini in altre parti del mondo.
+Sì, hai letto bene 😉 Peach sta finalmente espandendo i suoi confini in altre parti del mondo.
 
 Oggi siamo molto orgogliosi di annunciare che con il lancio di Peach 0.3 stiamo aggiungendo molti nuovi Metodi di Pagamento all'interno della nostra app, specialmente focalizzati su 2 diverse regioni del Sud del mondo:
 
@@ -34,7 +34,7 @@ Come forse saprai, il problema più grande nei mercati peer-to-peer è trovare a
 
 Questo è il problema su cui ci stiamo concentrando nel risolvere; fornire il modo più semplice per trovare altre persone che utilizzino gli stessi metodi di pagamento che tu utilizzi, quando cerchi di comprare o vendere bitcoin.
 
-In Europa c'è il SEPA (Area unica di pagamento in euro), che semplifica le cose per i paesi che appartengono all'Unione Europea per inviare denaro tra loro. Tuttavia, anche lì, non tutti hanno accesso a questo sistema di pagamenti, ed è per questo che vengono utilizzate molte altre alternative, e danno opportunità alle persone di inviare denaro tra di loro. Ad esempio, utilizzando app fintech, carte regalo o contanti.
+Molte regioni hanno i propri sistemi di bonifico bancario che semplificano l'invio di denaro a livello locale. Tuttavia, non tutti hanno accesso a questi sistemi, ed è per questo che vengono utilizzate molte altre alternative, e danno opportunità alle persone di inviare denaro tra di loro. Ad esempio, utilizzando app fintech, carte regalo o contanti.
 
 Da Peach, ascoltiamo costantemente i nostri utenti e cerchiamo di aggiungere i metodi di pagamento che ci chiedono. E questo ci ha fatto capire che molte persone del Sud del mondo avevano anche bisogno di un modo facile per scambiare Bitcoin peer-to-peer.
 

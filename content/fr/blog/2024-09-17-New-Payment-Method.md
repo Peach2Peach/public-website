@@ -35,7 +35,7 @@ description: >
 
 Salut les peachies, nous avons une **nouvelle croustillante !** 🍑 Peach intègre désormais **Strike** comme nouvelle méthode de paiement, rendant plus facile que jamais de **convertir et retirer** entre **Bitcoin et EUR/GBP.**
 
-La plupart des portefeuilles en ligne en Europe ne sont pas créés par des bitcoiners et sont souvent encombrés de cryptos alternatives. Mais Peach et Strike ? Ils sont **100% Bitcoin.** Avec Strike, les utilisateurs de Peach peuvent profiter d'une solution **rapide, sécurisée et uniquement en Bitcoin** avec des entrées et sorties vers la monnaie fiduciaire sans effort. 💸
+La plupart des portefeuilles en ligne ne sont pas créés par des bitcoiners et sont souvent encombrés de cryptos alternatives. Mais Peach et Strike ? Ils sont **100% Bitcoin.** Avec Strike, les utilisateurs de Peach peuvent profiter d'une solution **rapide, sécurisée et uniquement en Bitcoin** avec des entrées et sorties vers la monnaie fiduciaire sans effort. 💸
 
 Les utilisateurs de Peach peuvent maintenant déposer des **euros ou des livres** sur leur compte **Strike**, qu'ils peuvent utiliser pour acheter du **Bitcoin sans KYC** sur Peach ou vendre leur Bitcoin sans KYC sur Peach et recevoir des **EUR ou GBP** directement sur leur compte Strike. Cela permet un **mouvement rapide et efficace** des fonds dans et hors de l'écosystème Bitcoin, offrant une expérience fluide pour les utilisateurs qui souhaitent échanger du Bitcoin sans les tracas de la banque traditionnelle ou des portefeuilles en ligne non dédiés au Bitcoin.
 

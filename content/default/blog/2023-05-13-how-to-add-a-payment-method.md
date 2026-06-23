@@ -55,9 +55,9 @@ methods:
 ### Bank Transfer
 
 :::figures 2
-![When choosing Bank Transfer, we’ll first need to choose either between SEPA transfer, or SEPA instant.](/img/blog/how-to-add-a-payment-method/bank-transfer-1.png)
+![When choosing Bank Transfer, we’ll first need to choose the type of bank transfer.](/img/blog/how-to-add-a-payment-method/bank-transfer-1.png)
 
-![Finally you’ll just need to fill your SEPA details, and click on **Next** to finish the addition of this payment method.](/img/blog/how-to-add-a-payment-method/bank-transfer-2.png)
+![Finally you’ll just need to fill your bank transfer details, and click on **Next** to finish the addition of this payment method.](/img/blog/how-to-add-a-payment-method/bank-transfer-2.png)
 :::
 
 ### Online Wallets
@@ -83,19 +83,9 @@ methods:
 Be careful, do not get confused with the CASH option.
 
 1. If we want to add one of the available local payment methods, the first thing we’ll need to choose is the Country of the local payment
-   method. Right now there are **Italy (Satispay)**, **Portugal (MB Way)**, **Spain (Bizum)**, **Faster Payments (UK)**, etc.
+   method. Right now there are local options like **Faster Payments (UK)**, etc.
 
 ![](/img/blog/how-to-add-a-payment-method/national-options-1.png)
-
-<br>
-
-:::figures 3
-![**Italy (Satispay)**](/img/blog/how-to-add-a-payment-method/national-options-italy.png)
-
-![**Portugal (MB Way)**](/img/blog/how-to-add-a-payment-method/national-options-portugal.png)
-
-![**Spain (Bizum)**](/img/blog/how-to-add-a-payment-method/national-options-spain.png)
-:::
 
 2. After we’ve chosen the local option, we’ll just need to fill the necessary information to use it, and click on “Confirm” to finally add it.
 

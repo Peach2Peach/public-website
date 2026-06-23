@@ -12,7 +12,7 @@ helpFooter: true
 
 # Peach x Meetups
 
-Estamos añadiendo una gran cantidad de meetups donde los usuarios pueden comerciar efectivo de manera segura usando Peach en toda Europa (y expandiéndonos
+Estamos añadiendo una gran cantidad de meetups donde los usuarios pueden comerciar efectivo de manera segura usando Peach en muchas regiones (y expandiéndonos
 al resto del mundo en un futuro cercano). Les pedimos a ustedes (organizadores de meetups) que ayuden a los usuarios en caso de problemas, y que
 tuiteen algunas fotos bonitas del proceso. Como agradecimiento, les daremos EXPOSICIÓN, merchandising bonito y una parte de los ingresos del volumen de comercio que
 suceda en su meetup. Detalles completos a continuación 👇

@@ -25,7 +25,7 @@ Responsable marketing
 :::box tech-peach
 ### Growth Hacker du marché local
 
-Royaume-Uni, Allemagne, Espagne et Italie
+Dans le monde entier
 :::
 
 :::box tech-peach

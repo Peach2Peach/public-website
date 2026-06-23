@@ -12,7 +12,7 @@ rodapéDeAjuda: true
 
 # Peach x Encontros
 
-Estamos adicionando vários encontros onde os usuários podem negociar dinheiro de forma segura usando o Peach por toda a Europa (e expandindo para
+Estamos adicionando vários encontros onde os usuários podem negociar dinheiro de forma segura usando o Peach em muitas regiões (e expandindo para
 o resto do mundo num futuro próximo). Pedimos a vocês (organizadores de encontros) para ajudar os usuários em caso de problemas e para
 tweetar algumas fotos legais do processo. Como agradecimento, daremos a vocês EXPOSIÇÃO, merchandising bacana e uma parte da receita do volume de negociação que
 acontece no seu encontro. Detalhes completos abaixo 👇

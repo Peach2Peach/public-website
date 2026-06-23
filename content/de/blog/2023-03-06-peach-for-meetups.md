@@ -12,7 +12,7 @@ helpFooter: true
 
 # Peach x Meetups
 
-Wir fügen eine Menge Meetups hinzu, bei denen Benutzer in ganz Europa sicher mit Bargeld über Peach handeln können (und bald auch in anderen Teilen der Welt). Wir bitten euch (Meetup-Organisatoren), den Benutzern bei Problemen zu helfen und ein paar schöne Bilder des Prozesses zu twittern. Als Dankeschön bieten wir euch EXPOSURE, schönes Merch und einen Teil des Umsatzes des Handelsvolumens, das auf eurem Meetup stattfindet. Alle Details unten 👇
+Wir fügen eine Menge Meetups hinzu, bei denen Benutzer in vielen Regionen sicher mit Bargeld über Peach handeln können (und bald auch in anderen Teilen der Welt). Wir bitten euch (Meetup-Organisatoren), den Benutzern bei Problemen zu helfen und ein paar schöne Bilder des Prozesses zu twittern. Als Dankeschön bieten wir euch EXPOSURE, schönes Merch und einen Teil des Umsatzes des Handelsvolumens, das auf eurem Meetup stattfindet. Alle Details unten 👇
 
 ## Offener Brief an Meetup-Organisatoren
 

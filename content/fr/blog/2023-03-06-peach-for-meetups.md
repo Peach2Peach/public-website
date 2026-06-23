@@ -13,7 +13,7 @@ footerHelper: true
 
 # Peach x Meetups
 
-Nous ajoutons de nombreuses meetups où les utilisateurs peuvent échanger de l'argent en toute sécurité avec Peach partout en Europe (et bientôt dans le reste du monde). Nous vous demandons, à vous organisateurs de rencontres / meetups, d'aider les utilisateurs en cas de problème et de tweeter de belles photos du processus. En remerciement, nous vous offrirons de la VISIBILITÉ, de superbes produits dérivés et une partie des revenus du volume d'échanges qui se produira lors de votre rencontre. Détails complets ci-dessous 👇
+Nous ajoutons de nombreuses meetups où les utilisateurs peuvent échanger de l'argent en toute sécurité avec Peach dans de nombreuses régions (et bientôt dans le reste du monde). Nous vous demandons, à vous organisateurs de rencontres / meetups, d'aider les utilisateurs en cas de problème et de tweeter de belles photos du processus. En remerciement, nous vous offrirons de la VISIBILITÉ, de superbes produits dérivés et une partie des revenus du volume d'échanges qui se produira lors de votre rencontre. Détails complets ci-dessous 👇
 
 ## Lettre ouverte aux organisateurs de meetups
 

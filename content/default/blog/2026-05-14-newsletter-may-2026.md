@@ -142,7 +142,6 @@ Below you'll find a recap of the most important stats from the previous months. 
 **TL;DR**
 
 - **Volume is consolidating** at an average of **CHF 683k / month**.
-- Top 6 most liquid payment methods: **Instant SEPA, Revolut, SEPA, Wise, PayPal, Faster Payments**.
 
 | Metric | Value |
 | --- | --- |
@@ -153,8 +152,6 @@ Below you'll find a recap of the most important stats from the previous months. 
 | Median time to complete a contract | 21 minutes (from offer published to payment made) |
 | Number of finished trades | 4,080 |
 | Average trade amount | 455,876 sats — CHF 274 |
-
-**Most used payment methods:** Instant SEPA ranks number one, followed by Revolut, Wise, PayPal, Faster Payments.
 
 Big win — it's fast to complete a trade with Peach, if the trade goes smooth and you use instant payments.
 

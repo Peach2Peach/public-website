@@ -23,7 +23,7 @@ Si vous êtes un organisateur de meetup et souhaitez intégrer votre meetup dans
 
 Si votre meetup est éligible\* pour être intégré dans notre application, nous reprendrons contact avec vous pour vous demander les détails finaux.
 
-<small>\*seulement l'Europe et les [devises acceptées](/how-it-works/#payment) sont éligibles pour le moment. À l'avenir, nous étendrons nos activités à d'autres régions du monde, alors n'hésitez pas à postuler même si votre meetup ne remplit pas toutes les conditions requises.</small>
+<small>\*seulement les [devises acceptées](/how-it-works/#payment) sont éligibles pour le moment. À l'avenir, nous étendrons nos activités à d'autres régions du monde, alors n'hésitez pas à postuler même si votre meetup ne remplit pas toutes les conditions requises.</small>
 
 <!--[map]-->
 

@@ -23,7 +23,7 @@ Se sei un organizzatore di meetup e desideri includere il tuo meetup in Peach, c
 
 Se il tuo meetup è idoneo\* per essere integrato nella nostra app, ti ricontatteremo per richiedere i dettagli finali.
 
-<small>\*Solo l'Europa e le [valute accettate](/it/how-it-works/#payment) sono attualmente idonee. In futuro espanderemo verso altre zone del mondo, quindi non esitare a fare richiesta anche se il tuo meetup non soddisfa tutti i requisiti.</small>
+<small>\*Solo le [valute accettate](/it/how-it-works/#payment) sono attualmente idonee. In futuro espanderemo verso altre zone del mondo, quindi non esitare a fare richiesta anche se il tuo meetup non soddisfa tutti i requisiti.</small>
 
 <!--[map]-->
 

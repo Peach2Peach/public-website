@@ -62,7 +62,7 @@ Depuis le lancement de l'application en espagnol et en français, nous avons re�
 
 Les prochaines sont l'italien et l'allemand, qui sont presque terminés, mais si vous souhaitez contribuer à la traduction de l'application dans votre langue locale (et gagner des sats dans le processus), nous serions plus qu'heureux de vous entendre.
 
-Nous recherchons d'abord toute langue européenne, puis nous envisagerons d'élargir à d'autres régions du monde.
+Nous recherchons d'abord davantage de langues, puis nous envisagerons d'élargir à d'autres régions du monde.
 
 ## Statistiques du marché
 

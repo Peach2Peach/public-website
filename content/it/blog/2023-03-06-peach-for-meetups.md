@@ -12,7 +12,7 @@ helpFooter: true
 
 # Peach x Meetups
 
-Stiamo aggiungendo molti meetup in cui gli utenti possono scambiare contanti in modo sicuro utilizzando Peach in tutta Europa (ed espanderemo il servizio nel resto del mondo in un futuro prossimo). Chiediamo a voi (organizzatori di meetup) di aiutare gli utenti in caso di problemi e di condividere alcune belle foto dell'evento. Come ringraziamento, vi offriremo VISIBILITÀ, meravigliosi gadget e l' 1% del volume di trading che avviene nel vostro meetup. Tutti i dettagli qui sotto 👇
+Stiamo aggiungendo molti meetup in cui gli utenti possono scambiare contanti in modo sicuro utilizzando Peach in molte regioni (ed espanderemo il servizio nel resto del mondo in un futuro prossimo). Chiediamo a voi (organizzatori di meetup) di aiutare gli utenti in caso di problemi e di condividere alcune belle foto dell'evento. Come ringraziamento, vi offriremo VISIBILITÀ, meravigliosi gadget e l' 1% del volume di trading che avviene nel vostro meetup. Tutti i dettagli qui sotto 👇
 
 ## Lettera aperta agli organizzatori di meetup
 

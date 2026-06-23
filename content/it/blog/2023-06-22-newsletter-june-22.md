@@ -60,7 +60,7 @@ Dopo il lancio dell'app in spagnolo e francese, abbiamo ricevuto proposte per ai
 
 Le prossime in fila sono l'italiano e il tedesco, che sono quasi completi, ma nel caso vorresti contribuire a tradurre l'app nella tua lingua locale (e guadagnare qualche sat in processo), saremo più che felici di sentirti.
 
-Stiamo cercando qualsiasi lingua europea per prima cosa, e in seguito espanderemo al resto del mondo.
+Stiamo cercando più lingue per prima cosa, e in seguito espanderemo al resto del mondo.
 
 ## Statistiche di mercato
 

@@ -35,7 +35,7 @@ description: >
 
 Olá peachies, temos **notícias suculentas!** 🍑 O Peach agora integra **Strike** como um novo método de pagamento, facilitando mais do que nunca o **ramp-up e ramp-down** entre **Bitcoin e EUR/GBP.**
 
-A maioria das carteiras online na Europa não é feita por Bitcoiners e muitas vezes está cheia de altcoins. Mas Peach e Strike? Eles são **puro Bitcoin.** Com Strike, os usuários do Peach podem aproveitar uma solução **rápida, segura e exclusivamente Bitcoin** com ramp-up e ramp-down perfeitos para fiat. 💸
+A maioria das carteiras online não é feita por Bitcoiners e muitas vezes está cheia de altcoins. Mas Peach e Strike? Eles são **puro Bitcoin.** Com Strike, os usuários do Peach podem aproveitar uma solução **rápida, segura e exclusivamente Bitcoin** com ramp-up e ramp-down perfeitos para fiat. 💸
 
 Os usuários do Peach agora podem depositar **euros ou libras** em sua conta **Strike**, que podem ser usados para comprar **Bitcoin sem KYC** no Peach ou vender seu Bitcoin sem KYC no Peach e receber **EUR ou GBP** diretamente em sua conta Strike. Isso permite **movimentações rápidas e eficientes** de fundos dentro e fora do ecossistema Bitcoin, oferecendo uma experiência tranquila para usuários que desejam negociar Bitcoin sem as complicações dos bancos tradicionais ou carteiras online que não são exclusivamente Bitcoin.
 

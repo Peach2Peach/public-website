@@ -64,7 +64,6 @@ Below you'll find a recap of the most important stats from the previous month. L
 **TL;DR**
 
 - The volume is still growing! **CHF 850k** in the last month (+17% from December).
-- Instant SEPA took over the throne from Revolut and leads the pack for the most liquid payment method.
 
 | Metric | Value |
 | --- | --- |
@@ -75,10 +74,6 @@ Below you'll find a recap of the most important stats from the previous month. L
 | Median time to complete a sell trade | 17 minutes |
 | Number of finished trades | 2,366 |
 | Average trade amount | 529,601 sats — CHF 359.00 |
-
-**Most used payment methods:** Instant SEPA, Revolut, Wise, PayPal, TWINT.
-
-Revolut lost its throne to Instant SEPA for the most liquid payment method on Peach! This might be due to the risk of chargeback with Revolut, discovered around the same time.
 
 ---
 

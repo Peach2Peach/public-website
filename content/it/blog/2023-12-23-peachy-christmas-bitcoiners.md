@@ -36,7 +36,7 @@ Innanzitutto, \*\*grazie\*\*! Sì, proprio a te! \*\*Ai possessori di Bitcoin, a
 ### Cos'altro è successo nel 2023?
 
 - Pesca è accessibile GLOBALMENTE (eccetto negli Stati Uniti e in alcuni altri paesi considerati ad alto rischio dai governanti globali delle valute fiduciarie)
-- Anche se Pesca è accessibile globalmente, abbiamo integrato solo alcune valute al di fuori dell'Europa: (ancora di più in arrivo nel 2024!!!)
+- Anche se Pesca è accessibile globalmente, abbiamo integrato solo alcune valute finora: (ancora di più in arrivo nel 2024!!!)
 
 ::::figures 3
 ![America Latina!](/img/blog/peachy-christmas-bitcoiners/peach-latam.jpeg)

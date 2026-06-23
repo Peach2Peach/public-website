@@ -68,8 +68,7 @@ del 06/09 al 06/22
 
 Aquí abajo, encontrarás un resumen de las estadísticas más importantes de las semanas anteriores. Déjanos saber si te gustaría ver algún gráfico o métrica que no aparezca aquí.
 TL;DR
-Opciones locales como el Suizo - Twint, Español - Bizum o Británico - Pagos Más Rápidos siguen creciendo de manera constante.
-Sin embargo, la mayor liquidez se encuentra en los Métodos de Pago Europeos amplios, siendo Revolut el más líquido, seguido por SEPA, Wise y PayPal.
+Opciones locales como el Suizo - Twint o Británico - Pagos Más Rápidos siguen creciendo de manera constante.
 
 ### Número de operaciones
 
@@ -89,14 +88,6 @@ Sin embargo, la mayor liquidez se encuentra en los Métodos de Pago Europeos amp
 
  compra | 47 ofertas de venta
 \*6 de Julio - 12:00pm
-
-### Los 5 Métodos de Pago Principales
-
-1. Revolut
-2. SEPA + SEPA Instantáneo
-3. PayPal
-4. Wise
-5. Pagos Más Rápidos
 
 ### Meetups recién añadidos
 

@@ -20,7 +20,7 @@ Peach is a peer-to-peer marketplace so word of mouth is crucial to get more adop
 
 Sounds like fun? write to [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com)!
 
-Opportunity available for anyone in **Europe**, **Latin America** and **Africa**.
+Opportunity available for anyone, worldwide.
 
 ## Open positions
 
@@ -47,7 +47,7 @@ Marketing manager
 :::box tech-peach
 ### Local market growth hacker
 
-UK, Germany, Spain and Italy
+Worldwide
 :::
 
 :::box tech-peach

@@ -81,7 +81,6 @@ Abajo encontrarás un resumen de las estadísticas más importantes del mes pasa
 **TL;DR**
 
 - ¡El volumen está fuerte! **CHF 900k+** en el último mes.
-- Instant SEPA sigue en el trono y lidera el pelotón como método de pago más líquido.
 
 | Métrica | Valor |
 | --- | --- |
@@ -92,8 +91,6 @@ Abajo encontrarás un resumen de las estadísticas más importantes del mes pasa
 | Tiempo medio para completar un contrato (desde oferta publicada hasta pago hecho) | 195 minutos |
 | Número de trades finalizados | 2.808 |
 | Importe medio por trade | 575.077 sats — CHF 321 |
-
-**Métodos de pago más usados:** Instant SEPA en el número uno, seguido de Revolut, Wise, PayPal, TWINT.
 
 ---
 
