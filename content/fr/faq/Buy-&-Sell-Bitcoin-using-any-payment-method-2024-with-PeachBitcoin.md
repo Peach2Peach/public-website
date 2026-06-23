@@ -8,8 +8,6 @@ Explorez nos diverses méthodes de paiement et choisissez celle qui vous convien
 
 ## Sélectionnez Votre Monnaie
 
-##### Europe
-
 <div class="payment-grid_894">
     <div class="payment-grid-item_523">
         <a href="/fr/faq/Buy-&-Sell-Bitcoin-using-eur-in-2024/">
@@ -89,13 +87,6 @@ Explorez nos diverses méthodes de paiement et choisissez celle qui vous convien
             TRY
         </a>
     </div>
-</div>
-
----
-
-##### Amérique Latine
-
-<div class="payment-grid_894">
     <div class="payment-grid-item_523">
         <a href="/fr/faq/Buy-&-Sell-Bitcoin-using-ars-in-2024/">
             <i class="fas fa-dollar-sign"></i>
@@ -132,13 +123,6 @@ Explorez nos diverses méthodes de paiement et choisissez celle qui vous convien
             CRC
         </a>
     </div>
-</div>
-
----
-
-##### Afrique
-
-<div class="payment-grid_894">
     <div class="payment-grid-item_523">
         <a href="/fr/faq/Buy-&-Sell-Bitcoin-using-cfa-xof-in-2024/">
             <i class="fas fa-coins"></i>
@@ -157,13 +141,6 @@ Explorez nos diverses méthodes de paiement et choisissez celle qui vous convien
             NGN
         </a>
     </div>
-</div>
-
----
-
-##### Autres
-
-<div class="payment-grid_894">
     <div class="payment-grid-item_523">
         <a href="/fr/faq/Buy-&-Sell-Bitcoin-using-ln-swaps-in-2024/">
             <i class="fas fa-coins"></i>
