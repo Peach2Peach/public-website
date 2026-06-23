@@ -1,5 +1,5 @@
 let tradePeaks = {};
-let filters = { date: '24h', currency: 'EUR' };
+let filters = { date: '24h', currency: 'USD' };
 
 const priceElements = document.querySelectorAll('.new-teaser-price');
 const priceCurrencySelects = document.querySelectorAll('#priceCurrencySelect');

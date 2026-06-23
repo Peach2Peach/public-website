@@ -51,6 +51,7 @@ block teaser
                 img(src="/img/home/google-play-button.svg" alt="Google Play Store Button")
               a(href="https://zapstore.dev/download/" target="_blank")
                 img(src="/img/home/zap-button.svg" alt="Zap Store Button")
+            p.new-teaser-download-warning(style="font-size:.7rem; opacity:.65; margin:.5rem 0 0; max-width:34rem; line-height:1.4;") !{i18n('downloadWarning', lang)}
 
             div.new-teaser-trust
               div.new-teaser-trust-bubble
@@ -65,6 +66,7 @@ block teaser
 
             a.primary-button.new-teaser-start-now(href="#download-buttons")
               span.primary-button-text !{i18n('home.teaser.startNow', lang)}
+            p.new-teaser-reverse-solicitation(style="font-size:.72rem; opacity:.7; margin:1rem 0 0; max-width:40rem; line-height:1.5;") !{i18n('reverseSolicitation', lang)}
 
       div.new-teaser-image-container
         img.hero-composite-image(src="/img/home/hero-webapp-phone-desktop.webp" alt="Peach mobile app on a phone in front of the Peach web app in a desktop browser" width="1400" height="1050" decoding="async")
@@ -111,6 +113,7 @@ block main
           a.primary-button(href="https://web.peachbitcoin.com" target="_blank" rel="noopener")
             span.primary-button-text !{i18n('home.webApp.launchButton', lang)}
             +sprite("external-link")
+      p.download-peach-warning(style="font-size:.7rem; opacity:.65; margin:1rem auto 0; max-width:38rem; line-height:1.4; text-align:center;") !{i18n('downloadWarning', lang)}
 
   section.wrap.webapp-promo-content
     div.webapp-promo-text-container
@@ -176,11 +179,11 @@ block main
     div.new-teaser-box
       div.new-teaser-filters
         div.new-teaser-filters-select
-          img#flagIcon(src="/img/flags/europe-icon.svg" alt="Country flag")
+          img#flagIcon(src="/img/flags/united-states-icon.svg" alt="Country flag")
           select#priceCurrencySelect.new-teaser-filters-select
-            option(value="EUR") EUR
-            option(value="CHF") CHF
             option(value="USD") USD
+            option(value="CHF") CHF
+            option(value="EUR") EUR
         div.new-teaser-filters-pillows
           div.new-teaser-filters-pillow(id="24h")
             span.new-teaser-filters-pillow-text 24H
