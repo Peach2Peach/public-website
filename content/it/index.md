@@ -45,7 +45,7 @@ description: Compra e vendi Bitcoin peer-to-peer senza KYC. Peach è un marketpl
 Peach è un'applicazione mobile che **collega** direttamente i compratori e i venditori di Bitcoin.
 
 :::buttons
-[Controlla i nostri metodi di pagamento](/how-it-works/#available-payment-methods)
+[Controlla i nostri metodi di pagamento](/faq/pm/#supported-payment-methods)
 :::
 
 Vendi al **prezzo che preferisci** perché i mercati peer-to-peer sono i veri mercati.

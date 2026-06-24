@@ -45,7 +45,7 @@ description: Achetez et vendez des bitcoins de pair à pair, sans KYC. Peach est
 Peach est une application mobile qui **met en relation** directe les acheteurs et les vendeurs de Bitcoin.
 
 :::buttons
-[Découvrez nos modes de paiement](/how-it-works/#available-payment-methods)
+[Découvrez nos modes de paiement](/faq/pm/#supported-payment-methods)
 :::
 
 Vendez au **prix de votre choix** car les marchés pair-à-pair sont les vrais marchés.

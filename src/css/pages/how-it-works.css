@@ -177,7 +177,6 @@
     }
   }
 
-  #sounds_cool,
   #questions {
     & h3 {
       @mixin peach-text;

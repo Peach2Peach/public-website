@@ -23,7 +23,7 @@ Wenn du ein Treff-Organisator bist und dein Treff in Peach integrieren möchtest
 
 Wenn dein meetup für die Integration in unsere App in frage kommt, werden wir uns erneut kontaktieren um die letzten Details zu klären.
 
-<small> \*Derzeit sind nur die [Akzeptierten Währungen](/de/how-it-works/#payment) berechtigt. In Zukunft werden wir weiter in die Welt expandieren. Zögere also nicht dich zu bewerben, auch wenn dein meetup nicht alle Anforderungen erfüllt.</small>
+<small> \*Derzeit sind nur die [Akzeptierten Währungen](/de/faq/pm/#supported-payment-methods) berechtigt. In Zukunft werden wir weiter in die Welt expandieren. Zögere also nicht dich zu bewerben, auch wenn dein meetup nicht alle Anforderungen erfüllt.</small>
 
 <!--[map]-->
 

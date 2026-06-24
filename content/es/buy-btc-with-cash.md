@@ -22,7 +22,7 @@ Si eres organizador de un meetup y te gustaría integrar tu meetup en Peach como
 
 Si tu meetup es elegible\* para ser integrado en nuestra aplicación, nos pondremos en contacto contigo para solicitar los detalles finales.
 
-<small>\*solo las [monedas aceptadas](/es/how-it-works/#payment) son elegibles en este momento. En el futuro, nos expandiremos a otras zonas del mundo, así que no dudes en aplicar incluso si tu meetup no cumple con todos los requisitos.</small>
+<small>\*solo las [monedas aceptadas](/es/faq/pm/#supported-payment-methods) son elegibles en este momento. En el futuro, nos expandiremos a otras zonas del mundo, así que no dudes en aplicar incluso si tu meetup no cumple con todos los requisitos.</small>
 
 <!--[map]-->
 
