@@ -16,7 +16,7 @@ We think privacy is very important, and should be the default state for any app.
 
 Having data about how our app is used is very valuable for improving it. Sharing this data is always opt-in and is collected via Firebase crashlytics to help fixing bugs. 
 
-For the website we use Google Analytics (yes, we know...) but **The analytics data does not contain personally identifiable information** (see section 3.1 for specifics).
+For the website we use Google Analytics (yes, we know...) but **The analytics data does not contain personally identifiable information** (see section 3.2 for specifics).
 
 ## 1. Introduction
 
@@ -55,7 +55,17 @@ Our Service is not intended for use by nor directed at anyone under the age of 1
 
 ## 3. What information we collect
 
-### 3.1 On our website
+### 3.1 How we use your IP address
+
+Peach does not store your IP address associated with your account.
+Peach simply uses your IP address to, alongside Cloudflare:
+
+- check if you are on a legally forbidden country
+- check if you are a potential spammer
+
+Peach only stores information regarding your IP temporarily (for a maximum period of 1 hour)
+
+### 3.2 On our website
 
 We use Google Analytics on our website for collecting basic usage data. The following information is collected (please note that this data is not used to be linked to your person or peach ID in any way):
 
@@ -68,7 +78,7 @@ We use Google Analytics on our website for collecting basic usage data. The foll
 
 Your email address is collected if you decide to sign up for our newsletter.
 
-### 3.2 When you contact us
+### 3.3 When you contact us
 
 If you contact us directly, we may receive additional information about you such as your name, email, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
 
@@ -76,7 +86,7 @@ In addition to this, when you open a support ticket from the app, the following 
 - Your Peach ID
 - your app log
 
-### 3.3 When you create an offer
+### 3.4 When you create an offer
 
 To be able to make use of Peach you will enter information relating to the trades you would like to do in the form of an offer. The information you will provide is divided in three groups (see also 4.2):
 
@@ -102,7 +112,7 @@ To be able to make use of Peach you will enter information relating to the trade
 - the hash of the unique device id (if any) used to publish the offer
 - the hash of the payment data used to send the payment in case of the Buyer or to receive the payment in the case of the seller
 
-### 3.4 When you post a trade request
+### 3.5 When you post a trade request
 
 To be able to make use of Peach you will enter information relating to the trades you would like to do in the form of a trade request. The information you will provide is divided in three groups (see also 4.2):
 
@@ -126,7 +136,7 @@ To be able to make use of Peach you will enter information relating to the trade
 - the hash of the unique device id (if any) used to publish the offer
 - the hash of the payment data used to send the payment in case of the Buyer or to receive the payment in the case of the seller
 
-### 3.5 Optionally shared data
+### 3.6 Optionally shared data
 
 #### Crash reports
 
@@ -162,7 +172,7 @@ We share your information with the following parties:
 
 - #### The public
 
-  Some of your information is publically available to anyone with a Peach account while making use of our matchmaking service. See section 3.3.1 for more information.
+  Some of your information is publically available to anyone with a Peach account while making use of our matchmaking service. See section 3.4.1 for more information.
 
 - #### Your counterparty
 
@@ -170,7 +180,7 @@ We share your information with the following parties:
 
   Peach User data passes through the Peach server encrypted. This includes your payment details and the chat between you and your trading partner.
 
-  See section 3.3.2 for the information shared with the counterparty.
+  See section 3.4.2 for the information shared with the counterparty.
 
 - #### Service providers
 

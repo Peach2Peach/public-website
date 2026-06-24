@@ -6,7 +6,7 @@ template: text
 
 No Portugese translation available.
 
-This privacy policy was last updated on **Dec 19th, 2023**
+This privacy policy was last updated on **June 8th, 2026**
 
 ## 0. Summary
 
@@ -14,9 +14,11 @@ This summary is not intended to replace the privacy policy, but merely to summar
 
 We think privacy is very important, and should be the default state for any app. We also want to make privacy accessible for everyone through an easy-to-use app. In some cases though, collecting data about the use of our app is highly valuable, or hard to avoid. Where we collect your data, we strive to clearly inform you and make it opt-in where possible.
 
-**All your sensitive personal data is stored on your phone**, and when making a match only the relevant data for the trade is sent to your counterparty via an end-to-end encrypted channel. As such, we cannot see your payment information. We do check the hash (the encrypted version) of this data, so that we can enforce the 1000CHF trading limit set by Swiss regulation and effectively ban scammers from our platform. But, again, without actually knowing the information itself.
+**All your sensitive personal data is stored on your phone**, and when making a match only the relevant data for the trade is sent to your counterparty via an end-to-end encrypted channel. As such, we cannot see your payment information. We do check the hash (the encrypted version) of this data, so that we can enforce the no-registration trading limit set by Swiss regulation and effectively ban scammers from our platform. But, again, without actually knowing the information itself.
 
-Having data about how our app is used is very valuable for improving it. Sharing this data is always opt-in. **The analytics data does not contain personally identifiable information** (see section 3.4 for specifics) and is collected via Firebase and Google Analytics (yes, we know...)
+Having data about how our app is used is very valuable for improving it. Sharing this data is always opt-in and is collected via Firebase crashlytics to help fixing bugs. 
+
+For the website we use Google Analytics (yes, we know...) but **The analytics data does not contain personally identifiable information** (see section 3.2 for specifics).
 
 ## 1. Introduction
 
@@ -24,7 +26,7 @@ This page explains which types of information Peach collects of its users during
 
 When we speak of  "Peach", "we", "us"  or  "our", we mean Peach S.A.R.L and its representatives. Peach Sàrl is a company registered, organized and existing under the laws of Switzerland, under company registration number CHE-158.025.408 whose registered office is at:
 
-c/o Crypto Solutions Sàrl<br>
+c/o Nohä Fiduciaire SA<br>
 Rue Saint-Honoré 2<br>
 2000 Neuchâtel<br>
 SWITZERLAND
@@ -43,7 +45,7 @@ You must read this Privacy Policy together with any other privacy notice or fair
 
 ## 2. General
 
-If you choose to use our products and services, then you agree to the collection and use of information as described this policy. As we think privacy is very important, we strive to collect as little data about you as we can, though we need to collect some data to make our services work. We will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use our products and services, then you agree to the collection and use of information as described by this policy. As we think privacy is very important, we strive to collect as little data about you as we can, though we need to collect some data to make our services work. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 Some parts of our code are Open Source under the MIT licenses. They include the Peach App frontend (MIT-CC) and GroupHug.
 
@@ -55,7 +57,17 @@ Our Service is not intended for use by nor directed at anyone under the age of 1
 
 ## 3. What information we collect
 
-### 3.1 On our website
+### 3.1 How we use your IP address
+
+Peach does not store your IP address associated with your account.
+Peach simply uses your IP address to, alongside Cloudflare:
+
+- check if you are on a legally forbidden country
+- check if you are a potential spammer
+
+Peach only stores information regarding your IP temporarily (for a maximum period of 1 hour)
+
+### 3.2 On our website
 
 We use Google Analytics on our website for collecting basic usage data. The following information is collected (please note that this data is not used to be linked to your person or peach ID in any way):
 
@@ -68,11 +80,15 @@ We use Google Analytics on our website for collecting basic usage data. The foll
 
 Your email address is collected if you decide to sign up for our newsletter.
 
-### 3.2 When you contact us
+### 3.3 When you contact us
 
 If you contact us directly, we may receive additional information about you such as your name, email, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
 
-### 3.3 When you create an offer
+In addition to this, when you open a support ticket from the app, the following info will be attached:
+- Your Peach ID
+- your app log
+
+### 3.4 When you create an offer
 
 To be able to make use of Peach you will enter information relating to the trades you would like to do in the form of an offer. The information you will provide is divided in three groups (see also 4.2):
 
@@ -81,38 +97,62 @@ To be able to make use of Peach you will enter information relating to the trade
 - the amount of sats you want to buy or sell
 - the payment method(s) you want to use
 - the currencies you want to use
-- the premium at which you want to sell
+- the premium at which you want to buy or sell
 
 2. #### Information available only to the counterparty (except in case of a dispute, see 4.3)
 
 - the details of your payment methods (e.g. IBAN, email address)
 - chat messages
+- the escrow address where the Seller deposits the bitcoin to be sold
+- the release address where the Buyer receives the purchased bitcoins
 
-3. #### Information available to Peach
+3. #### Information available to Peach and stored on the server
 
-- the bitcoin address you want to receive the bitcoin on
+- the bitcoin address where the Buyer wants to receive the bitcoin on
+- the proof of ownership of the release address from the Buyer
+- the escrow address where the Seller deposits the bitcoin to be sold
+- the hash of the unique device id (if any) used to publish the offer
+- the hash of the payment data used to send the payment in case of the Buyer or to receive the payment in the case of the seller
 
-### 3.4 Optionally shared data
+### 3.5 When you post a trade request
 
-#### Usage data
+To be able to make use of Peach you will enter information relating to the trades you would like to do in the form of a trade request. The information you will provide is divided in three groups (see also 4.2):
 
-Having data about how our app is used is very useful in improving the user experience; but this is always an **opt-in** feature. The data is collected in Google Firebase & Google Analytics. **You can toggle sharing usage data on/off in Settings > About Peach > Diagnostics**. The following data is shared when you opt-in:
+1. #### Publically available information
 
-- Technical device stats, like your OS and screen size
-- Demographics information, like your country
-- The version of the app you're using
-- Which screens have been viewed
-- Conversion information like the amounts that are being sold and which currencies and payment methods are being used
+- none
+
+2. #### Information available only to the counterparty (except in case of a dispute, see 4.3)
+
+- the details of your payment methods (e.g. IBAN, email address)
+- chat messages
+- the escrow address where the Seller deposits the bitcoin to be sold
+- the release address where the Buyer receives the purchased bitcoins
+
+
+3. #### Information available to Peach and stored on the server
+
+- the bitcoin address where the Buyer wants to receive the bitcoin on
+- the proof of ownership of the release address from the Buyer
+- the escrow address where the Seller deposits the bitcoin to be sold
+- the hash of the unique device id (if any) used to publish the offer
+- the hash of the payment data used to send the payment in case of the Buyer or to receive the payment in the case of the seller
+
+### 3.6 Optionally shared data
 
 #### Crash reports
 
-When the Peach app detects that the app has run into an unexpected issue, a crash report is generated. You will be prompted to decide whether or not you would like to share this crash report to the Peach team. The Peach team can use this crash report to find the root cause and improve the software to avoid this problem occurring in the future. The following information is included in a crash report:
+When the Peach app detects that the app has run into an unexpected issue, a crash report is generated. but this is always an **opt-in** feature. The Peach team can use this crash report to find the root cause and improve the software to avoid this problem occurring in the future. The following information is included in a crash report:
 
 - App logs (these do not contain personal information, but can contain trade IDs)
 - The version of the app you're using
 - The version of your operating system
 
 The crash reports are collected in Google Firebase. You can find what information is collected [here](https://firebase.google.com/support/privacy/#examples-end-user-data-processed-by-firebase); we use Firebase Cloud Messaging and Firebase Crashlytics.
+
+### Verfied High volume sellers
+
+If you choose to remove the registration-free limits to increase your selling capacity by completing our KYC process, we store the information you provide (such as your identification documents and the recording of your interview) in an encrypted Proton Drive.
 
 ## How and why we use and/or share your information
 
@@ -134,7 +174,7 @@ We share your information with the following parties:
 
 - #### The public
 
-  Some of your information is publically available to anyone with a Peach account while making use of our matchmaking service. See section 3.3 for more information.
+  Some of your information is publically available to anyone with a Peach account while making use of our matchmaking service. See section 3.4.1 for more information.
 
 - #### Your counterparty
 
@@ -142,25 +182,29 @@ We share your information with the following parties:
 
   Peach User data passes through the Peach server encrypted. This includes your payment details and the chat between you and your trading partner.
 
+  See section 3.4.2 for the information shared with the counterparty.
+
 - #### Service providers
 
   We do not sell your information, and never will. We only share your data with third parties to help use, provide and improve our Services. We strictly limit how our partners can use and disclose the data we provide. We share your data with the following parties:
 
-  - **ProtonMail**: For our email communications we use "ProtonMail". We may share your email and nickname with this service.
-  - **Zammad**: For customer support we use "Zammad". We may share your email address with this service.
-  - **Sendinblue**: For marketing emails and registering early access users, we use "Sendinblue". We may share your email address with this service.
+  - **ProtonMail**: For our email communications we use "ProtonMail". We may share your email and nickname with this service. If your email does not support PGP email encryption, the content of the emails will be shared as well.
+  - **Zammad**: For customer support we use "Zammad". We may share your email address with this service and all the private shared content such as Peach id, trade id or offer if.
+  - **Telegram**: We also provide support on Telegram, if you contact us by private message on this channel, your nickname and message content will be share with Telegram, unless you choose to contact us by "Secret chat". 
+  - **Discord**: We also provide support on Discord, if you contact us by private message on this channel, your nickname and message content will be share with Discord. 
+  - **Brevo**: For marketing emails and registering early access users, we use "Brevo". We may share your email address with this service. GDPR compliant.
   - **Firebase** (opt-in): To monitor for and fix crashes, we give you the option to send a crash report after a crash. In case you choose to send this report, we use the "Firebase" service to collect and analyze the crash logs. You can find what information is collected [here](https://firebase.google.com/support/privacy/#examples-end-user-data-processed-by-firebase); we use Firebase Cloud Messaging and Firebase Crashlytics.
-  - **Firebase & Google Analytics** (opt-in): When you allow Peach to send usage data, we use "Firebase" & "Google Analytics" service to collect the data we use in behavioral statistics. Your IP address may be included in the data provided to Firebase.
   - **Cloudflare**: Our servers connect to cloudflare for DDoS protection and security.
   - **Blockstream**: By default the Peach wallet connects to Blockstream’s public electrum server. The wallet won’t request addresses from their server until the wallet tab is being accessed. This setting can also be changed under _settings > use your own node_.
+    - **Google Analytics**: If you visit our website, we use Google Analytics to collect anonymous visitors statistic and they are not linked to your Peach id.
 
 ### 4.3 Disputes
 
-When a dispute is opened, the party that opened the dispute will share their digital signature with Peach, allowing the mediator to decrypt the communication between the Buyer and the Seller. Peach gains access to your conversation and all other information required, including the payment details for the disputed contract by Peach to resolve the dispute for as long as the Dispute takes.
+When a dispute is opened, the party that opened the dispute will share their digital signature with Peach, allowing the mediator to decrypt the communication between the Buyer and the Seller. Peach gains access to your conversation and all other information required, including the payment details for the disputed contract by Peach to resolve the dispute.
 
 You will also be obliged to provide us with any proof to support your dispute claim such as account statements, payment details, ID etc. relative to the disputed trade. Any information which may be required for dispute resolution will be documented in the dispute.
 
-Once a dispute is logged, a hash of the IP and other data will temporarily be stored for as long as the dispute is open. When an arbitrator regards the behavior of one of both parties as an attempt to defraud the counterparty, or as showing unwanted behavior, the dispute might result in a ban for the offending user. To this end a hash of the device ID and payment method data will be stored, in order to avoid the possibility of the banned user to create another account. This hash is a reference to the data, but not the data itself. It allows the system to flag users using the same data, without knowing the actual data itself.
+Once a dispute is logged, a hash of the IP and other data will be stored. When an arbitrator regards the behavior of one of both parties as an attempt to defraud the counterparty, or as showing unwanted behavior, the dispute might result in a ban for the offending user. To this end a hash of the device ID and payment method data will be stored, in order to avoid the possibility of the banned user to create another account. This hash is a reference to the data, but not the data itself. It allows the system to flag users using the same data, without knowing the actual data itself.
 
 ## 5. Security
 
@@ -179,15 +223,21 @@ Your privacy is important to us, and we want to inform you about our data retent
 
 ### What data we retain
 
-- the order book
-- encrypted data (which we cannot encrypt unless a dispute is opened: payment data, chat data)
-- dispute information of suspected accounts and behaviors
+- The order book
+- Encrypted payment data and chat data of every trade and published offer.
+- Hashed data of the unique device id and the payment data of the advertiser and of the counterparty.
+- In case of a dispute, both parties payment data and chat data are stored encrypted on the database but with Peach ability to decrypt them everytime it is needed.
+- In case of an "Instant trade" offer, the advertiser's payment data are stored encrypted on the database but with Peach ability to decrypt them. 
 
 ### Your data privacy
 
-We want to be transparent about the fact that, due to legal obligations, we are unable to facilitate the deletion of the majority of your account information.
+You can ask for the deletion of the information stored by Peach SARL.
 
-For deletion requests please contact our support team at [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com) or use the delete account button in our app.
+We want to be transparent about the fact that, due to legal obligations, we are unable to facilitate the deletion of the majority of your account information upon request, but after 10 years, in accordance with FINMA directives.
+
+In particular, plain text information included in disputes, as well as device and payment detail hashes, are deleted 10 years after the user’s request, except for banned users whose hashes will not be deleted.
+
+For deletion requests please contact our support team at [hello@peachbitcoin.com](mailto:hello@peachbitcoin.com)
 
 ### Your right to information:
 
