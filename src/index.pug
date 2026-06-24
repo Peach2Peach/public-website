@@ -39,7 +39,9 @@ block teaser
       div.new-teaser-content
         div.new-teaser-column
           div.new-teaser-item
-            h1.new-teaser-title.peach-text !{i18n('home.teaser.title', lang)}
+            h1.new-teaser-title.peach-text
+              span.new-teaser-title-line1 !{i18n('home.teaser.title.line1', lang)}
+              span.new-teaser-title-line2 !{i18n('home.teaser.title.line2', lang)}
             p.new-teaser-subtitle 
               | !{i18n('home.teaser.subtitle.part1', lang)}
               img(src="/img/home/bitcoin-logo-text.png" alt="Bitcoin logo")
