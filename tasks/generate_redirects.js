@@ -7,10 +7,12 @@ const redirects = [
   ['/termsConditions.html', '/terms-and-conditions/'],
   ['/privacyPolicy.html', '/privacy-policy/'],
   ['/beta/', '/apk/'],
-  ['/how-it-works/', '/how-to-buy-btc-no-kyc/'],
+  ['/how-it-works/', '/buy-bitcoin-no-id/'],
   ['/for-businesses/', '/peach-for-businesses/'],
   ['/for-meetups/', '/buy-btc-with-cash/'],
   ['/blog/group-hug/', '/blog/grouphug-tldr/'],
+  ['/how-to-buy-btc-no-kyc/', '/buy-bitcoin-no-id/'],
+  ['/kycfree-orderbook/', '/p2p-orderbook/'],
 
 ]
 

@@ -16,7 +16,7 @@ description: |
 At Peach Bitcoin, we know the frustration of jumping into an app without a clear idea of what deals are ripe for the picking. That's why we've added a new feature that lets you view all active Bitcoin sell offers directly from your web browser, so you can take your time savoring the options before diving into the app.
 
 :::buttons
-[VIEW ORDERBOOK](/kycfree-orderbook/)
+[VIEW ORDERBOOK](/p2p-orderbook/)
 :::
 
 ## Why This Matters: No More Guessing, Just Pure Peachy Goodness

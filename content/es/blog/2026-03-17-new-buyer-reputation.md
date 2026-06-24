@@ -64,7 +64,7 @@ No le des demasiadas vueltas a la prima. Construye tu reputación. El mercado ve
 
 Si quieres saber más sobre las funciones de Peach, o leer alguno de nuestros otros artículos, ¡los puedes encontrar aquí!
 
-[Cómo comprar Bitcoin P2P con Peach](https://peachbitcoin.com/es/how-to-buy-btc-no-kyc/)
+[Cómo comprar Bitcoin P2P con Peach](https://peachbitcoin.com/es/buy-bitcoin-no-id/)
 [Vender Bitcoin en Peach: trades de alto margen con usuarios nuevos](https://peachbitcoin.com/es/blog/sell-bitcoin-new-user-arbitrage/)
 [¿Qué es GroupHug y cómo te ahorra comisiones?](https://peachbitcoin.com/es/blog/group-hug/)
 [¿Por qué P2P? Los fundamentos](https://peachbitcoin.com/es/blog/why-p2p-chapter-1/)

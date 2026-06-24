@@ -64,7 +64,7 @@ Happy peaching 🍑
 
 Se vuoi saperne di più sulle funzionalità di Peach, o leggere qualcuno dei nostri altri articoli, li trovi qui!
 
-[Come comprare Bitcoin P2P con Peach](https://peachbitcoin.com/it/how-to-buy-btc-no-kyc/)
+[Come comprare Bitcoin P2P con Peach](https://peachbitcoin.com/it/buy-bitcoin-no-id/)
 [Vendere Bitcoin su Peach: scambi ad alto margine con i nuovi utenti](https://peachbitcoin.com/it/blog/sell-bitcoin-new-user-arbitrage/)
 [Cos'è GroupHug e come ti fa risparmiare sulle commissioni?](https://peachbitcoin.com/it/blog/group-hug/)
 [Perché P2P? Le basi](https://peachbitcoin.com/it/blog/why-p2p-chapter-1/)

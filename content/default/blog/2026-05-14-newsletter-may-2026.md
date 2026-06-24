@@ -98,7 +98,7 @@ And while they are at it: the same institutions pushing mandatory age verificati
 
 **Selling on Peach is _registration-free_ and FREE of charge. AND you can sell bitcoin at a price higher than what you would get on centralized exchanges.**
 
-[See our orderbook.](/kycfree-orderbook/)
+[See our orderbook.](/p2p-orderbook/)
 
 **Buying on Peach means you are _not_ paying with your data, and putting your entire life at risk (not an exaggeration).**
 

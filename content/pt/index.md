@@ -26,7 +26,7 @@ description: Compre e venda Bitcoin peer-to-peer sem KYC. Peach é um marketplac
 [Pobierz APK](/pt/apk/)
 :::
 
-<button class="btn" id="customBtn" alt="Peachbitcoin P2P Orderbook, TOP NOKYC OrderBook, KycFree orderbook, Orderbook NOKYC" onclick="window.location.href='/pt/kycfree-orderbook'">Verifique o livro de ordens ao vivo</button>
+<button class="btn" id="customBtn" alt="Peachbitcoin P2P Orderbook, TOP NOKYC OrderBook, KycFree orderbook, Orderbook NOKYC" onclick="window.location.href='/pt/p2p-orderbook'">Verifique o livro de ordens ao vivo</button>
 
 </div>
 

@@ -85,7 +85,7 @@ Wann immer du Sats verkaufen musst, um dein souveränes tägliches Leben zu fina
 Unser Live-Orderbuch findest du auf unserer Website 👇
 
 :::buttons
-[LIVE ORDER BOOK](../../kycfree-orderbook/)
+[LIVE ORDER BOOK](../../p2p-orderbook/)
 :::
 
 👉Für Verkäufer mit hohem Volumen und Profis bieten wir einen KYC-Service an, damit ihr ohne Trading-Limit auf Peach verkaufen könnt.  

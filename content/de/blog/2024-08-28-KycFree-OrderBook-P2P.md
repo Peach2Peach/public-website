@@ -19,7 +19,7 @@ description: >
 Bei Peach Bitcoin wissen wir, wie frustrierend es ist, in eine App einzutauchen, ohne eine klare Vorstellung davon zu haben, welche Angebote gerade verfügbar sind. Deshalb haben wir eine neue Funktion hinzugefügt, mit der Sie alle aktiven Bitcoin-Verkaufsangebote direkt in Ihrem Webbrowser einsehen können, sodass Sie sich die Optionen in Ruhe ansehen können, bevor Sie die App öffnen.
 
 :::buttons
-[ORDERBUCH ANZEIGEN](/de/kycfree-orderbook/)
+[ORDERBUCH ANZEIGEN](/de/p2p-orderbook/)
 :::
 
 ## Warum das wichtig ist: Kein Rätselraten mehr, nur purer Peachy Genuss

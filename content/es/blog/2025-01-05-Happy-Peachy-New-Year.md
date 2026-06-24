@@ -84,7 +84,7 @@ Precio máximo de BTC en Peach durante los últimos 30 días, mercado peer-to-pe
 Nuestro libro de órdenes en vivo está disponible en nuestro sitio web 👇
 
 :::buttons
-[LIVE ORDER BOOK](../../kycfree-orderbook/)
+[LIVE ORDER BOOK](../../p2p-orderbook/)
 :::
 
 👉Para vendedores de alto volumen y profesionales, ofrecemos un servicio KYC que te permite vender en Peach sin límite de trading.  

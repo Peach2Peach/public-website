@@ -166,11 +166,11 @@ html(lang=lang)
                 path(d="M7 10l5 5 5-5z")
             ul.nav-dropdown-menu
               li
-                +navItem("how-to-buy-btc-no-kyc", i18n("nav.apps", lang))
+                +navItem("buy-bitcoin-no-id", i18n("nav.apps", lang))
               li
                 +navItem("for-meetups", i18n("nav.meetup", lang))
           +navItem("for-businesses", i18n("nav.vip", lang))
-          +navItem("kycfree-orderbook", i18n("orderbook.navTitle", lang))
+          +navItem("p2p-orderbook", i18n("orderbook.navTitle", lang))
           +navItem("blog", i18n("blog", lang))
           +navItem("support", i18n("support", lang))
 
@@ -249,7 +249,7 @@ html(lang=lang)
             a(href="https://www.youtube.com/@peachbitcoin" target="_blank" rel="noreferrer noopener") !{i18n('youtube', lang)}
           div.footer-box
             h6 !{i18n('bitcoin', lang)}
-            a(href=getUrl("/kycfree-orderbook/", lang)) !{i18n('orderbook.navTitle', lang)}
+            a(href=getUrl("/p2p-orderbook/", lang)) !{i18n('orderbook.navTitle', lang)}
             a(href="/bitcoin.pdf") !{i18n('whitepaper', lang)}
             a(href="https://docs.peachbitcoin.com") !{i18n('api', lang)}
           div.footer-box

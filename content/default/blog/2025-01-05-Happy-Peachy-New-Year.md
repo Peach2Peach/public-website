@@ -87,7 +87,7 @@ Whenever you have a need to sell some sats to live your sovereign day-to-day lif
 Our live order book is available on our website 👇
 
 :::buttons
-[LIVE ORDER BOOK](../../kycfree-orderbook/)
+[LIVE ORDER BOOK](../../p2p-orderbook/)
 :::
 
 👉To High volume Sellers only and professionals, we propose a KYC service to allow you to sell on Peach without a trading limit.

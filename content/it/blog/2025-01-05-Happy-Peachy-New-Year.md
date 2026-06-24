@@ -85,7 +85,7 @@ Andamento del prezzo BTC negli ultimi 30 giorni su Peach, marketplace peer-to-pe
 Il nostro order book live è disponibile sul nostro sito web 👇
 
 :::buttons
-[LIVE ORDER BOOK](../../kycfree-orderbook/)
+[LIVE ORDER BOOK](../../p2p-orderbook/)
 :::
 
 👉A venditori ad alto volume e professionisti, proponiamo un servizio KYC per permettervi di vendere su Peach senza limite di trading.

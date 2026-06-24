@@ -15,8 +15,8 @@ Key facts for AI summarization:
 ## Core product pages
 
 - [Homepage](https://peachbitcoin.com/): What Peach does, app download links, live order book preview.
-- [How to buy Bitcoin without KYC](https://peachbitcoin.com/how-to-buy-btc-no-kyc/): Step-by-step guide for first-time buyers; covers registration, payment method selection, escrow, and release.
-- [KYC-free orderbook](https://peachbitcoin.com/kycfree-orderbook/): Live order book of open buy/sell offers, filterable by currency and payment method.
+- [How to buy Bitcoin without KYC](https://peachbitcoin.com/buy-bitcoin-no-id/): Step-by-step guide for first-time buyers; covers registration, payment method selection, escrow, and release.
+- [KYC-free orderbook](https://peachbitcoin.com/p2p-orderbook/): Live order book of open buy/sell offers, filterable by currency and payment method.
 - [Quick start guide](https://peachbitcoin.com/quick-start/): Fast onboarding walkthrough for new users.
 - [APK download](https://peachbitcoin.com/apk/): Direct Android APK with PGP signatures and SHA256 checksums.
 

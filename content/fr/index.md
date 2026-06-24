@@ -27,7 +27,7 @@ description: Achetez et vendez des bitcoins de pair à pair, sans KYC. Peach est
 :::
 
 :::buttons
-<button class="btn" id="customBtn" alt="Peachbitcoin P2P Orderbook, TOP NOKYC OrderBook, KycFree orderbook, Orderbook NOKYC" onclick="window.location.href='/fr/kycfree-orderbook'">Consulter le carnet d'ordres en direct</button>
+<button class="btn" id="customBtn" alt="Peachbitcoin P2P Orderbook, TOP NOKYC OrderBook, KycFree orderbook, Orderbook NOKYC" onclick="window.location.href='/fr/p2p-orderbook'">Consulter le carnet d'ordres en direct</button>
 :::
 
 </div>

@@ -63,7 +63,7 @@ Se quiseres saber mais sobre as funcionalidades da Peach, ou ler alguns dos noss
 
 [Novo na Peach? Como construir a tua reputação rapidamente](https://peachbitcoin.com/pt/blog/new-buyer-reputation/)
 [Vender Bitcoin na Peach: Transações de alta margem com novos utilizadores](https://peachbitcoin.com/pt/blog/sell-bitcoin-new-user-arbitrage/)
-[Como comprar Bitcoin P2P com a Peach](https://peachbitcoin.com/pt/how-to-buy-btc-no-kyc/)
+[Como comprar Bitcoin P2P com a Peach](https://peachbitcoin.com/pt/buy-bitcoin-no-id/)
 [O que é o GroupHug e como poupa taxas?](https://peachbitcoin.com/pt/blog/group-hug/)
 [Porquê P2P? O básico](https://peachbitcoin.com/pt/blog/why-p2p-chapter-1/)
 [Precisas de uma hardware wallet](https://peachbitcoin.com/pt/blog/you-need-a-hw/)

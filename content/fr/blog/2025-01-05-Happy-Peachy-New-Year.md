@@ -85,7 +85,7 @@ Cours du BTC au plus haut sur Peach sur 30 jours, marketplace peer-to-peer :
 Notre carnet d’ordres en direct est disponible sur notre site 👇
 
 :::buttons
-[LIVE ORDER BOOK](../../kycfree-orderbook/)
+[LIVE ORDER BOOK](../../p2p-orderbook/)
 :::
 
 👉Pour les vendeurs à haut volume et les professionnels, nous proposons un service KYC pour vous permettre de vendre sur Peach sans limite de trading.  
