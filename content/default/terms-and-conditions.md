@@ -4,12 +4,12 @@ template: text
 
 # Terms & Conditions
 
-These Service Terms were the last updated on **Mar 30th, 2026**
+These Service Terms were the last updated on **July 1st, 2026**
 
 ## Legal Highlights
 
 -   Peach Bitcoin is a non-custodial peer-to-peer marketplace operated by Peach SARL, a regulated Swiss company under AMLA/FINMA.
--   The app is not available in the United States, China, or OFAC/EU-sanctioned regions. Access is restricted via App Store settings, IP blocking, and mandatory in-app disclaimers.
+-   The app is not available in the United States, China, or OFAC/EU-sanctioned regions and is not actively offered or marketed in the EU/EEA. Access is restricted via App Store settings, IP blocking, and mandatory in-app disclaimers.
 -   Peach does not use any third-party exchange APIs; all services are operated directly by Peach SARL.  
 
 ## 1. Introduction
@@ -71,7 +71,13 @@ United States of America (including its states and the District of Columbia), th
 
 Iran, North Korea, Myanmar, China, Algeria, Bangladesh, Nepal, Afghanistan, Morocco, Egypt, Bolivia, Qatar, Tunisia, Pakistan, Vietnam, Indonesia, Nigeria. Restrictions are enforced with blocked IPs, app not available in the relative iOS/Android app stores and relative currencies and payment methods are not available in the app.
 
+Member States of the European Union (EU) and the European Economic Area (EEA), in respect of any active offering, marketing or solicitation of our services. Peach is a Swiss company and does not actively offer, market or solicit its services in the EU/EEA. Where a person located in the EU/EEA accesses Peach entirely on their own exclusive initiative (reverse solicitation), without any prior solicitation by Peach, this restriction does not apply.
+
 Any state, country, territory or other jurisdiction that is embargoed by the United Nations or OFAC/EU-sanctioned countries.
+
+## MiCA / EU/EEA Compliance
+
+Peach does not solicit or target clients in the European Union or European Economic Area. Services are provided solely on the basis of reverse solicitation where an EU/EEA user initiates contact entirely on their own exclusive initiative, without any prior marketing, advertising, or promotion by Peach. Any EU/EEA user accessing the platform acknowledges they are doing so without solicitation and are solely responsible for ensuring compliance with MiCA and all local laws. Peach reserves the right to restrict or limit access from EU/EEA jurisdictions at any time.
 
 ## 3. Generating Peach Keys
 
