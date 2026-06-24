@@ -30,7 +30,7 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Parear com um código QR é seguro?",
-    "answer": "Sim, funciona igual ao WhatsApp Web. O escaneamento vincula seu navegador à conta do seu telefone. Nada é compartilhado com terceiros e a sessão termina assim que você fecha a janela — você também pode sair a qualquer momento. Certifique-se de estar na URL correta (web.peachbitcoin.com)!",
+    "answer": "Sim, funciona igual ao WhatsApp Web. O escaneamento vincula seu navegador à conta do seu telefone. Nada é compartilhado com terceiros e a sessão termina assim que você fecha a janela, você também pode sair a qualquer momento. Certifique-se de estar na URL correta (web.peachbitcoin.com)!",
     "snippet": "Sim, funciona igual ao WhatsApp Web. O escaneamento vincula seu navegador à conta do seu telefone. Nada é compartilhado com terceiros e a sessão termina assim q",
     "url": "/pt/faq/web-app/#parear-com-um-cdigo-qr-seguro",
     "lang": "pt"
@@ -48,8 +48,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Como desconecto uma sessão web?",
-    "answer": "Fechar a janela do navegador desconecta você automaticamente — nada permanece conectado, o que torna a web app segura mesmo em um computador compartilhado ou público. Você também pode sair a qualquer momento pelo botão no canto superior direito.",
-    "snippet": "Fechar a janela do navegador desconecta você automaticamente — nada permanece conectado, o que torna a web app segura mesmo em um computador compartilhado ou pú",
+    "answer": "Fechar a janela do navegador desconecta você automaticamente, nada permanece conectado, o que torna a web app segura mesmo em um computador compartilhado ou público. Você também pode sair a qualquer momento pelo botão no canto superior direito.",
+    "snippet": "Fechar a janela do navegador desconecta você automaticamente, nada permanece conectado, o que torna a web app segura mesmo em um computador compartilhado ou púb",
     "url": "/pt/faq/web-app/#como-desconecto-uma-sesso-web",
     "lang": "pt"
   },
@@ -57,8 +57,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Quais navegadores posso usar?",
-    "answer": "A web app funciona em qualquer navegador moderno e atualizado — por exemplo Firefox, Chrome, Brave, Safari ou Edge — no Linux, macOS e Windows. Não é preciso extensão nem instalação: basta abrir web.peachbitcoin.com. Pela sua privacidade, prefira um navegador em que você confia e mantenha-o atualizado.",
-    "snippet": "A web app funciona em qualquer navegador moderno e atualizado — por exemplo Firefox, Chrome, Brave, Safari ou Edge — no Linux, macOS e Windows. Não é preciso ex",
+    "answer": "A web app funciona em qualquer navegador moderno e atualizado, por exemplo Firefox, Chrome, Brave, Safari ou Edge, no Linux, macOS e Windows. Não é preciso extensão nem instalação: basta abrir web.peachbitcoin.com. Pela sua privacidade, prefira um navegador em que você confia e mantenha-o atualizado.",
+    "snippet": "A web app funciona em qualquer navegador moderno e atualizado, por exemplo Firefox, Chrome, Brave, Safari ou Edge, no Linux, macOS e Windows. Não é preciso exte",
     "url": "/pt/faq/web-app/#quais-navegadores-posso-usar",
     "lang": "pt"
   },
@@ -66,8 +66,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "O que acontece se meu celular estiver offline?",
-    "answer": "Seu celular guarda as chaves da sua conta, então ações que exigem uma assinatura — como liberar o escrow — precisam do celular. Você ainda pode navegar pelo order book na web app, mas para concluir ações sensíveis da negociação, coloque o celular online novamente e confirme por lá. Seus fundos no escrow multisig nunca correm risco enquanto o celular está offline.",
-    "snippet": "Seu celular guarda as chaves da sua conta, então ações que exigem uma assinatura — como liberar o escrow — precisam do celular. Você ainda pode navegar pelo ord",
+    "answer": "Seu celular guarda as chaves da sua conta, então ações que exigem uma assinatura, como liberar o escrow, precisam do celular. Você ainda pode navegar pelo order book na web app, mas para concluir ações sensíveis da negociação, coloque o celular online novamente e confirme por lá. Seus fundos no escrow multisig nunca correm risco enquanto o celular está offline.",
+    "snippet": "Seu celular guarda as chaves da sua conta, então ações que exigem uma assinatura, como liberar o escrow, precisam do celular. Você ainda pode navegar pelo order",
     "url": "/pt/faq/web-app/#o-que-acontece-se-meu-celular-estiver-offline",
     "lang": "pt"
   },
@@ -75,8 +75,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Posso parear mais de um navegador?",
-    "answer": "Sim, você pode parear quantos navegadores quiser: basta escanear o código QR em cada computador. Cada sessão dura apenas até você fechar a janela ou sair — nada fica conectado depois.",
-    "snippet": "Sim, você pode parear quantos navegadores quiser: basta escanear o código QR em cada computador. Cada sessão dura apenas até você fechar a janela ou sair — nada",
+    "answer": "Sim, você pode parear quantos navegadores quiser: basta escanear o código QR em cada computador. Cada sessão dura apenas até você fechar a janela ou sair, nada fica conectado depois.",
+    "snippet": "Sim, você pode parear quantos navegadores quiser: basta escanear o código QR em cada computador. Cada sessão dura apenas até você fechar a janela ou sair, nada ",
     "url": "/pt/faq/web-app/#posso-parear-mais-de-um-navegador",
     "lang": "pt"
   },
@@ -84,8 +84,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Por que confirmo algumas ações no celular em vez do navegador?",
-    "answer": "É a autocustódia por design. Suas chaves privadas nunca saem do seu celular, então tudo o que move bitcoin — como assinar a liberação do escrow — precisa ser confirmado no app móvel. O navegador é uma janela conveniente para a sua conta; seu celular continua sendo o cofre.",
-    "snippet": "É a autocustódia por design. Suas chaves privadas nunca saem do seu celular, então tudo o que move bitcoin — como assinar a liberação do escrow — precisa ser co",
+    "answer": "É a autocustódia por design. Suas chaves privadas nunca saem do seu celular, então tudo o que move bitcoin, como assinar a liberação do escrow, precisa ser confirmado no app móvel. O navegador é uma janela conveniente para a sua conta; seu celular continua sendo o cofre.",
+    "snippet": "É a autocustódia por design. Suas chaves privadas nunca saem do seu celular, então tudo o que move bitcoin, como assinar a liberação do escrow, precisa ser conf",
     "url": "/pt/faq/web-app/#por-que-confirmo-algumas-aes-no-celular-em-vez-do-navegador",
     "lang": "pt"
   },
@@ -273,8 +273,8 @@
     "section": "Payment methods",
     "sectionKey": "pm",
     "question": "Quanto posso comprar de forma anônima?",
-    "answer": "Os métodos de pagamento anônimos — cartões-presente, dinheiro em encontros e USDT — têm um limite inferior de 1000 CHF por mês ou o equivalente em outra moeda.",
-    "snippet": "Os métodos de pagamento anônimos — cartões-presente, dinheiro em encontros e USDT — têm um limite inferior de 1000 CHF por mês ou o equivalente em outra moeda.",
+    "answer": "Os métodos de pagamento anônimos, cartões-presente, dinheiro em encontros e USDT, têm um limite inferior de 1000 CHF por mês ou o equivalente em outra moeda.",
+    "snippet": "Os métodos de pagamento anônimos, cartões-presente, dinheiro em encontros e USDT, têm um limite inferior de 1000 CHF por mês ou o equivalente em outra moeda.",
     "url": "/pt/faq/pm/#quanto-posso-comprar-de-forma-annima",
     "lang": "pt"
   },
@@ -416,10 +416,10 @@
   {
     "section": "Account",
     "sectionKey": "account",
-    "question": "Por que posso comprar legalmente sem KYC?",
-    "answer": "A Peach é uma empresa 100% em conformidade. Somos um intermediário financeiro suíço afiliado e nosso sistema de conformidade permite transações de câmbio de dinheiro sem KYC em determinados limites.",
+    "question": "Por que posso comprar legalmente sem registo?",
+    "answer": "A Peach é uma empresa 100% em conformidade. Somos um intermediário financeiro suíço afiliado e nosso sistema de conformidade permite transações de câmbio de dinheiro sem registo em determinados limites.",
     "snippet": "A Peach é uma empresa 100% em conformidade. Somos um intermediário financeiro suíço afiliado e nosso sistema de conformidade permite transações de câmbio de din",
-    "url": "/pt/faq/account/#por-que-posso-comprar-legalmente-sem-kyc",
+    "url": "/pt/faq/account/#por-que-posso-comprar-legalmente-sem-registo",
     "lang": "pt"
   },
   {
@@ -453,7 +453,7 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Collegarsi con un codice QR è sicuro?",
-    "answer": "Sì, funziona proprio come WhatsApp Web. La scansione collega il browser all'account sul tuo telefono. Nulla viene condiviso con terzi e la sessione termina non appena chiudi la finestra — puoi anche disconnetterti in qualsiasi momento. Assicurati di essere sull'URL corretto (web.peachbitcoin.com)!",
+    "answer": "Sì, funziona proprio come WhatsApp Web. La scansione collega il browser all'account sul tuo telefono. Nulla viene condiviso con terzi e la sessione termina non appena chiudi la finestra, puoi anche disconnetterti in qualsiasi momento. Assicurati di essere sull'URL corretto (web.peachbitcoin.com)!",
     "snippet": "Sì, funziona proprio come WhatsApp Web. La scansione collega il browser all'account sul tuo telefono. Nulla viene condiviso con terzi e la sessione termina non ",
     "url": "/it/faq/web-app/#collegarsi-con-un-codice-qr-sicuro",
     "lang": "it"
@@ -471,8 +471,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Come disconnetto una sessione web?",
-    "answer": "Chiudere la finestra del browser ti disconnette automaticamente — nulla resta collegato, il che rende la web app sicura anche su un computer condiviso o pubblico. Puoi anche disconnetterti in qualsiasi momento con il pulsante in alto a destra.",
-    "snippet": "Chiudere la finestra del browser ti disconnette automaticamente — nulla resta collegato, il che rende la web app sicura anche su un computer condiviso o pubblic",
+    "answer": "Chiudere la finestra del browser ti disconnette automaticamente, nulla resta collegato, il che rende la web app sicura anche su un computer condiviso o pubblico. Puoi anche disconnetterti in qualsiasi momento con il pulsante in alto a destra.",
+    "snippet": "Chiudere la finestra del browser ti disconnette automaticamente, nulla resta collegato, il che rende la web app sicura anche su un computer condiviso o pubblico",
     "url": "/it/faq/web-app/#come-disconnetto-una-sessione-web",
     "lang": "it"
   },
@@ -480,8 +480,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Quali browser posso usare?",
-    "answer": "La web app funziona in qualsiasi browser moderno e aggiornato — per esempio Firefox, Chrome, Brave, Safari o Edge — su Linux, macOS e Windows. Non servono estensioni né installazioni: apri semplicemente web.peachbitcoin.com. Per la tua privacy, usa un browser di cui ti fidi e tienilo aggiornato.",
-    "snippet": "La web app funziona in qualsiasi browser moderno e aggiornato — per esempio Firefox, Chrome, Brave, Safari o Edge — su Linux, macOS e Windows. Non servono esten",
+    "answer": "La web app funziona in qualsiasi browser moderno e aggiornato, per esempio Firefox, Chrome, Brave, Safari o Edge, su Linux, macOS e Windows. Non servono estensioni né installazioni: apri semplicemente web.peachbitcoin.com. Per la tua privacy, usa un browser di cui ti fidi e tienilo aggiornato.",
+    "snippet": "La web app funziona in qualsiasi browser moderno e aggiornato, per esempio Firefox, Chrome, Brave, Safari o Edge, su Linux, macOS e Windows. Non servono estensi",
     "url": "/it/faq/web-app/#quali-browser-posso-usare",
     "lang": "it"
   },
@@ -489,8 +489,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Cosa succede se il mio telefono è offline?",
-    "answer": "Il tuo telefono detiene le chiavi del tuo account, quindi le azioni che richiedono una firma — come il rilascio dell'escrow — richiedono il telefono. Puoi comunque sfogliare l'order book nella web app, ma per completare le azioni sensibili di uno scambio, riporta il telefono online e conferma da lì. I tuoi fondi nell'escrow multifirma non sono mai a rischio mentre il telefono è offline.",
-    "snippet": "Il tuo telefono detiene le chiavi del tuo account, quindi le azioni che richiedono una firma — come il rilascio dell'escrow — richiedono il telefono. Puoi comun",
+    "answer": "Il tuo telefono detiene le chiavi del tuo account, quindi le azioni che richiedono una firma, come il rilascio dell'escrow, richiedono il telefono. Puoi comunque sfogliare l'order book nella web app, ma per completare le azioni sensibili di uno scambio, riporta il telefono online e conferma da lì. I tuoi fondi nell'escrow multifirma non sono mai a rischio mentre il telefono è offline.",
+    "snippet": "Il tuo telefono detiene le chiavi del tuo account, quindi le azioni che richiedono una firma, come il rilascio dell'escrow, richiedono il telefono. Puoi comunqu",
     "url": "/it/faq/web-app/#cosa-succede-se-il-mio-telefono-offline",
     "lang": "it"
   },
@@ -498,7 +498,7 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Posso collegare più di un browser?",
-    "answer": "Sì, puoi collegare tutti i browser che vuoi: basta scansionare il codice QR su ogni computer. Ogni sessione dura solo finché non chiudi la finestra o ti disconnetti — non resta nulla di collegato dopo di te.",
+    "answer": "Sì, puoi collegare tutti i browser che vuoi: basta scansionare il codice QR su ogni computer. Ogni sessione dura solo finché non chiudi la finestra o ti disconnetti, non resta nulla di collegato dopo di te.",
     "snippet": "Sì, puoi collegare tutti i browser che vuoi: basta scansionare il codice QR su ogni computer. Ogni sessione dura solo finché non chiudi la finestra o ti disconn",
     "url": "/it/faq/web-app/#posso-collegare-pi-di-un-browser",
     "lang": "it"
@@ -507,8 +507,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Perché confermo alcune azioni sul telefono invece che nel browser?",
-    "answer": "È l'autocustodia by design. Le tue chiavi private non lasciano mai il telefono, quindi tutto ciò che muove bitcoin — come firmare il rilascio dell'escrow — deve essere confermato nell'app mobile. Il browser è una comoda finestra sul tuo account; il telefono resta la cassaforte.",
-    "snippet": "È l'autocustodia by design. Le tue chiavi private non lasciano mai il telefono, quindi tutto ciò che muove bitcoin — come firmare il rilascio dell'escrow — deve",
+    "answer": "È l'autocustodia by design. Le tue chiavi private non lasciano mai il telefono, quindi tutto ciò che muove bitcoin, come firmare il rilascio dell'escrow, deve essere confermato nell'app mobile. Il browser è una comoda finestra sul tuo account; il telefono resta la cassaforte.",
+    "snippet": "È l'autocustodia by design. Le tue chiavi private non lasciano mai il telefono, quindi tutto ciò che muove bitcoin, come firmare il rilascio dell'escrow, deve e",
     "url": "/it/faq/web-app/#perch-confermo-alcune-azioni-sul-telefono-invece-che-nel-browser",
     "lang": "it"
   },
@@ -705,8 +705,8 @@
     "section": "Payment methods",
     "sectionKey": "pm",
     "question": "Quanto posso comprare in modo anonimo?",
-    "answer": "I metodi di pagamento anonimi — gift card, contanti agli incontri e USDT — hanno un limite inferiore di 1000 CHF al mese o l'equivalente in un'altra valuta.",
-    "snippet": "I metodi di pagamento anonimi — gift card, contanti agli incontri e USDT — hanno un limite inferiore di 1000 CHF al mese o l'equivalente in un'altra valuta.",
+    "answer": "I metodi di pagamento anonimi, gift card, contanti agli incontri e USDT, hanno un limite inferiore di 1000 CHF al mese o l'equivalente in un'altra valuta.",
+    "snippet": "I metodi di pagamento anonimi, gift card, contanti agli incontri e USDT, hanno un limite inferiore di 1000 CHF al mese o l'equivalente in un'altra valuta.",
     "url": "/it/faq/pm/#quanto-posso-comprare-in-modo-anonimo",
     "lang": "it"
   },
@@ -839,10 +839,10 @@
   {
     "section": "Account",
     "sectionKey": "account",
-    "question": "Perché posso acquistare legalmente senza KYC?",
-    "answer": "Peach è un'azienda conforme al 100%. Siamo un intermediario finanziario svizzero affiliato e il nostro quadro di conformità consente transazioni di scambio di denaro senza KYC in determinate soglie.",
+    "question": "Perché posso acquistare legalmente senza registrazione?",
+    "answer": "Peach è un'azienda conforme al 100%. Siamo un intermediario finanziario svizzero affiliato e il nostro quadro di conformità consente transazioni di scambio di denaro senza registrazione in determinate soglie.",
     "snippet": "Peach è un'azienda conforme al 100%. Siamo un intermediario finanziario svizzero affiliato e il nostro quadro di conformità consente transazioni di scambio di d",
-    "url": "/it/faq/account/#perch-posso-acquistare-legalmente-senza-kyc",
+    "url": "/it/faq/account/#perch-posso-acquistare-legalmente-senza-registrazione",
     "lang": "it"
   },
   {
@@ -885,7 +885,7 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Se connecter avec un code QR est-il sûr ?",
-    "answer": "Oui, cela fonctionne comme WhatsApp Web. Le scan relie votre navigateur au compte de votre téléphone. Rien n'est partagé avec des tiers, et la session prend fin dès que vous fermez la fenêtre — vous pouvez aussi vous déconnecter à tout moment. Vérifiez bien que vous êtes sur la bonne URL (web.peachbitcoin.com) !",
+    "answer": "Oui, cela fonctionne comme WhatsApp Web. Le scan relie votre navigateur au compte de votre téléphone. Rien n'est partagé avec des tiers, et la session prend fin dès que vous fermez la fenêtre, vous pouvez aussi vous déconnecter à tout moment. Vérifiez bien que vous êtes sur la bonne URL (web.peachbitcoin.com) !",
     "snippet": "Oui, cela fonctionne comme WhatsApp Web. Le scan relie votre navigateur au compte de votre téléphone. Rien n'est partagé avec des tiers, et la session prend fin",
     "url": "/fr/faq/web-app/#se-connecter-avec-un-code-qr-est-il-sr",
     "lang": "fr"
@@ -903,8 +903,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Comment déconnecter une session web ?",
-    "answer": "Fermer la fenêtre du navigateur vous déconnecte automatiquement — rien ne reste connecté, ce qui rend la web app sûre même sur un ordinateur partagé ou public. Vous pouvez aussi vous déconnecter à tout moment avec le bouton en haut à droite.",
-    "snippet": "Fermer la fenêtre du navigateur vous déconnecte automatiquement — rien ne reste connecté, ce qui rend la web app sûre même sur un ordinateur partagé ou public. ",
+    "answer": "Fermer la fenêtre du navigateur vous déconnecte automatiquement, rien ne reste connecté, ce qui rend la web app sûre même sur un ordinateur partagé ou public. Vous pouvez aussi vous déconnecter à tout moment avec le bouton en haut à droite.",
+    "snippet": "Fermer la fenêtre du navigateur vous déconnecte automatiquement, rien ne reste connecté, ce qui rend la web app sûre même sur un ordinateur partagé ou public. V",
     "url": "/fr/faq/web-app/#comment-dconnecter-une-session-web",
     "lang": "fr"
   },
@@ -912,8 +912,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Quels navigateurs puis-je utiliser ?",
-    "answer": "La web app fonctionne dans tout navigateur moderne et à jour — par exemple Firefox, Chrome, Brave, Safari ou Edge — sous Linux, macOS et Windows. Aucune extension ni installation n'est nécessaire : ouvrez simplement web.peachbitcoin.com. Pour votre vie privée, préférez un navigateur de confiance et gardez-le à jour.",
-    "snippet": "La web app fonctionne dans tout navigateur moderne et à jour — par exemple Firefox, Chrome, Brave, Safari ou Edge — sous Linux, macOS et Windows. Aucune extensi",
+    "answer": "La web app fonctionne dans tout navigateur moderne et à jour, par exemple Firefox, Chrome, Brave, Safari ou Edge, sous Linux, macOS et Windows. Aucune extension ni installation n'est nécessaire : ouvrez simplement web.peachbitcoin.com. Pour votre vie privée, préférez un navigateur de confiance et gardez-le à jour.",
+    "snippet": "La web app fonctionne dans tout navigateur moderne et à jour, par exemple Firefox, Chrome, Brave, Safari ou Edge, sous Linux, macOS et Windows. Aucune extension",
     "url": "/fr/faq/web-app/#quels-navigateurs-puis-je-utiliser",
     "lang": "fr"
   },
@@ -921,8 +921,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Que se passe-t-il si mon téléphone est hors ligne ?",
-    "answer": "Votre téléphone détient les clés de votre compte : les actions qui nécessitent une signature — comme la libération du séquestre — requièrent donc votre téléphone. Vous pouvez continuer à parcourir le carnet d'ordres dans la web app, mais pour finaliser les actions sensibles d'un échange, remettez votre téléphone en ligne et confirmez depuis celui-ci. Vos fonds dans le séquestre multisig ne sont jamais en danger pendant que votre téléphone est hors ligne.",
-    "snippet": "Votre téléphone détient les clés de votre compte : les actions qui nécessitent une signature — comme la libération du séquestre — requièrent donc votre téléphon",
+    "answer": "Votre téléphone détient les clés de votre compte : les actions qui nécessitent une signature, comme la libération du séquestre, requièrent donc votre téléphone. Vous pouvez continuer à parcourir le carnet d'ordres dans la web app, mais pour finaliser les actions sensibles d'un échange, remettez votre téléphone en ligne et confirmez depuis celui-ci. Vos fonds dans le séquestre multisig ne sont jamais en danger pendant que votre téléphone est hors ligne.",
+    "snippet": "Votre téléphone détient les clés de votre compte : les actions qui nécessitent une signature, comme la libération du séquestre, requièrent donc votre téléphone.",
     "url": "/fr/faq/web-app/#que-se-passe-t-il-si-mon-tlphone-est-hors-ligne",
     "lang": "fr"
   },
@@ -930,7 +930,7 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Puis-je connecter plusieurs navigateurs ?",
-    "answer": "Oui, vous pouvez connecter autant de navigateurs que vous le souhaitez : scannez simplement le code QR sur chaque ordinateur. Chaque session ne dure que jusqu'à la fermeture de la fenêtre ou votre déconnexion — rien ne reste connecté derrière vous.",
+    "answer": "Oui, vous pouvez connecter autant de navigateurs que vous le souhaitez : scannez simplement le code QR sur chaque ordinateur. Chaque session ne dure que jusqu'à la fermeture de la fenêtre ou votre déconnexion, rien ne reste connecté derrière vous.",
     "snippet": "Oui, vous pouvez connecter autant de navigateurs que vous le souhaitez : scannez simplement le code QR sur chaque ordinateur. Chaque session ne dure que jusqu'à",
     "url": "/fr/faq/web-app/#puis-je-connecter-plusieurs-navigateurs",
     "lang": "fr"
@@ -939,8 +939,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Pourquoi dois-je confirmer certaines actions sur mon téléphone plutôt que dans le navigateur ?",
-    "answer": "C'est l'auto-conservation par conception. Vos clés privées ne quittent jamais votre téléphone : tout ce qui déplace des bitcoins — comme la signature de la libération du séquestre — doit donc être confirmé dans l'app mobile. Le navigateur est une fenêtre pratique sur votre compte ; votre téléphone reste le coffre-fort.",
-    "snippet": "C'est l'auto-conservation par conception. Vos clés privées ne quittent jamais votre téléphone : tout ce qui déplace des bitcoins — comme la signature de la libé",
+    "answer": "C'est l'auto-conservation par conception. Vos clés privées ne quittent jamais votre téléphone : tout ce qui déplace des bitcoins, comme la signature de la libération du séquestre, doit donc être confirmé dans l'app mobile. Le navigateur est une fenêtre pratique sur votre compte ; votre téléphone reste le coffre-fort.",
+    "snippet": "C'est l'auto-conservation par conception. Vos clés privées ne quittent jamais votre téléphone : tout ce qui déplace des bitcoins, comme la signature de la libér",
     "url": "/fr/faq/web-app/#pourquoi-dois-je-confirmer-certaines-actions-sur-mon-tlphone-plutt-que-dans-le-navigateur",
     "lang": "fr"
   },
@@ -1128,8 +1128,8 @@
     "section": "Payment methods",
     "sectionKey": "pm",
     "question": "Combien puis-je acheter de manière anonyme ?",
-    "answer": "Les méthodes de paiement anonymes — cartes cadeaux, espèces lors de rencontres et USDT — ont une limite inférieure de 1000 CHF par mois ou l'équivalent dans une autre devise.",
-    "snippet": "Les méthodes de paiement anonymes — cartes cadeaux, espèces lors de rencontres et USDT — ont une limite inférieure de 1000 CHF par mois ou l'équivalent dans une",
+    "answer": "Les méthodes de paiement anonymes, cartes cadeaux, espèces lors de rencontres et USDT, ont une limite inférieure de 1000 CHF par mois ou l'équivalent dans une autre devise.",
+    "snippet": "Les méthodes de paiement anonymes, cartes cadeaux, espèces lors de rencontres et USDT, ont une limite inférieure de 1000 CHF par mois ou l'équivalent dans une a",
     "url": "/fr/faq/pm/#combien-puis-je-acheter-de-manire-anonyme",
     "lang": "fr"
   },
@@ -1290,7 +1290,7 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "¿Es seguro emparejar con un código QR?",
-    "answer": "Sí, funciona igual que WhatsApp Web. Al escanear, tu navegador se vincula a la cuenta de tu teléfono. No se comparte nada con nadie y la sesión termina en cuanto cierras la ventana — también puedes cerrar sesión en cualquier momento. ¡Asegúrate de estar en la URL correcta (web.peachbitcoin.com)!",
+    "answer": "Sí, funciona igual que WhatsApp Web. Al escanear, tu navegador se vincula a la cuenta de tu teléfono. No se comparte nada con nadie y la sesión termina en cuanto cierras la ventana, también puedes cerrar sesión en cualquier momento. ¡Asegúrate de estar en la URL correcta (web.peachbitcoin.com)!",
     "snippet": "Sí, funciona igual que WhatsApp Web. Al escanear, tu navegador se vincula a la cuenta de tu teléfono. No se comparte nada con nadie y la sesión termina en cuant",
     "url": "/es/faq/web-app/#es-seguro-emparejar-con-un-cdigo-qr",
     "lang": "es"
@@ -1308,8 +1308,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "¿Cómo desconecto una sesión web?",
-    "answer": "Cerrar la ventana del navegador cierra tu sesión automáticamente — nada queda conectado, lo que hace que la web app sea segura incluso en un ordenador compartido o público. También puedes cerrar sesión en cualquier momento con el botón de la esquina superior derecha.",
-    "snippet": "Cerrar la ventana del navegador cierra tu sesión automáticamente — nada queda conectado, lo que hace que la web app sea segura incluso en un ordenador compartid",
+    "answer": "Cerrar la ventana del navegador cierra tu sesión automáticamente, nada queda conectado, lo que hace que la web app sea segura incluso en un ordenador compartido o público. También puedes cerrar sesión en cualquier momento con el botón de la esquina superior derecha.",
+    "snippet": "Cerrar la ventana del navegador cierra tu sesión automáticamente, nada queda conectado, lo que hace que la web app sea segura incluso en un ordenador compartido",
     "url": "/es/faq/web-app/#cmo-desconecto-una-sesin-web",
     "lang": "es"
   },
@@ -1317,8 +1317,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "¿Qué navegadores puedo usar?",
-    "answer": "La web app funciona en cualquier navegador moderno y actualizado — por ejemplo Firefox, Chrome, Brave, Safari o Edge — en Linux, macOS y Windows. No necesitas extensiones ni instalación: solo abre web.peachbitcoin.com. Por tu privacidad, usa un navegador en el que confíes y mantenlo actualizado.",
-    "snippet": "La web app funciona en cualquier navegador moderno y actualizado — por ejemplo Firefox, Chrome, Brave, Safari o Edge — en Linux, macOS y Windows. No necesitas e",
+    "answer": "La web app funciona en cualquier navegador moderno y actualizado, por ejemplo Firefox, Chrome, Brave, Safari o Edge, en Linux, macOS y Windows. No necesitas extensiones ni instalación: solo abre web.peachbitcoin.com. Por tu privacidad, usa un navegador en el que confíes y mantenlo actualizado.",
+    "snippet": "La web app funciona en cualquier navegador moderno y actualizado, por ejemplo Firefox, Chrome, Brave, Safari o Edge, en Linux, macOS y Windows. No necesitas ext",
     "url": "/es/faq/web-app/#qu-navegadores-puedo-usar",
     "lang": "es"
   },
@@ -1326,8 +1326,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "¿Qué pasa si mi teléfono está sin conexión?",
-    "answer": "Tu teléfono guarda las llaves de tu cuenta, así que las acciones que requieren una firma — como liberar el escrow — necesitan tu teléfono. Puedes seguir explorando el libro de órdenes en la web app, pero para completar acciones sensibles del intercambio, vuelve a conectar tu teléfono y confirma desde allí. Tus fondos en el escrow multifirma nunca corren peligro mientras tu teléfono está sin conexión.",
-    "snippet": "Tu teléfono guarda las llaves de tu cuenta, así que las acciones que requieren una firma — como liberar el escrow — necesitan tu teléfono. Puedes seguir explora",
+    "answer": "Tu teléfono guarda las llaves de tu cuenta, así que las acciones que requieren una firma, como liberar el escrow, necesitan tu teléfono. Puedes seguir explorando el libro de órdenes en la web app, pero para completar acciones sensibles del intercambio, vuelve a conectar tu teléfono y confirma desde allí. Tus fondos en el escrow multifirma nunca corren peligro mientras tu teléfono está sin conexión.",
+    "snippet": "Tu teléfono guarda las llaves de tu cuenta, así que las acciones que requieren una firma, como liberar el escrow, necesitan tu teléfono. Puedes seguir explorand",
     "url": "/es/faq/web-app/#qu-pasa-si-mi-telfono-est-sin-conexin",
     "lang": "es"
   },
@@ -1344,8 +1344,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "¿Por qué confirmo algunas acciones en el teléfono y no en el navegador?",
-    "answer": "Es autocustodia por diseño. Tus llaves privadas nunca salen de tu teléfono, así que todo lo que mueve bitcoin — como firmar la liberación del escrow — debe confirmarse en la app móvil. El navegador es una ventana cómoda a tu cuenta; tu teléfono sigue siendo la caja fuerte.",
-    "snippet": "Es autocustodia por diseño. Tus llaves privadas nunca salen de tu teléfono, así que todo lo que mueve bitcoin — como firmar la liberación del escrow — debe conf",
+    "answer": "Es autocustodia por diseño. Tus llaves privadas nunca salen de tu teléfono, así que todo lo que mueve bitcoin, como firmar la liberación del escrow, debe confirmarse en la app móvil. El navegador es una ventana cómoda a tu cuenta; tu teléfono sigue siendo la caja fuerte.",
+    "snippet": "Es autocustodia por diseño. Tus llaves privadas nunca salen de tu teléfono, así que todo lo que mueve bitcoin, como firmar la liberación del escrow, debe confir",
     "url": "/es/faq/web-app/#por-qu-confirmo-algunas-acciones-en-el-telfono-y-no-en-el-navegador",
     "lang": "es"
   },
@@ -1551,8 +1551,8 @@
     "section": "Payment methods",
     "sectionKey": "pm",
     "question": "¿Cuánto puedo comprar de forma anónima?",
-    "answer": "Los métodos de pago anónimos —tarjetas de regalo, efectivo en encuentros y USDT— tienen un límite inferior de 1000 CHF al mes o el equivalente en otra moneda.",
-    "snippet": "Los métodos de pago anónimos —tarjetas de regalo, efectivo en encuentros y USDT— tienen un límite inferior de 1000 CHF al mes o el equivalente en otra moneda.",
+    "answer": "Los métodos de pago anónimos, tarjetas de regalo, efectivo en encuentros y USDT, tienen un límite inferior de 1000 CHF al mes o el equivalente en otra moneda.",
+    "snippet": "Los métodos de pago anónimos, tarjetas de regalo, efectivo en encuentros y USDT, tienen un límite inferior de 1000 CHF al mes o el equivalente en otra moneda.",
     "url": "/es/faq/pm/#cunto-puedo-comprar-de-forma-annima",
     "lang": "es"
   },
@@ -1676,10 +1676,10 @@
   {
     "section": "Account",
     "sectionKey": "account",
-    "question": "¿Por qué puedo comprar sin KYC (CSC; Conozca Su Cliente) en Peach?",
-    "answer": "Peach es una empresa que cumple al 100% con las regulaciones. Somos un intermediario financiero suizo afiliado y nuestro marco de cumplimiento permite operaciones de cambio de divisas sin KYC (CSC) por debajo de determinados umbrales.",
+    "question": "¿Por qué puedo comprar sin registro (CSC; Conozca Su Cliente) en Peach?",
+    "answer": "Peach es una empresa que cumple al 100% con las regulaciones. Somos un intermediario financiero suizo afiliado y nuestro marco de cumplimiento permite operaciones de cambio de divisas sin registro (CSC) por debajo de determinados umbrales.",
     "snippet": "Peach es una empresa que cumple al 100% con las regulaciones. Somos un intermediario financiero suizo afiliado y nuestro marco de cumplimiento permite operacion",
-    "url": "/es/faq/account/#por-qu-puedo-comprar-sin-kyc-csc-conozca-su-cliente-en-peach",
+    "url": "/es/faq/account/#por-qu-puedo-comprar-sin-registro-csc-conozca-su-cliente-en-peach",
     "lang": "es"
   },
   {
@@ -1731,7 +1731,7 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Is pairing with a QR code safe?",
-    "answer": "Yes, it works just like WhatsApp Web. Scanning links your browser to the account on your phone. Nothing is shared with anyone else, and the session ends as soon as you close the window — you can also log out at any time. Make sure you are on the correct url (web.peachbitcoin.com)!",
+    "answer": "Yes, it works just like WhatsApp Web. Scanning links your browser to the account on your phone. Nothing is shared with anyone else, and the session ends as soon as you close the window, you can also log out at any time. Make sure you are on the correct url (web.peachbitcoin.com)!",
     "snippet": "Yes, it works just like WhatsApp Web. Scanning links your browser to the account on your phone. Nothing is shared with anyone else, and the session ends as soon",
     "url": "/faq/web-app/#is-pairing-with-a-qr-code-safe",
     "lang": "en"
@@ -1749,8 +1749,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "How do I disconnect a web session?",
-    "answer": "Closing the browser window logs you out automatically — nothing stays signed in, which makes the web app safe to use even on a shared or public computer. You can also log out at any time with the button in the top right corner.",
-    "snippet": "Closing the browser window logs you out automatically — nothing stays signed in, which makes the web app safe to use even on a shared or public computer. You ca",
+    "answer": "Closing the browser window logs you out automatically, nothing stays signed in, which makes the web app safe to use even on a shared or public computer. You can also log out at any time with the button in the top right corner.",
+    "snippet": "Closing the browser window logs you out automatically, nothing stays signed in, which makes the web app safe to use even on a shared or public computer. You can",
     "url": "/faq/web-app/#how-do-i-disconnect-a-web-session",
     "lang": "en"
   },
@@ -1758,8 +1758,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Which browsers can I use?",
-    "answer": "The web app works in any modern, up-to-date browser — for example Firefox, Chrome, Brave, Safari or Edge — on Linux, macOS and Windows. No extension or installation is needed: just open web.peachbitcoin.com. For privacy, prefer a browser you trust and keep it updated.",
-    "snippet": "The web app works in any modern, up-to-date browser — for example Firefox, Chrome, Brave, Safari or Edge — on Linux, macOS and Windows. No extension or installa",
+    "answer": "The web app works in any modern, up-to-date browser, for example Firefox, Chrome, Brave, Safari or Edge, on Linux, macOS and Windows. No extension or installation is needed: just open web.peachbitcoin.com. For privacy, prefer a browser you trust and keep it updated.",
+    "snippet": "The web app works in any modern, up-to-date browser, for example Firefox, Chrome, Brave, Safari or Edge, on Linux, macOS and Windows. No extension or installati",
     "url": "/faq/web-app/#which-browsers-can-i-use",
     "lang": "en"
   },
@@ -1767,8 +1767,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "What happens if my phone is offline?",
-    "answer": "Your phone holds the keys to your account, so actions that need a signature — like releasing the escrow — require your phone. You can still browse the order book in the web app, but to complete sensitive trade actions, bring your phone back online and confirm there. Your funds in the multisig escrow are never at risk while your phone is offline.",
-    "snippet": "Your phone holds the keys to your account, so actions that need a signature — like releasing the escrow — require your phone. You can still browse the order boo",
+    "answer": "Your phone holds the keys to your account, so actions that need a signature, like releasing the escrow, require your phone. You can still browse the order book in the web app, but to complete sensitive trade actions, bring your phone back online and confirm there. Your funds in the multisig escrow are never at risk while your phone is offline.",
+    "snippet": "Your phone holds the keys to your account, so actions that need a signature, like releasing the escrow, require your phone. You can still browse the order book ",
     "url": "/faq/web-app/#what-happens-if-my-phone-is-offline",
     "lang": "en"
   },
@@ -1785,8 +1785,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Why do I confirm some actions on my phone instead of the browser?",
-    "answer": "That's self-custody by design. Your private keys never leave your phone, so anything that moves bitcoin — like signing the escrow release — must be confirmed in the mobile app. The browser is a convenient window into your account; your phone remains the vault.",
-    "snippet": "That's self-custody by design. Your private keys never leave your phone, so anything that moves bitcoin — like signing the escrow release — must be confirmed in",
+    "answer": "That's self-custody by design. Your private keys never leave your phone, so anything that moves bitcoin, like signing the escrow release, must be confirmed in the mobile app. The browser is a convenient window into your account; your phone remains the vault.",
+    "snippet": "That's self-custody by design. Your private keys never leave your phone, so anything that moves bitcoin, like signing the escrow release, must be confirmed in t",
     "url": "/faq/web-app/#why-do-i-confirm-some-actions-on-my-phone-instead-of-the-browser",
     "lang": "en"
   },
@@ -2000,10 +2000,10 @@
   {
     "section": "Payment methods",
     "sectionKey": "pm",
-    "question": "How much  can I buy anonymously?",
+    "question": "How much  can I buy peer-to-peer?",
     "answer": "Anonymous payment methods, gift cards and cash at meetups and USDT, have a lower limit of 1000 CHF per month or the equivalent in another currency.",
     "snippet": "Anonymous payment methods, gift cards and cash at meetups and USDT, have a lower limit of 1000 CHF per month or the equivalent in another currency.",
-    "url": "/faq/pm/#how-much-can-i-buy-anonymously",
+    "url": "/faq/pm/#how-much-can-i-buy-peer-to-peer",
     "lang": "en"
   },
   {
@@ -2144,10 +2144,10 @@
   {
     "section": "Account",
     "sectionKey": "account",
-    "question": "Why can I buy legally without KYC?",
+    "question": "Why can I buy legally without registration?",
     "answer": "Peach is a 100% compliant company. We are an affiliated Swiss financial intermediary and our compliance framework allows for KYC-less money exchange transactions under certain thresholds.",
     "snippet": "Peach is a 100% compliant company. We are an affiliated Swiss financial intermediary and our compliance framework allows for KYC-less money exchange transaction",
-    "url": "/faq/account/#why-can-i-buy-legally-without-kyc",
+    "url": "/faq/account/#why-can-i-buy-legally-without-registration",
     "lang": "en"
   },
   {
@@ -2190,7 +2190,7 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Ist die Verbindung per QR-Code sicher?",
-    "answer": "Ja, es funktioniert genau wie WhatsApp Web. Beim Scannen wird dein Browser mit dem Konto auf deinem Telefon verknüpft. Es wird nichts mit Dritten geteilt, und die Sitzung endet, sobald du das Fenster schliesst — du kannst dich auch jederzeit abmelden. Achte darauf, dass du die richtige URL verwendest (web.peachbitcoin.com)!",
+    "answer": "Ja, es funktioniert genau wie WhatsApp Web. Beim Scannen wird dein Browser mit dem Konto auf deinem Telefon verknüpft. Es wird nichts mit Dritten geteilt, und die Sitzung endet, sobald du das Fenster schliesst, du kannst dich auch jederzeit abmelden. Achte darauf, dass du die richtige URL verwendest (web.peachbitcoin.com)!",
     "snippet": "Ja, es funktioniert genau wie WhatsApp Web. Beim Scannen wird dein Browser mit dem Konto auf deinem Telefon verknüpft. Es wird nichts mit Dritten geteilt, und d",
     "url": "/de/faq/web-app/#ist-die-verbindung-per-qr-code-sicher",
     "lang": "de"
@@ -2208,8 +2208,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Wie trenne ich eine Web-Sitzung?",
-    "answer": "Das Schliessen des Browser-Fensters meldet dich automatisch ab — nichts bleibt angemeldet, was die Web-App auch an geteilten oder öffentlichen Computern sicher macht. Du kannst dich ausserdem jederzeit über den Button oben rechts abmelden.",
-    "snippet": "Das Schliessen des Browser-Fensters meldet dich automatisch ab — nichts bleibt angemeldet, was die Web-App auch an geteilten oder öffentlichen Computern sicher ",
+    "answer": "Das Schliessen des Browser-Fensters meldet dich automatisch ab, nichts bleibt angemeldet, was die Web-App auch an geteilten oder öffentlichen Computern sicher macht. Du kannst dich ausserdem jederzeit über den Button oben rechts abmelden.",
+    "snippet": "Das Schliessen des Browser-Fensters meldet dich automatisch ab, nichts bleibt angemeldet, was die Web-App auch an geteilten oder öffentlichen Computern sicher m",
     "url": "/de/faq/web-app/#wie-trenne-ich-eine-web-sitzung",
     "lang": "de"
   },
@@ -2217,8 +2217,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Welche Browser kann ich nutzen?",
-    "answer": "Die Web-App funktioniert in jedem modernen, aktuellen Browser — zum Beispiel Firefox, Chrome, Brave, Safari oder Edge — unter Linux, macOS und Windows. Es ist keine Erweiterung oder Installation nötig: Öffne einfach web.peachbitcoin.com. Für deine Privatsphäre nutze am besten einen Browser, dem du vertraust, und halte ihn aktuell.",
-    "snippet": "Die Web-App funktioniert in jedem modernen, aktuellen Browser — zum Beispiel Firefox, Chrome, Brave, Safari oder Edge — unter Linux, macOS und Windows. Es ist k",
+    "answer": "Die Web-App funktioniert in jedem modernen, aktuellen Browser, zum Beispiel Firefox, Chrome, Brave, Safari oder Edge, unter Linux, macOS und Windows. Es ist keine Erweiterung oder Installation nötig: Öffne einfach web.peachbitcoin.com. Für deine Privatsphäre nutze am besten einen Browser, dem du vertraust, und halte ihn aktuell.",
+    "snippet": "Die Web-App funktioniert in jedem modernen, aktuellen Browser, zum Beispiel Firefox, Chrome, Brave, Safari oder Edge, unter Linux, macOS und Windows. Es ist kei",
     "url": "/de/faq/web-app/#welche-browser-kann-ich-nutzen",
     "lang": "de"
   },
@@ -2226,8 +2226,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Was passiert, wenn mein Telefon offline ist?",
-    "answer": "Dein Telefon hält die Schlüssel zu deinem Konto. Aktionen, die eine Signatur brauchen — wie das Freigeben der Treuhand — erfordern daher dein Telefon. Du kannst das Orderbuch in der Web-App weiterhin durchsuchen, aber um sensible Handelsaktionen abzuschliessen, bringe dein Telefon wieder online und bestätige dort. Deine Gelder in der Multisig-Treuhand sind nie in Gefahr, während dein Telefon offline ist.",
-    "snippet": "Dein Telefon hält die Schlüssel zu deinem Konto. Aktionen, die eine Signatur brauchen — wie das Freigeben der Treuhand — erfordern daher dein Telefon. Du kannst",
+    "answer": "Dein Telefon hält die Schlüssel zu deinem Konto. Aktionen, die eine Signatur brauchen, wie das Freigeben der Treuhand, erfordern daher dein Telefon. Du kannst das Orderbuch in der Web-App weiterhin durchsuchen, aber um sensible Handelsaktionen abzuschliessen, bringe dein Telefon wieder online und bestätige dort. Deine Gelder in der Multisig-Treuhand sind nie in Gefahr, während dein Telefon offline ist.",
+    "snippet": "Dein Telefon hält die Schlüssel zu deinem Konto. Aktionen, die eine Signatur brauchen, wie das Freigeben der Treuhand, erfordern daher dein Telefon. Du kannst d",
     "url": "/de/faq/web-app/#was-passiert-wenn-mein-telefon-offline-ist",
     "lang": "de"
   },
@@ -2235,7 +2235,7 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Kann ich mehr als einen Browser verbinden?",
-    "answer": "Ja, du kannst so viele Browser verbinden, wie du möchtest: Scanne einfach den QR-Code an jedem Computer. Jede Sitzung dauert nur, bis du das Fenster schliesst oder dich abmeldest — es bleibt also nichts angemeldet zurück.",
+    "answer": "Ja, du kannst so viele Browser verbinden, wie du möchtest: Scanne einfach den QR-Code an jedem Computer. Jede Sitzung dauert nur, bis du das Fenster schliesst oder dich abmeldest, es bleibt also nichts angemeldet zurück.",
     "snippet": "Ja, du kannst so viele Browser verbinden, wie du möchtest: Scanne einfach den QR-Code an jedem Computer. Jede Sitzung dauert nur, bis du das Fenster schliesst o",
     "url": "/de/faq/web-app/#kann-ich-mehr-als-einen-browser-verbinden",
     "lang": "de"
@@ -2244,8 +2244,8 @@
     "section": "Web App",
     "sectionKey": "web-app",
     "question": "Warum bestätige ich manche Aktionen am Telefon statt im Browser?",
-    "answer": "Das ist Selbstverwahrung by Design. Deine privaten Schlüssel verlassen nie dein Telefon. Alles, was Bitcoin bewegt — wie das Signieren der Treuhand-Freigabe — muss daher in der mobilen App bestätigt werden. Der Browser ist ein bequemes Fenster zu deinem Konto; dein Telefon bleibt der Tresor.",
-    "snippet": "Das ist Selbstverwahrung by Design. Deine privaten Schlüssel verlassen nie dein Telefon. Alles, was Bitcoin bewegt — wie das Signieren der Treuhand-Freigabe — m",
+    "answer": "Das ist Selbstverwahrung by Design. Deine privaten Schlüssel verlassen nie dein Telefon. Alles, was Bitcoin bewegt, wie das Signieren der Treuhand-Freigabe, muss daher in der mobilen App bestätigt werden. Der Browser ist ein bequemes Fenster zu deinem Konto; dein Telefon bleibt der Tresor.",
+    "snippet": "Das ist Selbstverwahrung by Design. Deine privaten Schlüssel verlassen nie dein Telefon. Alles, was Bitcoin bewegt, wie das Signieren der Treuhand-Freigabe, mus",
     "url": "/de/faq/web-app/#warum-bestaetige-ich-manche-aktionen-am-telefon-statt-im-browser",
     "lang": "de"
   },
@@ -2567,10 +2567,10 @@
   {
     "section": "Account",
     "sectionKey": "account",
-    "question": "Warum kann ich ohne KYC legal kaufen?",
-    "answer": "Peach ist ein zu 100 % konformes Unternehmen. Wir sind ein angemeldeter Schweizer Finanzintermediär und unser Compliance-Rahmen ermöglicht KYC-freie Geldwechseltransaktionen unter bestimmten Schwellenwerten.",
-    "snippet": "Peach ist ein zu 100 % konformes Unternehmen. Wir sind ein angemeldeter Schweizer Finanzintermediär und unser Compliance-Rahmen ermöglicht KYC-freie Geldwechsel",
-    "url": "/de/faq/account/#warum-kann-ich-ohne-kyc-legal-kaufen",
+    "question": "Warum kann ich ohne Registrierung legal kaufen?",
+    "answer": "Peach ist ein zu 100 % konformes Unternehmen. Wir sind ein angemeldeter Schweizer Finanzintermediär und unser Compliance-Rahmen ermöglicht registrierungsfreie Geldwechseltransaktionen unter bestimmten Schwellenwerten.",
+    "snippet": "Peach ist ein zu 100 % konformes Unternehmen. Wir sind ein angemeldeter Schweizer Finanzintermediär und unser Compliance-Rahmen ermöglicht registrierungsfreie G",
+    "url": "/de/faq/account/#warum-kann-ich-ohne-registrierung-legal-kaufen",
     "lang": "de"
   },
   {

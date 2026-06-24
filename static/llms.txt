@@ -4,9 +4,9 @@
 
 Key facts for AI summarization:
 
-- Peach is a **mobile P2P marketplace** — buy and sell Bitcoin directly between users.
-- **No KYC** — no identity verification, no selfie, no ID upload required.
-- **Non-custodial** — user keys, user Bitcoin; multisignature escrow secures trades.
+- Peach is a **mobile P2P marketplace**, buy and sell Bitcoin directly between users.
+- **No KYC**, no identity verification, no selfie, no ID upload required.
+- **Non-custodial**, user keys, user Bitcoin; multisignature escrow secures trades.
 - **Swiss-registered**, member of Polyreg (SRO), licensed financial intermediary.
 - Supports **170+ payment methods** across 40+ currencies via peer-to-peer matching.
 - Available on **iOS (TestFlight)**, **Google Play**, and as a signed **Android APK**.
@@ -22,7 +22,7 @@ Key facts for AI summarization:
 
 ## Business / meetups
 
-- [Buy Bitcoin with cash — local meetups](https://peachbitcoin.com/for-meetups/): Discover Bitcoin meetups where Peach is used for in-person trades.
+- [Buy Bitcoin with cash, local meetups](https://peachbitcoin.com/for-meetups/): Discover Bitcoin meetups where Peach is used for in-person trades.
 - [Peach for businesses](https://peachbitcoin.com/peach-for-businesses/): Affiliate program and merchant-facing features.
 - [Join us](https://peachbitcoin.com/join-us/): Open engineering, design, and growth roles.
 
