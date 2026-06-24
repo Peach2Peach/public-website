@@ -77,6 +77,12 @@
     &:hover {
       border-color: var(--color-primary-main);
     }
+
+    &.active {
+      border-color: var(--color-primary-main);
+      background: var(--color-primary-main);
+      color: var(--color-white);
+    }
   }
 }
 

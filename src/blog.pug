@@ -7,10 +7,12 @@ block main
         h1= `${i18n('taggedWith', lang)} "${i18n('tag.' + tag, lang)}"`
       else
         != html
-        .content-wrap.tags
-          each tag in siteData.tags
-            if (tag.lang === lang || (lang === 'en' && !tag.lang))
-              a(href=getUrl(`/${tag.permalink}`, lang))= i18n('tag.' + tag.tag, lang)
+      .content-wrap.tags
+        if tag
+          a(href=getUrl('/blog', lang))= i18n('allPosts', lang)
+        each t in siteData.tags
+          if (t.lang === lang || (lang === 'en' && !t.lang))
+            a(href=getUrl(`/${t.permalink}`, lang) class={active: t.tag === tag})= i18n('tag.' + t.tag, lang)
     .blog-search(data-lang=lang)
       label.blog-search__label(for='blog-search-input')
         | !{i18n('searchBlog', lang) || 'Search the blog'}
