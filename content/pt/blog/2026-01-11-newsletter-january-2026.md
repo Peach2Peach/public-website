@@ -11,12 +11,12 @@ tags:
   - Newsletter
 previewImage: /img/blog/newsletter/mail-post.png
 description: |
-  2026 chegou. Um olhar sobre o nosso pipeline para o ano — incluindo o
-  Peach Web, a nossa progressive web app — um pequeno desabafo sobre
+  2026 chegou. Um olhar sobre o nosso pipeline para o ano, incluindo o
+  Peach Web, a nossa progressive web app, um pequeno desabafo sobre
   privacidade enquanto os leaks se acumulam, e uma atualização do mercado Peach.
 ---
 
-# Newsletter — Janeiro 2026
+# Newsletter, Janeiro 2026
 
 ![2026 — Peach bitcoin](/img/blog/newsletter-january-2026/hero.png)
 
@@ -49,17 +49,17 @@ Achas que deveria haver mais alguma coisa no nosso pipeline? Diz-nos no nosso ca
 
 ## Adoramos privacidade
 
-O Desafio de Dezembro acabou, as recompensas foram distribuídas e a conclusão é que *muita* gente vem ao Peach por razões de privacidade. E com todos os leaks (Ledger — de novo; o governo francês a deixar escapar os dados de dezenas de milhões de pessoas, só para nomear os maiores — com uma rápida pesquisa verás muitos mais), as pessoas estão cada vez mais avessas a fazer KYC por aí. Especialmente se envolver Bitcoin.
+O Desafio de Dezembro acabou, as recompensas foram distribuídas e a conclusão é que *muita* gente vem ao Peach por razões de privacidade. E com todos os leaks (Ledger, de novo; o governo francês a deixar escapar os dados de dezenas de milhões de pessoas, só para nomear os maiores, com uma rápida pesquisa verás muitos mais), as pessoas estão cada vez mais avessas a fazer KYC por aí. Especialmente se envolver Bitcoin.
 
 **Aqui na Peach, adoramos privacidade.** Acreditamos que é um direito fundamental teu. Ajudamos-te a stackar e vender os teus sats sem comprometer a tua segurança. Sabemos que as tuas finanças são assunto teu, e de mais ninguém. Por isso construímos uma plataforma onde podes negociar Bitcoin diretamente, de pessoa para pessoa, sem teres de entregar os teus documentos pessoais a uma corporação sem rosto.
 
 Não acreditamos em vigilância. Não acreditamos em rastrear cada um dos teus passos. Acreditamos na soberania financeira, e isso começa por manter os teus dados seguros e a tua identidade só tua. Por isso vai em frente, faz esse trade, com a confiança de que a tua privacidade é respeitada. Porque adoramos privacidade, e sabemos que tu também.
 
-**Vender na Peach é sem KYC e GRATUITO.** Nada de ID, nada disso. Não vemos os detalhes dos teus pagamentos (exceto em caso de disputa). Criar uma conta envolve apenas gerar uma seed e ligar a tua reputação a ela.
+**Vender na Peach é sem registo e GRATUITO.** Nada de ID, nada disso. Não vemos os detalhes dos teus pagamentos (exceto em caso de disputa). Criar uma conta envolve apenas gerar uma seed e ligar a tua reputação a ela.
 
 Além disso, podes vender bitcoin a +5% acima do mercado :)
 
-Tens até CHF 1k por dia, sem KYC. Se quiseres passar esse limite e confiar-nos os teus dados, entra em contacto. Infelizmente, isto implica KYC.
+Tens até CHF 1k por dia, sem registo. Se quiseres passar esse limite e confiar-nos os teus dados, entra em contacto. Infelizmente, isto implica KYC.
 
 A um 2026 dedicado à privacidade!
 
@@ -68,8 +68,8 @@ A um 2026 dedicado à privacidade!
 Um resumo das funcionalidades e melhorias que adicionámos:
 
 - Os dados das ofertas na página inicial passaram a ser clicáveis.
-- Adicionámos vários novos avisos na app, para evitar que os nossos queridos utilizadores cometam erros e caiam em burlas. Vê no chat de trade — especialmente contra o novo **risco de chargeback com a Revolut** (basta verificar que o outro utilizador não enviou por cartão de crédito ou Apple Pay e estás seguro).
-- Uma série de correções de bugs — esperemos que vejas menos daquelas mensagens de erro!
+- Adicionámos vários novos avisos na app, para evitar que os nossos queridos utilizadores cometam erros e caiam em burlas. Vê no chat de trade, especialmente contra o novo **risco de chargeback com a Revolut** (basta verificar que o outro utilizador não enviou por cartão de crédito ou Apple Pay e estás seguro).
+- Uma série de correções de bugs, esperemos que vejas menos daquelas mensagens de erro!
 - Um mecanismo de click-to-copy no chat.
 - O PIN dá-te alguns segundos para mudar entre apps.
 - Na página de perfil do utilizador, podes ver todas as ofertas disponíveis.
@@ -88,12 +88,12 @@ Abaixo encontras um resumo das estatísticas mais importantes do mês passado. D
 
 | Métrica | Valor |
 | --- | --- |
-| Volume total | 1.493.284.605 sats — 1.248.986,34 CHF |
+| Volume total | 1.493.284.605 sats, 1.248.986,34 CHF |
 | Ofertas de VENDA / dia | 98 (5.892 ofertas em 60 dias) |
-| PREMIUM médio | 6,67% — a descer à medida que o número de trades cresce |
+| PREMIUM médio | 6,67%, a descer à medida que o número de trades cresce |
 | Tempo mediano para completar uma venda | 32 minutos |
 | Número de trades concluídos | 4.012 |
-| Valor médio por trade | 444.539 sats — 334 CHF |
+| Valor médio por trade | 444.539 sats, 334 CHF |
 
 ---
 

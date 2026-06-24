@@ -10,7 +10,7 @@ tags:
   - Product
 previewImage: /img/blog/premium-cap-removed/cover.png
 description: |
-  Peach supprime le plafond de premium de ±21 %. Vendeurs et acheteurs peuvent désormais fixer le prix qu'ils veulent — parce qu'un marché libre devrait fonctionner comme tel.
+  Peach supprime le plafond de premium de ±21 %. Vendeurs et acheteurs peuvent désormais fixer le prix qu'ils veulent, parce qu'un marché libre devrait fonctionner comme tel.
 ---
 
 # Suppression du plafond de premium
@@ -35,7 +35,7 @@ Supprimer le plafond permet aux vendeurs de fixer un premium qui rend les trades
 
 Au-delà des avantages pratiques, il y a un principe. Peach est un marché pair-à-pair. L'idée même, c'est que les gens tradent directement entre eux, aux conditions sur lesquelles ils s'accordent. Imposer un plafond artificiel sur les prix a toujours été un peu en contradiction avec cet esprit.
 
-Si un vendeur veut offrir une grosse remise pour écouler ses sats rapidement, il devrait pouvoir le faire. Si un acheteur est prêt à payer un premium élevé pour la commodité d'un moyen de paiement spécifique ou pour un trade rapide — c'est entre lui et le vendeur. On n'a pas besoin de s'immiscer dans cette décision.
+Si un vendeur veut offrir une grosse remise pour écouler ses sats rapidement, il devrait pouvoir le faire. Si un acheteur est prêt à payer un premium élevé pour la commodité d'un moyen de paiement spécifique ou pour un trade rapide, c'est entre lui et le vendeur. On n'a pas besoin de s'immiscer dans cette décision.
 
 Le marché déterminera ce qui est raisonnable. Les offres trop chères ne trouveront pas de matchs. Celles qui sont sous-évaluées seront prises d'assaut. C'est comme ça que ça doit fonctionner.
 
@@ -48,7 +48,7 @@ Si vous êtes vendeur, ça se combine très bien avec le bouton **"pour les nouv
 ## En résumé
 
 - Le plafond de premium de ±21 % est supprimé dans la v0.69.0
-- Fixez le prix que vous voulez — le marché décide de ce qui est juste
+- Fixez le prix que vous voulez, le marché décide de ce qui est juste
 - Les vendeurs peuvent correctement intégrer le risque de trader avec de nouveaux utilisateurs
 - Les nouveaux acheteurs obtiennent plus de matchs et un chemin plus rapide pour construire leur réputation
 - Le marché libre fait son travail

@@ -16,5 +16,5 @@ No puedes comprar con tarjetas de regalo físicas.
 :::
 
 :::details ¿Cuánto puedo comprar de forma anónima?
-Los métodos de pago anónimos —tarjetas de regalo, efectivo en encuentros y USDT— tienen un límite inferior de 1000 CHF al mes o el equivalente en otra moneda.
+Los métodos de pago anónimos, tarjetas de regalo, efectivo en encuentros y USDT, tienen un límite inferior de 1000 CHF al mes o el equivalente en otra moneda.
 :::

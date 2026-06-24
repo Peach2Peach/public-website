@@ -2,14 +2,14 @@
 ### *Your Gateway to Secure and Private Bitcoin Transactions*
 
 Welcome to the PeachBitcoin tutorial hub!  
-Here, you’ll find step-by-step guides to help you navigate our platform, master advanced Bitcoin techniques, and enjoy the benefits of buying and selling Bitcoin **without KYC**.  
+Here, you’ll find step-by-step guides to help you navigate our platform, master advanced Bitcoin techniques, and enjoy the benefits of buying and selling Bitcoin **without registration**. 
 
-With over **100 payment methods** supported — including PayPal, bank transfers, credit cards, and gift cards — PeachBitcoin combines **flexibility, privacy, and security** like no other.  
+With over **100 payment methods** supported, including PayPal, bank transfers, credit cards, and gift cards, PeachBitcoin combines **flexibility, privacy, and security** like no other. 
 
 ---
 
 ## Why Use PeachBitcoin?
-- **No KYC Required**: Preserve your privacy while transacting securely.  
+- **No registration Required**: Preserve your privacy while transacting securely. 
 - **Global Payment Options**: Choose from 100+ payment methods.  
 - **Built-In Escrow**: Trade confidently with our secure escrow system.  
 - **Advanced Tools**: Use features like CPFP, personal Bitcoin nodes, and message signing.  
@@ -64,7 +64,7 @@ With PeachBitcoin, privacy meets security. Use our tutorials to:
 ## **About PeachBitcoin**  
 
 PeachBitcoin is a **peer-to-peer marketplace** designed to empower Bitcoin users worldwide. By offering private, secure, and user-friendly services, we ensure a seamless trading experience.  
-**Your Keys , your rules.**
+**Your Keys, your rules.**
 
 ---
 

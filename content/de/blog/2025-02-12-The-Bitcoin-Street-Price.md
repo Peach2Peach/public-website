@@ -122,7 +122,7 @@ Melde dich jetzt bei uns!
         Integriere dein Event oder deinen Shop in unsere App, um Bargeld-Transaktionen an deinem Standort zu ermöglichen.
         <ul>
           <li>Erhalte 100% unserer Einnahmen für alle Bargeldgeschäfte, die bei deinem Meetup stattfinden!</li>
-          <li>Erhalte deinen individuellen Empfehlungscode, Merchandising, Flyer und unsere volle Unterstützung, um Menschen den anonymen Handel näherzubringen.</li>
+          <li>Erhalte deinen individuellen Empfehlungscode, Merchandising, Flyer und unsere volle Unterstützung, um Menschen den Peer-to-Peer-Handel näherzubringen.</li>
         </ul>
         Sende eine E-Mail mit <strong style="color: #E4572E;">#CASH4SATS</strong>, um alle Informationen zu erhalten.
       </div>

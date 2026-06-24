@@ -56,7 +56,7 @@ Num golpe de triangulação, não coincidem. O dinheiro chegou da conta de uma v
 
 \*houve casos em que a vítima se queixa às autoridades e acusa/envolve o vendedor (honesto). Não vais querer isso.
 
-Neste momento, esta é a única forma que encontrámos de travar pagamentos de terceiros e golpes de triangulação sem comprometer aquilo com que realmente nos importamos: sem KYC, sem vigilância, sem entregar a tua identidade a ninguém. Declaras a conta a partir da qual pagas, o vendedor verifica se coincide, e é só isso. Funciona na grande maioria dos métodos de pagamento (o dinheiro vivo e alguns métodos anónimos podem ser tratados de forma diferente).
+Neste momento, esta é a única forma que encontrámos de travar pagamentos de terceiros e golpes de triangulação sem comprometer aquilo com que realmente nos importamos: sem registo, sem vigilância, sem entregar a tua identidade a ninguém. Declaras a conta a partir da qual pagas, o vendedor verifica se coincide, e é só isso. Funciona na grande maioria dos métodos de pagamento (o dinheiro vivo e alguns métodos anónimos podem ser tratados de forma diferente).
 
 ## Porque uma referência de pagamento não resolve isto
 

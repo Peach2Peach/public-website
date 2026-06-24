@@ -16,7 +16,7 @@ description: |
 
 # Novo na Peach? Aqui está como construir a tua reputação rapidamente
 
-Queridos peaches, vamos falar sobre algo com que todos os novos utilizadores se deparam: acabaste de descarregar a Peach, estás pronto para acumular uns sats, e reparas que alguns vendedores parecem preferir negociar com pessoas que já têm um historial de transações. Faz sentido — se estivesses a vender algo valioso a um desconhecido, também ias querer saber que ele é de confiança.
+Queridos peaches, vamos falar sobre algo com que todos os novos utilizadores se deparam: acabaste de descarregar a Peach, estás pronto para acumular uns sats, e reparas que alguns vendedores parecem preferir negociar com pessoas que já têm um historial de transações. Faz sentido, se estivesses a vender algo valioso a um desconhecido, também ias querer saber que ele é de confiança.
 
 Mas o ponto é este: todos os traders experientes da Peach foram, em tempos, uma conta nova com zero transações. Então, como é que passas de conta nova a comprador de confiança? É mais simples do que pensas.
 
@@ -71,7 +71,7 @@ Se quiseres saber mais sobre as funcionalidades da Peach, ou ler alguns dos noss
 [Precisas de uma hardware wallet](https://peachbitcoin.com/pt/blog/you-need-a-hw/)
 [Negociar Bitcoin em meetups com a Peach](https://peachbitcoin.com/pt/blog/peach-for-meetups/)
 
-Se quiseres saber mais sobre nós, consulta as nossas redes sociais, ou simplesmente [contacta-nos](mailto:hello@peachbitcoin.com) (usa a nossa [chave PGP](https://keys.openpgp.org/search?q=hello%40peachbitcoin.com) se possível) — teremos todo o gosto em ouvir-te!
+Se quiseres saber mais sobre nós, consulta as nossas redes sociais, ou simplesmente [contacta-nos](mailto:hello@peachbitcoin.com) (usa a nossa [chave PGP](https://keys.openpgp.org/search?q=hello%40peachbitcoin.com) se possível), teremos todo o gosto em ouvir-te!
 
 [Telegram](https://t.me/+MUnwSgwj-d04NTk0), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 

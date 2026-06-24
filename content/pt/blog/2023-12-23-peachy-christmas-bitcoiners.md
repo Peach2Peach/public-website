@@ -81,7 +81,7 @@ O produto está suave, mais de 15'000 negociações completadas/117 BTC negociad
 
 ## Espalhe a palavra de Peach para Peach!
 
-Continue compartilhando seu amor, seu feedback e seu [código de REFERÊNCIA](https://peachbitcoin.com/new-users/) para trazer mais usuários para o aplicativo Peach Bitcoin de uma parada só. Quanto mais usuários, mais negociações de Bitcoin peer2peer sem KYC!
+Continue compartilhando seu amor, seu feedback e seu [código de REFERÊNCIA](https://peachbitcoin.com/new-users/) para trazer mais usuários para o aplicativo Peach Bitcoin de uma parada só. Quanto mais usuários, mais negociações de Bitcoin peer2peer sem registo!
 
 Se você quiser um [link de AFILIADO personalizado](https://peachbitcoin.com/for-businesses/), [entre em contato conosco!](mailto:hello@peachbitcoin.com?subject=I'd%20like%20to%20become%20an%20affiliate!&body=Hi,%0AHere%20is%20my%20PeachID:%20)
 

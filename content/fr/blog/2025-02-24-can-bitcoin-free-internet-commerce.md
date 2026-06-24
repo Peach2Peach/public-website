@@ -82,9 +82,9 @@ Les applications Bitcoin peuvent être conçues pour protéger à la fois les co
 
 Avec le Bitcoin, les places de marché internet peuvent et vont prospérer dans les 30 prochaines années sans la lourdeur des devises fiduciaires, accueillant de nouveaux clients en provenance de pays jusqu’alors exclus.
 
-Imaginez lancer un nouveau marché en 30 minutes, immédiatement ouvert aux paiements globaux sans KYC et disposant de services d’escrow collaboratifs — c’est déjà possible avec le Bitcoin aujourd’hui.
+Imaginez lancer un nouveau marché en 30 minutes, immédiatement ouvert aux paiements globaux sans inscription et disposant de services d’escrow collaboratifs, c’est déjà possible avec le Bitcoin aujourd’hui.
 
-Chez Peach, nous comprenons que le Bitcoin a été conçu pour que les gens échangent directement sans KYC, de façon sécurisée et privée.
+Chez Peach, nous comprenons que le Bitcoin a été conçu pour que les gens échangent directement sans inscription, de façon sécurisée et privée.
 
 Nous parlons de trading P2P, qui fonctionne avec des devises fiduciaires comme le franc suisse ou l’euro, sans aucune exigence d’identification.
 
@@ -102,7 +102,7 @@ Le potentiel des places de marché natives du Bitcoin semble illimité, prometta
 
 ## Le Bitcoin a encore un long chemin à parcourir
 
-Comme Airbnb a rendu possible l’impensable — séjourner chez un inconnu —, les places de marché Bitcoin permettent désormais d’échanger ou de prêter de l’argent à des inconnus en ligne, sans connaître leur identité.
+Comme Airbnb a rendu possible l’impensable, séjourner chez un inconnu, les places de marché Bitcoin permettent désormais d’échanger ou de prêter de l’argent à des inconnus en ligne, sans connaître leur identité.
 
 Ce n’est probablement que le début de ce qui est possible avec les services financiers Bitcoin. Nous pourrions probablement aller beaucoup plus loin.
 
@@ -112,7 +112,7 @@ Les entreprises proposant des services liés au Bitcoin doivent souvent se plier
 
 Chez Peach, nous cherchons à concilier exigences réglementaires, expérience utilisateur et sécurité client.
 
-C’est pourquoi Peach se concentre sur l’offre de la meilleure place de marché sans KYC pour acheter et vendre du Bitcoin sans exigence d’identification.
+C’est pourquoi Peach se concentre sur l’offre de la meilleure place de marché sans inscription pour acheter et vendre du Bitcoin sans exigence d’identification.
 
 Nous pensons que de nouvelles places de marché montreront que des plateformes comme Amazon, eBay ou Airbnb, bien qu’elles aient leurs avantages et leurs inconvénients, seront en fin de compte dépassées par celles qui utiliseront le Bitcoin, un réseau monétaire neutre, avec une compensation disponible 24/7.
 

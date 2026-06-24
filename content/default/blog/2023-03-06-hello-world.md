@@ -115,7 +115,7 @@ And for you!
 > I started my life with a single absolute: that the world was mine to
 > shape in the image of my highest values and never to be given up
 > to a lesser standard, no matter how long or hard the struggle.
-> <cite>— Ayn Rand, Atlas Shrugged</cite>
+> <cite>, Ayn Rand, Atlas Shrugged</cite>
 
 Peach is not just a product, but also my individualistic journey to
 reach the best version of myself. Some people will join Peach

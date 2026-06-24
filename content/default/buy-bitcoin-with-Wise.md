@@ -1,8 +1,8 @@
 # How to Buy Bitcoin on Peach Bitcoin Peer-to-Peer marketplace
 
-## Buy Bitcoin KYC-free with Wise
+## Buy Bitcoin registration-free with Wise
 
-In this article, you will be guided on how to buy Bitcoin (sats) with Wise without the need for KYC (Know Your Customer) verification using PeachBitcoin. If you are not yet familiar with how Peach Bitcoin operates, please refer to our [Quick Start Guide](https://peachbitcoin.com/quick-start).
+In this article, you will be guided on how to buy Bitcoin (sats) with Wise without the need for registration verification using PeachBitcoin. If you are not yet familiar with how Peach Bitcoin operates, please refer to our [Quick Start Guide](https://peachbitcoin.com/quick-start).
 
 After installing the app via the [App Store]($iosUrl$), [Play Store]($androidUrl$), or [APK download](/apk/), you are ready to begin.
 

@@ -36,7 +36,7 @@ previewImage: /img/blog/you-need-a-hardware-wallet/you-need-hw-preview.png
 <br><br>
 
 
-¿Has estado usando Peach, acumulando sats como un fanático religioso? Si te acercas siquiera remotamente al 10 % del límite anual de 100 000 dólares sin KYC que ofrece Peach, hay algo que debes usar: el almacenamiento en frío. Las carteras calientes no son lo suficientemente seguras para tus fondos. Necesitas comprar una hardware wallet, usar una frase de contraseña y tener un plan para almacenar tu frase semilla.
+¿Has estado usando Peach, acumulando sats como un fanático religioso? Si te acercas siquiera remotamente al 10 % del límite anual de 100 000 dólares sin registro que ofrece Peach, hay algo que debes usar: el almacenamiento en frío. Las carteras calientes no son lo suficientemente seguras para tus fondos. Necesitas comprar una hardware wallet, usar una frase de contraseña y tener un plan para almacenar tu frase semilla.
 
 ## Conoce la diferencia entre caliente y frío
 

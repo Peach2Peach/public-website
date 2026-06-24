@@ -98,7 +98,7 @@ Und für dich!
 
 > Ich begann mein Leben mit einem einzigen Absolut: dass die Welt da war, um
 > nach dem Bild meiner höchsten Werte geformt zu werden und niemals einem geringeren Standard überlassen zu werden, egal wie lang oder hart der Kampf ist.
-> <cite>— Ayn Rand, Atlas Shrugged</cite>
+> <cite>, Ayn Rand, Atlas Shrugged</cite>
 
 Peach ist nicht nur ein Produkt, sondern auch meine individualistische Reise,
 die beste Version von mir selbst zu erreichen. Einige Leute werden Peach beitreten,

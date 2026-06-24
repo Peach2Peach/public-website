@@ -33,7 +33,7 @@ Por eso es tan importante que el software relacionado con Bitcoin sea de código
 
 Por supuesto, que sea de código abierto no significa que todo el mundo vaya a leer cuidadosamente el código y hacer ingeniería inversa del mecanismo. Por eso escribo este artículo: para **mostrar cuán segura es Peach** y cuáles son los pasos realizados para lograrlo.
 
-## Paso 1: crear una cuenta sin KYC en Peach
+## Paso 1: crear una cuenta sin registro en Peach
 
 Para dejarlo muy claro: tu Bitcoin Seed es tu cuenta de Peach.
 

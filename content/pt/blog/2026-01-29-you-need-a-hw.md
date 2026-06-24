@@ -36,7 +36,7 @@ previewImage: /img/blog/you-need-a-hardware-wallet/you-need-hw-preview.png
 <br><br>
 
 
-Tem usado o Peach, acumulando sats como um fanático religioso? Se está perto de ter usado 10% do limite anual de US$ 100 mil sem KYC que o Peach oferece, há algo que precisa usar: armazenamento frio. As carteiras quentes não são seguras o suficiente para os seus fundos. Precisa comprar uma hardware wallet, usar uma senha e ter um plano para armazenar a sua frase-semente.
+Tem usado o Peach, acumulando sats como um fanático religioso? Se está perto de ter usado 10% do limite anual de US$ 100 mil sem registo que o Peach oferece, há algo que precisa usar: armazenamento frio. As carteiras quentes não são seguras o suficiente para os seus fundos. Precisa comprar uma hardware wallet, usar uma senha e ter um plano para armazenar a sua frase-semente.
 
 ## Saiba a diferença entre quente e frio
 

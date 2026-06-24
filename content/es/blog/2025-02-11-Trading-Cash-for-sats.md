@@ -26,13 +26,13 @@ Hola organizadores de meetups Bitcoin 👋,
 
 ✅ ¡Gana más! Compartiremos el 100% de las comisiones recaudadas por las operaciones en efectivo que tengan lugar en tu meetup. 💰
 
-✅ ¡Personaliza tu Código de Referido! Elige tu propio código de referido único—simplemente envíanos tu PeachID. 🎟️
+✅ ¡Personaliza tu Código de Referido! Elige tu propio código de referido único, simplemente envíanos tu PeachID. 🎟️
 
 ✅ ¡Únete a nuestro Grupo Exclusivo para Organizadores! Conéctate con otros organizadores de meetups en nuestro grupo privado de Telegram. Te ayudaremos a lanzar campañas y a hacer crecer tu comunidad, una orange pill a la vez. 🍊💊
 
 ✅ ¡Obtén Merchandising de Peach Gratis! ¿Quieres artículos gratis? Envíanos una dirección física y te mandaremos algunas camisetas. La regla: dáselas a los Bitcoiners que completen un hashtag#cash4sats y publiquen una foto anónima en X. 📸 🧡
 
-✅ ¡Kit de Marketing al alcance de tu mano! ¿Necesitas folletos, preguntas frecuentes o imágenes? Lo tenemos todo. Toma lo que necesites de nuestra carpeta comunitaria compartida—¡lista para imprimir y compartir! 🛠️
+✅ ¡Kit de Marketing al alcance de tu mano! ¿Necesitas folletos, preguntas frecuentes o imágenes? Lo tenemos todo. Toma lo que necesites de nuestra carpeta comunitaria compartida, ¡lista para imprimir y compartir! 🛠️
 
 ## ¿Cómo añadir tu meetup a la app de Peach?
 

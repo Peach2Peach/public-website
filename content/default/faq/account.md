@@ -76,7 +76,7 @@ If you fear a transaction will get purged, you can bump it's fees by using RBF o
 To know more about how to accelerate transactions, take a look at our Youtube video to learn how to do a CPFP from Peach: https://www.youtube.com/watch?v=24OtQkL0CxU
 :::
 
-:::details Why can I buy legally without KYC?
+:::details Why can I buy legally without registration?
 
 Peach is a 100% compliant company. We are an affiliated Swiss financial intermediary and our compliance framework allows for KYC-less money exchange transactions under certain thresholds.
 :::

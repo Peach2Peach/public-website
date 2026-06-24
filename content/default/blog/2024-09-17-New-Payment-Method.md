@@ -33,7 +33,7 @@ Hey peachies, we’ve got some **juicy news!** 🍑 Peach now integrates **Strik
 
 Most online wallets aren't built by Bitcoiners and often come cluttered with altcoins. But Peach and Strike? They're **pure Bitcoin.** With Strike, Peach users can enjoy a **fast, secure, and Bitcoin-only** solution with seamless on- and off-ramping into fiat. 💸
 
-Peach users can now deposit **euros or pounds** into their **Strike** account, which can be used to buy **KYC-free Bitcoin** on Peach or sell their KYC-free Bitcoin on Peach and receive **EUR or GBP** directly into their Strike account. T
+Peach users can now deposit **euros or pounds** into their **Strike** account, which can be used to buy **registration-free Bitcoin** on Peach or sell their registration-free Bitcoin on Peach and receive **EUR or GBP** directly into their Strike account. T
 This enables **quick and efficient movement** of funds in and out of the Bitcoin ecosystem, offering a smooth experience for users who want to trade Bitcoin without the hassle of traditional banking or online wallets that are not Bitcoin-only.
 
 **Strike is an incredibly efficient way to fund your Peach trades**, helping you quickly move your money in and out of the Bitcoin ecosystem. 

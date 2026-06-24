@@ -12,7 +12,7 @@ This summary is not intended to replace the privacy policy, but merely to summar
 
 We think privacy is very important, and should be the default state for any app. We also want to make privacy accessible for everyone through an easy-to-use app. In some cases though, collecting data about the use of our app is highly valuable, or hard to avoid. Where we collect your data, we strive to clearly inform you and make it opt-in where possible.
 
-**All your sensitive personal data is stored on your phone**, and when making a match only the relevant data for the trade is sent to your counterparty via an end-to-end encrypted channel. As such, we cannot see your payment information. We do check the hash (the encrypted version) of this data, so that we can enforce the no-KYC trading limit set by Swiss regulation and effectively ban scammers from our platform. But, again, without actually knowing the information itself.
+**All your sensitive personal data is stored on your phone**, and when making a match only the relevant data for the trade is sent to your counterparty via an end-to-end encrypted channel. As such, we cannot see your payment information. We do check the hash (the encrypted version) of this data, so that we can enforce the no-registration trading limit set by Swiss regulation and effectively ban scammers from our platform. But, again, without actually knowing the information itself.
 
 Having data about how our app is used is very valuable for improving it. Sharing this data is always opt-in and is collected via Firebase crashlytics to help fixing bugs. 
 
@@ -22,7 +22,7 @@ For the website we use Google Analytics (yes, we know...) but **The analytics da
 
 This page explains which types of information Peach collects of its users during the use of its products and services, and how this information is used.
 
-When we speak of  "Peach",  "we",  "us"  or  "our",  we mean Peach S.A.R.L and its representatives. Peach Sàrl is a company registered, organized and existing under the laws of Switzerland, under company registration number CHE-158.025.408 whose registered office is at:
+When we speak of  "Peach", "we", "us"  or  "our", we mean Peach S.A.R.L and its representatives. Peach Sàrl is a company registered, organized and existing under the laws of Switzerland, under company registration number CHE-158.025.408 whose registered office is at:
 
 c/o Nohä Fiduciaire SA<br>
 Rue Saint-Honoré 2<br>
@@ -70,7 +70,7 @@ Your email address is collected if you decide to sign up for our newsletter.
 
 ### 3.2 When you contact us
 
-If you contact us directly, we may receive additional information about you such as your name, email , the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
+If you contact us directly, we may receive additional information about you such as your name, email, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
 
 In addition to this, when you open a support ticket from the app, the following info will be attached:
 - Your Peach ID
@@ -140,7 +140,7 @@ The crash reports are collected in Google Firebase. You can find what informatio
 
 ### Verfied High volume sellers
 
-If you choose to remove the KYC-free limits to increase your selling capacity by completing our KYC process, we store the information you provide (such as your identification documents and the recording of your interview) in an encrypted Proton Drive.
+If you choose to remove the registration-free limits to increase your selling capacity by completing our KYC process, we store the information you provide (such as your identification documents and the recording of your interview) in an encrypted Proton Drive.
 
 ## How and why we use and/or share your information
 

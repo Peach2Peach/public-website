@@ -84,7 +84,7 @@ El producto es fluido, más de 15,000 comercios completados/117 BTC comerciados/
 
 ## ¡Difunde la palabra de Peach a Peach!
 
-Continúa compartiendo tu amor, tus comentarios y tu [código de REFERIDO](https://peachbitcoin.com/es/new-users/) para incorporar más usuarios a la aplicación todo-en-uno Peach Bitcoin. ¡Cuanto más usuarios, más comercios de Bitcoin peer2peer sin KYC!
+Continúa compartiendo tu amor, tus comentarios y tu [código de REFERIDO](https://peachbitcoin.com/es/new-users/) para incorporar más usuarios a la aplicación todo-en-uno Peach Bitcoin. ¡Cuanto más usuarios, más comercios de Bitcoin peer2peer sin registro!
 
 Si te gustaría un [enlace de AFILIADO personalizado](https://peachbitcoin.com/es/for-businesses/), [¡contáctanos!](mailto:hello@peachbitcoin.com?subject=I'd%20like%20to%20become%20an%20affiliate!&body=Hi,%0AHere%20is%20my%20PeachID:%20)
 

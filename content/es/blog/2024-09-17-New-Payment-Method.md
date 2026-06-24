@@ -37,7 +37,7 @@ description: >
 
 La mayoría de las billeteras en línea no están hechas por Bitcoiners y, a menudo, vienen cargadas de altcoins. ¿Pero Peach y Strike? Son **solo Bitcoin.** Con Strike, los usuarios de Peach pueden disfrutar de una solución **rápida, segura y solo Bitcoin** con entradas y salidas perfectas hacia fiat. 💸
 
-Los usuarios de Peach ahora pueden depositar **euros o libras** en su cuenta de **Strike**, que puede ser utilizada para comprar **Bitcoin sin KYC** en Peach o vender su Bitcoin sin KYC en Peach y recibir **EUR o GBP** directamente en su cuenta de Strike. Esto permite un **movimiento rápido y eficiente** de fondos dentro y fuera del ecosistema de Bitcoin, ofreciendo una experiencia fluida para los usuarios que desean comerciar con Bitcoin sin las molestias de la banca tradicional o las billeteras en línea que no son solo Bitcoin.
+Los usuarios de Peach ahora pueden depositar **euros o libras** en su cuenta de **Strike**, que puede ser utilizada para comprar **Bitcoin sin registro** en Peach o vender su Bitcoin sin registro en Peach y recibir **EUR o GBP** directamente en su cuenta de Strike. Esto permite un **movimiento rápido y eficiente** de fondos dentro y fuera del ecosistema de Bitcoin, ofreciendo una experiencia fluida para los usuarios que desean comerciar con Bitcoin sin las molestias de la banca tradicional o las billeteras en línea que no son solo Bitcoin.
 
 **Strike es una manera increíblemente eficiente de financiar tus intercambios en Peach**, ayudándote a mover tu dinero rápidamente dentro y fuera del ecosistema de Bitcoin.
 

@@ -15,6 +15,6 @@ In both cases, you buy the gift card online with the seller's email address as t
 You can't buy with physical gift cards.  
 :::
 
-:::details How much  can I buy anonymously?
+:::details How much  can I buy peer-to-peer?
 Anonymous payment methods, gift cards and cash at meetups and USDT, have a lower limit of 1000 CHF per month or the equivalent in another currency.
 :::

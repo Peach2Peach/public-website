@@ -1,5 +1,5 @@
 ---
-title: Inicio rápido de la web app de Peach — Opera con bitcoin desde tu escritorio
+title: Inicio rápido de la web app de Peach, Opera con bitcoin desde tu escritorio
 description: Configura la web app de Peach en minutos. Instala la app móvil, empareja tu navegador escaneando un código QR y opera con bitcoin peer-to-peer en la pantalla grande.
 ---
 
@@ -9,11 +9,11 @@ description: Configura la web app de Peach en minutos. Instala la app móvil, em
 
 ## Intro: Tu teléfono guarda las llaves, tu escritorio pone la pantalla
 
-La web app de Peach en [web.peachbitcoin.com](https://web.peachbitcoin.com) es una **compañera de la app móvil**, no un reemplazo. Tu cuenta de Peach — y las llaves de tus bitcoin — viven en tu teléfono. La web app se empareja con él, igual que WhatsApp Web: exploras el libro de órdenes, creas ofertas y gestionas intercambios cómodamente desde tu escritorio, mientras que cada acción sensible se firma y confirma en tu teléfono. La autocustodia y el no-KYC siguen exactamente igual.
+La web app de Peach en [web.peachbitcoin.com](https://web.peachbitcoin.com) es una **compañera de la app móvil**, no un reemplazo. Tu cuenta de Peach, y las llaves de tus bitcoin, viven en tu teléfono. La web app se empareja con él, igual que WhatsApp Web: exploras el libro de órdenes, creas ofertas y gestionas intercambios cómodamente desde tu escritorio, mientras que cada acción sensible se firma y confirma en tu teléfono. La autocustodia y el no-registration siguen exactamente igual.
 
 ## Guía 1: Instala la app móvil y crea tu cuenta
 
-Si aún no tienes Peach en tu teléfono, instálala desde el [App Store]($iosUrl$), [Play Store]($androidUrl$), [descarga el APK](/es/apk/) o [Zap Store](https://zapstore.dev/) y crea tu cuenta. Solo lleva unos segundos — consulta la [guía de inicio rápido de la app móvil](/es/quick-start/) para el recorrido completo. ¡No olvides [crear una copia de seguridad](/es/faq/account/)!
+Si aún no tienes Peach en tu teléfono, instálala desde el [App Store]($iosUrl$), [Play Store]($androidUrl$), [descarga el APK](/es/apk/) o [Zap Store](https://zapstore.dev/) y crea tu cuenta. Solo lleva unos segundos, consulta la [guía de inicio rápido de la app móvil](/es/quick-start/) para el recorrido completo. ¡No olvides [crear una copia de seguridad](/es/faq/account/)!
 
 ## Guía 2: Empareja tu navegador
 
@@ -44,7 +44,7 @@ Crea tus propias ofertas de compra o venta con tus preferencias
 Envía y acepta solicitudes de intercambio, chatea con tu contraparte y sigue tus intercambios en curso
 
 ![](/img/faq/web-quickstart/trading/04-confirm-on-phone.webp)
-Cuando una acción necesita tus llaves — como liberar el escrow — la confirmas en tu teléfono. Tus llaves nunca salen de tu teléfono
+Cuando una acción necesita tus llaves, como liberar el escrow, la confirmas en tu teléfono. Tus llaves nunca salen de tu teléfono
 :::
 
 ## Guía 4: Desconecta una sesión

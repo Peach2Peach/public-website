@@ -12,12 +12,12 @@ tags:
   - Newsletter
 previewImage: /img/blog/newsletter/mail-post.png
 description: |
-  Peach arriva nel vostro browser — un'anteprima di Peach Web, un miliardo di
+  Peach arriva nel vostro browser, un'anteprima di Peach Web, un miliardo di
   motivi per tenersi i dati per sé, e grandi cambiamenti al marketplace:
   il cap dei premium è sparito e i venditori possono ora rivolgersi ai nuovi utenti.
 ---
 
-# Newsletter — Marzo 2026
+# Newsletter, Marzo 2026
 
 ![Peach arriva nel vostro browser](/img/blog/newsletter-march-2026/hero.png)
 
@@ -31,7 +31,7 @@ A presto altre novità. Nel frattempo, parliamo dei miliardi di motivi che il mo
 
 ## I vostri dati, affari vostri
 
-All'inizio di questo mese, secondo alcune voci, una società di analisi dati chiamata **Infutor** — il cui intero modello di business è raccogliere informazioni personali — sarebbe stata violata. Il risultato: **676 milioni di record** riversati online. Nomi completi, date di nascita, indirizzi, numeri di telefono, numeri di previdenza sociale. Tutto. Opera principalmente negli Stati Uniti, quindi potreste non essere direttamente coinvolti.
+All'inizio di questo mese, secondo alcune voci, una società di analisi dati chiamata **Infutor**, il cui intero modello di business è raccogliere informazioni personali, sarebbe stata violata. Il risultato: **676 milioni di record** riversati online. Nomi completi, date di nascita, indirizzi, numeri di telefono, numeri di previdenza sociale. Tutto. Opera principalmente negli Stati Uniti, quindi potreste non essere direttamente coinvolti.
 
 Ma non si è fermata lì. In **Francia**, un fornitore di software sanitario di terze parti ha esposto **15,8 milioni di cartelle mediche**. Nomi, indirizzi, numeri di telefono e dati sanitari sensibili di pazienti di oltre 3.800 medici. Poi **Aura.com, un'azienda che letteralmente vende servizi di sicurezza digitale, è stata colpita anch'essa. 921.000 record** trapelati.
 
@@ -47,7 +47,7 @@ Non vogliamo i vostri dati, sul serio. Abbiamo costruito Peach su un principio s
 
 Non vediamo i dettagli dei vostri pagamenti (tranne in caso di disputa). Creare un account significa solo generare una seed e legarvi la vostra reputazione.
 
-**Vendere su Peach è senza KYC e GRATIS.** E potete vendere bitcoin a un prezzo che — se avete la pazienza di rivolgervi a nuovi utenti o a mercati a bassa liquidità e alta domanda (Paraguay, ti sto guardando) — può facilmente raggiungere premium a due cifre.
+**Vendere su Peach è senza registrazione e GRATIS.** E potete vendere bitcoin a un prezzo che, se avete la pazienza di rivolgervi a nuovi utenti o a mercati a bassa liquidità e alta domanda (Paraguay, ti sto guardando), può facilmente raggiungere premium a due cifre.
 
 ## Miglioramenti dell'app
 
@@ -84,13 +84,13 @@ Qui sotto trovate un riepilogo delle statistiche più importanti del mese scorso
 
 | Metrica | Valore |
 | --- | --- |
-| Volume totale | 1.613.091.127 sat — 901.428 CHF |
+| Volume totale | 1.613.091.127 sat, 901.428 CHF |
 | Prezzo medio BTC | CHF 56.053,87 |
 | Offerte di VENDITA / giorno | 114 (3.804 offerte in 34 giorni) |
-| PREMIUM medio | 6,28% — il mercato si è raffreddato (a gennaio vedevamo quasi il 9%). Mediana tra 4,5% e 5,25%. |
+| PREMIUM medio | 6,28%, il mercato si è raffreddato (a gennaio vedevamo quasi il 9%). Mediana tra 4,5% e 5,25%. |
 | Tempo medio per completare un contratto (dalla pubblicazione dell'offerta al pagamento) | 195 minuti |
 | Numero di trade conclusi | 2.808 |
-| Importo medio per trade | 575.077 sat — CHF 321 |
+| Importo medio per trade | 575.077 sat, CHF 321 |
 
 ---
 

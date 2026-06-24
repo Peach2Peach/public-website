@@ -40,7 +40,7 @@ Given the challenges of motherhood and looking back on 2024, I am very proud tha
 
 The year started with a radical and sudden change (well, gradually then suddenly) in the core team. I am a product and visionary type of founder. I am not an engineer and Peach is not a one person project. Partnership, in life and business, is the most delicate engagement. Humans are the flaws. That's why we Bitcoin, by the way :) Code is code! 0 and 1 are 0 and 1, full stop!
 
-If you partner well, your life or business can get exponentially better. If you don't, get ready for heavy turbulences! But thanks God, despite a divorce that could have costed the child's heath (I am talking about Peach here!), the company kept operating. Users don't see what happens behind the scene of a service but it costs a tremendous of energy and faith to keep it running. I am NGL (not gonna lie), I also said fuck it. I give up. But then I connect to Peach dashboard and I see peer-to-peer trades happening every day. I see the volume growing slowly and steadily but surely. I login to our telegram group, and I see amazing supporters. And so I came to a conclusion, as long as I can operate this business, I will. Why? Because some people out there, strangers and anon, are fucking stacking sats KYC-free every day thanks to my app and it's fucking awesome!!! 
+If you partner well, your life or business can get exponentially better. If you don't, get ready for heavy turbulences! But thanks God, despite a divorce that could have costed the child's heath (I am talking about Peach here!), the company kept operating. Users don't see what happens behind the scene of a service but it costs a tremendous of energy and faith to keep it running. I am NGL (not gonna lie), I also said fuck it. I give up. But then I connect to Peach dashboard and I see peer-to-peer trades happening every day. I see the volume growing slowly and steadily but surely. I login to our telegram group, and I see amazing supporters. And so I came to a conclusion, as long as I can operate this business, I will. Why? Because some people out there, strangers and anon, are fucking stacking sats registration-free every day thanks to my app and it's fucking awesome!!! 
 
 Then, mid year passed by. My second engineer in chief, a young bright driven and self taught coder took the reins. He delivered and enhanced a very cool and unique feature GroupHug (payout transactions batching) for everyone which improved Peach profitability and users saving on network fees. 
 
@@ -107,7 +107,7 @@ Get in touch with us at [*hello@peachbitcoin.com*](mailto:hello@peachbitcoin.com
 Integrate your event or shop into our app to facilitate CASH trades at your location.
 
 Earn 100% of our revenue for all the cash trades that happened at your meetup!
-Receive your custom ref code, swags, flyers and all our support to educate people on trading anonymously
+Receive your custom ref code, swags, flyers and all our support to educate people on trading peer-to-peer
 
 send an email **#CASH4SATS**, to receive all the info.
 </div>

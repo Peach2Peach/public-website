@@ -27,16 +27,16 @@ previewImage: /img/blog/under-the-hood/peachmechanic2.png
 </div>
 
 
-Aaaaah Bitcoin — questa meravigliosa forma di denaro che prospera grazie alle sue caratteristiche fondamentali.  
+Aaaaah Bitcoin, questa meravigliosa forma di denaro che prospera grazie alle sue caratteristiche fondamentali. 
 Tutti lo amiamo, ma sappiamo anche che ci sono rischi legati alla sovranità individuale: se condividi i tuoi seed, perdi tutto.  
 Se invii fondi all’indirizzo sbagliato, non li rivedrai mai.
 
-Per questo è così importante il codice open source nell’ecosistema Bitcoin — l’app Peach è disponibile su Github per chiunque voglia controllarla!
+Per questo è così importante il codice open source nell’ecosistema Bitcoin, l’app Peach è disponibile su Github per chiunque voglia controllarla!
 
 Certo, open source non significa che tutti leggeranno il codice con attenzione o capiranno come funziona.  
 Per questo scrivo questo articolo: per **mostrare quanto Peach sia sicuro** e quali passaggi garantiscono questa sicurezza.
 
-## Passo 1: Creare un account No-KYC su Peach
+## Passo 1: Creare un account No-registration su Peach
 
 Per essere chiari: il tuo seed Bitcoin **è il tuo account Peach**.
 
@@ -131,7 +131,7 @@ const { privateKey: pgpPrivateKey, publicKey: pgpPublicKey } =
 
 ```
 
-A questo punto, Peach ha entrambe le tue chiavi pubbliche — Bitcoin e PGP!  
+A questo punto, Peach ha entrambe le tue chiavi pubbliche, Bitcoin e PGP! 
 Questo sarà molto rilevante per il trading su Peach.
 
 ## Passaggi successivi
@@ -213,7 +213,7 @@ const sellOfferId = offerCreateRes.data.id;
 
 ```
 
-Questo valore è importante — conservalo.  
+Questo valore è importante, conservalo. 
 L’offerta è stata creata ma non è ancora pubblica: nessun Acquirente può interagire.  
 Prima il Venditore deve finanziare l’Escrow.
 

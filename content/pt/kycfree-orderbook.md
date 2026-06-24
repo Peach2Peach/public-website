@@ -2,4 +2,4 @@
 template: orderbook
 ---
 
-# Carteira de encomendas KYC-FREE
+# Carteira de encomendas REGISTRATION-FREE

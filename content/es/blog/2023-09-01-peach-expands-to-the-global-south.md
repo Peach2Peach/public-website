@@ -19,7 +19,7 @@ description: |
 
 TL;DR
 
-Peach siempre se ha comprometido con la democratización del acceso a Bitcoin, y con el lanzamiento de Peach 0.3, la aplicación está expandiendo su alcance al Sur Global. Al proporcionar una solución intuitiva y sin KYC para comprar Bitcoin, Peach busca empoderar a individuos en regiones donde los servicios financieros tradicionales podrían ser limitados. Peach se expandirá en olas y ha integrado monedas y métodos de pago de Argentina, Colombia, Costa Rica, Chile, México, Perú, Venezuela en América Latina y Congo, Costa de Marfil y Nigeria en África. Peach desea asociarse con las reuniones y comunidades de Bitcoin locales para expandir el comercio de persona a persona.
+Peach siempre se ha comprometido con la democratización del acceso a Bitcoin, y con el lanzamiento de Peach 0.3, la aplicación está expandiendo su alcance al Sur Global. Al proporcionar una solución intuitiva y sin registro para comprar Bitcoin, Peach busca empoderar a individuos en regiones donde los servicios financieros tradicionales podrían ser limitados. Peach se expandirá en olas y ha integrado monedas y métodos de pago de Argentina, Colombia, Costa Rica, Chile, México, Perú, Venezuela en América Latina y Congo, Costa de Marfil y Nigeria en África. Peach desea asociarse con las reuniones y comunidades de Bitcoin locales para expandir el comercio de persona a persona.
 
 Sí, has leído bien 😉 Peach finalmente está expandiendo sus fronteras a otras partes del mundo.
 

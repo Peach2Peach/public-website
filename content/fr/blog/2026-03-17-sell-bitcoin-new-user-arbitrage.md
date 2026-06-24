@@ -11,7 +11,7 @@ tags:
   - How To
 previewImage: /img/blog/sell-bitcoin-new-user-arbitrage/cover.png
 description: |
-  Vous vendez du Bitcoin sur Peach ? Les nouveaux utilisateurs ont besoin de trades pour construire leur réputation — et c'est une opportunité que la plupart des vendeurs ignorent.
+  Vous vendez du Bitcoin sur Peach ? Les nouveaux utilisateurs ont besoin de trades pour construire leur réputation, et c'est une opportunité que la plupart des vendeurs ignorent.
 ---
 
 # Le trade avec les nouveaux utilisateurs : une opportunité à forte marge que la plupart des vendeurs ignorent
@@ -40,7 +40,7 @@ Voici comment procéder :
 
 - **Gardez la taille du trade entre 20 000 et 100 000 sats.** C'est la clé pour gérer votre risque. Si un litige survient, vous ne bloquez pas un montant significatif de capital le temps de la résolution. Le pire scénario, c'est un petit montant de sats temporairement immobilisé, pas une grosse partie de votre stack coincée dans un litige pendant des jours.
 
-- **Fixez un premium plus élevé pour compenser le risque.** Les nouveaux acheteurs ont statistiquement plus de chances de causer des frictions — confirmations plus lentes, confusion avec le flux d'entiercement, litiges occasionnels. Votre premium devrait refléter cela. La marge que vous gagnez sur ces trades contrebalance les tracas occasionnels.
+- **Fixez un premium plus élevé pour compenser le risque.** Les nouveaux acheteurs ont statistiquement plus de chances de causer des frictions, confirmations plus lentes, confusion avec le flux d'entiercement, litiges occasionnels. Votre premium devrait refléter cela. La marge que vous gagnez sur ces trades contrebalance les tracas occasionnels.
 
 - **Voyez ça comme un arbitrage sur le risque.** La plupart des vendeurs expérimentés évitent les nouveaux comptes. Cela signifie moins de concurrence pour vous dans ce segment du marché. Moins de vendeurs prêts à trader avec les nouveaux = vous pouvez facturer davantage. Simple question d'offre et de demande.
 
@@ -50,7 +50,7 @@ Disons que vous réalisez dix petits trades avec de nouveaux acheteurs à un bon
 
 Et comme vous gardez la taille des trades petite, même le trade litigieux ne bloque pas un capital significatif. Une exposition maximale par trade de 100 000 sats, par exemple, c'est un montant gérable à avoir en entiercement le temps de la médiation d'un litige.
 
-En attendant, les premiums sur ces trades sont nettement supérieurs à ce que vous gagneriez en vendant à des utilisateurs établis à des taux compétitifs. Volume multiplié par marge — c'est là que se trouve le profit.
+En attendant, les premiums sur ces trades sont nettement supérieurs à ce que vous gagneriez en vendant à des utilisateurs établis à des taux compétitifs. Volume multiplié par marge, c'est là que se trouve le profit.
 
 ## Pourquoi c'est aussi bon pour le marché, et pourquoi ça vous concerne
 
@@ -62,7 +62,7 @@ Un nouvel acheteur télécharge l'app, parcourt le marché, ne trouve personne p
 
 **Une base d'utilisateurs qui rétrécit rend Peach moins utile pour tout le monde.** Les marchés P2P vivent ou meurent par les effets de réseau. Plus il y a de traders actifs, plus les spreads sont serrés, plus il y a de méthodes de paiement couvertes, plus la portée géographique est grande. Chaque nouvel utilisateur qui franchit la porte renforce ce réseau. Pour les acheteurs comme pour les vendeurs.
 
-Ce n'est donc pas de la charité. Quand vous vendez aux nouveaux utilisateurs, vous faites grandir le vivier de partenaires de trade fiables pour l'avenir — y compris pour vous-même — et vous êtes payé avec un premium pour le faire.
+Ce n'est donc pas de la charité. Quand vous vendez aux nouveaux utilisateurs, vous faites grandir le vivier de partenaires de trade fiables pour l'avenir, y compris pour vous-même, et vous êtes payé avec un premium pour le faire.
 
 Chaque trader expérimenté sur Peach a un jour été le nouveau compte avec 2,5 peaches. Quelqu'un lui a donné son premier match. En vendant aux nouveaux utilisateurs aujourd'hui, vous faites la même chose.
 

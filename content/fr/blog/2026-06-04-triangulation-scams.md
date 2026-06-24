@@ -56,7 +56,7 @@ Il est FORTEMENT CONSEILLÉ\*, à ce stade, que le vendeur NE confirme PAS le pa
 
 \*il y a eu des cas où la victime se plaint aux autorités et accuse/implique le vendeur (honnête). Vous ne voulez pas de ça.
 
-À l'heure actuelle, c'est le seul moyen que nous ayons trouvé pour stopper les paiements par un tiers et les arnaques par triangulation sans compromettre ce qui nous tient vraiment à cœur : pas de KYC, pas de surveillance, ne livrer son identité à personne. Vous déclarez le compte depuis lequel vous payez, le vendeur vérifie que ça correspond, et c'est tout. Cela fonctionne pour la grande majorité des méthodes de paiement (les espèces et quelques méthodes anonymes peuvent être gérées différemment).
+À l'heure actuelle, c'est le seul moyen que nous ayons trouvé pour stopper les paiements par un tiers et les arnaques par triangulation sans compromettre ce qui nous tient vraiment à cœur : pas d'inscription, pas de surveillance, ne livrer son identité à personne. Vous déclarez le compte depuis lequel vous payez, le vendeur vérifie que ça correspond, et c'est tout. Cela fonctionne pour la grande majorité des méthodes de paiement (les espèces et quelques méthodes anonymes peuvent être gérées différemment).
 
 ## Pourquoi une référence de paiement ne règle pas le problème
 

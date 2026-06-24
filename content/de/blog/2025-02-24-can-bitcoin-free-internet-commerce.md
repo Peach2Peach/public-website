@@ -82,9 +82,9 @@ Bitcoin-Anwendungen können so programmiert werden, dass sie sowohl Verbraucher 
 
 Mit Bitcoin können und werden Internet-Marktplätze in den nächsten 30 Jahren ohne Fiat-bezogene Hürden florieren und damit auch neue Kunden aus bislang ausgeschlossenen Ländern erreichen.
 
-Man stelle sich vor, man startet innerhalb von 30 Minuten einen neuen Marktplatz, der sofort für globale, KYC-freie Zahlungen mit kollaborativen Treuhanddiensten geöffnet ist – dies ist heute schon mit Bitcoin möglich.
+Man stelle sich vor, man startet innerhalb von 30 Minuten einen neuen Marktplatz, der sofort für globale, registrierungsfreie Zahlungen mit kollaborativen Treuhanddiensten geöffnet ist – dies ist heute schon mit Bitcoin möglich.
 
-Bei Peach wissen wir, dass Bitcoin dafür geschaffen wurde, dass Menschen KYC-frei direkt, sicher und privat miteinander handeln können.
+Bei Peach wissen wir, dass Bitcoin dafür geschaffen wurde, dass Menschen registrierungsfrei direkt, sicher und privat miteinander handeln können.
 
 Wir nennen dies P2P-Handel, der mit Fiat-Währungen wie dem Schweizer Franken oder dem Euro funktioniert und keinerlei Identifizierung erfordert.
 
@@ -112,7 +112,7 @@ Unternehmen, die Bitcoin-bezogene Dienste anbieten, müssen sich oft an lokale u
 
 Bei Peach versuchen wir, einen Kompromiss zwischen regulatorischen Anforderungen, Nutzererfahrung und Kundensicherheit zu finden.
 
-Deshalb konzentrieren wir uns darauf, den besten KYC-freien Marktplatz für den Kauf und Verkauf von Bitcoin ohne Identifikationsanforderungen zu schaffen.
+Deshalb konzentrieren wir uns darauf, den besten registrierungsfreien Marktplatz für den Kauf und Verkauf von Bitcoin ohne Identifikationsanforderungen zu schaffen.
 
 Wir sind überzeugt, dass neue Marktplätze zeigen werden, dass Plattformen wie Amazon, eBay und Airbnb zwar Vor- und Nachteile hatten, letztlich aber Bitcoin-nativen Plattformen unterlegen sein werden, die ein neutrales Währungsnetzwerk mit 24/7-Abwicklung nutzen.
 

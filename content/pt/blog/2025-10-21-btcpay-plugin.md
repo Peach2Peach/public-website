@@ -28,12 +28,12 @@ previewImage: /img/blog/btcpay/BTCPay.png
 </div>
 
 No mundo do **comércio com Bitcoin**, comerciantes que usam soluções de pagamento auto-hospedadas, como o **BTCPay Server**, enfrentam um desafio comum: o que fazer com os bitcoins recebidos dos clientes.  
-Embora o Bitcoin seja excelente para transferências internacionais e reserva de valor, as necessidades reais de um negócio — como comprar estoque em moeda fiduciária, pagar despesas diárias ou se proteger da volatilidade — tornam inviável manter todos os satoshis.  
+Embora o Bitcoin seja excelente para transferências internacionais e reserva de valor, as necessidades reais de um negócio, como comprar estoque em moeda fiduciária, pagar despesas diárias ou se proteger da volatilidade, tornam inviável manter todos os satoshis. 
 É aí que entra o **Peach Bitcoin**, com uma solução inovadora: um plugin dedicado para o BTCPay Server que permite aos comerciantes publicar ofertas de venda de todos ou parte de seus bitcoins diretamente da sua hot wallet.
 
 ## O que é o Peach Bitcoin?
 
-**Peach Bitcoin** é uma exchange **peer-to-peer (P2P)** de Bitcoin, criptografada, auto-custodial e sem KYC, desenvolvida para usuários que valorizam a privacidade.  
+**Peach Bitcoin** é uma exchange **peer-to-peer (P2P)** de Bitcoin, criptografada, auto-custodial e sem registo, desenvolvida para usuários que valorizam a privacidade. 
 Diferente das exchanges centralizadas que exigem verificação de identidade e armazenam dados de usuários, a Peach permite negociações diretas entre indivíduos sem intermediários.  
 Todas as transações são criptografadas, e o usuário mantém total controle sobre seus fundos.  
 Com um aplicativo móvel, a Peach conecta compradores e vendedores em todo o mundo, aceitando diversos métodos de pagamento e priorizando a soberania do usuário.
@@ -41,7 +41,7 @@ Com um aplicativo móvel, a Peach conecta compradores e vendedores em todo o mun
 ## O desafio para comerciantes BTCPay
 
 O **BTCPay Server** é um processador de pagamentos Bitcoin de código aberto e auto-hospedado que permite aos comerciantes aceitar pagamentos sem depender de terceiros.  
-Como é totalmente sob seu controle, você mantém suas chaves e dados — em sintonia com a filosofia descentralizada do Bitcoin.  
+Como é totalmente sob seu controle, você mantém suas chaves e dados, em sintonia com a filosofia descentralizada do Bitcoin. 
 Porém, depois de receber pagamentos, muitos comerciantes precisam converter parte ou todo o saldo em moeda fiduciária.  
 Motivos incluem:
 
@@ -54,7 +54,7 @@ Sem uma maneira fácil de vender Bitcoin, os comerciantes ficam expostos à vola
 ## Nossa solução: o plugin Peach Bitcoin para BTCPay Server
 
 Para resolver isso, a equipe do **Peach Bitcoin** colaborou com o desenvolvedor **Nisaba (@nisaba)** para criar um plugin de código aberto para o BTCPay Server.  
-Essa ferramenta se integra diretamente à sua instância do BTCPay e permite publicar ofertas de venda na Peach com apenas alguns cliques — direto da sua hot wallet.
+Essa ferramenta se integra diretamente à sua instância do BTCPay e permite publicar ofertas de venda na Peach com apenas alguns cliques, direto da sua hot wallet.
 
 ### Principais recursos
 - **Ofertas de venda com um clique** – selecione a quantidade de Bitcoin que deseja vender (total ou parcial) e publique instantaneamente.  
@@ -63,7 +63,7 @@ Essa ferramenta se integra diretamente à sua instância do BTCPay e permite pub
 - **Integração perfeita** – utiliza a hot wallet do BTCPay, permitindo vendas automáticas ou manuais.  
 - **Código aberto e transparente** – [disponível no GitHub](https://github.com/Nisaba/btcpayserver-plugins/tree/master/BTCPayServer.Plugins.Peach).
 
-Com esse plugin, o BTCPay se transforma em uma ferramenta completa de gestão de Bitcoin: receba pagamentos, mantenha o que desejar e venda o restante de forma lucrativa — tudo dentro do seu próprio ambiente auto-hospedado.
+Com esse plugin, o BTCPay se transforma em uma ferramenta completa de gestão de Bitcoin: receba pagamentos, mantenha o que desejar e venda o restante de forma lucrativa, tudo dentro do seu próprio ambiente auto-hospedado.
 
 ## Como instalar e usar o plugin
 
@@ -88,4 +88,4 @@ Para mais detalhes, consulte a [documentação do desenvolvedor](https://github.
 À medida que a adoção do Bitcoin cresce, ferramentas como esse plugin preenchem a lacuna entre receber pagamentos em BTC e gerenciar as finanças do dia a dia.  
 **Definindo um prêmio ou desconto em relação à taxa KYC padrão**, você pode transformar as condições de mercado em uma vantagem, protegendo margens e mantendo a privacidade, segurança e descentralização.  
 
-Se você é um comerciante BTCPay que quer otimizar seus ganhos em Bitcoin, experimente o plugin Peach — é mais do que uma ferramenta: é um passo rumo à soberania financeira na economia Bitcoin.
+Se você é um comerciante BTCPay que quer otimizar seus ganhos em Bitcoin, experimente o plugin Peach, é mais do que uma ferramenta: é um passo rumo à soberania financeira na economia Bitcoin.

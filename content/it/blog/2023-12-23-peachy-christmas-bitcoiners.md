@@ -80,7 +80,7 @@ Il prodotto è fluido, più di 15.000 scambi completati/117 BTC scambiati/57.000
 
 ## Diffondi la parola da Pesca a Pesca!
 
-Continua a condividere il tuo amore, il tuo feedback e il tuo [codice di riferimento](https://peschabitcoin.com/new-users/) per far entrare più utenti nell'app Pesca, il tutto-in-uno per Bitcoin. Più utenti, più scambi Bitcoin peer2peer senza KYC!
+Continua a condividere il tuo amore, il tuo feedback e il tuo [codice di riferimento](https://peschabitcoin.com/new-users/) per far entrare più utenti nell'app Pesca, il tutto-in-uno per Bitcoin. Più utenti, più scambi Bitcoin peer2peer senza registrazione!
 
 Se desideri un [link affiliato personalizzato](https://peschabitcoin.com/for-businesses/), [contattaci!](mailto:hello@peschabitcoin.com?subject=Vorrei%20diventare%20un%20affiliato!&body=Ciao,%0AEcco%20il%20mio%20PeachID:%20)
 

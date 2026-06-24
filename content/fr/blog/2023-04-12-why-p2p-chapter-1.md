@@ -50,7 +50,7 @@ Nous avons fondé Peach avec la mission de ramener le Bitcoin à ses origines, e
 Nous croyons qu'il existe une meilleure manière d'utiliser Bitcoin, et nous croyons que les gens peuvent l'utiliser comme un outil de véritable liberté lorsqu'ils disposent des moyens et de l'éducation adéquats.
 
 > Bitcoin : Un Système de Paiement Électronique de Pair à Pair
-> <cite>— Satoshi Nakamoto, livre blanc du Bitcoin</cite>
+> <cite>, Satoshi Nakamoto, livre blanc du Bitcoin</cite>
 
 Chers utilisateurs de Peach, merci d'avoir lu jusqu'ici, ceci était le pilote d'une série complète d'articles de blog où nous plongerons dans les méandres du p2p. Si vous souhaitez recevoir des mises à jour sur les prochains articles, n'hésitez pas à vous abonner à notre [liste de diffusion](https://peachbitcoin.com).
 

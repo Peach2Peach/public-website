@@ -16,7 +16,7 @@ description: |
 
 # Peach Web Is Here
 
-**No install. No app store. No KYC. Just Peach.**
+**No install. No app store. No registration. Just Peach.**
 
 Most Bitcoin exchanges start on desktop and bolt on a mobile app later. We did the opposite. Peach was mobile-first from day one, because buying and selling Bitcoin should be as natural as splitting a dinner bill: post an offer to sell sats at the table, settle the fiat when the check arrives. No desk required.
 

@@ -102,7 +102,7 @@ E para você!
 > Comecei minha vida com um único absoluto: que o mundo era meu para
 > moldar à imagem dos meus valores mais elevados e nunca a ser entregue
 > a um padrão inferior, não importa quão longa ou dura seja a luta.
-> <cite>— Ayn Rand, A Revolta de Atlas</cite>
+> <cite>, Ayn Rand, A Revolta de Atlas</cite>
 
 Peach não é apenas um produto, mas também minha jornada individualista para
 alcançar a melhor versão de mim mesma. Algumas pessoas se juntarão ao Peach

@@ -81,7 +81,7 @@ Le produit est fluide, plus de 15 000 transactions complétées/117 BTC échang�
 
 ## Faites passer le mot Peach-to-Peach !
 
-Continuez à partager votre amour, vos retours et votre [code de PARRAINAGE](https://peachbitcoin.com/new-users/) pour intégrer plus d'utilisateurs dans l'application tout-en-un Peach Bitcoin. Plus il y a d'utilisateurs, plus il y a de transactions Bitcoin peer2peer sans KYC !
+Continuez à partager votre amour, vos retours et votre [code de PARRAINAGE](https://peachbitcoin.com/new-users/) pour intégrer plus d'utilisateurs dans l'application tout-en-un Peach Bitcoin. Plus il y a d'utilisateurs, plus il y a de transactions Bitcoin peer2peer sans inscription !
 
 Si vous souhaitez un [lien AFFILIÉ personnalisé](https://peachbitcoin.com/for-businesses/), [contactez-nous !](mailto:hello@peachbitcoin.com?subject=I'd%20like%20to%20become%20an%20affiliate!&body=Hi,%0AHere%20is%20my%20PeachID:%20)
 

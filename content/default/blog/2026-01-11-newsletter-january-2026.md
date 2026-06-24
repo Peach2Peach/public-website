@@ -11,12 +11,12 @@ tags:
   - Newsletter
 previewImage: /img/blog/newsletter/mail-post.png
 description: |
-  2026 is here. A look at our pipeline for the year ahead — including Peach Web, our
-  progressive web app — a rant on privacy as the leaks pile up, and a fresh market
+  2026 is here. A look at our pipeline for the year ahead, including Peach Web, our
+  progressive web app, a rant on privacy as the leaks pile up, and a fresh market
   update from the Peach marketplace.
 ---
 
-# Newsletter — January 2026
+# Newsletter, January 2026
 
 ![2026 — Peach bitcoin](/img/blog/newsletter-january-2026/hero.png)
 
@@ -49,17 +49,17 @@ Do you think anything should be in our pipeline? Let us know in our Telegram cha
 
 ## We love privacy
 
-The December Challenge is over, the rewards have been distributed and the conclusion is that a *lot* of people are driven to Peach for privacy concerns. And with all the leaks (Ledger, again; the French government leaking tens of millions of people's details, just to name the biggest — with a quick search you'll see a whole lot more of these) hitting the scene, people are becoming increasingly averse to KYCing themselves into the wild. Especially if it involves Bitcoin.
+The December Challenge is over, the rewards have been distributed and the conclusion is that a *lot* of people are driven to Peach for privacy concerns. And with all the leaks (Ledger, again; the French government leaking tens of millions of people's details, just to name the biggest, with a quick search you'll see a whole lot more of these) hitting the scene, people are becoming increasingly averse to KYCing themselves into the wild. Especially if it involves Bitcoin.
 
 **Here at Peach, we love privacy.** We believe it's your fundamental right. We help you stack and offload your sats without compromising your security. We know that your finances are your business, and nobody else's. That's why we've built a platform where you can trade Bitcoin directly, person-to-person, without having to hand over your personal documents to a faceless corporation.
 
 We don't believe in surveillance. We don't believe in tracking your every move. We believe in financial self-sovereignty, and that starts with keeping your data safe and your identity your own. So go ahead, make that trade, and do it with the confidence that your privacy is being respected. Because we love privacy, and we know you do too.
 
-**Selling on Peach is KYC-free and FREE of charge.** No ID, nothing of the sort. We don't see your payment details (unless in case of dispute). Creating an account only involves generating a seed and linking your reputation to it.
+**Selling on Peach is registration-free and FREE of charge.** No ID, nothing of the sort. We don't see your payment details (unless in case of dispute). Creating an account only involves generating a seed and linking your reputation to it.
 
 Plus, you can sell bitcoin at +5% above the market :)
 
-You'll have up to CHF 1k per day, free of KYC. If you'd like to go over that limit and trust us with your data, get in touch with us. Unfortunately, this means KYC.
+You'll have up to CHF 1k per day, registration-free. If you'd like to go over that limit and trust us with your data, get in touch with us. Unfortunately, this means KYC.
 
 To a 2026 dedicated to privacy!
 
@@ -68,8 +68,8 @@ To a 2026 dedicated to privacy!
 A summary of the features and improvements we added:
 
 - We made the offers data clickable on the home page.
-- Added a bunch of new warnings in the app, to prevent our dear users from making mistakes and falling for scammers. See in the trade chat — especially against the new **Revolut chargeback risk** (just check that the other user didn't send via credit card or Apple Pay and you're safe).
-- A bunch of bug fixes — hopefully you see less of those error messages!
+- Added a bunch of new warnings in the app, to prevent our dear users from making mistakes and falling for scammers. See in the trade chat, especially against the new **Revolut chargeback risk** (just check that the other user didn't send via credit card or Apple Pay and you're safe).
+- A bunch of bug fixes, hopefully you see less of those error messages!
 - A click-to-copy mechanism in the chat.
 - PIN gives you a few seconds to switch between apps.
 - On the user profile page, you can see all the offers the user has available.
@@ -88,12 +88,12 @@ Below you'll find a recap of the most important stats from the previous month. L
 
 | Metric | Value |
 | --- | --- |
-| Total amount traded | 1,493,284,605 sats — 1,248,986.34 CHF |
+| Total amount traded | 1,493,284,605 sats, 1,248,986.34 CHF |
 | Avg. SELL offers / day | 98 (5,892 sell offers in 60 days) |
-| Avg. PREMIUM | 6.67% — going down as the number of trades grows |
+| Avg. PREMIUM | 6.67%, going down as the number of trades grows |
 | Median time to complete a sell trade | 32 minutes |
 | Number of finished trades | 4,012 |
-| Average trade amount | 444,539 sats — 334 CHF |
+| Average trade amount | 444,539 sats, 334 CHF |
 
 ---
 

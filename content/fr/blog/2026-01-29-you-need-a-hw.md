@@ -37,7 +37,7 @@ previewImage: /img/blog/you-need-a-hardware-wallet/you-need-hw-preview.png
 <br><br>
 
 
-Vous utilisez Peach et accumulez des sats comme un fanatique religieux ? Si vous avez utilisé ne serait-ce que 10 % de la limite annuelle de 100 000 dollars sans KYC offerte par Peach, vous devez utiliser un stockage à froid. Les portefeuilles chauds ne sont pas suffisamment sécurisés pour vos fonds. Vous devez acheter un hardware wallet, utiliser une phrase secrète et prévoir un moyen de stocker votre phrase de récupération.
+Vous utilisez Peach et accumulez des sats comme un fanatique religieux ? Si vous avez utilisé ne serait-ce que 10 % de la limite annuelle de 100 000 dollars sans inscription offerte par Peach, vous devez utiliser un stockage à froid. Les portefeuilles chauds ne sont pas suffisamment sécurisés pour vos fonds. Vous devez acheter un hardware wallet, utiliser une phrase secrète et prévoir un moyen de stocker votre phrase de récupération.
 
 ## Connaissez la différence entre chaud et froid
 

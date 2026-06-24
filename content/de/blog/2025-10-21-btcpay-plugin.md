@@ -31,7 +31,7 @@ In der Welt des **Bitcoin**-Handels stehen Händler, die selbst gehostete Zahlun
 
 ## Was ist Peach Bitcoin?
 
-Peach Bitcoin ist eine selbstverwahrende, verschlüsselte, KYC-freie Peer-to-Peer (P2P) Bitcoin-Börse, die für datenschutzbewusste Nutzer entwickelt wurde. Im Gegensatz zu zentralisierten Börsen, die Identitätsnachweise verlangen und häufig Benutzerdaten gefährden, ermöglicht Peach direkte Transaktionen zwischen Individuen ohne Zwischenhändler. Alle Transaktionen sind verschlüsselt, und die Nutzer behalten jederzeit die volle Kontrolle über ihre Gelder. Dies macht Peach zur idealen Plattform, um Bitcoin sicher und anonym zu kaufen und zu verkaufen. Mit der mobilen App verbindet Peach Käufer und Verkäufer weltweit und unterstützt verschiedene Zahlungsmethoden, wobei die Souveränität der Nutzer im Mittelpunkt steht.
+Peach Bitcoin ist eine selbstverwahrende, verschlüsselte, registrierungsfreie Peer-to-Peer (P2P) Bitcoin-Börse, die für datenschutzbewusste Nutzer entwickelt wurde. Im Gegensatz zu zentralisierten Börsen, die Identitätsnachweise verlangen und häufig Benutzerdaten gefährden, ermöglicht Peach direkte Transaktionen zwischen Individuen ohne Zwischenhändler. Alle Transaktionen sind verschlüsselt, und die Nutzer behalten jederzeit die volle Kontrolle über ihre Gelder. Dies macht Peach zur idealen Plattform, um Bitcoin sicher und anonym zu kaufen und zu verkaufen. Mit der mobilen App verbindet Peach Käufer und Verkäufer weltweit und unterstützt verschiedene Zahlungsmethoden, wobei die Souveränität der Nutzer im Mittelpunkt steht.
 
 ## Die Herausforderung für BTCPay-Händler
 

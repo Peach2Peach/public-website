@@ -28,12 +28,12 @@ previewImage: /img/blog/btcpay/BTCPay.png
 </div>
 
 Dans le monde du **commerce en Bitcoin**, les commerçants qui utilisent des solutions de paiement auto-hébergées comme **BTCPay Server** sont souvent confrontés à un défi commun : que faire des bitcoins reçus de leurs clients ?  
-Bien que le Bitcoin soit un excellent moyen de transfert international et de conservation de valeur, les besoins pratiques — tels que les achats de stock en monnaie fiduciaire, le paiement des dépenses quotidiennes ou la couverture contre la volatilité — rendent difficile de tout conserver en BTC.  
+Bien que le Bitcoin soit un excellent moyen de transfert international et de conservation de valeur, les besoins pratiques, tels que les achats de stock en monnaie fiduciaire, le paiement des dépenses quotidiennes ou la couverture contre la volatilité, rendent difficile de tout conserver en BTC. 
 C’est là qu’intervient **Peach Bitcoin**, avec une solution innovante : un plugin dédié à BTCPay Server permettant aux commerçants de publier des offres de vente pour tout ou partie de leurs bitcoins directement depuis leur portefeuille chaud.
 
 ## Qu’est-ce que Peach Bitcoin ?
 
-**Peach Bitcoin** est une plateforme d’échange **peer-to-peer (P2P)**, auto-custodiale, chiffrée et sans KYC, conçue pour les utilisateurs soucieux de leur vie privée.  
+**Peach Bitcoin** est une plateforme d’échange **peer-to-peer (P2P)**, auto-custodiale, chiffrée et sans inscription, conçue pour les utilisateurs soucieux de leur vie privée. 
 Contrairement aux plateformes centralisées qui imposent une vérification d’identité et stockent les données des utilisateurs, Peach permet des échanges directs entre particuliers, sans intermédiaires.  
 Toutes les transactions sont chiffrées et les utilisateurs gardent un contrôle total sur leurs fonds.  
 L’application mobile Peach connecte acheteurs et vendeurs à travers le monde, prend en charge différents moyens de paiement et place la souveraineté de l’utilisateur au premier plan.
@@ -41,7 +41,7 @@ L’application mobile Peach connecte acheteurs et vendeurs à travers le monde,
 ## Le défi des commerçants BTCPay
 
 BTCPay Server est un processeur de paiements Bitcoin open-source puissant qui permet aux commerçants d’accepter des paiements sans intermédiaires.  
-Comme il est auto-hébergé, vous contrôlez vos clés et vos données — en accord avec la philosophie décentralisée de Bitcoin.  
+Comme il est auto-hébergé, vous contrôlez vos clés et vos données, en accord avec la philosophie décentralisée de Bitcoin. 
 Cependant, une fois les paiements reçus, de nombreux commerçants ont besoin de convertir une partie de leurs bitcoins en monnaie fiduciaire pour des raisons telles que :
 
 - **Achats de stocks** : de nombreux fournisseurs fonctionnent encore exclusivement en fiat.  
@@ -53,7 +53,7 @@ Sans un moyen simple de revendre leurs bitcoins, les commerçants s’exposent �
 ## Notre solution : le plugin Peach Bitcoin pour BTCPay Server
 
 Pour résoudre ce problème, l’équipe Peach s’est associée au développeur **Nisaba (@nisaba)** afin de créer un plugin open-source pour BTCPay Server.  
-Cet outil s’intègre directement à votre instance BTCPay et vous permet de publier des offres de vente sur Peach en quelques clics — directement depuis votre portefeuille chaud.
+Cet outil s’intègre directement à votre instance BTCPay et vous permet de publier des offres de vente sur Peach en quelques clics, directement depuis votre portefeuille chaud.
 
 ### Fonctionnalités clés
 - **Offres de vente en un clic** : sélectionnez le montant à vendre et publiez immédiatement une offre.  
@@ -62,7 +62,7 @@ Cet outil s’intègre directement à votre instance BTCPay et vous permet de pu
 - **Intégration transparente** : le plugin utilise le portefeuille chaud de BTCPay pour automatiser ou déclencher manuellement les ventes.  
 - **Code ouvert et transparent** : [disponible sur GitHub](https://github.com/Nisaba/btcpayserver-plugins/tree/master/BTCPayServer.Plugins.Peach)
 
-Avec ce plugin, vous transformez votre installation BTCPay en un véritable outil complet de gestion du cycle de vie Bitcoin : accepter, conserver et vendre — tout en restant souverain.
+Avec ce plugin, vous transformez votre installation BTCPay en un véritable outil complet de gestion du cycle de vie Bitcoin : accepter, conserver et vendre, tout en restant souverain.
 
 ## Installation et utilisation
 

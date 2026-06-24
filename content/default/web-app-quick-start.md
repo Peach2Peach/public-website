@@ -1,5 +1,5 @@
 ---
-title: Peach Web App Quick Start — Trade Bitcoin from your Desktop
+title: Peach Web App Quick Start, Trade Bitcoin from your Desktop
 description: Set up the Peach web app in minutes. Install the mobile app, pair your browser by scanning a QR code, and trade bitcoin peer-to-peer on the big screen.
 ---
 
@@ -14,7 +14,7 @@ The Peach web app at [web.peachbitcoin.com](https://web.peachbitcoin.com) is a *
 
 ## 1. Install the mobile app and create your account
 :::quickstarts 2
-If you don't have Peach on your phone yet, install it through the [App Store]($iosUrl$), [Play Store]($androidUrl$), [APK download](/apk/) or [Zap Store](https://zapstore.dev/) and create your account. It only takes a few seconds — see the [mobile Quick Start guide](/quick-start/) for the full walkthrough. Don't forget to [create a backup](/faq/account/#how-should-i-store-my-backup)!
+If you don't have Peach on your phone yet, install it through the [App Store]($iosUrl$), [Play Store]($androidUrl$), [APK download](/apk/) or [Zap Store](https://zapstore.dev/) and create your account. It only takes a few seconds, see the [mobile Quick Start guide](/quick-start/) for the full walkthrough. Don't forget to [create a backup](/faq/account/#how-should-i-store-my-backup)!
 :::
 
 ## 2. Pair your browser

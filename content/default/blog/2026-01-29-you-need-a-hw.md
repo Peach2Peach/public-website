@@ -36,7 +36,7 @@ previewImage: /img/blog/you-need-a-hardware-wallet/you-need-hw-preview.png
 <br><br>
 
 
-You've been using Peach, stacking sats like a religious madman ? If you're remotely close to having used 10% of the $100k yearly no-KYC limit that Peach offers, there's something you need to use: cold storage. Hot wallets are not secure enough for your funds. You need to buy a hardware wallet, use a passphrase, and have a plan to store your seed phrase.
+You've been using Peach, stacking sats like a religious madman ? If you're remotely close to having used 10% of the $100k yearly no-registration limit that Peach offers, there's something you need to use: cold storage. Hot wallets are not secure enough for your funds. You need to buy a hardware wallet, use a passphrase, and have a plan to store your seed phrase.
 
 ## Know the difference between hot and cold
 

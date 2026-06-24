@@ -12,12 +12,12 @@ tags:
   - Newsletter
 previewImage: /img/blog/newsletter/mail-post.png
 description: |
-  Peach chega ao teu browser — uma antevisão do Peach Web, mil milhões de razões
+  Peach chega ao teu browser, uma antevisão do Peach Web, mil milhões de razões
   para guardares os teus dados para ti, e grandes mudanças no marketplace:
   o teto dos premiums desaparece e os vendedores podem focar-se nos novos utilizadores.
 ---
 
-# Newsletter — Março 2026
+# Newsletter, Março 2026
 
 ![Peach chega ao teu browser](/img/blog/newsletter-march-2026/hero.png)
 
@@ -31,7 +31,7 @@ Mais em breve. Entretanto, vamos falar dos mil milhões de razões que o mundo a
 
 ## Os teus dados, o teu assunto
 
-No início deste mês, segundo rumores, uma empresa de análise de dados chamada **Infutor** — cujo modelo de negócio é recolher informações pessoais — terá sido pirateada. O resultado: **676 milhões de registos** despejados online. Nomes completos, datas de nascimento, moradas, números de telefone, números da Segurança Social. Tudo. Opera sobretudo nos Estados Unidos, portanto podes não ser diretamente afetado.
+No início deste mês, segundo rumores, uma empresa de análise de dados chamada **Infutor**, cujo modelo de negócio é recolher informações pessoais, terá sido pirateada. O resultado: **676 milhões de registos** despejados online. Nomes completos, datas de nascimento, moradas, números de telefone, números da Segurança Social. Tudo. Opera sobretudo nos Estados Unidos, portanto podes não ser diretamente afetado.
 
 Mas não ficou por aí. Em **França**, um fornecedor terceirizado de software de saúde expôs **15,8 milhões de ficheiros médicos**. Nomes, moradas, telefones e dados de saúde sensíveis de pacientes de mais de 3.800 médicos. Depois **Aura.com, uma empresa que literalmente vende serviços de segurança digital, também foi atingida. 921.000 registos** fugidos.
 
@@ -47,7 +47,7 @@ Não queremos os teus dados, a sério. Construímos a Peach sobre um princípio 
 
 Não vemos os detalhes dos teus pagamentos (exceto em caso de disputa). Criar uma conta envolve apenas gerar uma seed e ligar a tua reputação a ela.
 
-**Vender na Peach é sem KYC e GRATUITO.** E podes vender bitcoin a um preço que — se tiveres a paciência para te dirigires a novos utilizadores ou a mercados com baixa liquidez e alta procura (Paraguai, estou a olhar para ti) — pode facilmente atingir premiums de dois dígitos.
+**Vender na Peach é sem registo e GRATUITO.** E podes vender bitcoin a um preço que, se tiveres a paciência para te dirigires a novos utilizadores ou a mercados com baixa liquidez e alta procura (Paraguai, estou a olhar para ti), pode facilmente atingir premiums de dois dígitos.
 
 ## Melhorias da app
 
@@ -84,13 +84,13 @@ Abaixo encontras um resumo das estatísticas mais importantes do mês passado. D
 
 | Métrica | Valor |
 | --- | --- |
-| Volume total | 1.613.091.127 sats — 901.428 CHF |
+| Volume total | 1.613.091.127 sats, 901.428 CHF |
 | Preço médio BTC | CHF 56.053,87 |
 | Ofertas de VENDA / dia | 114 (3.804 ofertas em 34 dias) |
-| PREMIUM médio | 6,28% — mercado arrefeceu (em janeiro víamos quase 9%). Mediana entre 4,5% e 5,25%. |
+| PREMIUM médio | 6,28%, mercado arrefeceu (em janeiro víamos quase 9%). Mediana entre 4,5% e 5,25%. |
 | Tempo médio para concluir um contrato (da publicação da oferta ao pagamento) | 195 minutos |
 | Número de trades concluídos | 2.808 |
-| Valor médio por trade | 575.077 sats — CHF 321 |
+| Valor médio por trade | 575.077 sats, CHF 321 |
 
 ---
 

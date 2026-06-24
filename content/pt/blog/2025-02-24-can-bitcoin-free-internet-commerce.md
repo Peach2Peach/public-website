@@ -82,9 +82,9 @@ Aplicações de Bitcoin podem ser programadas para proteger tanto consumidores q
 
 Com o Bitcoin, os marketplaces online podem – e vão – prosperar nos próximos 30 anos sem as amarras das moedas fiduciárias, recebendo novos clientes de países antes excluídos.
 
-Imagine lançar um novo marketplace em 30 minutos, que já está aberto para pagamentos globais sem KYC, com serviços de custódia colaborativa – isso já é possível com o Bitcoin hoje.
+Imagine lançar um novo marketplace em 30 minutos, que já está aberto para pagamentos globais sem registo, com serviços de custódia colaborativa – isso já é possível com o Bitcoin hoje.
 
-Na Peach, entendemos que o Bitcoin foi construído para que as pessoas negociem de forma direta, segura e privada, sem KYC.
+Na Peach, entendemos que o Bitcoin foi construído para que as pessoas negociem de forma direta, segura e privada, sem registo.
 
 Chamamos isso de comércio P2P, que funciona com moedas fiduciárias, como o franco suíço ou o euro, e não exige identificação.
 
@@ -112,7 +112,7 @@ Empresas que oferecem serviços relacionados ao Bitcoin frequentemente precisam 
 
 Na Peach, buscamos equilibrar requisitos regulatórios com a experiência do produto e a segurança do cliente.
 
-É por isso que a Peach se concentra em oferecer o melhor marketplace sem KYC para comprar e vender Bitcoin sem exigências de identificação.
+É por isso que a Peach se concentra em oferecer o melhor marketplace sem registo para comprar e vender Bitcoin sem exigências de identificação.
 
 Acreditamos que novos marketplaces mostrarão que plataformas como Amazon, eBay e Airbnb, embora tenham seus benefícios e desvantagens, serão em última análise superadas por plataformas nativas de Bitcoin que utilizam uma rede monetária neutra com liquidação 24/7.
 

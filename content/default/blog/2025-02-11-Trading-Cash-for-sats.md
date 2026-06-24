@@ -26,13 +26,13 @@ We are glad to add your meetup to the Peach Bitcoin app!
 
 ✅ Earn More! We’ll share 100% of the fees collected for cash trades happening at your meetup! 💰
 
-✅ Customize Your Referral Code! Choose your own unique referral code—just send us your PeachID! 🎟️
+✅ Customize Your Referral Code! Choose your own unique referral code, just send us your PeachID! 🎟️
 
 ✅ Join Our Exclusive Organizers’ Group! Connect with other meetup organizers in our private Telegram group. We’ll help you run campaigns and grow your community, one orange pill at a time! 🍊💊
 
 ✅ Get Free Peach Swag! Want some free merch? Drop us a physical address, and we’ll send you some shirts! The rule? Give them to Bitcoiners who complete a hashtag#cash4sats trade and post an anonymous pic on X! 📸 🧡
 
-✅ Marketing Toolkit at Your Fingertips! Need flyers, FAQs, or visuals? We got you. Grab everything you need from our shared community folder—ready to print & share! 🛠️
+✅ Marketing Toolkit at Your Fingertips! Need flyers, FAQs, or visuals? We got you. Grab everything you need from our shared community folder, ready to print & share! 🛠️
 
 ## How to add your meetup to the Peach app?
 

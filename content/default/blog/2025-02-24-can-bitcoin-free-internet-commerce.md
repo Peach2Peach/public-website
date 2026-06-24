@@ -34,7 +34,7 @@ Looking back to 2013, we might ask ourselves: Was the Silk Road marketplace the 
 
 Over 10 years after Ross Ulbricht launched the Silk Road in 2011, bitcoin has appreciated more than 10,000x to over $2 trillion in value, with record global transaction volumes.
 
-The industry has changed dramatically—individuals, corporations, and nation states are now adopting bitcoin as a superior savings technology.
+The industry has changed dramatically, individuals, corporations, and nation states are now adopting bitcoin as a superior savings technology.
 
 Hashrate is hitting all-time highs while fiat currencies are hitting all-time lows in bitcoin terms.
 
@@ -58,7 +58,7 @@ Back when the Silk Road was active, millions of users across the world used it t
 
 While the marketplace gained notoriety for illegal drug sales, thousands of other legal items were also traded, complete with reviews and ratings. 
 
-Its real innovation was allowing anonymous strangers to conduct online commerce together without knowing each other at all—secured by bitcoin.
+Its real innovation was allowing anonymous strangers to conduct online commerce together without knowing each other at all, secured by bitcoin.
 
 Back then, this was completely new: an entrepreneur could run an open marketplace for the world to trade freely and safely, without borders or discrimination.
 
@@ -82,9 +82,9 @@ Bitcoin applications can be programmed to protect both consumers and producers t
 
 With bitcoin, internet marketplaces can and will thrive in the next 30 years without fiat-related overheads, welcoming new customers from previously excluded countries.
 
-Imagine launching a new marketplace in 30 minutes that is immediately open for global KYC-free payments with collaborative escrow services—this is already possible with bitcoin today.
+Imagine launching a new marketplace in 30 minutes that is immediately open for global registration-free payments with collaborative escrow services, this is already possible with bitcoin today.
 
-At Peach, we understand bitcoin was built for people to trade KYC-free together directly, securely, and privately.
+At Peach, we understand bitcoin was built for people to trade registration-free together directly, securely, and privately.
 
 We refer to this as P2P trading, which works with fiat currencies like the Swiss Franc and the Euro, requiring no identification whatsoever.
 
@@ -112,7 +112,7 @@ Companies offering bitcoin-related services frequently must adhere to local and 
 
 At Peach, we strive to balance regulatory requirements with product experiences and customer safety.
 
-That’s why Peach is focused on offering the best KYC-free marketplace to buy and sell bitcoin with no identification requirements.
+That’s why Peach is focused on offering the best registration-free marketplace to buy and sell bitcoin with no identification requirements.
 
 We believe new marketplaces will show that platforms like Amazon, eBay, and Airbnb all had benefits and drawbacks, but were ultimately inferior to bitcoin-native platforms utilizing a neutral monetary network with 24/7 settlements.
 

@@ -17,14 +17,14 @@ We're revolutionizing the way Bitcoin is traded, one meetup at a time. Join us o
 
 <!--[intro]-->
 
-Are you a Bitcoin enthusiast who love to explore new places, attending meetups while trading **Bitcoin** for cash on the go? Do you value anonymity and security in your transactions, steering clear of public platforms to protect your privacy?
+Are you a Bitcoin enthusiast who love to explore new places, attending meetups while trading **Bitcoin** for cash on the go? Do you value privacy and security in your transactions, steering clear of public platforms to protect your privacy?
 
 Do you jump from meetup to meetup as an excuse to visit the world?
 
 Or simply, you just hesitate on publishing offers in public telegram groups to avoid being doxxed?
 
 We've got the solution for you.
-Peach app includes **anonymous Cash Trades**.
+Peach app includes **peer-to-peer Cash Trades**.
 
 By integrating with Peach, you're not just joining a platform; you're joining a movement that champions privacy and security in every transaction. We are **partnering with meetups all over the world** to facilitate safe & secure places to trade Bitcoin with cash.
 

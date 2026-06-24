@@ -16,5 +16,5 @@ Non puoi comprare con gift card fisiche.
 :::
 
 :::details Quanto posso comprare in modo anonimo?
-I metodi di pagamento anonimi — gift card, contanti agli incontri e USDT — hanno un limite inferiore di 1000 CHF al mese o l'equivalente in un'altra valuta.
+I metodi di pagamento anonimi, gift card, contanti agli incontri e USDT, hanno un limite inferiore di 1000 CHF al mese o l'equivalente in un'altra valuta.
 :::

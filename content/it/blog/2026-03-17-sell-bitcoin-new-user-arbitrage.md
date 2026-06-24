@@ -40,7 +40,7 @@ Ecco come impostare il tutto:
 
 - **Mantenete l'importo dello scambio tra 20.000 e 100.000 sats.** Questo è il punto chiave per gestire il rischio. Se una disputa dovesse verificarsi, non state bloccando un importo significativo di capitale mentre viene risolta. Lo scenario peggiore è una piccola quantità di sats bloccata temporaneamente, non un pezzo del vostro stack fermo in una disputa per giorni.
 
-- **Impostate un premio più alto per compensare il rischio.** I nuovi compratori hanno statisticamente più probabilità di creare attrito — conferme più lente, confusione sul flusso dell'escrow, dispute occasionali. Il vostro premio dovrebbe riflettere questo. Il margine che guadagnate su questi scambi controbilancia il fastidio occasionale.
+- **Impostate un premio più alto per compensare il rischio.** I nuovi compratori hanno statisticamente più probabilità di creare attrito, conferme più lente, confusione sul flusso dell'escrow, dispute occasionali. Il vostro premio dovrebbe riflettere questo. Il margine che guadagnate su questi scambi controbilancia il fastidio occasionale.
 
 - **Pensatelo come un arbitraggio sul rischio.** La maggior parte dei venditori esperti evita i nuovi account. Questo significa meno concorrenza per voi in questo segmento del mercato. Meno venditori disposti a scambiare con nuovi utenti = potete chiedere di più. Domanda e offerta, semplicemente.
 
@@ -62,7 +62,7 @@ Un nuovo compratore scarica l'app, naviga il mercato, non trova nessuno disposto
 
 **Una base utenti che si riduce rende Peach meno utile per tutti.** I marketplace P2P vivono o muoiono sugli effetti di rete. Più trader attivi, più gli spread si restringono, più metodi di pagamento coperti, più copertura geografica. Ogni nuovo utente che riesce a entrare rafforza quella rete. Per compratori e venditori allo stesso modo.
 
-Quindi non è beneficenza. Quando vendete ai nuovi utenti, state facendo crescere il bacino di partner di scambio affidabili per il futuro, incluso il vostro — e venite pagati con un premio per farlo.
+Quindi non è beneficenza. Quando vendete ai nuovi utenti, state facendo crescere il bacino di partner di scambio affidabili per il futuro, incluso il vostro, e venite pagati con un premio per farlo.
 
 Ogni trader esperto di Peach è stato una volta l'account nuovo con 2.5 pesche. Qualcuno gli ha dato il primo match. Vendendo ai nuovi utenti oggi, state facendo lo stesso.
 

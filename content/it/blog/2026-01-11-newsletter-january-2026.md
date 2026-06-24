@@ -11,12 +11,12 @@ tags:
   - Newsletter
 previewImage: /img/blog/newsletter/mail-post.png
 description: |
-  Il 2026 è arrivato. Uno sguardo alla nostra pipeline per l'anno — incluso
-  Peach Web, la nostra progressive web app — un piccolo sfogo sulla privacy
+  Il 2026 è arrivato. Uno sguardo alla nostra pipeline per l'anno, incluso
+  Peach Web, la nostra progressive web app, un piccolo sfogo sulla privacy
   mentre i leak si accumulano, e un aggiornamento fresco sul mercato di Peach.
 ---
 
-# Newsletter — Gennaio 2026
+# Newsletter, Gennaio 2026
 
 ![2026 — Peach bitcoin](/img/blog/newsletter-january-2026/hero.png)
 
@@ -49,17 +49,17 @@ Pensate che ci debba essere qualcos'altro nella nostra pipeline? Fatecelo sapere
 
 ## Amiamo la privacy
 
-La December Challenge è finita, le ricompense sono state distribuite e la conclusione è che *molte* persone vengono su Peach per motivi di privacy. E con tutti i leak (Ledger, di nuovo; il governo francese che ha fatto trapelare i dati di decine di milioni di persone, per citare i più grossi — con una rapida ricerca ne troverete molti altri), la gente è sempre più restia a farsi KYCare allo sbaraglio. Specialmente se si tratta di Bitcoin.
+La December Challenge è finita, le ricompense sono state distribuite e la conclusione è che *molte* persone vengono su Peach per motivi di privacy. E con tutti i leak (Ledger, di nuovo; il governo francese che ha fatto trapelare i dati di decine di milioni di persone, per citare i più grossi, con una rapida ricerca ne troverete molti altri), la gente è sempre più restia a farsi KYCare allo sbaraglio. Specialmente se si tratta di Bitcoin.
 
 **Qui in Peach amiamo la privacy.** Crediamo sia un vostro diritto fondamentale. Vi aiutiamo a stackare e vendere i vostri sat senza compromettere la sicurezza. Sappiamo che le vostre finanze sono affari vostri e di nessun altro. Per questo abbiamo costruito una piattaforma dove potete scambiare Bitcoin direttamente, da persona a persona, senza dover consegnare i vostri documenti personali a una corporazione senza volto.
 
 Non crediamo nella sorveglianza. Non crediamo nel tracciare ogni vostro movimento. Crediamo nella sovranità finanziaria, e questa inizia proteggendo i vostri dati e la vostra identità. Quindi andate avanti, fate quel trade, con la tranquillità di sapere che la vostra privacy è rispettata. Perché amiamo la privacy, e sappiamo che anche voi.
 
-**Vendere su Peach è senza KYC e GRATIS.** Niente ID, niente di tutto ciò. Non vediamo i dettagli dei vostri pagamenti (tranne in caso di disputa). Creare un account significa solo generare una seed e legarvi la vostra reputazione.
+**Vendere su Peach è senza registrazione e GRATIS.** Niente ID, niente di tutto ciò. Non vediamo i dettagli dei vostri pagamenti (tranne in caso di disputa). Creare un account significa solo generare una seed e legarvi la vostra reputazione.
 
 In più, potete vendere bitcoin al +5% sopra il mercato :)
 
-Avete fino a CHF 1k al giorno, senza KYC. Se volete andare oltre quel limite e affidarci i vostri dati, contattateci. Purtroppo, questo implica il KYC.
+Avete fino a CHF 1k al giorno, senza registrazione. Se volete andare oltre quel limite e affidarci i vostri dati, contattateci. Purtroppo, questo implica il KYC.
 
 A un 2026 dedicato alla privacy!
 
@@ -68,8 +68,8 @@ A un 2026 dedicato alla privacy!
 Un riepilogo delle funzionalità e dei miglioramenti che abbiamo aggiunto:
 
 - I dati delle offerte nella home page sono ora cliccabili.
-- Abbiamo aggiunto una serie di nuovi avvisi nell'app, per evitare che i nostri cari utenti commettano errori e cadano negli scam. Vedete nella chat di trade — specialmente contro il nuovo **rischio di chargeback con Revolut** (basta controllare che l'altro utente non abbia inviato tramite carta di credito o Apple Pay e siete al sicuro).
-- Una serie di correzioni di bug — speriamo vediate meno di quei messaggi di errore!
+- Abbiamo aggiunto una serie di nuovi avvisi nell'app, per evitare che i nostri cari utenti commettano errori e cadano negli scam. Vedete nella chat di trade, specialmente contro il nuovo **rischio di chargeback con Revolut** (basta controllare che l'altro utente non abbia inviato tramite carta di credito o Apple Pay e siete al sicuro).
+- Una serie di correzioni di bug, speriamo vediate meno di quei messaggi di errore!
 - Un meccanismo di click-to-copy nella chat.
 - Il PIN vi dà qualche secondo per passare tra le app.
 - Sulla pagina del profilo utente, potete vedere tutte le offerte disponibili dell'utente.
@@ -88,12 +88,12 @@ Qui sotto trovate un riepilogo delle statistiche più importanti del mese scorso
 
 | Metrica | Valore |
 | --- | --- |
-| Volume totale | 1.493.284.605 sat — 1.248.986,34 CHF |
+| Volume totale | 1.493.284.605 sat, 1.248.986,34 CHF |
 | Offerte di VENDITA / giorno | 98 (5.892 offerte in 60 giorni) |
-| PREMIUM medio | 6,67% — in calo man mano che il numero di trade cresce |
+| PREMIUM medio | 6,67%, in calo man mano che il numero di trade cresce |
 | Tempo mediano per completare una vendita | 32 minuti |
 | Numero di trade conclusi | 4.012 |
-| Importo medio per trade | 444.539 sat — 334 CHF |
+| Importo medio per trade | 444.539 sat, 334 CHF |
 
 ---
 

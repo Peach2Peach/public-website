@@ -81,7 +81,7 @@ Das Produkt ist reibungslos, mehr als 15.000 Handel abgeschlossen/117 BTC gehand
 
 ## Verbreitet das Wort von Peach zu Peach!
 
-Teilt weiterhin eure Liebe, euer Feedback und euren [EMPFEHLUNGSCODE](https://peachbitcoin.com/new-users/), um mehr Benutzer in die One-Stop-Shop Peach Bitcoin-App einzuladen. Je mehr Benutzer, desto mehr KYC-freie Peer2Peer-Bitcoin-Handel!
+Teilt weiterhin eure Liebe, euer Feedback und euren [EMPFEHLUNGSCODE](https://peachbitcoin.com/new-users/), um mehr Benutzer in die One-Stop-Shop Peach Bitcoin-App einzuladen. Je mehr Benutzer, desto mehr registrierungsfreie Peer2Peer-Bitcoin-Handel!
 
 Wenn ihr einen [benutzerdefinierten AFFILIATE-Link](https://peachbitcoin.com/for-businesses/) möchtet, [kontaktiert uns!](mailto:hello@peachbitcoin.com?subject=I'd%20like%20to%20become%20an%20affiliate!&body=Hi,%0AHere%20is%20my%20PeachID:%20)
 

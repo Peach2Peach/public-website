@@ -65,9 +65,9 @@ Wenn jemand deinen Empfehlungscode verwendet, schenkt diese Person zunächst sel
 Der Peach-Score ist dein Ruf bei Peach. Es basiert auf der Benutzerbewertung (die Daumen hoch/runter, welcher dir dein Handelspartner nach einem Trade gibt) und auf deine Aktionen wie etwa Streitfälle wie schnell du bezahlst und mehr.
 :::
 
-:::details Warum kann ich ohne KYC legal kaufen?
+:::details Warum kann ich ohne Registrierung legal kaufen?
 
-Peach ist ein zu 100 % konformes Unternehmen. Wir sind ein angemeldeter Schweizer Finanzintermediär und unser Compliance-Rahmen ermöglicht KYC-freie Geldwechseltransaktionen unter bestimmten Schwellenwerten.
+Peach ist ein zu 100 % konformes Unternehmen. Wir sind ein angemeldeter Schweizer Finanzintermediär und unser Compliance-Rahmen ermöglicht registrierungsfreie Geldwechseltransaktionen unter bestimmten Schwellenwerten.
 :::
 
 :::details Warum ist meine Transaktion aus meiner Brieftasche verschwunden?

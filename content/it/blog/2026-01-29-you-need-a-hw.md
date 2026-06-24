@@ -36,7 +36,7 @@ previewImage: /img/blog/you-need-a-hardware-wallet/you-need-hw-preview.png
 <br><br>
 
 
-Hai utilizzato Peach, accumulando sat come un fanatico religioso? Se sei anche solo lontanamente vicino ad aver utilizzato il 10% del limite annuale di 100.000 dollari senza KYC offerto da Peach, c'è qualcosa che devi utilizzare: il cold storage. Gli hot wallet non sono abbastanza sicuri per i tuoi fondi. Devi acquistare un hardware wallet, utilizzare una passphrase e avere un piano per conservare la tua seed phrase.
+Hai utilizzato Peach, accumulando sat come un fanatico religioso? Se sei anche solo lontanamente vicino ad aver utilizzato il 10% del limite annuale di 100.000 dollari senza registrazione offerto da Peach, c'è qualcosa che devi utilizzare: il cold storage. Gli hot wallet non sono abbastanza sicuri per i tuoi fondi. Devi acquistare un hardware wallet, utilizzare una passphrase e avere un piano per conservare la tua seed phrase.
 
 ## Conosci la differenza tra caldo e freddo
 

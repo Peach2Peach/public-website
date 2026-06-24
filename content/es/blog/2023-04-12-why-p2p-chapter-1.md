@@ -49,7 +49,7 @@ Fundamos Peach con la misión de devolver el Bitcoin a sus orígenes, creando un
 Creemos que hay una mejor manera de usar Bitcoin, y creemos que las personas pueden usarlo como una herramienta para la verdadera libertad cuando se les brindan los medios y la educación adecuados.
 
 > Bitcoin: Un Sistema de Efectivo Electrónico Peer-to-Peer
-> <cite>— Satoshi Nakamoto, Documento técnico de Bitcoin</cite>
+> <cite>, Satoshi Nakamoto, Documento técnico de Bitcoin</cite>
 
 Queridos peaches, gracias por leer hasta aquí, este fue el primero de una serie completa de publicaciones de blog donde exploraremos más a fondo el mundo de p2p. Si desea recibir actualizaciones sobre las próximas publicaciones, no dude en suscribirse a nuestra [lista de correo](https://peachbitcoin.com).
 

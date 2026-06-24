@@ -36,7 +36,7 @@ Avec les récents changements et la fermeture d'AgoraDesk, les utilisateurs de p
 
 ### Confidentialité des utilisateurs 
 
-PeachBitcoin privilégie la confidentialité des utilisateurs en éliminant la nécessité de processus de vérification Know Your Customer (KYC) et Anti-Money Laundering (AML). Contrairement à de nombreux échanges centralisés qui nécessitent que les utilisateurs soumettent une identification personnelle, PeachBitcoin permet des échanges anonymes, protégeant ainsi les données des utilisateurs contre les violations et les abus potentiels. Cette approche garantit non seulement la confidentialité, mais s'aligne...
+PeachBitcoin privilégie la confidentialité des utilisateurs en éliminant la nécessité de processus de vérification Know Your Customer (KYC) et Anti-Money Laundering (AML). Contrairement à de nombreux échanges centralisés qui nécessitent que les utilisateurs soumettent une identification personnelle, PeachBitcoin permet des échanges en pair-à-pair, protégeant ainsi les données des utilisateurs contre les violations et les abus potentiels. Cette approche garantit non seulement la confidentialité, mais s'aligne...
 
 ### GroupHug pour des retraits économiques
 
@@ -54,7 +54,7 @@ Peach facilite le trading mondial, permettant aux utilisateurs d'acheter et de v
 
 La transition d'AgoraDesk à PeachBitcoin peut être fluide pour les utilisateurs pour plusieurs raisons convaincantes:
 
-Confidentialité et anonymat: En supprimant les exigences KYC/AML, PeachBitcoin garantit que les utilisateurs peuvent maintenir leur anonymat tout en tradant, ce qui est une caractéristique cruciale pour beaucoup dans la communauté des cryptomonnaies qui valorisent la confidentialité.
+Confidentialité : En supprimant les exigences KYC/AML, PeachBitcoin aide les utilisateurs à préserver leur confidentialité tout en tradant, ce qui est une caractéristique cruciale pour beaucoup dans la communauté des cryptomonnaies qui valorisent la confidentialité.
 
 Aucuns frais pour les vendeurs: Les faibles frais de plateforme pour les vendeurs font de PeachBitcoin une option attrayante pour ceux qui cherchent à maximiser leurs rendements.
 

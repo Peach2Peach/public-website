@@ -48,7 +48,7 @@ Fundamos a Peach com a missão de trazer o Bitcoin de volta às suas origens, cr
 Acreditamos que há uma maneira melhor de usar o Bitcoin, e acreditamos que as pessoas podem usá-lo como uma ferramenta para liberdade real, quando lhes são dadas os meios e a educação adequados.
 
 > Bitcoin: Um Sistema de Dinheiro Eletrônico Peer-to-Peer
-> <cite>— Satoshi Nakamoto, whitepaper do Bitcoin</cite>
+> <cite>, Satoshi Nakamoto, whitepaper do Bitcoin</cite>
 
 Queridos pêssegos, obrigado por lerem até aqui, este foi o primeiro de uma série completa de posts no blog onde vamos mergulhar no buraco do coelho do p2p. Se você deseja receber atualizações sobre os próximos posts, sinta-se à vontade para se inscrever em nossa [lista de e-mails](https://peachbitcoin.com).
 

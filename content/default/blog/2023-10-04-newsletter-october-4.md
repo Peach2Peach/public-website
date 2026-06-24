@@ -56,7 +56,7 @@ We want to openly thank you all for this, and also ask again to all Bitcoiners a
 
 Peach Bitcoin's mission is to offer the best security and privacy by default to all users starting (and advancing) their journey in Bitcoin. However, our outreach is limited, and we need people all around the world to help us bring the best Bitcoin practices to their communities.
 
-If you'd like to bring Peach to your country or community, and we're not there yet, LET US KNOW! We will work together to make sure we add the needed Payment Methods for the people around you to be able to buy and sell Bitcoin P2P, KYC-free, with the easiest app out there!
+If you'd like to bring Peach to your country or community, and we're not there yet, LET US KNOW! We will work together to make sure we add the needed Payment Methods for the people around you to be able to buy and sell Bitcoin P2P, registration-free, with the easiest app out there!
 
 [I want to bring Peach to my area!](http://mailto:hello@peachbitcoin.com/)
 

@@ -39,7 +39,7 @@ Compte tenu des défis de la maternité et en regardant 2024, je suis très fiè
 
 L’année a commencé par un changement radical et soudain (graduellement puis soudainement) au sein de l’équipe principale. Je suis une fondatrice de type “produit et vision”. Je ne suis pas ingénieure et Peach n’est pas un projet individuel. Le partenariat, dans la vie et en affaires, est l’engagement le plus délicat. Les humains sont la faille. C’est pourquoi nous utilisons Bitcoin, d’ailleurs :) Le code est le code ! 0 et 1 sont 0 et 1, point final !
 
-Si on s’associe bien, votre vie ou votre entreprise peut s’améliorer de façon exponentielle. Sinon, préparez-vous à des turbulences ! Mais grâce à Dieu, malgré un “divorce” qui aurait pu nuire à l’enfant (je parle de Peach !), l’entreprise a continué à fonctionner. Les utilisateurs ne voient pas ce qui se passe en coulisses, mais cela coûte énormément d’énergie et de foi pour le maintenir. Je ne vais pas mentir (NGL), j’ai aussi dit “merde, j’arrête tout”. Mais ensuite je me connecte au dashboard de Peach et je vois des trades peer-to-peer se faire chaque jour. Je vois le volume croître lentement mais sûrement. Je me connecte à notre groupe Telegram et je vois des supporters incroyables. Et j’en suis venue à cette conclusion : tant que je peux faire fonctionner cette entreprise, je le ferai. Pourquoi ? Parce que des gens, inconnus et anonymes, empilent des sats sans KYC chaque jour grâce à mon application, et c’est juste génial !!!
+Si on s’associe bien, votre vie ou votre entreprise peut s’améliorer de façon exponentielle. Sinon, préparez-vous à des turbulences ! Mais grâce à Dieu, malgré un “divorce” qui aurait pu nuire à l’enfant (je parle de Peach !), l’entreprise a continué à fonctionner. Les utilisateurs ne voient pas ce qui se passe en coulisses, mais cela coûte énormément d’énergie et de foi pour le maintenir. Je ne vais pas mentir (NGL), j’ai aussi dit “merde, j’arrête tout”. Mais ensuite je me connecte au dashboard de Peach et je vois des trades peer-to-peer se faire chaque jour. Je vois le volume croître lentement mais sûrement. Je me connecte à notre groupe Telegram et je vois des supporters incroyables. Et j’en suis venue à cette conclusion : tant que je peux faire fonctionner cette entreprise, je le ferai. Pourquoi ? Parce que des gens, inconnus et anonymes, empilent des sats sans inscription chaque jour grâce à mon application, et c’est juste génial !!!
 
 Puis, au milieu de l’année, mon deuxième ingénieur en chef, un jeune talentueux, brillant et autodidacte, a pris les rênes. Il a livré et amélioré une fonctionnalité très cool et unique, GroupHug (le batching des transactions de paiement), pour tout le monde, ce qui a amélioré la rentabilité de Peach et a permis aux utilisateurs d’économiser sur les frais de réseau.
 
@@ -105,7 +105,7 @@ Contactez-nous à [*hello@peachbitcoin.com*](mailto:hello@peachbitcoin.com)
 Intégrez votre événement ou boutique dans notre application pour faciliter les trades en ESPÈCES à votre emplacement.
 
 Gagnez 100% de nos revenus pour tous les trades en espèces qui ont lieu lors de votre meetup !
-Recevez votre code de parrainage personnalisé, des goodies, des flyers et tout notre soutien pour éduquer les gens au trading anonyme.
+Recevez votre code de parrainage personnalisé, des goodies, des flyers et tout notre soutien pour éduquer les gens au trading pair-à-pair.
 
 Envoyez-nous un email avec **#CASH4SATS** en objet pour recevoir toutes les informations.
 </div>

@@ -123,7 +123,7 @@ Get in touch with us now!
         Integrate your event or shop into our app to facilitate CASH trades at your location.
         <ul>
           <li>Earn 100% of our revenue for all the cash trades that happened at your meetup!</li>
-          <li>Receive your custom ref code, swags, flyers and all our support to educate people on trading anonymously.</li>
+          <li>Receive your custom ref code, swags, flyers and all our support to educate people on trading peer-to-peer.</li>
         </ul>
         Send an email <strong style="color: #E4572E;">#CASH4SATS</strong> to receive all the info.
       </div>

@@ -11,12 +11,12 @@ tags:
   - Newsletter
 previewImage: /img/blog/newsletter/mail-post.png
 description: |
-  2026 ist da. Ein Blick auf unsere Pipeline für das kommende Jahr — einschließlich
-  Peach Web, unserer progressiven Web-App — ein kleiner Rant zur Privatsphäre,
+  2026 ist da. Ein Blick auf unsere Pipeline für das kommende Jahr, einschließlich
+  Peach Web, unserer progressiven Web-App, ein kleiner Rant zur Privatsphäre,
   während sich die Leaks häufen, und ein frisches Marktupdate vom Peach-Marktplatz.
 ---
 
-# Newsletter — Januar 2026
+# Newsletter, Januar 2026
 
 ![2026 — Peach bitcoin](/img/blog/newsletter-january-2026/hero.png)
 
@@ -32,7 +32,7 @@ Hier ist unsere Pipeline, ein kleiner Rant und ein kurzes Marktupdate.
 
 Was steht für 2026 an?
 
-Wir haben gerade unseren Jahresplan angepasst, um euch **Peach Web** zu bringen. Eine Version von Peach in Form einer Progressive Web App, die im Browser funktioniert — sowohl mobil als auch auf dem Desktop.
+Wir haben gerade unseren Jahresplan angepasst, um euch **Peach Web** zu bringen. Eine Version von Peach in Form einer Progressive Web App, die im Browser funktioniert, sowohl mobil als auch auf dem Desktop.
 
 Und warum?
 
@@ -49,17 +49,17 @@ Denkst du, etwas sollte in unserer Pipeline sein? Lass es uns in unserem Telegra
 
 ## Wir lieben Privatsphäre
 
-Die Dezember-Challenge ist vorbei, die Belohnungen wurden verteilt, und die Schlussfolgerung ist, dass *viele* Leute aus Gründen der Privatsphäre zu Peach kommen. Und mit all den Leaks (Ledger — wieder einmal; die französische Regierung, die Daten von Millionen von Menschen leakt, um nur die größten zu nennen — eine kurze Suche zeigt dir noch viele weitere), werden die Menschen zunehmend abgeneigt, sich KYCen zu lassen. Besonders wenn es um Bitcoin geht.
+Die Dezember-Challenge ist vorbei, die Belohnungen wurden verteilt, und die Schlussfolgerung ist, dass *viele* Leute aus Gründen der Privatsphäre zu Peach kommen. Und mit all den Leaks (Ledger, wieder einmal; die französische Regierung, die Daten von Millionen von Menschen leakt, um nur die größten zu nennen, eine kurze Suche zeigt dir noch viele weitere), werden die Menschen zunehmend abgeneigt, sich KYCen zu lassen. Besonders wenn es um Bitcoin geht.
 
-**Hier bei Peach lieben wir Privatsphäre.** Wir glauben, sie ist dein Grundrecht. Wir helfen dir, deine Sats zu stacken und abzuverkaufen, ohne deine Sicherheit zu gefährden. Wir wissen, dass deine Finanzen deine Sache sind — und niemandes sonst. Deshalb haben wir eine Plattform gebaut, auf der du Bitcoin direkt von Person zu Person handeln kannst, ohne deine persönlichen Dokumente einer gesichtslosen Firma zu übergeben.
+**Hier bei Peach lieben wir Privatsphäre.** Wir glauben, sie ist dein Grundrecht. Wir helfen dir, deine Sats zu stacken und abzuverkaufen, ohne deine Sicherheit zu gefährden. Wir wissen, dass deine Finanzen deine Sache sind, und niemandes sonst. Deshalb haben wir eine Plattform gebaut, auf der du Bitcoin direkt von Person zu Person handeln kannst, ohne deine persönlichen Dokumente einer gesichtslosen Firma zu übergeben.
 
-Wir glauben nicht an Überwachung. Wir glauben nicht daran, jeden deiner Schritte zu verfolgen. Wir glauben an finanzielle Selbstsouveränität, und das beginnt damit, deine Daten und deine Identität zu schützen. Also mach deinen Trade, und tu es mit dem Vertrauen, dass deine Privatsphäre respektiert wird. Denn wir lieben Privatsphäre — und wir wissen, du auch.
+Wir glauben nicht an Überwachung. Wir glauben nicht daran, jeden deiner Schritte zu verfolgen. Wir glauben an finanzielle Selbstsouveränität, und das beginnt damit, deine Daten und deine Identität zu schützen. Also mach deinen Trade, und tu es mit dem Vertrauen, dass deine Privatsphäre respektiert wird. Denn wir lieben Privatsphäre, und wir wissen, du auch.
 
-**Verkaufen auf Peach ist KYC-frei und KOSTENLOS.** Kein Ausweis, nichts dergleichen. Wir sehen deine Zahlungsdetails nicht (außer im Streitfall). Das Erstellen eines Kontos erfordert nur, einen Seed zu generieren und deine Reputation daran zu knüpfen.
+**Verkaufen auf Peach ist registrierungsfrei und KOSTENLOS.** Kein Ausweis, nichts dergleichen. Wir sehen deine Zahlungsdetails nicht (außer im Streitfall). Das Erstellen eines Kontos erfordert nur, einen Seed zu generieren und deine Reputation daran zu knüpfen.
 
 Außerdem kannst du Bitcoin mit +5% über dem Markt verkaufen :)
 
-Du hast bis zu CHF 1k pro Tag, KYC-frei. Wenn du über dieses Limit gehen möchtest und uns deine Daten anvertrauen willst, nimm Kontakt mit uns auf. Leider bedeutet das KYC.
+Du hast bis zu CHF 1k pro Tag, registrierungsfrei. Wenn du über dieses Limit gehen möchtest und uns deine Daten anvertrauen willst, nimm Kontakt mit uns auf. Leider bedeutet das KYC.
 
 Auf ein 2026 im Zeichen der Privatsphäre!
 
@@ -68,8 +68,8 @@ Auf ein 2026 im Zeichen der Privatsphäre!
 Eine Zusammenfassung der Features und Verbesserungen, die wir hinzugefügt haben:
 
 - Die Angebotsdaten auf der Startseite sind jetzt anklickbar.
-- Wir haben eine Reihe neuer Warnungen in der App hinzugefügt, um unsere lieben Nutzer davor zu schützen, Fehler zu machen oder auf Scammer hereinzufallen. Siehe im Trade-Chat — insbesondere gegen das neue **Revolut-Chargeback-Risiko** (prüfe einfach, dass der andere Nutzer nicht per Kreditkarte oder Apple Pay gesendet hat, dann bist du sicher).
-- Eine Reihe von Bugfixes — hoffentlich seht ihr weniger dieser Fehlermeldungen!
+- Wir haben eine Reihe neuer Warnungen in der App hinzugefügt, um unsere lieben Nutzer davor zu schützen, Fehler zu machen oder auf Scammer hereinzufallen. Siehe im Trade-Chat, insbesondere gegen das neue **Revolut-Chargeback-Risiko** (prüfe einfach, dass der andere Nutzer nicht per Kreditkarte oder Apple Pay gesendet hat, dann bist du sicher).
+- Eine Reihe von Bugfixes, hoffentlich seht ihr weniger dieser Fehlermeldungen!
 - Ein Klick-zum-Kopieren-Mechanismus im Chat.
 - Die PIN gibt dir ein paar Sekunden, um zwischen Apps zu wechseln.
 - Auf der Nutzerprofilseite kannst du alle verfügbaren Angebote des Nutzers sehen.
@@ -88,12 +88,12 @@ Unten findest du eine Zusammenfassung der wichtigsten Stats des letzten Monats. 
 
 | Metrik | Wert |
 | --- | --- |
-| Gesamtvolumen | 1.493.284.605 Sats — 1.248.986,34 CHF |
+| Gesamtvolumen | 1.493.284.605 Sats, 1.248.986,34 CHF |
 | Ø Verkaufsangebote / Tag | 98 (5.892 Angebote in 60 Tagen) |
-| Ø Premium | 6,67% — sinkt, während die Zahl der Trades wächst |
+| Ø Premium | 6,67%, sinkt, während die Zahl der Trades wächst |
 | Medianzeit bis zum Abschluss eines Verkaufstrades | 32 Minuten |
 | Anzahl abgeschlossener Trades | 4.012 |
-| Durchschnittlicher Trade-Betrag | 444.539 Sats — 334 CHF |
+| Durchschnittlicher Trade-Betrag | 444.539 Sats, 334 CHF |
 
 ---
 

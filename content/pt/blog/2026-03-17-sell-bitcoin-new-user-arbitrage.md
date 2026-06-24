@@ -40,7 +40,7 @@ Aqui está como configurar:
 
 - **Mantém o montante da transação entre 20.000 e 100.000 sats.** Esta é a chave para gerir o teu risco. Se uma disputa acontecer, não estás a congelar uma quantia significativa de capital enquanto é resolvida. O pior cenário é uma pequena quantidade de sats temporariamente retidos, não uma parte considerável do teu stack parada numa disputa durante dias.
 
-- **Define um prémio mais alto para compensar o risco.** Novos compradores têm estatisticamente mais probabilidade de causar fricção — confirmações mais lentas, confusão com o fluxo de escrow, disputas ocasionais. O teu prémio deve refletir isso. A margem que ganhas nestas transações contrabalança a dor de cabeça ocasional.
+- **Define um prémio mais alto para compensar o risco.** Novos compradores têm estatisticamente mais probabilidade de causar fricção, confirmações mais lentas, confusão com o fluxo de escrow, disputas ocasionais. O teu prémio deve refletir isso. A margem que ganhas nestas transações contrabalança a dor de cabeça ocasional.
 
 - **Pensa nisto como arbitragem de risco.** A maioria dos vendedores experientes evita contas novas. Isso significa menos concorrência para ti neste segmento do mercado. Menos vendedores dispostos a negociar com novos utilizadores = podes cobrar mais. Oferta e procura básica.
 
@@ -50,7 +50,7 @@ Digamos que fazes dez pequenas transações com novos compradores a um prémio s
 
 E como estás a manter o montante das transações pequeno, mesmo a transação disputada não está a reter capital significativo. Uma exposição máxima por transação de 100.000 sats, por exemplo, é um montante gerível para ter bloqueado em escrow enquanto uma disputa é mediada.
 
-Entretanto, os prémios nestas transações são significativamente mais altos do que o que ganhas a vender a utilizadores estabelecidos a taxas competitivas. Volume vezes margem — é aí que está o lucro.
+Entretanto, os prémios nestas transações são significativamente mais altos do que o que ganhas a vender a utilizadores estabelecidos a taxas competitivas. Volume vezes margem, é aí que está o lucro.
 
 ## Porque é que isto também é bom para o mercado e porque te deve importar
 
@@ -62,7 +62,7 @@ Um novo comprador descarrega a app, percorre o mercado, não encontra ninguém d
 
 **Uma base de utilizadores a encolher torna a Peach menos útil para todos.** Os mercados P2P vivem ou morrem por efeitos de rede. Quanto mais traders ativos, mais apertados os spreads, mais métodos de pagamento cobertos, mais alcance geográfico. Cada novo utilizador que entra reforça essa rede. Para compradores e vendedores.
 
-Portanto, isto não é caridade. Quando vendes a novos utilizadores, estás a fazer crescer o conjunto de parceiros de negociação fiáveis para o futuro — incluindo para ti próprio — e a receber um prémio por isso.
+Portanto, isto não é caridade. Quando vendes a novos utilizadores, estás a fazer crescer o conjunto de parceiros de negociação fiáveis para o futuro, incluindo para ti próprio, e a receber um prémio por isso.
 
 Cada trader experiente da Peach foi, em tempos, a conta nova com 2.5 peaches. Alguém lhes deu o primeiro match. Ao vender a novos utilizadores hoje, estás a fazer o mesmo.
 
@@ -91,7 +91,7 @@ Se quiseres saber mais sobre as funcionalidades da Peach, ou ler alguns dos noss
 [Precisas de uma hardware wallet](https://peachbitcoin.com/pt/blog/you-need-a-hw/)
 [Negociar Bitcoin em meetups com a Peach](https://peachbitcoin.com/pt/blog/peach-for-meetups/)
 
-Se quiseres saber mais sobre nós, consulta as nossas redes sociais, ou simplesmente [contacta-nos](mailto:hello@peachbitcoin.com) (usa a nossa [chave PGP](https://keys.openpgp.org/search?q=hello%40peachbitcoin.com) se possível) — teremos todo o gosto em ouvir-te!
+Se quiseres saber mais sobre nós, consulta as nossas redes sociais, ou simplesmente [contacta-nos](mailto:hello@peachbitcoin.com) (usa a nossa [chave PGP](https://keys.openpgp.org/search?q=hello%40peachbitcoin.com) se possível), teremos todo o gosto em ouvir-te!
 
 [Telegram](https://t.me/+MUnwSgwj-d04NTk0), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 

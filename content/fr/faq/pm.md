@@ -16,5 +16,5 @@ Vous ne pouvez pas acheter avec des cartes cadeaux physiques.
 :::
 
 :::details Combien puis-je acheter de manière anonyme ?
-Les méthodes de paiement anonymes — cartes cadeaux, espèces lors de rencontres et USDT — ont une limite inférieure de 1000 CHF par mois ou l'équivalent dans une autre devise.
+Les méthodes de paiement anonymes, cartes cadeaux, espèces lors de rencontres et USDT, ont une limite inférieure de 1000 CHF par mois ou l'équivalent dans une autre devise.
 :::

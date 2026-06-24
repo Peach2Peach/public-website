@@ -16,7 +16,7 @@ These Service Terms were the last updated on **Mar 30th, 2026**
 
 This page sets out the service terms for Peach accountholders. By creating a Peach account, you accept all of these terms and conditions.
 
-When we speak of  "Peach",  "we",  "us"  or  "our",  we mean Peach S.A.R.L and its representatives. Peach Sàrl is a company accredited by [SRO PolyReg](https://www.polyreg.ch/en/) and is registered, organized and existing under the laws of Switzerland, under company registration number CHE-158.025.408, whose registered office is at:
+When we speak of  "Peach", "we", "us"  or  "our", we mean Peach S.A.R.L and its representatives. Peach Sàrl is a company accredited by [SRO PolyReg](https://www.polyreg.ch/en/) and is registered, organized and existing under the laws of Switzerland, under company registration number CHE-158.025.408, whose registered office is at:
 
 c/o Nohä Fiduciaire SA<br>
 Rue Saint-Honoré 2<br>
@@ -100,7 +100,7 @@ The Buyer will provide a Bitcoin address to which they can receive Bitcoin, shou
 
 Payment details entered in Peach are only shared to the Buyer in a contract. This communication is end-to-end encrypted and for the Buyer only.
 
-In accordance with Swiss law, trades without KYC are regulated to a limit of CHF1000/day (or CHF1000/month for anonymous payment methods) and CHF100'000/year. Once this limit has been reached, you will not be able to make any new trades.
+In accordance with Swiss law, trades without registration are regulated to a limit of CHF1000/day (or CHF1000/month for peer-to-peer payment methods) and CHF100'000/year. Once this limit has been reached, you will not be able to make any new trades.
 
 **Peach reserves the right to delete offers at its discretion.** Generally, it will delete offers if they appear to be unlawful, non-genuine, fraudulent, or are otherwise incorrect.
 

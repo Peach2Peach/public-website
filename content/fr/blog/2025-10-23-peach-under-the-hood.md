@@ -26,14 +26,14 @@ previewImage: /img/blog/under-the-hood/peachmechanic2.png
   ></iframe>
 </div>
 
-Aaaaah, le Bitcoin — cette merveilleuse forme de monnaie qui prospère grâce à ses caractéristiques fondamentales. Nous l’aimons tous, mais nous savons aussi qu’il comporte des risques liés à la souveraineté individuelle : partagez vos seeds, et vous perdez tout. Envoyez des fonds à la mauvaise adresse, et vous ne les reverrez jamais.
+Aaaaah, le Bitcoin, cette merveilleuse forme de monnaie qui prospère grâce à ses caractéristiques fondamentales. Nous l’aimons tous, mais nous savons aussi qu’il comporte des risques liés à la souveraineté individuelle : partagez vos seeds, et vous perdez tout. Envoyez des fonds à la mauvaise adresse, et vous ne les reverrez jamais.
 
-C’est pourquoi le code open source dans l’écosystème Bitcoin est si important — et l’application Peach est disponible sur Github pour que tout le monde puisse la consulter !
+C’est pourquoi le code open source dans l’écosystème Bitcoin est si important, et l’application Peach est disponible sur Github pour que tout le monde puisse la consulter !
 
 Bien sûr, open source ne veut pas dire que tout le monde lira le code avec attention ou analysera son fonctionnement en détail.  
 C’est pourquoi j’écris cet article : pour **montrer à quel point Peach est sécurisé** et quelles sont les étapes mises en place pour y parvenir.
 
-## Étape 1 : créer un compte sans KYC sur Peach
+## Étape 1 : créer un compte sans inscription sur Peach
 
 Soyons clairs : votre seed Bitcoin **est** votre compte Peach.
 
@@ -128,7 +128,7 @@ const { privateKey: pgpPrivateKey, publicKey: pgpPublicKey } =
 
 ```
 
-À ce stade, Peach possède vos deux clés publiques — Bitcoin et PGP !  
+À ce stade, Peach possède vos deux clés publiques, Bitcoin et PGP ! 
 Cela sera très important pour le trading sur Peach.
 
 
@@ -199,7 +199,7 @@ const sats_to_sell = 21000;
 
 Comme on peut le voir dans le code, le Vendeur annonce qu’il vend 21 000 sats (0.00021 Bitcoin) avec une prime de 1%.  
 Il souhaite recevoir des euros via son compte Wise.  
-Remarquez qu’il **ne soumet pas** son identifiant Wise — seulement un hash.  
+Remarquez qu’il **ne soumet pas** son identifiant Wise, seulement un hash. 
 Peach ne connaîtra donc jamais les détails de sa méthode de paiement, afin de préserver l’anonymat.  
 Il soumet également une **adresse de retour**, utilisée en cas de remboursement.
 
@@ -212,7 +212,7 @@ const sellOfferId = offerCreateRes.data.id;
 
 ```
 
-Cet identifiant est important — conservez-le précieusement.  
+Cet identifiant est important, conservez-le précieusement. 
 L’offre est créée, mais elle n’est pas encore publique : aucun acheteur ne peut encore interagir avec elle.  
 Le Vendeur doit d’abord alimenter l’Escrow.
 
@@ -256,7 +256,7 @@ Comme montré dans le code, le Vendeur dérive une nouvelle paire de clés à pa
 C’est une approche sûre, car elle est facilement reproductible.  
 
 Une fois la clé publique envoyée, l’API Peach renvoie l’adresse où le Vendeur doit envoyer les 21 000 sats.  
-Mais inutile de faire aveuglément confiance — vous pouvez vérifier vous-même l’adresse.
+Mais inutile de faire aveuglément confiance, vous pouvez vérifier vous-même l’adresse.
 
 Vérifions !
 
@@ -289,7 +289,7 @@ Parce que certains Vendeurs peuvent être inactifs, perdre leurs clés, etc.
 
 Peach a une réputation irréprochable pour la gestion des fonds des Vendeurs.
 
-Une fois le script construit, vous pouvez vérifier l’adresse P2WSH qu’il génère — et constater qu’elle correspond bien à celle retournée par l’API Peach.
+Une fois le script construit, vous pouvez vérifier l’adresse P2WSH qu’il génère, et constater qu’elle correspond bien à celle retournée par l’API Peach.
 
 ```j
   const multisigScript = bitcoin.script.compile([
@@ -362,7 +362,7 @@ L’Acheteur doit soumettre :
 
 * la méthode de paiement souhaitée (parmi celles autorisées par le Vendeur)  
 * la devise souhaitée  
-* une clé symétrique (pour communiquer directement avec le Vendeur) — chiffrée  
+* une clé symétrique (pour communiquer directement avec le Vendeur), chiffrée 
 * la signature de cette clé symétrique  
 * les données de paiement chiffrées avec cette clé  
 * la signature des données de paiement  
@@ -466,7 +466,7 @@ Et pour que le Vendeur sache que la clé vient bien de l’Acheteur, celui-ci do
 
 ### Les données de paiement :
 
-C’est la partie la plus sensible : vos données de paiement — IBAN, identifiant Revolut, etc.  
+C’est la partie la plus sensible : vos données de paiement, IBAN, identifiant Revolut, etc. 
 Elles permettent d’identifier la provenance du paiement fiat.  
 Le Vendeur partagera ensuite les siennes.
 
@@ -635,7 +635,7 @@ Cela lui renverra la liste de tous les contrats où il est impliqué.
 Si un contrat a le statut **“paymentRequired”**, cela signifie que c’est à lui d’effectuer le paiement fiat.
 
 Pour cela, il doit **déchiffrer les données de paiement du Vendeur** à l’aide de la clé symétrique utilisée lors de la demande d’échange.  
-S’il ne l’a pas sauvegardée, pas de souci — il peut la déchiffrer avec sa clé privée PGP.
+S’il ne l’a pas sauvegardée, pas de souci, il peut la déchiffrer avec sa clé privée PGP.
 
 ```j
 

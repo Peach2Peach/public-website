@@ -59,9 +59,9 @@ Tienes que solicitarlo manualmente a través de un ticket o por correo, ya que e
 Cuando alguien use tu código de referido, esa persona empieza con un regalo de 100 puntos de Peach y una compraventa gratuita.
 :::
 
-:::details ¿Por qué puedo comprar sin KYC (CSC; Conozca Su Cliente) en Peach?
+:::details ¿Por qué puedo comprar sin registro (CSC; Conozca Su Cliente) en Peach?
 
-Peach es una empresa que cumple al 100% con las regulaciones. Somos un intermediario financiero suizo afiliado y nuestro marco de cumplimiento permite operaciones de cambio de divisas sin KYC (CSC) por debajo de determinados umbrales.
+Peach es una empresa que cumple al 100% con las regulaciones. Somos un intermediario financiero suizo afiliado y nuestro marco de cumplimiento permite operaciones de cambio de divisas sin registro (CSC) por debajo de determinados umbrales.
 :::
 
 :::details ¿Qué significa la puntuación Peach?

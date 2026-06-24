@@ -12,12 +12,12 @@ tags:
   - Newsletter
 previewImage: /img/blog/newsletter/mail-post.png
 description: |
-  Peach is coming to your browser — a sneak peek at Peach Web, a billion reasons to
+  Peach is coming to your browser, a sneak peek at Peach Web, a billion reasons to
   keep your data to yourself, and big changes to how the marketplace works: the
   premium cap is gone and sellers can now target new users with dedicated offers.
 ---
 
-# Newsletter — March 2026
+# Newsletter, March 2026
 
 ![Peach is coming to your browser](/img/blog/newsletter-march-2026/hero.png)
 
@@ -47,7 +47,7 @@ We don't want your data, seriously. We built Peach on a simple principle: your f
 
 We don't see your payment details (unless in case of dispute). Creating an account only involves generating a seed and linking your reputation to it.
 
-**Selling on Peach is KYC-free and FREE of charge.** And you can sell bitcoin at a price that — if you have the patience to address new users or markets with low liquidity but high demand (Paraguay, I'm looking at you) — can easily go double-digit premium.
+**Selling on Peach is registration-free and FREE of charge.** And you can sell bitcoin at a price that, if you have the patience to address new users or markets with low liquidity but high demand (Paraguay, I'm looking at you), can easily go double-digit premium.
 
 ## App improvements
 
@@ -84,13 +84,13 @@ Below you'll find a recap of the most important stats from the previous month. L
 
 | Metric | Value |
 | --- | --- |
-| Total amount traded | 1,613,091,127 sats — 901,428 CHF |
+| Total amount traded | 1,613,091,127 sats, 901,428 CHF |
 | Average BTC price | CHF 56,053.87 |
 | Avg. SELL offers / day | 114 (3,804 sell offers in 34 days) |
-| Avg. PREMIUM | 6.28% — market cooled down (we saw nearly 9% in January). Median between 4.5% and 5.25%. |
+| Avg. PREMIUM | 6.28%, market cooled down (we saw nearly 9% in January). Median between 4.5% and 5.25%. |
 | Avg. time to complete a contract (from offer published to payment made) | 195 minutes |
 | Number of finished trades | 2,808 |
-| Average trade amount | 575,077 sats — CHF 321 |
+| Average trade amount | 575,077 sats, CHF 321 |
 
 ---
 

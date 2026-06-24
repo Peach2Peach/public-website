@@ -41,7 +41,7 @@ Uma solução proposta é o “mixing”; isso basicamente envolve reunir-se, jo
 
 Acreditamos que prevenir um problema é melhor do que resolvê-lo. Ao negociar P2P, você nunca precisa associar sua identidade às suas moedas, e é assim que deveria ser. Todos deveriam ser capazes de gastar algumas moedas que receberam, sem ter que pensar se o proprietário anterior fez algo ilegal ou algo que o governo “não gosta”.
 
-A fungibilidade no Bitcoin é importante, mas não a alcançaremos a menos que paremos de vincular a identidade dos novos usuários a cada moeda (UTXO) que eles compram. Caso contrário, acabaremos em um cenário de vigilância onde Bitcoin com KYC e Bitcoin sem KYC serão dois mercados completamente diferentes, e devemos garantir que isso não aconteça.
+A fungibilidade no Bitcoin é importante, mas não a alcançaremos a menos que paremos de vincular a identidade dos novos usuários a cada moeda (UTXO) que eles compram. Caso contrário, acabaremos em um cenário de vigilância onde Bitcoin com KYC e Bitcoin sem registo serão dois mercados completamente diferentes, e devemos garantir que isso não aconteça.
 
 Bem, queridos pêssegos, obrigado por lerem até aqui, este foi o segundo de uma série completa de postagens de blog onde vamos mergulhar na toca do coelho do p2p. Se você quiser receber atualizações sobre os próximos posts, sinta-se à vontade para se inscrever em nossa [lista de e-mails](https://peachbitcoin.com).
 

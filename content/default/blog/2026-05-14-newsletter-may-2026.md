@@ -1,8 +1,8 @@
 ---
-title: Newsletter — May 2026 — Peach Web in a sea of KYC
-ogTitle: Peach Web is coming — buy & sell Bitcoin P2P from your browser, no KYC
-ogDescription: Peach Web launches soon — P2P Bitcoin trading from your browser, on desktop and mobile, no KYC. Plus DAC8, the Bisq exploit, and the May 2026 Peach marketplace stats.
-twitterDescription: Peach Web launches soon — P2P Bitcoin from your browser, no KYC. Plus DAC8, the Bisq exploit, and the May 2026 Peach marketplace stats.
+title: Newsletter, May 2026, Peach Web in a sea of KYC
+ogTitle: Peach Web is coming, buy & sell Bitcoin P2P from your browser, no KYC
+ogDescription: Peach Web launches soon, P2P Bitcoin trading from your browser, on desktop and mobile, no KYC. Plus DAC8, the Bisq exploit, and the May 2026 Peach marketplace stats.
+twitterDescription: Peach Web launches soon, P2P Bitcoin from your browser, no KYC. Plus DAC8, the Bisq exploit, and the May 2026 Peach marketplace stats.
 keywords:
   - Peach Web
   - P2P Bitcoin marketplace
@@ -18,13 +18,13 @@ tags:
   - Newsletter
 previewImage: /img/blog/newsletter-may-2026/peach-web-island-of-safety.png
 description: |
-  Peach Web is coming — buy and sell Bitcoin P2P from your browser, on
+  Peach Web is coming, buy and sell Bitcoin P2P from your browser, on
   desktop and mobile, without KYC. Plus a hard look at where Bitcoin
   kidnappings really come from, a word on the Bisq exploit, and the
   latest Peach marketplace stats.
 ---
 
-# Newsletter — May 2026 — Peach Web in a sea of KYC
+# Newsletter, May 2026, Peach Web in a sea of KYC
 
 ![Peach Web — an island of safety in a sea of KYC](/img/blog/newsletter-may-2026/peach-web-island-of-safety.png)
 
@@ -42,7 +42,7 @@ While Europe was busy building surveillance infrastructure, we are building some
 
 **Very soon**, you will be able to use Peach from the comfort of your browser, on desktop and on mobile.
 
-**Peach Web** is a nearly-full browser-based version of the app. **Log in by scanning with the mobile app**, like you would with WhatsApp Web. View the market, establish a strategy, start a trade. Same marketplace. Same 50+ payment methods. Same KYC-free P2P trading.
+**Peach Web** is a nearly-full browser-based version of the app. **Log in by scanning with the mobile app**, like you would with WhatsApp Web. View the market, establish a strategy, start a trade. Same marketplace. Same 50+ payment methods. Same registration-free P2P trading.
 
 The only difference with the mobile app: **your bitcoin keys stay on your phone**. **Mobile actions**, which we internally also call pending tasks, route back to mobile because that is where your keys live, and there is no way for the browser to perform those tasks alone.
 
@@ -70,7 +70,7 @@ Sneak peek bonus:
 
 ![Peach Web — mobile](/img/blog/newsletter-may-2026/sneak-peek.png)
 
-Btw, you can already try the web app in test environment — just reach out to us in the [Telegram group](https://t.me/+aFiiS_vfsERjYmJk) and we'll set you up.
+Btw, you can already try the web app in test environment, just reach out to us in the [Telegram group](https://t.me/+aFiiS_vfsERjYmJk) and we'll set you up.
 
 Watch this space 🍑
 
@@ -96,7 +96,7 @@ And while they are at it: the same institutions pushing mandatory age verificati
 
 **Nothing to hide. Everything to protect.**
 
-**Selling on Peach is _KYC-free_ and FREE of charge. AND you can sell bitcoin at a price higher than what you would get on centralized exchanges.**
+**Selling on Peach is _registration-free_ and FREE of charge. AND you can sell bitcoin at a price higher than what you would get on centralized exchanges.**
 
 [See our orderbook.](/kycfree-orderbook/)
 
@@ -122,8 +122,8 @@ A summary of what's new on Peach.
 
 We are preparing the field for the web, so lots of changes are not visible to the eye.
 
-- ✅ One key thing we have introduced is the ability to **restore your entire account from seed alone**. The file backup is still practical, so we'll leave it there, but the seed will now get you to the same point as the file backup — IF you created the seed after April 26th.
-- ✅ **Premium cap restored at 35%.** We tried to let the market find its limits by itself — no ceiling, no floor — but some silly numbers like 7,988% premium started to pop up. Inattention error at best, scam attempt at worst. So we decided to restore some guardrails, but higher than they were initially, so you can still make high-profit small trades with new users!
+- ✅ One key thing we have introduced is the ability to **restore your entire account from seed alone**. The file backup is still practical, so we'll leave it there, but the seed will now get you to the same point as the file backup, IF you created the seed after April 26th.
+- ✅ **Premium cap restored at 35%.** We tried to let the market find its limits by itself, no ceiling, no floor, but some silly numbers like 7,988% premium started to pop up. Inattention error at best, scam attempt at worst. So we decided to restore some guardrails, but higher than they were initially, so you can still make high-profit small trades with new users!
 
 We wrote about all of this in detail on the blog:
 
@@ -145,15 +145,15 @@ Below you'll find a recap of the most important stats from the previous months. 
 
 | Metric | Value |
 | --- | --- |
-| Total amount traded | 1,861,732,053 sats — CHF 1,117,929.98 |
+| Total amount traded | 1,861,732,053 sats, CHF 1,117,929.98 |
 | Average BTC price | CHF 60,096 (€65,584) |
 | Avg. SELL offers / day | 114 (3,804 sell offers in 34 days) |
-| Avg. PREMIUM in April | 8.85% — very high in early April. Now much cooler at **5.1% in May**. |
+| Avg. PREMIUM in April | 8.85%, very high in early April. Now much cooler at **5.1% in May**. |
 | Median time to complete a contract | 21 minutes (from offer published to payment made) |
 | Number of finished trades | 4,080 |
-| Average trade amount | 455,876 sats — CHF 274 |
+| Average trade amount | 455,876 sats, CHF 274 |
 
-Big win — it's fast to complete a trade with Peach, if the trade goes smooth and you use instant payments.
+Big win, it's fast to complete a trade with Peach, if the trade goes smooth and you use instant payments.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 template: index
-description: Achetez et vendez des bitcoins de pair à pair, sans KYC. Peach est une marketplace mobile non-custodiale pour des transactions Bitcoin privées et anonymes — disponible sur iOS, Android et APK.
+description: Achetez et vendez des bitcoins de pair à pair, sans KYC. Peach est une marketplace mobile non-custodiale pour des transactions Bitcoin privées et anonymes, disponible sur iOS, Android et APK.
 ---
 
 <!--[teaser]-->
@@ -50,7 +50,7 @@ Peach est une application mobile qui **met en relation** directe les acheteurs e
 
 Vendez au **prix de votre choix** car les marchés pair-à-pair sont les vrais marchés.
 
-**Le Bitcoin sans KYC est le Bitcoin le plus sûr.**
+**Le Bitcoin sans inscription est le Bitcoin le plus sûr.**
 
 <!--[mission]-->
 

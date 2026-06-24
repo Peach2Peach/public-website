@@ -15,7 +15,7 @@ Sautez-vous de meetup en meetup comme prétexte pour visiter le monde ?
 Ou tout simplement, hésitez-vous à publier des offres dans des groupes Telegram publics pour éviter d'être doxxé ?
 
 Nous avons la solution pour vous.
-L'application Peach inclut **les échanges de fonds anonymes**.
+L'application Peach inclut **les échanges de fonds en pair-à-pair**.
 
 Nous nous associons à des meetups du monde entier pour faciliter les lieux sécurisés et sûrs pour échanger du Bitcoin contre de l'argent liquide.
 

@@ -16,5 +16,5 @@ Você não pode comprar com cartões-presente físicos.
 :::
 
 :::details Quanto posso comprar de forma anônima?
-Os métodos de pagamento anônimos — cartões-presente, dinheiro em encontros e USDT — têm um limite inferior de 1000 CHF por mês ou o equivalente em outra moeda.
+Os métodos de pagamento anônimos, cartões-presente, dinheiro em encontros e USDT, têm um limite inferior de 1000 CHF por mês ou o equivalente em outra moeda.
 :::

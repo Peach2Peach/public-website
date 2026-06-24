@@ -22,7 +22,7 @@ description: >
 ## O que é o GroupHug?
 ![GroupHug - agrupamento de transações](/img/blog/group-hug/grouphug-tldr.jpg)
 
-> O GroupHug é o sistema de agrupamento caseiro da Peach que combina várias transações de Bitcoin numa única transação blockchain. Em vez de processar cada transação separadamente (o que seria caro), esperamos e agrupamos as transações — como partilhar boleias em vez de todos conduzirem sozinhos.
+> O GroupHug é o sistema de agrupamento caseiro da Peach que combina várias transações de Bitcoin numa única transação blockchain. Em vez de processar cada transação separadamente (o que seria caro), esperamos e agrupamos as transações, como partilhar boleias em vez de todos conduzirem sozinhos.
 
 Aspectos principais:
 - as transações são agrupadas a cada 24 horas, no máximo

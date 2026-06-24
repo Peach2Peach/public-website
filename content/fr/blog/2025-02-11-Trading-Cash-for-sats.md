@@ -26,13 +26,13 @@ Nous sommes ravis d’ajouter votre meetup à l’application Peach Bitcoin !
 
 ✅ Gagnez plus ! Nous partagerons 100 % des frais perçus pour les transactions en espèces effectuées lors de votre meetup ! 💰
 
-✅ Personnalisez votre Code de Parrainage ! Choisissez votre propre code de parrainage unique—envoyez-nous votre PeachID ! 🎟️
+✅ Personnalisez votre Code de Parrainage ! Choisissez votre propre code de parrainage unique, envoyez-nous votre PeachID ! 🎟️
 
 ✅ Rejoignez notre Groupe Exclusif d’Organisateurs ! Connectez-vous avec d’autres organisateurs de meetups dans notre groupe Telegram privé. Nous vous aiderons à lancer des campagnes et à développer votre communauté, une orange pill à la fois ! 🍊💊
 
 ✅ Recevez du Merch Peach Gratuit ! Vous voulez un peu de merchandising gratuit ? Donnez-nous une adresse postale et nous vous enverrons des t-shirts ! La règle ? Offrez-les aux Bitcoiners qui effectuent un hashtag#cash4sats et postent une photo anonyme sur X ! 📸 🧡
 
-✅ Boîte à Outils Marketing à votre disposition ! Besoin de flyers, de FAQ ou de visuels ? Nous avons ce qu’il vous faut. Prenez tout ce dont vous avez besoin dans notre dossier communautaire partagé—prêt à imprimer et à partager ! 🛠️
+✅ Boîte à Outils Marketing à votre disposition ! Besoin de flyers, de FAQ ou de visuels ? Nous avons ce qu’il vous faut. Prenez tout ce dont vous avez besoin dans notre dossier communautaire partagé, prêt à imprimer et à partager ! 🛠️
 
 ## Comment ajouter votre meetup à l’application Peach ?
 

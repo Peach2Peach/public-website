@@ -99,7 +99,7 @@ está entregando la prueba de trabajo requerida para convertirse en la mejor pue
 > Comencé mi vida con un único absoluto: que el mundo estaba para
 > moldearlo a imagen de mis valores más altos y nunca renunciar
 > a un estándar inferior, sin importar cuán largo o difícil sea el esfuerzo.
-> <cite>— Ayn Rand, La Rebelión de Atlas</cite>
+> <cite>, Ayn Rand, La Rebelión de Atlas</cite>
 
 Peach no es solo un producto, sino también mi viaje individualista para
 alcanzar la mejor versión de mí misma. Algunas personas se unirán a Peach

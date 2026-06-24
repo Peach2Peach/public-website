@@ -48,7 +48,7 @@ Si eres vendedor, esto combina muy bien con el toggle **"solo para usuarios nuev
 ## Resumen
 
 - El límite de prima de ±21% se elimina en la v0.69.0
-- Fija el precio que quieras — el mercado decide qué es justo
+- Fija el precio que quieras, el mercado decide qué es justo
 - Los vendedores pueden reflejar adecuadamente en el precio el riesgo de operar con usuarios nuevos
 - Los compradores nuevos obtienen más matches y un camino más rápido para construir reputación
 - El mercado libre va a hacer lo suyo

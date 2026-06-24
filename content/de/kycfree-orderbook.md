@@ -2,5 +2,5 @@
 template: orderbook
 ---
 
-# KYC-FREIES Auftragsbuch
+# REGISTRIERUNGSFREIES Auftragsbuch
 

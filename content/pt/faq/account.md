@@ -74,7 +74,7 @@ Para evitar essa situação, certifique-se de definir suas taxas em uma taxa suf
 Para saber mais sobre como acelerar transações, assista ao nosso vídeo no Youtube para aprender como fazer um CPFP a partir do Peach: https://www.youtube.com/watch?v=24OtQkL0CxU
 :::
 
-:::details Por que posso comprar legalmente sem KYC?
+:::details Por que posso comprar legalmente sem registo?
 
-A Peach é uma empresa 100% em conformidade. Somos um intermediário financeiro suíço afiliado e nosso sistema de conformidade permite transações de câmbio de dinheiro sem KYC em determinados limites.
+A Peach é uma empresa 100% em conformidade. Somos um intermediário financeiro suíço afiliado e nosso sistema de conformidade permite transações de câmbio de dinheiro sem registo em determinados limites.
 :::

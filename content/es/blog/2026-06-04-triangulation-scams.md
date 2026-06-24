@@ -56,7 +56,7 @@ Es MUY RECOMENDABLE\*, en ese punto, que el vendedor NO confirme el pago en Peac
 
 \*ha habido casos en los que la víctima se queja ante las autoridades y acusa/involucra al vendedor (honesto). No querrás eso.
 
-Ahora mismo, esta es la única forma que hemos encontrado de frenar los pagos de terceros y las estafas de triangulación sin comprometer las cosas que de verdad nos importan: sin KYC, sin vigilancia, sin entregar tu identidad a nadie. Declaras la cuenta desde la que pagas, el vendedor comprueba que coincide, y ya está. Esto funciona en la gran mayoría de los métodos de pago (el efectivo y algunos métodos anónimos pueden gestionarse de otra forma).
+Ahora mismo, esta es la única forma que hemos encontrado de frenar los pagos de terceros y las estafas de triangulación sin comprometer las cosas que de verdad nos importan: sin registro, sin vigilancia, sin entregar tu identidad a nadie. Declaras la cuenta desde la que pagas, el vendedor comprueba que coincide, y ya está. Esto funciona en la gran mayoría de los métodos de pago (el efectivo y algunos métodos anónimos pueden gestionarse de otra forma).
 
 ## Por qué un concepto de pago no soluciona esto
 

@@ -10,7 +10,7 @@ tags:
   - Product
 previewImage: /img/blog/premium-cap-removed/cover.png
 description: |
-  Peach rimuove il limite del ±21% sul premio. Venditori e compratori possono ora impostare qualsiasi prezzo vogliano — perché un mercato libero dovrebbe funzionare come tale.
+  Peach rimuove il limite del ±21% sul premio. Venditori e compratori possono ora impostare qualsiasi prezzo vogliano, perché un mercato libero dovrebbe funzionare come tale.
 ---
 
 # Rimozione del limite sul premio
@@ -35,7 +35,7 @@ Rimuovere il limite permette ai venditori di impostare un premio che rende davve
 
 Oltre ai vantaggi pratici, c'è un principio di fondo. Peach è un marketplace peer-to-peer. Il senso è che le persone scambino direttamente tra loro, alle condizioni che concordano. Mettere un limite artificiale sui prezzi era sempre stato un po' in contraddizione con questa filosofia.
 
-Se un venditore vuole offrire un forte sconto per vendere sats velocemente, dovrebbe poterlo fare. Se un compratore è disposto a pagare un premio alto per la comodità di un metodo di pagamento specifico o di uno scambio rapido — è tra lui e il venditore. Non abbiamo bisogno di intrometterci in quella decisione.
+Se un venditore vuole offrire un forte sconto per vendere sats velocemente, dovrebbe poterlo fare. Se un compratore è disposto a pagare un premio alto per la comodità di un metodo di pagamento specifico o di uno scambio rapido, è tra lui e il venditore. Non abbiamo bisogno di intrometterci in quella decisione.
 
 Il mercato stabilirà cosa è ragionevole. Le offerte troppo care non riceveranno match. Quelle sottovalutate verranno prese al volo. È così che dovrebbe funzionare.
 
@@ -48,7 +48,7 @@ Se sei un venditore, questo si abbina bene con il toggle **"solo per nuovi utent
 ## TL;DR
 
 - Il limite del premio di ±21% è rimosso nella v0.69.0
-- Imposta qualsiasi prezzo tu voglia — il mercato decide cosa è giusto
+- Imposta qualsiasi prezzo tu voglia, il mercato decide cosa è giusto
 - I venditori possono prezzare adeguatamente il rischio di scambiare con nuovi utenti
 - I nuovi compratori ottengono più match e un percorso più veloce per costruire la reputazione
 - Il mercato libero farà il suo corso

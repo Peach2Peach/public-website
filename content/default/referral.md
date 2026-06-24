@@ -1,7 +1,7 @@
 ---
 title: Referral
 template: referral
-description: "You've been invited to join Peach Bitcoin. Download the app and start buying and selling Bitcoin peer-to-peer in under a minute — no KYC."
+description: "You've been invited to join Peach Bitcoin. Download the app and start buying and selling Bitcoin peer-to-peer in under a minute, no KYC."
 ---
 
 <!--[teaser]-->

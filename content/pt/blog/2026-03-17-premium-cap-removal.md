@@ -10,7 +10,7 @@ tags:
   - Product
 previewImage: /img/blog/premium-cap-removed/cover.png
 description: |
-  A Peach remove o limite de ±21% no prémio. Vendedores e compradores podem agora definir o preço que quiserem — porque um mercado livre deve funcionar como tal.
+  A Peach remove o limite de ±21% no prémio. Vendedores e compradores podem agora definir o preço que quiserem, porque um mercado livre deve funcionar como tal.
 ---
 
 # Remoção do Limite de Prémio
@@ -35,7 +35,7 @@ Remover o limite permite que os vendedores definam um prémio que realmente torn
 
 Para além dos benefícios práticos, há um princípio aqui. A Peach é um mercado peer-to-peer. O objetivo é que as pessoas negoceiem diretamente umas com as outras, em condições que aceitem mutuamente. Colocar um limite artificial nos preços sempre foi um pouco contraditório com esse espírito.
 
-Se um vendedor quer oferecer um grande desconto para mover sats rapidamente, devia poder fazê-lo. Se um comprador está disposto a pagar um prémio elevado pela conveniência de um método de pagamento específico ou por uma transação rápida — isso é entre ele e o vendedor. Não precisamos de estar no meio dessa decisão.
+Se um vendedor quer oferecer um grande desconto para mover sats rapidamente, devia poder fazê-lo. Se um comprador está disposto a pagar um prémio elevado pela conveniência de um método de pagamento específico ou por uma transação rápida, isso é entre ele e o vendedor. Não precisamos de estar no meio dessa decisão.
 
 O mercado encarrega-se de definir o que é razoável. Ofertas sobrevalorizadas não terão matches. As subvalorizadas serão rapidamente aceites. É assim que deve funcionar.
 
@@ -48,7 +48,7 @@ Se és vendedor, isto combina bem com o botão **"apenas para novos utilizadores
 ## Em resumo
 
 - O limite de prémio de ±21% é removido na v0.69.0
-- Define o preço que quiseres — o mercado decide o que é justo
+- Define o preço que quiseres, o mercado decide o que é justo
 - Os vendedores podem incorporar adequadamente o risco de negociar com novos utilizadores
 - Os novos compradores têm mais matches e um caminho mais rápido para construir reputação
 - Mercado livre a funcionar como mercado livre
@@ -68,7 +68,7 @@ Se quiseres saber mais sobre as funcionalidades da Peach, ou ler alguns dos noss
 [Porquê P2P? O básico](https://peachbitcoin.com/pt/blog/why-p2p-chapter-1/)
 [Precisas de uma hardware wallet](https://peachbitcoin.com/pt/blog/you-need-a-hw/)
 
-Se quiseres saber mais sobre nós, consulta as nossas redes sociais, ou simplesmente [contacta-nos](mailto:hello@peachbitcoin.com) (usa a nossa [chave PGP](https://keys.openpgp.org/search?q=hello%40peachbitcoin.com) se possível) — teremos todo o gosto em ouvir-te!
+Se quiseres saber mais sobre nós, consulta as nossas redes sociais, ou simplesmente [contacta-nos](mailto:hello@peachbitcoin.com) (usa a nossa [chave PGP](https://keys.openpgp.org/search?q=hello%40peachbitcoin.com) se possível), teremos todo o gosto em ouvir-te!
 
 [Telegram](https://t.me/+MUnwSgwj-d04NTk0), [Discord](https://discord.gg/ypeHz3SW54), [Twitter](https://twitter.com/peachbitcoin), [Instagram](https://instagram.com/peachbitcoin)
 

@@ -36,7 +36,7 @@ previewImage: /img/blog/you-need-a-hardware-wallet/you-need-hw-preview.png
 <br><br>
 
 
-Sie haben Peach verwendet und Sats wie ein religiöser Fanatiker gehortet? Wenn Sie auch nur annähernd 10 % des jährlichen No-KYC-Limits von 100.000 $ erreicht haben, das Peach anbietet, gibt es etwas, das Sie verwenden müssen: Cold Storage. Hot Wallets sind für Ihre Gelder nicht sicher genug. Sie müssen eine Hardware-Wallet kaufen, eine Passphrase verwenden und einen Plan zum Speichern Ihrer Seed-Phrase haben.
+Sie haben Peach verwendet und Sats wie ein religiöser Fanatiker gehortet? Wenn Sie auch nur annähernd 10 % des jährlichen No-registration-Limits von 100.000 $ erreicht haben, das Peach anbietet, gibt es etwas, das Sie verwenden müssen: Cold Storage. Hot Wallets sind für Ihre Gelder nicht sicher genug. Sie müssen eine Hardware-Wallet kaufen, eine Passphrase verwenden und einen Plan zum Speichern Ihrer Seed-Phrase haben.
 
 ## Kennen Sie den Unterschied zwischen Hot und Cold
 

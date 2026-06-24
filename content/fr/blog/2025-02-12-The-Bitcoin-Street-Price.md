@@ -17,7 +17,7 @@ Salut Peaches🍑,
 
 Si tu lis cette newsletter, tu sais probablement déjà que les places de marché peer-to-peer facilitent les transactions directes entre particuliers, ce qui se traduit souvent par un « prix de rue » pour Bitcoin qui reflète la dynamique réelle de l'offre et de la demande.
 
-Contrairement aux marchés peer-to-peer, où acheteurs et vendeurs commercent directement, les échanges traditionnels — même ceux réservés au Bitcoin — agissent en tant qu'intermédiaires, gérant la garde, le jumelage des ordres et la détermination des prix. Mais est-ce que des personnes comme toi et moi, qui veulent juste accumuler quelques Sats de manière décontractée, ont vraiment besoin de ces intermédiaires?
+Contrairement aux marchés peer-to-peer, où acheteurs et vendeurs commercent directement, les échanges traditionnels, même ceux réservés au Bitcoin, agissent en tant qu'intermédiaires, gérant la garde, le jumelage des ordres et la détermination des prix. Mais est-ce que des personnes comme toi et moi, qui veulent juste accumuler quelques Sats de manière décontractée, ont vraiment besoin de ces intermédiaires?
 
 <table style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse;">
 <td style="border: 2px solid #f56522; padding: 15px; width: 60%; vertical-align: top;">
@@ -121,7 +121,7 @@ Contacte-nous dès maintenant !
         Intègre ton événement ou ta boutique dans notre app pour faciliter les échanges en ESPÈCE sur place.
         <ul>
           <li>Gagne 100% de nos revenus sur toutes les transactions en espèces réalisées lors de ton meetup !</li>
-          <li>Reçois ton code de parrainage personnalisé, des goodies, flyers et tout notre soutien pour promouvoir le trading anonyme.</li>
+          <li>Reçois ton code de parrainage personnalisé, des goodies, flyers et tout notre soutien pour promouvoir le trading pair-à-pair.</li>
         </ul>
         Envoie un e-mail avec <strong style="color: #E4572E;">#CASH4SATS</strong> pour obtenir toutes les infos.
       </div>

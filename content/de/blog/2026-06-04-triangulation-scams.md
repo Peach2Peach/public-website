@@ -56,7 +56,7 @@ Es wird DRINGEND EMPFOHLEN\*, dass der Verkäufer an diesem Punkt die Zahlung au
 
 \*es gab Fälle, in denen sich das Opfer bei den Behörden beschwert und den (ehrlichen) Verkäufer beschuldigt/hineinzieht. Das willst du nicht.
 
-Derzeit ist dies der einzige Weg, den wir gefunden haben, um Drittzahlungen und Triangulationsbetrug zu stoppen, ohne die Dinge zu gefährden, die uns wirklich wichtig sind: kein KYC, keine Überwachung, niemandem deine Identität aushändigen. Du gibst das Konto an, von dem du zahlst, der Verkäufer prüft, ob es übereinstimmt, und das war's. Das funktioniert bei der überwiegenden Mehrheit der Zahlungsmethoden (Bargeld und einige anonyme Methoden werden eventuell anders behandelt).
+Derzeit ist dies der einzige Weg, den wir gefunden haben, um Drittzahlungen und Triangulationsbetrug zu stoppen, ohne die Dinge zu gefährden, die uns wirklich wichtig sind: keine Registrierung, keine Überwachung, niemandem deine Identität aushändigen. Du gibst das Konto an, von dem du zahlst, der Verkäufer prüft, ob es übereinstimmt, und das war's. Das funktioniert bei der überwiegenden Mehrheit der Zahlungsmethoden (Bargeld und einige anonyme Methoden werden eventuell anders behandelt).
 
 ## Warum ein Verwendungszweck das nicht löst
 
@@ -68,7 +68,7 @@ Zu prüfen, *wer das Geld gesendet hat*, ist grundlegend anders. Der Betrüger k
 
 ## Das Fazit
 
-Wenn Peach nach deinen Zahlungsdetails fragt, ist das kein KYC-Schritt, und Peach kann sie nicht sehen, außer im Streitfall. Es ist eine kleine, ehrliche Information, die es dem Verkäufer erlaubt zu bestätigen, dass das Geld von dir kam und nicht von jemandem, der keine Ahnung hat, dass er einen Bitcoin-Handel finanziert. Sie schützt den Verkäufer, sie schützt einen unschuldigen Fremden, und sie hält den Marktplatz sauber, alles ohne dass jemand einen Pass hochlädt.
+Wenn Peach nach deinen Zahlungsdetails fragt, ist das keine Registrierung-Schritt, und Peach kann sie nicht sehen, außer im Streitfall. Es ist eine kleine, ehrliche Information, die es dem Verkäufer erlaubt zu bestätigen, dass das Geld von dir kam und nicht von jemandem, der keine Ahnung hat, dass er einen Bitcoin-Handel finanziert. Sie schützt den Verkäufer, sie schützt einen unschuldigen Fremden, und sie hält den Marktplatz sauber, alles ohne dass jemand einen Pass hochlädt.
 
 P2P richtig gemacht bedeutet, direkt zu handeln, ohne deine Privatsphäre aufzugeben. Triangulationsbetrug zu stoppen, gehört dazu, es richtig zu machen.
 

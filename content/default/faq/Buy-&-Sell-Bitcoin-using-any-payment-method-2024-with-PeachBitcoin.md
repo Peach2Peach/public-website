@@ -4,7 +4,7 @@
 
 PeachBitcoin provides a wide range of payment methods to buy and sell Bitcoin securely, quickly, and easily. Our top priority is ensuring your privacy and security, offering payment options tailored to meet your needs.
 
-Explore our diverse payment methods and choose the one that suits you best. Start buying or selling Bitcoin **NO KYC** with PeachBitcoin today!
+Explore our diverse payment methods and choose the one that suits you best. Start buying or selling Bitcoin **NO REGISTRATION** with PeachBitcoin today!
 
 ## Select Your Currency 
 

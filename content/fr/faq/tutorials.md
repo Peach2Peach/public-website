@@ -2,9 +2,9 @@
 ### *Votre passerelle vers des transactions Bitcoin sécurisées et privées*
 
 Bienvenue sur le hub des tutoriels de PeachBitcoin !  
-Ici, vous trouverez des guides étape par étape pour vous aider à naviguer sur notre plateforme, maîtriser des techniques avancées de Bitcoin et profiter des avantages d'acheter et vendre des Bitcoin **sans KYC**.
+Ici, vous trouverez des guides étape par étape pour vous aider à naviguer sur notre plateforme, maîtriser des techniques avancées de Bitcoin et profiter des avantages d'acheter et vendre des Bitcoin **sans inscription**.
 
-Avec plus de **100 méthodes de paiement** prises en charge — y compris PayPal, virements bancaires, cartes de crédit et cartes-cadeaux — PeachBitcoin combine **flexibilité, confidentialité et sécurité** comme aucun autre.
+Avec plus de **100 méthodes de paiement** prises en charge, y compris PayPal, virements bancaires, cartes de crédit et cartes-cadeaux, PeachBitcoin combine **flexibilité, confidentialité et sécurité** comme aucun autre.
 
 ---
 

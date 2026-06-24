@@ -65,9 +65,9 @@ Quando qualcuno utilizza il tuo codice di affiliazione, quella persona riceve un
 Il punteggio Peach è la tua reputazione su Peach. Si basa sulla valutazione dell'utente (il pollice su/giù che la tua controparte ti dà dopo uno scambio) e sulle tue azioni, come le dispute, la velocità di pagamento e altro ancora.
 :::
 
-:::details Perché posso acquistare legalmente senza KYC?
+:::details Perché posso acquistare legalmente senza registrazione?
 
-Peach è un'azienda conforme al 100%. Siamo un intermediario finanziario svizzero affiliato e il nostro quadro di conformità consente transazioni di scambio di denaro senza KYC in determinate soglie.
+Peach è un'azienda conforme al 100%. Siamo un intermediario finanziario svizzero affiliato e il nostro quadro di conformità consente transazioni di scambio di denaro senza registrazione in determinate soglie.
 :::
 
 :::details Perché la mia transazione è scomparsa dal mio portafoglio?

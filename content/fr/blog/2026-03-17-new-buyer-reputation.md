@@ -16,7 +16,7 @@ description: |
 
 # Nouveau sur Peach ? Voici comment construire votre réputation rapidement
 
-Chers peaches, parlons d'un sujet que chaque nouvel utilisateur rencontre : vous venez de télécharger Peach, vous êtes prêt à accumuler des sats, et vous remarquez que certains vendeurs préfèrent trader avec des personnes qui ont déjà un historique. C'est logique — si vous vendiez quelque chose de valeur à un inconnu, vous voudriez aussi savoir qu'il est fiable.
+Chers peaches, parlons d'un sujet que chaque nouvel utilisateur rencontre : vous venez de télécharger Peach, vous êtes prêt à accumuler des sats, et vous remarquez que certains vendeurs préfèrent trader avec des personnes qui ont déjà un historique. C'est logique, si vous vendiez quelque chose de valeur à un inconnu, vous voudriez aussi savoir qu'il est fiable.
 
 Mais voilà : chaque trader expérimenté sur Peach a un jour été un compte tout neuf avec zéro trade. Alors comment passer de nouveau compte à acheteur de confiance ? C'est plus simple que vous ne le pensez.
 

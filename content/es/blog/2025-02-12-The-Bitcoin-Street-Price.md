@@ -18,7 +18,7 @@ Hola Peaches🍑,
 
 Si estás leyendo este boletín, probablemente ya sepas que los mercados peer-to-peer facilitan transacciones directas entre individuos, lo que a menudo resulta en un “precio de calle” para Bitcoin que refleja la dinámica real de oferta y demanda.
 
-A diferencia de los mercados peer-to-peer, donde compradores y vendedores comercian directamente, los intercambios tradicionales —incluso aquellos que solo se dedican a Bitcoin— actúan como intermediarios, gestionando la custodia, la coincidencia de órdenes y el descubrimiento de precios. Pero, ¿necesitan las personas, como tú y yo, que simplemente quieren acumular algunos Sats de manera casual, esos intermediarios?
+A diferencia de los mercados peer-to-peer, donde compradores y vendedores comercian directamente, los intercambios tradicionales, incluso aquellos que solo se dedican a Bitcoin, actúan como intermediarios, gestionando la custodia, la coincidencia de órdenes y el descubrimiento de precios. Pero, ¿necesitan las personas, como tú y yo, que simplemente quieren acumular algunos Sats de manera casual, esos intermediarios?
 
 <table style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse;">
 <td style="border: 2px solid #f56522; padding: 15px; width: 60%; vertical-align: top;">

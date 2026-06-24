@@ -10,7 +10,7 @@ tags:
   - Product
 previewImage: /img/blog/premium-cap-removed/cover.png
 description: |
-  Peach removes the ±21% premium cap. Sellers and buyers can now set any price they want — because a free market should work like one.
+  Peach removes the ±21% premium cap. Sellers and buyers can now set any price they want, because a free market should work like one.
 ---
 
 # Premium Cap Removal
@@ -35,7 +35,7 @@ Removing the cap lets sellers set a premium that actually makes new-user trades 
 
 Beyond the practical benefits, there's a principle here. Peach is a peer-to-peer marketplace. The whole point is that people trade directly with each other, on terms they agree on. Putting an artificial cap on pricing was always a bit of a contradiction with that ethos.
 
-If a seller wants to offer a deep discount to move sats quickly, they should be able to. If a buyer is willing to pay a high premium for the convenience of a specific payment method or a fast trade — that's between them and the seller. We don't need to be in the middle of that decision.
+If a seller wants to offer a deep discount to move sats quickly, they should be able to. If a buyer is willing to pay a high premium for the convenience of a specific payment method or a fast trade, that's between them and the seller. We don't need to be in the middle of that decision.
 
 The market will sort out what's reasonable. Overpriced offers won't get matches. Underpriced ones will get snapped up. That's how it's supposed to work.
 
@@ -48,7 +48,7 @@ If you're a seller, this pairs nicely with the **"for new users only"** toggle w
 ## TL;DR
 
 - Premium cap of ±21% is removed in v0.69.0
-- Set any price you want — the market decides what's fair
+- Set any price you want, the market decides what's fair
 - Sellers can properly price in the risk of trading with new users
 - New buyers get more matches and a faster path to building reputation
 - Free market gonna free market

@@ -2,5 +2,5 @@
 template: orderbook
 ---
 
-# Libro de pedidos sin KYC
+# Libro de pedidos sin registro
 

@@ -33,7 +33,7 @@ This is why open sourcing Bitcoin related software is very important, and Peachâ
 
 Of course, being open source does not mean you will have everyone carefully reading out the code and reverse-engineering the mechanism. That is why I am writing this article: to **show how secure Peach is** and what are the steps done to achieve it.
 
-## Step 1: creating a No-KYC account on Peach 
+## Step 1: creating a No-registration account on Peach 
 
 To be very clear: your Bitcoin Seed is your Peach Account.
 

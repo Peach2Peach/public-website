@@ -56,7 +56,7 @@ It is HIGHLY ADVISED\*, at that point, that the seller does NOT confirm the paym
 
 \*there have been cases where the victim complains to the authorities and accuses/involves the (honest) seller. You don't want that.
 
-Right now, this is the only way we have found to stop third party payments and triangulation scams without compromising the things we actually care about: no KYC, no surveillance, no handing your identity to anyone. You declare the account you pay from, the seller checks it matches, and that is it. This works on the vast majority of payment methods (cash and a few anonymous methods may be handled differently).
+Right now, this is the only way we have found to stop third party payments and triangulation scams without compromising the things we actually care about: no registration, no surveillance, no handing your identity to anyone. You declare the account you pay from, the seller checks it matches, and that is it. This works on the vast majority of payment methods (cash and a few anonymous methods may be handled differently).
 
 ## Why a payment reference does not fix this
 

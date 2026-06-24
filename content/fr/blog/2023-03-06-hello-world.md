@@ -97,7 +97,7 @@ Et pour vous !
 > J'ai commencé ma vie avec un seul absolu : que le monde était à moi pour
 > le façonner à l'image de mes valeurs les plus élevées et jamais à abandonner
 > à un niveau inférieur, peu importe combien de temps ou combien difficile la lutte.
-> <cite>— Ayn Rand, La Grève</cite>
+> <cite>, Ayn Rand, La Grève</cite>
 
 Peach n'est pas juste un produit, mais aussi mon parcours individualiste pour
 atteindre la meilleure version de moi-même. Certaines personnes rejoindront Peach

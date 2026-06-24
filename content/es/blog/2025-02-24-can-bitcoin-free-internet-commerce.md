@@ -82,9 +82,9 @@ Las aplicaciones de Bitcoin pueden programarse para proteger tanto a los consumi
 
 Con Bitcoin, los mercados en Internet pueden y prosperarán en los próximos 30 años sin los costos asociados a las monedas fiduciarias, abriendo la puerta a clientes de países que anteriormente estaban excluidos.
 
-Imagina lanzar un nuevo mercado en 30 minutos, abierto de inmediato a pagos globales sin KYC y con servicios de depósito en garantía colaborativos; esto ya es posible con Bitcoin hoy.
+Imagina lanzar un nuevo mercado en 30 minutos, abierto de inmediato a pagos globales sin registro y con servicios de depósito en garantía colaborativos; esto ya es posible con Bitcoin hoy.
 
-En Peach, entendemos que Bitcoin se construyó para que las personas comercien directamente sin KYC, de forma segura y privada.
+En Peach, entendemos que Bitcoin se construyó para que las personas comercien directamente sin registro, de forma segura y privada.
 
 Nos referimos a esto como comercio P2P, que funciona con monedas fiduciarias como el franco suizo o el euro, sin requerir identificación alguna.
 
@@ -112,7 +112,7 @@ Las empresas que ofrecen servicios relacionados con Bitcoin suelen tener que cum
 
 En Peach, buscamos equilibrar los requisitos regulatorios con la experiencia del producto y la seguridad del cliente.
 
-Por eso Peach se enfoca en ofrecer el mejor mercado sin KYC para comprar y vender Bitcoin sin requisitos de identificación.
+Por eso Peach se enfoca en ofrecer el mejor mercado sin registro para comprar y vender Bitcoin sin requisitos de identificación.
 
 Creemos que surgirán nuevos mercados que demuestren que plataformas como Amazon, eBay y Airbnb, aunque han ofrecido beneficios y tenido desventajas, en última instancia serán superadas por plataformas nativas de Bitcoin que aprovechan una red monetaria neutral con liquidación 24/7.
 

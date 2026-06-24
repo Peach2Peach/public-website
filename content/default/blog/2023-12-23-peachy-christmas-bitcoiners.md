@@ -81,7 +81,7 @@ Product is smooth, more than 15'000 trades completed/117 BTC traded/57'000 buy o
 
 ## Spread the Peach-to-Peach word!
 
-Continue sharing your love, your feedback and your [REFERRAL code](https://peachbitcoin.com/new-users/) to on-board more users into the one-stop-shop Peach Bitcoin app. The more users, the more KYC-free peer2peer Bitcoin trades!
+Continue sharing your love, your feedback and your [REFERRAL code](https://peachbitcoin.com/new-users/) to on-board more users into the one-stop-shop Peach Bitcoin app. The more users, the more registration-free peer2peer Bitcoin trades!
 
 If you'd like a [custom AFFILIATE link](https://peachbitcoin.com/for-businesses/), [reach out to us!](mailto:hello@peachbitcoin.com?subject=I'd%20like%20to%20become%20an%20affiliate!&body=Hi,%0AHere%20is%20my%20PeachID:%20)
 

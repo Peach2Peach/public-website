@@ -15,7 +15,7 @@ Gehst du von meetup zu meetup als entschuldigung um die Welt zu besichtigen?
 Oder zögerst du einfach Angebote in öffentlichen Telegram-Gruppen zu veröffentlichen um nicht betrogen zu werden?
 
 Wir haben die Lösung für dich.
-Peach beinhaltet **anonymer Bargeldhandel**.
+Peach beinhaltet **Peer-to-Peer-Bargeldhandel**.
 
 Wir arbeiten mit meetup auf der ganzen Welt zusammen, um sichere Orte für den Bitcoin-Handel mit Bargeld zu schaffen.
 

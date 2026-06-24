@@ -82,9 +82,9 @@ Le applicazioni di Bitcoin possono essere programmate per proteggere sia i consu
 
 Con Bitcoin, i marketplace internet possono (e lo faranno) prosperare nei prossimi 30 anni senza i costi legati al fiat, accogliendo nuovi clienti da paesi precedentemente esclusi.
 
-Immagina di lanciare un nuovo marketplace in 30 minuti, immediatamente aperto a pagamenti globali senza KYC e con servizi di escrow collaborativo: è già possibile con Bitcoin oggi.
+Immagina di lanciare un nuovo marketplace in 30 minuti, immediatamente aperto a pagamenti globali senza registrazione e con servizi di escrow collaborativo: è già possibile con Bitcoin oggi.
 
-In Peach, comprendiamo che Bitcoin è stato creato per far sì che le persone possano commerciare direttamente fra loro senza KYC, in modo sicuro e riservato.
+In Peach, comprendiamo che Bitcoin è stato creato per far sì che le persone possano commerciare direttamente fra loro senza registrazione, in modo sicuro e riservato.
 
 Ci riferiamo a questo come trading P2P, che funziona con valute fiat come il franco svizzero o l’euro, senza alcuna richiesta di identificazione.
 
@@ -112,7 +112,7 @@ Le aziende che offrono servizi basati su Bitcoin devono spesso soddisfare requis
 
 In Peach, cerchiamo di bilanciare i requisiti normativi con l’esperienza del prodotto e la sicurezza dei clienti.
 
-Ecco perché Peach si concentra sull’offrire il miglior marketplace senza KYC per acquistare e vendere Bitcoin senza obblighi d’identificazione.
+Ecco perché Peach si concentra sull’offrire il miglior marketplace senza registrazione per acquistare e vendere Bitcoin senza obblighi d’identificazione.
 
 Crediamo che nuovi marketplace dimostreranno che piattaforme come Amazon, eBay e Airbnb, pur avendo vantaggi e svantaggi, saranno in ultima analisi inferiori alle piattaforme native di Bitcoin che sfruttano una rete monetaria neutrale con regolamenti 24/7.
 

@@ -29,12 +29,12 @@ previewImage: /img/blog/under-the-hood/peachmechanic2.png
 
 Aaaaah Bitcoin, essa forma maravilhosa de dinheiro que prospera graças às suas características fundamentais. Todos nós a amamos, mas todos reconhecemos que há riscos na parte da soberania individual: você compartilha suas seeds e perde tudo. Você envia para o endereço errado e nunca mais recupera.
 
-É por isso que o código aberto de softwares relacionados ao Bitcoin é tão importante — e o App da Peach está disponível no Github para todos revisarem!
+É por isso que o código aberto de softwares relacionados ao Bitcoin é tão importante, e o App da Peach está disponível no Github para todos revisarem!
 
 Claro, ser open source não significa que todos irão ler cuidadosamente o código e fazer engenharia reversa do mecanismo.  
 Por isso escrevo este artigo: para **mostrar o quão segura é a Peach** e quais são as etapas tomadas para alcançar essa segurança.
 
-## Passo 1: criando uma conta sem KYC na Peach
+## Passo 1: criando uma conta sem registo na Peach
 
 Para deixar bem claro: sua Bitcoin Seed é a sua conta Peach.
 
@@ -94,10 +94,10 @@ O Servidor validou que, neste momento, você é o dono do Par de Chaves Bitcoin 
 
 ## Passo 2: enviando sua Chave Pública PGP
 
-Haverá muita criptografia — e também alguma descriptografia. As chaves Bitcoin permitem apenas criptografia unidirecional, portanto precisaremos de Chaves PGP para realizar criptografia bidirecional.  
+Haverá muita criptografia, e também alguma descriptografia. As chaves Bitcoin permitem apenas criptografia unidirecional, portanto precisaremos de Chaves PGP para realizar criptografia bidirecional. 
 Isso é fundamental para criptografar e descriptografar dados bancários, mensagens de chat, etc.  
 
-O envio da Chave Pública PGP é semelhante ao processo de envio da Chave Pública Bitcoin. No entanto, há uma etapa extra: assinar a Chave Pública PGP com a Chave Privada Bitcoin, para verificar que o usuário é dono de ambas as chaves — Bitcoin e PGP.
+O envio da Chave Pública PGP é semelhante ao processo de envio da Chave Pública Bitcoin. No entanto, há uma etapa extra: assinar a Chave Pública PGP com a Chave Privada Bitcoin, para verificar que o usuário é dono de ambas as chaves, Bitcoin e PGP.
 
 <br><br>
 <img src="/img/blog/under-the-hood/underthehood02.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 70%;">
@@ -156,7 +156,7 @@ Mas não é só isso: o Vendedor deve aceitar algo em troca. Resumidamente, uma 
 *   o Prêmio (quanto o Bitcoin custa em relação ao valor de mercado atual)  
 
 Se tudo correr bem, um Comprador se interessará pela oferta e solicitará a negociação.  
-Nesse momento, ele precisará selecionar uma única Moeda e um único Método de Pagamento dentre os disponíveis — quanto mais opções o Vendedor oferecer, maiores as chances de atrair um Comprador.
+Nesse momento, ele precisará selecionar uma única Moeda e um único Método de Pagamento dentre os disponíveis, quanto mais opções o Vendedor oferecer, maiores as chances de atrair um Comprador.
 
 <br><br>
 <img src="/img/blog/under-the-hood/underthehood03.png" alt="this is the power of p2p Marketplace" style="display:block; margin: auto; width: 40%;">
@@ -194,7 +194,7 @@ const sats_to_sell = 21000;
 ```
 
 Como você pode ver no código, o Vendedor está anunciando que está vendendo 21.000 sats (0.00021 Bitcoin) com um prêmio de 1%. Ele quer receber Euros através de sua conta Wise.  
-Se prestar atenção, ele **NÃO** está enviando o ID da conta Wise — apenas um Hash.  
+Se prestar atenção, ele **NÃO** está enviando o ID da conta Wise, apenas um Hash. 
 A Peach nunca saberá os detalhes do método de pagamento, para manter o anonimato.  
 Também é enviada um Endereço de Retorno. Isso é usado em caso de reembolso: se nenhum Comprador quiser seu Bitcoin, você pode recebê-lo de volta.
 
@@ -207,7 +207,7 @@ const sellOfferId = offerCreateRes.data.id;
 
 ```
 
-Esse valor é importante — guarde-o. Há outras maneiras de obtê-lo, mas mantenha-o por enquanto.  
+Esse valor é importante, guarde-o. Há outras maneiras de obtê-lo, mas mantenha-o por enquanto. 
 A Oferta de Venda foi criada, mas ainda não está pública: nenhum Comprador pode interagir com ela.  
 Primeiro, o Vendedor precisa financiar o Escrow.
 
@@ -416,7 +416,7 @@ Para criar uma, basta gerar um número aleatório:
 
 ```
 
-Você não deve enviar essa chave em texto claro — isso anularia seu propósito.  
+Você não deve enviar essa chave em texto claro, isso anularia seu propósito. 
 Ela deve ser criptografada de modo que apenas o Comprador e o Vendedor possam descriptografá-la.  
 Como ambos enviaram suas Chaves Públicas PGP, precisamos criptografá-la de forma que apenas as Chaves Privadas PGP correspondentes possam descriptografá-la:
 
@@ -456,7 +456,7 @@ E para que o Vendedor tenha certeza de que a Chave Simétrica foi gerada pelo Co
 
 ### Os Dados de Pagamento:
 
-Essa é a informação mais valiosa: seus Dados de Pagamento. Pode ser seu IBAN, seu nome de usuário no Revolut — qualquer dado que identifique a origem do seu pagamento Fiat.  
+Essa é a informação mais valiosa: seus Dados de Pagamento. Pode ser seu IBAN, seu nome de usuário no Revolut, qualquer dado que identifique a origem do seu pagamento Fiat. 
 O Vendedor depois compartilhará suas próprias informações com o Comprador.
 
 Agora que temos uma Chave Simétrica, podemos usá-la para Criptografar os Dados de Pagamento, e o Vendedor poderá usá-la depois para Descriptografar.
@@ -515,7 +515,7 @@ Nesse caso, você pode definir a Taxa Máxima de Mineração que está disposto 
 
 ### Finalmente, você faz a Solicitação de Negociação à Oferta de Venda
 
-Que jornada, hein? Mas é isso — agora você pode enviá-la.
+Que jornada, hein? Mas é isso, agora você pode enviá-la.
 
 ```j
   await session.post(
@@ -649,7 +649,7 @@ Se ele não a salvou, tudo bem, pois ela está disponível e pode ser descriptog
 Agora, isso deve acontecer fora da Peach: o Comprador abre seu aplicativo bancário (ou similar) e realiza uma transferência Fiat para o destinatário dos Dados de Pagamento do Vendedor.
 
 Se este passo causar insegurança ao leitor, lembre-se: o Bitcoin já está no Escrow, controlado pela Peach e pelo Vendedor.  
-Você pode até acessar o endereço do Escrow — disponível nos dados do Contrato retornados pela API — e verificar, via explorador de Blockchain, se o Bitcoin está lá.  
+Você pode até acessar o endereço do Escrow, disponível nos dados do Contrato retornados pela API, e verificar, via explorador de Blockchain, se o Bitcoin está lá. 
 
 Após realizar a transferência Fiat, o Comprador deve declarar que o Pagamento foi feito:
 

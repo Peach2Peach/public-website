@@ -49,7 +49,7 @@ We founded Peach with the mission to bring Bitcoin back to its origins, by creat
 We believe that there is a better way of using Bitcoin, and we believe that people can use it as a tool for real freedom when given the right means and education.
 
 > Bitcoin: A Peer-to-Peer Electronic Cash System
-> <cite>— Satoshi Nakamoto, Bitcoin whitepaper</cite>
+> <cite>, Satoshi Nakamoto, Bitcoin whitepaper</cite>
 
 Dear peaches, thank you for reading this far, this was the first of a full series of blog posts where we'll fall down the rabbit hole of p2p. If you want to receive updates about the next posts, feel free to subscribe to our [mailing list](https://peachbitcoin.com).
 
