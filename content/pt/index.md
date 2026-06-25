@@ -17,7 +17,7 @@ description: Compre e venda Bitcoin peer-to-peer sem KYC. Peach é um marketplac
 
 <div>
   <div class="md:flex items-end">
-    <a href="https://testflight.apple.com/join/wfSPFEWG"><img class="w-7/10 md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Bitcoin app on the App Store without KYC verification"></a>
+    <a href="https://apps.apple.com/es/app/peach-bitcoin-wallet/id6759166906"><img class="w-7/10 md:h-90px" src="/img/home/download-on-the-app-store.svg" alt="Download Bitcoin app on the App Store without KYC verification"></a>
     <a class="md:ml-4" href="https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet"><img class="w-7/10 md:h-90px" src="/img/home/get-it-on-google-play.svg" alt="Get Bitcoin app on Google Play store without ID verification"></a>
     <a class="md:ml-4" href="https://zapstore.dev/download/"><img class="w-7/10 md:h-90px" src="/img/home/Get-it-on-zapstore.svg" alt="Get Bitcoin app on ZapStore store without ID verification"></a>
   </div>
