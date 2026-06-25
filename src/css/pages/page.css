@@ -62,8 +62,14 @@
    content (title, table of contents, headings, body) instead of inheriting the
    centered page default. The .quickstarts step grids keep their own styling. */
 #quick-start .content-wrap--centered,
-#web-app-quick-start .content-wrap--centered {
+#web-app-quick-start .content-wrap--centered,
+#tips .content-wrap--centered {
   text-align: left;
+}
+
+/* The safety tips read as a checklist, so give each line room to breathe. */
+#tips .content-wrap--centered li + li {
+  margin-top: var(--space-m);
 }
 
 .main {

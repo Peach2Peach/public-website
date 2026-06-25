@@ -4,6 +4,37 @@
     margin: var(--space-l) auto var(--space-xl);
   }
 
+  .tips-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 15rem;
+    margin: 0 auto var(--space-xl);
+    padding: 0.6rem 1rem;
+    background-color: #fff;
+    border: 2px solid #e95420;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: var(--color-primary-main);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease,
+      background-color 0.3s ease, color 0.3s ease;
+  }
+
+  .tips-button h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+    color: inherit;
+  }
+
+  .tips-button:hover {
+    transform: translateY(-5px);
+    background-color: #f0f0f0;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+  }
+
   .faq {
     display: flex;
     gap: var(--space-m);
