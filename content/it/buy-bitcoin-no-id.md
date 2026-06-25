@@ -5,7 +5,7 @@ template: how_it_works
 
 <!--[easy_registration]-->
 
-### Registrazione facile
+### Avvio istantaneo
 
 Scarica l’app gratuitamente e inizia subito a fare trading! Non ti chiederemo di caricare il tuo documento né di fare un selfie con la patente.
 

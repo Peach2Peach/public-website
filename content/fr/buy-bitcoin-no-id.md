@@ -5,7 +5,7 @@ template: how_it_works
 
 <!--[easy_registration]-->
 
-### Inscription facile
+### Démarrage instantané
 
 Télécharge l’application gratuitement et commence à échanger immédiatement ! Nous ne te demanderons pas de télécharger ta pièce d’identité ni de faire un selfie avec ton permis de conduire.
 

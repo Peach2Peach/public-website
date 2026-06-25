@@ -5,7 +5,7 @@ template: how_it_works
 
 <!--[easy_registration]-->
 
-### Einfache Registrierung
+### Sofortiger Einstieg
 
 Lade die App kostenlos herunter und beginne sofort mit dem Handel! Wir verlangen weder einen Ausweis‑Upload noch ein Selfie mit deinem Führerschein.
 

@@ -5,7 +5,7 @@ template: how_it_works
 
 <!--[easy_registration]-->
 
-### Registro fácil
+### Comece na hora
 
 Baixe o aplicativo gratuitamente e comece a negociar imediatamente! Não pediremos que envie seu documento de identidade ou faça uma selfie com sua carteira de motorista.
 

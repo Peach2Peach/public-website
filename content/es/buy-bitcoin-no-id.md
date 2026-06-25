@@ -5,7 +5,7 @@ template: how_it_works
 
 <!--[easy_registration]-->
 
-### Registro fácil
+### Empieza al instante
 
 Descarga la aplicación gratis y comienza a operar de inmediato. No te pediremos subir tu identificación ni hacerte una selfie con tu licencia de conducir.
 

@@ -5,7 +5,7 @@ template: how_it_works
 
 <!--[easy_registration]-->
 
-### Easy registration
+### Instant onboarding
 
 Download the app for free and start trading right away! We won't ask you to upload your ID or make a selfie with your driver's license
 
