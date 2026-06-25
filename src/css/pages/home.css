@@ -207,6 +207,10 @@
         }
       }
     }
+
+    & .hero-composite-image-stacked {
+      display: none;
+    }
   }
 
   & .new-teaser-box {
@@ -1243,8 +1247,16 @@
     }
   
     & .new-teaser-image-container {
-      width: 100% !important;
-      justify-content: center !important;
+      display: none !important;
+    }
+
+    & .hero-composite-image-stacked {
+      display: block !important;
+      width: 100%;
+      max-width: 26rem;
+      height: auto;
+      align-self: center;
+      animation: float 6s ease-in-out infinite;
     }
   }
 
