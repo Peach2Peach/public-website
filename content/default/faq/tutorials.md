@@ -34,7 +34,7 @@ Whether you're a beginner or a seasoned Bitcoin enthusiast, these tutorials will
 
 **[Sign a Message Using Any Wallet](../sign-message)**  
    *Verify ownership and secure your transactions with confidence.*  
-   [▶ Watch Video Tutorial](https://www.youtube.com/watch?v=xgewSfhLgtY)
+   [▶ Watch Video Tutorial](https://www.youtube.com/watch?v=rwNmPxBWQ6k)
 
 **[Accelerate Bitcoin Transactions Using CPFP](../accelerate-using-cpfp)**  
    *Ensure faster confirmations with advanced transaction techniques.*  

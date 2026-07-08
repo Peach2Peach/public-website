@@ -7,9 +7,9 @@ La signature de messages est essentielle pour vérifier la propriété d’une a
 - Comment utiliser cette fonctionnalité avec différents portefeuilles Bitcoin.  
 - Comment améliorer votre sécurité avec PeachBitcoin.  
 
-🔗 **[Regardez le tutoriel vidéo complet ici](https://www.youtube.com/watch?v=xgewSfhLgtY)**  
+🔗 **[Regardez le tutoriel vidéo complet ici](https://www.youtube.com/watch?v=rwNmPxBWQ6k)**  
 
-[![Comment Signer un Message avec N’importe quel Portefeuille](https://img.youtube.com/vi/xgewSfhLgtY/0.jpg)](https://www.youtube.com/watch?v=xgewSfhLgtY)  
+[![Comment Signer un Message avec N’importe quel Portefeuille](https://img.youtube.com/vi/rwNmPxBWQ6k/0.jpg)](https://www.youtube.com/watch?v=rwNmPxBWQ6k)  
 
 ---
 

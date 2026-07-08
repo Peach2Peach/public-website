@@ -7,9 +7,9 @@ Firmare i messaggi è fondamentale per verificare la proprietà di un indirizzo 
 - Come utilizzare questa funzione con diversi wallet Bitcoin.  
 - Come migliorare la sicurezza quando utilizzi PeachBitcoin.  
 
-🔗 **[Guarda il tutorial completo qui](https://www.youtube.com/watch?v=xgewSfhLgtY)**  
+🔗 **[Guarda il tutorial completo qui](https://www.youtube.com/watch?v=rwNmPxBWQ6k)**  
 
-[![Come Firmare un Messaggio con Qualsiasi Wallet](https://img.youtube.com/vi/xgewSfhLgtY/0.jpg)](https://www.youtube.com/watch?v=xgewSfhLgtY)  
+[![Come Firmare un Messaggio con Qualsiasi Wallet](https://img.youtube.com/vi/rwNmPxBWQ6k/0.jpg)](https://www.youtube.com/watch?v=rwNmPxBWQ6k)  
 
 ---
 

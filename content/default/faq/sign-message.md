@@ -7,9 +7,9 @@ Message signing is essential to verify ownership of a Bitcoin address or secure 
 - How to use this feature with various Bitcoin wallets.  
 - How to enhance your security when using PeachBitcoin.
 
-🔗 **[Watch the full video tutorial here](https://www.youtube.com/watch?v=xgewSfhLgtY)**  
+🔗 **[Watch the full video tutorial here](https://www.youtube.com/watch?v=rwNmPxBWQ6k)**  
 
-[![How to Sign a Message Using Any Wallet](https://img.youtube.com/vi/xgewSfhLgtY/0.jpg)](https://www.youtube.com/watch?v=xgewSfhLgtY)  
+[![How to Sign a Message Using Any Wallet](https://img.youtube.com/vi/rwNmPxBWQ6k/0.jpg)](https://www.youtube.com/watch?v=rwNmPxBWQ6k)  
 
 ---
 

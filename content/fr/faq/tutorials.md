@@ -34,7 +34,7 @@ Que vous soyez débutant ou passionné de Bitcoin expérimenté, ces tutoriels v
 
 **[Signez un message avec n'importe quel portefeuille](../sign-message)**  
    *Vérifiez la propriété et sécurisez vos transactions en toute confiance.*  
-   [▶ Regardez le tutoriel vidéo](https://www.youtube.com/watch?v=xgewSfhLgtY)
+   [▶ Regardez le tutoriel vidéo](https://www.youtube.com/watch?v=rwNmPxBWQ6k)
 
 **[Accélérez les transactions Bitcoin avec CPFP](../accelerate-using-cpfp)**  
    *Assurez des confirmations plus rapides avec des techniques avancées de transaction.*  

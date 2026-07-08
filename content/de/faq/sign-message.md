@@ -7,9 +7,9 @@ Das Signieren von Nachrichten ist unerlässlich, um den Besitz einer Bitcoin-Adr
 - Wie Sie diese Funktion mit verschiedenen Bitcoin-Wallets nutzen.  
 - Wie Sie Ihre Sicherheit mit PeachBitcoin verbessern können.  
 
-🔗 **[Sehen Sie sich das vollständige Video-Tutorial hier an](https://www.youtube.com/watch?v=xgewSfhLgtY)**  
+🔗 **[Sehen Sie sich das vollständige Video-Tutorial hier an](https://www.youtube.com/watch?v=rwNmPxBWQ6k)**  
 
-[![Wie Man Eine Nachricht Mit Jeder Wallet Signiert](https://img.youtube.com/vi/xgewSfhLgtY/0.jpg)](https://www.youtube.com/watch?v=xgewSfhLgtY)  
+[![Wie Man Eine Nachricht Mit Jeder Wallet Signiert](https://img.youtube.com/vi/rwNmPxBWQ6k/0.jpg)](https://www.youtube.com/watch?v=rwNmPxBWQ6k)  
 
 ---
 

@@ -7,9 +7,9 @@ Firmar mensajes es esencial para verificar la propiedad de una dirección de Bit
 - Cómo usar esta función con varias carteras de Bitcoin.  
 - Cómo mejorar tu seguridad al usar PeachBitcoin.  
 
-🔗 **[Mira el tutorial completo aquí](https://www.youtube.com/watch?v=xgewSfhLgtY)**  
+🔗 **[Mira el tutorial completo aquí](https://www.youtube.com/watch?v=rwNmPxBWQ6k)**  
 
-[![Cómo Firmar un Mensaje Usando Cualquier Cartera](https://img.youtube.com/vi/xgewSfhLgtY/0.jpg)](https://www.youtube.com/watch?v=xgewSfhLgtY)  
+[![Cómo Firmar un Mensaje Usando Cualquier Cartera](https://img.youtube.com/vi/rwNmPxBWQ6k/0.jpg)](https://www.youtube.com/watch?v=rwNmPxBWQ6k)  
 
 ---
 

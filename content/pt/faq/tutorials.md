@@ -34,7 +34,7 @@ Seja você iniciante ou um entusiasta experiente de Bitcoin, esses tutoriais ir�
 
 **[Assine uma mensagem com qualquer carteira](../sign-message)**  
    *Verifique a posse e proteja suas transações com confiança.*  
-   [▶ Assista ao tutorial em vídeo](https://www.youtube.com/watch?v=xgewSfhLgtY)
+   [▶ Assista ao tutorial em vídeo](https://www.youtube.com/watch?v=rwNmPxBWQ6k)
 
 **[Acelere transações Bitcoin usando CPFP](../accelerate-using-cpfp)**  
    *Garanta confirmações mais rápidas com técnicas avançadas de transação.*  

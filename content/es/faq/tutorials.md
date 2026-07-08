@@ -34,7 +34,7 @@ Ya seas un principiante o un entusiasta experimentado de Bitcoin, estos tutorial
 
 **[Firma un mensaje usando cualquier billetera](../sign-message)**  
    *Verifica la propiedad y asegura tus transacciones con confianza.*  
-   [▶ Ver tutorial en video](https://www.youtube.com/watch?v=xgewSfhLgtY)
+   [▶ Ver tutorial en video](https://www.youtube.com/watch?v=rwNmPxBWQ6k)
 
 **[Acelera transacciones de Bitcoin usando CPFP](../accelerate-using-cpfp)**  
    *Asegura confirmaciones más rápidas con técnicas avanzadas de transacción.*  
