@@ -688,5 +688,11 @@
     "url": "https://bitcoinwalk.org/london",
     "longitude": -0.1278,
     "latitude": 51.5074
+  },
+  {
+    "name": "Einundzwanzig Wetterau",
+    "url": "https://bitcoin-entdecken.de/",
+    "longitude": 8.758195,
+    "latitude": 50.332527
   }
 ]
