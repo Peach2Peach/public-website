@@ -72,7 +72,7 @@ Die Menge an Zahlen, die mit den 12 Wörtern dargestellt werden kann, ist gewalt
 
 Natürlich bedeuten mehr Wörter mehr Raum, also schwerer zu erraten. Aber manchmal ist genug einfach genug.
 
-12 Wörter allein würden einen schnellen Computer 10 Milliarden Jahre kosten, um all diese Zahlen zu prüfen und alle 12-Wort-Bitcoin-Wallets zu "stehlen". Wenn du die gesamte Bitcoin-Mining-Leistung zusammennimmst und aufs Erraten der Seeds umlenkst, würde sie 11 Tausend Jahre für dasselbe brauchen.
+12 Wörter allein würden einen schnellen Computer rund 10²² Jahre kosten — etwa eine Billion Mal das Alter des Universums — um all diese Zahlen zu prüfen und alle 12-Wort-Bitcoin-Wallets zu "stehlen". Wenn du die gesamte Bitcoin-Mining-Leistung zusammennimmst und aufs Erraten der Seeds umlenkst, würde sie immer noch rund 11 Milliarden Jahre brauchen. Und das ist großzügig gerechnet: Mining-Chips können nur SHA-256, während das Prüfen einer einzigen Seed Phrase tausendmal mehr Arbeit ist als ein einzelner Hash.
 
 Für mich ist das tragfähig. Aber ein zusätzliches Wort erhöht die Zeit noch viiiiel mehr. Deine Entscheidung!
 

@@ -72,7 +72,7 @@ La quantité de nombres représentables avec les 12 mots est immense, et c'est c
 
 Bien sûr, plus de mots signifie plus d'espace, donc plus difficile à deviner. Mais parfois, assez, c'est assez.
 
-12 mots seuls demanderaient à un ordinateur rapide 10 milliards d'années pour vérifier tous ces nombres et « voler » tous les wallets Bitcoin à 12 mots. Si vous réunissez toute la puissance de minage de Bitcoin et que vous la redirigez vers le fait de deviner les seeds, il lui faudrait 11 mille ans pour faire la même chose.
+12 mots seuls demanderaient à un ordinateur rapide environ 10²² années — à peu près mille milliards de fois l'âge de l'univers — pour vérifier tous ces nombres et « voler » tous les wallets Bitcoin à 12 mots. Si vous réunissez toute la puissance de minage de Bitcoin et que vous la redirigez vers le fait de deviner les seeds, il lui faudrait encore environ 11 milliards d'années. Et c'est une estimation généreuse : les puces de minage ne savent faire que du SHA-256, alors que vérifier une seule seed phrase représente des milliers de fois plus de travail qu'un simple hash.
 
 Pour moi, c'est viable. Mais ajouter un mot supplémentaire augmente le temps beaucouuuup plus. À vous de voir !
 

@@ -72,7 +72,7 @@ The amount of numbers that can be represented with the 12 words is vast, and it 
 
 Of course, more words mean more space, therefore harder to guess. But sometimes enough is enough.
 
-12 words alone would require a fast computer 10 billion years to check all of those numbers and "steal" all the 12-word Bitcoin wallets. If you join the entire Bitcoin mining power and redirect it at guessing the seeds, it would take them 11 thousand years to do the same.
+12 words alone would require a fast computer around 10²² years — about a trillion times the age of the universe — to check all of those numbers and "steal" all the 12-word Bitcoin wallets. If you joined the entire Bitcoin mining power and redirected it at guessing the seeds, it would still take around 11 billion years. And that is being generous: mining chips only know how to do SHA-256, while checking one seed phrase is thousands of times more work than a single hash.
 
 To me, that is viable. But adding an extra word increases the time muuuuch more. Up to you!
 

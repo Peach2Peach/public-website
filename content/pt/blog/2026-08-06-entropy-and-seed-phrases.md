@@ -72,7 +72,7 @@ A quantidade de números que podem ser representados com as 12 palavras é vasta
 
 Claro que mais palavras significam mais espaço, e portanto mais difícil de adivinhar. Mas às vezes o suficiente é suficiente.
 
-Só com 12 palavras, um computador rápido precisaria de 10 mil milhões de anos para verificar todos esses números e "roubar" todas as wallets de Bitcoin de 12 palavras. Se juntares todo o poder de mineração do Bitcoin e o redirecionares para adivinhar as seeds, demoraria 11 mil anos a fazer o mesmo.
+Só com 12 palavras, um computador rápido precisaria de cerca de 10²² anos — aproximadamente um bilião de vezes a idade do universo — para verificar todos esses números e "roubar" todas as wallets de Bitcoin de 12 palavras. Se juntares todo o poder de mineração do Bitcoin e o redirecionares para adivinhar as seeds, ainda assim demoraria cerca de 11 mil milhões de anos. E isto a ser generoso: os chips de mineração só sabem fazer SHA-256, enquanto verificar uma única seed phrase dá milhares de vezes mais trabalho do que um único hash.
 
 Para mim, isso é viável. Mas acrescentar uma palavra extra aumenta o tempo muuuuito mais. Tu é que sabes!
 
