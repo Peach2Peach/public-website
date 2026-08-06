@@ -16,8 +16,10 @@
     padding-top: var(--space-xxl);
     text-align: center;
 
+    /* Widened to match .web-app-hero-visual below so the video and the browser
+       mock line up. Text keeps its original 640px measure via the rules below. */
     & .web-app-hero-inner {
-      max-width: 640px;
+      max-width: 960px;
       margin-left: auto;
       margin-right: auto;
       display: flex;
@@ -27,6 +29,7 @@
     }
 
     & .web-app-hero-title {
+      max-width: 640px;
       font-size: clamp(2.2rem, 6vw, 3.2rem);
       line-height: 1.05;
       margin-bottom: 0;
@@ -34,8 +37,17 @@
     }
 
     & .web-app-hero-subtitle {
+      max-width: 640px;
       color: var(--color-neutral-65);
       margin-bottom: 0;
+    }
+
+    & .web-app-hero-video {
+      width: 100%;
+      margin-top: var(--space-s);
+      border-radius: 14px;
+      overflow: hidden;
+      box-shadow: 0 18px 44px -18px rgba(150, 54, 0, 0.35);
     }
 
     & .web-app-hero-actions {

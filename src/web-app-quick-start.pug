@@ -1,0 +1,20 @@
+extends /template.pug
+
+block main
+  section.wrap
+    .content-wrap.content-wrap--centered
+      //- The page's single h1, split out of the markdown via <!--[heading]-->
+      //- so the videos can sit under it without pushing it down the document.
+      != html.heading
+
+      section.quickstart-videos
+        h2.quickstart-videos-title !{i18n('webAppQuickStart.video.title', lang)}
+        .quickstart-video-list
+          section.quickstart-video
+            h3.quickstart-video-title !{i18n('webAppQuickStart.video.buy', lang)}
+            +youtubeEmbed("R8Yj8JL8Lqc", i18n('webAppQuickStart.video.buy', lang))
+          section.quickstart-video
+            h3.quickstart-video-title !{i18n('webAppQuickStart.video.sell', lang)}
+            +youtubeEmbed("07dUjaR-ivs", i18n('webAppQuickStart.video.sell', lang))
+
+      != html.guide

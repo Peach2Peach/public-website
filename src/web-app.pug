@@ -8,6 +8,7 @@ block main
     .web-app-hero-inner
       h1.web-app-hero-title.peach-text !{i18n('webApp.hero.title', lang)}
       p.web-app-hero-subtitle !{i18n('webApp.hero.subtitle', lang)}
+      +youtubeEmbed("R8Yj8JL8Lqc", i18n('webAppQuickStart.video.buy', lang))(class="web-app-hero-video")
       .web-app-hero-actions
         a.button.button--primary(href="https://web.peachbitcoin.com" target="_blank" rel="noopener")
           span !{i18n('webApp.hero.launchButton', lang)}

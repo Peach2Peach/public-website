@@ -166,11 +166,16 @@ html(lang=lang)
                 path(d="M7 10l5 5 5-5z")
             ul.nav-dropdown-menu
               li
-                +navItem("buy-bitcoin-no-id", i18n("nav.apps", lang))
+                a(href="https://web.peachbitcoin.com/#/market?type=buy" target="_blank" rel="noopener")= i18n("nav.buyBtc", lang)
               li
-                +navItem("for-meetups", i18n("nav.meetup", lang))
+                a(href="https://web.peachbitcoin.com/#/market?type=sell" target="_blank" rel="noopener")= i18n("nav.sellBtc", lang)
+              //- Hidden from the nav; the /buy-bitcoin-no-id/ page is still built and reachable
+              //- li
+              //-   +navItem("buy-bitcoin-no-id", i18n("nav.apps", lang))
           +navItem("for-businesses", i18n("nav.vip", lang))
-          +navItem("p2p-orderbook", i18n("orderbook.navTitle", lang))
+          //- Hidden from the nav; the /p2p-orderbook/ page is still built and
+          //- reachable, and still linked from the footer.
+          //- +navItem("p2p-orderbook", i18n("orderbook.navTitle", lang))
           +navItem("blog", i18n("blog", lang))
           +navItem("support", i18n("support", lang))
 

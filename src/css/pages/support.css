@@ -22,6 +22,10 @@
       background-color 0.3s ease, color 0.3s ease;
   }
 
+  .tips-button:has(+ .tips-button) {
+    margin-bottom: var(--space-m);
+  }
+
   .tips-button h3 {
     margin: 0;
     padding: 0;

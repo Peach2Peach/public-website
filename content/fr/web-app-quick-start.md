@@ -1,9 +1,14 @@
 ---
+template: web-app-quick-start
 title: Démarrage rapide de la web app Peach, Échangez du bitcoin depuis votre ordinateur
 description: Configurez la web app Peach en quelques minutes. Installez l'app mobile, connectez votre navigateur en scannant un code QR et échangez du bitcoin en peer-to-peer sur grand écran.
 ---
 
+<!--[heading]-->
+
 # Démarrage rapide de la web app
+
+<!--[guide]-->
 
 @[toc]
 

@@ -450,11 +450,7 @@
     display: flex;
     position: relative;
 
-    & video {
-      width: 100%;
-      height: auto;
-      display: block;
-    }
+    /* video + play button styling lives in base/video.css (.video-with-play) */
   }
 }
 

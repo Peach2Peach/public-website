@@ -1,9 +1,14 @@
 ---
+template: web-app-quick-start
 title: Inicio rápido de la web app de Peach, Opera con bitcoin desde tu escritorio
 description: Configura la web app de Peach en minutos. Instala la app móvil, empareja tu navegador escaneando un código QR y opera con bitcoin peer-to-peer en la pantalla grande.
 ---
 
+<!--[heading]-->
+
 # Inicio rápido de la web app
+
+<!--[guide]-->
 
 @[toc]
 

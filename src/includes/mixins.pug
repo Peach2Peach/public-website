@@ -10,6 +10,30 @@ mixin postPreview(post)
       small.date= displayDate(post.date)
       h3= post.title
 
+//- Inline video with a big centred play button. Pair with /js/video-play.js.
+mixin videoWithPlay(src, poster)
+  .video-with-play&attributes(attributes)
+    video(controls preload="metadata" poster=poster)
+      source(src=src type="video/mp4")
+      | Your browser does not support the video tag.
+    button.video-play-button(type="button" aria-label=i18n('video.play', lang))
+      //- No aria-hidden: elements.css hides [aria-hidden='true'] globally.
+      //- The button's aria-label already covers the icon for screen readers.
+      svg(viewBox="0 0 24 24" role="presentation" focusable="false")
+        path(d="M6.5 5v14l12-7z")
+
+//- Standard YouTube player in a responsive 16:9 frame. Uses the nocookie host,
+//- which is the same player without the tracking cookies.
+mixin youtubeEmbed(videoId, title)
+  .video-embed&attributes(attributes)
+    iframe(
+      src=`https://www.youtube-nocookie.com/embed/${videoId}`
+      title=title
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+    )
+
 mixin navItem(id, title)
   a(href=getUrl(`/${id}/`, lang) class=(permalink === id && 'current'))&attributes(attributes)= title
 

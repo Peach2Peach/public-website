@@ -2,6 +2,30 @@
    screenshots; the wide desktop captures on this page each take a full row,
    aligned to the body-text column */
 #web-app-quick-start {
+  /* Video tutorials sit above the written guide, aligned to the text column. */
+  & .quickstart-videos {
+    margin-bottom: var(--space-xxl);
+  }
+
+  /* The list owns the gap between videos, so the section heading keeps its own
+     (smaller) spacing instead of inheriting the between-videos gap. */
+  & .quickstart-video-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xl);
+  }
+
+  & .quickstart-video-title {
+    margin-top: 0;
+    margin-bottom: var(--space-s);
+  }
+
+  & .quickstart-video .video-embed {
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: 0 18px 44px -18px rgba(150, 54, 0, 0.35);
+  }
+
   /* The shared .quickstarts grid bleeds 100px past the text column on each side
      at large screens (see base/elements.css). On this long-form page the wide
      desktop captures should stay aligned to the body-text column, so cancel the

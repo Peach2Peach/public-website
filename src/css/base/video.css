@@ -1,0 +1,86 @@
+/* Responsive 16:9 frame for embedded players (YouTube). */
+.video-embed {
+  aspect-ratio: 16 / 9;
+
+  & iframe {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border: 0;
+  }
+}
+
+/* Self-hosted video: a poster-backed <video> with a big centred play
+   affordance. Used by the homepage explainer.
+   The button is only the circle, never a full-size overlay, so clicks outside
+   it still reach the native control bar. */
+
+.video-with-play {
+  position: relative;
+
+  & video {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  & .video-play-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 5.5rem;
+    height: 5.5rem;
+    padding: 0;
+    border: none;
+    border-radius: 50%;
+    background-color: var(--color-primary-main);
+    color: #fff;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.5rem rgb(0 0 0 / 30%);
+    transition: transform 0.18s ease, background-color 0.18s ease,
+      opacity 0.18s ease, visibility 0.18s ease;
+
+    /* Triangle bbox is centred on the viewBox with a small nudge right, which
+       optically centres a right-pointing shape. Don't add margin on top of it. */
+    & svg {
+      width: 45%;
+      height: 45%;
+      fill: currentcolor;
+      display: block;
+    }
+
+    &:hover {
+      background-color: var(--color-primary-dark-1);
+      transform: translate(-50%, -50%) scale(1.08);
+    }
+
+    &:focus-visible {
+      outline: 3px solid #fff;
+      outline-offset: 3px;
+    }
+
+    @media (--up_to_M) {
+      width: 3.75rem;
+      height: 3.75rem;
+    }
+  }
+
+  &.is-playing .video-play-button {
+    opacity: 0;
+    visibility: hidden;
+    transform: translate(-50%, -50%) scale(0.8);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .video-with-play .video-play-button {
+    transition: none;
+
+    &:hover {
+      transform: translate(-50%, -50%);
+    }
+  }
+}

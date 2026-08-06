@@ -1,9 +1,14 @@
 ---
+template: web-app-quick-start
 title: Peach Web App Quick Start, Trade Bitcoin from your Desktop
 description: Set up the Peach web app in minutes. Install the mobile app, pair your browser by scanning a QR code, and trade bitcoin peer-to-peer on the big screen.
 ---
 
+<!--[heading]-->
+
 # Web App Quick Start
+
+<!--[guide]-->
 
 @[toc]
 

@@ -1,9 +1,14 @@
 ---
+template: web-app-quick-start
 title: Início rápido da web app da Peach, Negocie bitcoin no seu desktop
 description: Configure a web app da Peach em minutos. Instale o app móvel, pareie seu navegador escaneando um código QR e negocie bitcoin peer-to-peer na tela grande.
 ---
 
+<!--[heading]-->
+
 # Início rápido da web app
+
+<!--[guide]-->
 
 @[toc]
 
