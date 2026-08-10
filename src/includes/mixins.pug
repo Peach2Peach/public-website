@@ -26,10 +26,17 @@ mixin videoWithPlay(src, poster)
 //- which is the same player without the tracking cookies.
 mixin youtubeEmbed(videoId, title)
   .video-embed&attributes(attributes)
+    //- referrerpolicy is required: the site is served with
+    //- `Referrer-Policy: same-origin`, which strips the Referer on cross-origin
+    //- requests. Without a referrer YouTube can't identify the embedding domain
+    //- and the player fails with "Error 153: Video player configuration error".
+    //- This overrides the document policy for this request only, and sends the
+    //- origin alone (https://peachbitcoin.com/), never the full path.
     iframe(
       src=`https://www.youtube-nocookie.com/embed/${videoId}`
       title=title
       loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
     )
