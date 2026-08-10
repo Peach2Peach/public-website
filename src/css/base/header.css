@@ -36,7 +36,9 @@
     --nav-font-size: 22px;
   }
   @media (--M_and_up) {
-    --logo-height: 3rem;
+    /* 2.6rem ≈ 52px, matching the size the logo used to land on in Chrome/Brave
+       back when its height was left for the layout to resolve. */
+    --logo-height: 2.6rem;
     --nav-font-size: 1rem;
   }
 
@@ -50,11 +52,15 @@
   & .brand {
     display: inline-flex;
     padding-right: 12px;
+    flex-shrink: 0;
   }
 
+  /* Explicit height, not `height: 100%`. The parent is an inline-flex item with
+     no definite height, so a percentage height has nothing to resolve against
+     and each engine guesses differently, which made the logo render smaller in
+     Safari than in Chrome. */
   & .logo {
-    max-height: var(--logo-height);
-    height: 100%;
+    height: var(--logo-height);
     width: auto;
     min-width: 95px;
     position: relative;
@@ -63,7 +69,7 @@
 
   @media (--up_to_L) {
     & .logo {
-      max-height: 3rem;
+      height: 3rem;
     }
   }
 }
