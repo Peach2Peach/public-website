@@ -11,7 +11,7 @@ keywords:
 tags:
   - Company
   - Rants and Opinions
-previewImage: /img/blog/peach-at-a-crossroads/cover.png
+previewImage: /img/blog/peach-at-a-crossroads/cover.jpg
 description: |
   Peach est à la croisée des chemins. Une lettre de notre fondatrice sur les débuts de Peach, comment nous sommes devenus une marketplace sans KYC licenciée en Suisse, ce que le régulateur a décidé cette année, et pourquoi nous mettons temporairement l'escrow en pause.
 ---

@@ -11,7 +11,7 @@ keywords:
 tags:
   - Company
   - Rants and Opinions
-previewImage: /img/blog/peach-at-a-crossroads/cover.png
+previewImage: /img/blog/peach-at-a-crossroads/cover.jpg
 description: |
   Peach steht am Scheideweg. Ein Brief unserer Gründerin darüber, wie Peach entstand, wie wir zu einem KYC-freien, in der Schweiz lizenzierten Marktplatz wurden, was der Regulator dieses Jahr entschieden hat und warum wir den Escrow vorübergehend pausieren.
 ---

@@ -11,7 +11,7 @@ keywords:
 tags:
   - Company
   - Rants and Opinions
-previewImage: /img/blog/peach-at-a-crossroads/cover.png
+previewImage: /img/blog/peach-at-a-crossroads/cover.jpg
 description: |
   Peach is at a crossroads. A letter from our founder about how Peach started, how we became a KYC-free marketplace licensed in Switzerland, what the regulator decided this year, and why we are temporarily pausing the escrow.
 ---

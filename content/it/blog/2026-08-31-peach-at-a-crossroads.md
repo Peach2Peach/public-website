@@ -11,7 +11,7 @@ keywords:
 tags:
   - Company
   - Rants and Opinions
-previewImage: /img/blog/peach-at-a-crossroads/cover.png
+previewImage: /img/blog/peach-at-a-crossroads/cover.jpg
 description: |
   Peach è a un bivio. Una lettera della nostra fondatrice su come è nata Peach, come siamo diventati un marketplace senza KYC con licenza in Svizzera, cosa ha deciso il regolatore quest'anno e perché mettiamo temporaneamente in pausa l'escrow.
 ---
