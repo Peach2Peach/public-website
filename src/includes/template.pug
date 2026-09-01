@@ -140,6 +140,8 @@ html(lang=lang)
           width="0" 
           style="display:none;visibility:hidden"
         )
+    button.trading-banner#trading-banner(type="button" aria-haspopup="dialog" aria-controls="trading-popup")
+      span.trading-banner-text !{i18n('tradingConditionsUpdate.banner', lang)}
     header.header.header-container#header
       .wrap
         a(href=getUrl("/", lang) class="logo-link").brand
@@ -306,6 +308,12 @@ html(lang=lang)
 
         div(style="text-align: right; margin-top: 20px;")
           button.save-btn(type="button", onclick="savePreferences()")= i18n("cookiePopup.savePreferences", lang)
+
+    #trading-popup.trading-popup(role="dialog" aria-modal="true" aria-labelledby="trading-popup-title")
+      .trading-popup-content
+        button.trading-popup-close#trading-popup-close(type="button" aria-label="Close") ×
+        h2#trading-popup-title= i18n("tradingConditionsUpdate.title", lang)
+        .trading-popup-text !{i18n('tradingConditionsUpdate.text', lang)}
 
     script(src=assetPath("/js/main.js"))
 

@@ -34,6 +34,9 @@
   --color-body-text: var(--color-neutral-100);
   --color-body-bg: var(--color-bg-main);
 
+  --color-banner-blue: #1668e3;
+  --color-banner-blue-dark: #0f52b5;
+
   --color-border-light: var(--color-neutral-25);
   --color-border-medium: var(--color-neutral-50);
 
@@ -75,6 +78,16 @@
   --font-size-xs: 0.85rem;
   --font-size-s: 0.925rem;
 
+  /* Site-wide notice banner sitting above the fixed header. --nav-height is the
+     header bar itself, --banner-height the strip above it, and --header-height
+     the combined height of the fixed chrome, which is what the rest of the CSS
+     offsets content by. The per-breakpoint values are fallbacks: main.js
+     measures the rendered banner and overrides --banner-height, so wrapped
+     text at any viewport or in any language still reserves the right space. */
+  --nav-height: 4rem;
+  --banner-height: 2.4rem;
+  --header-height: calc(var(--nav-height) + var(--banner-height));
+
   /* Content */
   --section-padding-bottom: var(--space-xxl);
 
@@ -84,7 +97,8 @@
     --font-size-xl: 1.4rem;
     --font-size-xxl: 1.6rem;
     --font-size-xxxl: 2.4rem;
-    --header-height: 4rem;
+    --nav-height: 4rem;
+    --banner-height: 3.6rem;
     --wrap-padding-horizontal: var(--space-l);
     --section-padding-top: var(--space-xl);
   }
@@ -94,7 +108,8 @@
     --font-size-xl: 1.5rem;
     --font-size-xxl: 1.75rem;
     --font-size-xxxl: 2.4rem;
-    --header-height: 4rem;
+    --nav-height: 4rem;
+    --banner-height: 2.6rem;
     --wrap-padding-horizontal: var(--space-xl);
     --section-padding-top: var(--space-xl);
   }
@@ -104,7 +119,8 @@
     --font-size-xl: 1.5rem;
     --font-size-xxl: 1.75rem;
     --font-size-xxxl: 2.4rem;
-    --header-height: 4rem;
+    --nav-height: 4rem;
+    --banner-height: 2.4rem;
     --wrap-padding-horizontal: var(--space-xxl);
     --section-padding-top: var(--space-xxl);
   }

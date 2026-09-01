@@ -238,5 +238,8 @@
   "webApp.faq.seeAll": "See all web app FAQs →",
   "reverseSolicitation": "Peach Bitcoin is a Swiss company and does not solicit, advertise, market, or target users in the EU/EEA. We do not promote our services to EU residents. Any access or use by EU/EEA users is strictly on their own exclusive initiative.",
   "downloadWarning": "Availability and use may be restricted or non-compliant in certain jurisdictions including the EU/EEA after July 1, 2026. Use at your own risk and ensure compliance with local laws.",
-  "kycQualifier": "No KYC where permitted by local law. Users are responsible for complying with all applicable regulations in their jurisdiction, including any KYC/AML requirements."
+  "kycQualifier": "No KYC where permitted by local law. Users are responsible for complying with all applicable regulations in their jurisdiction, including any KYC/AML requirements.",
+  "tradingConditionsUpdate.banner": "Peach has updated the trading conditions regarding the escrow configuration, press to read more!",
+  "tradingConditionsUpdate.title": "trading conditions updated",
+  "tradingConditionsUpdate.text": "Peach has some temporary changes to its trading system.\n\nFirst of all: only very highly trusted sellers with a long reputation at Peach can sell. Peach created a very demanding set of criteria to allow sellers to participate.\n\nTemporarily, Peach's escrow system doesn't have any control from Peach's part: the seller fully controls the escrowed BTC.\n\nIn case of dispute, Peach is still available to assist and mediate the dispute, and in ultimate cases provide full support if the seller is acting wrongfully.\n\nAny questions, please contact us directly!"
 }

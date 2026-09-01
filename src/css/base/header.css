@@ -1,20 +1,20 @@
 .header {
   position: fixed;
-  top: 0;
+  top: var(--banner-height);
   left: 0;
   right: 0;
   z-index: 10;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: var(--header-height);
+  height: var(--nav-height);
   background: var(--bg-gradient-peachy);
   padding: 0 15px;
 
   &::after {
     content: '';
     width: 100%;
-    height: var(--header-height);
+    height: var(--nav-height);
     position: absolute;
     bottom: 0;
     left: 0;

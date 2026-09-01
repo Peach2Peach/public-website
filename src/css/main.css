@@ -8,6 +8,7 @@
 @import 'base/utility.css';
 @import 'base/video.css';
 @import 'base/cookie-banner.css';
+@import 'base/trading-banner.css';
 
 /* Sections */
 @import 'pages/page.css';
